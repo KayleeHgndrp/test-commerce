@@ -40,7 +40,7 @@
     "Spanie w ciągu dnia częściej niż zwykle",
     "Pesymistyczne spojrzenie na przyszłość",
     "Mgła lub zamęt w głowie",
-    "Wstyd za samego siebie",
+    "Wstyd za siebie",
     "Nieregularny rytm snu",
     "Utrata zainteresowania hobby, na które zwykle się czeka",
     "Potrzeba odpoczynku lub położenia się w ciągu dnia",
@@ -68,7 +68,7 @@
     "Przygnębienie zaraz po przebudzeniu",
     "Obwinianie siebie, gdy coś idzie źle",
     "Trudności ze skupieniem się w pracy lub na nauce",
-    "Jedzenie wydaje się mdłe lub nieciekawe",
+    "Mdły lub nijaki smak jedzenia",
     "Poczucie, że nie da się jasno myśleć",
     "Poczucie, że nie ma się nic do zaoferowania",
     "Brak czegokolwiek, na co się czeka z radością",
@@ -139,7 +139,7 @@
       "name": "Obraz siebie",
       "short": "Jak bardzo odczuwasz krytycyzm wobec siebie, poczucie winy lub bezwartościowości.",
       "low": "Twoje odpowiedzi sugerują, że ostatnio traktujesz siebie stosunkowo życzliwie. Nie wydaje się, by przytłaczały cię poczucie winy czy surowa samokrytyka. Zrównoważony obraz siebie pomaga radzić sobie z niepowodzeniami i wspiera nastrój. Dalej zauważaj, co ci dobrze wychodzi, i traktuj siebie z takim samym zrozumieniem, jakie okazujesz dobremu przyjacielowi. Życzliwość wobec siebie nie jest słabością; ułatwia wyciąganie wniosków z błędów.",
-      "mid": "Twoje odpowiedzi sugerują, że przez sporą część dni dokuczały ci zwątpienie w siebie, poczucie winy lub krytyczny wewnętrzny głos. Takie myśli często stają się głośniejsze w stresie lub przy obniżonym nastroju. Spróbuj je zauważać i zadaj sobie pytanie, czy tak samo oceniłbyś przyjaciela. Codzienne zapisywanie drobnych rzeczy, które się udały, może stopniowo zrównoważyć twój obraz siebie.",
+      "mid": "Twoje odpowiedzi sugerują, że przez sporą część dni dokuczały ci zwątpienie w siebie, poczucie winy lub krytyczny wewnętrzny głos. Takie myśli często stają się głośniejsze w stresie lub przy obniżonym nastroju. Spróbuj je zauważać i zadaj sobie pytanie, czy przyjaciela też oceniasz tak surowo. Codzienne zapisywanie drobnych rzeczy, które się udały, może stopniowo zrównoważyć twój obraz siebie.",
       "high": "Twoje odpowiedzi sugerują, że w ciągu ostatnich dwóch tygodni często dokucza ci poczucie bezwartościowości, winy lub bardzo krytyczne nastawienie do siebie. Takie surowe myśli są częstą częścią depresji i nie odzwierciedlają twojej prawdziwej wartości. Porozmawiaj z lekarzem lub wykwalifikowanym specjalistą zdrowia psychicznego; terapia naprawdę może w tym pomóc. Jeśli pojawiają się u ciebie myśli o zrobieniu sobie krzywdy, natychmiast skontaktuj się z lokalnymi służbami ratunkowymi lub telefonem zaufania. Staraj się spędzać czas z ludźmi, którzy traktują cię życzliwie."
     }
   },

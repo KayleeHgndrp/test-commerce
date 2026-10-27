@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Tests de psicologia gratuïts en línia",
-    "description": "Tests en profunditat sobre personalitat, relacions, feina i benestar, basats en recerca psicològica consolidada i explicats amb un llenguatge planer."
+    "description": "Tests en profunditat sobre personalitat, relacions, feina i benestar, basats en recerca psicològica reconeguda i explicats amb claredat."
   },
   "nav": {
     "tests": "Tests",
@@ -12,9 +12,9 @@
   },
   "home": {
     "badge": "{count} tests · {languages} idiomes",
-    "heroTitle": "Els tests que revelen",
-    "heroHighlight": "la teva personalitat",
-    "heroSubtitle": "Tests en profunditat sobre personalitat, relacions i benestar, cadascun basat en recerca psicològica consolidada i explicat amb un llenguatge planer que de debò llegiràs fins al final.",
+    "heroTitle": "Els tests que revelen la teva",
+    "heroHighlight": "personalitat",
+    "heroSubtitle": "Tests en profunditat sobre personalitat, relacions i benestar, cadascun basat en recerca psicològica reconeguda i explicat amb un llenguatge clar que de debò llegiràs fins al final.",
     "heroCta": "Descobreix els nostres tests",
     "heroSecondary": "Com funciona",
     "trust1": "No cal cap compte",
