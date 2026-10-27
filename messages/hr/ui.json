@@ -12,9 +12,9 @@
   },
   "home": {
     "badge": "Testova: {count} · Jezika: {languages}",
-    "heroTitle": "Testovi koji otkrivaju tvoju",
+    "heroTitle": "Testovi koji otkrivaju vašu",
     "heroHighlight": "osobnost",
-    "heroSubtitle": "Detaljni testovi o osobnosti, odnosima i dobrobiti — svaki se temelji na priznatim psihološkim istraživanjima i objašnjen je jasnim jezikom koji ćeš stvarno pročitati do kraja.",
+    "heroSubtitle": "Detaljni testovi o osobnosti, odnosima i dobrobiti — svaki se temelji na priznatim psihološkim istraživanjima i objašnjen je jasnim jezikom koji ćete stvarno pročitati do kraja.",
     "heroCta": "Istražite naše testove",
     "heroSecondary": "Kako funkcionira",
     "trust1": "Bez registracije",

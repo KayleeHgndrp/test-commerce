@@ -12,9 +12,9 @@
   },
   "home": {
     "badge": "Testų: {count} · Kalbų: {languages}",
-    "heroTitle": "Testai, atskleidžiantys tavo",
+    "heroTitle": "Testai, atskleidžiantys jūsų",
     "heroHighlight": "asmenybę",
-    "heroSubtitle": "Išsamūs asmenybės, santykių ir gerovės testai — kiekvienas paremtas pripažintais psichologiniais tyrimais ir paaiškintas aiškia kalba, kurią tikrai perskaitysi iki galo.",
+    "heroSubtitle": "Išsamūs asmenybės, santykių ir gerovės testai — kiekvienas paremtas pripažintais psichologiniais tyrimais ir paaiškintas aiškia kalba, kurią tikrai perskaitysite iki galo.",
     "heroCta": "Peržiūrėti testus",
     "heroSecondary": "Kaip tai veikia",
     "trust1": "Paskyros nereikia",
