@@ -132,6 +132,7 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "fr/ui": () => import("@/messages/fr/ui.json").then((m) => m.default),
   "fr/tests/big-five": () => import("@/messages/fr/tests/big-five.json").then((m) => m.default),
   "fr/tests/16-types": () => import("@/messages/fr/tests/16-types.json").then((m) => m.default),
+  "fr/tests/disc": () => import("@/messages/fr/tests/disc.json").then((m) => m.default),
   "fr/tests/archetype": () => import("@/messages/fr/tests/archetype.json").then((m) => m.default),
   "fr/tests/character-strengths": () => import("@/messages/fr/tests/character-strengths.json").then((m) => m.default),
   "fr/tests/attachment": () => import("@/messages/fr/tests/attachment.json").then((m) => m.default),
@@ -198,6 +199,7 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "pl/tests/career": () => import("@/messages/pl/tests/career.json").then((m) => m.default),
   "pl/tests/autism": () => import("@/messages/pl/tests/autism.json").then((m) => m.default),
   "pl/tests/adhd": () => import("@/messages/pl/tests/adhd.json").then((m) => m.default),
+  "pl/tests/depression": () => import("@/messages/pl/tests/depression.json").then((m) => m.default),
   "pl/tests/bpd": () => import("@/messages/pl/tests/bpd.json").then((m) => m.default),
   "pl/tests/bipolar": () => import("@/messages/pl/tests/bipolar.json").then((m) => m.default),
   "pl/tests/burnout": () => import("@/messages/pl/tests/burnout.json").then((m) => m.default),
@@ -238,4 +240,5 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "sr/ui": () => import("@/messages/sr/ui.json").then((m) => m.default),
   "sq/ui": () => import("@/messages/sq/ui.json").then((m) => m.default),
   "mk/ui": () => import("@/messages/mk/ui.json").then((m) => m.default),
+  "ca/ui": () => import("@/messages/ca/ui.json").then((m) => m.default),
 };

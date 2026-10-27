@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "title": "{site} – Tests de psicologia gratuïts en línia",
+    "description": "Tests en profunditat sobre personalitat, relacions, feina i benestar, basats en recerca psicològica consolidada i explicats amb un llenguatge planer."
+  },
+  "nav": {
+    "tests": "Tests",
+    "pricing": "Preus",
+    "faq": "Preguntes freqüents",
+    "language": "Idioma",
+    "cta": "Comença un test"
+  },
+  "home": {
+    "badge": "{count} tests · {languages} idiomes",
+    "heroTitle": "Els tests que revelen",
+    "heroHighlight": "la teva personalitat",
+    "heroSubtitle": "Tests en profunditat sobre personalitat, relacions i benestar, cadascun basat en recerca psicològica consolidada i explicat amb un llenguatge planer que de debò llegiràs fins al final.",
+    "heroCta": "Descobreix els nostres tests",
+    "heroSecondary": "Com funciona",
+    "trust1": "No cal cap compte",
+    "trust2": "Pagament únic, sense subscripció",
+    "trust3": "L'informe directament a la teva safata",
+    "dimensionsTitle": "Ets molt més que una puntuació: descobreix totes les teves facetes.",
+    "dimensionsSubtitle": "Les àrees que els nostres tests mesuren més sovint, en personalitat, relacions i benestar.",
+    "dimensions": [
+      "🎯 Concentració",
+      "🔋 Energia social",
+      "🌊 Resposta a l'estrès",
+      "💞 Aferrament",
+      "⚖️ Decisions",
+      "🧭 Valors",
+      "💡 Creativitat",
+      "🪞 Autoconeixement",
+      "🛡️ Resiliència"
+    ],
+    "testsTitle": "Tria el teu test",
+    "testsSubtitle": "Tots els tests són gratuïts. Tria el que més et cridi l'atenció.",
+    "howTitle": "De la primera pregunta a l'informe complet en tres passos",
+    "steps": [
+      {
+        "title": "Tria un test",
+        "text": "Escull entre la nostra col·lecció de tests de personalitat, de relacions i de cribratge, tots basats en models psicològics consolidats."
+      },
+      {
+        "title": "Fes el test",
+        "text": "Respon 100 preguntes en una escala senzilla. La majoria de tests duren uns 5 minuts i el teu progrés es desa."
+      },
+      {
+        "title": "Llegeix el teu informe",
+        "text": "Rep un informe personal amb les teves puntuacions, què signifiquen i consells pràctics, directament a la teva safata."
+      }
+    ],
+    "pricingTitle": "Preus senzills",
+    "pricingSubtitle": "Un sol preu. Sense subscripció. Sense sorpreses.",
+    "planFreeName": "Fes el test",
+    "planFreePrice": "Gratuït",
+    "planFreeFeatures": [
+      "Tots els {count} tests, gratuïts",
+      "100 preguntes, uns 5 minuts",
+      "Progrés desat automàticament",
+      "Previsualització immediata de les àrees del teu resultat"
+    ],
+    "planReportName": "Informe complet",
+    "planReportPrice": "{price}",
+    "planReportPer": "pagament únic, per test",
+    "planReportFeatures": [
+      "La teva puntuació en cada dimensió",
+      "Interpretació personal de cada puntuació",
+      "Consells pràctics que pots aplicar de seguida",
+      "Enviat a la teva safata en pocs minuts",
+      "Sense subscripció ni renovació automàtica"
+    ],
+    "planCta": "Prova-ho ara",
+    "faqTitle": "Preguntes freqüents",
+    "faq": [
+      {
+        "q": "Què és {site}?",
+        "a": "{site} és una plataforma en línia amb tests d'autoavaluació en profunditat sobre personalitat, relacions, feina i benestar. Pots fer tots els tests gratuïtament i encarregar un informe personal detallat si vols saber-ne més."
+      },
+      {
+        "q": "Quant costa un test?",
+        "a": "Fer un test és gratuït. L'informe personal detallat costa {price}, amb un pagament únic. No hi ha cap subscripció i mai no se't tornarà a cobrar automàticament."
+      },
+      {
+        "q": "Com rebo el meu informe?",
+        "a": "Després del pagament, l'informe s'envia a l'adreça electrònica que has indicat, normalment en menys d'un minut. No el trobes? Revisa la carpeta de correu brossa o de promocions."
+      },
+      {
+        "q": "Puc tornar a fer un test?",
+        "a": "Sí, tantes vegades com vulguis. Repetir un test al cap d'unes setmanes és una bona manera de veure què ha canviat. Cada informe és una compra única independent."
+      },
+      {
+        "q": "És un diagnòstic mèdic?",
+        "a": "No. Els nostres tests estan pensats per a l'autoreflexió. Els tests de cribratge, com el de TDAH o el de depressió, poden indicar si té sentit parlar amb un professional, però mai no substitueixen l'avaluació d'un professional qualificat."
+      },
+      {
+        "q": "Com s'han creat aquests tests?",
+        "a": "Els nostres tests es basen en models psicològics consolidats com els Cinc Grans (Big Five), RIASEC i la teoria de l'aferrament. Els tests de depressió i de trauma també inclouen els qüestionaris de domini públic PHQ-9 i PCL-5, puntuats amb els seus punts de tall oficials."
+      },
+      {
+        "q": "Els resultats poden no ser fiables?",
+        "a": "Tot qüestionari té un marge d'error, i l'estat d'ànim del dia també hi pot influir. Respon amb sinceritat i sense pensar-hi massa, i considera el resultat un punt de partida per a la reflexió més que no pas un veredicte final."
+      },
+      {
+        "q": "Les meves dades es mantindran privades?",
+        "a": "Sí. No et cal cap compte. Les teves respostes només s'utilitzen per calcular el resultat i elaborar l'informe, i mai no venem les teves dades."
+      }
+    ],
+    "ctaTitle": "A punt per descobrir més coses sobre tu?",
+    "ctaButton": "Descobreix els nostres tests"
+  },
+  "categories": {
+    "personality": "Personalitat i tipus",
+    "relationships": "Relacions i emocions",
+    "work": "Feina i valors",
+    "screeners": "Tests de cribratge",
+    "wellbeing": "Benestar i hàbits"
+  },
+  "test": {
+    "start": "Comença el test",
+    "questions": "{count} preguntes",
+    "minutes": "{count} min",
+    "free": "Gratuït",
+    "aboutTitle": "Sobre aquest test",
+    "whatYouGet": "Què inclou el teu informe",
+    "whatYouGet1": "La teva puntuació en cada dimensió: {dimensions}",
+    "whatYouGet2": "Una interpretació personal de cada puntuació",
+    "whatYouGet3": "Consells pràctics que pots aplicar de seguida",
+    "otherTests": "Altres tests populars",
+    "question": "Pregunta {current} de {total}",
+    "back": "Enrere",
+    "next": "Següent",
+    "finish": "Mostra els meus resultats",
+    "chooseAnswer": "Tria la resposta que millor t'encaixi.",
+    "resume": "Tens un test sense acabar. Vols continuar on ho vas deixar?",
+    "resumeYes": "Continua",
+    "resumeNo": "Torna a començar",
+    "genderTitle": "Primer, una pregunta ràpida",
+    "genderQuestion": "Quin és el teu gènere?",
+    "genderMale": "Home",
+    "genderFemale": "Dona",
+    "genderOther": "Altre / prefereixo no dir-ho",
+    "screenerNote": "Aquest test és una eina de cribratge, no un diagnòstic."
+  },
+  "scales": {
+    "agree": [
+      "Totalment en desacord",
+      "En desacord",
+      "Ni d'acord ni en desacord",
+      "D'acord",
+      "Totalment d'acord"
+    ],
+    "frequency": [
+      "Mai",
+      "Rarament",
+      "De vegades",
+      "Sovint",
+      "Molt sovint"
+    ],
+    "phq": [
+      "Gens",
+      "Diversos dies",
+      "Més de la meitat dels dies",
+      "Gairebé cada dia"
+    ],
+    "intensity": [
+      "Gens",
+      "Una mica",
+      "Moderadament",
+      "Bastant",
+      "Moltíssim"
+    ]
+  },
+  "levels": {
+    "low": "Baix",
+    "mid": "Mitjà",
+    "high": "Alt"
+  },
+  "result": {
+    "title": "Els teus resultats ja estan a punt",
+    "subtitle": "Has completat el test {test}. Desbloqueja el teu informe personal complet per veure les teves puntuacions i què signifiquen.",
+    "mainType": "El teu tipus principal",
+    "locked": "Bloquejat",
+    "unlockTitle": "Obtén el teu informe complet",
+    "unlockText": "El teu informe detallat amb totes les puntuacions, interpretacions personals i consells pràctics, enviat al teu correu.",
+    "emailLabel": "Adreça electrònica",
+    "emailPlaceholder": "tu@exemple.cat",
+    "consent": "Accepto les condicions i la política de privadesa.",
+    "buy": "Obtén el meu informe per {price}",
+    "secure": "Pagament segur amb Stripe. Pagament únic, sense subscripció.",
+    "invalidEmail": "Introdueix una adreça electrònica vàlida.",
+    "consentRequired": "Accepta les condicions per continuar.",
+    "error": "Alguna cosa no ha funcionat. Torna-ho a provar.",
+    "noAnswers": "No hem trobat les teves respostes. Fes primer el test.",
+    "takeTest": "Fes el test",
+    "crisisTitle": "No estàs sol",
+    "crisisText": "Has indicat que has tingut pensaments que estaries millor mort o de fer-te mal. Si us plau, parla avui amb algú. Si et trobes en perill immediat, truca al 112. També pots contactar a qualsevol hora del dia amb una línia d'atenció en crisi del teu país, com les que trobaràs a findahelpline.com.",
+    "crisisLink": "Troba una línia d'ajuda a prop teu"
+  },
+  "thanks": {
+    "title": "Gràcies per la teva compra!",
+    "text": "El teu informe personal ja és de camí a la teva safata. Normalment arriba en menys d'un minut.",
+    "spam": "No l'has rebut al cap de 10 minuts? Revisa la carpeta de correu brossa o de promocions, o escriu-nos a {email}.",
+    "more": "Descobreix més tests"
+  },
+  "report": {
+    "subject": "El teu informe: {test}",
+    "greeting": "Hola,",
+    "intro": "Gràcies per fer el test {test} a {site}. Aquí tens el teu informe personal.",
+    "scoreLabel": "La teva puntuació",
+    "outro": "Esperem que aquest informe t'aporti idees útils. Tens curiositat per altres facetes teves? Descobreix tots els nostres tests a {url}.",
+    "signature": "L'equip de {site}",
+    "instrumentLabel": "{name}: {score} de {max}",
+    "typeLabel": "El teu tipus"
+  },
+  "footer": {
+    "tagline": "Coneix-te millor",
+    "about": "Tests d'autoconeixement en profunditat per a qui vol més que una etiqueta de quatre lletres.",
+    "company": "Empresa",
+    "home": "Inici",
+    "help": "Ajuda",
+    "contact": "Contacta'ns",
+    "legal": "Avís legal",
+    "privacy": "Política de privadesa",
+    "terms": "Termes i condicions",
+    "cookies": "Política de galetes",
+    "refund": "Política de reemborsament",
+    "rights": "© {year} {site}. Tots els drets reservats.",
+    "disclaimer": "{site} no és un servei mèdic. Per a qüestions clíniques, consulta un professional acreditat."
+  },
+  "legal": {
+    "privacyTitle": "Política de privadesa",
+    "privacyBody": [
+      "Només recollim les dades necessàries per oferir el nostre servei: les teves respostes al test i, si compres un informe, la teva adreça electrònica.",
+      "Les teves respostes es tracten per calcular el teu resultat. Quan compres un informe, les teves respostes i la teva adreça electrònica es comuniquen al nostre proveïdor de pagaments, Stripe, i al nostre proveïdor de correu electrònic per processar el pagament i lliurar l'informe.",
+      "No venem les teves dades ni les fem servir per a publicitat. En qualsevol moment pots demanar-nos que les suprimim escrivint a {email}.",
+      "Els pagaments els gestiona Stripe. Nosaltres no veiem ni desem mai les dades de la teva targeta."
+    ],
+    "termsTitle": "Condicions del servei",
+    "termsBody": [
+      "Tots els tests de {site} estan pensats per a l'autoreflexió i l'entreteniment. No constitueixen cap diagnòstic mèdic, psicològic ni professional.",
+      "Fer un test és gratuït. Un informe personal costa {price} per test, amb un pagament únic. L'informe es lliura en format digital per correu electrònic.",
+      "Com que l'informe és contingut digital lliurat immediatament després del pagament, acceptes que el dret de desistiment s'extingeix un cop s'ha enviat l'informe. Si no has rebut el teu informe, escriu a {email} i te'l tornarem a enviar o et reemborsarem l'import.",
+      "Fem tot el possible perquè el contingut sigui precís, però no podem garantir que els resultats siguin complets o correctes per a cada persona."
+    ],
+    "cookiesTitle": "Política de galetes",
+    "cookiesBody": [
+      "{site} no utilitza galetes publicitàries ni de seguiment.",
+      "Només desem al teu navegador les dades estrictament necessàries: l'idioma que has triat i el teu progrés en un test, perquè puguis continuar on ho vas deixar. Aquestes dades es queden al teu dispositiu.",
+      "Quan pagues, el nostre proveïdor de pagaments, Stripe, pot instal·lar galetes necessàries per processar el pagament de manera segura i prevenir el frau.",
+      "Tens preguntes? Escriu-nos a {email}."
+    ],
+    "refundTitle": "Política de reemborsament",
+    "refundBody": [
+      "Un informe costa {price} per test, amb un pagament únic. No hi ha subscripció ni renovació automàtica.",
+      "No has rebut el teu informe o alguna cosa ha anat malament? Escriu a {email} en un termini de 14 dies indicant l'adreça electrònica que vas fer servir, i et tornarem a enviar l'informe o et reemborsarem el pagament.",
+      "Com que l'informe és contingut digital que es lliura immediatament, el dret legal de desistiment s'extingeix un cop s'ha enviat. Tot i així, sempre t'ajudarem si alguna cosa no va bé.",
+      "Els reemborsaments es fan al mitjà de pagament original en un termini de 5 a 10 dies hàbils."
+    ]
+  }
+}
