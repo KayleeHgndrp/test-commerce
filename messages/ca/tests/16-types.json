@@ -1,0 +1,206 @@
+{
+  "name": "Test dels 16 tipus de personalitat",
+  "tagline": "Descobreix el teu tipus de quatre lletres i què diu de tu.",
+  "intro": "Aquest test et situa en quatre escales de preferència: d'on treus l'energia, com captes la informació, com prens decisions i com organitzes la teva vida. Les teves quatre preferències es combinen en un dels 16 tipus de personalitat. Valora 100 afirmacions breus; triga uns cinc minuts.",
+  "seoTitle": "Test dels 16 tipus de personalitat – Gratis",
+  "seoDescription": "Descobreix en 5 minuts el teu tipus de personalitat de quatre lletres, les teves preferències en cada escala i consells pràctics.",
+  "items": [
+    "Penso millor quan comento les idees amb altres persones.",
+    "Sovint penso en què ens pot portar el futur.",
+    "Prenc les decisions basant-me primer en la lògica.",
+    "M'agrada deixar les opcions obertes.",
+    "Confio més en els fets que en les intuïcions.",
+    "Després d'estar amb gent necessito temps a soles per recarregar-me.",
+    "M'agrada tenir el dia planificat.",
+    "Valoro com afecten les meves decisions els sentiments dels altres.",
+    "Conèixer gent nova em dona energia.",
+    "M'agrada descobrir patrons i significats ocults.",
+    "Valoro més la sinceritat que el tacte.",
+    "M'agrada decidir les coses sobre la marxa.",
+    "M'adono de petits detalls que als altres se'ls escapen.",
+    "Prefereixo una conversa profunda que moltes de lleugeres.",
+    "Sento alleujament un cop he pres una decisió.",
+    "Mantenir la pau és important per a mi.",
+    "M'agrada treballar en un espai obert i animat.",
+    "Els detalls rutinaris m'avorreixen.",
+    "Puc mantenir la distància emocional quan resolc un conflicte.",
+    "Treballo millor amb la pressió de l'últim moment.",
+    "Prefereixo instruccions pas a pas.",
+    "Penso bé les coses abans de dir-les.",
+    "Acabo les tasques molt abans del termini.",
+    "Decideixo més amb el cor que amb el cap.",
+    "M'afegeixo ràpidament a una conversa.",
+    "Confio en el meu instint sobre les possibilitats.",
+    "M'agrada analitzar els pros i els contres de manera objectiva.",
+    "Els horaris estrictes em limiten.",
+    "Em centro en el que està passant ara mateix.",
+    "Una vetllada tranquil·la a casa és el meu ideal.",
+    "M'agrada saber què m'espera.",
+    "Em costa criticar les persones que m'agraden.",
+    "Estar amb gent em carrega les piles.",
+    "M'agrada imaginar com podrien ser les coses d'una altra manera.",
+    "Les normes s'han d'aplicar a tothom de la mateixa manera.",
+    "Sovint porto diversos projectes alhora.",
+    "M'agraden les idees que tenen una utilitat pràctica clara.",
+    "Em guardo els pensaments fins que els tinc clars.",
+    "Faig llistes i les segueixo.",
+    "La història d'una altra persona m'emociona fàcilment.",
+    "M'agrada tenir un cercle d'amistats ampli.",
+    "Sovint llegeixo entre línies.",
+    "Assenyalo els punts febles d'un pla sense dubtar.",
+    "M'agrada veure on em porta el dia.",
+    "Recordo bé fets i xifres concrets.",
+    "Les multituds m'esgoten de seguida.",
+    "Prefereixo tancar els plans aviat.",
+    "Faig excepcions amb les persones que passen per situacions difícils.",
+    "Sovint comparteixo els meus pensaments a mesura que em vénen.",
+    "Prefereixo les teories a la feina pràctica.",
+    "Em convencen els arguments, no les emocions.",
+    "Canvio de plans fàcilment quan sorgeix alguna cosa millor.",
+    "Aprenc millor fent les coses amb les mans.",
+    "Prefereixo treballar pel meu compte que en equip.",
+    "Els assumptes pendents em neguitegen.",
+    "Vull que tothom se senti inclòs en una decisió.",
+    "Els caps de setmana plens de plans em fan feliç.",
+    "M'agrada parlar amb metàfores i imatges.",
+    "Prefereixo tenir raó que caure bé.",
+    "Ajorno les decisions fins que no tinc més remei que prendre-les.",
+    "Prefereixo els mètodes provats als que no s'han provat.",
+    "En grup deixo que els altres prenguin la paraula.",
+    "Tinc l'agenda al dia.",
+    "La tensió en un grup m'afecta profundament.",
+    "M'inquieto quan passo massa temps a soles.",
+    "Salto de seguida a la visió de conjunt.",
+    "Per a mi, ser just vol dir ser coherent.",
+    "Començo moltes coses i les acabo més tard.",
+    "Descric les coses de manera literal i precisa.",
+    "Prefereixo enviar un missatge que fer una trucada.",
+    "M'agrada acabar una tasca abans de començar-ne una altra.",
+    "La bondat m'importa més que tenir raó.",
+    "M'agrada anar parlant amb tothom als esdeveniments.",
+    "Les idees noves m'entusiasmen més que els fets pràctics.",
+    "Em resulta fàcil fer crítiques constructives.",
+    "Faig la maleta a l'últim moment.",
+    "Vull veure proves abans de creure'm una cosa.",
+    "Tinc un cercle petit d'amistats properes.",
+    "Em molesta que els plans canviïn a l'últim moment.",
+    "Sovint em prenc com una cosa personal les crítiques a la meva feina.",
+    "Començo converses fàcilment amb gent que no conec.",
+    "Sovint em salto les instruccions i ho descobreixo pel meu compte.",
+    "M'agrada debatre per posar a prova les idees.",
+    "Els dies sense plans em donen una sensació de llibertat.",
+    "M'agraden les tasques amb resultats concrets i visibles.",
+    "Un dia llarg de reunions em deixa sense energia.",
+    "Prefereixo una estructura clara a la feina.",
+    "Confio que els meus valors guiïn les meves decisions.",
+    "Prefereixo fer pluja d'idees en grup que pensar pel meu compte.",
+    "M'atrau el que és nou i no s'ha provat.",
+    "Jutjo una solució segons com funciona.",
+    "Adapto els plans al meu estat d'ànim.",
+    "Em baso en la meva experiència per resoldre problemes.",
+    "De vegades a la gent li costa llegir-me al principi.",
+    "Organitzo les vacances amb molta antelació.",
+    "Prefereixo animar que criticar.",
+    "Acostumo a ser dels primers a prendre la paraula.",
+    "Paro més atenció al present que al futur.",
+    "A la feina valoro més la competència que l'amabilitat.",
+    "M'agrada lligar els caps solts de seguida."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Extraversió vs. Introversió",
+      "short": "Si treus l'energia sobretot del món exterior de les persones i l'acció (E) o del teu món interior de pensaments i reflexió (I).",
+      "low": "Tendeixes a la Introversió (I). Et recarregues en la tranquil·litat, penses abans de parlar i prefereixes unes quantes converses profundes a moltes de breus. Sovint processes les idees per dins i les comparteixes quan ja les tens ben formades. Els dies socials intensos et poden deixar sense energia, fins i tot si els has gaudit. Consell: planifica temps de recuperació després dels esdeveniments socials intensos i veu-ho com a manteniment, no com a evitació. En grup, prepara les teves aportacions per avançat o fes-ne un seguiment per escrit perquè les teves idees se sentin.",
+      "mid": "Et situes a prop del mig entre l'Extraversió i la Introversió, així que la teva lletra pot canviar segons l'estat d'ànim o la situació. Gaudeixes de la companyia i l'activitat, però també necessites temps a soles per recarregar-te. Pots pensar en veu alta amb altres persones o reflexionar en silenci, segons la tasca. Consell: observa la teva energia després de diferents tipus de dies. Fes servir aquest coneixement per crear un ritme setmanal que combini el contacte social amb el temps tranquil en les proporcions que et vagin bé.",
+      "high": "Tendeixes a l'Extraversió (E). Treus energia de la gent, la conversa i l'activitat, i sovint penses millor parlant de les coses. T'impliques de seguida, ets una persona accessible i et sents còmode en grup. Passar molt de temps a soles et pot inquietar. Consell: abans de reaccionar en una discussió, fes una petita pausa i planteja primer una pregunta; dona espai a les persones més reservades i afina el teu propi pensament. Reserva petits moments de reflexió per processar el que vius."
+    },
+    "sensing": {
+      "name": "Sensació vs. Intuïció",
+      "short": "Si et centres sobretot en fets concrets, detalls i experiència (S) o en patrons, possibilitats i la visió de conjunt (N).",
+      "low": "Tendeixes a la Intuïció (N). Busques de manera natural el significat, els patrons i les possibilitats de futur, i gaudeixes de les idees, les teories i d'imaginar el que podria ser. Els detalls rutinaris et poden avorrir, i de vegades et saltes passos per arribar a la visió de conjunt. Consell: quan comparteixis una visió, afegeix-hi exemples concrets i passos següents perquè els altres et puguin seguir. Demana a un company detallista que revisi els teus plans per detectar-hi llacunes pràctiques abans de comprometre't.",
+      "mid": "Et situes a prop del mig entre la Sensació i la Intuïció, així que la teva lletra pot variar segons la situació. Pots treballar amb fets i detalls concrets, però també gaudeixes explorant idees i possibilitats. Això et permet fer de pont entre les persones pràctiques i les visionàries. Consell: fixa't quin mode adoptes per defecte sota pressió. En les decisions importants, comprova conscientment totes dues coses: què diuen els fets i quines opcions noves podria valer la pena considerar?",
+      "high": "Tendeixes a la Sensació (S). Confies en els fets, l'experiència i el que pots veure i comprovar. T'adones dels detalls, prefereixes instruccions clares i t'agraden les idees amb utilitat pràctica. La gent confia en el teu realisme i la teva precisió. Consell: quan els altres comparteixin idees abstractes, dona'ls un moment abans de jutjar si són pràctiques; algunes poden acabar sent útils. De tant en tant, prova d'imaginar cap on podria portar una tendència d'aquí a cinc anys per ampliar la teva mirada."
+    },
+    "thinking": {
+      "name": "Pensament vs. Sentiment",
+      "short": "Si prens les decisions sobretot amb lògica i anàlisi objectiva (T) o segons els teus valors personals i l'impacte en les persones (F).",
+      "low": "Tendeixes al Sentiment (F). Prens les decisions sospesant els valors, les relacions i com afectaran les persones. Valores l'harmonia, aprecies l'amabilitat i captes ràpidament què necessiten els altres. Sovint la gent se sent compresa per tu. Consell: quan una decisió sigui difícil, apunta també els pros i els contres objectius; et pot ajudar a explicar la teva elecció. Recorda que un feedback sincer, donat amb calidesa, també és una manera de cuidar.",
+      "mid": "Et situes a prop del mig entre el Pensament i el Sentiment, així que la teva lletra pot variar segons la situació. Quan decideixes, tens en compte tant la lògica com l'impacte humà, i això t'ajuda a trobar solucions justes i equilibrades. Consell: fixa't si et recolzes en la lògica a la feina i en els sentiments a casa, o a l'inrevés. En les decisions clau, comprova conscientment totes dues coses: és sòlida i és justa per a les persones implicades?",
+      "high": "Tendeixes al Pensament (T). Decideixes amb lògica, coherència i anàlisi objectiva. Valores la justícia entesa com aplicar les mateixes normes a tothom, i pots donar un feedback dur sense deixar-te endur per les emocions. Consell: abans de fer una crítica, reconeix l'esforç o la intenció que hi ha darrere la feina de l'altra persona. Pregunta't com viuran una decisió les persones afectades; sovint millora l'acceptació sense afeblir el teu raonament."
+    },
+    "judging": {
+      "name": "Judici vs. Percepció",
+      "short": "Si prefereixes una vida planificada, decidida i estructurada (J) o una vida flexible, oberta i espontània (P).",
+      "low": "Tendeixes a la Percepció (P). T'agrada deixar les opcions obertes, adaptar-te sobre la marxa i decidir quan cal. Sovint treballes a ratxes d'energia i els horaris rígids t'encotillen. Això et fa flexible i enginyós quan els plans canvien. Consell: fes servir una estructura lleugera per al que és essencial, com un sol sistema de recordatoris de terminis. Divideix els projectes grans en petites fites perquè l'esprint final no sigui estressant.",
+      "mid": "Et situes a prop del mig entre el Judici i la Percepció, així que la teva lletra pot variar. T'agrada tenir un pla, però el pots deixar fàcilment quan sorgeix alguna cosa millor. Pots complir els terminis i alhora gaudir de l'espontaneïtat. Consell: fixa't on una mica més de planificació et reduiria l'estrès, per exemple en els viatges o els diners, i on més flexibilitat hi afegiria diversió. Ajusta-ho de manera conscient i no per inèrcia.",
+      "high": "Tendeixes al Judici (J). T'agrada planificar amb antelació, prendre decisions i tancar els temes. Els horaris, les llistes i els terminis clars et donen una sensació de control, i normalment acabes les tasques molt abans de l'últim moment. Consell: deixa una mica d'espai obert en els teus plans perquè les sorpreses no et descol·loquin. Quan altres persones treballin d'una manera més lliure, poseu-vos d'acord en els terminis clau i deixa que triïn com hi arriben."
+    }
+  },
+  "summary": "El teu tipus combina quatre preferències: Extraversió o Introversió (E/I), Sensació o Intuïció (S/N), Pensament o Sentiment (T/F) i Judici o Percepció (J/P). Cada escala mostra fins a quin punt t'inclines cap a un costat; les puntuacions properes al 50 % volen dir que fas servir tots dos costats amb força flexibilitat. Els tipus descriuen preferències, no capacitats, i cap tipus és millor que un altre.",
+  "types": {
+    "ISTJ": {
+      "name": "L'Àncora",
+      "text": "Tens constància, rigor i una fiabilitat profunda. Respectes els fets, compleixes les promeses i treballes les tasques de manera metòdica fins que estan ben fetes. La gent compta amb tu perquè fas el que dius. Prefereixes expectatives clares i mètodes provats, i detectes errors que als altres se'ls escapen. La teva força serena manté units equips i famílies. Consell per créixer: mantén-te obert a enfocaments nous, encara que la manera antiga funcioni; de vegades un experiment aporta una millora real. Expressa en veu alta l'estima que sents pels altres, perquè la teva lleialtat no sempre es veu. Reserva temps per descansar sense haver-te'l de guanyar primer."
+    },
+    "ISFJ": {
+      "name": "El Guardià",
+      "text": "Ets una persona atenta, conscienciosa i discretament entregada. Recordes el que és important per a la gent, t'adones de les seves necessitats i ajudes de manera pràctica, sovint sense que t'ho demanin. Valores la tradició, l'estabilitat i l'harmonia, i t'esforces molt perquè els altres se sentin segurs i còmodes. La teva bondat és d'aquelles constants en què la gent confia durant anys. Consell per créixer: les teves necessitats mereixen la mateixa atenció que dediques als altres, així que practica dir que no sense culpa. Digues-ho quan alguna cosa et molesti en lloc d'empassar-t'ho en silenci. Deixar que els altres et donin suport enforteix les relacions en lloc de ser-los una càrrega."
+    },
+    "INFJ": {
+      "name": "El Visionari Silenciós",
+      "text": "Combines una comprensió profunda de les persones amb un fort sentit del propòsit. Captes els corrents de fons en les relacions, penses a llarg termini i vols que la teva vida contribueixi a alguna cosa amb sentit. Ets una persona reservada però càlida, i qui deixes entrar se sent realment vist. Els teus ideals et donen direcció i determinació. Consell per créixer: el teu alt nivell d'exigència es pot convertir en esgotament o decepció quan la realitat no hi arriba, així que celebra el progrés, no només la perfecció. Comparteix les teves idees abans, en lloc d'esperar que estiguin del tot formades. Protegeix la teva energia posant límits abans de sentir-te desbordat, no després."
+    },
+    "INTJ": {
+      "name": "El Gran Estrateg",
+      "text": "Tens independència, capacitat analítica i la mirada posada en objectius a llarg termini. Veus com encaixen els sistemes, detectes ràpidament les ineficiències i t'agrada dissenyar maneres millors de fer les coses. Confies en el teu propi raonament i estàs disposat a anar pel teu compte per assolir una visió. La teva determinació pot convertir idees ambicioses en realitat. Consell per créixer: potser els altres no segueixen la teva lògica tan de pressa com tu, així que explica el teu raonament pas a pas i demana opinió. Recorda que els sentiments de la gent també són dades. Deixa espai per a primeres versions imperfectes; sovint el progrés guanya a un pla perfecte que s'espera."
+    },
+    "ISTP": {
+      "name": "El Manetes",
+      "text": "Tens calma, sentit pràctic i curiositat per saber com funcionen les coses. T'agrada entendre els problemes amb les mans, desmuntar coses i trobar solucions eficients. En una crisi mantens la sang freda i actues amb decisió mentre els altres encara parlen. Valores la llibertat i no t'agraden les normes innecessàries ni les reunions llargues. Consell per créixer: comparteix el que penses amb els altres més sovint, perquè el teu silenci es pot interpretar com a desinterès. Comprometent-te amb uns quants objectius a llarg termini, les teves moltes habilitats construiran alguna cosa més gran. Fes saber a les persones properes què sents; unes petites paraules d'estima tenen molt de pes."
+    },
+    "ISFP": {
+      "name": "L'Artista Sensible",
+      "text": "Tens sensibilitat, bondat i una connexió especial amb la bellesa i el moment present. T'expresses més amb fets i creativitat que amb paraules, i valores l'autenticitat i la llibertat. Ets una persona tolerant, oberta i lleial a la gent i les causes que t'importen. La teva presència amable fa que els altres se sentin acceptats. Consell per créixer: potser evites els conflictes fins que la frustració s'acumula, així que practica expressar les petites preocupacions aviat. Converteix els teus valors en uns quants objectius concrets per donar direcció al teu talent. Creu prou en la teva feina per ensenyar-la; la teva mirada mereix ser vista."
+    },
+    "INFP": {
+      "name": "El Somiador",
+      "text": "Tens idealisme, imaginació i uns valors interiors forts que et guien. Busques sentit en tot el que fas i t'importa molt l'autenticitat, en tu i en els altres. Entens bé els sentiments i sovint els expresses a través de l'escriptura, l'art o converses profundes. Ets una persona amable, oberta i lleial al que creus. Consell per créixer: els teus ideals són una brúixola, però la realitat poques vegades és perfecta; fes petits passos pràctics en lloc d'esperar el moment ideal. Tingues amb tu la mateixa compassió que tens amb els altres. Comparteix els teus somnis amb persones que et puguin ajudar a fer-los realitat."
+    },
+    "INTP": {
+      "name": "El Resolutor d'Enigmes",
+      "text": "Tens una ment lògica, inventiva i amb una curiositat infinita. T'encanta analitzar idees, trobar incoherències i construir teories que expliquin com funcionen realment les coses. Penses amb independència i gaudeixes de les converses profundes sobre temes complexos. La teva ment pot veure solucions originals que als altres se'ls escapen. Consell per créixer: les idees assoleixen el seu potencial quan es comparteixen i s'apliquen, així que fixa't petits terminis per acabar i presentar la teva feina. Para atenció als detalls pràctics i a com se senten els altres, que importen encara que semblin il·lògics. Connecta amb gent que comparteixi els teus interessos; t'estimularan el pensament."
+    },
+    "ESTP": {
+      "name": "L'Inconformista",
+      "text": "Tens energia, audàcia i una gran orientació a l'acció. Vius el moment, llegeixes les situacions de pressa i et mous com peix a l'aigua quan les coses van ràpid. Gaudeixes dels reptes, corres riscos intel·ligents i resols problemes pràctics al moment. La gent se sent atreta per la teva seguretat i el teu sentit de l'humor. Consell per créixer: pensa en les conseqüències a llarg termini abans de llançar-te, sobretot en temes de diners i de relacions. Practica la paciència amb els processos lents i amb les persones que necessiten més temps per decidir. Pensa en com arriba el teu estil directe a les persones sensibles; una mica de tacte fa que la teva influència sigui encara més forta."
+    },
+    "ESFP": {
+      "name": "L'Espurna",
+      "text": "Tens vitalitat, calidesa i ganes de passar-ho bé. Omples d'energia qualsevol lloc, gaudeixes de la gent i de les experiències, i fas que els moments quotidians siguin especials. Ets una persona pràctica, generosa i de seguida ajudes algú que ho passa malament. El teu entusiasme és contagiós i a la gent li agrada estar amb tu. Consell per créixer: planificar pot semblar avorrit, però una mica d'estructura en les finances i els objectius a llarg termini et dona més llibertat després. Afronta les converses difícils en lloc de distreure't. Reserva't moments tranquils per pensar què vols de debò, no només què et fa sentir bé ara mateix."
+    },
+    "ENFP": {
+      "name": "L'Inspirador",
+      "text": "Tens entusiasme, creativitat i el cap ple de possibilitats. Connectes fàcilment amb la gent, veus potencial a tot arreu i t'encanta començar projectes i converses noves. La teva calidesa i la teva imaginació animen els altres a somiar més a lluny. Valores la llibertat, l'autenticitat i les relacions amb sentit. Consell per créixer: les teves moltes idees necessiten focus per convertir-se en resultats, així que tria unes quantes prioritats i porta-les fins al final. Crea rutines senzilles per a les tasques pràctiques que et semblen avorrides. Quan l'ànim et baixi després de l'emoció d'un nou començament, recorda que bona part de la recompensa real és en la constància."
+    },
+    "ENTP": {
+      "name": "L'Innovador",
+      "text": "Tens enginy, inventiva i t'encanta un bon debat. Veus angles nous en problemes vells, qüestiones els supòsits i gaudeixes experimentant amb les idees. T'adaptes de pressa i et motiven els reptes complexos i la gent brillant. La teva curiositat t'empeny a millorar gairebé tot el que toques. Consell per créixer: no cal guanyar totes les discussions, i hi ha qui viu el debat com un conflicte, així que llegeix l'ambient. Porta fins al final les teves millors idees en lloc de passar massa aviat a la següent. Fes equip amb persones detallistes que t'ajudin a convertir els conceptes en realitat."
+    },
+    "ESTJ": {
+      "name": "El Capità",
+      "text": "Tens organització, decisió i sentit pràctic. T'agraden els objectius clars, els processos eficients i tirar les coses endavant. Assumeixes responsabilitats amb naturalitat, poses el llistó alt i t'assegures que els plans es compleixin. La gent aprecia la teva franquesa i la teva fiabilitat. Consell per créixer: el teu estil eficient pot semblar controlador, així que demana l'opinió dels altres abans de decidir i explica el perquè. Mantén-te obert a mètodes nous encara que l'actual funcioni. Reconeix l'esforç de la gent, no només els resultats; el reconeixement motiva tant com les instruccions clares."
+    },
+    "ESFJ": {
+      "name": "L'Amfitrió",
+      "text": "Ets una persona sociable, atenta i amb esperit de comunitat. T'adones del que necessita la gent, fas que se sentin benvinguts i t'agrada reunir els altres. Valores l'harmonia, la lleialtat i la tradició, i t'esforces de debò perquè les relacions i els grups funcionin bé. Al teu costat, la gent se sent ben cuidada. Consell per créixer: potser et prens les crítiques o els conflictes com una cosa personal, així que recorda't que un desacord no és un rebuig. Pregunta't si ajudes perquè vols o perquè sents que hi estàs obligat. Fes lloc a les teves pròpies necessitats i opinions; importen tant com les de qualsevol altra persona."
+    },
+    "ENFJ": {
+      "name": "El Mentor",
+      "text": "Tens calidesa, capacitat d'inspirar i la mirada posada en ajudar la gent a créixer. Llegeixes bé els altres, fas sortir el millor de cadascú i uneixes els grups al voltant d'un propòsit comú. Comuniques amb entusiasme i convicció, i et sents responsable del benestar de qui t'envolta. Sovint la gent et demana orientació. Consell per créixer: no pots carregar amb tothom, així que deixa que els altres es responsabilitzin de les seves decisions. Fixa't quan assumeixes massa compromisos o descuides les teves necessitats. Accepta que algunes persones no estaran d'acord amb tu; que triïn un altre camí no diu res del teu valor."
+    },
+    "ENTJ": {
+      "name": "El Líder",
+      "text": "Tens seguretat, visió estratègica i ganes d'aconseguir coses. Veus el conjunt, et marques objectius ambiciosos i organitzes persones i recursos per assolir-los. Prens decisions de pressa, et comuniques amb claredat i no tens por dels reptes ni de la responsabilitat. Sovint els altres esperen que tu lideris. Consell per créixer: la teva rapidesa i la teva franquesa poden aclaparar la gent, així que alenteix el ritme per escoltar i reconèixer els sentiments. Recorda que la motivació creix quan la gent se sent escoltada, no només dirigida. Fes lloc al descans i a les relacions; l'èxit a llarg termini depèn de més coses que els resultats."
+    }
+  }
+}
