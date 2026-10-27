@@ -38,7 +38,7 @@
     "Darbo dienomis man sunku išsikelti iš lovos.",
     "Jaučiu, kad mano indėlis į komandą menkas.",
     "Tikiu savo organizacijos tikslais.",
-    "Dienos metu jaučiu fizinę žvalumą ir energiją.",
+    "Dienos metu jaučiu fizinį žvalumą ir energiją.",
     "Skaičiuoju valandas iki darbo dienos pabaigos.",
     "Galiu gerai susikaupti atliekant sudėtingas užduotis.",
     "Nerimauju, kad kiti pastebės, jog mano darbo rezultatai suprastėjo.",
@@ -69,9 +69,9 @@
     "Jaučiu, kad mano organizacijai nerūpi tokie žmonės kaip aš.",
     "Jaučiu, kad įstrigau ir negaliu judėti į priekį.",
     "Mane erzina, kai žmonės darbe manęs ko nors prašo.",
-    "Pabundu pailsėjęs ir pasiruošęs dienai.",
+    "Pabundu žvaliai ir su noru pradėti dieną.",
     "Atidėlioju užduotis, nes abejoju, ar sugebėsiu jas atlikti.",
-    "Pametu siūlą, ką buvau bedarąs.",
+    "Pametu siūlą ir nebeprisimenu, ką dariau.",
     "Nauji iššūkiai darbe man kelia smalsumą.",
     "Mane užgriūva darbų gausa.",
     "Jaučiu kartėlį dėl to, kaip susiklostė mano darbas.",
@@ -83,10 +83,10 @@
     "Darbo dienos metu kūnas atrodo sunkus ir lėtas.",
     "Abejoju, ar gerai atlieku savo darbą.",
     "Padarau daugiau nei reikia, nes man rūpi.",
-    "Po savaitgalio grįžtu pailsėjęs.",
+    "Po savaitgalio grįžtu su atgautomis jėgomis.",
     "Darau tik būtiniausią minimumą.",
     "Vengiu sudėtingų užduočių, kurios anksčiau būtų teikusios malonumą.",
-    "Grįžęs namo užsipuolu artimus žmones.",
+    "Grįžus namo užsipuolu artimus žmones.",
     "Darbo problemas sprendžiu kūrybiškai.",
     "Naujuose projektuose matau tik dar daugiau beprasmio darbo.",
     "Skundžiuosi darbu dažniau nei anksčiau.",
@@ -104,7 +104,7 @@
     "Laikausi atstumo nuo žmonių, su kuriais dirbu.",
     "Darbe lengvai išmokstu naujų dalykų.",
     "Vakarus naudoju darbams pasivyti.",
-    "Užmiegu galvodamas apie nebaigtas užduotis."
+    "Užmiegu su mintimis apie nebaigtas užduotis."
   ],
   "dimensions": {
     "exhaustion": {
