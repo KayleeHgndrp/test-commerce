@@ -325,6 +325,7 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "ro/tests/disc": () => import("@/messages/ro/tests/disc.json").then((m) => m.default),
   "ro/tests/archetype": () => import("@/messages/ro/tests/archetype.json").then((m) => m.default),
   "ro/tests/character-strengths": () => import("@/messages/ro/tests/character-strengths.json").then((m) => m.default),
+  "ro/tests/strengths": () => import("@/messages/ro/tests/strengths.json").then((m) => m.default),
   "ro/tests/attachment": () => import("@/messages/ro/tests/attachment.json").then((m) => m.default),
   "ro/tests/love-style": () => import("@/messages/ro/tests/love-style.json").then((m) => m.default),
   "ro/tests/eq": () => import("@/messages/ro/tests/eq.json").then((m) => m.default),
