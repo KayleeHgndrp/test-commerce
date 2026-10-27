@@ -1,0 +1,206 @@
+{
+  "name": "Próf um 16 persónuleikagerðir",
+  "tagline": "Finndu fjögurra stafa gerðina þína og hvað hún segir um þig.",
+  "intro": "Þetta próf staðsetur þig á fjórum kvörðum: hvaðan þú færð orku, hvernig þú tekur inn upplýsingar, hvernig þú tekur ákvarðanir og hvernig þú skipuleggur líf þitt. Saman mynda þessar fjórar tilhneigingar eina af 16 persónuleikagerðum. Þú metur 100 stuttar fullyrðingar; það tekur um fimm mínútur.",
+  "seoTitle": "16 persónuleikagerðir – Ókeypis próf",
+  "seoDescription": "Finndu fjögurra stafa persónuleikagerðina þína á 5 mínútum. Sjáðu tilhneigingar þínar á hverjum kvarða og lestu lýsingu á gerðinni með hagnýtum ráðum.",
+  "items": [
+    "Ég hugsa best þegar ég ræði hugmyndir við aðra.",
+    "Ég velti oft fyrir mér hvað framtíðin gæti borið í skauti sér.",
+    "Ég tek ákvarðanir fyrst og fremst út frá rökum.",
+    "Mér finnst gott að halda möguleikunum opnum.",
+    "Ég treysti staðreyndum betur en hugboðum.",
+    "Eftir samveru með fólki þarf ég einveru til að hlaða batteríin.",
+    "Mér finnst gott að hafa daginn skipulagðan.",
+    "Ég hugleiði hvaða áhrif val mitt hefur á tilfinningar annarra.",
+    "Að kynnast nýju fólki gefur mér kraft.",
+    "Mér þykir gaman að finna dulin mynstur og merkingu.",
+    "Ég met heiðarleika meira en háttvísi.",
+    "Mér þykir gaman að ákveða hluti í hita augnabliksins.",
+    "Ég tek eftir smáatriðum sem aðrir missa af.",
+    "Ég kýs eitt djúpt samtal fram yfir mörg yfirborðskennd.",
+    "Mér léttir þegar búið er að taka ákvörðun.",
+    "Mér er mikilvægt að halda friðinn.",
+    "Mér líkar að vinna í opnu og líflegu rými.",
+    "Mér leiðast venjubundin smáatriði.",
+    "Ég get haldið hlutlausri fjarlægð þegar ég leysi ágreining.",
+    "Ég vinn best undir pressu á síðustu stundu.",
+    "Ég kýs leiðbeiningar skref fyrir skref.",
+    "Ég hugsa hlutina til enda áður en ég segi þá.",
+    "Ég klára verkefni vel fyrir skilafrest.",
+    "Ég tek ákvarðanir meira með hjartanu en höfðinu.",
+    "Ég blanda mér fljótt í samræður.",
+    "Ég treysti innsæinu þegar kemur að möguleikum.",
+    "Mér finnst gott að greina kosti og galla á hlutlægan hátt.",
+    "Mér finnst strangar tímaáætlanir hefta mig.",
+    "Ég einbeiti mér að því sem er að gerast hér og nú.",
+    "Rólegt kvöld heima er draumurinn minn.",
+    "Mér finnst gott að vita við hverju ég má búast.",
+    "Ég á erfitt með að gagnrýna fólk sem mér líkar við.",
+    "Að vera innan um fólk hleður batteríin mín.",
+    "Mér finnst gaman að ímynda mér hvernig hlutirnir gætu verið öðruvísi.",
+    "Reglur eiga að gilda eins fyrir alla.",
+    "Ég er oft með mörg verkefni í gangi í einu.",
+    "Mér líkar hugmyndir sem hafa skýrt hagnýtt gildi.",
+    "Ég held hugsunum mínum fyrir mig þar til þær eru orðnar skýrar.",
+    "Ég geri lista og fylgi þeim.",
+    "Saga annarrar manneskju snertir mig auðveldlega.",
+    "Mér finnst gott að eiga stóran vinahóp.",
+    "Ég les oft á milli línanna.",
+    "Ég bendi hiklaust á galla í áætlunum.",
+    "Mér finnst gaman að sjá hvert dagurinn leiðir mig.",
+    "Ég man vel ákveðnar staðreyndir og tölur.",
+    "Mannfjöldi þreytir mig fljótt.",
+    "Ég vil helst negla niður áætlanir snemma.",
+    "Ég geri undantekningar fyrir fólk í erfiðum aðstæðum.",
+    "Ég deili oft hugsunum mínum um leið og þær koma upp.",
+    "Ég kýs kenningar fram yfir verklega vinnu.",
+    "Rök sannfæra mig, ekki tilfinningar.",
+    "Ég breyti áætlunum auðveldlega þegar eitthvað betra býðst.",
+    "Ég læri best með því að gera hlutina með eigin höndum.",
+    "Mér hentar betur að vinna á eigin spýtur en í teymi.",
+    "Óklárað mál veldur mér óþægindum.",
+    "Ég vil að öllum finnist þeir hafa átt hlut í ákvörðun.",
+    "Helgar fullar af plönum gleðja mig.",
+    "Mér finnst gaman að tala í myndlíkingum og myndum.",
+    "Ég vil frekar hafa rétt fyrir mér en að fólki líki vel við mig.",
+    "Ég fresta ákvörðunum þar til ég neyðist til að taka þær.",
+    "Ég kýs reyndar aðferðir fram yfir óprófaðar.",
+    "Ég leyfi öðrum að hafa orðið í hópum.",
+    "Ég held dagatalinu mínu uppfærðu.",
+    "Spenna í hópi hefur djúp áhrif á mig.",
+    "Of löng einvera vekur hjá mér eirðarleysi.",
+    "Ég stekk fljótt að heildarmyndinni.",
+    "Fyrir mér þýðir sanngirni samkvæmni.",
+    "Ég byrja á mörgu og klára það seinna.",
+    "Ég lýsi hlutum bókstaflega og nákvæmlega.",
+    "Ég sendi frekar skilaboð en að hringja.",
+    "Mér finnst gott að ljúka einu verkefni áður en ég byrja á öðru.",
+    "Góðvild skiptir mig meira máli en að hafa rétt fyrir mér.",
+    "Mér finnst gaman að blanda geði við fólk á viðburðum.",
+    "Nýjar hugmyndir heilla mig meira en hagnýtar staðreyndir.",
+    "Mér finnst auðvelt að gefa gagnrýna endurgjöf.",
+    "Ég pakka í töskuna á allra síðustu stundu.",
+    "Ég vil sjá sannanir áður en ég trúi einhverju.",
+    "Ég á lítinn hóp af nánum vinum.",
+    "Það pirrar mig þegar áætlanir breytast á síðustu stundu.",
+    "Ég tek gagnrýni á verk mín oft persónulega.",
+    "Ég á auðvelt með að spjalla við ókunnugt fólk.",
+    "Ég sleppi oft leiðbeiningunum og finn út úr hlutunum á eigin spýtur.",
+    "Mér finnst gaman að rökræða til að prófa hugmyndir.",
+    "Opnir og óskipulagðir dagar veita mér frelsistilfinningu.",
+    "Mér líkar verkefni með áþreifanlegum og sýnilegum árangri.",
+    "Langur dagur fullur af fundum dregur úr mér allan mátt.",
+    "Ég kýs skýra uppbyggingu í vinnunni.",
+    "Ég treysti á gildin mín til að leiðbeina vali mínu.",
+    "Ég kýs hugstormun í hópi fram yfir að hugsa í einrúmi.",
+    "Það nýja og óprófaða dregur mig að sér.",
+    "Ég dæmi lausn eftir því hversu vel hún virkar.",
+    "Ég aðlaga áætlanir mínar að skapinu.",
+    "Ég byggi á fyrri reynslu til að leysa vandamál.",
+    "Fólki finnst stundum erfitt að lesa mig í fyrstu.",
+    "Ég skipulegg fríin mín með góðum fyrirvara.",
+    "Ég vil frekar hvetja en gagnrýna.",
+    "Ég er yfirleitt meðal þeirra fyrstu til að tjá mig.",
+    "Ég gef nútíðinni meiri gaum en framtíðinni.",
+    "Í vinnunni met ég hæfni ofar vinsemd.",
+    "Mér finnst gott að ganga fljótt frá lausum endum."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Úthverfa vs. innhverfa",
+      "short": "Hvort þú sækir orku fyrst og fremst í ytri heim fólks og athafna (E) eða í innri heim hugsana og íhugunar (I).",
+      "low": "Þú hallast að innhverfu (I). Þú hleður batteríin í kyrrð, hugsar áður en þú talar og kýst fá djúp samtöl fram yfir mörg stutt. Þú vinnur oft úr hugmyndum innra með þér og deilir þeim þegar þær eru fullmótaðar. Annasamir félagsdagar geta tekið á, jafnvel þótt þú hafir notið þeirra. Ráð: skipuleggðu hvíldartíma eftir krefjandi félagslega viðburði og líttu á það sem viðhald, ekki flótta. Í hópum skaltu undirbúa innleggið þitt fyrirfram eða fylgja því eftir skriflega svo hugmyndir þínar heyrist.",
+      "mid": "Þú ert nálægt miðjunni milli úthverfu og innhverfu, svo stafurinn þinn gæti breyst eftir skapi eða aðstæðum. Þú nýtur félagsskapar og athafna en þarft líka tíma í einrúmi til að hlaða batteríin. Þú getur hugsað upphátt með öðrum eða íhugað í kyrrð, eftir því hvert verkefnið er. Ráð: fylgstu með orkunni eftir ólíka daga. Notaðu þá vitneskju til að byggja upp vikutakt sem blandar saman félagslegum samskiptum og rólegum stundum í þeim hlutföllum sem henta þér.",
+      "high": "Þú hallast að úthverfu (E). Þú færð orku frá fólki, samræðum og athöfnum og hugsar oft best með því að ræða málin. Þú átt auðvelt með að taka þátt, ert aðgengileg persóna og líður vel í hópum. Langir tímar í einrúmi geta vakið eirðarleysi. Ráð: áður en þú bregst við í umræðum skaltu staldra stutt við og spyrja fyrst einnar spurningar; það gefur hljóðlátara fólki rými og skerpir eigin hugsun. Taktu frá stuttar stundir til íhugunar til að vinna úr því sem þú upplifir."
+    },
+    "sensing": {
+      "name": "Skynjun vs. innsæi",
+      "short": "Hvort þú einbeitir þér fyrst og fremst að áþreifanlegum staðreyndum, smáatriðum og reynslu (S) eða að mynstrum, möguleikum og heildarmyndinni (N).",
+      "low": "Þú hallast að innsæi (N). Þú leitar eðlilega að merkingu, mynstrum og framtíðarmöguleikum og nýtur hugmynda, kenninga og þess að ímynda þér hvað gæti orðið. Þér geta leiðst venjubundin smáatriði og stundum sleppirðu skrefum til að komast að heildarmyndinni. Ráð: þegar þú deilir framtíðarsýn skaltu bæta við áþreifanlegum dæmum og næstu skrefum svo aðrir geti fylgt þér. Fáðu smáatriðasinnaðan samstarfsfélaga til að fara yfir áætlanir þínar og leita að hagnýtum glufum áður en þú skuldbindur þig.",
+      "mid": "Þú ert nálægt miðjunni milli skynjunar og innsæis, svo stafurinn þinn getur verið breytilegur eftir aðstæðum. Þú getur unnið með harðar staðreyndir og smáatriði en nýtur þess líka að kanna hugmyndir og möguleika. Það gerir þér kleift að brúa bilið milli hagsýnna og framsýnna. Ráð: taktu eftir hvorn háttinn þú grípur til undir álagi. Í mikilvægum ákvörðunum skaltu meðvitað skoða hvort tveggja: hvað segja staðreyndirnar og hvaða nýju möguleikar gætu verið þess virði að skoða?",
+      "high": "Þú hallast að skynjun (S). Þú treystir staðreyndum, reynslu og því sem þú getur séð og prófað. Þú tekur eftir smáatriðum, kýst skýrar leiðbeiningar og kannt að meta hugmyndir sem hafa hagnýtt gildi. Fólk treystir á raunsæi þitt og nákvæmni. Ráð: þegar aðrir deila óhlutbundnum hugmyndum skaltu gefa þeim smástund áður en þú metur notagildi þeirra; sumar geta þróast í eitthvað gagnlegt. Prófaðu stöku sinnum að ímynda þér hvert tiltekin þróun gæti leitt eftir fimm ár til að víkka sjóndeildarhringinn."
+    },
+    "thinking": {
+      "name": "Hugsun vs. tilfinning",
+      "short": "Hvort þú tekur ákvarðanir fyrst og fremst með rökum og hlutlægri greiningu (T) eða út frá persónulegum gildum og áhrifum á fólk (F).",
+      "low": "Þú hallast að tilfinningu (F). Þú tekur ákvarðanir með því að vega gildi, sambönd og hvernig þær snerta fólk. Þú metur samhljóm, kannt að meta góðvild og skynjar fljótt hvað aðrir þurfa. Fólki finnst það oft skilið í návist þinni. Ráð: þegar ákvörðun er erfið skaltu líka skrifa niður hlutlæga kosti og galla; það getur auðveldað þér að útskýra valið. Mundu að heiðarleg endurgjöf, sett fram af hlýju, er líka umhyggja.",
+      "mid": "Þú ert nálægt miðjunni milli hugsunar og tilfinningar, svo stafurinn þinn getur verið mismunandi eftir aðstæðum. Þú vegur bæði rök og mannleg áhrif þegar þú ákveður, sem hjálpar þér að finna sanngjarnar og yfirvegaðar lausnir. Ráð: taktu eftir hvort þú hallar þér að rökum í vinnunni og tilfinningum heima, eða öfugt. Í lykilákvörðunum skaltu meðvitað skoða hvort tveggja: stenst þetta rök, og er það sanngjarnt gagnvart fólkinu sem á í hlut?",
+      "high": "Þú hallast að hugsun (T). Þú ákveður út frá rökum, samkvæmni og hlutlægri greiningu. Þú metur sanngirni í þeim skilningi að sömu reglur gildi fyrir alla og getur gefið harða endurgjöf án þess að láta tilfinningar hagga þér. Ráð: áður en þú gagnrýnir skaltu viðurkenna þá vinnu eða ætlun sem liggur að baki. Spurðu hvernig ákvörðun muni horfa við fólkinu sem hún snertir; það eykur oft viðtökur án þess að veikja rökstuðninginn."
+    },
+    "judging": {
+      "name": "Skipulag vs. sveigjanleiki",
+      "short": "Hvort þú kýst skipulagt, ákveðið og formfast líf (J) eða sveigjanlegt, opið og sjálfsprottið (P).",
+      "low": "Þú hallast að sveigjanleika (P). Þér líkar að halda möguleikunum opnum, aðlagast eftir hendinni og ákveða þegar þú þarft. Þú vinnur oft í orkuskotum og finnst stífar tímaáætlanir þrengja að þér. Það gerir þig sveigjanlega og úrræðagóða manneskju þegar áætlanir breytast. Ráð: notaðu léttan ramma fyrir það nauðsynlegasta, til dæmis eitt kerfi fyrir áminningar um skilafresti. Brjóttu stór verkefni niður í litla áfanga svo lokaspretturinn verði ekki streituvaldandi.",
+      "mid": "Þú ert nálægt miðjunni milli skipulags og sveigjanleika, svo stafurinn þinn getur verið breytilegur. Þér finnst gott að hafa áætlun en getur auðveldlega sleppt henni þegar eitthvað betra býðst. Þú getur staðið við skilafresti og samt notið sjálfsprottinna augnablika. Ráð: taktu eftir hvar aðeins meira skipulag myndi draga úr streitu, til dæmis í ferðalögum eða fjármálum, og hvar meiri sveigjanleiki myndi auka ánægjuna. Aðlagaðu þig meðvitað frekar en af vana.",
+      "high": "Þú hallast að skipulagi (J). Þér líkar að skipuleggja fram í tímann, taka ákvarðanir og ljúka málum. Skýrar tímaáætlanir, listar og skilafrestir veita þér tilfinningu fyrir stjórn og þú klárar yfirleitt verkefni vel áður en á síðustu stundu kemur. Ráð: byggðu smá opið rými inn í áætlanirnar svo óvæntir hlutir slái þig ekki út af laginu. Þegar aðrir vinna á lausari hátt skaltu semja um lykilskilafresti og leyfa þeim að velja leiðina að þeim."
+    }
+  },
+  "summary": "Gerðin þín sameinar fjórar tilhneigingar: úthverfu eða innhverfu (E/I), skynjun eða innsæi (S/N), hugsun eða tilfinningu (T/F) og skipulag eða sveigjanleika (J/P). Hver kvarði sýnir hversu sterkt þú hallast að annarri hliðinni; skor nálægt 50 % merkja að þú notir báðar hliðar nokkuð sveigjanlega. Gerðirnar lýsa tilhneigingum, ekki hæfileikum, og engin gerð er betri en önnur.",
+  "types": {
+    "ISTJ": {
+      "name": "Akkerið",
+      "text": "Þú býrð yfir festu, nákvæmni og djúpum áreiðanleika. Þú virðir staðreyndir, stendur við loforð þín og vinnur þig skipulega í gegnum verkefni þar til þau eru almennilega unnin. Fólk treystir á þig því þú gerir það sem þú segist ætla að gera. Þú kýst skýrar væntingar og reyndar aðferðir og tekur eftir mistökum sem aðrir sjá ekki. Þinn hljóðláti styrkur heldur saman teymum og fjölskyldum. Þroskaráð: gefðu nýjum nálgunum tækifæri, jafnvel þegar gamla leiðin virkar enn; stundum skilar tilraun raunverulegum umbótum. Tjáðu þakklæti þitt til annarra upphátt, því tryggð þín er ekki alltaf sýnileg. Gefðu þér tíma til hvíldar án þess að þurfa fyrst að vinna þér inn fyrir henni."
+    },
+    "ISFJ": {
+      "name": "Verndarinn",
+      "text": "Þú býrð yfir umhyggju, samviskusemi og hljóðlátri trúmennsku. Þú manst hvað skiptir fólk máli, tekur eftir þörfum þess og hjálpar á hagnýtan hátt, oft óbeðið. Þú metur hefðir, stöðugleika og samhljóm og leggur mikið á þig til að öðrum líði vel og finni til öryggis. Góðvild þín er af þeirri stöðugu gerð sem fólk getur reitt sig á árum saman. Þroskaráð: þínar eigin þarfir eiga skilið sömu athygli og þú veitir öðrum, svo æfðu þig í að segja nei án samviskubits. Láttu í þér heyra þegar eitthvað angrar þig í stað þess að kyngja því í hljóði. Að leyfa öðrum að styðja þig styrkir sambönd frekar en að íþyngja þeim."
+    },
+    "INFJ": {
+      "name": "Hljóðláti hugsjónamaðurinn",
+      "text": "Þú sameinar djúpt innsæi í fólk og sterka tilfinningu fyrir tilgangi. Þú skynjar undirstrauma í samskiptum, hugsar til langs tíma og vilt að líf þitt leggi eitthvað merkingarbært af mörkum. Þú heldur þínu fyrir þig en býrð yfir hlýju, og fólkið sem þú hleypir að þér finnur að það er raunverulega séð. Hugsjónir þínar veita þér stefnu og ákveðni. Þroskaráð: háar kröfur þínar geta breyst í örmögnun eða vonbrigði þegar raunveruleikinn stenst þær ekki, svo fagnaðu framförum, ekki bara fullkomnun. Deildu hugmyndum þínum fyrr í stað þess að bíða þar til þær eru fullmótaðar. Verndaðu orkuna með því að setja mörk áður en allt verður yfirþyrmandi, ekki eftir á."
+    },
+    "INTJ": {
+      "name": "Herkænskusnillingurinn",
+      "text": "Þú býrð yfir sjálfstæði og greiningarhæfni og horfir til langtímamarkmiða. Þú sérð hvernig kerfi tengjast, kemur fljótt auga á óhagkvæmni og vilt hanna betri leiðir til að gera hlutina. Þú treystir eigin rökhugsun og hikar ekki við að fara eigin leiðir til að ná framtíðarsýn. Ákveðni þín getur gert metnaðarfullar hugmyndir að veruleika. Þroskaráð: aðrir fylgja kannski ekki rökum þínum jafn hratt og þú, svo útskýrðu hugsun þína skref fyrir skref og bjóddu upp á endurgjöf. Mundu að tilfinningar fólks eru líka gögn. Leyfðu ófullkomnum fyrstu útgáfum að verða til; framfarir eru oft betri en gallalaus áætlun sem bíður."
+    },
+    "ISTP": {
+      "name": "Fiktarinn",
+      "text": "Þú býrð yfir ró, hagsýni og forvitni um hvernig hlutir virka. Þér líkar að skilja vandamál með höndunum, taka hluti í sundur og finna skilvirkar lausnir. Í krísu heldurðu ró þinni og bregst við af festu á meðan aðrir eru enn að tala. Þú metur frelsi og kannt illa við óþarfa reglur eða langa fundi. Þroskaráð: deildu hugsunum þínum oftar með öðrum, því þögn þín getur verið misskilin sem áhugaleysi. Skuldbittu þig nokkrum langtímamarkmiðum svo fjölbreytt færni þín byggi upp eitthvað stærra. Láttu þá sem standa þér næst vita hvað þú finnur; lítil þakklætisorð vega þungt."
+    },
+    "ISFP": {
+      "name": "Mildi listamaðurinn",
+      "text": "Þú býrð yfir næmni og góðvild og ert í takt við fegurð og líðandi stund. Þú tjáir þig frekar með verkum og sköpun en orðum og metur einlægni og frelsi. Þú sýnir umburðarlyndi, víðsýni og tryggð við fólkið og málefnin sem þér þykir vænt um. Mild nærvera þín lætur öðrum finnast þeir samþykktir. Þroskaráð: þú forðast kannski árekstra þar til gremjan hleðst upp, svo æfðu þig í að nefna litlar áhyggjur snemma. Breyttu gildum þínum í nokkur áþreifanleg markmið til að gefa hæfileikum þínum stefnu. Hafðu næga trú á verkum þínum til að sýna þau öðrum; sjónarhorn þitt á skilið að sjást."
+    },
+    "INFP": {
+      "name": "Draumóramaðurinn",
+      "text": "Þú býrð yfir hugsjónum og ímyndunarafli og sterk innri gildi leiðbeina þér. Þú leitar merkingar í öllu sem þú gerir og leggur mikla áherslu á einlægni, bæði hjá þér og öðrum. Þú skilur tilfinningar vel og tjáir þær oft í skrifum, list eða ígrunduðum samtölum. Þú sýnir mildi, víðsýni og tryggð við það sem þú trúir á. Þroskaráð: hugsjónir þínar eru áttaviti, en raunveruleikinn er sjaldan fullkominn; taktu lítil hagnýt skref í stað þess að bíða eftir hinu fullkomna augnabliki. Sýndu þér sömu samkennd og þú sýnir öðrum. Deildu draumum þínum með fólki sem getur hjálpað til við að gera þá að veruleika."
+    },
+    "INTP": {
+      "name": "Gátuleysarinn",
+      "text": "Þú býrð yfir rökvísi, hugvitssemi og endalausri forvitni. Þú elskar að greina hugmyndir, finna ósamræmi og byggja kenningar sem útskýra hvernig hlutirnir virka í raun. Þú hugsar sjálfstætt og nýtur djúpra samræðna um flókin efni. Hugur þinn sér frumlegar lausnir sem aðrir missa af. Þroskaráð: hugmyndir ná fullum möguleikum sínum þegar þeim er deilt og þær nýttar, svo settu þér litla skilafresti til að klára og kynna verk þín. Gefðu hagnýtum smáatriðum og líðan annarra gaum; þau skipta máli jafnvel þegar þau virðast órökrétt. Tengstu fólki sem deilir áhugamálum þínum; það mun gefa hugsun þinni orku."
+    },
+    "ESTP": {
+      "name": "Ævintýramaðurinn",
+      "text": "Þú býrð yfir orku, dirfsku og athafnagleði. Þú lifir í núinu, lest aðstæður fljótt og blómstrar þegar hlutirnir gerast hratt. Þú nýtur áskorana, tekur skynsamlega áhættu og leysir hagnýt vandamál á staðnum. Fólk laðast að sjálfsöryggi þínu og léttleika. Þroskaráð: hugsaðu langtímaafleiðingar til enda áður en þú stekkur af stað, sérstaklega varðandi peninga og sambönd. Æfðu þolinmæði gagnvart hægari ferlum og fólki sem þarf meiri tíma til að ákveða sig. Hugleiddu hvernig beinskeyttur stíll þinn fellur í kramið hjá viðkvæmu fólki; smá háttvísi gerir áhrif þín enn sterkari."
+    },
+    "ESFP": {
+      "name": "Neistinn",
+      "text": "Þú býrð yfir lífsgleði, hlýju og skemmtanagleði. Þú færir orku inn í hvert herbergi, nýtur fólks og upplifana og gerir hversdagsleg augnablik sérstök. Þú sýnir hagsýni og örlæti og hleypur fljótt undir bagga með einhverjum sem á erfitt. Eldmóður þinn er smitandi og fólk nýtur þess að vera í kringum þig. Þroskaráð: það getur virst leiðinlegt að skipuleggja fram í tímann, en smá rammi í fjármálum og langtímamarkmiðum veitir þér meira frelsi síðar. Taktu á erfiðum samtölum í stað þess að dreifa huganum. Gefðu þér rólegar stundir til að íhuga hvað þú raunverulega vilt, ekki bara hvað er gott akkúrat núna."
+    },
+    "ENFP": {
+      "name": "Hvatningin",
+      "text": "Þú býrð yfir eldmóði, sköpunargleði og ótal möguleikum. Þú tengist fólki auðveldlega, sérð tækifæri alls staðar og elskar að hefja ný verkefni og samtöl. Hlýja þín og ímyndunarafl hvetja aðra til að dreyma stærra. Þú metur frelsi, einlægni og merkingarbær sambönd. Þroskaráð: margar hugmyndir þínar þurfa fókus til að skila árangri, svo veldu nokkur forgangsatriði og fylgdu þeim eftir. Komdu þér upp einföldum venjum fyrir hagnýt verkefni sem þér leiðast. Þegar skapið dalar eftir spennuna við nýtt upphaf skaltu muna að stöðug eftirfylgni er þar sem mikið af raunverulegu umbuninni liggur."
+    },
+    "ENTP": {
+      "name": "Frumkvöðullinn",
+      "text": "Þú býrð yfir skörpum húmor og hugvitssemi og elskar góða rökræðu. Þú sérð nýjar hliðar á gömlum vandamálum, véfengir forsendur og nýtur þess að gera tilraunir með hugmyndir. Þú aðlagast hratt og flóknar áskoranir og klárt fólk gefa þér orku. Forvitnin knýr þig til að bæta nánast allt sem þú snertir. Þroskaráð: það þarf ekki að vinna allar umræður og sumir upplifa rökræður sem átök, svo lestu stemninguna. Fylgdu bestu hugmyndunum þínum eftir í stað þess að fara of fljótt yfir í þá næstu. Taktu höndum saman við smáatriðasinnað fólk sem hjálpar þér að gera hugmyndir að veruleika."
+    },
+    "ESTJ": {
+      "name": "Fyrirliðinn",
+      "text": "Þú býrð yfir skipulagi, ákveðni og hagsýni. Þér líkar skýr markmið, skilvirkir ferlar og að koma hlutum í verk. Þú axlar ábyrgð af sjálfsdáðum, setur háar kröfur og sérð til þess að áætlunum sé fylgt eftir. Fólk kann að meta hreinskilni þína og áreiðanleika. Þroskaráð: skilvirkur stíll þinn getur virst stjórnsamur í augum annarra, svo leitaðu eftir sjónarmiðum áður en þú ákveður og útskýrðu af hverju. Gefðu nýjum aðferðum séns jafnvel þegar núverandi aðferð virkar. Sýndu þakklæti fyrir framlag fólks, ekki bara árangur þess; viðurkenning hvetur aðra jafnmikið og skýrar leiðbeiningar."
+    },
+    "ESFJ": {
+      "name": "Gestgjafinn",
+      "text": "Þú býrð yfir félagslyndi, umhyggju og samfélagsvitund. Þú tekur eftir því hvað fólk þarf, lætur því finnast það velkomið og nýtur þess að leiða fólk saman. Þú metur samhljóm, tryggð og hefðir og leggur raunverulega vinnu í að sambönd og hópar gangi snurðulaust. Fólki finnst vel hugsað um sig í návist þinni. Þroskaráð: þú tekur kannski gagnrýni eða ágreining persónulega, svo minntu þig á að ósamkomulag er ekki höfnun. Kannaðu hvort þú hjálpar af því að þú vilt það eða af því að þér finnst þú verða. Gefðu þínum eigin þörfum og skoðunum rými; þær skipta jafnmiklu máli og annarra."
+    },
+    "ENFJ": {
+      "name": "Leiðbeinandinn",
+      "text": "Þú býrð yfir hlýju og hvatningu og leggur áherslu á að hjálpa fólki að vaxa. Þú lest aðra vel, dregur fram styrkleika þeirra og fylkir hópum um sameiginlegan tilgang. Þú tjáir þig af eldmóði og sannfæringu og finnur til ábyrgðar á vellíðan þeirra sem eru í kringum þig. Fólk leitar oft ráða hjá þér. Þroskaráð: þú getur ekki borið alla, svo leyfðu öðrum að bera ábyrgð á eigin vali. Taktu eftir því þegar þú tekur of mikið að þér eða vanrækir eigin þarfir. Sættu þig við að sumir verði þér ósammála; önnur leið þeirra segir ekkert um þitt eigið virði."
+    },
+    "ENTJ": {
+      "name": "Foringinn",
+      "text": "Þú býrð yfir sjálfsöryggi, herkænsku og drifkrafti til að ná árangri. Þú sérð heildarmyndina, setur metnaðarfull markmið og skipuleggur fólk og bjargir til að ná þeim. Þú tekur ákvarðanir hratt, tjáir þig skýrt og óttast hvorki áskoranir né ábyrgð. Aðrir líta oft til þín um forystu. Þroskaráð: hraði þinn og hreinskilni geta yfirþyrmt fólk, svo hægðu á þér til að hlusta og viðurkenna tilfinningar. Mundu að áhugahvöt vex þegar fólk upplifir að á það sé hlustað, ekki bara að því sé stýrt. Gefðu hvíld og samböndum rými; langtímaárangur byggir á meiru en niðurstöðum einum saman."
+    }
+  }
+}

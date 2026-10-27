@@ -149,7 +149,30 @@
       "intensity": "Kiek per pastarąjį mėnesį jus vargino šios problemos?"
     },
     "unanswered": "Norėdami tęsti, atsakykite į visus šio puslapio teiginius.",
-    "tryNow": "Išbandyti"
+    "tryNow": "Išbandyti",
+    "faqTitle": "Dažniausi klausimai: {test}",
+    "faq": [
+      {
+        "q": "Ką matuoja {test}?",
+        "a": "{test} apima šias sritis: {dimensions}. Jūsų ataskaitoje pateikiamas kiekvienos srities balas, paaiškinama, ką jis jums reiškia, ir pateikiami praktiniai patarimai."
+      },
+      {
+        "q": "Kiek laiko trunka {test}?",
+        "a": "Testą sudaro {count} trumpi teiginiai, jis trunka apie {minutes} min. Jūsų pažanga išsaugoma automatiškai, todėl galite padaryti pertrauką ir tęsti vėliau."
+      },
+      {
+        "q": "Ar {test} yra nemokamas?",
+        "a": "Taip, atlikti testą nemokama. Jei norite išsamios asmeninės ataskaitos su visais balais ir paaiškinimais, galite ją užsisakyti už {price}, mokant vieną kartą – jokios prenumeratos."
+      },
+      {
+        "q": "Kiek patikimas yra {test}?",
+        "a": "Testas paremtas pripažintais psichologiniais tyrimais ir kiekvienai sričiai naudoja daug teiginių, todėl rezultatas stabilesnis nei trumpos viktorinos. Kad vaizdas būtų kuo tikslesnis, atsakykite nuoširdžiai ir per daug negalvodami."
+      },
+      {
+        "q": "Ar {test} yra diagnozė?",
+        "a": "Ne. {test} skirtas savirefleksijai ir nėra medicininė ar psichologinė diagnozė. Jei nerimaujate dėl savo psichikos sveikatos, pasikalbėkite su kvalifikuotu specialistu."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Pinigų grąžinimo politika",
     "rights": "© {year} {site}. Visos teisės saugomos.",
     "disclaimer": "{site} nėra medicininė paslauga. Dėl klinikinių klausimų kreipkitės į licencijuotą specialistą.",
-    "aboutLink": "Apie mus"
+    "aboutLink": "Apie mus",
+    "notice": "Teisinis pranešimas"
   },
   "legal": {
     "privacyTitle": "Privatumo politika",
@@ -266,7 +290,16 @@
       "Negavote ataskaitos arba kažkas nepavyko? Per 14 dienų susisiekite adresu {email}, nurodydami naudotą el. pašto adresą, ir mes išsiųsime ataskaitą dar kartą arba grąžinsime jūsų mokėjimą.",
       "Kadangi ataskaita yra iškart pateikiamas skaitmeninis turinys, įstatymais numatyta teisė atsisakyti sutarties išnyksta, kai ji išsiunčiama. Vis dėlto, jei kas nors ne taip, visada jums padėsime.",
       "Pinigai grąžinami pradiniu mokėjimo būdu per 5–10 darbo dienų."
-    ]
+    ],
+    "noticeTitle": "Teisinis pranešimas",
+    "notice": {
+      "company": "Įmonė",
+      "address": "Adresas",
+      "representative": "Atstovas",
+      "registration": "Įmonės registracija",
+      "vat": "PVM mokėtojo kodas",
+      "contact": "Kontaktai"
+    }
   },
   "contact": {
     "title": "Kontaktai",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Įdomu, ką rodo jūsų rezultatai?",
     "ctaButton": "Peržiūrėti testus"
+  },
+  "notFound": {
+    "title": "Puslapis nerastas",
+    "text": "Puslapis, kurio ieškote, neegzistuoja arba buvo perkeltas.",
+    "home": "Grįžti į pradžią"
   }
 }

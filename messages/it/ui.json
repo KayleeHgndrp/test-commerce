@@ -149,7 +149,30 @@
       "intensity": "Nell'ultimo mese, quanto ti hanno disturbato i seguenti problemi?"
     },
     "unanswered": "Rispondi a tutte le affermazioni di questa pagina per continuare.",
-    "tryNow": "Prova ora"
+    "tryNow": "Prova ora",
+    "faqTitle": "Domande frequenti sul test «{test}»",
+    "faq": [
+      {
+        "q": "Cosa misura il test «{test}»?",
+        "a": "Il test «{test}» esamina le seguenti aree: {dimensions}. Il tuo report mostra un punteggio per ciascuna, spiega cosa significa per te e ti dà consigli pratici."
+      },
+      {
+        "q": "Quanto dura il test «{test}»?",
+        "a": "Il test comprende {count} brevi affermazioni e richiede circa {minutes} minuti. I tuoi progressi vengono salvati automaticamente, quindi puoi fare una pausa e continuare più tardi."
+      },
+      {
+        "q": "Il test «{test}» è gratuito?",
+        "a": "Sì, fare il test è gratuito. Se vuoi il report personale completo con tutti i punteggi e le spiegazioni, puoi ordinarlo a {price}, con un pagamento unico e senza abbonamento."
+      },
+      {
+        "q": "Quanto è affidabile il test «{test}»?",
+        "a": "Il test si basa su ricerche psicologiche consolidate e usa molte affermazioni per ogni area, il che rende il risultato più stabile di un quiz breve. Rispondi con sincerità e senza pensarci troppo per ottenere il quadro più accurato."
+      },
+      {
+        "q": "Il test «{test}» è una diagnosi?",
+        "a": "No. Il test «{test}» è pensato per l'autoriflessione e non è una diagnosi medica o psicologica. Se hai preoccupazioni per la tua salute mentale, parlane con un professionista qualificato."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Politica di rimborso",
     "rights": "© {year} {site}. Tutti i diritti riservati.",
     "disclaimer": "{site} non è un servizio medico. Per problemi clinici, rivolgiti a un professionista abilitato.",
-    "aboutLink": "Chi siamo"
+    "aboutLink": "Chi siamo",
+    "notice": "Note legali"
   },
   "legal": {
     "privacyTitle": "Informativa sulla privacy",
@@ -266,7 +290,16 @@
       "Non hai ricevuto il report o qualcosa è andato storto? Scrivi a {email} entro 14 giorni indicando l'indirizzo email che hai usato, e ti invieremo di nuovo il report o ti rimborseremo il pagamento.",
       "Poiché il report è un contenuto digitale consegnato immediatamente, il diritto di recesso previsto dalla legge decade una volta inviato. Ti aiuteremo comunque sempre se qualcosa non va.",
       "I rimborsi vengono effettuati sul metodo di pagamento originale entro 5–10 giorni lavorativi."
-    ]
+    ],
+    "noticeTitle": "Note legali",
+    "notice": {
+      "company": "Società",
+      "address": "Indirizzo",
+      "representative": "Rappresentata da",
+      "registration": "Registro delle imprese",
+      "vat": "Partita IVA",
+      "contact": "Contatti"
+    }
   },
   "contact": {
     "title": "Contatti",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Curioso di sapere cosa dicono i tuoi risultati?",
     "ctaButton": "Scopri i nostri test"
+  },
+  "notFound": {
+    "title": "Pagina non trovata",
+    "text": "La pagina che cerchi non esiste o è stata spostata.",
+    "home": "Torna alla home"
   }
 }

@@ -149,7 +149,30 @@
       "intensity": "În ultima lună, cât de mult te-au deranjat următoarele probleme?"
     },
     "unanswered": "Răspunde la toate afirmațiile de pe această pagină pentru a continua.",
-    "tryNow": "Încearcă acum"
+    "tryNow": "Încearcă acum",
+    "faqTitle": "Întrebări frecvente despre testul „{test}”",
+    "faq": [
+      {
+        "q": "Ce măsoară testul „{test}”?",
+        "a": "Testul „{test}” analizează următoarele domenii: {dimensions}. Raportul tău arată un scor pentru fiecare, explică ce înseamnă pentru tine și oferă sfaturi practice."
+      },
+      {
+        "q": "Cât durează testul „{test}”?",
+        "a": "Testul are {count} afirmații scurte și durează cam {minutes} minute. Progresul tău este salvat automat, așa că poți lua o pauză și continua mai târziu."
+      },
+      {
+        "q": "Testul „{test}” este gratuit?",
+        "a": "Da, completarea testului este gratuită. Dacă vrei raportul personal complet, cu toate scorurile și explicațiile, îl poți comanda pentru {price}, cu plată unică, fără abonament."
+      },
+      {
+        "q": "Cât de fiabil este testul „{test}”?",
+        "a": "Testul se bazează pe cercetări psihologice consacrate și folosește multe afirmații pentru fiecare domeniu, ceea ce face rezultatul mai stabil decât un chestionar scurt. Răspunde sincer și fără să te gândești prea mult pentru cea mai exactă imagine."
+      },
+      {
+        "q": "Testul „{test}” este un diagnostic?",
+        "a": "Nu. Testul „{test}” este destinat autoreflecției și nu reprezintă un diagnostic medical sau psihologic. Dacă ești îngrijorat de sănătatea ta mintală, vorbește cu un specialist calificat."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Politica de rambursare",
     "rights": "© {year} {site}. Toate drepturile rezervate.",
     "disclaimer": "{site} nu este un serviciu medical. Pentru probleme clinice, consultă un specialist autorizat.",
-    "aboutLink": "Despre noi"
+    "aboutLink": "Despre noi",
+    "notice": "Informații legale"
   },
   "legal": {
     "privacyTitle": "Politica de confidențialitate",
@@ -266,7 +290,16 @@
       "Nu ai primit raportul sau ceva nu a mers bine? Scrie-ne la {email} în termen de 14 zile, menționând adresa de e-mail folosită, și îți vom retrimite raportul sau îți vom rambursa plata.",
       "Deoarece raportul este conținut digital livrat imediat, dreptul legal de retragere se stinge odată ce a fost trimis. Cu toate acestea, te vom ajuta întotdeauna dacă ceva nu este în regulă.",
       "Rambursările se fac pe metoda de plată inițială, în 5–10 zile lucrătoare."
-    ]
+    ],
+    "noticeTitle": "Informații legale",
+    "notice": {
+      "company": "Companie",
+      "address": "Adresă",
+      "representative": "Reprezentată de",
+      "registration": "Registrul comerțului",
+      "vat": "Cod de TVA",
+      "contact": "Contact"
+    }
   },
   "contact": {
     "title": "Contact",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Ești curios ce spun rezultatele tale?",
     "ctaButton": "Descoperă testele noastre"
+  },
+  "notFound": {
+    "title": "Pagina nu a fost găsită",
+    "text": "Pagina pe care o cauți nu există sau a fost mutată.",
+    "home": "Înapoi la pagina principală"
   }
 }

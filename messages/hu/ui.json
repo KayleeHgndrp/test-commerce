@@ -149,7 +149,30 @@
       "intensity": "Az elmúlt hónapban mennyire zavartak a következő problémák?"
     },
     "unanswered": "A folytatáshoz válaszolj az oldalon lévő összes állításra.",
-    "tryNow": "Kipróbálom"
+    "tryNow": "Kipróbálom",
+    "faqTitle": "Gyakori kérdések – „{test}”",
+    "faq": [
+      {
+        "q": "Mit mér a(z) „{test}” teszt?",
+        "a": "A(z) „{test}” teszt a következő területeket vizsgálja: {dimensions}. Az értékelésed mindegyikre pontszámot ad, elmagyarázza, mit jelent számodra, és gyakorlati tippeket kínál."
+      },
+      {
+        "q": "Mennyi ideig tart a(z) „{test}” teszt?",
+        "a": "A teszt {count} rövid állításból áll, és kb. {minutes} percet vesz igénybe. A haladásod automatikusan mentésre kerül, így szünetet tarthatsz, és később folytathatod."
+      },
+      {
+        "q": "Ingyenes a(z) „{test}” teszt?",
+        "a": "Igen, a teszt kitöltése ingyenes. Ha a teljes személyes értékelést szeretnéd az összes pontszámmal és magyarázattal, {price} áron megrendelheted – egyszeri fizetéssel, előfizetés nélkül."
+      },
+      {
+        "q": "Mennyire megbízható a(z) „{test}” teszt?",
+        "a": "A teszt elismert pszichológiai kutatásokon alapul, és területenként sok állítást használ, így az eredmény stabilabb, mint egy rövid kvíz esetén. A legpontosabb képhez válaszolj őszintén, túlgondolás nélkül."
+      },
+      {
+        "q": "Diagnózis a(z) „{test}” teszt?",
+        "a": "Nem. A(z) „{test}” teszt önreflexióra szolgál, és nem minősül orvosi vagy pszichológiai diagnózisnak. Ha aggódsz a lelki egészséged miatt, fordulj képzett szakemberhez."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Visszatérítési szabályzat",
     "rights": "© {year} {site}. Minden jog fenntartva.",
     "disclaimer": "A(z) {site} nem egészségügyi szolgáltatás. Klinikai panaszok esetén fordulj képesített szakemberhez.",
-    "aboutLink": "Rólunk"
+    "aboutLink": "Rólunk",
+    "notice": "Impresszum"
   },
   "legal": {
     "privacyTitle": "Adatvédelmi tájékoztató",
@@ -266,7 +290,16 @@
       "Nem kaptad meg az értékelést, vagy valami hiba történt? Írj 14 napon belül a(z) {email} címre, és add meg a használt e-mail-címet – újra elküldjük az értékelést, vagy visszatérítjük a díjat.",
       "Mivel az értékelés azonnal teljesített digitális tartalom, a törvényes elállási jog az elküldésével megszűnik. Ha valami nincs rendben, természetesen mindig segítünk.",
       "A visszatérítés az eredeti fizetési módra történik, 5–10 munkanapon belül."
-    ]
+    ],
+    "noticeTitle": "Impresszum",
+    "notice": {
+      "company": "Cég",
+      "address": "Cím",
+      "representative": "Képviseli",
+      "registration": "Cégjegyzékszám",
+      "vat": "Adószám",
+      "contact": "Kapcsolat"
+    }
   },
   "contact": {
     "title": "Kapcsolat",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Kíváncsi vagy, mit árulnak el az eredményeid?",
     "ctaButton": "Fedezd fel tesztjeinket"
+  },
+  "notFound": {
+    "title": "Az oldal nem található",
+    "text": "A keresett oldal nem létezik, vagy máshová került.",
+    "home": "Vissza a főoldalra"
   }
 }

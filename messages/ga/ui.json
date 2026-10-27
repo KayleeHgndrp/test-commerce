@@ -149,7 +149,30 @@
       "intensity": "Le mí anuas, cé mhéad a chuir na fadhbanna seo a leanas isteach ort?"
     },
     "unanswered": "Freagair gach ráiteas ar an leathanach seo chun leanúint ar aghaidh.",
-    "tryNow": "Bain triail as"
+    "tryNow": "Bain triail as",
+    "faqTitle": "Ceisteanna coitianta: {test}",
+    "faq": [
+      {
+        "q": "Cad a thomhaiseann {test}?",
+        "a": "Féachann {test} ar na réimsí seo a leanas: {dimensions}. Taispeánann do thuarascáil scór do gach ceann acu, míníonn sí cad is brí leis duitse agus tugann sí leideanna praiticiúla."
+      },
+      {
+        "q": "Cé chomh fada a thógann {test}?",
+        "a": "Tá {count} ráiteas gearr sa tástáil agus tógann sí timpeall {minutes} nóiméad. Sábháiltear do dhul chun cinn go huathoibríoch, mar sin is féidir leat sos a ghlacadh agus leanúint ar aghaidh níos déanaí."
+      },
+      {
+        "q": "An bhfuil {test} saor in aisce?",
+        "a": "Tá, tá sé saor in aisce an tástáil a dhéanamh. Más mian leat do thuarascáil phearsanta iomlán le gach scór agus míniú, is féidir leat í a ordú ar {price}, íoctha uair amháin — gan síntiús."
+      },
+      {
+        "q": "Cé chomh hiontaofa is atá {test}?",
+        "a": "Tá an tástáil bunaithe ar thaighde síceolaíochta aitheanta agus úsáideann sí go leor ráiteas in aghaidh an réimse, rud a fhágann an toradh níos seasmhaí ná tráth na gceist gearr. Freagair go hionraic gan an iomarca machnaimh chun an pictiúr is cruinne a fháil."
+      },
+      {
+        "q": "An diagnóis é {test}?",
+        "a": "Ní hea. Tá {test} ceaptha le haghaidh féinmhachnaimh agus ní diagnóis leighis ná shíceolaíoch é. Má tá imní ort faoi do shláinte mheabhrach, labhair le gairmí cáilithe."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Beartas aisíocaíochta",
     "rights": "© {year} {site}. Gach ceart ar cosaint.",
     "disclaimer": "Ní seirbhís leighis é {site}. Maidir le himní chliniciúil, téigh i gcomhairle le gairmí ceadúnaithe.",
-    "aboutLink": "Fúinn"
+    "aboutLink": "Fúinn",
+    "notice": "Fógra dlíthiúil"
   },
   "legal": {
     "privacyTitle": "Beartas príobháideachais",
@@ -266,7 +290,16 @@
       "Nach bhfuair tú do thuarascáil, nó ar chuaigh rud éigin mícheart? Déan teagmháil le {email} laistigh de 14 lá, ag lua an seoladh ríomhphoist a d'úsáid tú, agus seolfaimid do thuarascáil arís nó aisíocfaimid d'íocaíocht.",
       "Ós rud é gur ábhar digiteach í an tuarascáil a sheachadtar láithreach, téann an ceart reachtúil tarraingt siar in éag a luaithe a sheoltar í. Mar sin féin, cabhróimid leat i gcónaí mura bhfuil rud éigin i gceart.",
       "Déantar aisíocaíochtaí ar an modh íocaíochta bunaidh laistigh de 5–10 lá oibre."
-    ]
+    ],
+    "noticeTitle": "Fógra dlíthiúil",
+    "notice": {
+      "company": "Comhlacht",
+      "address": "Seoladh",
+      "representative": "Ionadaí",
+      "registration": "Clárú cuideachta",
+      "vat": "Uimhir CBL",
+      "contact": "Teagmháil"
+    }
   },
   "contact": {
     "title": "Déan teagmháil linn",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "An bhfuil fonn ort a fháil amach cad a deir do thorthaí?",
     "ctaButton": "Féach ar ár dtástálacha"
+  },
+  "notFound": {
+    "title": "Níor aimsíodh an leathanach",
+    "text": "Níl an leathanach atá á lorg agat ann nó bogadh é.",
+    "home": "Ar ais chuig an mbaile"
   }
 }

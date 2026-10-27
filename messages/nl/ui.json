@@ -149,7 +149,30 @@
       "intensity": "Hoeveel last heb je in de afgelopen maand gehad van de volgende problemen?"
     },
     "unanswered": "Beantwoord alle stellingen op deze pagina om verder te gaan.",
-    "tryNow": "Probeer nu"
+    "tryNow": "Probeer nu",
+    "faqTitle": "Veelgestelde vragen over de {test}",
+    "faq": [
+      {
+        "q": "Wat meet de {test}?",
+        "a": "De {test} kijkt naar de volgende gebieden: {dimensions}. Je rapport geeft voor elk gebied een score, legt uit wat die voor jou betekent en geeft praktische tips."
+      },
+      {
+        "q": "Hoe lang duurt de {test}?",
+        "a": "De test bestaat uit {count} korte stellingen en duurt ongeveer {minutes} minuten. Je voortgang wordt automatisch bewaard, dus je kunt even pauzeren en later verdergaan."
+      },
+      {
+        "q": "Is de {test} gratis?",
+        "a": "Ja, de test invullen is gratis. Wil je je volledige persoonlijke rapport met alle scores en uitleg? Dan kun je dat bestellen voor {price}, eenmalig betaald — geen abonnement."
+      },
+      {
+        "q": "Hoe betrouwbaar is de {test}?",
+        "a": "De test is gebaseerd op erkend psychologisch onderzoek en gebruikt veel stellingen per gebied, waardoor het resultaat stabieler is dan bij een korte quiz. Antwoord eerlijk en zonder lang na te denken voor het meest nauwkeurige beeld."
+      },
+      {
+        "q": "Is de {test} een diagnose?",
+        "a": "Nee. De {test} is bedoeld voor zelfreflectie en is geen medische of psychologische diagnose. Maak je je zorgen over je mentale gezondheid? Praat dan met een gekwalificeerde zorgverlener."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Terugbetalingsbeleid",
     "rights": "© {year} {site}. Alle rechten voorbehouden.",
     "disclaimer": "{site} is geen medische dienst. Neem bij klinische zorgen contact op met een erkende zorgverlener.",
-    "aboutLink": "Over ons"
+    "aboutLink": "Over ons",
+    "notice": "Colofon"
   },
   "legal": {
     "privacyTitle": "Privacybeleid",
@@ -266,7 +290,16 @@
       "Heb je je rapport niet ontvangen of ging er iets mis? Neem binnen 14 dagen contact op via {email}, met vermelding van het e-mailadres dat je hebt gebruikt, en we sturen je rapport opnieuw of betalen je terug.",
       "Omdat het rapport digitale inhoud is die direct wordt geleverd, vervalt het wettelijke herroepingsrecht zodra het is verstuurd. We helpen je natuurlijk altijd als er iets niet klopt.",
       "Terugbetalingen gebeuren via de oorspronkelijke betaalmethode binnen 5–10 werkdagen."
-    ]
+    ],
+    "noticeTitle": "Colofon",
+    "notice": {
+      "company": "Bedrijf",
+      "address": "Adres",
+      "representative": "Vertegenwoordigd door",
+      "registration": "Inschrijving KvK",
+      "vat": "Btw-nummer",
+      "contact": "Contact"
+    }
   },
   "contact": {
     "title": "Contact",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Benieuwd wat je resultaten zeggen?",
     "ctaButton": "Bekijk onze tests"
+  },
+  "notFound": {
+    "title": "Pagina niet gevonden",
+    "text": "De pagina die je zoekt bestaat niet of is verplaatst.",
+    "home": "Terug naar home"
   }
 }

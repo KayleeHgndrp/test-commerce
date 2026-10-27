@@ -149,7 +149,30 @@
       "intensity": "Au cours du dernier mois, à quel point avez-vous été gêné(e) par les problèmes suivants ?"
     },
     "unanswered": "Veuillez répondre à toutes les affirmations de cette page pour continuer.",
-    "tryNow": "Essayer"
+    "tryNow": "Essayer",
+    "faqTitle": "Questions fréquentes sur le test « {test} »",
+    "faq": [
+      {
+        "q": "Que mesure le test « {test} » ?",
+        "a": "Le test « {test} » porte sur les domaines suivants : {dimensions}. Votre rapport indique un score pour chacun d'eux, explique ce qu'il signifie pour vous et propose des conseils pratiques."
+      },
+      {
+        "q": "Combien de temps dure le test « {test} » ?",
+        "a": "Le test comporte {count} affirmations courtes et prend environ {minutes} minutes. Votre progression est enregistrée automatiquement : vous pouvez faire une pause et reprendre plus tard."
+      },
+      {
+        "q": "Le test « {test} » est-il gratuit ?",
+        "a": "Oui, passer le test est gratuit. Si vous souhaitez votre rapport personnel complet avec tous les scores et explications, vous pouvez le commander pour {price}, en un seul paiement, sans abonnement."
+      },
+      {
+        "q": "Le test « {test} » est-il fiable ?",
+        "a": "Le test repose sur une recherche psychologique reconnue et utilise de nombreuses affirmations par domaine, ce qui rend le résultat plus stable qu'un court quiz. Répondez honnêtement et sans trop réfléchir pour obtenir l'image la plus juste."
+      },
+      {
+        "q": "Le test « {test} » est-il un diagnostic ?",
+        "a": "Non. Le test « {test} » est conçu pour l'introspection et ne constitue pas un diagnostic médical ou psychologique. Si votre santé mentale vous préoccupe, parlez-en à un professionnel qualifié."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Politique de remboursement",
     "rights": "© {year} {site}. Tous droits réservés.",
     "disclaimer": "{site} n'est pas un service médical. Pour toute préoccupation clinique, veuillez consulter un professionnel de santé agréé.",
-    "aboutLink": "À propos"
+    "aboutLink": "À propos",
+    "notice": "Mentions légales"
   },
   "legal": {
     "privacyTitle": "Politique de confidentialité",
@@ -266,7 +290,16 @@
       "Vous n'avez pas reçu votre rapport ou quelque chose s'est mal passé ? Contactez {email} dans les 14 jours en indiquant l'adresse e-mail utilisée, et nous vous renverrons votre rapport ou vous rembourserons.",
       "Le rapport étant un contenu numérique livré immédiatement, le droit légal de rétractation prend fin dès son envoi. Nous vous aiderons néanmoins toujours si quelque chose ne va pas.",
       "Les remboursements sont effectués sur le moyen de paiement d'origine sous 5 à 10 jours ouvrés."
-    ]
+    ],
+    "noticeTitle": "Mentions légales",
+    "notice": {
+      "company": "Société",
+      "address": "Adresse",
+      "representative": "Représentée par",
+      "registration": "Immatriculation",
+      "vat": "Numéro de TVA",
+      "contact": "Contact"
+    }
   },
   "contact": {
     "title": "Contact",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Curieux de savoir ce que disent vos résultats ?",
     "ctaButton": "Découvrir nos tests"
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "text": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "home": "Retour à l'accueil"
   }
 }

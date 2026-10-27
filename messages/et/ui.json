@@ -149,7 +149,30 @@
       "intensity": "Kui palju on sind viimase kuu jooksul häirinud järgmised probleemid?"
     },
     "unanswered": "Jätkamiseks vasta kõigile sellel lehel olevatele väidetele.",
-    "tryNow": "Proovi kohe"
+    "tryNow": "Proovi kohe",
+    "faqTitle": "Korduma kippuvad küsimused: „{test}“",
+    "faq": [
+      {
+        "q": "Mida test „{test}“ mõõdab?",
+        "a": "Test „{test}“ vaatleb järgmisi valdkondi: {dimensions}. Sinu raport näitab igaühe kohta tulemust, selgitab, mida see sinu jaoks tähendab, ja annab praktilisi nõuandeid."
+      },
+      {
+        "q": "Kui kaua test „{test}“ aega võtab?",
+        "a": "Testis on {count} lühikest väidet ja see võtab umbes {minutes} minutit. Sinu edenemine salvestatakse automaatselt, nii et saad pausi teha ja hiljem jätkata."
+      },
+      {
+        "q": "Kas test „{test}“ on tasuta?",
+        "a": "Jah, testi tegemine on tasuta. Kui soovid täielikku isiklikku raportit kõigi tulemuste ja selgitustega, saad selle tellida hinnaga {price} ühekordse maksena – ilma tellimuseta."
+      },
+      {
+        "q": "Kui usaldusväärne on test „{test}“?",
+        "a": "Test põhineb tunnustatud psühholoogilisel uurimistööl ja kasutab iga valdkonna kohta palju väiteid, mistõttu on tulemus stabiilsem kui lühikese viktoriini puhul. Kõige täpsema pildi saamiseks vasta ausalt ja liigselt mõtlemata."
+      },
+      {
+        "q": "Kas test „{test}“ on diagnoos?",
+        "a": "Ei. Test „{test}“ on mõeldud eneserefleksiooniks ega ole meditsiiniline ega psühholoogiline diagnoos. Kui oled oma vaimse tervise pärast mures, räägi kvalifitseeritud spetsialistiga."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Tagastuspoliitika",
     "rights": "© {year} {site}. Kõik õigused kaitstud.",
     "disclaimer": "{site} ei ole meditsiiniteenus. Kliiniliste murede korral pöördu litsentseeritud spetsialisti poole.",
-    "aboutLink": "Meist"
+    "aboutLink": "Meist",
+    "notice": "Õiguslik teave"
   },
   "legal": {
     "privacyTitle": "Privaatsuspoliitika",
@@ -266,7 +290,16 @@
       "Kas sa ei saanud oma raportit või läks midagi valesti? Kirjuta 14 päeva jooksul aadressil {email}, märkides kasutatud e-posti aadressi, ja me saadame raporti uuesti või maksame raha tagasi.",
       "Kuna raport on kohe edastatav digitaalne sisu, lõpeb seadusjärgne taganemisõigus selle saatmisega. Kui midagi on valesti, aitame sind siiski alati.",
       "Raha tagastatakse algsele makseviisile 5–10 tööpäeva jooksul."
-    ]
+    ],
+    "noticeTitle": "Õiguslik teave",
+    "notice": {
+      "company": "Ettevõte",
+      "address": "Aadress",
+      "representative": "Esindaja",
+      "registration": "Registrikood",
+      "vat": "KMKR number",
+      "contact": "Kontakt"
+    }
   },
   "contact": {
     "title": "Kontakt",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Huvitav, mida sinu tulemused ütlevad?",
     "ctaButton": "Vaata meie teste"
+  },
+  "notFound": {
+    "title": "Lehte ei leitud",
+    "text": "Otsitud lehte ei ole olemas või see on teisaldatud.",
+    "home": "Tagasi avalehele"
   }
 }

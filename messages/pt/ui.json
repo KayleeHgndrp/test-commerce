@@ -149,7 +149,30 @@
       "intensity": "No último mês, até que ponto foste afetado pelos seguintes problemas?"
     },
     "unanswered": "Responde a todas as afirmações desta página para continuar.",
-    "tryNow": "Experimenta agora"
+    "tryNow": "Experimenta agora",
+    "faqTitle": "Perguntas frequentes sobre o teste «{test}»",
+    "faq": [
+      {
+        "q": "O que mede o teste «{test}»?",
+        "a": "O teste «{test}» analisa as seguintes áreas: {dimensions}. O teu relatório mostra uma pontuação para cada uma, explica o que significa para ti e dá-te dicas práticas."
+      },
+      {
+        "q": "Quanto tempo demora o teste «{test}»?",
+        "a": "O teste tem {count} afirmações curtas e demora cerca de {minutes} minutos. O teu progresso é guardado automaticamente, por isso podes fazer uma pausa e continuar mais tarde."
+      },
+      {
+        "q": "O teste «{test}» é gratuito?",
+        "a": "Sim, fazer o teste é gratuito. Se quiseres o teu relatório pessoal completo com todas as pontuações e explicações, podes encomendá-lo por {price}, num único pagamento, sem subscrição."
+      },
+      {
+        "q": "Até que ponto é fiável o teste «{test}»?",
+        "a": "O teste baseia-se em investigação psicológica reconhecida e usa muitas afirmações por área, o que torna o resultado mais estável do que um questionário rápido. Responde com honestidade e sem pensar demasiado para obteres a imagem mais exata."
+      },
+      {
+        "q": "O teste «{test}» é um diagnóstico?",
+        "a": "Não. O teste «{test}» destina-se à autorreflexão e não é um diagnóstico médico ou psicológico. Se tens preocupações com a tua saúde mental, fala com um profissional qualificado."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Política de reembolso",
     "rights": "© {year} {site}. Todos os direitos reservados.",
     "disclaimer": "O {site} não é um serviço médico. Para questões clínicas, consulta um profissional de saúde habilitado.",
-    "aboutLink": "Sobre nós"
+    "aboutLink": "Sobre nós",
+    "notice": "Informação legal"
   },
   "legal": {
     "privacyTitle": "Política de privacidade",
@@ -266,7 +290,16 @@
       "Não recebeste o teu relatório ou algo correu mal? Contacta {email} no prazo de 14 dias, indicando o endereço de e-mail que utilizaste, e voltaremos a enviar o teu relatório ou reembolsaremos o teu pagamento.",
       "Uma vez que o relatório é um conteúdo digital entregue de imediato, o direito legal de livre resolução cessa assim que for enviado. Ainda assim, ajudar-te-emos sempre se algo não estiver bem.",
       "Os reembolsos são feitos para o método de pagamento original no prazo de 5 a 10 dias úteis."
-    ]
+    ],
+    "noticeTitle": "Informação legal",
+    "notice": {
+      "company": "Empresa",
+      "address": "Morada",
+      "representative": "Representada por",
+      "registration": "Registo comercial",
+      "vat": "Número de IVA",
+      "contact": "Contacto"
+    }
   },
   "contact": {
     "title": "Contacto",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Tens curiosidade sobre o que dizem os teus resultados?",
     "ctaButton": "Explora os nossos testes"
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "text": "A página que procuras não existe ou foi movida.",
+    "home": "Voltar ao início"
   }
 }

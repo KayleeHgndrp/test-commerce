@@ -149,7 +149,30 @@
       "intensity": "Jak bardzo w ciągu ostatniego miesiąca dokuczały Ci następujące problemy?"
     },
     "unanswered": "Odpowiedz na wszystkie stwierdzenia na tej stronie, aby kontynuować.",
-    "tryNow": "Wypróbuj"
+    "tryNow": "Wypróbuj",
+    "faqTitle": "Najczęstsze pytania o test „{test}”",
+    "faq": [
+      {
+        "q": "Co mierzy test „{test}”?",
+        "a": "Test „{test}” obejmuje następujące obszary: {dimensions}. Twój raport pokazuje wynik dla każdego z nich, wyjaśnia, co oznacza dla Ciebie, i podsuwa praktyczne wskazówki."
+      },
+      {
+        "q": "Ile trwa test „{test}”?",
+        "a": "Test składa się z krótkich stwierdzeń (liczba: {count}) i zajmuje około {minutes} min. Twoje postępy są zapisywane automatycznie, więc możesz zrobić przerwę i wrócić później."
+      },
+      {
+        "q": "Czy test „{test}” jest bezpłatny?",
+        "a": "Tak, rozwiązanie testu jest bezpłatne. Jeśli chcesz otrzymać pełny raport osobisty ze wszystkimi wynikami i wyjaśnieniami, możesz go zamówić za {price} – płatność jednorazowa, bez subskrypcji."
+      },
+      {
+        "q": "Na ile wiarygodny jest test „{test}”?",
+        "a": "Test opiera się na uznanych badaniach psychologicznych i zawiera wiele stwierdzeń dla każdego obszaru, dzięki czemu wynik jest stabilniejszy niż w krótkim quizie. Odpowiadaj szczerze i bez zbędnego zastanawiania się, a uzyskasz najdokładniejszy obraz."
+      },
+      {
+        "q": "Czy test „{test}” to diagnoza?",
+        "a": "Nie. Test „{test}” służy autorefleksji i nie stanowi diagnozy medycznej ani psychologicznej. Jeśli niepokoi Cię Twoje zdrowie psychiczne, porozmawiaj z wykwalifikowanym specjalistą."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Zasady zwrotów",
     "rights": "© {year} {site}. Wszelkie prawa zastrzeżone.",
     "disclaimer": "{site} nie jest usługą medyczną. W sprawach klinicznych skonsultuj się z uprawnionym specjalistą.",
-    "aboutLink": "O nas"
+    "aboutLink": "O nas",
+    "notice": "Nota prawna"
   },
   "legal": {
     "privacyTitle": "Polityka prywatności",
@@ -266,7 +290,16 @@
       "Nie otrzymałeś raportu lub coś poszło nie tak? Napisz na {email} w ciągu 14 dni, podając użyty adres e-mail, a wyślemy raport ponownie lub zwrócimy płatność.",
       "Ponieważ raport jest treścią cyfrową dostarczaną natychmiast, ustawowe prawo do odstąpienia od umowy wygasa z chwilą jego wysłania. Mimo to zawsze pomożemy, jeśli coś jest nie tak.",
       "Zwroty są realizowane na pierwotną metodę płatności w ciągu 5–10 dni roboczych."
-    ]
+    ],
+    "noticeTitle": "Nota prawna",
+    "notice": {
+      "company": "Firma",
+      "address": "Adres",
+      "representative": "Reprezentowana przez",
+      "registration": "Rejestr przedsiębiorców",
+      "vat": "Numer VAT",
+      "contact": "Kontakt"
+    }
   },
   "contact": {
     "title": "Kontakt",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Ciekawi Cię, co mówią Twoje wyniki?",
     "ctaButton": "Poznaj nasze testy"
+  },
+  "notFound": {
+    "title": "Nie znaleziono strony",
+    "text": "Strona, której szukasz, nie istnieje lub została przeniesiona.",
+    "home": "Wróć na stronę główną"
   }
 }

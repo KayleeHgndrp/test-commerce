@@ -149,7 +149,30 @@
       "intensity": "Gjatë muajit të fundit, sa shumë të kanë shqetësuar problemet e mëposhtme?"
     },
     "unanswered": "Përgjigju të gjitha pohimeve në këtë faqe për të vazhduar.",
-    "tryNow": "Provo tani"
+    "tryNow": "Provo tani",
+    "faqTitle": "Pyetje të shpeshta: {test}",
+    "faq": [
+      {
+        "q": "Çfarë mat {test}?",
+        "a": "{test} shqyrton këto fusha: {dimensions}. Raporti yt tregon një rezultat për secilën prej tyre, shpjegon çfarë do të thotë për ty dhe jep këshilla praktike."
+      },
+      {
+        "q": "Sa zgjat {test}?",
+        "a": "Testi ka {count} pohime të shkurtra dhe zgjat rreth {minutes} minuta. Përparimi yt ruhet automatikisht, kështu që mund të bësh një pushim dhe të vazhdosh më vonë."
+      },
+      {
+        "q": "A është {test} falas?",
+        "a": "Po, plotësimi i testit është falas. Nëse dëshiron raportin tënd të plotë personal me të gjitha rezultatet dhe shpjegimet, mund ta porosisësh për {price}, të paguar një herë — pa abonim."
+      },
+      {
+        "q": "Sa i besueshëm është {test}?",
+        "a": "Testi bazohet në kërkime të njohura psikologjike dhe përdor shumë pohime për çdo fushë, gjë që e bën rezultatin më të qëndrueshëm se një kuiz i shkurtër. Përgjigju sinqerisht dhe pa e menduar tepër për pamjen më të saktë."
+      },
+      {
+        "q": "A është {test} diagnozë?",
+        "a": "Jo. {test} është menduar për vetëreflektim dhe nuk është diagnozë mjekësore ose psikologjike. Nëse ke shqetësime për shëndetin tënd mendor, të lutem fol me një profesionist të kualifikuar."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Politika e rimbursimit",
     "rights": "© {year} {site}. Të gjitha të drejtat të rezervuara.",
     "disclaimer": "{site} nuk është shërbim mjekësor. Për shqetësime klinike, të lutem konsulto një profesionist të licencuar.",
-    "aboutLink": "Rreth nesh"
+    "aboutLink": "Rreth nesh",
+    "notice": "Njoftim ligjor"
   },
   "legal": {
     "privacyTitle": "Politika e privatësisë",
@@ -266,7 +290,16 @@
       "Nuk e more raportin ose diçka shkoi keq? Kontakto {email} brenda 14 ditëve, duke përmendur adresën e emailit që përdore, dhe do ta ridërgojmë raportin ose do të ta kthejmë pagesën.",
       "Meqenëse raporti është përmbajtje dixhitale që dorëzohet menjëherë, e drejta ligjore e tërheqjes skadon sapo të jetë dërguar. Megjithatë, do të të ndihmojmë gjithmonë nëse diçka nuk shkon.",
       "Rimbursimet bëhen në mënyrën origjinale të pagesës brenda 5–10 ditëve pune."
-    ]
+    ],
+    "noticeTitle": "Njoftim ligjor",
+    "notice": {
+      "company": "Kompania",
+      "address": "Adresa",
+      "representative": "Përfaqësuar nga",
+      "registration": "Regjistrimi i kompanisë",
+      "vat": "Numri i TVSH-së",
+      "contact": "Kontakt"
+    }
   },
   "contact": {
     "title": "Kontakt",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Kurioz/e se çfarë thonë rezultatet e tua?",
     "ctaButton": "Shiko testet tona"
+  },
+  "notFound": {
+    "title": "Faqja nuk u gjet",
+    "text": "Faqja që po kërkon nuk ekziston ose është zhvendosur.",
+    "home": "Kthehu në kryefaqe"
   }
 }

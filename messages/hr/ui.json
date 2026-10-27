@@ -149,7 +149,30 @@
       "intensity": "Koliko su vas tijekom posljednjeg mjeseca mučili sljedeći problemi?"
     },
     "unanswered": "Odgovorite na sve tvrdnje na ovoj stranici kako biste nastavili.",
-    "tryNow": "Isprobajte"
+    "tryNow": "Isprobajte",
+    "faqTitle": "Česta pitanja: {test}",
+    "faq": [
+      {
+        "q": "Što mjeri {test}?",
+        "a": "{test} obuhvaća sljedeća područja: {dimensions}. Vaše izvješće prikazuje rezultat za svako od njih, objašnjava što on znači za vas i daje praktične savjete."
+      },
+      {
+        "q": "Koliko traje {test}?",
+        "a": "Test ima {count} kratkih tvrdnji i traje oko {minutes} minuta. Vaš se napredak automatski sprema, pa možete napraviti stanku i nastaviti kasnije."
+      },
+      {
+        "q": "Je li {test} besplatan?",
+        "a": "Da, rješavanje testa je besplatno. Ako želite cjelovito osobno izvješće sa svim rezultatima i objašnjenjima, možete ga naručiti za {price} uz jednokratno plaćanje – bez pretplate."
+      },
+      {
+        "q": "Koliko je pouzdan {test}?",
+        "a": "Test se temelji na priznatim psihološkim istraživanjima i koristi mnogo tvrdnji po području, zbog čega je rezultat stabilniji nego kod kratkog kviza. Za najtočniju sliku odgovarajte iskreno i bez previše razmišljanja."
+      },
+      {
+        "q": "Je li {test} dijagnoza?",
+        "a": "Ne. {test} namijenjen je samorefleksiji i nije medicinska ni psihološka dijagnoza. Ako ste zabrinuti za svoje mentalno zdravlje, obratite se kvalificiranom stručnjaku."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Pravila povrata novca",
     "rights": "© {year} {site}. Sva prava pridržana.",
     "disclaimer": "{site} nije medicinska usluga. Za kliničke tegobe obratite se licenciranom stručnjaku.",
-    "aboutLink": "O nama"
+    "aboutLink": "O nama",
+    "notice": "Impresum"
   },
   "legal": {
     "privacyTitle": "Pravila privatnosti",
@@ -266,7 +290,16 @@
       "Niste primili izvješće ili je nešto pošlo po zlu? Javite se na {email} u roku od 14 dana, navedite adresu e-pošte koju ste koristili i ponovno ćemo vam poslati izvješće ili vratiti novac.",
       "Budući da je izvješće digitalni sadržaj koji se odmah isporučuje, zakonsko pravo na jednostrani raskid ugovora prestaje nakon njegova slanja. Ipak, uvijek ćemo vam pomoći ako nešto nije u redu.",
       "Povrat novca provodi se na izvorni način plaćanja u roku od 5 do 10 radnih dana."
-    ]
+    ],
+    "noticeTitle": "Impresum",
+    "notice": {
+      "company": "Tvrtka",
+      "address": "Adresa",
+      "representative": "Zastupnik",
+      "registration": "Upis u registar",
+      "vat": "PDV identifikacijski broj",
+      "contact": "Kontakt"
+    }
   },
   "contact": {
     "title": "Kontakt",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Zanima vas što govore vaši rezultati?",
     "ctaButton": "Istražite naše testove"
+  },
+  "notFound": {
+    "title": "Stranica nije pronađena",
+    "text": "Stranica koju tražite ne postoji ili je premještena.",
+    "home": "Natrag na početnu"
   }
 }

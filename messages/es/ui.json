@@ -149,7 +149,30 @@
       "intensity": "En el último mes, ¿cuánto te han molestado los siguientes problemas?"
     },
     "unanswered": "Responde a todas las afirmaciones de esta página para continuar.",
-    "tryNow": "Probar ahora"
+    "tryNow": "Probar ahora",
+    "faqTitle": "Preguntas frecuentes sobre el test «{test}»",
+    "faq": [
+      {
+        "q": "¿Qué mide el test «{test}»?",
+        "a": "El test «{test}» analiza las siguientes áreas: {dimensions}. Tu informe muestra una puntuación para cada una, explica qué significa para ti y te da consejos prácticos."
+      },
+      {
+        "q": "¿Cuánto dura el test «{test}»?",
+        "a": "El test tiene {count} afirmaciones breves y dura unos {minutes} minutos. Tu progreso se guarda automáticamente, así que puedes hacer una pausa y seguir más tarde."
+      },
+      {
+        "q": "¿Es gratis el test «{test}»?",
+        "a": "Sí, hacer el test es gratis. Si quieres tu informe personal completo con todas las puntuaciones y explicaciones, puedes pedirlo por {price}, en un único pago y sin suscripción."
+      },
+      {
+        "q": "¿Es fiable el test «{test}»?",
+        "a": "El test se basa en investigación psicológica contrastada y usa muchas afirmaciones por área, lo que hace que el resultado sea más estable que el de un test rápido. Responde con sinceridad y sin darle demasiadas vueltas para obtener la imagen más precisa."
+      },
+      {
+        "q": "¿Es el test «{test}» un diagnóstico?",
+        "a": "No. El test «{test}» está pensado para la autorreflexión y no es un diagnóstico médico ni psicológico. Si te preocupa tu salud mental, habla con un profesional cualificado."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Política de reembolso",
     "rights": "© {year} {site}. Todos los derechos reservados.",
     "disclaimer": "{site} no es un servicio médico. Si tienes dudas clínicas, consulta a un profesional colegiado.",
-    "aboutLink": "Sobre nosotros"
+    "aboutLink": "Sobre nosotros",
+    "notice": "Aviso legal"
   },
   "legal": {
     "privacyTitle": "Política de privacidad",
@@ -266,7 +290,16 @@
       "¿No has recibido tu informe o ha habido algún problema? Escribe a {email} en un plazo de 14 días indicando la dirección de correo que usaste, y te reenviaremos el informe o te devolveremos el pago.",
       "Como el informe es contenido digital que se entrega de inmediato, el derecho legal de desistimiento se extingue una vez enviado. Aun así, siempre te ayudaremos si algo no va bien.",
       "Los reembolsos se realizan al método de pago original en un plazo de 5 a 10 días hábiles."
-    ]
+    ],
+    "noticeTitle": "Aviso legal",
+    "notice": {
+      "company": "Empresa",
+      "address": "Dirección",
+      "representative": "Representada por",
+      "registration": "Registro mercantil",
+      "vat": "NIF-IVA",
+      "contact": "Contacto"
+    }
   },
   "contact": {
     "title": "Contacto",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "¿Te pica la curiosidad por lo que dicen tus resultados?",
     "ctaButton": "Descubre nuestros tests"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "text": "La página que buscas no existe o se ha movido.",
+    "home": "Volver al inicio"
   }
 }

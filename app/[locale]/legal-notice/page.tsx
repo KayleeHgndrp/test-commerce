@@ -35,7 +35,6 @@ export default async function LegalNotice({ params }: PageProps<"/[locale]/legal
             </div>
           ))}
       </dl>
-      <p className="mt-6 text-sm leading-relaxed text-muted">{n.dispute}</p>
     </article>
   );
 }

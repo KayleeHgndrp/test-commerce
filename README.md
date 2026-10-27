@@ -42,15 +42,43 @@ straight away. Without `SMTP_HOST` the email is logged to the console instead.
 Missing translations fall back to English per key, so a partially translated language still works.
 See `docs/CONTENT_SPEC.md` for the content format.
 
-## Going live
+## Going live (checklist)
 
-1. Set all variables from `.env.example` in your hosting environment (e.g. Vercel).
-2. In Stripe, add a webhook endpoint `https://<domain>/api/stripe/webhook` for
-   `checkout.session.completed` and `checkout.session.async_payment_succeeded`; enable the payment methods
-   you want (cards, iDEAL, Bancontact, …) in the Stripe dashboard.
-3. Set `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS` and `CONTACT_FROM_EMAIL` (make sure SPF/DKIM for the
-   sender domain are set up at your mail provider so reports don't land in spam).
-4. Add your company details via `NEXT_PUBLIC_COMPANY_DETAILS` and review the privacy/terms texts.
+**1. Brand & domain**
+- Choose the final name and set `NEXT_PUBLIC_SITE_NAME` and `NEXT_PUBLIC_SITE_URL` (used in emails, PDFs, share images, sitemap).
+- Replace `app/icon.svg` if you have your own logo.
+
+**2. Hosting (Vercel recommended)**
+1. Import the GitHub repo at vercel.com → New Project (framework is detected automatically).
+2. Add every variable from `.env.example` under Settings → Environment Variables.
+3. Add your domain under Settings → Domains and point DNS to Vercel.
+
+**3. Stripe**
+1. Copy the live secret key into `STRIPE_SECRET_KEY`.
+2. Developers → Webhooks → add `https://<domain>/api/stripe/webhook` with events `checkout.session.completed` and
+   `checkout.session.async_payment_succeeded`; copy the signing secret into `STRIPE_WEBHOOK_SECRET`.
+3. Settings → Payment methods: enable cards, iDEAL, Bancontact, etc.
+4. EU VAT: register for the OSS scheme, activate Stripe Tax (Settings → Tax), then set `STRIPE_AUTOMATIC_TAX=true`.
+   The €1.25 price is VAT-inclusive; Stripe applies the customer country's rate.
+5. Do one real test purchase and refund it.
+
+**4. Email (SMTP)**
+- Fill `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS`, `CONTACT_FROM_EMAIL`.
+- Set up SPF, DKIM and DMARC for the sender domain at your mail provider, otherwise reports land in spam.
+
+**5. Legal (have a lawyer review)**
+- Company details in `COMPANY_*` (legal notice / Impressum, mandatory in DE/AT) and `NEXT_PUBLIC_COMPANY_DETAILS`.
+- Review the privacy policy, terms, cookie and refund texts (`messages/*/ui.json` → `legal`).
+- Checkout consent includes the EU waiver of the right of withdrawal for immediately delivered digital content.
+- Have the PHQ-9 and PCL-5 items checked against the official translation for each language
+  (`messages/<locale>/tests/depression.json` items 0–8, `trauma.json` items 0–19).
+
+**6. Monitoring & analytics**
+- Plausible: add the site, set `NEXT_PUBLIC_PLAUSIBLE_DOMAIN`, create goals `Test Start`, `Test Complete`,
+  `Checkout Start` and `Purchase` (enable revenue tracking for Purchase).
+- Set `ERROR_WEBHOOK_URL` (Slack/Discord/Teams incoming webhook) to get notified of server errors.
+- Set `ADMIN_TOKEN` to resend reports: `curl -X POST https://<domain>/api/admin/resend -H "authorization: Bearer $ADMIN_TOKEN"
+  -H "content-type: application/json" -d '{"sessionId":"cs_live_…"}'` (optionally `"email":"other@address"`).
 
 ## Validated questionnaires
 

@@ -149,7 +149,30 @@
       "intensity": "Son bir ay içinde aşağıdaki sorunlar seni ne kadar rahatsız etti?"
     },
     "unanswered": "Devam etmek için bu sayfadaki tüm ifadeleri yanıtla.",
-    "tryNow": "Hemen dene"
+    "tryNow": "Hemen dene",
+    "faqTitle": "Sıkça sorulan sorular: {test}",
+    "faq": [
+      {
+        "q": "{test} neyi ölçer?",
+        "a": "{test} şu alanları inceler: {dimensions}. Raporunuz her biri için bir puan gösterir, bunun sizin için ne anlama geldiğini açıklar ve pratik öneriler sunar."
+      },
+      {
+        "q": "{test} ne kadar sürer?",
+        "a": "Test {count} kısa ifadeden oluşur ve yaklaşık {minutes} dakika sürer. İlerlemeniz otomatik olarak kaydedilir; ara verip daha sonra devam edebilirsiniz."
+      },
+      {
+        "q": "{test} ücretsiz mi?",
+        "a": "Evet, testi çözmek ücretsizdir. Tüm puanları ve açıklamaları içeren tam kişisel raporunuzu isterseniz, tek seferlik {price} ödemeyle sipariş edebilirsiniz — abonelik yok."
+      },
+      {
+        "q": "{test} ne kadar güvenilir?",
+        "a": "Test, yerleşik psikolojik araştırmalara dayanır ve her alan için çok sayıda ifade kullanır; bu da sonucu kısa bir quizden daha istikrarlı kılar. En doğru tablo için dürüstçe ve fazla düşünmeden yanıtlayın."
+      },
+      {
+        "q": "{test} bir teşhis mi?",
+        "a": "Hayır. {test} kendini tanıma amaçlıdır; tıbbi veya psikolojik bir teşhis değildir. Ruh sağlığınızla ilgili endişeleriniz varsa lütfen yetkin bir uzmanla görüşün."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "İade politikası",
     "rights": "© {year} {site}. Tüm hakları saklıdır.",
     "disclaimer": "{site} bir sağlık hizmeti değildir. Klinik endişeleriniz için lütfen lisanslı bir uzmana danışın.",
-    "aboutLink": "Hakkımızda"
+    "aboutLink": "Hakkımızda",
+    "notice": "Künye"
   },
   "legal": {
     "privacyTitle": "Gizlilik politikası",
@@ -266,7 +290,16 @@
       "Raporunuzu almadınız mı ya da bir sorun mu oluştu? Kullandığınız e-posta adresini belirterek 14 gün içinde {email} adresine yazın; raporunuzu yeniden gönderelim ya da ödemenizi iade edelim.",
       "Rapor anında teslim edilen dijital içerik olduğundan, yasal cayma hakkı rapor gönderildiğinde sona erer. Yine de bir sorun olursa size her zaman yardımcı oluruz.",
       "İadeler, 5–10 iş günü içinde orijinal ödeme yöntemine yapılır."
-    ]
+    ],
+    "noticeTitle": "Künye",
+    "notice": {
+      "company": "Şirket",
+      "address": "Adres",
+      "representative": "Temsilci",
+      "registration": "Ticaret sicil kaydı",
+      "vat": "KDV numarası",
+      "contact": "İletişim"
+    }
   },
   "contact": {
     "title": "İletişim",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Sonuçlarınızın ne söylediğini merak ediyor musunuz?",
     "ctaButton": "Testlerimizi keşfedin"
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "text": "Aradığınız sayfa mevcut değil veya taşınmış.",
+    "home": "Ana sayfaya dön"
   }
 }

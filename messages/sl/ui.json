@@ -149,7 +149,30 @@
       "intensity": "Koliko so vas v zadnjem mesecu motile naslednje težave?"
     },
     "unanswered": "Za nadaljevanje odgovorite na vse trditve na tej strani.",
-    "tryNow": "Preizkusite"
+    "tryNow": "Preizkusite",
+    "faqTitle": "Pogosta vprašanja: {test}",
+    "faq": [
+      {
+        "q": "Kaj meri {test}?",
+        "a": "{test} zajema naslednja področja: {dimensions}. Vaše poročilo prikaže rezultat za vsako od njih, pojasni, kaj pomeni za vas, in ponudi praktične nasvete."
+      },
+      {
+        "q": "Koliko časa traja {test}?",
+        "a": "Test vsebuje {count} kratkih trditev in traja približno {minutes} minut. Vaš napredek se samodejno shranjuje, zato lahko naredite premor in nadaljujete pozneje."
+      },
+      {
+        "q": "Ali je {test} brezplačen?",
+        "a": "Da, reševanje testa je brezplačno. Če želite celotno osebno poročilo z vsemi rezultati in razlagami, ga lahko naročite za {price} z enkratnim plačilom – brez naročnine."
+      },
+      {
+        "q": "Kako zanesljiv je {test}?",
+        "a": "Test temelji na uveljavljenih psiholoških raziskavah in za vsako področje uporablja veliko trditev, zato je rezultat stabilnejši kot pri kratkem kvizu. Za čim natančnejšo sliko odgovarjajte iskreno in brez pretiranega razmišljanja."
+      },
+      {
+        "q": "Ali je {test} diagnoza?",
+        "a": "Ne. {test} je namenjen samorefleksiji in ni medicinska ali psihološka diagnoza. Če vas skrbi vaše duševno zdravje, se posvetujte z usposobljenim strokovnjakom."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Pravilnik o vračilu",
     "rights": "© {year} {site}. Vse pravice pridržane.",
     "disclaimer": "{site} ni zdravstvena storitev. Pri kliničnih težavah se posvetujte z licenciranim strokovnjakom.",
-    "aboutLink": "O nas"
+    "aboutLink": "O nas",
+    "notice": "Impresum"
   },
   "legal": {
     "privacyTitle": "Pravilnik o zasebnosti",
@@ -266,7 +290,16 @@
       "Poročila niste prejeli ali je šlo kaj narobe? V 14 dneh nam pišite na {email} in navedite e-naslov, ki ste ga uporabili, pa vam bomo poročilo poslali znova ali vrnili plačilo.",
       "Ker je poročilo digitalna vsebina, ki je dostavljena takoj, zakonska pravica do odstopa od pogodbe preneha, ko je poslano. Kljub temu vam bomo vedno pomagali, če kaj ni v redu.",
       "Vračila izvedemo na prvotni način plačila v 5–10 delovnih dneh."
-    ]
+    ],
+    "noticeTitle": "Impresum",
+    "notice": {
+      "company": "Podjetje",
+      "address": "Naslov",
+      "representative": "Zastopnik",
+      "registration": "Vpis v register",
+      "vat": "ID za DDV",
+      "contact": "Kontakt"
+    }
   },
   "contact": {
     "title": "Kontakt",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Vas zanima, kaj povedo vaši rezultati?",
     "ctaButton": "Oglejte si naše teste"
+  },
+  "notFound": {
+    "title": "Strani ni mogoče najti",
+    "text": "Stran, ki jo iščete, ne obstaja ali je bila premaknjena.",
+    "home": "Nazaj na začetno stran"
   }
 }

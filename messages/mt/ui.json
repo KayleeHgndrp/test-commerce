@@ -149,7 +149,30 @@
       "intensity": "Matul l-aħħar xahar, kemm iddejqek il-problemi li ġejjin?"
     },
     "unanswered": "Wieġeb l-istqarrijiet kollha f'din il-paġna biex tkompli.",
-    "tryNow": "Ipprova issa"
+    "tryNow": "Ipprova issa",
+    "faqTitle": "Mistoqsijiet frekwenti: {test}",
+    "faq": [
+      {
+        "q": "X'ikejjel {test}?",
+        "a": "{test} iħares lejn dawn l-oqsma: {dimensions}. Ir-rapport tiegħek juri punteġġ għal kull wieħed minnhom, jispjega xi jfisser għalik u jagħtik pariri prattiċi."
+      },
+      {
+        "q": "Kemm idum {test}?",
+        "a": "It-test fih {count} stqarrija qasira u jieħu madwar {minutes} minuti. Il-progress tiegħek jiġi ssejvjat awtomatikament, għalhekk tista' tieħu pawża u tkompli aktar tard."
+      },
+      {
+        "q": "{test} huwa b'xejn?",
+        "a": "Iva, li tagħmel it-test huwa b'xejn. Jekk trid ir-rapport personali sħiħ tiegħek bil-punteġġi u l-ispjegazzjonijiet kollha, tista' tordnah għal {price}, imħallas darba biss — mingħajr abbonament."
+      },
+      {
+        "q": "Kemm huwa affidabbli {test}?",
+        "a": "It-test huwa bbażat fuq riċerka psikoloġika stabbilita u juża ħafna stqarrijiet għal kull qasam, u b'hekk ir-riżultat ikun aktar stabbli minn kwiż qasir. Wieġeb b'onestà u mingħajr ma taħsibha wisq biex tieħu l-iżjed stampa preċiża."
+      },
+      {
+        "q": "{test} huwa dijanjożi?",
+        "a": "Le. {test} huwa maħsub għar-riflessjoni personali u mhuwiex dijanjożi medika jew psikoloġika. Jekk inti mħasseb dwar is-saħħa mentali tiegħek, jekk jogħġbok kellem professjonist kwalifikat."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Politika tar-rifużjoni",
     "rights": "© {year} {site}. Id-drittijiet kollha riżervati.",
     "disclaimer": "{site} mhuwiex servizz mediku. Għal tħassib kliniku, jekk jogħġbok ikkonsulta professjonist liċenzjat.",
-    "aboutLink": "Dwarna"
+    "aboutLink": "Dwarna",
+    "notice": "Avviż legali"
   },
   "legal": {
     "privacyTitle": "Politika tal-privatezza",
@@ -266,7 +290,16 @@
       "Ma rċevejtx ir-rapport tiegħek, jew xi ħaġa marret ħażin? Ikkuntattja lil {email} fi żmien 14-il jum, billi ssemmi l-indirizz tal-email li użajt, u nerġgħu nibagħtulek ir-rapport jew inroddulek il-ħlas.",
       "Peress li r-rapport huwa kontenut diġitali li jiġi kkunsinnat immedjatament, id-dritt statutorju ta' rtirar jiskadi ladarba jintbagħat. Madankollu, dejjem ngħinuk jekk xi ħaġa ma tkunx sew.",
       "Ir-rifużjonijiet isiru fuq il-metodu tal-ħlas oriġinali fi żmien 5–10 ijiem tax-xogħol."
-    ]
+    ],
+    "noticeTitle": "Avviż legali",
+    "notice": {
+      "company": "Kumpanija",
+      "address": "Indirizz",
+      "representative": "Rappreżentata minn",
+      "registration": "Reġistrazzjoni tal-kumpanija",
+      "vat": "Numru tal-VAT",
+      "contact": "Kuntatt"
+    }
   },
   "contact": {
     "title": "Ikkuntattjana",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Kurjuż x'jgħidu r-riżultati tiegħek?",
     "ctaButton": "Esplora t-testijiet tagħna"
+  },
+  "notFound": {
+    "title": "Il-paġna ma nstabitx",
+    "text": "Il-paġna li qed tfittex ma teżistix jew ġiet imċaqalqa.",
+    "home": "Lura għall-paġna ewlenija"
   }
 }

@@ -149,7 +149,30 @@
       "intensity": "Hvor meget har du i den sidste måned været generet af følgende problemer?"
     },
     "unanswered": "Besvar alle udsagn på denne side for at fortsætte.",
-    "tryNow": "Prøv nu"
+    "tryNow": "Prøv nu",
+    "faqTitle": "Ofte stillede spørgsmål om testen »{test}«",
+    "faq": [
+      {
+        "q": "Hvad måler testen »{test}«?",
+        "a": "Testen »{test}« ser på følgende områder: {dimensions}. Din rapport viser en score for hvert område, forklarer, hvad den betyder for dig, og giver praktiske tips."
+      },
+      {
+        "q": "Hvor lang tid tager testen »{test}«?",
+        "a": "Testen består af {count} korte udsagn og tager cirka {minutes} minutter. Dine fremskridt gemmes automatisk, så du kan holde en pause og fortsætte senere."
+      },
+      {
+        "q": "Er testen »{test}« gratis?",
+        "a": "Ja, det er gratis at tage testen. Vil du have din fulde personlige rapport med alle scorer og forklaringer, kan du bestille den for {price} som en engangsbetaling – intet abonnement."
+      },
+      {
+        "q": "Hvor pålidelig er testen »{test}«?",
+        "a": "Testen bygger på anerkendt psykologisk forskning og bruger mange udsagn pr. område, hvilket gør resultatet mere stabilt end en kort quiz. Svar ærligt og uden at tænke for meget over det for at få det mest præcise billede."
+      },
+      {
+        "q": "Er testen »{test}« en diagnose?",
+        "a": "Nej. Testen »{test}« er beregnet til selvrefleksion og er ikke en medicinsk eller psykologisk diagnose. Hvis du er bekymret for din mentale sundhed, så tal med en kvalificeret fagperson."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Refusionspolitik",
     "rights": "© {year} {site}. Alle rettigheder forbeholdes.",
     "disclaimer": "{site} er ikke en sundhedsydelse. Ved kliniske bekymringer bør du kontakte en autoriseret fagperson.",
-    "aboutLink": "Om os"
+    "aboutLink": "Om os",
+    "notice": "Juridisk information"
   },
   "legal": {
     "privacyTitle": "Privatlivspolitik",
@@ -266,7 +290,16 @@
       "Har du ikke modtaget din rapport, eller er noget gået galt? Kontakt {email} inden for 14 dage, og oplys den e-mailadresse, du brugte, så sender vi rapporten igen eller refunderer din betaling.",
       "Da rapporten er digitalt indhold, der leveres med det samme, bortfalder den lovbestemte fortrydelsesret, når den er sendt. Vi hjælper dig dog altid, hvis noget ikke er, som det skal være.",
       "Refusioner sker til den oprindelige betalingsmetode inden for 5–10 hverdage."
-    ]
+    ],
+    "noticeTitle": "Juridisk information",
+    "notice": {
+      "company": "Virksomhed",
+      "address": "Adresse",
+      "representative": "Repræsenteret af",
+      "registration": "CVR-nummer",
+      "vat": "Momsnummer",
+      "contact": "Kontakt"
+    }
   },
   "contact": {
     "title": "Kontakt",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Nysgerrig efter, hvad dine resultater siger?",
     "ctaButton": "Udforsk vores tests"
+  },
+  "notFound": {
+    "title": "Siden blev ikke fundet",
+    "text": "Siden, du leder efter, findes ikke eller er flyttet.",
+    "home": "Tilbage til forsiden"
   }
 }

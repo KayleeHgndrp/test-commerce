@@ -149,7 +149,30 @@
       "intensity": "Wie sehr haben dich die folgenden Probleme im letzten Monat belastet?"
     },
     "unanswered": "Bitte beantworte alle Aussagen auf dieser Seite, um fortzufahren.",
-    "tryNow": "Jetzt starten"
+    "tryNow": "Jetzt starten",
+    "faqTitle": "Häufige Fragen zu „{test}“",
+    "faq": [
+      {
+        "q": "Was misst „{test}“?",
+        "a": "„{test}“ betrachtet folgende Bereiche: {dimensions}. Dein Bericht zeigt für jeden Bereich einen Wert, erklärt, was er für dich bedeutet, und gibt dir praktische Tipps."
+      },
+      {
+        "q": "Wie lange dauert „{test}“?",
+        "a": "Der Test besteht aus {count} kurzen Aussagen und dauert etwa {minutes} Minuten. Dein Fortschritt wird automatisch gespeichert, sodass du eine Pause machen und später weitermachen kannst."
+      },
+      {
+        "q": "Ist „{test}“ kostenlos?",
+        "a": "Ja, der Test selbst ist kostenlos. Wenn du deinen vollständigen persönlichen Bericht mit allen Werten und Erklärungen möchtest, kannst du ihn für {price} bestellen – einmalig bezahlt, ohne Abo."
+      },
+      {
+        "q": "Wie zuverlässig ist „{test}“?",
+        "a": "Der Test beruht auf anerkannter psychologischer Forschung und verwendet viele Aussagen pro Bereich. Dadurch ist das Ergebnis stabiler als bei einem kurzen Quiz. Antworte ehrlich und ohne lange zu grübeln, dann erhältst du das genaueste Bild."
+      },
+      {
+        "q": "Ist „{test}“ eine Diagnose?",
+        "a": "Nein. „{test}“ dient der Selbstreflexion und ist keine medizinische oder psychologische Diagnose. Wenn du dir Sorgen um deine psychische Gesundheit machst, sprich bitte mit einer qualifizierten Fachperson."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Erstattungsrichtlinie",
     "rights": "© {year} {site}. Alle Rechte vorbehalten.",
     "disclaimer": "{site} ist kein medizinischer Dienst. Bei klinischen Anliegen wende dich bitte an eine zugelassene Fachperson.",
-    "aboutLink": "Über uns"
+    "aboutLink": "Über uns",
+    "notice": "Impressum"
   },
   "legal": {
     "privacyTitle": "Datenschutzerklärung",
@@ -266,7 +290,16 @@
       "Du hast deinen Bericht nicht erhalten oder etwas ist schiefgelaufen? Schreib innerhalb von 14 Tagen an {email} und nenne die verwendete E-Mail-Adresse – wir senden deinen Bericht erneut oder erstatten deine Zahlung.",
       "Da der Bericht ein digitaler Inhalt ist, der sofort geliefert wird, erlischt das gesetzliche Widerrufsrecht mit dem Versand. Wenn etwas nicht stimmt, helfen wir dir trotzdem immer weiter.",
       "Erstattungen erfolgen innerhalb von 5–10 Werktagen auf das ursprüngliche Zahlungsmittel."
-    ]
+    ],
+    "noticeTitle": "Impressum",
+    "notice": {
+      "company": "Unternehmen",
+      "address": "Anschrift",
+      "representative": "Vertreten durch",
+      "registration": "Handelsregister",
+      "vat": "USt-IdNr.",
+      "contact": "Kontakt"
+    }
   },
   "contact": {
     "title": "Kontakt",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Neugierig, was deine Ergebnisse verraten?",
     "ctaButton": "Unsere Tests entdecken"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "text": "Die Seite, die du suchst, existiert nicht oder wurde verschoben.",
+    "home": "Zur Startseite"
   }
 }

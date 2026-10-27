@@ -149,7 +149,30 @@
       "intensity": "Hvor mye har du i løpet av den siste måneden vært plaget av følgende problemer?"
     },
     "unanswered": "Svar på alle utsagnene på denne siden for å fortsette.",
-    "tryNow": "Prøv nå"
+    "tryNow": "Prøv nå",
+    "faqTitle": "Ofte stilte spørsmål om {test}",
+    "faq": [
+      {
+        "q": "Hva måler {test}?",
+        "a": "{test} ser på disse områdene: {dimensions}. Rapporten din viser en poengsum for hvert av dem, forklarer hva den betyr for deg og gir praktiske tips."
+      },
+      {
+        "q": "Hvor lang tid tar {test}?",
+        "a": "Testen har {count} korte påstander og tar rundt {minutes} minutter. Fremgangen din lagres automatisk, så du kan ta en pause og fortsette senere."
+      },
+      {
+        "q": "Er {test} gratis?",
+        "a": "Ja, det er gratis å ta testen. Vil du ha den fullstendige personlige rapporten med alle poengsummer og forklaringer, kan du bestille den for {price}, betalt én gang – uten abonnement."
+      },
+      {
+        "q": "Hvor pålitelig er {test}?",
+        "a": "Testen bygger på anerkjent psykologisk forskning og bruker mange påstander per område, noe som gjør resultatet mer stabilt enn en kort quiz. Svar ærlig og uten å tenke for mye for å få det mest presise bildet."
+      },
+      {
+        "q": "Er {test} en diagnose?",
+        "a": "Nei. {test} er ment for selvrefleksjon og er ingen medisinsk eller psykologisk diagnose. Hvis du er bekymret for den psykiske helsen din, bør du snakke med kvalifisert helsepersonell."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Refusjonsregler",
     "rights": "© {year} {site}. Alle rettigheter forbeholdt.",
     "disclaimer": "{site} er ikke en helsetjeneste. Ved kliniske bekymringer bør du kontakte autorisert helsepersonell.",
-    "aboutLink": "Om oss"
+    "aboutLink": "Om oss",
+    "notice": "Selskapsinformasjon"
   },
   "legal": {
     "privacyTitle": "Personvernerklæring",
@@ -266,7 +290,16 @@
       "Har du ikke mottatt rapporten, eller gikk noe galt? Kontakt {email} innen 14 dager og oppgi e-postadressen du brukte, så sender vi rapporten på nytt eller refunderer betalingen.",
       "Fordi rapporten er digitalt innhold som leveres umiddelbart, bortfaller den lovfestede angreretten når den er sendt. Vi hjelper deg likevel alltid hvis noe ikke stemmer.",
       "Refusjoner gjøres til den opprinnelige betalingsmåten innen 5–10 virkedager."
-    ]
+    ],
+    "noticeTitle": "Selskapsinformasjon",
+    "notice": {
+      "company": "Selskap",
+      "address": "Adresse",
+      "representative": "Representert ved",
+      "registration": "Organisasjonsnummer",
+      "vat": "MVA-nummer",
+      "contact": "Kontakt"
+    }
   },
   "contact": {
     "title": "Kontakt",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Nysgjerrig på hva resultatene dine sier?",
     "ctaButton": "Utforsk testene våre"
+  },
+  "notFound": {
+    "title": "Fant ikke siden",
+    "text": "Siden du leter etter, finnes ikke eller er flyttet.",
+    "home": "Tilbake til forsiden"
   }
 }

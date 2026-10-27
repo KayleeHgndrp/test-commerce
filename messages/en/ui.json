@@ -149,7 +149,30 @@
       "intensity": "In the past month, how much were you bothered by the following problems?"
     },
     "unanswered": "Please answer all statements on this page to continue.",
-    "tryNow": "Try now"
+    "tryNow": "Try now",
+    "faqTitle": "Frequently asked questions about the {test}",
+    "faq": [
+      {
+        "q": "What does the {test} measure?",
+        "a": "The {test} looks at the following areas: {dimensions}. Your report shows a score for each of them, explains what it means for you and gives practical tips."
+      },
+      {
+        "q": "How long does the {test} take?",
+        "a": "The test has {count} short statements and takes about {minutes} minutes. Your progress is saved automatically, so you can take a break and continue later."
+      },
+      {
+        "q": "Is the {test} free?",
+        "a": "Yes, taking the test is free. If you want your full personal report with all scores and explanations, you can order it for {price}, paid once — no subscription."
+      },
+      {
+        "q": "How reliable is the {test}?",
+        "a": "The test is based on established psychological research and uses many statements per area, which makes the result more stable than a short quiz. Answer honestly and without overthinking for the most accurate picture."
+      },
+      {
+        "q": "Is the {test} a diagnosis?",
+        "a": "No. The {test} is meant for self-reflection and is not a medical or psychological diagnosis. If you have concerns about your mental health, please talk to a qualified professional."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -275,8 +298,7 @@
       "representative": "Represented by",
       "registration": "Company registration",
       "vat": "VAT number",
-      "contact": "Contact",
-      "dispute": "The European Commission provides a platform for online dispute resolution (ODR): https://ec.europa.eu/consumers/odr. We are not obliged or willing to participate in dispute resolution proceedings before a consumer arbitration board."
+      "contact": "Contact"
     }
   },
   "contact": {

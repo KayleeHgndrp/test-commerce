@@ -1,7 +1,10 @@
 import Link from "next/link";
+import { Faq } from "@/components/Faq";
+import { JsonLd } from "@/components/JsonLd";
 import { TestCard } from "@/components/TestCard";
 import { allDefinitions, fmt, getTestText } from "@/lib/i18n/messages";
 import { alternates } from "@/lib/seo";
+import { formatPrice, site } from "@/lib/site";
 import { loadTestPage, testStaticParams } from "@/lib/tests/params";
 
 export const generateStaticParams = testStaticParams;
@@ -22,6 +25,14 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
   const dimensionNames = def.dimensions.map((d) => text.dimensions[d]?.name ?? d).join(", ");
   const related = allDefinitions.filter((d) => d.category === def.category && d.slug !== def.slug).slice(0, 4);
   const relatedTexts = await Promise.all(related.map((d) => getTestText(locale, d.slug)));
+  const vars = {
+    test: text.name,
+    dimensions: dimensionNames,
+    count: def.items.length,
+    minutes: def.minutes,
+    price: formatPrice(locale),
+  };
+  const faq = ui.test.faq.map(({ q, a }) => ({ q: fmt(q, vars), a: fmt(a, vars) }));
 
   return (
     <div className="mx-auto max-w-4xl px-4 pt-14">
@@ -57,6 +68,28 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
           </ul>
         </section>
       </div>
+
+      <section className="mt-16">
+        <h2 className="mb-6 text-2xl font-bold">{fmt(ui.test.faqTitle, vars)}</h2>
+        <Faq items={faq} />
+      </section>
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faq.map(({ q, a }) => ({ "@type": "Question", name: q, acceptedAnswer: { "@type": "Answer", text: a } })),
+        }}
+      />
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            { "@type": "ListItem", position: 1, name: site.name, item: `${site.url}/${locale}` },
+            { "@type": "ListItem", position: 2, name: text.name, item: `${site.url}/${locale}/${def.slug}` },
+          ],
+        }}
+      />
 
       {related.length > 0 && (
         <section className="mt-16">

@@ -149,7 +149,30 @@
       "intensity": "Kuinka paljon seuraavat ongelmat ovat vaivanneet sinua viimeisen kuukauden aikana?"
     },
     "unanswered": "Vastaa kaikkiin tämän sivun väitteisiin jatkaaksesi.",
-    "tryNow": "Kokeile nyt"
+    "tryNow": "Kokeile nyt",
+    "faqTitle": "Usein kysyttyä testistä ”{test}”",
+    "faq": [
+      {
+        "q": "Mitä testi ”{test}” mittaa?",
+        "a": "Testi ”{test}” tarkastelee seuraavia alueita: {dimensions}. Raporttisi näyttää pisteet jokaiselle alueelle, selittää, mitä ne merkitsevät sinulle, ja antaa käytännön vinkkejä."
+      },
+      {
+        "q": "Kauanko testi ”{test}” kestää?",
+        "a": "Testissä on {count} lyhyttä väittämää, ja sen tekeminen kestää noin {minutes} minuuttia. Edistymisesi tallentuu automaattisesti, joten voit pitää tauon ja jatkaa myöhemmin."
+      },
+      {
+        "q": "Onko testi ”{test}” ilmainen?",
+        "a": "Kyllä, testin tekeminen on ilmaista. Jos haluat koko henkilökohtaisen raporttisi kaikkine pisteineen ja selityksineen, voit tilata sen hintaan {price} kertamaksuna – ilman tilausta."
+      },
+      {
+        "q": "Kuinka luotettava testi ”{test}” on?",
+        "a": "Testi perustuu vakiintuneeseen psykologiseen tutkimukseen ja käyttää monta väittämää aluetta kohden, mikä tekee tuloksesta vakaamman kuin lyhyessä visassa. Vastaa rehellisesti ja liikoja miettimättä, niin saat tarkimman kuvan."
+      },
+      {
+        "q": "Onko testi ”{test}” diagnoosi?",
+        "a": "Ei. Testi ”{test}” on tarkoitettu itsereflektioon, eikä se ole lääketieteellinen tai psykologinen diagnoosi. Jos olet huolissasi mielenterveydestäsi, keskustele pätevän ammattilaisen kanssa."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Palautuskäytäntö",
     "rights": "© {year} {site}. Kaikki oikeudet pidätetään.",
     "disclaimer": "{site} ei ole terveyspalvelu. Jos sinulla on kliinisiä huolia, käänny laillistetun ammattilaisen puoleen.",
-    "aboutLink": "Tietoa meistä"
+    "aboutLink": "Tietoa meistä",
+    "notice": "Oikeudelliset tiedot"
   },
   "legal": {
     "privacyTitle": "Tietosuojakäytäntö",
@@ -266,7 +290,16 @@
       "Etkö saanut raporttiasi, tai menikö jokin vikaan? Ota 14 päivän kuluessa yhteyttä osoitteeseen {email} ja kerro käyttämäsi sähköpostiosoite, niin lähetämme raportin uudelleen tai palautamme maksusi.",
       "Koska raportti on heti toimitettavaa digitaalista sisältöä, lakisääteinen peruuttamisoikeus päättyy, kun raportti on lähetetty. Autamme sinua silti aina, jos jokin ei ole kunnossa.",
       "Palautukset maksetaan alkuperäiselle maksutavalle 5–10 arkipäivän kuluessa."
-    ]
+    ],
+    "noticeTitle": "Oikeudelliset tiedot",
+    "notice": {
+      "company": "Yritys",
+      "address": "Osoite",
+      "representative": "Edustaja",
+      "registration": "Y-tunnus",
+      "vat": "ALV-tunniste",
+      "contact": "Yhteystiedot"
+    }
   },
   "contact": {
     "title": "Ota yhteyttä",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Kiinnostaako, mitä tuloksesi kertovat?",
     "ctaButton": "Tutustu testeihin"
+  },
+  "notFound": {
+    "title": "Sivua ei löytynyt",
+    "text": "Etsimääsi sivua ei ole olemassa, tai se on siirretty.",
+    "home": "Takaisin etusivulle"
   }
 }

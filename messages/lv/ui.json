@@ -149,7 +149,30 @@
       "intensity": "Cik ļoti pēdējā mēneša laikā tevi ir traucējušas šādas problēmas?"
     },
     "unanswered": "Lai turpinātu, atbildi uz visiem šīs lapas apgalvojumiem.",
-    "tryNow": "Izmēģini"
+    "tryNow": "Izmēģini",
+    "faqTitle": "Biežāk uzdotie jautājumi par testu “{test}”",
+    "faq": [
+      {
+        "q": "Ko mēra tests “{test}”?",
+        "a": "Tests “{test}” aplūko šādas jomas: {dimensions}. Tavs pārskats parāda rezultātu katrā no tām, izskaidro, ko tas tev nozīmē, un sniedz praktiskus padomus."
+      },
+      {
+        "q": "Cik ilgi aizņem tests “{test}”?",
+        "a": "Testā ir īsi apgalvojumi (skaits: {count}), un tas aizņem apmēram {minutes} min. Tavs progress tiek saglabāts automātiski, tāpēc vari paņemt pauzi un turpināt vēlāk."
+      },
+      {
+        "q": "Vai tests “{test}” ir bez maksas?",
+        "a": "Jā, testa izpilde ir bez maksas. Ja vēlies pilnu personīgo pārskatu ar visiem rezultātiem un skaidrojumiem, vari to pasūtīt par {price} – vienreizējs maksājums, bez abonementa."
+      },
+      {
+        "q": "Cik uzticams ir tests “{test}”?",
+        "a": "Tests balstīts atzītos psiholoģijas pētījumos un katrai jomai izmanto daudz apgalvojumu, tāpēc rezultāts ir stabilāks nekā īsā viktorīnā. Lai iegūtu visprecīzāko ainu, atbildi godīgi un pārāk daudz nedomājot."
+      },
+      {
+        "q": "Vai tests “{test}” ir diagnoze?",
+        "a": "Nē. Tests “{test}” ir paredzēts pašrefleksijai un nav medicīniska vai psiholoģiska diagnoze. Ja tevi uztrauc tava garīgā veselība, lūdzu, runā ar kvalificētu speciālistu."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Atmaksas politika",
     "rights": "© {year} {site}. Visas tiesības aizsargātas.",
     "disclaimer": "{site} nav medicīnisks pakalpojums. Klīnisku problēmu gadījumā, lūdzu, vērsies pie sertificēta speciālista.",
-    "aboutLink": "Par mums"
+    "aboutLink": "Par mums",
+    "notice": "Juridiskā informācija"
   },
   "legal": {
     "privacyTitle": "Privātuma politika",
@@ -266,7 +290,16 @@
       "Neesi saņēmis pārskatu vai kaut kas nogāja greizi? Raksti uz {email} 14 dienu laikā, norādot izmantoto e-pasta adresi, un mēs nosūtīsim pārskatu vēlreiz vai atmaksāsim tavu maksājumu.",
       "Tā kā pārskats ir uzreiz piegādāts digitāls saturs, likumā noteiktās atteikuma tiesības izbeidzas, tiklīdz tas ir nosūtīts. Tomēr, ja kaut kas nav kārtībā, mēs vienmēr palīdzēsim.",
       "Atmaksa tiek veikta uz sākotnējo maksājuma veidu 5–10 darba dienu laikā."
-    ]
+    ],
+    "noticeTitle": "Juridiskā informācija",
+    "notice": {
+      "company": "Uzņēmums",
+      "address": "Adrese",
+      "representative": "Pārstāvis",
+      "registration": "Reģistrācijas numurs",
+      "vat": "PVN numurs",
+      "contact": "Kontakti"
+    }
   },
   "contact": {
     "title": "Kontakti",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Interesē, ko saka tavi rezultāti?",
     "ctaButton": "Apskatīt mūsu testus"
+  },
+  "notFound": {
+    "title": "Lapa nav atrasta",
+    "text": "Meklētā lapa neeksistē vai ir pārvietota.",
+    "home": "Atpakaļ uz sākumlapu"
   }
 }

@@ -149,7 +149,30 @@
       "intensity": "Durant l'últim mes, quant t'han molestat els problemes següents?"
     },
     "unanswered": "Respon totes les afirmacions d'aquesta pàgina per continuar.",
-    "tryNow": "Prova-ho ara"
+    "tryNow": "Prova-ho ara",
+    "faqTitle": "Preguntes freqüents sobre el {test}",
+    "faq": [
+      {
+        "q": "Què mesura el {test}?",
+        "a": "El {test} analitza les àrees següents: {dimensions}. El teu informe mostra una puntuació per a cadascuna, explica què significa per a tu i et dona consells pràctics."
+      },
+      {
+        "q": "Quant dura el {test}?",
+        "a": "El test té {count} afirmacions breus i dura uns {minutes} minuts. El teu progrés es desa automàticament, així que pots fer una pausa i continuar més tard."
+      },
+      {
+        "q": "El {test} és gratuït?",
+        "a": "Sí, fer el test és gratuït. Si vols el teu informe personal complet amb totes les puntuacions i explicacions, el pots encarregar per {price}, amb un pagament únic i sense subscripció."
+      },
+      {
+        "q": "Fins a quin punt és fiable el {test}?",
+        "a": "El test es basa en recerca psicològica consolidada i fa servir moltes afirmacions per àrea, cosa que fa que el resultat sigui més estable que el d'un qüestionari breu. Per obtenir la imatge més precisa, respon amb sinceritat i sense pensar-hi massa."
+      },
+      {
+        "q": "El {test} és un diagnòstic?",
+        "a": "No. El {test} està pensat per a l'autoreflexió i no és cap diagnòstic mèdic ni psicològic. Si et preocupa la teva salut mental, parla amb un professional qualificat."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Política de reemborsament",
     "rights": "© {year} {site}. Tots els drets reservats.",
     "disclaimer": "{site} no és un servei mèdic. Per a qüestions clíniques, consulta un professional acreditat.",
-    "aboutLink": "Qui som"
+    "aboutLink": "Qui som",
+    "notice": "Informació legal"
   },
   "legal": {
     "privacyTitle": "Política de privadesa",
@@ -266,7 +290,16 @@
       "No has rebut el teu informe o alguna cosa ha anat malament? Escriu a {email} en un termini de 14 dies indicant l'adreça electrònica que vas fer servir, i et tornarem a enviar l'informe o et reemborsarem el pagament.",
       "Com que l'informe és contingut digital que es lliura immediatament, el dret legal de desistiment s'extingeix un cop s'ha enviat. Tot i així, sempre t'ajudarem si alguna cosa no va bé.",
       "Els reemborsaments es fan al mitjà de pagament original en un termini de 5 a 10 dies hàbils."
-    ]
+    ],
+    "noticeTitle": "Informació legal",
+    "notice": {
+      "company": "Empresa",
+      "address": "Adreça",
+      "representative": "Representada per",
+      "registration": "Registre mercantil",
+      "vat": "Número d'IVA",
+      "contact": "Contacte"
+    }
   },
   "contact": {
     "title": "Contacte",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Tens curiositat per saber què diuen els teus resultats?",
     "ctaButton": "Descobreix els nostres tests"
+  },
+  "notFound": {
+    "title": "No s'ha trobat la pàgina",
+    "text": "La pàgina que cerques no existeix o s'ha mogut.",
+    "home": "Torna a l'inici"
   }
 }

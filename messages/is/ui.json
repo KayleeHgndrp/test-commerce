@@ -149,7 +149,30 @@
       "intensity": "Hversu mikið hafa eftirfarandi vandamál angrað þig síðastliðinn mánuð?"
     },
     "unanswered": "Svaraðu öllum fullyrðingum á þessari síðu til að halda áfram.",
-    "tryNow": "Prófaðu núna"
+    "tryNow": "Prófaðu núna",
+    "faqTitle": "Algengar spurningar: {test}",
+    "faq": [
+      {
+        "q": "Hvað mælir {test}?",
+        "a": "{test} skoðar eftirfarandi svið: {dimensions}. Skýrslan þín sýnir einkunn fyrir hvert þeirra, útskýrir hvað hún þýðir fyrir þig og gefur hagnýt ráð."
+      },
+      {
+        "q": "Hversu langan tíma tekur {test}?",
+        "a": "Prófið inniheldur {count} stuttar fullyrðingar og tekur um {minutes} mínútur. Framvindan þín vistast sjálfkrafa svo þú getur tekið hlé og haldið áfram síðar."
+      },
+      {
+        "q": "Er {test} ókeypis?",
+        "a": "Já, það er ókeypis að taka prófið. Ef þú vilt fá fulla persónulega skýrslu með öllum einkunnum og skýringum geturðu pantað hana fyrir {price}, greitt einu sinni — engin áskrift."
+      },
+      {
+        "q": "Hversu áreiðanlegt er {test}?",
+        "a": "Prófið byggir á viðurkenndum sálfræðirannsóknum og notar margar fullyrðingar fyrir hvert svið, sem gerir niðurstöðuna stöðugri en í stuttri könnun. Svaraðu heiðarlega og án þess að hugsa of mikið til að fá sem nákvæmasta mynd."
+      },
+      {
+        "q": "Er {test} greining?",
+        "a": "Nei. {test} er ætlað til sjálfsskoðunar og er ekki læknisfræðileg eða sálfræðileg greining. Ef þú hefur áhyggjur af geðheilsu þinni skaltu ræða við menntaðan fagaðila."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Endurgreiðslustefna",
     "rights": "© {year} {site}. Allur réttur áskilinn.",
     "disclaimer": "{site} er ekki heilbrigðisþjónusta. Ef þú hefur klínískar áhyggjur skaltu leita til löggilts fagaðila.",
-    "aboutLink": "Um okkur"
+    "aboutLink": "Um okkur",
+    "notice": "Upplýsingar um fyrirtækið"
   },
   "legal": {
     "privacyTitle": "Persónuverndarstefna",
@@ -266,7 +290,16 @@
       "Fékkstu ekki skýrsluna eða fór eitthvað úrskeiðis? Hafðu samband á {email} innan 14 daga og tilgreindu netfangið sem þú notaðir, og við sendum skýrsluna aftur eða endurgreiðum þér.",
       "Þar sem skýrslan er stafrænt efni sem er afhent strax fellur lögbundinn réttur til að falla frá samningi niður þegar hún hefur verið send. Við munum samt alltaf aðstoða þig ef eitthvað er ekki í lagi.",
       "Endurgreiðslur eru lagðar inn á upphaflegan greiðslumáta innan 5–10 virkra daga."
-    ]
+    ],
+    "noticeTitle": "Upplýsingar um fyrirtækið",
+    "notice": {
+      "company": "Fyrirtæki",
+      "address": "Heimilisfang",
+      "representative": "Fyrirsvarsmaður",
+      "registration": "Kennitala",
+      "vat": "VSK-númer",
+      "contact": "Hafa samband"
+    }
   },
   "contact": {
     "title": "Hafa samband",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Forvitin(n) um hvað niðurstöðurnar þínar segja?",
     "ctaButton": "Skoðaðu prófin okkar"
+  },
+  "notFound": {
+    "title": "Síðan fannst ekki",
+    "text": "Síðan sem þú leitar að er ekki til eða hefur verið færð.",
+    "home": "Aftur á forsíðu"
   }
 }

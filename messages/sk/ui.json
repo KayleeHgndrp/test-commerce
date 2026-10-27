@@ -149,7 +149,30 @@
       "intensity": "Ako veľmi vás počas posledného mesiaca trápili nasledujúce problémy?"
     },
     "unanswered": "Ak chcete pokračovať, odpovedzte na všetky tvrdenia na tejto stránke.",
-    "tryNow": "Vyskúšať"
+    "tryNow": "Vyskúšať",
+    "faqTitle": "Časté otázky o teste „{test}“",
+    "faq": [
+      {
+        "q": "Čo meria test „{test}“?",
+        "a": "Test „{test}“ sa zameriava na tieto oblasti: {dimensions}. Vaša správa ukazuje skóre pre každú z nich, vysvetľuje, čo pre vás znamená, a ponúka praktické tipy."
+      },
+      {
+        "q": "Ako dlho trvá test „{test}“?",
+        "a": "Test obsahuje krátke tvrdenia (počet: {count}) a trvá približne {minutes} min. Váš postup sa ukladá automaticky, takže si môžete dať prestávku a pokračovať neskôr."
+      },
+      {
+        "q": "Je test „{test}“ zadarmo?",
+        "a": "Áno, vyplnenie testu je zadarmo. Ak chcete úplnú osobnú správu so všetkými skóre a vysvetleniami, môžete si ju objednať za {price} ako jednorazovú platbu – bez predplatného."
+      },
+      {
+        "q": "Aký spoľahlivý je test „{test}“?",
+        "a": "Test vychádza z uznávaného psychologického výskumu a používa veľa tvrdení pre každú oblasť, vďaka čomu je výsledok stabilnejší ako pri krátkom kvíze. Pre čo najpresnejší obraz odpovedajte úprimne a príliš nepremýšľajte."
+      },
+      {
+        "q": "Je test „{test}“ diagnóza?",
+        "a": "Nie. Test „{test}“ slúži na sebareflexiu a nie je lekárskou ani psychologickou diagnózou. Ak máte obavy o svoje duševné zdravie, obráťte sa, prosím, na kvalifikovaného odborníka."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Zásady vrátenia peňazí",
     "rights": "© {year} {site}. Všetky práva vyhradené.",
     "disclaimer": "{site} nie je zdravotnícka služba. S klinickými ťažkosťami sa, prosím, obráťte na kvalifikovaného odborníka.",
-    "aboutLink": "O nás"
+    "aboutLink": "O nás",
+    "notice": "Právne informácie"
   },
   "legal": {
     "privacyTitle": "Zásady ochrany osobných údajov",
@@ -266,7 +290,16 @@
       "Neprišla vám správa alebo sa niečo pokazilo? Napíšte do 14 dní na {email}, uveďte e-mailovú adresu použitú pri nákupe a správu vám pošleme znova alebo vrátime platbu.",
       "Keďže správa je digitálny obsah dodaný okamžite, zákonné právo na odstúpenie od zmluvy zaniká jej odoslaním. Ak niečo nie je v poriadku, vždy vám radi pomôžeme.",
       "Peniaze vraciame na pôvodný spôsob platby do 5 – 10 pracovných dní."
-    ]
+    ],
+    "noticeTitle": "Právne informácie",
+    "notice": {
+      "company": "Spoločnosť",
+      "address": "Adresa",
+      "representative": "Zastúpená",
+      "registration": "Obchodný register",
+      "vat": "IČ DPH",
+      "contact": "Kontakt"
+    }
   },
   "contact": {
     "title": "Kontakt",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Zaujíma vás, čo hovoria vaše výsledky?",
     "ctaButton": "Pozrieť testy"
+  },
+  "notFound": {
+    "title": "Stránka sa nenašla",
+    "text": "Stránka, ktorú hľadáte, neexistuje alebo bola presunutá.",
+    "home": "Späť na úvod"
   }
 }

@@ -5,7 +5,7 @@ export const site = {
   // Legal notice (Impressum) details, required in e.g. Germany and Austria.
   company: {
     name: process.env.COMPANY_NAME ?? "",
-    address: process.env.COMPANY_ADDRESS ?? "",
+    address: (process.env.COMPANY_ADDRESS ?? "").replace(/\\n/g, "\n"),
     registration: process.env.COMPANY_REGISTRATION ?? "",
     vat: process.env.COMPANY_VAT ?? "",
     representative: process.env.COMPANY_REPRESENTATIVE ?? "",

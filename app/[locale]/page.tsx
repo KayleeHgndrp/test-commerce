@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Faq } from "@/components/Faq";
+import { JsonLd } from "@/components/JsonLd";
 import { TestCarousel } from "@/components/TestCarousel";
 import { hasLocale, locales } from "@/lib/i18n/locales";
 import { fmt, getAllTestTexts, getUi } from "@/lib/i18n/messages";
@@ -151,6 +152,24 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
           ))}
         </div>
       </section>
+
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@graph": [
+            { "@type": "Organization", "@id": `${site.url}/#org`, name: site.name, url: site.url, email: site.contactEmail },
+            { "@type": "WebSite", name: site.name, url: `${site.url}/${locale}`, inLanguage: locale, publisher: { "@id": `${site.url}/#org` } },
+            {
+              "@type": "FAQPage",
+              mainEntity: h.faq.map(({ q, a }) => ({
+                "@type": "Question",
+                name: fmt(q, vars),
+                acceptedAnswer: { "@type": "Answer", text: fmt(a, vars) },
+              })),
+            },
+          ],
+        }}
+      />
 
       {/* FAQ */}
       <section id="faq" className="mx-auto max-w-3xl scroll-mt-20 px-4 pt-24">

@@ -149,7 +149,30 @@
       "intensity": "Jak moc vás během posledního měsíce obtěžovaly následující problémy?"
     },
     "unanswered": "Pro pokračování odpovězte na všechna tvrzení na této stránce.",
-    "tryNow": "Vyzkoušet"
+    "tryNow": "Vyzkoušet",
+    "faqTitle": "Časté dotazy k testu „{test}“",
+    "faq": [
+      {
+        "q": "Co měří test „{test}“?",
+        "a": "Test „{test}“ se zaměřuje na tyto oblasti: {dimensions}. Vaše zpráva ukazuje skóre pro každou z nich, vysvětluje, co pro vás znamená, a nabízí praktické tipy."
+      },
+      {
+        "q": "Jak dlouho trvá test „{test}“?",
+        "a": "Test obsahuje krátká tvrzení (počet: {count}) a zabere asi {minutes} min. Váš postup se ukládá automaticky, takže si můžete udělat přestávku a pokračovat později."
+      },
+      {
+        "q": "Je test „{test}“ zdarma?",
+        "a": "Ano, vyplnění testu je zdarma. Pokud chcete úplnou osobní zprávu se všemi skóre a vysvětleními, můžete si ji objednat za {price} jako jednorázovou platbu – bez předplatného."
+      },
+      {
+        "q": "Jak spolehlivý je test „{test}“?",
+        "a": "Test vychází z uznávaného psychologického výzkumu a používá mnoho tvrzení pro každou oblast, díky čemuž je výsledek stabilnější než u krátkého kvízu. Pro co nejpřesnější obraz odpovídejte upřímně a moc nepřemýšlejte."
+      },
+      {
+        "q": "Je test „{test}“ diagnóza?",
+        "a": "Ne. Test „{test}“ slouží k sebereflexi a není lékařskou ani psychologickou diagnózou. Pokud máte obavy o své duševní zdraví, obraťte se prosím na kvalifikovaného odborníka."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Zásady vracení peněz",
     "rights": "© {year} {site}. Všechna práva vyhrazena.",
     "disclaimer": "{site} není zdravotnická služba. S klinickými obtížemi se prosím obraťte na kvalifikovaného odborníka.",
-    "aboutLink": "O nás"
+    "aboutLink": "O nás",
+    "notice": "Právní informace"
   },
   "legal": {
     "privacyTitle": "Zásady ochrany osobních údajů",
@@ -266,7 +290,16 @@
       "Nedorazila vám zpráva nebo se něco pokazilo? Napište do 14 dnů na {email}, uveďte e-mailovou adresu použitou při nákupu a zprávu vám pošleme znovu nebo vrátíme platbu.",
       "Protože zpráva je digitální obsah dodaný okamžitě, zákonné právo na odstoupení od smlouvy zaniká jejím odesláním. Pokud něco není v pořádku, vždy vám rádi pomůžeme.",
       "Peníze vracíme na původní platební metodu do 5–10 pracovních dnů."
-    ]
+    ],
+    "noticeTitle": "Právní informace",
+    "notice": {
+      "company": "Společnost",
+      "address": "Adresa",
+      "representative": "Zastoupená",
+      "registration": "Obchodní rejstřík",
+      "vat": "DIČ",
+      "contact": "Kontakt"
+    }
   },
   "contact": {
     "title": "Kontakt",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Zajímá vás, co říkají vaše výsledky?",
     "ctaButton": "Prohlédnout testy"
+  },
+  "notFound": {
+    "title": "Stránka nenalezena",
+    "text": "Stránka, kterou hledáte, neexistuje nebo byla přesunuta.",
+    "home": "Zpět na úvod"
   }
 }

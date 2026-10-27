@@ -149,7 +149,30 @@
       "intensity": "Hur mycket har du under den senaste månaden besvärats av följande problem?"
     },
     "unanswered": "Svara på alla påståenden på den här sidan för att fortsätta.",
-    "tryNow": "Testa nu"
+    "tryNow": "Testa nu",
+    "faqTitle": "Vanliga frågor om testet ”{test}”",
+    "faq": [
+      {
+        "q": "Vad mäter testet ”{test}”?",
+        "a": "Testet ”{test}” tittar på följande områden: {dimensions}. Din rapport visar ett resultat för vart och ett, förklarar vad det betyder för dig och ger praktiska tips."
+      },
+      {
+        "q": "Hur lång tid tar testet ”{test}”?",
+        "a": "Testet består av {count} korta påståenden och tar cirka {minutes} minuter. Dina framsteg sparas automatiskt, så du kan ta en paus och fortsätta senare."
+      },
+      {
+        "q": "Är testet ”{test}” gratis?",
+        "a": "Ja, det är gratis att göra testet. Vill du ha din fullständiga personliga rapport med alla resultat och förklaringar kan du beställa den för {price}, som en engångsbetalning – ingen prenumeration."
+      },
+      {
+        "q": "Hur tillförlitligt är testet ”{test}”?",
+        "a": "Testet bygger på etablerad psykologisk forskning och använder många påståenden per område, vilket gör resultatet stabilare än ett kort quiz. Svara ärligt och utan att fundera för länge för att få den mest träffsäkra bilden."
+      },
+      {
+        "q": "Är testet ”{test}” en diagnos?",
+        "a": "Nej. Testet ”{test}” är till för självreflektion och är ingen medicinsk eller psykologisk diagnos. Om du är orolig för din psykiska hälsa, prata med kvalificerad vårdpersonal."
+      }
+    ]
   },
   "scales": {
     "agree": [
@@ -236,7 +259,8 @@
     "refund": "Återbetalningspolicy",
     "rights": "© {year} {site}. Alla rättigheter förbehållna.",
     "disclaimer": "{site} är inte en medicinsk tjänst. Vid kliniska besvär, kontakta legitimerad vårdpersonal.",
-    "aboutLink": "Om oss"
+    "aboutLink": "Om oss",
+    "notice": "Juridisk information"
   },
   "legal": {
     "privacyTitle": "Integritetspolicy",
@@ -266,7 +290,16 @@
       "Har du inte fått din rapport, eller har något gått fel? Kontakta {email} inom 14 dagar och ange e-postadressen du använde, så skickar vi rapporten igen eller betalar tillbaka din betalning.",
       "Eftersom rapporten är digitalt innehåll som levereras direkt upphör den lagstadgade ångerrätten när den har skickats. Vi hjälper dig ändå alltid om något inte stämmer.",
       "Återbetalningar görs till det ursprungliga betalningssättet inom 5–10 bankdagar."
-    ]
+    ],
+    "noticeTitle": "Juridisk information",
+    "notice": {
+      "company": "Företag",
+      "address": "Adress",
+      "representative": "Företräds av",
+      "registration": "Organisationsnummer",
+      "vat": "Momsregistreringsnummer",
+      "contact": "Kontakt"
+    }
   },
   "contact": {
     "title": "Kontakt",
@@ -320,5 +353,10 @@
     ],
     "ctaTitle": "Nyfiken på vad dina resultat säger?",
     "ctaButton": "Utforska våra tester"
+  },
+  "notFound": {
+    "title": "Sidan hittades inte",
+    "text": "Sidan du letar efter finns inte eller har flyttats.",
+    "home": "Tillbaka till startsidan"
   }
 }
