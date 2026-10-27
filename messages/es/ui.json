@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Tests de psicología gratis online",
+    "description": "Haz tests completos sobre personalidad, apego, carrera profesional, TDAH, burnout y mucho más. Gratis, con un informe personal detallado por solo {price}."
+  },
+  "nav": {
+    "tests": "Tests",
+    "pricing": "Precios",
+    "faq": "Preguntas frecuentes",
+    "language": "Idioma",
+    "cta": "Empezar un test"
+  },
+  "home": {
+    "badge": "{count} tests · {languages} idiomas",
+    "heroTitle": "Conócete mejor, test a test",
+    "heroSubtitle": "Tests completos sobre personalidad, relaciones, trabajo y bienestar. 100 preguntas, unos 5 minutos y un informe personal por solo {price}.",
+    "heroCta": "Descubre nuestros tests",
+    "heroSecondary": "Cómo funciona",
+    "trust1": "Sin necesidad de cuenta",
+    "trust2": "Pago único, sin suscripción",
+    "trust3": "Informe directo a tu correo",
+    "dimensionsTitle": "Eres mucho más que una puntuación: descubre todas tus facetas.",
+    "dimensionsSubtitle": "Las áreas que más miden nuestros tests, desde la personalidad hasta las relaciones y el bienestar.",
+    "dimensions": [
+      "🎯 Concentración",
+      "🔋 Energía social",
+      "🌊 Respuesta al estrés",
+      "💞 Apego",
+      "⚖️ Toma de decisiones",
+      "🧭 Valores",
+      "💡 Creatividad",
+      "🪞 Autoconocimiento",
+      "🛡️ Resiliencia"
+    ],
+    "testsTitle": "Elige tu test",
+    "testsSubtitle": "Todos los tests son gratuitos. Elige el que más te llame.",
+    "howTitle": "De la primera pregunta al informe completo en tres pasos",
+    "steps": [
+      {
+        "title": "Elige un test",
+        "text": "Escoge entre nuestra colección de tests de personalidad, relaciones y cribado, todos basados en modelos psicológicos contrastados."
+      },
+      {
+        "title": "Haz el test",
+        "text": "Responde a 100 preguntas en una escala sencilla. La mayoría de los tests duran unos 5 minutos y tu progreso se guarda."
+      },
+      {
+        "title": "Lee tu informe",
+        "text": "Recibe un informe personal con tus puntuaciones, lo que significan y consejos prácticos, directamente en tu correo."
+      }
+    ],
+    "pricingTitle": "Precios sencillos",
+    "pricingSubtitle": "Un único precio. Sin suscripción. Sin sorpresas.",
+    "planFreeName": "Hacer el test",
+    "planFreePrice": "Gratis",
+    "planFreeFeatures": [
+      "Los {count} tests, totalmente gratis",
+      "100 preguntas, unos 5 minutos",
+      "Progreso guardado automáticamente",
+      "Vista previa inmediata de tus áreas de resultados"
+    ],
+    "planReportName": "Informe completo",
+    "planReportPrice": "{price}",
+    "planReportPer": "pago único, por test",
+    "planReportFeatures": [
+      "Tu puntuación en cada dimensión",
+      "Interpretación personal de cada puntuación",
+      "Consejos prácticos que puedes aplicar ya",
+      "En tu correo en cuestión de minutos",
+      "Sin suscripción ni renovación automática"
+    ],
+    "planCta": "Pruébalo ahora",
+    "faqTitle": "Preguntas frecuentes",
+    "faq": [
+      {
+        "q": "¿Qué es {site}?",
+        "a": "{site} es una plataforma online con autotests completos sobre personalidad, relaciones, trabajo y bienestar. Puedes hacer todos los tests gratis y pedir un informe personal detallado si quieres saber más."
+      },
+      {
+        "q": "¿Cuánto cuesta un test?",
+        "a": "Hacer un test es gratis. El informe personal detallado cuesta {price}, en un único pago. No hay suscripción y nunca se te volverá a cobrar automáticamente."
+      },
+      {
+        "q": "¿Cómo recibo mi informe?",
+        "a": "Tras el pago, tu informe se envía a la dirección de correo que hayas indicado, normalmente en menos de un minuto. ¿No lo encuentras? Revisa la carpeta de spam o de promociones."
+      },
+      {
+        "q": "¿Puedo repetir un test?",
+        "a": "Sí, tantas veces como quieras. Repetir un test al cabo de unas semanas es una buena forma de ver qué ha cambiado. Cada informe es una compra única independiente."
+      },
+      {
+        "q": "¿Es un diagnóstico médico?",
+        "a": "No. Nuestros tests están pensados para la autorreflexión. Los tests de cribado, como el de TDAH o el de depresión, pueden indicarte si conviene hablar con un profesional, pero nunca sustituyen la evaluación de un profesional cualificado."
+      },
+      {
+        "q": "¿Cómo se han creado estos tests?",
+        "a": "Nuestros tests se basan en modelos psicológicos contrastados como los Cinco Grandes (Big Five), RIASEC y la teoría del apego. Los tests de depresión y trauma incluyen además los cuestionarios de dominio público PHQ-9 y PCL-5, puntuados con sus puntos de corte oficiales."
+      },
+      {
+        "q": "¿Pueden ser poco fiables los resultados?",
+        "a": "Todo cuestionario tiene un margen de error, y tu estado de ánimo del día también puede influir. Responde con sinceridad y sin darle demasiadas vueltas, y toma tu resultado como un punto de partida para reflexionar, no como un veredicto final."
+      },
+      {
+        "q": "¿Mis datos se mantienen privados?",
+        "a": "Sí. No necesitas cuenta. Tus respuestas solo se usan para calcular tu resultado y elaborar tu informe, y nunca vendemos tus datos."
+      }
+    ],
+    "ctaTitle": "¿Listo para descubrir más sobre ti?",
+    "ctaButton": "Descubre nuestros tests"
+  },
+  "categories": {
+    "personality": "Personalidad y tipo",
+    "relationships": "Relaciones y emociones",
+    "work": "Trabajo y valores",
+    "screeners": "Cribado",
+    "wellbeing": "Bienestar y hábitos"
+  },
+  "test": {
+    "start": "Empezar el test",
+    "questions": "{count} preguntas",
+    "minutes": "{count} min",
+    "free": "Gratis",
+    "aboutTitle": "Sobre este test",
+    "whatYouGet": "Qué incluye tu informe",
+    "whatYouGet1": "Tu puntuación en cada dimensión: {dimensions}",
+    "whatYouGet2": "Una interpretación personal de cada puntuación",
+    "whatYouGet3": "Consejos prácticos que puedes aplicar ya",
+    "otherTests": "Otros tests populares",
+    "question": "Pregunta {current} de {total}",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "finish": "Ver mis resultados",
+    "chooseAnswer": "Elige la respuesta que mejor te describa.",
+    "resume": "Tienes un test sin terminar. ¿Quieres seguir donde lo dejaste?",
+    "resumeYes": "Continuar",
+    "resumeNo": "Empezar de nuevo",
+    "genderTitle": "Antes de nada, una pregunta rápida",
+    "genderQuestion": "¿Cuál es tu sexo?",
+    "genderMale": "Hombre",
+    "genderFemale": "Mujer",
+    "genderOther": "Otro / prefiero no decirlo",
+    "screenerNote": "Este test es una herramienta de cribado, no un diagnóstico."
+  },
+  "scales": {
+    "agree": [
+      "Totalmente en desacuerdo",
+      "En desacuerdo",
+      "Ni de acuerdo ni en desacuerdo",
+      "De acuerdo",
+      "Totalmente de acuerdo"
+    ],
+    "frequency": [
+      "Nunca",
+      "Rara vez",
+      "A veces",
+      "A menudo",
+      "Muy a menudo"
+    ],
+    "phq": [
+      "Nunca",
+      "Varios días",
+      "Más de la mitad de los días",
+      "Casi todos los días"
+    ],
+    "intensity": [
+      "Nada",
+      "Un poco",
+      "Moderadamente",
+      "Bastante",
+      "Extremadamente"
+    ]
+  },
+  "levels": {
+    "low": "Bajo",
+    "mid": "Medio",
+    "high": "Alto"
+  },
+  "result": {
+    "title": "Tus resultados están listos",
+    "subtitle": "Has completado el test «{test}». Desbloquea tu informe personal completo para ver tus puntuaciones y lo que significan.",
+    "mainType": "Tu tipo principal",
+    "locked": "Bloqueado",
+    "unlockTitle": "Consigue tu informe completo",
+    "unlockText": "Tu informe detallado con todas las puntuaciones, interpretaciones personales y consejos prácticos, enviado a tu correo.",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "tu@ejemplo.es",
+    "consent": "Acepto las condiciones y la política de privacidad.",
+    "buy": "Conseguir mi informe por {price}",
+    "secure": "Pago seguro con Stripe. Pago único, sin suscripción.",
+    "invalidEmail": "Introduce una dirección de correo válida.",
+    "consentRequired": "Acepta las condiciones para continuar.",
+    "error": "Algo ha fallado. Inténtalo de nuevo.",
+    "noAnswers": "No hemos encontrado tus respuestas. Haz primero el test.",
+    "takeTest": "Hacer el test",
+    "crisisTitle": "No estás solo",
+    "crisisText": "Has indicado que has tenido pensamientos de que estarías mejor muerto o de hacerte daño. Por favor, habla hoy mismo con alguien. Si estás en peligro inmediato, llama al 112. También puedes contactar a cualquier hora con una línea de crisis de tu país, como las que aparecen en findahelpline.com.",
+    "crisisLink": "Encuentra una línea de ayuda cerca de ti"
+  },
+  "thanks": {
+    "title": "¡Gracias por tu compra!",
+    "text": "Tu informe personal va de camino a tu correo. Suele llegar en menos de un minuto.",
+    "spam": "¿No lo has recibido tras 10 minutos? Revisa la carpeta de spam o de promociones, o escríbenos a {email}.",
+    "more": "Descubre más tests"
+  },
+  "report": {
+    "subject": "Tu informe: {test}",
+    "greeting": "Hola:",
+    "intro": "Gracias por hacer el test «{test}» en {site}. Aquí tienes tu informe personal.",
+    "scoreLabel": "Tu puntuación",
+    "outro": "Esperamos que este informe te aporte ideas útiles. ¿Te pica la curiosidad por otras facetas de ti? Descubre todos nuestros tests en {url}.",
+    "signature": "El equipo de {site}",
+    "instrumentLabel": "{name}: {score} de {max}",
+    "typeLabel": "Tu tipo"
+  },
+  "footer": {
+    "tagline": "Conócete mejor",
+    "about": "Autotests completos para quienes quieren algo más que una etiqueta de cuatro letras.",
+    "company": "Empresa",
+    "home": "Inicio",
+    "help": "Ayuda",
+    "contact": "Contacto",
+    "legal": "Legal",
+    "privacy": "Política de privacidad",
+    "terms": "Términos y condiciones",
+    "cookies": "Política de cookies",
+    "refund": "Política de reembolso",
+    "rights": "© {year} {site}. Todos los derechos reservados.",
+    "disclaimer": "{site} no es un servicio médico. Si tienes dudas clínicas, consulta a un profesional colegiado."
+  },
+  "legal": {
+    "privacyTitle": "Política de privacidad",
+    "privacyBody": [
+      "Solo recogemos los datos necesarios para prestar nuestro servicio: tus respuestas a los tests y, si compras un informe, tu dirección de correo electrónico.",
+      "Tus respuestas se procesan para calcular tu resultado. Cuando compras un informe, tus respuestas y tu dirección de correo se transmiten a nuestro proveedor de pagos Stripe y a nuestro proveedor de correo electrónico para tramitar el pago y entregar el informe.",
+      "No vendemos tus datos ni los usamos con fines publicitarios. Puedes pedirnos en cualquier momento que eliminemos tus datos escribiendo a {email}.",
+      "Los pagos los gestiona Stripe. Nunca vemos ni guardamos los datos de tu tarjeta."
+    ],
+    "termsTitle": "Condiciones del servicio",
+    "termsBody": [
+      "Todos los tests de {site} están pensados para la autorreflexión y el entretenimiento. No constituyen un diagnóstico médico, psicológico ni profesional.",
+      "Hacer un test es gratis. Un informe personal cuesta {price} por test, en un único pago. El informe se entrega en formato digital por correo electrónico.",
+      "Como el informe es contenido digital que se entrega inmediatamente después del pago, aceptas que tu derecho de desistimiento se extingue una vez enviado el informe. Si no has recibido tu informe, escribe a {email} y te lo volveremos a enviar o te devolveremos el dinero.",
+      "Hacemos lo posible para que el contenido sea exacto, pero no podemos garantizar que los resultados sean completos o correctos para todas las personas."
+    ],
+    "cookiesTitle": "Política de cookies",
+    "cookiesBody": [
+      "{site} no utiliza cookies publicitarias ni de seguimiento.",
+      "Solo guardamos en tu navegador los datos estrictamente necesarios: el idioma que has elegido y tu progreso en un test, para que puedas continuar donde lo dejaste. Estos datos se quedan en tu dispositivo.",
+      "Cuando pagas, nuestro proveedor de pagos Stripe puede instalar cookies necesarias para procesar el pago de forma segura y prevenir el fraude.",
+      "¿Tienes preguntas? Escríbenos a {email}."
+    ],
+    "refundTitle": "Política de reembolso",
+    "refundBody": [
+      "Un informe cuesta {price} por test, en un único pago. No hay suscripción ni renovación automática.",
+      "¿No has recibido tu informe o ha habido algún problema? Escribe a {email} en un plazo de 14 días indicando la dirección de correo que usaste, y te reenviaremos el informe o te devolveremos el pago.",
+      "Como el informe es contenido digital que se entrega de inmediato, el derecho legal de desistimiento se extingue una vez enviado. Aun así, siempre te ayudaremos si algo no va bien.",
+      "Los reembolsos se realizan al método de pago original en un plazo de 5 a 10 días hábiles."
+    ]
+  }
+}

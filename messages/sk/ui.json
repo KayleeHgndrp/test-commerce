@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Psychologické testy online zadarmo",
+    "description": "Vyplň podrobné testy osobnosti, citovej väzby, kariéry, ADHD, vyhorenia a ďalších tém. Zadarmo, s podrobnou osobnou správou len za {price}."
+  },
+  "nav": {
+    "tests": "Testy",
+    "pricing": "Cenník",
+    "faq": "Časté otázky",
+    "language": "Jazyk",
+    "cta": "Začať test"
+  },
+  "home": {
+    "badge": "Testy: {count} · Jazyky: {languages}",
+    "heroTitle": "Spoznaj sám seba – test po teste",
+    "heroSubtitle": "Podrobné testy o osobnosti, vzťahoch, práci a duševnej pohode. 100 otázok, približne 5 minút a osobná správa len za {price}.",
+    "heroCta": "Pozrieť testy",
+    "heroSecondary": "Ako to funguje",
+    "trust1": "Bez registrácie",
+    "trust2": "Jednorazová platba, žiadne predplatné",
+    "trust3": "Správa priamo do tvojej schránky",
+    "dimensionsTitle": "Si viac než jedno skóre – spoznaj všetky svoje stránky.",
+    "dimensionsSubtitle": "Oblasti, ktoré naše testy merajú najčastejšie – od osobnosti cez vzťahy až po duševnú pohodu.",
+    "dimensions": [
+      "🎯 Sústredenie",
+      "🔋 Sociálna energia",
+      "🌊 Reakcia na stres",
+      "💞 Citová väzba",
+      "⚖️ Rozhodovanie",
+      "🧭 Hodnoty",
+      "💡 Kreativita",
+      "🪞 Sebapoznanie",
+      "🛡️ Odolnosť"
+    ],
+    "testsTitle": "Vyber si test",
+    "testsSubtitle": "Každý test je zadarmo. Vyber si ten, ktorý ťa zaujme.",
+    "howTitle": "Od prvej otázky k úplnej správe v troch krokoch",
+    "steps": [
+      {
+        "title": "Vyber si test",
+        "text": "Vyber si z našej ponuky testov osobnosti, vzťahov a skríningových testov – všetky vychádzajú z uznávaných psychologických modelov."
+      },
+      {
+        "title": "Vyplň test",
+        "text": "Odpovedz na 100 otázok na jednoduchej škále. Väčšina testov trvá približne 5 minút a tvoj postup sa ukladá."
+      },
+      {
+        "title": "Prečítaj si správu",
+        "text": "Získaj osobnú správu so svojimi výsledkami, ich významom a praktickými tipmi – priamo do schránky."
+      }
+    ],
+    "pricingTitle": "Jednoduchý cenník",
+    "pricingSubtitle": "Jedna cena. Žiadne predplatné. Žiadne prekvapenia.",
+    "planFreeName": "Vyplniť test",
+    "planFreePrice": "Zadarmo",
+    "planFreeFeatures": [
+      "Všetky testy ({count}) zadarmo",
+      "100 otázok, približne 5 minút",
+      "Automatické ukladanie postupu",
+      "Okamžitý náhľad oblastí výsledku"
+    ],
+    "planReportName": "Úplná správa",
+    "planReportPrice": "{price}",
+    "planReportPer": "jednorazovo, za test",
+    "planReportFeatures": [
+      "Tvoje skóre v každej dimenzii",
+      "Osobný výklad každého skóre",
+      "Praktické tipy, ktoré hneď využiješ",
+      "V schránke v priebehu pár minút",
+      "Žiadne predplatné ani automatické obnovenie"
+    ],
+    "planCta": "Vyskúšať",
+    "faqTitle": "Časté otázky",
+    "faq": [
+      {
+        "q": "Čo je {site}?",
+        "a": "{site} je online platforma s podrobnými sebahodnotiacimi testami o osobnosti, vzťahoch, práci a duševnej pohode. Každý test môžeš vyplniť zadarmo, a ak chceš vedieť viac, objednať si podrobnú osobnú správu."
+      },
+      {
+        "q": "Koľko stojí test?",
+        "a": "Vyplnenie testu je zadarmo. Podrobná osobná správa stojí {price} ako jednorazová platba. Nejde o predplatné a nikdy ti nebudeme automaticky nič znova účtovať."
+      },
+      {
+        "q": "Ako dostanem správu?",
+        "a": "Po zaplatení ti správu pošleme na zadaný e-mail, zvyčajne do minúty. Nevieš ju nájsť? Pozri sa do priečinka so spamom alebo s reklamnou poštou."
+      },
+      {
+        "q": "Môžem test zopakovať?",
+        "a": "Áno, koľkokrát chceš. Zopakovať test po niekoľkých týždňoch je dobrý spôsob, ako zistiť, čo sa zmenilo. Každá správa je samostatný jednorazový nákup."
+      },
+      {
+        "q": "Ide o lekársku diagnózu?",
+        "a": "Nie. Naše testy slúžia na sebapoznanie. Skríningové testy, napríklad na ADHD alebo depresiu, môžu naznačiť, či má zmysel porozprávať sa s odborníkom, no nikdy nenahradia vyšetrenie kvalifikovaným odborníkom."
+      },
+      {
+        "q": "Ako tieto testy vznikli?",
+        "a": "Naše testy vychádzajú z uznávaných psychologických modelov, ako je Veľká päťka, RIASEC a teória citovej väzby. Testy depresie a traumy navyše obsahujú voľne dostupné dotazníky PHQ-9 a PCL-5, vyhodnotené podľa ich oficiálnych hraničných hodnôt."
+      },
+      {
+        "q": "Môžu byť výsledky nespoľahlivé?",
+        "a": "Každý dotazník má určitú mieru chyby a úlohu môže zohrávať aj tvoja momentálna nálada. Odpovedaj úprimne a príliš nepremýšľaj. Výsledok ber ako východisko na zamyslenie, nie ako konečný verdikt."
+      },
+      {
+        "q": "Zostanú moje údaje súkromné?",
+        "a": "Áno. Nepotrebuješ účet. Tvoje odpovede slúžia len na výpočet výsledku a vytvorenie správy a tvoje údaje nikdy nepredávame."
+      }
+    ],
+    "ctaTitle": "Chceš o sebe zistiť viac?",
+    "ctaButton": "Pozrieť testy"
+  },
+  "categories": {
+    "personality": "Osobnosť a typ",
+    "relationships": "Vzťahy a emócie",
+    "work": "Práca a hodnoty",
+    "screeners": "Skríningové testy",
+    "wellbeing": "Pohoda a návyky"
+  },
+  "test": {
+    "start": "Začať test",
+    "questions": "Počet otázok: {count}",
+    "minutes": "{count} min",
+    "free": "Zadarmo",
+    "aboutTitle": "O tomto teste",
+    "whatYouGet": "Čo obsahuje tvoja správa",
+    "whatYouGet1": "Tvoje skóre v každej dimenzii: {dimensions}",
+    "whatYouGet2": "Osobný výklad každého skóre",
+    "whatYouGet3": "Praktické tipy, ktoré hneď využiješ",
+    "otherTests": "Ďalšie obľúbené testy",
+    "question": "Otázka {current} z {total}",
+    "back": "Späť",
+    "next": "Ďalej",
+    "finish": "Zobraziť výsledky",
+    "chooseAnswer": "Vyber odpoveď, ktorá ťa najlepšie vystihuje.",
+    "resume": "Máš rozpracovaný test. Chceš pokračovať tam, kde si skončil(a)?",
+    "resumeYes": "Pokračovať",
+    "resumeNo": "Začať odznova",
+    "genderTitle": "Najprv krátka otázka",
+    "genderQuestion": "Aké je tvoje pohlavie?",
+    "genderMale": "Muž",
+    "genderFemale": "Žena",
+    "genderOther": "Iné / nechcem uviesť",
+    "screenerNote": "Tento test je skríningový nástroj, nie diagnóza."
+  },
+  "scales": {
+    "agree": [
+      "Rozhodne nesúhlasím",
+      "Nesúhlasím",
+      "Ani súhlas, ani nesúhlas",
+      "Súhlasím",
+      "Rozhodne súhlasím"
+    ],
+    "frequency": [
+      "Nikdy",
+      "Zriedka",
+      "Niekedy",
+      "Často",
+      "Veľmi často"
+    ],
+    "phq": [
+      "Vôbec nie",
+      "Niekoľko dní",
+      "Viac ako polovicu dní",
+      "Takmer každý deň"
+    ],
+    "intensity": [
+      "Vôbec nie",
+      "Trochu",
+      "Stredne",
+      "Značne",
+      "Extrémne"
+    ]
+  },
+  "levels": {
+    "low": "Nízka",
+    "mid": "Stredná",
+    "high": "Vysoká"
+  },
+  "result": {
+    "title": "Tvoje výsledky sú pripravené",
+    "subtitle": "Test „{test}“ je dokončený. Odomkni si úplnú osobnú správu a pozri sa na svoje skóre a ich význam.",
+    "mainType": "Tvoj hlavný typ",
+    "locked": "Zamknuté",
+    "unlockTitle": "Získaj úplnú správu",
+    "unlockText": "Podrobná správa so všetkými skóre, osobným výkladom a praktickými tipmi, zaslaná na tvoj e-mail.",
+    "emailLabel": "E-mailová adresa",
+    "emailPlaceholder": "ty@priklad.sk",
+    "consent": "Súhlasím s obchodnými podmienkami a zásadami ochrany osobných údajov.",
+    "buy": "Získať správu za {price}",
+    "secure": "Bezpečná platba cez Stripe. Jednorazová platba, žiadne predplatné.",
+    "invalidEmail": "Zadaj platnú e-mailovú adresu.",
+    "consentRequired": "Ak chceš pokračovať, prijmi podmienky.",
+    "error": "Niečo sa pokazilo. Skús to znova.",
+    "noAnswers": "Nenašli sme tvoje odpovede. Najprv, prosím, vyplň test.",
+    "takeTest": "Vyplniť test",
+    "crisisTitle": "Nie si na to sám/sama",
+    "crisisText": "Uviedol(a) si, že ťa napadlo, že by bolo lepšie byť mŕtvy/a, alebo že by si si mohol(a) ublížiť. Prosím, porozprávaj sa s niekým ešte dnes. Ak si v bezprostrednom nebezpečenstve, zavolaj na 112. Kedykoľvek cez deň aj v noci sa môžeš obrátiť aj na krízovú linku vo svojej krajine, napríklad z prehľadu na findahelpline.com.",
+    "crisisLink": "Nájdi linku pomoci vo svojom okolí"
+  },
+  "thanks": {
+    "title": "Ďakujeme za nákup!",
+    "text": "Tvoja osobná správa je na ceste do tvojej schránky. Zvyčajne príde do minúty.",
+    "spam": "Neprišla ani po 10 minútach? Skontroluj priečinok so spamom alebo s reklamnou poštou, alebo nám napíš na {email}.",
+    "more": "Objaviť ďalšie testy"
+  },
+  "report": {
+    "subject": "Tvoja správa: {test}",
+    "greeting": "Ahoj,",
+    "intro": "Ďakujeme, že si na {site} vyplnil(a) test „{test}“. Tu je tvoja osobná správa.",
+    "scoreLabel": "Tvoje skóre",
+    "outro": "Dúfame, že ti táto správa prinesie užitočné poznatky. Zaujímajú ťa aj ďalšie stránky tvojej osobnosti? Všetky naše testy nájdeš na {url}.",
+    "signature": "Tím {site}",
+    "instrumentLabel": "{name}: {score} z {max}",
+    "typeLabel": "Tvoj typ"
+  },
+  "footer": {
+    "tagline": "Spoznaj sa lepšie",
+    "about": "Podrobné testy sebapoznania pre každého, kto chce viac než štvorpísmenovú nálepku.",
+    "company": "Spoločnosť",
+    "home": "Domov",
+    "help": "Pomoc",
+    "contact": "Kontakt",
+    "legal": "Právne informácie",
+    "privacy": "Zásady ochrany osobných údajov",
+    "terms": "Obchodné podmienky",
+    "cookies": "Zásady používania cookies",
+    "refund": "Zásady vrátenia peňazí",
+    "rights": "© {year} {site}. Všetky práva vyhradené.",
+    "disclaimer": "{site} nie je zdravotnícka služba. S klinickými ťažkosťami sa, prosím, obráť na kvalifikovaného odborníka."
+  },
+  "legal": {
+    "privacyTitle": "Zásady ochrany osobných údajov",
+    "privacyBody": [
+      "Zbierame len údaje nevyhnutné na poskytovanie našej služby: tvoje odpovede v testoch a, ak si kúpiš správu, tvoju e-mailovú adresu.",
+      "Tvoje odpovede spracúvame, aby sme vypočítali tvoj výsledok. Keď si kúpiš správu, tvoje odpovede a e-mailovú adresu odovzdáme nášmu poskytovateľovi platieb Stripe a nášmu poskytovateľovi e-mailových služieb, aby sme mohli spracovať platbu a doručiť správu.",
+      "Tvoje údaje nepredávame a nepoužívame ich na reklamu. Kedykoľvek nás môžeš požiadať o ich vymazanie na adrese {email}.",
+      "Platby spracúva Stripe. Údaje o tvojej karte nikdy nevidíme ani neukladáme."
+    ],
+    "termsTitle": "Podmienky služby",
+    "termsBody": [
+      "Všetky testy na {site} slúžia na sebapoznanie a zábavu. Nie sú lekárskou, psychologickou ani inou odbornou diagnózou.",
+      "Vyplnenie testu je zadarmo. Osobná správa stojí {price} za test ako jednorazová platba. Správa sa doručuje digitálne e-mailom.",
+      "Keďže správa je digitálny obsah dodaný ihneď po zaplatení, súhlasíš s tým, že právo na odstúpenie od zmluvy zaniká odoslaním správy. Ak ti správa neprišla, napíš na {email} a pošleme ju znova alebo ti vrátime peniaze.",
+      "Snažíme sa, aby bol obsah presný, no nemôžeme zaručiť, že výsledky budú úplné alebo správne pre každého."
+    ],
+    "cookiesTitle": "Zásady používania cookies",
+    "cookiesBody": [
+      "{site} nepoužíva reklamné ani sledovacie cookies.",
+      "V tvojom prehliadači ukladáme len nevyhnutne potrebné údaje: zvolený jazyk a postup v teste, aby si mohol(a) pokračovať tam, kde si skončil(a). Tieto údaje zostávajú v tvojom zariadení.",
+      "Pri platbe môže náš poskytovateľ platieb Stripe ukladať cookies potrebné na bezpečné spracovanie platby a prevenciu podvodov.",
+      "Máš otázky? Napíš nám na {email}."
+    ],
+    "refundTitle": "Zásady vrátenia peňazí",
+    "refundBody": [
+      "Správa stojí {price} za test ako jednorazová platba. Nejde o predplatné a nič sa automaticky neobnovuje.",
+      "Nedostal(a) si správu alebo sa niečo pokazilo? Napíš do 14 dní na {email}, uveď e-mailovú adresu, ktorú si použil(a), a správu ti pošleme znova alebo vrátime platbu.",
+      "Keďže správa je digitálny obsah dodaný okamžite, zákonné právo na odstúpenie od zmluvy zaniká jej odoslaním. Ak niečo nie je v poriadku, vždy ti radi pomôžeme.",
+      "Peniaze vraciame na pôvodný spôsob platby do 5 – 10 pracovných dní."
+    ]
+  }
+}

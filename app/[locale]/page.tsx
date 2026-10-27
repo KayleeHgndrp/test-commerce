@@ -43,8 +43,11 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
         <span className="inline-flex rounded-full border border-border bg-surface px-3 py-1 text-xs font-semibold text-muted">
           {fmt(h.badge, vars)}
         </span>
-        <h1 className="mt-6 text-4xl font-extrabold leading-[1.05] sm:text-6xl">{h.heroTitle}</h1>
-        <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-muted">{fmt(h.heroSubtitle, vars)}</p>
+        <h1 className="mt-6 text-4xl font-extrabold leading-[1.05] sm:text-6xl">
+          {h.heroTitle}
+          <span className="block text-accent">{h.heroHighlight}</span>
+        </h1>
+        <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-muted">{h.heroSubtitle}</p>
         <div className="mt-10 flex flex-col justify-center gap-3 sm:flex-row">
           <Link href="#tests" className={primary}>{h.heroCta} →</Link>
           <Link href="#how" className={`${button} border border-border bg-surface hover:border-accent`}>{h.heroSecondary}</Link>

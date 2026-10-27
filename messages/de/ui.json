@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Kostenlose Psychotests online",
+    "description": "Mach fundierte Tests zu Persönlichkeit, Bindung, Beruf, ADHS, Burnout und mehr. Kostenlos ausfüllen, mit ausführlichem persönlichem Bericht für nur {price}."
+  },
+  "nav": {
+    "tests": "Tests",
+    "pricing": "Preise",
+    "faq": "FAQ",
+    "language": "Sprache",
+    "cta": "Test starten"
+  },
+  "home": {
+    "badge": "{count} Tests · {languages} Sprachen",
+    "heroTitle": "Lerne dich selbst kennen – Test für Test",
+    "heroSubtitle": "Fundierte Tests zu Persönlichkeit, Beziehungen, Arbeit und Wohlbefinden. 100 Fragen, etwa 5 Minuten und ein persönlicher Bericht für nur {price}.",
+    "heroCta": "Unsere Tests entdecken",
+    "heroSecondary": "So funktioniert's",
+    "trust1": "Kein Konto nötig",
+    "trust2": "Einmalzahlung, kein Abo",
+    "trust3": "Bericht direkt in dein Postfach",
+    "dimensionsTitle": "Du bist mehr als ein einzelner Wert – entdecke jede Seite an dir.",
+    "dimensionsSubtitle": "Die Bereiche, die unsere Tests am häufigsten messen – von Persönlichkeit über Beziehungen bis Wohlbefinden.",
+    "dimensions": [
+      "🎯 Fokus",
+      "🔋 Soziale Energie",
+      "🌊 Umgang mit Stress",
+      "💞 Bindung",
+      "⚖️ Entscheidungen",
+      "🧭 Werte",
+      "💡 Kreativität",
+      "🪞 Selbstwahrnehmung",
+      "🛡️ Resilienz"
+    ],
+    "testsTitle": "Wähle deinen Test",
+    "testsSubtitle": "Jeder Test ist kostenlos. Such dir den aus, der dich anspricht.",
+    "howTitle": "In drei Schritten von der ersten Frage zum vollständigen Bericht",
+    "steps": [
+      {
+        "title": "Test auswählen",
+        "text": "Wähle aus unserer Sammlung von Persönlichkeits-, Beziehungs- und Screening-Tests, die alle auf anerkannten psychologischen Modellen beruhen."
+      },
+      {
+        "title": "Test machen",
+        "text": "Beantworte 100 Fragen auf einer einfachen Skala. Die meisten Tests dauern etwa 5 Minuten, und dein Fortschritt wird gespeichert."
+      },
+      {
+        "title": "Bericht lesen",
+        "text": "Erhalte einen persönlichen Bericht mit deinen Werten, ihrer Bedeutung und praktischen Tipps – direkt in dein Postfach."
+      }
+    ],
+    "pricingTitle": "Einfache Preise",
+    "pricingSubtitle": "Ein Preis. Kein Abo. Keine Überraschungen.",
+    "planFreeName": "Test machen",
+    "planFreePrice": "Kostenlos",
+    "planFreeFeatures": [
+      "Alle {count} Tests kostenlos",
+      "100 Fragen, etwa 5 Minuten",
+      "Fortschritt wird automatisch gespeichert",
+      "Sofortige Vorschau deiner Ergebnisbereiche"
+    ],
+    "planReportName": "Vollständiger Bericht",
+    "planReportPrice": "{price}",
+    "planReportPer": "einmalig, pro Test",
+    "planReportFeatures": [
+      "Dein Wert in jeder Dimension",
+      "Persönliche Deutung jedes Werts",
+      "Praktische Tipps, die du sofort umsetzen kannst",
+      "Innerhalb von Minuten in deinem Postfach",
+      "Kein Abo, keine automatische Verlängerung"
+    ],
+    "planCta": "Jetzt ausprobieren",
+    "faqTitle": "Häufige Fragen",
+    "faq": [
+      {
+        "q": "Was ist {site}?",
+        "a": "{site} ist eine Online-Plattform mit fundierten Selbsttests zu Persönlichkeit, Beziehungen, Arbeit und Wohlbefinden. Du kannst jeden Test kostenlos machen und einen ausführlichen persönlichen Bericht bestellen, wenn du mehr wissen möchtest."
+      },
+      {
+        "q": "Was kostet ein Test?",
+        "a": "Einen Test zu machen ist kostenlos. Der ausführliche persönliche Bericht kostet einmalig {price}. Es gibt kein Abo, und es wird nie automatisch erneut abgebucht."
+      },
+      {
+        "q": "Wie erhalte ich meinen Bericht?",
+        "a": "Nach der Zahlung wird dein Bericht an die angegebene E-Mail-Adresse geschickt, meist innerhalb einer Minute. Nicht gefunden? Schau in deinem Spam- oder Werbeordner nach."
+      },
+      {
+        "q": "Kann ich einen Test wiederholen?",
+        "a": "Ja, so oft du möchtest. Einen Test nach ein paar Wochen zu wiederholen ist eine gute Möglichkeit zu sehen, was sich verändert hat. Jeder Bericht ist ein separater Einmalkauf."
+      },
+      {
+        "q": "Ist das eine medizinische Diagnose?",
+        "a": "Nein. Unsere Tests dienen der Selbstreflexion. Screenings wie der ADHS- oder Depressionstest können zeigen, ob ein Gespräch mit einer Fachperson sinnvoll ist, ersetzen aber nie eine Abklärung durch qualifiziertes Fachpersonal."
+      },
+      {
+        "q": "Wie wurden diese Tests entwickelt?",
+        "a": "Unsere Tests beruhen auf anerkannten psychologischen Modellen wie den Big Five, RIASEC und der Bindungstheorie. Die Depressions- und Traumatests enthalten außerdem die frei verfügbaren Fragebögen PHQ-9 und PCL-5, ausgewertet mit ihren offiziellen Grenzwerten."
+      },
+      {
+        "q": "Können die Ergebnisse ungenau sein?",
+        "a": "Jeder Fragebogen hat eine Fehlerspanne, und auch deine Tagesform kann eine Rolle spielen. Antworte ehrlich und ohne lange zu grübeln, und sieh dein Ergebnis als Ausgangspunkt zum Nachdenken, nicht als endgültiges Urteil."
+      },
+      {
+        "q": "Bleiben meine Daten privat?",
+        "a": "Ja. Du brauchst kein Konto. Deine Antworten werden nur verwendet, um dein Ergebnis zu berechnen und deinen Bericht zu erstellen, und wir verkaufen deine Daten niemals."
+      }
+    ],
+    "ctaTitle": "Bereit, mehr über dich zu erfahren?",
+    "ctaButton": "Unsere Tests entdecken"
+  },
+  "categories": {
+    "personality": "Persönlichkeit & Typ",
+    "relationships": "Beziehungen & Gefühle",
+    "work": "Arbeit & Werte",
+    "screeners": "Screenings",
+    "wellbeing": "Wohlbefinden & Gewohnheiten"
+  },
+  "test": {
+    "start": "Test starten",
+    "questions": "{count} Fragen",
+    "minutes": "{count} Min.",
+    "free": "Kostenlos",
+    "aboutTitle": "Über diesen Test",
+    "whatYouGet": "Das steht in deinem Bericht",
+    "whatYouGet1": "Dein Wert in jeder Dimension: {dimensions}",
+    "whatYouGet2": "Eine persönliche Deutung jedes Werts",
+    "whatYouGet3": "Praktische Tipps, die du sofort umsetzen kannst",
+    "otherTests": "Weitere beliebte Tests",
+    "question": "Frage {current} von {total}",
+    "back": "Zurück",
+    "next": "Weiter",
+    "finish": "Meine Ergebnisse ansehen",
+    "chooseAnswer": "Wähle die Antwort, die am besten zu dir passt.",
+    "resume": "Du hast einen unvollständigen Test. Dort weitermachen, wo du aufgehört hast?",
+    "resumeYes": "Weitermachen",
+    "resumeNo": "Neu beginnen",
+    "genderTitle": "Zuerst eine kurze Frage",
+    "genderQuestion": "Welches Geschlecht hast du?",
+    "genderMale": "Männlich",
+    "genderFemale": "Weiblich",
+    "genderOther": "Divers / keine Angabe",
+    "screenerNote": "Dieser Test ist ein Screening-Instrument, keine Diagnose."
+  },
+  "scales": {
+    "agree": [
+      "Stimme überhaupt nicht zu",
+      "Stimme nicht zu",
+      "Neutral",
+      "Stimme zu",
+      "Stimme voll und ganz zu"
+    ],
+    "frequency": [
+      "Nie",
+      "Selten",
+      "Manchmal",
+      "Oft",
+      "Sehr oft"
+    ],
+    "phq": [
+      "Überhaupt nicht",
+      "An einzelnen Tagen",
+      "An mehr als der Hälfte der Tage",
+      "Beinahe jeden Tag"
+    ],
+    "intensity": [
+      "Überhaupt nicht",
+      "Ein wenig",
+      "Mäßig",
+      "Ziemlich",
+      "Äußerst"
+    ]
+  },
+  "levels": {
+    "low": "Niedrig",
+    "mid": "Mittel",
+    "high": "Hoch"
+  },
+  "result": {
+    "title": "Deine Ergebnisse sind fertig",
+    "subtitle": "Du hast „{test}“ abgeschlossen. Schalte deinen vollständigen persönlichen Bericht frei, um deine Werte und ihre Bedeutung zu sehen.",
+    "mainType": "Dein Haupttyp",
+    "locked": "Gesperrt",
+    "unlockTitle": "Hol dir deinen vollständigen Bericht",
+    "unlockText": "Dein ausführlicher Bericht mit allen Werten, persönlichen Deutungen und praktischen Tipps – per E-Mail an dich.",
+    "emailLabel": "E-Mail-Adresse",
+    "emailPlaceholder": "du@beispiel.de",
+    "consent": "Ich stimme den AGB und der Datenschutzerklärung zu.",
+    "buy": "Meinen Bericht für {price} holen",
+    "secure": "Sichere Zahlung über Stripe. Einmalzahlung, kein Abo.",
+    "invalidEmail": "Bitte gib eine gültige E-Mail-Adresse ein.",
+    "consentRequired": "Bitte akzeptiere die AGB, um fortzufahren.",
+    "error": "Etwas ist schiefgelaufen. Bitte versuch es erneut.",
+    "noAnswers": "Wir konnten deine Antworten nicht finden. Bitte mach zuerst den Test.",
+    "takeTest": "Test machen",
+    "crisisTitle": "Du bist nicht allein",
+    "crisisText": "Du hast angegeben, dass du Gedanken hattest, dass du lieber tot wärst oder dir etwas antun könntest. Bitte sprich noch heute mit jemandem darüber. Wenn du in akuter Gefahr bist, ruf die 112 an. Du kannst dich auch rund um die Uhr an eine Krisenhotline in deinem Land wenden, zum Beispiel über findahelpline.com.",
+    "crisisLink": "Finde eine Hilfehotline in deiner Nähe"
+  },
+  "thanks": {
+    "title": "Danke für deinen Kauf!",
+    "text": "Dein persönlicher Bericht ist auf dem Weg in dein Postfach. Er kommt meist innerhalb einer Minute an.",
+    "spam": "Nach 10 Minuten noch nichts erhalten? Schau in deinem Spam- oder Werbeordner nach oder schreib uns an {email}.",
+    "more": "Weitere Tests entdecken"
+  },
+  "report": {
+    "subject": "Dein Bericht: {test}",
+    "greeting": "Hallo,",
+    "intro": "Danke, dass du „{test}“ auf {site} gemacht hast. Hier ist dein persönlicher Bericht.",
+    "scoreLabel": "Dein Wert",
+    "outro": "Wir hoffen, dieser Bericht gibt dir hilfreiche Einblicke. Neugierig auf andere Seiten an dir? Entdecke alle unsere Tests auf {url}.",
+    "signature": "Dein {site}-Team",
+    "instrumentLabel": "{name}: {score} von {max}",
+    "typeLabel": "Dein Typ"
+  },
+  "footer": {
+    "tagline": "Lerne dich besser kennen",
+    "about": "Fundierte Selbsttests für alle, die mehr wollen als ein Etikett aus vier Buchstaben.",
+    "company": "Unternehmen",
+    "home": "Startseite",
+    "help": "Hilfe",
+    "contact": "Kontakt",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutzerklärung",
+    "terms": "AGB",
+    "cookies": "Cookie-Richtlinie",
+    "refund": "Erstattungsrichtlinie",
+    "rights": "© {year} {site}. Alle Rechte vorbehalten.",
+    "disclaimer": "{site} ist kein medizinischer Dienst. Bei klinischen Anliegen wende dich bitte an eine zugelassene Fachperson."
+  },
+  "legal": {
+    "privacyTitle": "Datenschutzerklärung",
+    "privacyBody": [
+      "Wir erheben nur die Daten, die für unseren Dienst nötig sind: deine Antworten im Test und, wenn du einen Bericht kaufst, deine E-Mail-Adresse.",
+      "Deine Antworten werden verarbeitet, um dein Ergebnis zu berechnen. Wenn du einen Bericht kaufst, werden deine Antworten und deine E-Mail-Adresse an unseren Zahlungsdienstleister Stripe und unseren E-Mail-Dienstleister übermittelt, um die Zahlung abzuwickeln und den Bericht zuzustellen.",
+      "Wir verkaufen deine Daten nicht und nutzen sie nicht für Werbung. Du kannst jederzeit die Löschung deiner Daten verlangen, indem du uns an {email} schreibst.",
+      "Zahlungen werden von Stripe abgewickelt. Wir sehen oder speichern deine Kartendaten nie."
+    ],
+    "termsTitle": "Nutzungsbedingungen",
+    "termsBody": [
+      "Alle Tests auf {site} dienen der Selbstreflexion und Unterhaltung. Sie sind keine medizinische, psychologische oder sonstige fachliche Diagnose.",
+      "Einen Test zu machen ist kostenlos. Ein persönlicher Bericht kostet {price} pro Test als Einmalzahlung. Der Bericht wird digital per E-Mail geliefert.",
+      "Da der Bericht ein digitaler Inhalt ist, der unmittelbar nach der Zahlung geliefert wird, stimmst du zu, dass dein Widerrufsrecht erlischt, sobald der Bericht versendet wurde. Wenn du deinen Bericht nicht erhalten hast, schreib an {email} – wir senden ihn erneut oder erstatten dir den Betrag.",
+      "Wir bemühen uns, die Inhalte korrekt zu halten, können aber nicht garantieren, dass die Ergebnisse für jede Person vollständig oder zutreffend sind."
+    ],
+    "cookiesTitle": "Cookie-Richtlinie",
+    "cookiesBody": [
+      "{site} verwendet keine Werbe- oder Tracking-Cookies.",
+      "Wir speichern nur unbedingt notwendige Daten in deinem Browser: deine gewählte Sprache und deinen Fortschritt in einem Test, damit du dort weitermachen kannst, wo du aufgehört hast. Diese Daten bleiben auf deinem Gerät.",
+      "Wenn du bezahlst, kann unser Zahlungsdienstleister Stripe Cookies setzen, die für die sichere Zahlungsabwicklung und zur Betrugsvermeidung nötig sind.",
+      "Fragen? Schreib uns an {email}."
+    ],
+    "refundTitle": "Erstattungsrichtlinie",
+    "refundBody": [
+      "Ein Bericht kostet {price} pro Test als Einmalzahlung. Es gibt kein Abo und keine automatische Verlängerung.",
+      "Du hast deinen Bericht nicht erhalten oder etwas ist schiefgelaufen? Schreib innerhalb von 14 Tagen an {email} und nenne die verwendete E-Mail-Adresse – wir senden deinen Bericht erneut oder erstatten deine Zahlung.",
+      "Da der Bericht ein digitaler Inhalt ist, der sofort geliefert wird, erlischt das gesetzliche Widerrufsrecht mit dem Versand. Wenn etwas nicht stimmt, helfen wir dir trotzdem immer weiter.",
+      "Erstattungen erfolgen innerhalb von 5–10 Werktagen auf das ursprüngliche Zahlungsmittel."
+    ]
+  }
+}

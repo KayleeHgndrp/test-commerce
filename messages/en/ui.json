@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Free online psychology tests",
-    "description": "Take in-depth tests on personality, attachment, career, ADHD, burnout and more. Free to take, with a detailed personal report for just {price}."
+    "description": "In-depth tests on personality, relationships, work and wellbeing — grounded in established psychological research and explained in plain language."
   },
   "nav": {
     "tests": "Tests",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} tests · {languages} languages",
-    "heroTitle": "Get to know yourself, one test at a time",
-    "heroSubtitle": "In-depth tests on personality, relationships, work and wellbeing. 100 questions, about 5 minutes, and a personal report for just {price}.",
+    "heroTitle": "The tests that reveal your",
+    "heroHighlight": "personality",
+    "heroSubtitle": "In-depth tests on personality, relationships and wellbeing — each grounded in established psychological research, and explained in plain language you'll actually finish reading.",
     "heroCta": "Explore our tests",
     "heroSecondary": "How it works",
     "trust1": "No account needed",

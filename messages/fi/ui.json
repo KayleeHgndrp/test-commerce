@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Ilmaiset psykologiset testit verkossa",
+    "description": "Tee perusteellisia testejä persoonallisuudesta, kiintymyssuhteesta, urasta, ADHD:sta, uupumuksesta ja paljon muusta. Ilmaiseksi – ja yksityiskohtainen henkilökohtainen raportti vain {price}."
+  },
+  "nav": {
+    "tests": "Testit",
+    "pricing": "Hinnat",
+    "faq": "UKK",
+    "language": "Kieli",
+    "cta": "Aloita testi"
+  },
+  "home": {
+    "badge": "Testejä: {count} · Kieliä: {languages}",
+    "heroTitle": "Opi tuntemaan itsesi, testi kerrallaan",
+    "heroSubtitle": "Perusteellisia testejä persoonallisuudesta, ihmissuhteista, työstä ja hyvinvoinnista. 100 kysymystä, noin 5 minuuttia ja henkilökohtainen raportti vain {price}.",
+    "heroCta": "Tutustu testeihin",
+    "heroSecondary": "Näin se toimii",
+    "trust1": "Ei tiliä tarvita",
+    "trust2": "Kertamaksu, ei tilausta",
+    "trust3": "Raportti suoraan sähköpostiisi",
+    "dimensionsTitle": "Olet enemmän kuin yksi pistemäärä – näe kaikki puolesi.",
+    "dimensionsSubtitle": "Alueet, joita testimme mittaavat useimmin – persoonallisuudesta ihmissuhteisiin ja hyvinvointiin.",
+    "dimensions": [
+      "🎯 Keskittyminen",
+      "🔋 Sosiaalinen energia",
+      "🌊 Stressireaktio",
+      "💞 Kiintymys",
+      "⚖️ Päätöksenteko",
+      "🧭 Arvot",
+      "💡 Luovuus",
+      "🪞 Itsetuntemus",
+      "🛡️ Resilienssi"
+    ],
+    "testsTitle": "Valitse testisi",
+    "testsSubtitle": "Jokainen testi on ilmainen. Valitse se, joka kiinnostaa sinua eniten.",
+    "howTitle": "Ensimmäisestä kysymyksestä valmiiseen raporttiin kolmessa vaiheessa",
+    "steps": [
+      {
+        "title": "Valitse testi",
+        "text": "Valitse persoonallisuus-, ihmissuhde- ja seulontatesteistämme – kaikki perustuvat vakiintuneisiin psykologisiin malleihin."
+      },
+      {
+        "title": "Tee testi",
+        "text": "Vastaa 100 kysymykseen yksinkertaisella asteikolla. Useimmat testit vievät noin 5 minuuttia, ja edistymisesi tallentuu."
+      },
+      {
+        "title": "Lue raporttisi",
+        "text": "Saat henkilökohtaisen raportin, jossa ovat pisteesi, niiden merkitys ja käytännön vinkkejä – suoraan sähköpostiisi."
+      }
+    ],
+    "pricingTitle": "Selkeä hinnoittelu",
+    "pricingSubtitle": "Yksi hinta. Ei tilausta. Ei yllätyksiä.",
+    "planFreeName": "Tee testi",
+    "planFreePrice": "Ilmainen",
+    "planFreeFeatures": [
+      "Kaikki testit ({count}) ilmaiseksi",
+      "100 kysymystä, noin 5 minuuttia",
+      "Edistyminen tallentuu automaattisesti",
+      "Välitön esikatselu tulosalueistasi"
+    ],
+    "planReportName": "Koko raportti",
+    "planReportPrice": "{price}",
+    "planReportPer": "kertamaksu, per testi",
+    "planReportFeatures": [
+      "Pisteesi jokaisella ulottuvuudella",
+      "Henkilökohtainen tulkinta jokaisesta tuloksesta",
+      "Käytännön vinkkejä, joita voit hyödyntää heti",
+      "Sähköpostissasi muutamassa minuutissa",
+      "Ei tilausta, ei automaattista uusimista"
+    ],
+    "planCta": "Kokeile nyt",
+    "faqTitle": "Usein kysytyt kysymykset",
+    "faq": [
+      {
+        "q": "Mikä {site} on?",
+        "a": "{site} on verkkopalvelu, jossa on perusteellisia itsearviointitestejä persoonallisuudesta, ihmissuhteista, työstä ja hyvinvoinnista. Voit tehdä jokaisen testin ilmaiseksi ja tilata yksityiskohtaisen henkilökohtaisen raportin, jos haluat tietää lisää."
+      },
+      {
+        "q": "Paljonko testi maksaa?",
+        "a": "Testin tekeminen on ilmaista. Yksityiskohtainen henkilökohtainen raportti maksaa {price} kertamaksuna. Tilausta ei ole, eikä sinulta koskaan veloiteta mitään automaattisesti uudelleen."
+      },
+      {
+        "q": "Miten saan raporttini?",
+        "a": "Maksun jälkeen raportti lähetetään antamaasi sähköpostiosoitteeseen, yleensä minuutin kuluessa. Etkö löydä sitä? Tarkista roskaposti- tai mainoskansio."
+      },
+      {
+        "q": "Voinko tehdä testin uudelleen?",
+        "a": "Kyllä, niin usein kuin haluat. Testin uusiminen muutaman viikon päästä on hyvä tapa nähdä, mikä on muuttunut. Jokainen raportti on erillinen kertaostos."
+      },
+      {
+        "q": "Onko tämä lääketieteellinen diagnoosi?",
+        "a": "Ei. Testimme on tarkoitettu itsereflektioon. Seulontatestit, kuten ADHD- tai masennustesti, voivat kertoa, onko asiantuntijan kanssa puhumisesta hyötyä, mutta ne eivät koskaan korvaa pätevän ammattilaisen arviota."
+      },
+      {
+        "q": "Miten testit on laadittu?",
+        "a": "Testimme perustuvat vakiintuneisiin psykologisiin malleihin, kuten Big Five -malliin, RIASEC-malliin ja kiintymyssuhdeteoriaan. Masennus- ja traumatesteissä ovat mukana myös vapaasti käytettävät PHQ-9- ja PCL-5-kyselyt, jotka pisteytetään niiden virallisten raja-arvojen mukaan."
+      },
+      {
+        "q": "Voivatko tulokset olla epäluotettavia?",
+        "a": "Jokaisessa kyselyssä on virhemarginaali, ja myös päivän mielialasi voi vaikuttaa. Vastaa rehellisesti ja liikoja miettimättä, ja pidä tulostasi pohdinnan lähtökohtana, älä lopullisena tuomiona."
+      },
+      {
+        "q": "Pysyvätkö tietoni yksityisinä?",
+        "a": "Kyllä. Et tarvitse tiliä. Vastauksiasi käytetään vain tuloksesi laskemiseen ja raporttisi laatimiseen, emmekä koskaan myy tietojasi."
+      }
+    ],
+    "ctaTitle": "Valmis oppimaan itsestäsi lisää?",
+    "ctaButton": "Tutustu testeihin"
+  },
+  "categories": {
+    "personality": "Persoonallisuus ja tyyppi",
+    "relationships": "Ihmissuhteet ja tunteet",
+    "work": "Työ ja arvot",
+    "screeners": "Seulontatestit",
+    "wellbeing": "Hyvinvointi ja tavat"
+  },
+  "test": {
+    "start": "Aloita testi",
+    "questions": "{count} kysymystä",
+    "minutes": "{count} min",
+    "free": "Ilmainen",
+    "aboutTitle": "Tietoa testistä",
+    "whatYouGet": "Raporttisi sisältää",
+    "whatYouGet1": "Pisteesi jokaisella ulottuvuudella: {dimensions}",
+    "whatYouGet2": "Henkilökohtaisen tulkinnan jokaisesta tuloksesta",
+    "whatYouGet3": "Käytännön vinkkejä, joita voit hyödyntää heti",
+    "otherTests": "Muita suosittuja testejä",
+    "question": "Kysymys {current}/{total}",
+    "back": "Takaisin",
+    "next": "Seuraava",
+    "finish": "Näytä tulokseni",
+    "chooseAnswer": "Valitse vastaus, joka kuvaa sinua parhaiten.",
+    "resume": "Sinulla on keskeneräinen testi. Jatketaanko siitä, mihin jäit?",
+    "resumeYes": "Jatka",
+    "resumeNo": "Aloita alusta",
+    "genderTitle": "Ensin nopea kysymys",
+    "genderQuestion": "Mikä on sukupuolesi?",
+    "genderMale": "Mies",
+    "genderFemale": "Nainen",
+    "genderOther": "Muu / en halua kertoa",
+    "screenerNote": "Tämä testi on seulontatyökalu, ei diagnoosi."
+  },
+  "scales": {
+    "agree": [
+      "Täysin eri mieltä",
+      "Eri mieltä",
+      "Ei samaa eikä eri mieltä",
+      "Samaa mieltä",
+      "Täysin samaa mieltä"
+    ],
+    "frequency": [
+      "Ei koskaan",
+      "Harvoin",
+      "Joskus",
+      "Usein",
+      "Hyvin usein"
+    ],
+    "phq": [
+      "Ei lainkaan",
+      "Useina päivinä",
+      "Suurimpana osana päivistä",
+      "Lähes joka päivä"
+    ],
+    "intensity": [
+      "Ei lainkaan",
+      "Vähän",
+      "Kohtalaisesti",
+      "Melko paljon",
+      "Erittäin paljon"
+    ]
+  },
+  "levels": {
+    "low": "Matala",
+    "mid": "Keskitaso",
+    "high": "Korkea"
+  },
+  "result": {
+    "title": "Tuloksesi ovat valmiit",
+    "subtitle": "Olet suorittanut testin ”{test}”. Avaa koko henkilökohtainen raporttisi nähdäksesi pisteesi ja mitä ne tarkoittavat.",
+    "mainType": "Päätyyppisi",
+    "locked": "Lukittu",
+    "unlockTitle": "Hanki koko raportti",
+    "unlockText": "Yksityiskohtainen raporttisi kaikkine pisteineen, henkilökohtaisine tulkintoineen ja käytännön vinkkeineen sähköpostiisi.",
+    "emailLabel": "Sähköpostiosoite",
+    "emailPlaceholder": "sinä@esimerkki.fi",
+    "consent": "Hyväksyn käyttöehdot ja tietosuojakäytännön.",
+    "buy": "Hanki raporttini hintaan {price}",
+    "secure": "Turvallinen maksu Stripen kautta. Kertamaksu, ei tilausta.",
+    "invalidEmail": "Anna kelvollinen sähköpostiosoite.",
+    "consentRequired": "Hyväksy ehdot jatkaaksesi.",
+    "error": "Jokin meni vikaan. Yritä uudelleen.",
+    "noAnswers": "Emme löytäneet vastauksiasi. Tee testi ensin.",
+    "takeTest": "Tee testi",
+    "crisisTitle": "Et ole yksin",
+    "crisisText": "Kerroit, että sinulla on ollut ajatuksia siitä, että olisit parempi kuolleena, tai ajatuksia itsesi vahingoittamisesta. Puhu jonkun kanssa vielä tänään. Jos olet välittömässä vaarassa, soita 112. Voit myös ottaa mihin vuorokaudenaikaan tahansa yhteyttä oman maasi kriisipuhelimeen, esimerkiksi findahelpline.com-sivustolla lueteltuihin.",
+    "crisisLink": "Löydä auttava puhelin läheltäsi"
+  },
+  "thanks": {
+    "title": "Kiitos ostoksestasi!",
+    "text": "Henkilökohtainen raporttisi on matkalla sähköpostiisi. Se saapuu yleensä minuutin kuluessa.",
+    "spam": "Eikö raporttia ole kuulunut 10 minuutissa? Tarkista roskaposti- tai mainoskansio tai ota meihin yhteyttä: {email}.",
+    "more": "Tutustu muihin testeihin"
+  },
+  "report": {
+    "subject": "Raporttisi: {test}",
+    "greeting": "Hei,",
+    "intro": "Kiitos, että teit testin ”{test}” {site}-palvelussa. Tässä on henkilökohtainen raporttisi.",
+    "scoreLabel": "Pisteesi",
+    "outro": "Toivomme, että raportti antaa sinulle hyödyllisiä oivalluksia. Kiinnostavatko muut puolesi? Tutustu kaikkiin testeihimme osoitteessa {url}.",
+    "signature": "{site}-tiimi",
+    "instrumentLabel": "{name}: {score}/{max}",
+    "typeLabel": "Tyyppisi"
+  },
+  "footer": {
+    "tagline": "Tunne itsesi paremmin",
+    "about": "Perusteellisia itsetestejä niille, jotka haluavat enemmän kuin neljän kirjaimen leiman.",
+    "company": "Yritys",
+    "home": "Etusivu",
+    "help": "Ohjeet",
+    "contact": "Ota yhteyttä",
+    "legal": "Lakitiedot",
+    "privacy": "Tietosuojakäytäntö",
+    "terms": "Käyttöehdot",
+    "cookies": "Evästekäytäntö",
+    "refund": "Palautuskäytäntö",
+    "rights": "© {year} {site}. Kaikki oikeudet pidätetään.",
+    "disclaimer": "{site} ei ole terveyspalvelu. Jos sinulla on kliinisiä huolia, käänny laillistetun ammattilaisen puoleen."
+  },
+  "legal": {
+    "privacyTitle": "Tietosuojakäytäntö",
+    "privacyBody": [
+      "Keräämme vain palvelun tarjoamiseen tarvittavat tiedot: vastauksesi testeihin ja, jos ostat raportin, sähköpostiosoitteesi.",
+      "Vastauksiasi käsitellään tuloksesi laskemiseksi. Kun ostat raportin, vastauksesi ja sähköpostiosoitteesi välitetään maksupalveluntarjoajallemme Stripelle ja sähköpostipalveluntarjoajallemme maksun käsittelemiseksi ja raportin toimittamiseksi.",
+      "Emme myy tietojasi emmekä käytä niitä mainontaan. Voit milloin tahansa pyytää meitä poistamaan tietosi ottamalla yhteyttä osoitteeseen {email}.",
+      "Maksut käsittelee Stripe. Emme koskaan näe emmekä tallenna korttitietojasi."
+    ],
+    "termsTitle": "Käyttöehdot",
+    "termsBody": [
+      "Kaikki {site}-palvelun testit on tarkoitettu itsereflektioon ja viihteeksi. Ne eivät ole lääketieteellinen, psykologinen tai muu ammatillinen diagnoosi.",
+      "Testin tekeminen on ilmaista. Henkilökohtainen raportti maksaa {price} testiltä kertamaksuna. Raportti toimitetaan digitaalisesti sähköpostitse.",
+      "Koska raportti on digitaalista sisältöä, joka toimitetaan heti maksun jälkeen, hyväksyt, että peruuttamisoikeutesi päättyy, kun raportti on lähetetty. Jos et saanut raporttiasi, ota yhteyttä osoitteeseen {email}, niin lähetämme sen uudelleen tai palautamme rahasi.",
+      "Pyrimme pitämään sisällön paikkansapitävänä, mutta emme voi taata, että tulokset ovat täydellisiä tai oikeita jokaisen kohdalla."
+    ],
+    "cookiesTitle": "Evästekäytäntö",
+    "cookiesBody": [
+      "{site} ei käytä mainos- tai seurantaevästeitä.",
+      "Tallennamme selaimeesi vain ehdottoman välttämättömiä tietoja: valitsemasi kielen ja edistymisesi testissä, jotta voit jatkaa siitä, mihin jäit. Nämä tiedot pysyvät laitteellasi.",
+      "Kun maksat, maksupalveluntarjoajamme Stripe voi asettaa evästeitä, joita tarvitaan maksun turvalliseen käsittelyyn ja petosten estämiseen.",
+      "Kysyttävää? Ota yhteyttä: {email}."
+    ],
+    "refundTitle": "Palautuskäytäntö",
+    "refundBody": [
+      "Raportti maksaa {price} testiltä kertamaksuna. Tilausta tai automaattista uusimista ei ole.",
+      "Etkö saanut raporttiasi, tai menikö jokin vikaan? Ota 14 päivän kuluessa yhteyttä osoitteeseen {email} ja kerro käyttämäsi sähköpostiosoite, niin lähetämme raportin uudelleen tai palautamme maksusi.",
+      "Koska raportti on heti toimitettavaa digitaalista sisältöä, lakisääteinen peruuttamisoikeus päättyy, kun raportti on lähetetty. Autamme sinua silti aina, jos jokin ei ole kunnossa.",
+      "Palautukset maksetaan alkuperäiselle maksutavalle 5–10 arkipäivän kuluessa."
+    ]
+  }
+}

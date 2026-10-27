@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – nemokami psichologiniai testai internete",
+    "description": "Atlikite išsamius asmenybės, prieraišumo, karjeros, ADHD, perdegimo ir kitus testus. Testai nemokami, o išsami asmeninė ataskaita – tik už {price}."
+  },
+  "nav": {
+    "tests": "Testai",
+    "pricing": "Kainos",
+    "faq": "DUK",
+    "language": "Kalba",
+    "cta": "Pradėti testą"
+  },
+  "home": {
+    "badge": "Testų: {count} · Kalbų: {languages}",
+    "heroTitle": "Pažinkite save – testas po testo",
+    "heroSubtitle": "Išsamūs testai apie asmenybę, santykius, darbą ir savijautą. 100 klausimų, apie 5 minutes ir asmeninė ataskaita tik už {price}.",
+    "heroCta": "Peržiūrėti testus",
+    "heroSecondary": "Kaip tai veikia",
+    "trust1": "Paskyros nereikia",
+    "trust2": "Vienkartinis mokėjimas, jokios prenumeratos",
+    "trust3": "Ataskaita tiesiai į jūsų el. paštą",
+    "dimensionsTitle": "Esate daugiau nei vienas balas – pažinkite visas savo puses.",
+    "dimensionsSubtitle": "Sritys, kurias mūsų testai matuoja dažniausiai: asmenybė, santykiai ir savijauta.",
+    "dimensions": [
+      "🎯 Dėmesio sutelkimas",
+      "🔋 Socialinė energija",
+      "🌊 Reakcija į stresą",
+      "💞 Prieraišumas",
+      "⚖️ Sprendimai",
+      "🧭 Vertybės",
+      "💡 Kūrybiškumas",
+      "🪞 Savimonė",
+      "🛡️ Atsparumas"
+    ],
+    "testsTitle": "Pasirinkite testą",
+    "testsSubtitle": "Kiekvieną testą galite atlikti nemokamai. Rinkitės tą, kuris jums artimiausias.",
+    "howTitle": "Nuo pirmo klausimo iki išsamios ataskaitos – trys žingsniai",
+    "steps": [
+      {
+        "title": "Pasirinkite testą",
+        "text": "Rinkitės iš mūsų asmenybės, santykių ir patikros testų bibliotekos – kiekvienas paremtas pripažintais psichologiniais modeliais."
+      },
+      {
+        "title": "Atlikite testą",
+        "text": "Atsakykite į 100 klausimų paprasta skale. Dauguma testų trunka apie 5 minutes, o jūsų pažanga išsaugoma."
+      },
+      {
+        "title": "Skaitykite ataskaitą",
+        "text": "Gaukite asmeninę ataskaitą su savo balais, jų reikšme ir praktiniais patarimais – tiesiai į el. paštą."
+      }
+    ],
+    "pricingTitle": "Paprastos kainos",
+    "pricingSubtitle": "Viena kaina. Jokios prenumeratos. Jokių staigmenų.",
+    "planFreeName": "Testo atlikimas",
+    "planFreePrice": "Nemokamai",
+    "planFreeFeatures": [
+      "Visi {count} testai – nemokamai",
+      "100 klausimų, apie 5 minutes",
+      "Pažanga išsaugoma automatiškai",
+      "Iškart matomos jūsų rezultatų sritys"
+    ],
+    "planReportName": "Išsami ataskaita",
+    "planReportPrice": "{price}",
+    "planReportPer": "vienkartinai, už testą",
+    "planReportFeatures": [
+      "Jūsų balas kiekvienoje dimensijoje",
+      "Asmeninė kiekvieno balo interpretacija",
+      "Praktiniai patarimai, kuriuos galite taikyti iškart",
+      "Atsiunčiama į el. paštą per kelias minutes",
+      "Jokios prenumeratos ir automatinio atnaujinimo"
+    ],
+    "planCta": "Išbandyti dabar",
+    "faqTitle": "Dažniausiai užduodami klausimai",
+    "faq": [
+      {
+        "q": "Kas yra {site}?",
+        "a": "{site} – tai internetinė platforma su išsamiais savęs pažinimo testais apie asmenybę, santykius, darbą ir savijautą. Kiekvieną testą galite atlikti nemokamai, o norėdami sužinoti daugiau – užsisakyti išsamią asmeninę ataskaitą."
+      },
+      {
+        "q": "Kiek kainuoja testas?",
+        "a": "Atlikti testą nemokama. Išsami asmeninė ataskaita kainuoja {price}, mokama vieną kartą. Jokios prenumeratos – daugiau niekada nebus nuskaičiuota automatiškai."
+      },
+      {
+        "q": "Kaip gausiu ataskaitą?",
+        "a": "Po apmokėjimo ataskaita išsiunčiama jūsų nurodytu el. pašto adresu, paprastai per minutę. Nerandate? Patikrinkite šlamšto arba reklamų aplanką."
+      },
+      {
+        "q": "Ar galiu testą atlikti dar kartą?",
+        "a": "Taip, kiek tik norite. Pakartoti testą po kelių savaičių – puikus būdas pamatyti, kas pasikeitė. Kiekviena ataskaita yra atskiras vienkartinis pirkinys."
+      },
+      {
+        "q": "Ar tai medicininė diagnozė?",
+        "a": "Ne. Mūsų testai skirti savirefleksijai. Patikros testai, pavyzdžiui, ADHD ar depresijos, gali parodyti, ar verta pasikalbėti su specialistu, tačiau jie niekada nepakeičia kvalifikuoto specialisto įvertinimo."
+      },
+      {
+        "q": "Kaip buvo sukurti šie testai?",
+        "a": "Mūsų testai paremti pripažintais psichologiniais modeliais, tokiais kaip „Didysis penketas“, RIASEC ir prieraišumo teorija. Depresijos ir traumos testuose taip pat naudojami viešai prieinami klausimynai PHQ-9 ir PCL-5, vertinami pagal oficialias ribines reikšmes."
+      },
+      {
+        "q": "Ar rezultatai gali būti netikslūs?",
+        "a": "Kiekvienas klausimynas turi paklaidą, o įtakos gali turėti ir tos dienos nuotaika. Atsakykite nuoširdžiai ir per daug negalvodami, o rezultatą laikykite apmąstymų pradžia, o ne galutiniu nuosprendžiu."
+      },
+      {
+        "q": "Ar mano duomenys liks privatūs?",
+        "a": "Taip. Paskyros nereikia. Jūsų atsakymai naudojami tik rezultatui apskaičiuoti ir ataskaitai parengti, o jūsų duomenų niekada neparduodame."
+      }
+    ],
+    "ctaTitle": "Pasiruošę sužinoti apie save daugiau?",
+    "ctaButton": "Peržiūrėti testus"
+  },
+  "categories": {
+    "personality": "Asmenybė ir tipas",
+    "relationships": "Santykiai ir emocijos",
+    "work": "Darbas ir vertybės",
+    "screeners": "Patikros testai",
+    "wellbeing": "Savijauta ir įpročiai"
+  },
+  "test": {
+    "start": "Pradėti testą",
+    "questions": "Klausimų: {count}",
+    "minutes": "{count} min.",
+    "free": "Nemokamai",
+    "aboutTitle": "Apie šį testą",
+    "whatYouGet": "Ką apima jūsų ataskaita",
+    "whatYouGet1": "Jūsų balas kiekvienoje dimensijoje: {dimensions}",
+    "whatYouGet2": "Asmeninė kiekvieno balo interpretacija",
+    "whatYouGet3": "Praktiniai patarimai, kuriuos galite taikyti iškart",
+    "otherTests": "Kiti populiarūs testai",
+    "question": "{current} klausimas iš {total}",
+    "back": "Atgal",
+    "next": "Toliau",
+    "finish": "Žiūrėti rezultatus",
+    "chooseAnswer": "Pasirinkite atsakymą, kuris jums labiausiai tinka.",
+    "resume": "Turite nebaigtą testą. Tęsti nuo ten, kur sustojote?",
+    "resumeYes": "Tęsti",
+    "resumeNo": "Pradėti iš naujo",
+    "genderTitle": "Pirmiausia – trumpas klausimas",
+    "genderQuestion": "Kokia jūsų lytis?",
+    "genderMale": "Vyras",
+    "genderFemale": "Moteris",
+    "genderOther": "Kita / nenoriu nurodyti",
+    "screenerNote": "Šis testas yra patikros priemonė, o ne diagnozė."
+  },
+  "scales": {
+    "agree": [
+      "Visiškai nesutinku",
+      "Nesutinku",
+      "Nei sutinku, nei nesutinku",
+      "Sutinku",
+      "Visiškai sutinku"
+    ],
+    "frequency": [
+      "Niekada",
+      "Retai",
+      "Kartais",
+      "Dažnai",
+      "Labai dažnai"
+    ],
+    "phq": [
+      "Visai ne",
+      "Keletą dienų",
+      "Daugiau nei pusę dienų",
+      "Beveik kiekvieną dieną"
+    ],
+    "intensity": [
+      "Visai ne",
+      "Šiek tiek",
+      "Vidutiniškai",
+      "Gana stipriai",
+      "Labai stipriai"
+    ]
+  },
+  "levels": {
+    "low": "Žemas",
+    "mid": "Vidutinis",
+    "high": "Aukštas"
+  },
+  "result": {
+    "title": "Jūsų rezultatai paruošti",
+    "subtitle": "Atlikote testą „{test}“. Atrakinkite išsamią asmeninę ataskaitą ir sužinokite savo balus bei jų reikšmę.",
+    "mainType": "Jūsų pagrindinis tipas",
+    "locked": "Užrakinta",
+    "unlockTitle": "Gaukite išsamią ataskaitą",
+    "unlockText": "Išsami ataskaita su visais balais, asmeninėmis interpretacijomis ir praktiniais patarimais – į jūsų el. paštą.",
+    "emailLabel": "El. pašto adresas",
+    "emailPlaceholder": "jusu@pavyzdys.lt",
+    "consent": "Sutinku su taisyklėmis ir privatumo politika.",
+    "buy": "Gauti ataskaitą už {price}",
+    "secure": "Saugus mokėjimas per Stripe. Vienkartinis mokėjimas, jokios prenumeratos.",
+    "invalidEmail": "Įveskite galiojantį el. pašto adresą.",
+    "consentRequired": "Norėdami tęsti, sutikite su taisyklėmis.",
+    "error": "Kažkas nepavyko. Bandykite dar kartą.",
+    "noAnswers": "Neradome jūsų atsakymų. Pirmiausia atlikite testą.",
+    "takeTest": "Atlikti testą",
+    "crisisTitle": "Jūs ne vieni",
+    "crisisText": "Nurodėte, kad jums kilo minčių, jog būtų geriau, jei būtumėte mirę, arba minčių susižaloti. Prašome šiandien pasikalbėti su kuo nors. Jei jums gresia tiesioginis pavojus, skambinkite 112. Bet kuriuo paros metu taip pat galite kreiptis į savo šalies krizių liniją, pavyzdžiui, nurodytą svetainėje findahelpline.com.",
+    "crisisLink": "Raskite pagalbos liniją netoliese"
+  },
+  "thanks": {
+    "title": "Ačiū už pirkinį!",
+    "text": "Jūsų asmeninė ataskaita jau keliauja į jūsų el. paštą. Paprastai ji atkeliauja per minutę.",
+    "spam": "Negavote per 10 minučių? Patikrinkite šlamšto arba reklamų aplanką arba susisiekite su mumis adresu {email}.",
+    "more": "Atraskite daugiau testų"
+  },
+  "report": {
+    "subject": "Jūsų testo „{test}“ ataskaita",
+    "greeting": "Sveiki,",
+    "intro": "Dėkojame, kad atlikote testą „{test}“ svetainėje {site}. Štai jūsų asmeninė ataskaita.",
+    "scoreLabel": "Jūsų balas",
+    "outro": "Tikimės, kad ši ataskaita suteiks jums naudingų įžvalgų. Įdomu pažinti ir kitas savo puses? Visus mūsų testus rasite adresu {url}.",
+    "signature": "{site} komanda",
+    "instrumentLabel": "{name}: {score} iš {max}",
+    "typeLabel": "Jūsų tipas"
+  },
+  "footer": {
+    "tagline": "Pažinkite save geriau",
+    "about": "Išsamūs savęs pažinimo testai tiems, kurie nori daugiau nei keturių raidžių etiketės.",
+    "company": "Įmonė",
+    "home": "Pradžia",
+    "help": "Pagalba",
+    "contact": "Susisiekite",
+    "legal": "Teisinė informacija",
+    "privacy": "Privatumo politika",
+    "terms": "Taisyklės ir sąlygos",
+    "cookies": "Slapukų politika",
+    "refund": "Pinigų grąžinimo politika",
+    "rights": "© {year} {site}. Visos teisės saugomos.",
+    "disclaimer": "{site} nėra medicininė paslauga. Dėl klinikinių klausimų kreipkitės į licencijuotą specialistą."
+  },
+  "legal": {
+    "privacyTitle": "Privatumo politika",
+    "privacyBody": [
+      "Renkame tik paslaugai teikti būtinus duomenis: jūsų testo atsakymus ir, jei perkate ataskaitą, jūsų el. pašto adresą.",
+      "Jūsų atsakymai tvarkomi rezultatui apskaičiuoti. Kai perkate ataskaitą, jūsų atsakymai ir el. pašto adresas perduodami mūsų mokėjimų paslaugų teikėjui Stripe ir el. pašto paslaugų teikėjui, kad būtų galima apdoroti mokėjimą ir pristatyti ataskaitą.",
+      "Jūsų duomenų neparduodame ir nenaudojame reklamai. Bet kada galite paprašyti ištrinti savo duomenis, susisiekę adresu {email}.",
+      "Mokėjimus tvarko Stripe. Mes niekada nematome ir nesaugome jūsų kortelės duomenų."
+    ],
+    "termsTitle": "Paslaugų teikimo sąlygos",
+    "termsBody": [
+      "Visi {site} testai skirti savirefleksijai ir pramogai. Jie nėra medicininė, psichologinė ar profesinė diagnozė.",
+      "Atlikti testą nemokama. Asmeninė ataskaita kainuoja {price} už testą, mokama vieną kartą. Ataskaita pristatoma skaitmeniniu būdu el. paštu.",
+      "Kadangi ataskaita yra skaitmeninis turinys, pateikiamas iškart po apmokėjimo, sutinkate, kad teisė atsisakyti sutarties išnyksta, kai ataskaita išsiunčiama. Jei ataskaitos negavote, susisiekite adresu {email} – išsiųsime ją dar kartą arba grąžinsime pinigus.",
+      "Stengiamės, kad turinys būtų tikslus, tačiau negalime garantuoti, kad rezultatai bus išsamūs ar teisingi kiekvienam asmeniui."
+    ],
+    "cookiesTitle": "Slapukų politika",
+    "cookiesBody": [
+      "{site} nenaudoja reklaminių ar sekimo slapukų.",
+      "Jūsų naršyklėje saugome tik būtinai reikalingus duomenis: pasirinktą kalbą ir testo pažangą, kad galėtumėte tęsti nuo ten, kur sustojote. Šie duomenys lieka jūsų įrenginyje.",
+      "Kai mokate, mūsų mokėjimų paslaugų teikėjas Stripe gali įrašyti slapukus, reikalingus saugiai apdoroti mokėjimą ir užkirsti kelią sukčiavimui.",
+      "Turite klausimų? Susisiekite su mumis adresu {email}."
+    ],
+    "refundTitle": "Pinigų grąžinimo politika",
+    "refundBody": [
+      "Ataskaita kainuoja {price} už testą, mokama vieną kartą. Jokios prenumeratos ir jokio automatinio atnaujinimo.",
+      "Negavote ataskaitos arba kažkas nepavyko? Per 14 dienų susisiekite adresu {email}, nurodydami naudotą el. pašto adresą, ir mes išsiųsime ataskaitą dar kartą arba grąžinsime jūsų mokėjimą.",
+      "Kadangi ataskaita yra iškart pateikiamas skaitmeninis turinys, įstatymais numatyta teisė atsisakyti sutarties išnyksta, kai ji išsiunčiama. Vis dėlto, jei kas nors ne taip, visada jums padėsime.",
+      "Pinigai grąžinami pradiniu mokėjimo būdu per 5–10 darbo dienų."
+    ]
+  }
+}

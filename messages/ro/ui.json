@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Teste psihologice online gratuite",
+    "description": "Fă teste aprofundate despre personalitate, atașament, carieră, ADHD, burnout și multe altele. Gratuite, cu un raport personal detaliat la doar {price}."
+  },
+  "nav": {
+    "tests": "Teste",
+    "pricing": "Prețuri",
+    "faq": "Întrebări frecvente",
+    "language": "Limbă",
+    "cta": "Începe un test"
+  },
+  "home": {
+    "badge": "{count} teste · {languages} limbi",
+    "heroTitle": "Cunoaște-te pe tine însuți, test cu test",
+    "heroSubtitle": "Teste aprofundate despre personalitate, relații, muncă și stare de bine. 100 de întrebări, cam 5 minute și un raport personal la doar {price}.",
+    "heroCta": "Descoperă testele noastre",
+    "heroSecondary": "Cum funcționează",
+    "trust1": "Fără cont",
+    "trust2": "Plată unică, fără abonament",
+    "trust3": "Raportul direct în inboxul tău",
+    "dimensionsTitle": "Ești mai mult decât un scor – descoperă-ți fiecare latură.",
+    "dimensionsSubtitle": "Domeniile pe care testele noastre le măsoară cel mai des, de la personalitate la relații și stare de bine.",
+    "dimensions": [
+      "🎯 Concentrare",
+      "🔋 Energie socială",
+      "🌊 Reacția la stres",
+      "💞 Atașament",
+      "⚖️ Decizii",
+      "🧭 Valori",
+      "💡 Creativitate",
+      "🪞 Autocunoaștere",
+      "🛡️ Reziliență"
+    ],
+    "testsTitle": "Alege-ți testul",
+    "testsSubtitle": "Fiecare test este gratuit. Alege-l pe cel care ți se potrivește.",
+    "howTitle": "De la prima întrebare la raportul complet în trei pași",
+    "steps": [
+      {
+        "title": "Alege un test",
+        "text": "Alege din colecția noastră de teste de personalitate, de relații și de screening, toate construite pe modele psihologice consacrate."
+      },
+      {
+        "title": "Completează testul",
+        "text": "Răspunde la 100 de întrebări pe o scală simplă. Majoritatea testelor durează cam 5 minute, iar progresul tău este salvat."
+      },
+      {
+        "title": "Citește-ți raportul",
+        "text": "Primești un raport personal cu scorurile tale, ce înseamnă ele și sfaturi practice, direct în inbox."
+      }
+    ],
+    "pricingTitle": "Prețuri simple",
+    "pricingSubtitle": "Un singur preț. Fără abonament. Fără surprize.",
+    "planFreeName": "Completează testul",
+    "planFreePrice": "Gratuit",
+    "planFreeFeatures": [
+      "Toate cele {count} teste, gratuit",
+      "100 de întrebări, cam 5 minute",
+      "Progres salvat automat",
+      "Previzualizare instantanee a domeniilor rezultatului"
+    ],
+    "planReportName": "Raport complet",
+    "planReportPrice": "{price}",
+    "planReportPer": "plată unică, per test",
+    "planReportFeatures": [
+      "Scorul tău la fiecare dimensiune",
+      "Interpretare personală a fiecărui scor",
+      "Sfaturi practice pe care le poți aplica imediat",
+      "În inboxul tău în câteva minute",
+      "Fără abonament, fără reînnoire automată"
+    ],
+    "planCta": "Încearcă acum",
+    "faqTitle": "Întrebări frecvente",
+    "faq": [
+      {
+        "q": "Ce este {site}?",
+        "a": "{site} este o platformă online cu teste de autoevaluare aprofundate despre personalitate, relații, muncă și stare de bine. Poți face orice test gratuit și poți comanda un raport personal detaliat dacă vrei să afli mai multe."
+      },
+      {
+        "q": "Cât costă un test?",
+        "a": "Completarea unui test este gratuită. Raportul personal detaliat costă {price}, cu plată unică. Nu există abonament și nu vei fi niciodată taxat din nou automat."
+      },
+      {
+        "q": "Cum primesc raportul?",
+        "a": "După plată, raportul este trimis la adresa de e-mail pe care ai introdus-o, de obicei în mai puțin de un minut. Nu îl găsești? Verifică dosarul de spam sau de promoții."
+      },
+      {
+        "q": "Pot reface un test?",
+        "a": "Da, de câte ori vrei. Refacerea unui test după câteva săptămâni este o modalitate bună de a vedea ce s-a schimbat. Fiecare raport este o achiziție separată, cu plată unică."
+      },
+      {
+        "q": "Este un diagnostic medical?",
+        "a": "Nu. Testele noastre sunt destinate autoreflecției. Testele de screening, precum cel pentru ADHD sau depresie, pot indica dacă are sens să vorbești cu un specialist, dar nu înlocuiesc niciodată evaluarea unui profesionist calificat."
+      },
+      {
+        "q": "Cum au fost create aceste teste?",
+        "a": "Testele noastre se bazează pe modele psihologice consacrate, precum Big Five, RIASEC și teoria atașamentului. Testele pentru depresie și traumă includ și chestionarele din domeniul public PHQ-9 și PCL-5, punctate după pragurile lor oficiale."
+      },
+      {
+        "q": "Pot fi rezultatele nesigure?",
+        "a": "Orice chestionar are o marjă de eroare, iar starea ta din ziua respectivă poate conta și ea. Răspunde sincer și fără să te gândești prea mult, și privește rezultatul ca pe un punct de plecare pentru reflecție, nu ca pe un verdict final."
+      },
+      {
+        "q": "Datele mele rămân private?",
+        "a": "Da. Nu ai nevoie de cont. Răspunsurile tale sunt folosite doar pentru a-ți calcula rezultatul și a-ți crea raportul, și nu îți vindem niciodată datele."
+      }
+    ],
+    "ctaTitle": "Gata să descoperi mai multe despre tine?",
+    "ctaButton": "Descoperă testele noastre"
+  },
+  "categories": {
+    "personality": "Personalitate și tip",
+    "relationships": "Relații și emoții",
+    "work": "Muncă și valori",
+    "screeners": "Teste de screening",
+    "wellbeing": "Stare de bine și obiceiuri"
+  },
+  "test": {
+    "start": "Începe testul",
+    "questions": "{count} de întrebări",
+    "minutes": "{count} min",
+    "free": "Gratuit",
+    "aboutTitle": "Despre acest test",
+    "whatYouGet": "Ce conține raportul tău",
+    "whatYouGet1": "Scorul tău la fiecare dimensiune: {dimensions}",
+    "whatYouGet2": "O interpretare personală a fiecărui scor",
+    "whatYouGet3": "Sfaturi practice pe care le poți aplica imediat",
+    "otherTests": "Alte teste populare",
+    "question": "Întrebarea {current} din {total}",
+    "back": "Înapoi",
+    "next": "Înainte",
+    "finish": "Vezi rezultatele mele",
+    "chooseAnswer": "Alege răspunsul care ți se potrivește cel mai bine.",
+    "resume": "Ai un test neterminat. Vrei să continui de unde ai rămas?",
+    "resumeYes": "Continuă",
+    "resumeNo": "Ia-o de la capăt",
+    "genderTitle": "Mai întâi, o întrebare rapidă",
+    "genderQuestion": "Care este genul tău?",
+    "genderMale": "Masculin",
+    "genderFemale": "Feminin",
+    "genderOther": "Altul / prefer să nu spun",
+    "screenerNote": "Acest test este un instrument de screening, nu un diagnostic."
+  },
+  "scales": {
+    "agree": [
+      "Dezacord total",
+      "Dezacord",
+      "Nici acord, nici dezacord",
+      "Acord",
+      "Acord total"
+    ],
+    "frequency": [
+      "Niciodată",
+      "Rareori",
+      "Uneori",
+      "Des",
+      "Foarte des"
+    ],
+    "phq": [
+      "Deloc",
+      "Câteva zile",
+      "Mai mult de jumătate din zile",
+      "Aproape în fiecare zi"
+    ],
+    "intensity": [
+      "Deloc",
+      "Puțin",
+      "Moderat",
+      "Destul de mult",
+      "Extrem de mult"
+    ]
+  },
+  "levels": {
+    "low": "Scăzut",
+    "mid": "Mediu",
+    "high": "Ridicat"
+  },
+  "result": {
+    "title": "Rezultatele tale sunt gata",
+    "subtitle": "Ai finalizat testul „{test}”. Deblochează raportul personal complet ca să-ți vezi scorurile și ce înseamnă ele.",
+    "mainType": "Tipul tău principal",
+    "locked": "Blocat",
+    "unlockTitle": "Obține raportul complet",
+    "unlockText": "Raportul tău detaliat, cu toate scorurile, interpretări personale și sfaturi practice, trimis pe e-mail.",
+    "emailLabel": "Adresă de e-mail",
+    "emailPlaceholder": "tu@exemplu.ro",
+    "consent": "Sunt de acord cu termenii și politica de confidențialitate.",
+    "buy": "Obține raportul pentru {price}",
+    "secure": "Plată securizată prin Stripe. Plată unică, fără abonament.",
+    "invalidEmail": "Introdu o adresă de e-mail validă.",
+    "consentRequired": "Acceptă termenii pentru a continua.",
+    "error": "Ceva nu a funcționat. Încearcă din nou.",
+    "noAnswers": "Nu am găsit răspunsurile tale. Completează mai întâi testul.",
+    "takeTest": "Completează testul",
+    "crisisTitle": "Nu ești singur",
+    "crisisText": "Ai indicat că ai avut gânduri că ți-ar fi mai bine dacă ai fi mort sau că ți-ai face rău. Te rugăm să vorbești cu cineva chiar azi. Dacă ești în pericol imediat, sună la 112. Poți contacta oricând, zi și noapte, și o linie de criză din țara ta, de exemplu dintre cele listate pe findahelpline.com.",
+    "crisisLink": "Găsește o linie de sprijin aproape de tine"
+  },
+  "thanks": {
+    "title": "Mulțumim pentru achiziție!",
+    "text": "Raportul tău personal este pe drum spre inbox. De obicei ajunge în mai puțin de un minut.",
+    "spam": "Nu l-ai primit după 10 minute? Verifică dosarul de spam sau de promoții ori scrie-ne la {email}.",
+    "more": "Descoperă mai multe teste"
+  },
+  "report": {
+    "subject": "Raportul tău: {test}",
+    "greeting": "Bună,",
+    "intro": "Îți mulțumim că ai completat testul „{test}” pe {site}. Iată raportul tău personal.",
+    "scoreLabel": "Scorul tău",
+    "outro": "Sperăm că acest raport îți oferă informații utile. Ești curios să afli și alte laturi ale tale? Descoperă toate testele noastre pe {url}.",
+    "signature": "Echipa {site}",
+    "instrumentLabel": "{name}: {score} din {max}",
+    "typeLabel": "Tipul tău"
+  },
+  "footer": {
+    "tagline": "Cunoaște-te mai bine",
+    "about": "Teste de autoevaluare aprofundate pentru cei care vor mai mult decât o etichetă din patru litere.",
+    "company": "Companie",
+    "home": "Acasă",
+    "help": "Ajutor",
+    "contact": "Contact",
+    "legal": "Informații legale",
+    "privacy": "Politica de confidențialitate",
+    "terms": "Termeni și condiții",
+    "cookies": "Politica privind cookie-urile",
+    "refund": "Politica de rambursare",
+    "rights": "© {year} {site}. Toate drepturile rezervate.",
+    "disclaimer": "{site} nu este un serviciu medical. Pentru probleme clinice, consultă un specialist autorizat."
+  },
+  "legal": {
+    "privacyTitle": "Politica de confidențialitate",
+    "privacyBody": [
+      "Colectăm doar datele necesare pentru a-ți oferi serviciul: răspunsurile tale la teste și, dacă cumperi un raport, adresa ta de e-mail.",
+      "Răspunsurile tale sunt prelucrate pentru a-ți calcula rezultatul. Când cumperi un raport, răspunsurile și adresa ta de e-mail sunt transmise procesatorului nostru de plăți, Stripe, și furnizorului nostru de e-mail, pentru a procesa plata și a livra raportul.",
+      "Nu îți vindem datele și nu le folosim în scopuri publicitare. Ne poți cere oricând ștergerea datelor tale scriindu-ne la {email}.",
+      "Plățile sunt procesate de Stripe. Nu vedem și nu stocăm niciodată datele cardului tău."
+    ],
+    "termsTitle": "Termeni de utilizare",
+    "termsBody": [
+      "Toate testele de pe {site} sunt destinate autoreflecției și divertismentului. Ele nu reprezintă un diagnostic medical, psihologic sau profesional.",
+      "Completarea unui test este gratuită. Un raport personal costă {price} per test, cu plată unică. Raportul este livrat în format digital, prin e-mail.",
+      "Deoarece raportul este conținut digital livrat imediat după plată, ești de acord că dreptul de retragere se stinge odată ce raportul a fost trimis. Dacă nu ai primit raportul, scrie-ne la {email} și ți-l vom retrimite sau îți vom rambursa banii.",
+      "Facem tot posibilul ca informațiile să fie corecte, dar nu putem garanta că rezultatele sunt complete sau exacte pentru fiecare persoană."
+    ],
+    "cookiesTitle": "Politica privind cookie-urile",
+    "cookiesBody": [
+      "{site} nu folosește cookie-uri de publicitate sau de urmărire.",
+      "Stocăm în browserul tău doar datele strict necesare: limba aleasă și progresul tău într-un test, ca să poți continua de unde ai rămas. Aceste date rămân pe dispozitivul tău.",
+      "Când plătești, procesatorul nostru de plăți, Stripe, poate plasa cookie-uri necesare pentru procesarea în siguranță a plății și prevenirea fraudelor.",
+      "Ai întrebări? Scrie-ne la {email}."
+    ],
+    "refundTitle": "Politica de rambursare",
+    "refundBody": [
+      "Un raport costă {price} per test, cu plată unică. Nu există abonament și nici reînnoire automată.",
+      "Nu ai primit raportul sau ceva nu a mers bine? Scrie-ne la {email} în termen de 14 zile, menționând adresa de e-mail folosită, și îți vom retrimite raportul sau îți vom rambursa plata.",
+      "Deoarece raportul este conținut digital livrat imediat, dreptul legal de retragere se stinge odată ce a fost trimis. Cu toate acestea, te vom ajuta întotdeauna dacă ceva nu este în regulă.",
+      "Rambursările se fac pe metoda de plată inițială, în 5–10 zile lucrătoare."
+    ]
+  }
+}

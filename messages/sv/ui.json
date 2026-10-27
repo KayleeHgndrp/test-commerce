@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Gratis psykologiska tester online",
+    "description": "Gör djupgående tester om personlighet, anknytning, karriär, ADHD, utbrändhet och mycket mer. Gratis att göra, med en detaljerad personlig rapport för bara {price}."
+  },
+  "nav": {
+    "tests": "Tester",
+    "pricing": "Priser",
+    "faq": "Vanliga frågor",
+    "language": "Språk",
+    "cta": "Starta ett test"
+  },
+  "home": {
+    "badge": "{count} tester · {languages} språk",
+    "heroTitle": "Lär känna dig själv, ett test i taget",
+    "heroSubtitle": "Djupgående tester om personlighet, relationer, arbete och välmående. 100 frågor, cirka 5 minuter och en personlig rapport för bara {price}.",
+    "heroCta": "Utforska våra tester",
+    "heroSecondary": "Så fungerar det",
+    "trust1": "Inget konto behövs",
+    "trust2": "Engångsbetalning, ingen prenumeration",
+    "trust3": "Rapporten direkt till din inkorg",
+    "dimensionsTitle": "Du är mer än en siffra – se alla dina sidor.",
+    "dimensionsSubtitle": "De områden våra tester oftast mäter, från personlighet till relationer och välmående.",
+    "dimensions": [
+      "🎯 Fokus",
+      "🔋 Social energi",
+      "🌊 Stressreaktion",
+      "💞 Anknytning",
+      "⚖️ Beslut",
+      "🧭 Värderingar",
+      "💡 Kreativitet",
+      "🪞 Självinsikt",
+      "🛡️ Motståndskraft"
+    ],
+    "testsTitle": "Välj ditt test",
+    "testsSubtitle": "Alla tester är gratis att göra. Välj det som tilltalar dig.",
+    "howTitle": "Från första frågan till fullständig rapport i tre steg",
+    "steps": [
+      {
+        "title": "Välj ett test",
+        "text": "Välj bland våra personlighets-, relations- och screeningtester, alla byggda på etablerade psykologiska modeller."
+      },
+      {
+        "title": "Gör testet",
+        "text": "Svara på 100 frågor på en enkel skala. De flesta tester tar cirka 5 minuter och dina framsteg sparas."
+      },
+      {
+        "title": "Läs din rapport",
+        "text": "Få en personlig rapport med dina resultat, vad de betyder och praktiska tips, direkt till din inkorg."
+      }
+    ],
+    "pricingTitle": "Enkla priser",
+    "pricingSubtitle": "Ett pris. Ingen prenumeration. Inga överraskningar.",
+    "planFreeName": "Gör testet",
+    "planFreePrice": "Gratis",
+    "planFreeFeatures": [
+      "Alla {count} tester, gratis att göra",
+      "100 frågor, cirka 5 minuter",
+      "Framstegen sparas automatiskt",
+      "Direkt förhandsvisning av dina resultatområden"
+    ],
+    "planReportName": "Fullständig rapport",
+    "planReportPrice": "{price}",
+    "planReportPer": "engångsbelopp, per test",
+    "planReportFeatures": [
+      "Ditt resultat på varje dimension",
+      "Personlig tolkning av varje resultat",
+      "Praktiska tips du kan använda direkt",
+      "I din inkorg inom några minuter",
+      "Ingen prenumeration, ingen automatisk förnyelse"
+    ],
+    "planCta": "Testa nu",
+    "faqTitle": "Vanliga frågor",
+    "faq": [
+      {
+        "q": "Vad är {site}?",
+        "a": "{site} är en onlineplattform med djupgående självtester om personlighet, relationer, arbete och välmående. Du kan göra alla tester gratis och beställa en detaljerad personlig rapport om du vill veta mer."
+      },
+      {
+        "q": "Vad kostar ett test?",
+        "a": "Det är gratis att göra ett test. Den detaljerade personliga rapporten kostar {price} som en engångsbetalning. Det finns ingen prenumeration och du debiteras aldrig automatiskt igen."
+      },
+      {
+        "q": "Hur får jag min rapport?",
+        "a": "Efter betalningen skickas din rapport till e-postadressen du angav, oftast inom en minut. Hittar du den inte? Kolla i skräpposten eller kampanjmappen."
+      },
+      {
+        "q": "Kan jag göra om ett test?",
+        "a": "Ja, så ofta du vill. Att göra om ett test efter några veckor är ett bra sätt att se vad som har förändrats. Varje rapport är ett separat engångsköp."
+      },
+      {
+        "q": "Är det här en medicinsk diagnos?",
+        "a": "Nej. Våra tester är till för självreflektion. Screeningtester som ADHD- eller depressionstestet kan visa om det kan vara bra att prata med en professionell, men de ersätter aldrig en bedömning av kvalificerad vårdpersonal."
+      },
+      {
+        "q": "Hur har testerna tagits fram?",
+        "a": "Våra tester bygger på etablerade psykologiska modeller som femfaktormodellen (Big Five), RIASEC och anknytningsteorin. Testerna om depression och trauma innehåller också de fritt tillgängliga formulären PHQ-9 och PCL-5, poängsatta med sina officiella gränsvärden."
+      },
+      {
+        "q": "Kan resultaten vara opålitliga?",
+        "a": "Alla frågeformulär har en felmarginal, och ditt humör för dagen kan också spela in. Svara ärligt utan att fundera för länge, och se ditt resultat som en utgångspunkt för reflektion snarare än en slutgiltig dom."
+      },
+      {
+        "q": "Förblir mina uppgifter privata?",
+        "a": "Ja. Du behöver inget konto. Dina svar används bara för att räkna ut ditt resultat och skapa din rapport, och vi säljer aldrig dina uppgifter."
+      }
+    ],
+    "ctaTitle": "Redo att upptäcka mer om dig själv?",
+    "ctaButton": "Utforska våra tester"
+  },
+  "categories": {
+    "personality": "Personlighet & typ",
+    "relationships": "Relationer & känslor",
+    "work": "Arbete & värderingar",
+    "screeners": "Screening",
+    "wellbeing": "Välmående & vanor"
+  },
+  "test": {
+    "start": "Starta testet",
+    "questions": "{count} frågor",
+    "minutes": "{count} min",
+    "free": "Gratis",
+    "aboutTitle": "Om testet",
+    "whatYouGet": "Det här ingår i din rapport",
+    "whatYouGet1": "Ditt resultat på varje dimension: {dimensions}",
+    "whatYouGet2": "En personlig tolkning av varje resultat",
+    "whatYouGet3": "Praktiska tips du kan använda direkt",
+    "otherTests": "Andra populära tester",
+    "question": "Fråga {current} av {total}",
+    "back": "Tillbaka",
+    "next": "Nästa",
+    "finish": "Se mina resultat",
+    "chooseAnswer": "Välj det svar som passar dig bäst.",
+    "resume": "Du har ett påbörjat test. Vill du fortsätta där du slutade?",
+    "resumeYes": "Fortsätt",
+    "resumeNo": "Börja om",
+    "genderTitle": "Först en snabb fråga",
+    "genderQuestion": "Vilket kön har du?",
+    "genderMale": "Man",
+    "genderFemale": "Kvinna",
+    "genderOther": "Annat / vill inte uppge",
+    "screenerNote": "Det här testet är ett screeningverktyg, inte en diagnos."
+  },
+  "scales": {
+    "agree": [
+      "Instämmer inte alls",
+      "Instämmer inte",
+      "Varken eller",
+      "Instämmer",
+      "Instämmer helt"
+    ],
+    "frequency": [
+      "Aldrig",
+      "Sällan",
+      "Ibland",
+      "Ofta",
+      "Mycket ofta"
+    ],
+    "phq": [
+      "Inte alls",
+      "Flera dagar",
+      "Mer än hälften av dagarna",
+      "Nästan varje dag"
+    ],
+    "intensity": [
+      "Inte alls",
+      "Lite",
+      "Måttligt",
+      "Ganska mycket",
+      "Extremt"
+    ]
+  },
+  "levels": {
+    "low": "Låg",
+    "mid": "Medel",
+    "high": "Hög"
+  },
+  "result": {
+    "title": "Dina resultat är klara",
+    "subtitle": "Du har gjort klart testet ”{test}”. Lås upp din fullständiga personliga rapport för att se dina resultat och vad de betyder.",
+    "mainType": "Din huvudtyp",
+    "locked": "Låst",
+    "unlockTitle": "Få din fullständiga rapport",
+    "unlockText": "Din detaljerade rapport med alla resultat, personliga tolkningar och praktiska tips, skickad till din e-post.",
+    "emailLabel": "E-postadress",
+    "emailPlaceholder": "du@exempel.se",
+    "consent": "Jag godkänner villkoren och integritetspolicyn.",
+    "buy": "Få min rapport för {price}",
+    "secure": "Säker betalning via Stripe. Engångsbetalning, ingen prenumeration.",
+    "invalidEmail": "Ange en giltig e-postadress.",
+    "consentRequired": "Godkänn villkoren för att fortsätta.",
+    "error": "Något gick fel. Försök igen.",
+    "noAnswers": "Vi hittade inte dina svar. Gör testet först.",
+    "takeTest": "Gör testet",
+    "crisisTitle": "Du är inte ensam",
+    "crisisText": "Du har angett att du har haft tankar på att det vore bättre om du vore död eller på att skada dig själv. Prata med någon redan i dag. Om du är i akut fara, ring 112. Du kan också när som helst på dygnet kontakta en stödlinje i ditt land, till exempel någon av dem som listas på findahelpline.com.",
+    "crisisLink": "Hitta en stödlinje nära dig"
+  },
+  "thanks": {
+    "title": "Tack för ditt köp!",
+    "text": "Din personliga rapport är på väg till din inkorg. Den brukar komma inom en minut.",
+    "spam": "Inte fått något efter 10 minuter? Kolla i skräpposten eller kampanjmappen, eller kontakta oss på {email}.",
+    "more": "Upptäck fler tester"
+  },
+  "report": {
+    "subject": "Din rapport: {test}",
+    "greeting": "Hej!",
+    "intro": "Tack för att du gjorde testet ”{test}” på {site}. Här är din personliga rapport.",
+    "scoreLabel": "Ditt resultat",
+    "outro": "Vi hoppas att rapporten ger dig värdefulla insikter. Nyfiken på andra sidor av dig själv? Upptäck alla våra tester på {url}.",
+    "signature": "Teamet på {site}",
+    "instrumentLabel": "{name}: {score} av {max}",
+    "typeLabel": "Din typ"
+  },
+  "footer": {
+    "tagline": "Lär känna dig själv bättre",
+    "about": "Djupgående självtester för dig som vill ha mer än en etikett på fyra bokstäver.",
+    "company": "Företag",
+    "home": "Hem",
+    "help": "Hjälp",
+    "contact": "Kontakta oss",
+    "legal": "Juridiskt",
+    "privacy": "Integritetspolicy",
+    "terms": "Villkor",
+    "cookies": "Cookiepolicy",
+    "refund": "Återbetalningspolicy",
+    "rights": "© {year} {site}. Alla rättigheter förbehållna.",
+    "disclaimer": "{site} är inte en medicinsk tjänst. Vid kliniska besvär, kontakta legitimerad vårdpersonal."
+  },
+  "legal": {
+    "privacyTitle": "Integritetspolicy",
+    "privacyBody": [
+      "Vi samlar bara in de uppgifter som behövs för att tillhandahålla vår tjänst: dina svar på testerna och, om du köper en rapport, din e-postadress.",
+      "Dina svar behandlas för att räkna ut ditt resultat. När du köper en rapport skickas dina svar och din e-postadress till vår betalleverantör Stripe och vår e-postleverantör, för att hantera betalningen och leverera rapporten.",
+      "Vi säljer inte dina uppgifter och använder dem inte för reklam. Du kan när som helst be oss radera dina uppgifter genom att kontakta {email}.",
+      "Betalningar hanteras av Stripe. Vi ser eller lagrar aldrig dina kortuppgifter."
+    ],
+    "termsTitle": "Användarvillkor",
+    "termsBody": [
+      "Alla tester på {site} är avsedda för självreflektion och underhållning. De utgör ingen medicinsk, psykologisk eller annan professionell diagnos.",
+      "Det är gratis att göra ett test. En personlig rapport kostar {price} per test som en engångsbetalning. Rapporten levereras digitalt via e-post.",
+      "Eftersom rapporten är digitalt innehåll som levereras direkt efter betalning godkänner du att din ångerrätt upphör när rapporten har skickats. Om du inte har fått din rapport, kontakta {email} så skickar vi den igen eller betalar tillbaka pengarna.",
+      "Vi gör vårt bästa för att hålla innehållet korrekt, men vi kan inte garantera att resultaten är fullständiga eller riktiga för varje person."
+    ],
+    "cookiesTitle": "Cookiepolicy",
+    "cookiesBody": [
+      "{site} använder inga reklam- eller spårningscookies.",
+      "Vi sparar bara strikt nödvändiga uppgifter i din webbläsare: ditt valda språk och dina framsteg i ett test, så att du kan fortsätta där du slutade. Uppgifterna stannar på din enhet.",
+      "När du betalar kan vår betalleverantör Stripe sätta cookies som behövs för att hantera betalningen säkert och förhindra bedrägerier.",
+      "Frågor? Kontakta oss på {email}."
+    ],
+    "refundTitle": "Återbetalningspolicy",
+    "refundBody": [
+      "En rapport kostar {price} per test som en engångsbetalning. Det finns ingen prenumeration och ingen automatisk förnyelse.",
+      "Har du inte fått din rapport, eller har något gått fel? Kontakta {email} inom 14 dagar och ange e-postadressen du använde, så skickar vi rapporten igen eller betalar tillbaka din betalning.",
+      "Eftersom rapporten är digitalt innehåll som levereras direkt upphör den lagstadgade ångerrätten när den har skickats. Vi hjälper dig ändå alltid om något inte stämmer.",
+      "Återbetalningar görs till det ursprungliga betalningssättet inom 5–10 bankdagar."
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "name": "16 Persoonlijkheden Test",
+  "tagline": "Ontdek je type van vier letters en wat het over je zegt.",
+  "intro": "Deze test plaatst je op vier voorkeursschalen: waar je je energie vandaan haalt, hoe je informatie opneemt, hoe je beslissingen neemt en hoe je je leven inricht. Samen vormen je vier voorkeuren een van de 16 persoonlijkheidstypen. Beoordeel 100 korte uitspraken; het kost ongeveer vijf minuten.",
+  "seoTitle": "16 Persoonlijkheden Test – Gratis je 4-letterige type",
+  "seoDescription": "Ontdek in 5 minuten je persoonlijkheidstype van vier letters. Bekijk je voorkeuren per schaal en lees een portret van je type met praktische tips.",
+  "items": [
+    "Ik denk het best als ik ideeën met anderen doorpraat.",
+    "Ik denk vaak na over wat de toekomst kan brengen.",
+    "Ik neem beslissingen in de eerste plaats op basis van logica.",
+    "Ik houd mijn opties graag open.",
+    "Ik vertrouw meer op feiten dan op ingevingen.",
+    "Na tijd met mensen heb ik tijd alleen nodig om op te laden.",
+    "Ik heb mijn dag graag van tevoren gepland.",
+    "Ik weeg mee hoe mijn keuzes de gevoelens van anderen raken.",
+    "Nieuwe mensen ontmoeten geeft me een boost.",
+    "Ik vind het leuk om verborgen patronen en betekenissen te ontdekken.",
+    "Ik vind eerlijkheid belangrijker dan tact.",
+    "Ik vind het leuk om dingen in een opwelling te beslissen.",
+    "Ik zie kleine details die anderen missen.",
+    "Ik heb liever één diepgaand gesprek dan veel luchtige.",
+    "Ik voel opluchting zodra een beslissing genomen is.",
+    "De vrede bewaren vind ik belangrijk.",
+    "Ik werk graag in een open, levendige ruimte.",
+    "Routinematige details vervelen me.",
+    "Ik kan afstand bewaren als ik een conflict oplos.",
+    "Ik werk het best onder tijdsdruk op het laatste moment.",
+    "Ik heb liever stapsgewijze instructies.",
+    "Ik denk dingen goed door voordat ik ze zeg.",
+    "Ik rond taken ruim voor de deadline af.",
+    "Ik beslis meer met mijn hart dan met mijn hoofd.",
+    "Ik doe snel mee aan een gesprek.",
+    "Ik vertrouw op mijn gevoel als het om mogelijkheden gaat.",
+    "Ik analyseer graag objectief de voor- en nadelen.",
+    "Strakke schema's voelen beperkend voor me.",
+    "Ik richt me op wat er nu gebeurt.",
+    "Een rustige avond thuis is voor mij ideaal.",
+    "Ik weet graag wat me te wachten staat.",
+    "Ik vind het moeilijk om kritiek te geven op mensen die ik graag mag.",
+    "Tussen mensen zijn laadt mijn batterij op.",
+    "Ik stel me graag voor hoe dingen anders zouden kunnen.",
+    "Regels moeten voor iedereen op dezelfde manier gelden.",
+    "Ik jongleer vaak met meerdere projecten tegelijk.",
+    "Ik houd van ideeën met een duidelijk praktisch nut.",
+    "Ik houd mijn gedachten voor me tot ze helder zijn.",
+    "Ik maak lijstjes en houd me eraan.",
+    "Het verhaal van een ander raakt me snel.",
+    "Ik heb graag een grote vriendenkring.",
+    "Ik lees vaak tussen de regels door.",
+    "Ik wijs zonder aarzelen op zwakke plekken in plannen.",
+    "Ik zie graag waar de dag me brengt.",
+    "Ik onthoud specifieke feiten en cijfers goed.",
+    "Drukte en mensenmassa's putten me snel uit.",
+    "Ik leg plannen het liefst vroeg vast.",
+    "Ik maak uitzonderingen voor mensen in moeilijke situaties.",
+    "Ik deel mijn gedachten vaak zodra ze opkomen.",
+    "Ik heb liever theorie dan praktisch werk.",
+    "Ik laat me overtuigen door argumenten, niet door emoties.",
+    "Ik verander makkelijk van plan als er iets beters langskomt.",
+    "Ik leer het best door dingen zelf te doen.",
+    "Ik werk liever alleen dan in een team.",
+    "Onafgemaakte zaken maken me onrustig.",
+    "Ik wil dat iedereen zich betrokken voelt bij een beslissing.",
+    "Weekenden vol plannen maken me blij.",
+    "Ik praat graag in beeldspraak en metaforen.",
+    "Ik heb liever gelijk dan dat ik aardig gevonden word.",
+    "Ik stel beslissingen uit tot ik ze echt moet nemen.",
+    "Ik geef de voorkeur aan beproefde methoden boven ongeteste.",
+    "In groepen laat ik anderen het woord voeren.",
+    "Ik houd mijn agenda bij.",
+    "Spanning in een groep raakt me diep.",
+    "Ik word onrustig als ik te lang alleen ben.",
+    "Ik spring snel door naar het grote geheel.",
+    "Eerlijk betekent voor mij consequent.",
+    "Ik begin aan veel dingen en maak ze later af.",
+    "Ik beschrijf dingen letterlijk en precies.",
+    "Ik stuur liever een bericht dan dat ik bel.",
+    "Ik maak graag één taak af voordat ik aan een andere begin.",
+    "Vriendelijkheid vind ik belangrijker dan gelijk hebben.",
+    "Ik vind het leuk om op evenementen rond te lopen en met mensen te praten.",
+    "Nieuwe ideeën enthousiasmeren me meer dan praktische feiten.",
+    "Ik vind het makkelijk om kritische feedback te geven.",
+    "Ik pak mijn tas op het allerlaatste moment in.",
+    "Ik wil bewijs zien voordat ik iets geloof.",
+    "Ik heb een kleine kring van goede vrienden.",
+    "Ik erger me als plannen op het laatste moment veranderen.",
+    "Ik vat kritiek op mijn werk vaak persoonlijk op.",
+    "Ik knoop makkelijk een praatje aan met onbekenden.",
+    "Ik sla de handleiding vaak over en zoek het zelf uit.",
+    "Ik discussieer graag om ideeën te toetsen.",
+    "Dagen zonder vaste invulling voelen bevrijdend.",
+    "Ik houd van taken met concrete, zichtbare resultaten.",
+    "Na een lange dag vol vergaderingen ben ik leeg.",
+    "Ik heb liever duidelijke structuur in mijn werk.",
+    "Ik laat mijn keuzes leiden door mijn waarden.",
+    "Ik brainstorm liever in een groep dan dat ik alleen nadenk.",
+    "Ik voel me aangetrokken tot wat nieuw en onbeproefd is.",
+    "Ik beoordeel een oplossing op hoe goed die werkt.",
+    "Ik pas mijn plannen aan op mijn stemming.",
+    "Ik gebruik mijn eerdere ervaring om problemen op te lossen.",
+    "Mensen vinden me in het begin soms moeilijk te peilen.",
+    "Ik regel mijn vakanties ruim van tevoren.",
+    "Ik moedig liever aan dan dat ik kritiek geef.",
+    "Ik ben meestal een van de eersten die iets zegt.",
+    "Ik let meer op het heden dan op de toekomst.",
+    "Op het werk vind ik competentie belangrijker dan vriendelijkheid.",
+    "Ik werk losse eindjes graag snel af."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Extraversie vs. Introversie",
+      "short": "Of je je energie vooral haalt uit de buitenwereld van mensen en actie (E) of uit je binnenwereld van gedachten en reflectie (I).",
+      "low": "Je neigt naar Introversie (I). Je laadt op in rust, denkt na voordat je spreekt en hebt liever een paar diepe gesprekken dan veel korte. Je verwerkt ideeën vaak eerst innerlijk en deelt ze pas als ze helemaal uitgedacht zijn. Drukke sociale dagen kunnen je vermoeien, ook als je ervan genoten hebt. Tip: plan hersteltijd na intensieve sociale gebeurtenissen en zie dat als onderhoud, niet als vermijding. Bereid in groepen je inbreng van tevoren voor of reageer achteraf schriftelijk, zodat je ideeën gehoord worden.",
+      "mid": "Je zit dicht bij het midden tussen Extraversie en Introversie, dus je letter kan per stemming of situatie verschuiven. Je geniet van gezelschap en activiteit, maar hebt ook tijd alleen nodig om op te laden. Afhankelijk van de taak denk je hardop met anderen of reflecteer je in stilte. Tip: let op je energie na verschillende soorten dagen. Gebruik die kennis om een weekritme te bouwen waarin sociaal contact en rust elkaar afwisselen in de verhouding die bij jou past.",
+      "high": "Je neigt naar Extraversie (E). Je krijgt energie van mensen, gesprekken en activiteit, en denkt vaak het best door dingen hardop door te praten. Je doet snel mee, bent makkelijk benaderbaar en voelt je op je gemak in groepen. Lange periodes alleen kunnen je onrustig maken. Tip: neem in een discussie eerst een korte pauze en stel één vraag voordat je reageert; dat geeft stillere mensen ruimte en scherpt je eigen denken. Plan korte momenten van reflectie in om te verwerken wat je meemaakt."
+    },
+    "sensing": {
+      "name": "Gewaarwording vs. Intuïtie",
+      "short": "Of je je vooral richt op concrete feiten, details en ervaring (S) of op patronen, mogelijkheden en het grote geheel (N).",
+      "low": "Je neigt naar Intuïtie (N). Je zoekt vanzelf naar betekenis, patronen en toekomstige mogelijkheden, en je houdt van ideeën, theorieën en fantaseren over wat zou kunnen. Routinematige details vervelen je misschien, en soms sla je stappen over om bij het grote plaatje te komen. Tip: voeg concrete voorbeelden en volgende stappen toe als je een visie deelt, zodat anderen je kunnen volgen. Vraag een detailgerichte collega om je plannen op praktische gaten te checken voordat je je vastlegt.",
+      "mid": "Je zit dicht bij het midden tussen Gewaarwording en Intuïtie, dus je letter kan per situatie verschillen. Je kunt werken met harde feiten en details, maar verkent ook graag ideeën en mogelijkheden. Zo kun je een brug slaan tussen praktische mensen en visionairs. Tip: let op naar welke stand je onder druk terugvalt. Check bij belangrijke beslissingen bewust allebei: wat zeggen de feiten, en welke nieuwe opties zijn het overwegen waard?",
+      "high": "Je neigt naar Gewaarwording (S). Je vertrouwt op feiten, ervaring en wat je kunt zien en testen. Je let op details, hebt liever duidelijke instructies en houdt van ideeën met praktisch nut. Mensen rekenen op je realisme en nauwkeurigheid. Tip: geef anderen even de tijd als ze abstracte ideeën delen, voordat je de bruikbaarheid beoordeelt; sommige groeien uit tot iets nuttigs. Probeer je af en toe voor te stellen waar een trend over vijf jaar toe kan leiden, om je blik te verruimen."
+    },
+    "thinking": {
+      "name": "Denken vs. Voelen",
+      "short": "Of je beslissingen vooral neemt op basis van logica en objectieve analyse (T) of op basis van persoonlijke waarden en het effect op mensen (F).",
+      "low": "Je neigt naar Voelen (F). Je neemt beslissingen door waarden, relaties en het effect op mensen af te wegen. Je hecht aan harmonie, waardeert vriendelijkheid en voelt snel aan wat anderen nodig hebben. Mensen voelen zich vaak door je begrepen. Tip: schrijf bij een moeilijke beslissing ook de objectieve voor- en nadelen op; dat maakt je keuze makkelijker uit te leggen. Bedenk dat eerlijke feedback, warm gebracht, ook een vorm van zorg is.",
+      "mid": "Je zit dicht bij het midden tussen Denken en Voelen, dus je letter kan per situatie verschillen. Bij het beslissen weeg je zowel de logica als het menselijke effect mee, wat je helpt om eerlijke, evenwichtige oplossingen te vinden. Tip: kijk of je op je werk meer op logica leunt en thuis meer op gevoel, of andersom. Check bij belangrijke beslissingen bewust allebei: klopt het, en is het eerlijk voor de mensen om wie het gaat?",
+      "high": "Je neigt naar Denken (T). Je beslist op basis van logica, consistentie en objectieve analyse. Je vindt eerlijkheid belangrijk in de zin van dezelfde regels voor iedereen, en je kunt stevige feedback geven zonder je door emoties te laten meeslepen. Tip: erken de moeite of goede bedoeling achter iemands werk voordat je kritiek geeft. Vraag je af hoe een beslissing zal voelen voor de mensen die het raakt; dat vergroot vaak het draagvlak zonder je redenering te verzwakken."
+    },
+    "judging": {
+      "name": "Oordelen vs. Waarnemen",
+      "short": "Of je de voorkeur geeft aan een gepland, beslist en gestructureerd leven (J) of aan een flexibel, open en spontaan leven (P).",
+      "low": "Je neigt naar Waarnemen (P). Je houdt je opties graag open, past je onderweg aan en beslist pas als het moet. Je werkt vaak in uitbarstingen van energie en voelt je beknot door strakke schema's. Dat maakt je flexibel en vindingrijk als plannen veranderen. Tip: gebruik lichte structuur voor de belangrijkste dingen, zoals één systeem voor herinneringen aan deadlines. Verdeel grote projecten in kleine mijlpalen, zodat de eindsprint niet stressvol wordt.",
+      "mid": "Je zit dicht bij het midden tussen Oordelen en Waarnemen, dus je letter kan wisselen. Je hebt graag een plan, maar laat het makkelijk los als er iets beters langskomt. Je kunt deadlines halen en toch van spontaniteit genieten. Tip: let op waar wat meer planning stress zou verminderen, bijvoorbeeld bij reizen of geldzaken, en waar meer flexibiliteit juist plezier toevoegt. Stuur bewust bij in plaats van op de automatische piloot.",
+      "high": "Je neigt naar Oordelen (J). Je plant graag vooruit, neemt beslissingen en rondt dingen af. Duidelijke schema's, lijstjes en deadlines geven je een gevoel van controle, en je maakt taken meestal ruim voor het laatste moment af. Tip: bouw wat open ruimte in je planning in, zodat verrassingen je niet van slag brengen. Als anderen losser werken, spreek dan de belangrijkste deadlines af en laat hen zelf kiezen hoe ze daar komen."
+    }
+  },
+  "summary": "Je type combineert vier voorkeuren: Extraversie of Introversie (E/I), Gewaarwording of Intuïtie (S/N), Denken of Voelen (T/F) en Oordelen of Waarnemen (J/P). Elke schaal laat zien hoe sterk je naar één kant neigt; scores rond de 50 % betekenen dat je beide kanten vrij flexibel gebruikt. Typen beschrijven voorkeuren, geen vaardigheden, en geen enkel type is beter dan een ander.",
+  "types": {
+    "ISTJ": {
+      "name": "Het Anker",
+      "text": "Je bent stabiel, grondig en zeer betrouwbaar. Je respecteert feiten, komt je beloftes na en werkt taken methodisch af tot ze goed gedaan zijn. Mensen rekenen op je, omdat je doet wat je zegt. Je houdt van duidelijke verwachtingen en beproefde methoden, en je ziet fouten die anderen over het hoofd zien. Jouw stille kracht houdt teams en families bij elkaar. Groeitip: sta open voor nieuwe benaderingen, ook als de oude manier nog werkt; soms levert een experiment echte verbetering op. Spreek je waardering voor anderen hardop uit, want je loyaliteit is niet altijd zichtbaar. Neem tijd voor rust zonder dat je die eerst hoeft te verdienen."
+    },
+    "ISFJ": {
+      "name": "De Hoeder",
+      "text": "Je bent zorgzaam, plichtsbewust en stil toegewijd. Je onthoudt wat voor mensen belangrijk is, ziet wat ze nodig hebben en helpt op praktische manieren, vaak zonder dat het gevraagd wordt. Je hecht aan traditie, stabiliteit en harmonie, en je doet veel moeite om anderen een veilig en prettig gevoel te geven. Jouw vriendelijkheid is van het standvastige soort waar mensen jarenlang op bouwen. Groeitip: je eigen behoeften verdienen dezelfde aandacht die je aan anderen geeft, dus oefen met nee zeggen zonder schuldgevoel. Zeg het als iets je dwarszit, in plaats van het stilletjes op te slokken. Anderen je laten steunen versterkt relaties in plaats van ze te belasten."
+    },
+    "INFJ": {
+      "name": "De Stille Visionair",
+      "text": "Je combineert diep inzicht in mensen met een sterk gevoel van richting. Je voelt onderstromen in relaties aan, denkt op de lange termijn en wilt dat je leven bijdraagt aan iets betekenisvols. Je bent gereserveerd maar warm, en de mensen die je toelaat voelen zich echt gezien. Je idealen geven je richting en vastberadenheid. Groeitip: je hoge eisen kunnen omslaan in uitputting of teleurstelling als de werkelijkheid tegenvalt, dus vier vooruitgang en niet alleen perfectie. Deel je ideeën eerder in plaats van te wachten tot ze helemaal af zijn. Bescherm je energie door grenzen te stellen voordat je je overweldigd voelt, niet erna."
+    },
+    "INTJ": {
+      "name": "De Strateeg",
+      "text": "Je bent onafhankelijk, analytisch en gericht op langetermijndoelen. Je ziet hoe systemen in elkaar passen, merkt inefficiëntie snel op en bedenkt graag betere manieren om dingen te doen. Je vertrouwt op je eigen redenering en durft je eigen weg te gaan om een visie te realiseren. Jouw vastberadenheid kan ambitieuze ideeën werkelijkheid maken. Groeitip: anderen volgen je logica misschien niet zo snel als jij, dus leg je redenering stap voor stap uit en vraag om feedback. Bedenk dat de gevoelens van mensen ook data zijn. Geef ruimte aan onvolmaakte eerste versies; vooruitgang wint vaak van een foutloos plan dat blijft wachten."
+    },
+    "ISTP": {
+      "name": "De Knutselaar",
+      "text": "Je bent kalm, praktisch en nieuwsgierig naar hoe dingen werken. Je wilt problemen met je handen begrijpen, haalt dingen uit elkaar en vindt efficiënte oplossingen. In een crisis blijf je koel en handel je daadkrachtig, terwijl anderen nog aan het praten zijn. Je hecht aan vrijheid en hebt een hekel aan onnodige regels of lange vergaderingen. Groeitip: deel je gedachten vaker met anderen, want je zwijgen kan worden opgevat als desinteresse. Verbind je aan een paar langetermijndoelen, zodat je vele vaardigheden bijdragen aan iets groters. Laat mensen dicht bij je weten wat je voelt; kleine woorden van waardering hebben veel gewicht."
+    },
+    "ISFP": {
+      "name": "De Zachte Kunstenaar",
+      "text": "Je bent gevoelig, vriendelijk en afgestemd op schoonheid en het moment. Je uit je meer in daden en creativiteit dan in woorden, en je hecht aan echtheid en vrijheid. Je bent verdraagzaam, ruimdenkend en loyaal aan de mensen en zaken die je dierbaar zijn. Jouw zachte aanwezigheid geeft anderen het gevoel dat ze geaccepteerd worden. Groeitip: misschien vermijd je conflicten tot de frustratie zich opstapelt, dus oefen met het vroeg benoemen van kleine zorgen. Vertaal je waarden naar een paar concrete doelen om je talenten richting te geven. Geloof genoeg in je werk om het aan anderen te laten zien; jouw blik verdient het om gezien te worden."
+    },
+    "INFP": {
+      "name": "De Dromer",
+      "text": "Je bent idealistisch, fantasierijk en wordt geleid door sterke innerlijke waarden. Je zoekt betekenis in alles wat je doet en vindt echtheid heel belangrijk, bij jezelf en bij anderen. Je begrijpt gevoelens goed en uit ze vaak via schrijven, kunst of een diepgaand gesprek. Je bent zacht, ruimdenkend en trouw aan waar je in gelooft. Groeitip: je idealen zijn een kompas, maar de werkelijkheid is zelden perfect; zet kleine praktische stappen in plaats van te wachten op het ideale moment. Wees net zo mild voor jezelf als voor anderen. Deel je dromen met mensen die je kunnen helpen ze waar te maken."
+    },
+    "INTP": {
+      "name": "De Puzzelaar",
+      "text": "Je bent logisch, inventief en eindeloos nieuwsgierig. Je analyseert graag ideeën, spoort tegenstrijdigheden op en bouwt theorieën die verklaren hoe dingen echt werken. Je denkt onafhankelijk en geniet van diepgaande gesprekken over complexe onderwerpen. Jouw geest ziet originele oplossingen die anderen missen. Groeitip: ideeën komen pas tot hun recht als ze gedeeld en toegepast worden, dus geef jezelf kleine deadlines om je werk af te maken en te presenteren. Let op praktische details en op hoe anderen zich voelen; die doen ertoe, ook als ze onlogisch lijken. Zoek mensen op die je interesses delen; zij geven je denken energie."
+    },
+    "ESTP": {
+      "name": "De Durfal",
+      "text": "Je bent energiek, gedurfd en gericht op actie. Je leeft in het moment, leest situaties snel en bloeit op als dingen snel gaan. Je houdt van uitdagingen, neemt slimme risico's en lost praktische problemen ter plekke op. Mensen voelen zich aangetrokken tot je zelfvertrouwen en je gevoel voor plezier. Groeitip: denk de gevolgen op langere termijn door voordat je ergens in springt, vooral bij geld en relaties. Oefen geduld met tragere processen en met mensen die meer tijd nodig hebben om te beslissen. Bedenk hoe je directe stijl overkomt bij gevoelige mensen; een beetje tact maakt je invloed nog groter."
+    },
+    "ESFP": {
+      "name": "De Vonk",
+      "text": "Je bent levendig, warm en dol op plezier. Je brengt energie in elke ruimte, geniet van mensen en ervaringen, en maakt alledaagse momenten bijzonder. Je bent praktisch, gul en helpt snel iemand die het moeilijk heeft. Je enthousiasme werkt aanstekelijk en mensen zijn graag bij je in de buurt. Groeitip: vooruit plannen kan saai voelen, maar een beetje structuur in je financiën en langetermijndoelen geeft je later meer vrijheid. Ga moeilijke gesprekken aan in plaats van jezelf af te leiden. Neem af en toe een rustig moment om na te denken over wat je echt wilt, niet alleen over wat nu goed voelt."
+    },
+    "ENFP": {
+      "name": "De Inspirator",
+      "text": "Je bent enthousiast, creatief en vol mogelijkheden. Je maakt makkelijk contact, ziet overal potentieel en begint graag aan nieuwe projecten en gesprekken. Jouw warmte en verbeelding moedigen anderen aan om groter te dromen. Je hecht aan vrijheid, echtheid en betekenisvolle relaties. Groeitip: je vele ideeën hebben focus nodig om tot resultaat te leiden, dus kies een paar prioriteiten en maak ze af. Bouw eenvoudige routines voor praktische taken die je saai vindt. Als je stemming na het enthousiasme van een nieuwe start inzakt, bedenk dan dat juist het volhouden vaak de echte beloning oplevert."
+    },
+    "ENTP": {
+      "name": "De Vernieuwer",
+      "text": "Je bent gevat, inventief en houdt van een goede discussie. Je ziet nieuwe invalshoeken bij oude problemen, stelt aannames ter discussie en experimenteert graag met ideeën. Je past je snel aan en krijgt energie van complexe uitdagingen en slimme mensen. Je nieuwsgierigheid drijft je om bijna alles wat je aanraakt te verbeteren. Groeitip: niet elke discussie hoeft gewonnen te worden, en sommige mensen ervaren debat als conflict, dus lees de sfeer. Maak je beste ideeën af in plaats van te snel door te gaan naar het volgende. Werk samen met detailgerichte mensen die je helpen concepten werkelijkheid te maken."
+    },
+    "ESTJ": {
+      "name": "De Kapitein",
+      "text": "Je bent georganiseerd, besluitvaardig en praktisch. Je houdt van duidelijke doelen, efficiënte processen en dingen gedaan krijgen. Je neemt vanzelf verantwoordelijkheid, legt de lat hoog en zorgt dat plannen worden uitgevoerd. Mensen waarderen je directheid en betrouwbaarheid. Groeitip: je efficiënte stijl kan voor anderen controlerend voelen, dus vraag om input voordat je beslist en leg uit waarom. Sta open voor nieuwe methoden, ook als de huidige werkt. Toon waardering voor de inzet van mensen, niet alleen voor hun resultaten; erkenning motiveert net zo goed als duidelijke instructies."
+    },
+    "ESFJ": {
+      "name": "De Gastheer",
+      "text": "Je bent sociaal, zorgzaam en gericht op de gemeenschap. Je ziet wat mensen nodig hebben, laat ze zich welkom voelen en brengt graag anderen samen. Je hecht aan harmonie, loyaliteit en traditie, en je steekt veel energie in het soepel laten lopen van relaties en groepen. Mensen voelen zich bij jou goed verzorgd. Groeitip: misschien vat je kritiek of conflict persoonlijk op, dus herinner jezelf eraan dat onenigheid geen afwijzing is. Check of je helpt omdat je het wilt of omdat je vindt dat het moet. Maak ruimte voor je eigen behoeften en meningen; die tellen net zo zwaar als die van een ander."
+    },
+    "ENFJ": {
+      "name": "De Mentor",
+      "text": "Je bent warm, inspirerend en gericht op het laten groeien van mensen. Je leest anderen goed, haalt hun sterke kanten naar boven en verenigt groepen rond een gedeeld doel. Je communiceert met enthousiasme en overtuiging, en je voelt je verantwoordelijk voor het welzijn van de mensen om je heen. Mensen komen vaak bij je voor raad. Groeitip: je kunt niet iedereen dragen, dus laat anderen verantwoordelijkheid nemen voor hun eigen keuzes. Let op wanneer je te veel toezegt of je eigen behoeften verwaarloost. Accepteer dat sommige mensen het niet met je eens zijn; hun andere pad zegt niets over jouw waarde."
+    },
+    "ENTJ": {
+      "name": "De Leider",
+      "text": "Je bent zelfverzekerd, strategisch en gedreven om te presteren. Je ziet het grote geheel, stelt ambitieuze doelen en organiseert mensen en middelen om ze te bereiken. Je neemt snel beslissingen, communiceert helder en bent niet bang voor uitdagingen of verantwoordelijkheid. Anderen kijken vaak naar jou om de leiding te nemen. Groeitip: je tempo en directheid kunnen mensen overweldigen, dus vertraag om te luisteren en gevoelens te erkennen. Bedenk dat motivatie groeit als mensen zich gehoord voelen, niet alleen aangestuurd. Maak ruimte voor rust en relaties; succes op lange termijn hangt van meer af dan alleen resultaten."
+    }
+  }
+}

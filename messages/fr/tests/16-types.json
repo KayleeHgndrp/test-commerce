@@ -1,0 +1,206 @@
+{
+  "name": "Test des 16 types de personnalité",
+  "tagline": "Trouvez votre type en quatre lettres et ce qu'il dit de vous.",
+  "intro": "Ce test vous situe sur quatre échelles de préférences : d'où vous tirez votre énergie, comment vous recueillez l'information, comment vous prenez vos décisions et comment vous organisez votre vie. Vos quatre préférences se combinent pour former l'un des 16 types de personnalité. Évaluez 100 affirmations courtes ; cela prend environ cinq minutes.",
+  "seoTitle": "Test des 16 personnalités – Votre type en 4 lettres",
+  "seoDescription": "Découvrez votre type de personnalité en quatre lettres en 5 minutes. Voyez vos préférences sur chaque échelle et lisez le portrait de votre type avec des conseils.",
+  "items": [
+    "Je réfléchis mieux en discutant de mes idées avec d'autres.",
+    "Je pense souvent à ce que l'avenir pourrait réserver.",
+    "Je prends mes décisions d'abord en fonction de la logique.",
+    "J'aime garder plusieurs options ouvertes.",
+    "Je me fie davantage aux faits qu'aux intuitions.",
+    "J'ai besoin de solitude pour me ressourcer après avoir vu du monde.",
+    "J'aime que ma journée soit planifiée.",
+    "Je pèse l'effet de mes choix sur les sentiments des autres.",
+    "Rencontrer de nouvelles personnes me donne un coup de fouet.",
+    "J'aime découvrir des schémas et des significations cachés.",
+    "Je privilégie l'honnêteté plutôt que le tact.",
+    "J'aime décider des choses sur un coup de tête.",
+    "Je remarque de petits détails qui échappent aux autres.",
+    "Je préfère une conversation profonde à plusieurs échanges légers.",
+    "Une fois une décision prise, j'éprouve du soulagement.",
+    "Préserver la paix est important pour moi.",
+    "J'aime travailler dans un espace ouvert et animé.",
+    "Les détails routiniers m'ennuient.",
+    "Je sais garder mes distances pour résoudre un conflit.",
+    "Je travaille mieux sous la pression de la dernière minute.",
+    "Je préfère des instructions étape par étape.",
+    "Je réfléchis aux choses avant de les dire.",
+    "Je termine mes tâches bien avant l'échéance.",
+    "Je décide davantage avec mon cœur qu'avec ma tête.",
+    "Je me lance vite dans une conversation.",
+    "Je me fie à mon instinct pour entrevoir les possibilités.",
+    "J'aime analyser objectivement le pour et le contre.",
+    "Les emplois du temps stricts me semblent contraignants.",
+    "Je me concentre sur ce qui se passe maintenant.",
+    "Une soirée tranquille à la maison, c'est mon idéal.",
+    "J'aime savoir à quoi m'attendre.",
+    "J'ai du mal à critiquer les personnes que j'apprécie.",
+    "La compagnie des autres recharge mes batteries.",
+    "J'aime imaginer comment les choses pourraient être différentes.",
+    "Les règles devraient s'appliquer à tout le monde de la même façon.",
+    "Je mène souvent plusieurs projets de front.",
+    "J'aime les idées qui ont une utilité pratique claire.",
+    "Je garde mes pensées pour moi tant qu'elles ne sont pas claires.",
+    "Je fais des listes et je m'y tiens.",
+    "L'histoire de quelqu'un d'autre me touche facilement.",
+    "J'aime avoir un large cercle d'amis.",
+    "Je lis souvent entre les lignes.",
+    "Je relève sans hésiter les failles d'un projet.",
+    "J'aime voir où la journée me mène.",
+    "Je retiens bien les faits et les chiffres précis.",
+    "La foule m'épuise rapidement.",
+    "Je préfère fixer les projets tôt.",
+    "Je fais des exceptions pour les personnes en difficulté.",
+    "Je partage souvent mes pensées au fur et à mesure qu'elles viennent.",
+    "Je préfère les théories au travail concret.",
+    "Ce sont les arguments, pas les émotions, qui me convainquent.",
+    "Je change facilement de programme quand une meilleure option se présente.",
+    "J'apprends mieux en mettant la main à la pâte.",
+    "Je préfère le travail en solo au travail en équipe.",
+    "Les affaires en suspens me mettent mal à l'aise.",
+    "Je veux que chacun se sente inclus dans une décision.",
+    "J'adore les week-ends remplis de projets.",
+    "J'aime parler en métaphores et en images.",
+    "Je préfère avoir raison plutôt que plaire.",
+    "Je repousse les décisions jusqu'au moment où je dois les prendre.",
+    "Je préfère les méthodes éprouvées aux méthodes non testées.",
+    "En groupe, je laisse les autres prendre la parole.",
+    "Je tiens mon agenda à jour.",
+    "Les tensions dans un groupe m'affectent profondément.",
+    "Trop de temps en solitude me met en agitation.",
+    "Je passe vite à la vue d'ensemble.",
+    "Pour moi, être juste signifie être cohérent.",
+    "Je commence beaucoup de choses et je les termine plus tard.",
+    "Je décris les choses de façon littérale et précise.",
+    "Je préfère envoyer un message plutôt que téléphoner.",
+    "J'aime terminer une tâche avant d'en commencer une autre.",
+    "La gentillesse compte plus pour moi que d'avoir raison.",
+    "J'aime aller vers les gens lors d'événements.",
+    "Les idées nouvelles m'enthousiasment plus que les faits concrets.",
+    "Il m'est facile de formuler une critique.",
+    "Je fais mon sac au tout dernier moment.",
+    "Je veux des preuves avant de croire quelque chose.",
+    "J'ai un petit cercle d'amis proches.",
+    "Je m'agace quand les plans changent à la dernière minute.",
+    "Je prends souvent personnellement les critiques sur mon travail.",
+    "J'engage facilement la conversation avec des inconnus.",
+    "Je saute souvent les instructions et je me débrouille.",
+    "J'aime débattre pour mettre les idées à l'épreuve.",
+    "Les journées sans programme me donnent un sentiment de liberté.",
+    "J'aime les tâches aux résultats concrets et visibles.",
+    "Une longue journée de réunions me vide.",
+    "Je préfère une structure claire dans mon travail.",
+    "Je laisse mes valeurs guider mes choix.",
+    "Je préfère réfléchir en groupe plutôt qu'en solitaire.",
+    "Ce qui est nouveau et inexploré m'attire.",
+    "Je juge une solution à son efficacité.",
+    "J'adapte mes projets à mon humeur.",
+    "Je m'appuie sur mon expérience passée pour résoudre les problèmes.",
+    "Les gens ont parfois du mal à me cerner au premier abord.",
+    "J'organise mes vacances longtemps à l'avance.",
+    "Je préfère encourager que critiquer.",
+    "Je suis généralement parmi les premiers à prendre la parole.",
+    "Je fais plus attention au présent qu'à l'avenir.",
+    "Au travail, je place la compétence avant la sympathie.",
+    "J'aime régler rapidement les derniers détails."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Extraversion vs Introversion",
+      "short": "Si vous puisez votre énergie surtout dans le monde extérieur des personnes et de l'action (E) ou dans votre monde intérieur de pensées et de réflexion (I).",
+      "low": "Vous penchez vers l'Introversion (I). Vous vous ressourcez dans le calme, réfléchissez avant de parler et préférez quelques conversations profondes à de nombreux échanges brefs. Vous mûrissez souvent vos idées intérieurement et ne les partagez qu'une fois bien formées. Les journées très sociales peuvent vous fatiguer, même si vous les avez appréciées. Conseil : prévoyez du temps de récupération après des moments sociaux intenses et voyez-le comme de l'entretien, pas de la fuite. En groupe, préparez vos contributions à l'avance ou faites un suivi par écrit pour que vos idées soient entendues.",
+      "mid": "Vous vous situez près du milieu entre Extraversion et Introversion : votre lettre peut donc varier selon votre humeur ou la situation. Vous appréciez la compagnie et l'action, mais vous avez aussi besoin de moments seul pour vous ressourcer. Vous pouvez réfléchir à voix haute avec d'autres ou dans le calme, selon la tâche. Conseil : observez votre niveau d'énergie après différents types de journées. Servez-vous-en pour construire un rythme hebdomadaire qui mêle contacts sociaux et moments calmes dans les proportions qui vous conviennent.",
+      "high": "Vous penchez vers l'Extraversion (E). Vous puisez votre énergie dans les gens, la conversation et l'action, et vous réfléchissez souvent mieux en parlant. Vous vous engagez vite, êtes facile à aborder et à l'aise en groupe. De longues périodes de solitude peuvent vous rendre agité. Conseil : avant de réagir dans une discussion, faites une courte pause et posez d'abord une question ; cela laisse de la place aux personnes plus discrètes et affûte votre propre réflexion. Prévoyez de brefs moments de réflexion pour digérer ce que vous vivez."
+    },
+    "sensing": {
+      "name": "Sensation vs Intuition",
+      "short": "Si vous vous concentrez surtout sur les faits concrets, les détails et l'expérience (S) ou sur les schémas, les possibilités et la vue d'ensemble (N).",
+      "low": "Vous penchez vers l'Intuition (N). Vous cherchez naturellement le sens, les schémas et les possibilités futures, et vous aimez les idées, les théories et imaginer ce qui pourrait être. Les détails routiniers peuvent vous ennuyer, et vous sautez parfois des étapes pour atteindre la vue d'ensemble. Conseil : quand vous partagez une vision, ajoutez des exemples concrets et les prochaines étapes pour que les autres puissent suivre. Demandez à un collègue attentif aux détails de vérifier vos projets avant de vous engager.",
+      "mid": "Vous vous situez près du milieu entre Sensation et Intuition : votre lettre peut donc varier selon les situations. Vous savez travailler avec des faits concrets et des détails, mais vous aimez aussi explorer des idées et des possibilités. Cela vous permet de faire le lien entre les personnes pragmatiques et les visionnaires. Conseil : remarquez quel mode vous adoptez par défaut sous pression. Pour les décisions importantes, vérifiez volontairement les deux : que disent les faits, et quelles nouvelles options mériteraient d'être envisagées ?",
+      "high": "Vous penchez vers la Sensation (S). Vous vous fiez aux faits, à l'expérience et à ce que vous pouvez voir et vérifier. Vous remarquez les détails, préférez des instructions claires et aimez les idées qui ont une utilité pratique. Les gens comptent sur votre réalisme et votre précision. Conseil : quand d'autres partagent des idées abstraites, laissez-leur un moment avant de juger de leur faisabilité ; certaines peuvent devenir utiles. De temps en temps, essayez d'imaginer où une tendance pourrait mener dans cinq ans pour élargir votre regard."
+    },
+    "thinking": {
+      "name": "Pensée vs Sentiment",
+      "short": "Si vous prenez vos décisions surtout par la logique et l'analyse objective (T) ou selon vos valeurs personnelles et l'impact sur les gens (F).",
+      "low": "Vous penchez vers le Sentiment (F). Vous prenez vos décisions en pesant les valeurs, les relations et la façon dont les gens seront touchés. Vous tenez à l'harmonie, appréciez la gentillesse et percevez vite ce dont les autres ont besoin. Les gens se sentent souvent compris par vous. Conseil : quand une décision est difficile, notez aussi les avantages et inconvénients objectifs ; votre choix sera plus facile à expliquer. N'oubliez pas qu'un retour honnête, formulé avec chaleur, est aussi une forme de bienveillance.",
+      "mid": "Vous vous situez près du milieu entre Pensée et Sentiment : votre lettre peut donc varier selon les situations. Vous prenez en compte à la fois la logique et l'impact humain quand vous décidez, ce qui vous aide à trouver des solutions justes et équilibrées. Conseil : observez si vous vous appuyez sur la logique au travail et sur les sentiments à la maison, ou l'inverse. Pour les décisions clés, vérifiez consciemment les deux : est-ce solide, et est-ce juste pour les personnes concernées ?",
+      "high": "Vous penchez vers la Pensée (T). Vous décidez par la logique, la cohérence et l'analyse objective. Pour vous, l'équité consiste à appliquer les mêmes règles à tous, et vous savez donner un retour exigeant sans vous laisser influencer par l'émotion. Conseil : avant de formuler une critique, reconnaissez l'effort ou l'intention derrière le travail de la personne. Demandez-vous comment une décision sera vécue par les personnes concernées ; cela améliore souvent son acceptation sans affaiblir votre raisonnement."
+    },
+    "judging": {
+      "name": "Jugement vs Perception",
+      "short": "Si vous préférez une vie planifiée, décidée et structurée (J) ou une vie flexible, ouverte et spontanée (P).",
+      "low": "Vous penchez vers la Perception (P). Vous aimez garder vos options ouvertes, vous adapter en chemin et décider quand il le faut. Vous travaillez souvent par élans d'énergie et vous sentez à l'étroit dans des emplois du temps rigides. Cela vous rend flexible et plein de ressources quand les plans changent. Conseil : utilisez une structure légère pour l'essentiel, comme un seul système de rappel des échéances. Découpez les grands projets en petites étapes pour que le sprint final ne devienne pas stressant.",
+      "mid": "Vous vous situez près du milieu entre Jugement et Perception : votre lettre peut donc varier. Vous aimez avoir un plan, mais vous pouvez l'abandonner facilement quand une meilleure option se présente. Vous savez respecter les délais tout en appréciant la spontanéité. Conseil : repérez les domaines où un peu plus de planification réduirait le stress, comme les voyages ou l'argent, et ceux où plus de souplesse apporterait du plaisir. Ajustez-vous délibérément plutôt que par habitude.",
+      "high": "Vous penchez vers le Jugement (J). Vous aimez planifier, prendre des décisions et mener les choses à leur terme. Des emplois du temps clairs, des listes et des échéances vous donnent un sentiment de maîtrise, et vous terminez généralement vos tâches bien avant la dernière minute. Conseil : prévoyez des plages libres dans vos plans pour que les imprévus ne vous déstabilisent pas. Quand d'autres travaillent de façon plus souple, mettez-vous d'accord sur les échéances clés et laissez-les choisir leur manière d'y arriver."
+    }
+  },
+  "summary": "Votre type combine quatre préférences : Extraversion ou Introversion (E/I), Sensation ou Intuition (S/N), Pensée ou Sentiment (T/F) et Jugement ou Perception (J/P). Chaque échelle montre à quel point vous penchez d'un côté ; un score proche de 50 % signifie que vous utilisez les deux côtés avec une certaine souplesse. Les types décrivent des préférences, pas des aptitudes, et aucun type n'est meilleur qu'un autre.",
+  "types": {
+    "ISTJ": {
+      "name": "Le Pilier",
+      "text": "Vous êtes stable, minutieux et profondément fiable. Vous respectez les faits, tenez vos promesses et avancez méthodiquement dans vos tâches jusqu'à ce qu'elles soient bien faites. Les gens comptent sur vous, car vous faites ce que vous dites. Vous préférez des attentes claires et des méthodes éprouvées, et vous remarquez les erreurs que d'autres laissent passer. Votre force tranquille soude les équipes et les familles. Piste d'évolution : restez ouvert aux nouvelles approches, même quand l'ancienne fonctionne encore ; une expérimentation apporte parfois une vraie amélioration. Exprimez à voix haute votre reconnaissance envers les autres, car votre loyauté n'est pas toujours visible. Accordez-vous du repos sans avoir à le mériter d'abord."
+    },
+    "ISFJ": {
+      "name": "Le Protecteur",
+      "text": "Vous êtes attentionné, consciencieux et discrètement dévoué. Vous vous souvenez de ce qui compte pour les autres, remarquez leurs besoins et les aidez concrètement, souvent sans qu'on vous le demande. Vous tenez à la tradition, à la stabilité et à l'harmonie, et vous vous donnez beaucoup de mal pour que les autres se sentent en sécurité et à l'aise. Votre gentillesse est de celles sur lesquelles on peut compter pendant des années. Piste d'évolution : vos propres besoins méritent la même attention que celle que vous accordez aux autres ; entraînez-vous à dire non sans culpabilité. Exprimez ce qui vous dérange plutôt que de l'encaisser en silence. Accepter le soutien des autres renforce les relations au lieu de leur peser."
+    },
+    "INFJ": {
+      "name": "Le Visionnaire discret",
+      "text": "Vous alliez une compréhension profonde des gens à un fort sens de la mission. Vous percevez les non-dits dans les relations, pensez sur le long terme et voulez que votre vie contribue à quelque chose qui a du sens. Vous êtes réservé mais chaleureux, et les personnes que vous laissez entrer se sentent vraiment vues. Vos idéaux vous donnent une direction et de la détermination. Piste d'évolution : vos exigences élevées peuvent mener à l'épuisement ou à la déception quand la réalité n'est pas à la hauteur ; célébrez les progrès, pas seulement la perfection. Partagez vos idées plus tôt, sans attendre qu'elles soient parfaitement abouties. Protégez votre énergie en posant des limites avant d'être débordé, pas après."
+    },
+    "INTJ": {
+      "name": "Le Grand Stratège",
+      "text": "Vous êtes indépendant, analytique et tourné vers des objectifs à long terme. Vous voyez comment les systèmes s'articulent, repérez vite les inefficacités et aimez concevoir de meilleures façons de faire. Vous faites confiance à votre raisonnement et êtes prêt à suivre votre propre voie pour réaliser une vision. Votre détermination peut transformer des idées ambitieuses en réalité. Piste d'évolution : les autres ne suivent pas toujours votre logique aussi vite que vous ; expliquez votre raisonnement étape par étape et sollicitez des retours. Rappelez-vous que les sentiments des gens sont aussi des données. Acceptez des premières versions imparfaites ; avancer vaut souvent mieux qu'un plan parfait qui attend."
+    },
+    "ISTP": {
+      "name": "Le Bricoleur",
+      "text": "Vous êtes calme, pragmatique et curieux de savoir comment les choses fonctionnent. Vous aimez comprendre les problèmes de façon concrète, démonter les choses et trouver des solutions efficaces. En situation de crise, vous gardez votre sang-froid et agissez avec décision pendant que d'autres discutent encore. Vous tenez à votre liberté et n'aimez ni les règles inutiles ni les longues réunions. Piste d'évolution : partagez plus souvent votre réflexion, car votre silence peut passer pour du désintérêt. Engagez-vous sur quelques objectifs à long terme pour que vos nombreuses compétences servent un projet plus vaste. Dites à vos proches ce que vous ressentez ; quelques mots de reconnaissance ont beaucoup de poids."
+    },
+    "ISFP": {
+      "name": "L'Artiste sensible",
+      "text": "Vous êtes sensible, bienveillant et attentif à la beauté comme au moment présent. Vous vous exprimez davantage par vos actes et votre créativité que par les mots, et vous tenez à l'authenticité et à la liberté. Vous êtes tolérant, ouvert d'esprit et fidèle aux personnes et aux causes qui vous tiennent à cœur. Votre présence douce aide les autres à se sentir acceptés. Piste d'évolution : vous évitez peut-être les conflits jusqu'à ce que la frustration s'accumule ; entraînez-vous à exprimer tôt les petites préoccupations. Traduisez vos valeurs en quelques objectifs concrets pour donner une direction à vos talents. Croyez suffisamment en votre travail pour le montrer ; votre regard mérite d'être vu."
+    },
+    "INFP": {
+      "name": "Le Rêveur",
+      "text": "Vous êtes idéaliste, imaginatif et guidé par de fortes valeurs intérieures. Vous cherchez du sens dans tout ce que vous faites et tenez profondément à l'authenticité, chez vous comme chez les autres. Vous comprenez bien les émotions et les exprimez souvent par l'écriture, l'art ou des conversations profondes. Vous êtes doux, ouvert d'esprit et fidèle à ce en quoi vous croyez. Piste d'évolution : vos idéaux sont une boussole, mais la réalité est rarement parfaite ; faites de petits pas concrets plutôt que d'attendre le moment idéal. Soyez aussi bienveillant envers vous-même qu'envers les autres. Partagez vos rêves avec des personnes qui peuvent vous aider à les concrétiser."
+    },
+    "INTP": {
+      "name": "Le Résolveur d'énigmes",
+      "text": "Vous êtes logique, inventif et d'une curiosité sans fin. Vous adorez analyser les idées, repérer les incohérences et construire des théories qui expliquent comment les choses fonctionnent vraiment. Vous pensez de façon indépendante et appréciez les conversations approfondies sur des sujets complexes. Votre esprit voit des solutions originales qui échappent aux autres. Piste d'évolution : les idées n'atteignent leur potentiel que lorsqu'elles sont partagées et appliquées ; fixez-vous de petites échéances pour terminer et présenter votre travail. Soyez attentif aux détails pratiques et aux émotions des autres, qui comptent même quand elles semblent illogiques. Entourez-vous de personnes qui partagent vos centres d'intérêt ; elles stimuleront votre réflexion."
+    },
+    "ESTP": {
+      "name": "Le Franc-tireur",
+      "text": "Vous êtes énergique, audacieux et tourné vers l'action. Vous vivez dans l'instant, lisez vite les situations et vous épanouissez quand les choses bougent rapidement. Vous aimez les défis, prenez des risques calculés et résolvez les problèmes concrets sur le moment. Les gens sont attirés par votre assurance et votre sens de l'humour. Piste d'évolution : réfléchissez aux conséquences à long terme avant de vous lancer, surtout en matière d'argent et de relations. Exercez votre patience face aux processus lents et aux personnes qui ont besoin de plus de temps pour décider. Pensez à la façon dont votre franchise est reçue par les personnes sensibles ; un peu de tact renforce encore votre influence."
+    },
+    "ESFP": {
+      "name": "L'Étincelle",
+      "text": "Vous êtes vif, chaleureux et amateur de bons moments. Vous apportez de l'énergie partout où vous allez, aimez les gens et les expériences, et rendez les moments du quotidien spéciaux. Vous êtes pragmatique, généreux et prompt à aider quelqu'un qui traverse une période difficile. Votre enthousiasme est contagieux, et les gens aiment être à vos côtés. Piste d'évolution : planifier peut sembler ennuyeux, mais un peu de structure dans vos finances et vos objectifs à long terme vous offrira plus de liberté plus tard. Affrontez les conversations difficiles au lieu de vous distraire. Prenez quelques moments de calme pour réfléchir à ce que vous voulez vraiment, pas seulement à ce qui fait du bien sur le moment."
+    },
+    "ENFP": {
+      "name": "L'Inspirateur",
+      "text": "Vous êtes enthousiaste, créatif et plein de possibilités. Vous créez facilement des liens, voyez du potentiel partout et adorez lancer de nouveaux projets et de nouvelles conversations. Votre chaleur et votre imagination encouragent les autres à rêver plus grand. Vous tenez à la liberté, à l'authenticité et aux relations qui ont du sens. Piste d'évolution : vos nombreuses idées ont besoin de focus pour produire des résultats ; choisissez quelques priorités et menez-les à terme. Mettez en place des routines simples pour les tâches pratiques qui vous ennuient. Quand votre élan retombe après l'euphorie d'un nouveau départ, rappelez-vous que c'est dans la persévérance que se trouve une grande partie de la vraie récompense."
+    },
+    "ENTP": {
+      "name": "L'Innovateur",
+      "text": "Vous avez l'esprit vif, le sens de l'invention et adorez un bon débat. Vous voyez les vieux problèmes sous de nouveaux angles, remettez en question les idées reçues et aimez expérimenter. Vous vous adaptez vite et vous êtes stimulé par les défis complexes et les personnes brillantes. Votre curiosité vous pousse à améliorer presque tout ce que vous touchez. Piste d'évolution : toutes les discussions n'ont pas besoin d'être gagnées, et certaines personnes vivent le débat comme un conflit ; sentez l'ambiance. Menez à bien vos meilleures idées au lieu de passer trop vite à la suivante. Associez-vous à des personnes attentives aux détails qui vous aident à concrétiser vos concepts."
+    },
+    "ESTJ": {
+      "name": "Le Capitaine",
+      "text": "Vous êtes organisé, décidé et pragmatique. Vous aimez les objectifs clairs, les processus efficaces et que les choses soient faites. Vous prenez naturellement vos responsabilités, fixez des exigences élevées et veillez à ce que les plans soient exécutés. Les gens apprécient votre franchise et votre fiabilité. Piste d'évolution : votre efficacité peut sembler autoritaire aux autres ; sollicitez leur avis avant de décider et expliquez pourquoi. Restez ouvert aux nouvelles méthodes, même quand celle en place fonctionne. Montrez votre reconnaissance pour les efforts des gens, pas seulement pour leurs résultats ; la reconnaissance motive autant que des consignes claires."
+    },
+    "ESFJ": {
+      "name": "L'Hôte",
+      "text": "Vous êtes sociable, attentionné et tourné vers la communauté. Vous remarquez ce dont les gens ont besoin, les accueillez chaleureusement et aimez rassembler les autres. Vous tenez à l'harmonie, à la loyauté et à la tradition, et vous faites de vrais efforts pour que les relations et les groupes fonctionnent bien. En votre présence, les gens se sentent pris en charge. Piste d'évolution : vous prenez peut-être les critiques ou les conflits à cœur ; rappelez-vous qu'un désaccord n'est pas un rejet. Demandez-vous si vous aidez parce que vous en avez envie ou parce que vous vous y sentez obligé. Faites de la place à vos propres besoins et opinions ; ils comptent autant que ceux des autres."
+    },
+    "ENFJ": {
+      "name": "Le Mentor",
+      "text": "Vous êtes chaleureux, inspirant et tourné vers l'épanouissement des autres. Vous lisez bien les gens, faites ressortir leurs forces et rassemblez les groupes autour d'un objectif commun. Vous communiquez avec enthousiasme et conviction, et vous vous sentez responsable du bien-être de votre entourage. Les gens viennent souvent chercher vos conseils. Piste d'évolution : vous ne pouvez pas porter tout le monde ; laissez les autres assumer leurs propres choix. Remarquez quand vous en faites trop ou négligez vos propres besoins. Acceptez que certaines personnes ne soient pas d'accord avec vous ; leur chemin différent ne remet pas en cause votre valeur."
+    },
+    "ENTJ": {
+      "name": "Le Dirigeant",
+      "text": "Vous êtes sûr de vous, stratège et animé par la volonté de réussir. Vous voyez la vue d'ensemble, fixez des objectifs ambitieux et organisez les personnes et les ressources pour les atteindre. Vous décidez vite, communiquez clairement et ne craignez ni les défis ni les responsabilités. Les autres se tournent souvent vers vous pour diriger. Piste d'évolution : votre rapidité et votre franchise peuvent submerger les gens ; ralentissez pour écouter et reconnaître les émotions. Rappelez-vous que la motivation grandit quand les gens se sentent entendus, pas seulement dirigés. Faites de la place au repos et aux relations ; la réussite durable ne dépend pas que des résultats."
+    }
+  }
+}

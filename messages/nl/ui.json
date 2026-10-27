@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Gratis online psychologische tests",
+    "description": "Doe diepgaande tests over persoonlijkheid, hechting, loopbaan, ADHD, burn-out en meer. Gratis in te vullen, met een uitgebreid persoonlijk rapport voor maar {price}."
+  },
+  "nav": {
+    "tests": "Tests",
+    "pricing": "Prijzen",
+    "faq": "Veelgestelde vragen",
+    "language": "Taal",
+    "cta": "Start een test"
+  },
+  "home": {
+    "badge": "{count} tests · {languages} talen",
+    "heroTitle": "Leer jezelf kennen, test voor test",
+    "heroSubtitle": "Diepgaande tests over persoonlijkheid, relaties, werk en welzijn. 100 vragen, zo'n 5 minuten, en een persoonlijk rapport voor maar {price}.",
+    "heroCta": "Bekijk onze tests",
+    "heroSecondary": "Zo werkt het",
+    "trust1": "Geen account nodig",
+    "trust2": "Eenmalige betaling, geen abonnement",
+    "trust3": "Rapport direct in je inbox",
+    "dimensionsTitle": "Je bent meer dan één score — ontdek al je kanten.",
+    "dimensionsSubtitle": "De gebieden die onze tests het vaakst meten, van persoonlijkheid tot relaties en welzijn.",
+    "dimensions": [
+      "🎯 Focus",
+      "🔋 Sociale energie",
+      "🌊 Omgaan met stress",
+      "💞 Hechting",
+      "⚖️ Beslissingen",
+      "🧭 Waarden",
+      "💡 Creativiteit",
+      "🪞 Zelfinzicht",
+      "🛡️ Veerkracht"
+    ],
+    "testsTitle": "Kies je test",
+    "testsSubtitle": "Elke test is gratis in te vullen. Kies de test die jou aanspreekt.",
+    "howTitle": "In drie stappen van eerste vraag naar volledig rapport",
+    "steps": [
+      {
+        "title": "Kies een test",
+        "text": "Kies uit onze bibliotheek met persoonlijkheids-, relatie- en screeningstests, allemaal gebaseerd op erkende psychologische modellen."
+      },
+      {
+        "title": "Doe de test",
+        "text": "Beantwoord 100 vragen op een eenvoudige schaal. De meeste tests duren zo'n 5 minuten en je voortgang wordt bewaard."
+      },
+      {
+        "title": "Lees je rapport",
+        "text": "Ontvang een persoonlijk rapport met je scores, wat ze betekenen en praktische tips, direct in je inbox."
+      }
+    ],
+    "pricingTitle": "Eenvoudige prijzen",
+    "pricingSubtitle": "Eén prijs. Geen abonnement. Geen verrassingen.",
+    "planFreeName": "Test invullen",
+    "planFreePrice": "Gratis",
+    "planFreeFeatures": [
+      "Alle {count} tests gratis in te vullen",
+      "100 vragen, zo'n 5 minuten",
+      "Voortgang wordt automatisch bewaard",
+      "Direct een voorproefje van je resultaatgebieden"
+    ],
+    "planReportName": "Volledig rapport",
+    "planReportPrice": "{price}",
+    "planReportPer": "eenmalig, per test",
+    "planReportFeatures": [
+      "Je score op elke dimensie",
+      "Persoonlijke uitleg bij elke score",
+      "Praktische tips die je meteen kunt toepassen",
+      "Binnen enkele minuten in je inbox",
+      "Geen abonnement, geen automatische verlenging"
+    ],
+    "planCta": "Probeer nu",
+    "faqTitle": "Veelgestelde vragen",
+    "faq": [
+      {
+        "q": "Wat is {site}?",
+        "a": "{site} is een online platform met diepgaande zelftests over persoonlijkheid, relaties, werk en welzijn. Je kunt elke test gratis invullen en een uitgebreid persoonlijk rapport bestellen als je meer wilt weten."
+      },
+      {
+        "q": "Wat kost een test?",
+        "a": "Een test invullen is gratis. Het uitgebreide persoonlijke rapport kost eenmalig {price}. Er is geen abonnement en je betaalt nooit automatisch opnieuw."
+      },
+      {
+        "q": "Hoe ontvang ik mijn rapport?",
+        "a": "Na betaling wordt je rapport naar het e-mailadres gestuurd dat je hebt opgegeven, meestal binnen een minuut. Niet gevonden? Kijk dan in je spam- of reclamemap."
+      },
+      {
+        "q": "Kan ik een test opnieuw doen?",
+        "a": "Ja, zo vaak als je wilt. Een test na een paar weken opnieuw doen is een goede manier om te zien wat er veranderd is. Elk rapport is een losse, eenmalige aankoop."
+      },
+      {
+        "q": "Is dit een medische diagnose?",
+        "a": "Nee. Onze tests zijn bedoeld voor zelfreflectie. Screeners zoals de ADHD- of depressietest kunnen aangeven of het zinvol is om met een professional te praten, maar ze vervangen nooit een beoordeling door een gekwalificeerde zorgverlener."
+      },
+      {
+        "q": "Hoe zijn deze tests gemaakt?",
+        "a": "Onze tests zijn gebaseerd op erkende psychologische modellen zoals de Big Five, RIASEC en de hechtingstheorie. De depressie- en traumatests bevatten ook de vrij beschikbare PHQ-9- en PCL-5-vragenlijsten, gescoord met hun officiële afkappunten."
+      },
+      {
+        "q": "Kunnen de resultaten onbetrouwbaar zijn?",
+        "a": "Elke vragenlijst heeft een foutmarge, en ook je stemming van de dag kan meespelen. Antwoord eerlijk en zonder te lang na te denken, en zie je resultaat als startpunt voor reflectie, niet als eindoordeel."
+      },
+      {
+        "q": "Blijven mijn gegevens privé?",
+        "a": "Ja. Je hebt geen account nodig. Je antwoorden worden alleen gebruikt om je resultaat te berekenen en je rapport te maken, en we verkopen je gegevens nooit."
+      }
+    ],
+    "ctaTitle": "Klaar om meer over jezelf te ontdekken?",
+    "ctaButton": "Bekijk onze tests"
+  },
+  "categories": {
+    "personality": "Persoonlijkheid & type",
+    "relationships": "Relaties & emoties",
+    "work": "Werk & waarden",
+    "screeners": "Screeners",
+    "wellbeing": "Welzijn & gewoontes"
+  },
+  "test": {
+    "start": "Start de test",
+    "questions": "{count} vragen",
+    "minutes": "{count} min",
+    "free": "Gratis",
+    "aboutTitle": "Over deze test",
+    "whatYouGet": "Wat je rapport bevat",
+    "whatYouGet1": "Je score op elke dimensie: {dimensions}",
+    "whatYouGet2": "Een persoonlijke uitleg bij elke score",
+    "whatYouGet3": "Praktische tips die je meteen kunt toepassen",
+    "otherTests": "Andere populaire tests",
+    "question": "Vraag {current} van {total}",
+    "back": "Terug",
+    "next": "Volgende",
+    "finish": "Bekijk mijn resultaten",
+    "chooseAnswer": "Kies het antwoord dat het best bij je past.",
+    "resume": "Je hebt een onafgemaakte test. Verdergaan waar je gebleven was?",
+    "resumeYes": "Verdergaan",
+    "resumeNo": "Opnieuw beginnen",
+    "genderTitle": "Eerst een korte vraag",
+    "genderQuestion": "Wat is je geslacht?",
+    "genderMale": "Man",
+    "genderFemale": "Vrouw",
+    "genderOther": "Anders / zeg ik liever niet",
+    "screenerNote": "Deze test is een screeningsinstrument, geen diagnose."
+  },
+  "scales": {
+    "agree": [
+      "Helemaal mee oneens",
+      "Mee oneens",
+      "Neutraal",
+      "Mee eens",
+      "Helemaal mee eens"
+    ],
+    "frequency": [
+      "Nooit",
+      "Zelden",
+      "Soms",
+      "Vaak",
+      "Heel vaak"
+    ],
+    "phq": [
+      "Helemaal niet",
+      "Meerdere dagen",
+      "Meer dan de helft van de dagen",
+      "Bijna elke dag"
+    ],
+    "intensity": [
+      "Helemaal niet",
+      "Een beetje",
+      "Matig",
+      "Nogal",
+      "Extreem"
+    ]
+  },
+  "levels": {
+    "low": "Laag",
+    "mid": "Gemiddeld",
+    "high": "Hoog"
+  },
+  "result": {
+    "title": "Je resultaten zijn klaar",
+    "subtitle": "Je hebt de {test} afgerond. Ontgrendel je volledige persoonlijke rapport om je scores en hun betekenis te zien.",
+    "mainType": "Je hoofdtype",
+    "locked": "Vergrendeld",
+    "unlockTitle": "Ontvang je volledige rapport",
+    "unlockText": "Je uitgebreide rapport met alle scores, persoonlijke uitleg en praktische tips, verstuurd naar je e-mail.",
+    "emailLabel": "E-mailadres",
+    "emailPlaceholder": "jij@voorbeeld.nl",
+    "consent": "Ik ga akkoord met de voorwaarden en het privacybeleid.",
+    "buy": "Ontvang mijn rapport voor {price}",
+    "secure": "Veilig betalen via Stripe. Eenmalige betaling, geen abonnement.",
+    "invalidEmail": "Vul een geldig e-mailadres in.",
+    "consentRequired": "Accepteer de voorwaarden om verder te gaan.",
+    "error": "Er ging iets mis. Probeer het opnieuw.",
+    "noAnswers": "We konden je antwoorden niet vinden. Doe eerst de test.",
+    "takeTest": "Doe de test",
+    "crisisTitle": "Je staat er niet alleen voor",
+    "crisisText": "Je gaf aan dat je gedachten hebt gehad dat je beter dood zou zijn of dat je jezelf iets wilt aandoen. Praat er alsjeblieft vandaag met iemand over. Ben je in direct gevaar, bel dan 112. Je kunt ook op elk moment van de dag contact opnemen met een crisislijn in je land, zoals die op findahelpline.com.",
+    "crisisLink": "Vind een hulplijn bij jou in de buurt"
+  },
+  "thanks": {
+    "title": "Bedankt voor je aankoop!",
+    "text": "Je persoonlijke rapport is onderweg naar je inbox. Meestal komt het binnen een minuut aan.",
+    "spam": "Na 10 minuten nog niets ontvangen? Kijk in je spam- of reclamemap, of neem contact met ons op via {email}.",
+    "more": "Ontdek meer tests"
+  },
+  "report": {
+    "subject": "Je rapport voor de {test}",
+    "greeting": "Hallo,",
+    "intro": "Bedankt dat je de {test} hebt gedaan op {site}. Hier is je persoonlijke rapport.",
+    "scoreLabel": "Je score",
+    "outro": "We hopen dat dit rapport je nuttige inzichten geeft. Benieuwd naar andere kanten van jezelf? Ontdek al onze tests op {url}.",
+    "signature": "Het team van {site}",
+    "instrumentLabel": "{name}: {score} van {max}",
+    "typeLabel": "Je type"
+  },
+  "footer": {
+    "tagline": "Ken jezelf beter",
+    "about": "Diepgaande zelftests voor wie meer wil dan een label van vier letters.",
+    "company": "Bedrijf",
+    "home": "Home",
+    "help": "Hulp",
+    "contact": "Contact",
+    "legal": "Juridisch",
+    "privacy": "Privacybeleid",
+    "terms": "Algemene voorwaarden",
+    "cookies": "Cookiebeleid",
+    "refund": "Terugbetalingsbeleid",
+    "rights": "© {year} {site}. Alle rechten voorbehouden.",
+    "disclaimer": "{site} is geen medische dienst. Neem bij klinische zorgen contact op met een erkende zorgverlener."
+  },
+  "legal": {
+    "privacyTitle": "Privacybeleid",
+    "privacyBody": [
+      "We verzamelen alleen de gegevens die nodig zijn om onze dienst te leveren: je antwoorden op de test en, als je een rapport koopt, je e-mailadres.",
+      "Je antwoorden worden verwerkt om je resultaat te berekenen. Als je een rapport koopt, worden je antwoorden en e-mailadres doorgegeven aan onze betaalprovider Stripe en onze e-mailprovider, om de betaling te verwerken en het rapport te bezorgen.",
+      "We verkopen je gegevens niet en gebruiken ze niet voor advertenties. Je kunt ons op elk moment vragen je gegevens te verwijderen via {email}.",
+      "Betalingen worden afgehandeld door Stripe. Wij zien of bewaren je kaartgegevens nooit."
+    ],
+    "termsTitle": "Gebruiksvoorwaarden",
+    "termsBody": [
+      "Alle tests op {site} zijn bedoeld voor zelfreflectie en ontspanning. Ze vormen geen medische, psychologische of professionele diagnose.",
+      "Een test invullen is gratis. Een persoonlijk rapport kost {price} per test, als eenmalige betaling. Het rapport wordt digitaal per e-mail geleverd.",
+      "Omdat het rapport digitale inhoud is die direct na betaling wordt geleverd, ga je ermee akkoord dat je herroepingsrecht vervalt zodra het rapport is verstuurd. Heb je je rapport niet ontvangen? Neem dan contact op via {email} en we sturen het opnieuw of betalen je terug.",
+      "We doen ons best om de inhoud juist te houden, maar we kunnen niet garanderen dat de resultaten voor iedereen volledig of correct zijn."
+    ],
+    "cookiesTitle": "Cookiebeleid",
+    "cookiesBody": [
+      "{site} gebruikt geen advertentie- of trackingcookies.",
+      "We slaan alleen strikt noodzakelijke gegevens op in je browser: je gekozen taal en je voortgang in een test, zodat je verder kunt gaan waar je gebleven was. Deze gegevens blijven op je apparaat.",
+      "Als je betaalt, kan onze betaalprovider Stripe cookies plaatsen die nodig zijn om de betaling veilig te verwerken en fraude te voorkomen.",
+      "Vragen? Neem contact met ons op via {email}."
+    ],
+    "refundTitle": "Terugbetalingsbeleid",
+    "refundBody": [
+      "Een rapport kost {price} per test, als eenmalige betaling. Er is geen abonnement en geen automatische verlenging.",
+      "Heb je je rapport niet ontvangen of ging er iets mis? Neem binnen 14 dagen contact op via {email}, met vermelding van het e-mailadres dat je hebt gebruikt, en we sturen je rapport opnieuw of betalen je terug.",
+      "Omdat het rapport digitale inhoud is die direct wordt geleverd, vervalt het wettelijke herroepingsrecht zodra het is verstuurd. We helpen je natuurlijk altijd als er iets niet klopt.",
+      "Terugbetalingen gebeuren via de oorspronkelijke betaalmethode binnen 5–10 werkdagen."
+    ]
+  }
+}

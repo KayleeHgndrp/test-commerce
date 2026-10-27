@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Ingyenes online pszichológiai tesztek",
+    "description": "Tölts ki alapos teszteket személyiségről, kötődésről, karrierről, ADHD-ról, kiégésről és még sok másról. Ingyenesen, részletes személyes értékeléssel mindössze {price} áron."
+  },
+  "nav": {
+    "tests": "Tesztek",
+    "pricing": "Árak",
+    "faq": "GYIK",
+    "language": "Nyelv",
+    "cta": "Teszt indítása"
+  },
+  "home": {
+    "badge": "{count} teszt · {languages} nyelv",
+    "heroTitle": "Ismerd meg önmagad, tesztről tesztre",
+    "heroSubtitle": "Alapos tesztek személyiségről, kapcsolatokról, munkáról és jóllétről. 100 kérdés, kb. 5 perc, és személyes értékelés mindössze {price} áron.",
+    "heroCta": "Fedezd fel tesztjeinket",
+    "heroSecondary": "Hogyan működik?",
+    "trust1": "Nem kell regisztrálni",
+    "trust2": "Egyszeri fizetés, nincs előfizetés",
+    "trust3": "Az értékelés egyenesen a postafiókodba",
+    "dimensionsTitle": "Több vagy egyetlen pontszámnál – ismerd meg minden oldalad.",
+    "dimensionsSubtitle": "A területek, amelyeket tesztjeink a leggyakrabban mérnek – a személyiségtől a kapcsolatokon át a jóllétig.",
+    "dimensions": [
+      "🎯 Fókusz",
+      "🔋 Társas energia",
+      "🌊 Stresszreakció",
+      "💞 Kötődés",
+      "⚖️ Döntéshozatal",
+      "🧭 Értékek",
+      "💡 Kreativitás",
+      "🪞 Önismeret",
+      "🛡️ Reziliencia"
+    ],
+    "testsTitle": "Válaszd ki a teszted",
+    "testsSubtitle": "Minden teszt ingyenesen kitölthető. Válaszd azt, amelyik megszólít.",
+    "howTitle": "Az első kérdéstől a teljes értékelésig három lépésben",
+    "steps": [
+      {
+        "title": "Válassz tesztet",
+        "text": "Válogass személyiség-, kapcsolati és szűrőtesztjeink közül – mindegyik elismert pszichológiai modelleken alapul."
+      },
+      {
+        "title": "Töltsd ki a tesztet",
+        "text": "Válaszolj 100 kérdésre egy egyszerű skálán. A legtöbb teszt kb. 5 percet vesz igénybe, és a haladásod mentésre kerül."
+      },
+      {
+        "title": "Olvasd el az értékelést",
+        "text": "Kapj személyes értékelést a pontszámaiddal, azok jelentésével és gyakorlati tippekkel – egyenesen a postafiókodba."
+      }
+    ],
+    "pricingTitle": "Egyszerű árak",
+    "pricingSubtitle": "Egy ár. Nincs előfizetés. Nincsenek meglepetések.",
+    "planFreeName": "Teszt kitöltése",
+    "planFreePrice": "Ingyenes",
+    "planFreeFeatures": [
+      "Mind a(z) {count} teszt ingyenesen",
+      "100 kérdés, kb. 5 perc",
+      "Automatikus mentés",
+      "Azonnali előnézet az eredményterületekről"
+    ],
+    "planReportName": "Teljes értékelés",
+    "planReportPrice": "{price}",
+    "planReportPer": "egyszeri díj, tesztenként",
+    "planReportFeatures": [
+      "Pontszámod minden dimenzióban",
+      "Minden pontszám személyes értelmezése",
+      "Azonnal használható gyakorlati tippek",
+      "Perceken belül a postafiókodban",
+      "Nincs előfizetés, nincs automatikus megújítás"
+    ],
+    "planCta": "Kipróbálom",
+    "faqTitle": "Gyakori kérdések",
+    "faq": [
+      {
+        "q": "Mi az a {site}?",
+        "a": "A(z) {site} egy online platform alapos önismereti tesztekkel személyiségről, kapcsolatokról, munkáról és jóllétről. Bármelyik tesztet ingyen kitöltheted, és ha többet szeretnél tudni, részletes személyes értékelést rendelhetsz."
+      },
+      {
+        "q": "Mennyibe kerül egy teszt?",
+        "a": "A teszt kitöltése ingyenes. A részletes személyes értékelés ára {price}, egyszeri fizetéssel. Nincs előfizetés, és soha nem vonunk le tőled automatikusan újabb összeget."
+      },
+      {
+        "q": "Hogyan kapom meg az értékelést?",
+        "a": "Fizetés után az értékelést a megadott e-mail-címre küldjük, általában egy percen belül. Nem találod? Nézd meg a spam vagy a promóciók mappát."
+      },
+      {
+        "q": "Kitölthetek egy tesztet újra?",
+        "a": "Igen, ahányszor csak szeretnéd. Ha néhány hét múlva újra kitöltesz egy tesztet, jól láthatod, mi változott. Minden értékelés külön, egyszeri vásárlás."
+      },
+      {
+        "q": "Ez orvosi diagnózis?",
+        "a": "Nem. Tesztjeink önreflexióra szolgálnak. A szűrőtesztek, például az ADHD- vagy a depressziószűrő, jelezhetik, hogy érdemes-e szakemberhez fordulnod, de soha nem helyettesítik egy képzett szakember vizsgálatát."
+      },
+      {
+        "q": "Hogyan készültek ezek a tesztek?",
+        "a": "Tesztjeink elismert pszichológiai modelleken alapulnak, például a Big Five-on, a RIASEC-en és a kötődéselméleten. A depresszió- és traumatesztek a szabadon felhasználható PHQ-9 és PCL-5 kérdőíveket is tartalmazzák, hivatalos határértékeik szerint pontozva."
+      },
+      {
+        "q": "Lehetnek pontatlanok az eredmények?",
+        "a": "Minden kérdőívnek van hibahatára, és az aznapi hangulatod is szerepet játszhat. Válaszolj őszintén, túlgondolás nélkül, és tekintsd az eredményt az elgondolkodás kiindulópontjának, ne végső ítéletnek."
+      },
+      {
+        "q": "Az adataim bizalmasak maradnak?",
+        "a": "Igen. Nincs szükség fiókra. A válaszaidat csak az eredményed kiszámításához és az értékelés elkészítéséhez használjuk, és az adataidat soha nem adjuk el."
+      }
+    ],
+    "ctaTitle": "Készen állsz, hogy többet megtudj magadról?",
+    "ctaButton": "Fedezd fel tesztjeinket"
+  },
+  "categories": {
+    "personality": "Személyiség és típus",
+    "relationships": "Kapcsolatok és érzelmek",
+    "work": "Munka és értékek",
+    "screeners": "Szűrőtesztek",
+    "wellbeing": "Jóllét és szokások"
+  },
+  "test": {
+    "start": "Teszt indítása",
+    "questions": "{count} kérdés",
+    "minutes": "{count} perc",
+    "free": "Ingyenes",
+    "aboutTitle": "A tesztről",
+    "whatYouGet": "Mit tartalmaz az értékelésed?",
+    "whatYouGet1": "Pontszámod minden dimenzióban: {dimensions}",
+    "whatYouGet2": "Minden pontszám személyes értelmezése",
+    "whatYouGet3": "Azonnal alkalmazható gyakorlati tippek",
+    "otherTests": "További népszerű tesztek",
+    "question": "{current}. kérdés / {total}",
+    "back": "Vissza",
+    "next": "Tovább",
+    "finish": "Eredményeim megtekintése",
+    "chooseAnswer": "Válaszd azt a választ, amelyik a legjobban illik rád.",
+    "resume": "Van egy befejezetlen teszted. Folytatod, ahol abbahagytad?",
+    "resumeYes": "Folytatás",
+    "resumeNo": "Újrakezdés",
+    "genderTitle": "Előbb egy gyors kérdés",
+    "genderQuestion": "Mi a nemed?",
+    "genderMale": "Férfi",
+    "genderFemale": "Nő",
+    "genderOther": "Egyéb / nem szeretném megadni",
+    "screenerNote": "Ez a teszt szűrőeszköz, nem diagnózis."
+  },
+  "scales": {
+    "agree": [
+      "Egyáltalán nem értek egyet",
+      "Nem értek egyet",
+      "Semleges",
+      "Egyetértek",
+      "Teljesen egyetértek"
+    ],
+    "frequency": [
+      "Soha",
+      "Ritkán",
+      "Néha",
+      "Gyakran",
+      "Nagyon gyakran"
+    ],
+    "phq": [
+      "Egyáltalán nem",
+      "Néhány napon",
+      "A napok több mint felében",
+      "Szinte minden nap"
+    ],
+    "intensity": [
+      "Egyáltalán nem",
+      "Kicsit",
+      "Közepesen",
+      "Eléggé",
+      "Rendkívül"
+    ]
+  },
+  "levels": {
+    "low": "Alacsony",
+    "mid": "Közepes",
+    "high": "Magas"
+  },
+  "result": {
+    "title": "Elkészültek az eredményeid",
+    "subtitle": "Kitöltötted a(z) „{test}” tesztet. Oldd fel a teljes személyes értékelést, hogy lásd a pontszámaidat és azok jelentését.",
+    "mainType": "Fő típusod",
+    "locked": "Zárolva",
+    "unlockTitle": "Kérd a teljes értékelést",
+    "unlockText": "Részletes értékelés az összes pontszámmal, személyes értelmezéssel és gyakorlati tippekkel, e-mailben elküldve.",
+    "emailLabel": "E-mail-cím",
+    "emailPlaceholder": "te@pelda.hu",
+    "consent": "Elfogadom a felhasználási feltételeket és az adatvédelmi tájékoztatót.",
+    "buy": "Kérem az értékelést {price} áron",
+    "secure": "Biztonságos fizetés a Stripe-on keresztül. Egyszeri fizetés, nincs előfizetés.",
+    "invalidEmail": "Adj meg egy érvényes e-mail-címet.",
+    "consentRequired": "A folytatáshoz fogadd el a feltételeket.",
+    "error": "Hiba történt. Kérjük, próbáld újra.",
+    "noAnswers": "Nem találjuk a válaszaidat. Előbb töltsd ki a tesztet.",
+    "takeTest": "Teszt kitöltése",
+    "crisisTitle": "Nem vagy egyedül",
+    "crisisText": "Azt jelezted, hogy voltak olyan gondolataid, hogy jobb lenne, ha meghalnál, vagy hogy bántanád magad. Kérjük, még ma beszélj erről valakivel. Ha közvetlen veszélyben vagy, hívd a 112-t. A nap bármely szakában fordulhatsz országod egyik lelki elsősegély-vonalához is, például a findahelpline.com oldalon felsoroltakhoz.",
+    "crisisLink": "Segélyvonal keresése a közeledben"
+  },
+  "thanks": {
+    "title": "Köszönjük a vásárlást!",
+    "text": "A személyes értékelésed már úton van a postafiókodba. Általában egy percen belül megérkezik.",
+    "spam": "10 perc után sem érkezett meg? Nézd meg a spam vagy a promóciók mappát, vagy írj nekünk: {email}.",
+    "more": "További tesztek felfedezése"
+  },
+  "report": {
+    "subject": "Az értékelésed: {test}",
+    "greeting": "Szia!",
+    "intro": "Köszönjük, hogy kitöltötted a(z) „{test}” tesztet a(z) {site} oldalon. Íme a személyes értékelésed.",
+    "scoreLabel": "Pontszámod",
+    "outro": "Reméljük, hogy ez az értékelés hasznos felismerésekkel szolgál. Kíváncsi vagy önmagad más oldalaira is? Fedezd fel összes tesztünket itt: {url}.",
+    "signature": "A(z) {site} csapata",
+    "instrumentLabel": "{name}: {score} / {max}",
+    "typeLabel": "Típusod"
+  },
+  "footer": {
+    "tagline": "Ismerd meg jobban önmagad",
+    "about": "Alapos önismereti tesztek mindenkinek, aki többet szeretne egy négybetűs címkénél.",
+    "company": "Cég",
+    "home": "Főoldal",
+    "help": "Súgó",
+    "contact": "Kapcsolat",
+    "legal": "Jogi információk",
+    "privacy": "Adatvédelmi tájékoztató",
+    "terms": "Általános szerződési feltételek",
+    "cookies": "Cookie-szabályzat",
+    "refund": "Visszatérítési szabályzat",
+    "rights": "© {year} {site}. Minden jog fenntartva.",
+    "disclaimer": "A(z) {site} nem egészségügyi szolgáltatás. Klinikai panaszok esetén fordulj képesített szakemberhez."
+  },
+  "legal": {
+    "privacyTitle": "Adatvédelmi tájékoztató",
+    "privacyBody": [
+      "Csak a szolgáltatásunkhoz szükséges adatokat gyűjtjük: a tesztekre adott válaszaidat, valamint – ha értékelést vásárolsz – az e-mail-címedet.",
+      "A válaszaidat az eredményed kiszámításához dolgozzuk fel. Ha értékelést vásárolsz, a válaszaidat és az e-mail-címedet továbbítjuk fizetési szolgáltatónknak, a Stripe-nak, valamint e-mail-szolgáltatónknak a fizetés lebonyolítása és az értékelés kézbesítése érdekében.",
+      "Az adataidat nem adjuk el, és nem használjuk fel reklámcélokra. Bármikor kérheted adataid törlését a(z) {email} címen.",
+      "A fizetéseket a Stripe kezeli. A kártyaadataidat soha nem látjuk és nem tároljuk."
+    ],
+    "termsTitle": "Felhasználási feltételek",
+    "termsBody": [
+      "A(z) {site} összes tesztje önreflexiót és szórakozást szolgál. Nem minősülnek orvosi, pszichológiai vagy egyéb szakmai diagnózisnak.",
+      "A teszt kitöltése ingyenes. A személyes értékelés ára tesztenként {price}, egyszeri fizetéssel. Az értékelést digitálisan, e-mailben kézbesítjük.",
+      "Mivel az értékelés a fizetés után azonnal teljesített digitális tartalom, elfogadod, hogy elállási jogod az értékelés elküldésével megszűnik. Ha nem kaptad meg az értékelést, írj a(z) {email} címre, és újra elküldjük, vagy visszatérítjük a díjat.",
+      "Igyekszünk a tartalmat pontosan tartani, de nem garantálhatjuk, hogy az eredmények mindenki számára teljesek vagy helytállóak."
+    ],
+    "cookiesTitle": "Cookie-szabályzat",
+    "cookiesBody": [
+      "A(z) {site} nem használ reklám- vagy nyomkövető cookie-kat.",
+      "A böngésződben csak a feltétlenül szükséges adatokat tároljuk: a választott nyelvet és a tesztben elért haladásodat, hogy ott folytathasd, ahol abbahagytad. Ezek az adatok az eszközödön maradnak.",
+      "Fizetéskor fizetési szolgáltatónk, a Stripe elhelyezhet olyan cookie-kat, amelyek a fizetés biztonságos lebonyolításához és a csalások megelőzéséhez szükségesek.",
+      "Kérdésed van? Írj nekünk: {email}."
+    ],
+    "refundTitle": "Visszatérítési szabályzat",
+    "refundBody": [
+      "Az értékelés ára tesztenként {price}, egyszeri fizetéssel. Nincs előfizetés és nincs automatikus megújítás.",
+      "Nem kaptad meg az értékelést, vagy valami hiba történt? Írj 14 napon belül a(z) {email} címre, és add meg a használt e-mail-címet – újra elküldjük az értékelést, vagy visszatérítjük a díjat.",
+      "Mivel az értékelés azonnal teljesített digitális tartalom, a törvényes elállási jog az elküldésével megszűnik. Ha valami nincs rendben, természetesen mindig segítünk.",
+      "A visszatérítés az eredeti fizetési módra történik, 5–10 munkanapon belül."
+    ]
+  }
+}

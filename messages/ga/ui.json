@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Tástálacha síceolaíochta saor in aisce ar líne",
+    "description": "Déan tástálacha mionsonraithe ar phearsantacht, ar cheangal, ar ghairm bheatha, ar ADHD, ar thraochadh agus níos mó. Saor in aisce le déanamh, le tuarascáil phearsanta mhionsonraithe ar {price} amháin."
+  },
+  "nav": {
+    "tests": "Tástálacha",
+    "pricing": "Praghsanna",
+    "faq": "Ceisteanna coitianta",
+    "language": "Teanga",
+    "cta": "Tosaigh tástáil"
+  },
+  "home": {
+    "badge": "Tástálacha: {count} · Teangacha: {languages}",
+    "heroTitle": "Cuir aithne ort féin, tástáil ar thástáil",
+    "heroSubtitle": "Tástálacha mionsonraithe ar phearsantacht, ar chaidrimh, ar obair agus ar fholláine. 100 ceist, timpeall 5 nóiméad, agus tuarascáil phearsanta ar {price} amháin.",
+    "heroCta": "Féach ar ár dtástálacha",
+    "heroSecondary": "Conas a oibríonn sé",
+    "trust1": "Níl cuntas ag teastáil",
+    "trust2": "Íocaíocht aonuaire, gan síntiús",
+    "trust3": "Tuarascáil díreach chuig do bhosca isteach",
+    "dimensionsTitle": "Is mó thú ná scór amháin — feic gach gné díot.",
+    "dimensionsSubtitle": "Na réimsí a thomhaiseann ár dtástálacha is minice, idir phearsantacht, chaidrimh agus fholláine.",
+    "dimensions": [
+      "🎯 Fócas",
+      "🔋 Fuinneamh sóisialta",
+      "🌊 Freagairt ar strus",
+      "💞 Ceangal",
+      "⚖️ Cinntí",
+      "🧭 Luachanna",
+      "💡 Cruthaitheacht",
+      "🪞 Féinfheasacht",
+      "🛡️ Athléimneacht"
+    ],
+    "testsTitle": "Roghnaigh do thástáil",
+    "testsSubtitle": "Tá gach tástáil saor in aisce le déanamh. Roghnaigh an ceann a thaitníonn leat.",
+    "howTitle": "Ón gcéad cheist go dtí tuarascáil iomlán i dtrí chéim",
+    "steps": [
+      {
+        "title": "Roghnaigh tástáil",
+        "text": "Roghnaigh ónár leabharlann tástálacha pearsantachta, caidrimh agus scagthástálacha, gach ceann acu bunaithe ar mhúnlaí síceolaíochta aitheanta."
+      },
+      {
+        "title": "Déan an tástáil",
+        "text": "Freagair 100 ceist ar scála simplí. Tógann formhór na dtástálacha timpeall 5 nóiméad agus sábháiltear do dhul chun cinn."
+      },
+      {
+        "title": "Léigh do thuarascáil",
+        "text": "Faigh tuarascáil phearsanta le do scóir, a mbrí agus leideanna praiticiúla, seolta díreach chuig do bhosca isteach."
+      }
+    ],
+    "pricingTitle": "Praghsáil shimplí",
+    "pricingSubtitle": "Praghas amháin. Gan síntiús. Gan iontas.",
+    "planFreeName": "Déan an tástáil",
+    "planFreePrice": "Saor in aisce",
+    "planFreeFeatures": [
+      "Na {count} tástáil ar fad, saor in aisce",
+      "100 ceist, timpeall 5 nóiméad",
+      "Sábháiltear do dhul chun cinn go huathoibríoch",
+      "Réamhamharc láithreach ar réimsí do thoraidh"
+    ],
+    "planReportName": "Tuarascáil iomlán",
+    "planReportPrice": "{price}",
+    "planReportPer": "aonuaire, in aghaidh na tástála",
+    "planReportFeatures": [
+      "Do scór ar gach toise",
+      "Léirmhíniú pearsanta ar gach scór",
+      "Leideanna praiticiúla is féidir leat a úsáid láithreach",
+      "Seolta chuig do bhosca isteach i gceann cúpla nóiméad",
+      "Gan síntiús, gan athnuachan uathoibríoch"
+    ],
+    "planCta": "Bain triail as anois",
+    "faqTitle": "Ceisteanna coitianta",
+    "faq": [
+      {
+        "q": "Cad é {site}?",
+        "a": "Is ardán ar líne é {site} le féintástálacha mionsonraithe ar phearsantacht, ar chaidrimh, ar obair agus ar fholláine. Is féidir leat gach tástáil a dhéanamh saor in aisce agus tuarascáil phearsanta mhionsonraithe a ordú más mian leat níos mó a fháil amach."
+      },
+      {
+        "q": "Cé mhéad a chosnaíonn tástáil?",
+        "a": "Tá sé saor in aisce tástáil a dhéanamh. Cosnaíonn an tuarascáil phearsanta mhionsonraithe {price}, íoctha uair amháin. Níl aon síntiús ann agus ní ghearrfar táille ort arís go huathoibríoch choíche."
+      },
+      {
+        "q": "Conas a gheobhaidh mé mo thuarascáil?",
+        "a": "Tar éis na híocaíochta seoltar do thuarascáil chuig an seoladh ríomhphoist a thug tú, laistigh de nóiméad de ghnáth. Ní féidir leat í a aimsiú? Seiceáil d'fhillteán turscair nó cur chun cinn."
+      },
+      {
+        "q": "An féidir liom tástáil a dhéanamh arís?",
+        "a": "Is féidir, chomh minic agus is mian leat. Is bealach maith é tástáil a dhéanamh arís tar éis cúpla seachtain chun a fheiceáil cad atá athraithe. Is ceannach aonuaire ar leith é gach tuarascáil."
+      },
+      {
+        "q": "An diagnóis leighis é seo?",
+        "a": "Ní hea. Tá ár dtástálacha ceaptha le haghaidh féinmhachnaimh. Is féidir le scagthástálacha, mar shampla an tástáil ADHD nó dúlagair, a léiriú an fiú labhairt le gairmí, ach ní thagann siad riamh in áit measúnú ó ghairmí cáilithe."
+      },
+      {
+        "q": "Conas a cruthaíodh na tástálacha seo?",
+        "a": "Tá ár dtástálacha bunaithe ar mhúnlaí síceolaíochta aitheanta ar nós an Big Five, RIASEC agus teoiric an cheangail. Áirítear sna tástálacha dúlagair agus tráma freisin na ceistneoirí PHQ-9 agus PCL-5, atá san fhearann poiblí, scóráilte de réir a dtairseach oifigiúil."
+      },
+      {
+        "q": "An féidir leis na torthaí a bheith neamhiontaofa?",
+        "a": "Tá corrlach earráide ag gach ceistneoir, agus féadfaidh do ghiúmar ar an lá tionchar a imirt. Freagair go hionraic gan an iomarca machnaimh a dhéanamh, agus féach ar do thoradh mar phointe tosaigh le haghaidh machnaimh seachas mar bhreith dheiridh."
+      },
+      {
+        "q": "An bhfanfaidh mo shonraí príobháideach?",
+        "a": "Fanfaidh. Níl cuntas ag teastáil uait. Ní úsáidtear do fhreagraí ach chun do thoradh a ríomh agus do thuarascáil a chruthú, agus ní dhíolaimid do shonraí choíche."
+      }
+    ],
+    "ctaTitle": "Réidh chun níos mó a fháil amach fút féin?",
+    "ctaButton": "Féach ar ár dtástálacha"
+  },
+  "categories": {
+    "personality": "Pearsantacht & cineál",
+    "relationships": "Caidrimh & mothúcháin",
+    "work": "Obair & luachanna",
+    "screeners": "Scagthástálacha",
+    "wellbeing": "Folláine & nósanna"
+  },
+  "test": {
+    "start": "Tosaigh an tástáil",
+    "questions": "Ceisteanna: {count}",
+    "minutes": "{count} nóim.",
+    "free": "Saor in aisce",
+    "aboutTitle": "Faoin tástáil seo",
+    "whatYouGet": "Cad atá i do thuarascáil",
+    "whatYouGet1": "Do scór ar gach toise: {dimensions}",
+    "whatYouGet2": "Léirmhíniú pearsanta ar gach scór",
+    "whatYouGet3": "Leideanna praiticiúla is féidir leat a chur i bhfeidhm láithreach",
+    "otherTests": "Tástálacha eile a bhfuil an-tóir orthu",
+    "question": "Ceist {current} as {total}",
+    "back": "Siar",
+    "next": "Ar aghaidh",
+    "finish": "Féach ar mo thorthaí",
+    "chooseAnswer": "Roghnaigh an freagra is fearr a oireann duit.",
+    "resume": "Tá tástáil neamhchríochnaithe agat. Ar mhaith leat leanúint ar aghaidh ón áit ar stop tú?",
+    "resumeYes": "Lean ar aghaidh",
+    "resumeNo": "Tosaigh as an nua",
+    "genderTitle": "Ar dtús, ceist ghearr",
+    "genderQuestion": "Cén inscne thú?",
+    "genderMale": "Fireann",
+    "genderFemale": "Baineann",
+    "genderOther": "Eile / b'fhearr liom gan a rá",
+    "screenerNote": "Uirlis scagthástála í an tástáil seo, ní diagnóis."
+  },
+  "scales": {
+    "agree": [
+      "Easaontaím go láidir",
+      "Easaontaím",
+      "Neodrach",
+      "Aontaím",
+      "Aontaím go láidir"
+    ],
+    "frequency": [
+      "Riamh",
+      "Go hannamh",
+      "Uaireanta",
+      "Go minic",
+      "An-mhinic"
+    ],
+    "phq": [
+      "Ní ar chor ar bith",
+      "Roinnt laethanta",
+      "Níos mó ná leath na laethanta",
+      "Beagnach gach lá"
+    ],
+    "intensity": [
+      "Ní ar chor ar bith",
+      "Beagáinín",
+      "Go measartha",
+      "Go leor",
+      "Thar a bheith"
+    ]
+  },
+  "levels": {
+    "low": "Íseal",
+    "mid": "Meánach",
+    "high": "Ard"
+  },
+  "result": {
+    "title": "Tá do thorthaí réidh",
+    "subtitle": "Chríochnaigh tú an tástáil {test}. Díghlasáil do thuarascáil phearsanta iomlán chun do scóir agus a mbrí a fheiceáil.",
+    "mainType": "Do phríomhchineál",
+    "locked": "Faoi ghlas",
+    "unlockTitle": "Faigh do thuarascáil iomlán",
+    "unlockText": "Do thuarascáil mhionsonraithe le gach scór, léirmhínithe pearsanta agus leideanna praiticiúla, seolta chuig do ríomhphost.",
+    "emailLabel": "Seoladh ríomhphoist",
+    "emailPlaceholder": "tusa@sampla.ie",
+    "consent": "Aontaím leis na téarmaí agus leis an mbeartas príobháideachais.",
+    "buy": "Faigh mo thuarascáil ar {price}",
+    "secure": "Íocaíocht shlán trí Stripe. Íocaíocht aonuaire, gan síntiús.",
+    "invalidEmail": "Cuir isteach seoladh ríomhphoist bailí.",
+    "consentRequired": "Glac leis na téarmaí chun leanúint ar aghaidh.",
+    "error": "Chuaigh rud éigin mícheart. Bain triail eile as.",
+    "noAnswers": "Níorbh fhéidir linn do fhreagraí a aimsiú. Déan an tástáil ar dtús.",
+    "takeTest": "Déan an tástáil",
+    "crisisTitle": "Níl tú i d'aonar",
+    "crisisText": "Thug tú le fios go raibh smaointe agat go mbeadh sé níos fearr duit a bheith marbh nó go ngortófá thú féin. Labhair le duine éigin inniu, le do thoil. Má tá tú i mbaol láithreach, glaoigh ar 112. Is féidir leat teagmháil a dhéanamh freisin le líne ghéarchéime i do thír féin, mar shampla iad siúd atá liostaithe ar findahelpline.com, ag am ar bith den lá.",
+    "crisisLink": "Aimsigh líne chabhrach in aice leat"
+  },
+  "thanks": {
+    "title": "Go raibh maith agat as do cheannach!",
+    "text": "Tá do thuarascáil phearsanta ar an mbealach chuig do bhosca isteach. Sroicheann sí laistigh de nóiméad de ghnáth.",
+    "spam": "Níl sí faighte agat tar éis 10 nóiméad? Seiceáil d'fhillteán turscair nó cur chun cinn, nó déan teagmháil linn ag {email}.",
+    "more": "Faigh amach faoi níos mó tástálacha"
+  },
+  "report": {
+    "subject": "Do thuarascáil: {test}",
+    "greeting": "Dia duit,",
+    "intro": "Go raibh maith agat as an tástáil {test} a dhéanamh ar {site}. Seo do thuarascáil phearsanta.",
+    "scoreLabel": "Do scór",
+    "outro": "Tá súil againn go dtabharfaidh an tuarascáil seo léargais úsáideacha duit. An bhfuil suim agat i ngnéithe eile díot féin? Faigh amach faoinár dtástálacha go léir ag {url}.",
+    "signature": "Foireann {site}",
+    "instrumentLabel": "{name}: {score} as {max}",
+    "typeLabel": "Do chineál"
+  },
+  "footer": {
+    "tagline": "Cuir aithne níos fearr ort féin",
+    "about": "Féintástálacha mionsonraithe do dhaoine ar mian leo níos mó ná lipéad ceithre litir.",
+    "company": "Comhlacht",
+    "home": "Baile",
+    "help": "Cabhair",
+    "contact": "Déan teagmháil linn",
+    "legal": "Dlíthiúil",
+    "privacy": "Beartas príobháideachais",
+    "terms": "Téarmaí & coinníollacha",
+    "cookies": "Beartas fianán",
+    "refund": "Beartas aisíocaíochta",
+    "rights": "© {year} {site}. Gach ceart ar cosaint.",
+    "disclaimer": "Ní seirbhís leighis é {site}. Maidir le himní chliniciúil, téigh i gcomhairle le gairmí ceadúnaithe."
+  },
+  "legal": {
+    "privacyTitle": "Beartas príobháideachais",
+    "privacyBody": [
+      "Ní bhailímid ach na sonraí a theastaíonn chun ár seirbhís a sholáthar: do fhreagraí ar an tástáil agus, má cheannaíonn tú tuarascáil, do sheoladh ríomhphoist.",
+      "Próiseáiltear do fhreagraí chun do thoradh a ríomh. Nuair a cheannaíonn tú tuarascáil, cuirtear do fhreagraí agus do sheoladh ríomhphoist ar aghaidh chuig ár soláthraí íocaíochta Stripe agus chuig ár soláthraí ríomhphoist chun an íocaíocht a phróiseáil agus an tuarascáil a sheachadadh.",
+      "Ní dhíolaimid do shonraí agus ní úsáidimid iad le haghaidh fógraíochta. Is féidir leat iarraidh orainn tráth ar bith do shonraí a scriosadh trí theagmháil a dhéanamh le {email}.",
+      "Is é Stripe a láimhseálann íocaíochtaí. Ní fheicimid ná ní stórálaimid sonraí do chárta riamh."
+    ],
+    "termsTitle": "Téarmaí seirbhíse",
+    "termsBody": [
+      "Tá gach tástáil ar {site} ceaptha le haghaidh féinmhachnaimh agus siamsaíochta. Ní diagnóis leighis, shíceolaíoch ná ghairmiúil iad.",
+      "Tá sé saor in aisce tástáil a dhéanamh. Cosnaíonn tuarascáil phearsanta {price} in aghaidh na tástála mar íocaíocht aonuaire. Seachadtar an tuarascáil go digiteach trí ríomhphost.",
+      "Ós rud é gur ábhar digiteach í an tuarascáil a sheachadtar díreach tar éis na híocaíochta, aontaíonn tú go dtéann an ceart tarraingt siar in éag a luaithe a sheoltar an tuarascáil. Mura bhfuair tú do thuarascáil, déan teagmháil le {email} agus seolfaimid arís í nó tabharfaimid aisíocaíocht duit.",
+      "Déanaimid ár ndícheall an t-ábhar a choinneáil cruinn, ach ní féidir linn a ráthú go bhfuil na torthaí iomlán nó ceart do gach duine."
+    ],
+    "cookiesTitle": "Beartas fianán",
+    "cookiesBody": [
+      "Ní úsáideann {site} fianáin fógraíochta ná rianaithe.",
+      "Ní stórálaimid i do bhrabhsálaí ach sonraí atá fíor-riachtanach: an teanga a roghnaigh tú agus do dhul chun cinn i dtástáil, ionas gur féidir leat leanúint ar aghaidh ón áit ar stop tú. Fanann na sonraí seo ar do ghléas.",
+      "Nuair a íocann tú, féadfaidh ár soláthraí íocaíochta Stripe fianáin a chur atá riachtanach chun an íocaíocht a phróiseáil go slán agus chun calaois a chosc.",
+      "Ceisteanna? Déan teagmháil linn ag {email}."
+    ],
+    "refundTitle": "Beartas aisíocaíochta",
+    "refundBody": [
+      "Cosnaíonn tuarascáil {price} in aghaidh na tástála mar íocaíocht aonuaire. Níl aon síntiús ná athnuachan uathoibríoch ann.",
+      "Nach bhfuair tú do thuarascáil, nó ar chuaigh rud éigin mícheart? Déan teagmháil le {email} laistigh de 14 lá, ag lua an seoladh ríomhphoist a d'úsáid tú, agus seolfaimid do thuarascáil arís nó aisíocfaimid d'íocaíocht.",
+      "Ós rud é gur ábhar digiteach í an tuarascáil a sheachadtar láithreach, téann an ceart reachtúil tarraingt siar in éag a luaithe a sheoltar í. Mar sin féin, cabhróimid leat i gcónaí mura bhfuil rud éigin i gceart.",
+      "Déantar aisíocaíochtaí ar an modh íocaíochta bunaidh laistigh de 5–10 lá oibre."
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Tests de psychologie gratuits en ligne",
+    "description": "Passez des tests approfondis sur la personnalité, l'attachement, la carrière, le TDAH, le burn-out et bien plus. Gratuits, avec un rapport personnel détaillé pour seulement {price}."
+  },
+  "nav": {
+    "tests": "Tests",
+    "pricing": "Tarifs",
+    "faq": "FAQ",
+    "language": "Langue",
+    "cta": "Commencer un test"
+  },
+  "home": {
+    "badge": "{count} tests · {languages} langues",
+    "heroTitle": "Apprenez à vous connaître, un test à la fois",
+    "heroSubtitle": "Des tests approfondis sur la personnalité, les relations, le travail et le bien-être. 100 questions, environ 5 minutes, et un rapport personnel pour seulement {price}.",
+    "heroCta": "Découvrir nos tests",
+    "heroSecondary": "Comment ça marche",
+    "trust1": "Aucun compte nécessaire",
+    "trust2": "Paiement unique, sans abonnement",
+    "trust3": "Rapport envoyé directement par e-mail",
+    "dimensionsTitle": "Vous êtes plus qu'un simple score : découvrez toutes vos facettes.",
+    "dimensionsSubtitle": "Les domaines que nos tests mesurent le plus souvent, de la personnalité aux relations en passant par le bien-être.",
+    "dimensions": [
+      "🎯 Concentration",
+      "🔋 Énergie sociale",
+      "🌊 Réaction au stress",
+      "💞 Attachement",
+      "⚖️ Prise de décision",
+      "🧭 Valeurs",
+      "💡 Créativité",
+      "🪞 Connaissance de soi",
+      "🛡️ Résilience"
+    ],
+    "testsTitle": "Choisissez votre test",
+    "testsSubtitle": "Tous les tests sont gratuits. Choisissez celui qui vous parle.",
+    "howTitle": "De la première question au rapport complet en trois étapes",
+    "steps": [
+      {
+        "title": "Choisissez un test",
+        "text": "Parcourez notre bibliothèque de tests de personnalité, de relations et de dépistage, tous fondés sur des modèles psychologiques reconnus."
+      },
+      {
+        "title": "Passez le test",
+        "text": "Répondez à 100 questions sur une échelle simple. La plupart des tests prennent environ 5 minutes et votre progression est enregistrée."
+      },
+      {
+        "title": "Lisez votre rapport",
+        "text": "Recevez un rapport personnel avec vos scores, leur signification et des conseils pratiques, directement dans votre boîte de réception."
+      }
+    ],
+    "pricingTitle": "Des tarifs simples",
+    "pricingSubtitle": "Un seul prix. Sans abonnement. Sans surprise.",
+    "planFreeName": "Passer le test",
+    "planFreePrice": "Gratuit",
+    "planFreeFeatures": [
+      "Les {count} tests, entièrement gratuits",
+      "100 questions, environ 5 minutes",
+      "Progression enregistrée automatiquement",
+      "Aperçu immédiat de vos domaines de résultats"
+    ],
+    "planReportName": "Rapport complet",
+    "planReportPrice": "{price}",
+    "planReportPer": "paiement unique, par test",
+    "planReportFeatures": [
+      "Votre score sur chaque dimension",
+      "Une interprétation personnelle de chaque score",
+      "Des conseils pratiques à appliquer tout de suite",
+      "Envoyé par e-mail en quelques minutes",
+      "Sans abonnement ni renouvellement automatique"
+    ],
+    "planCta": "Essayer maintenant",
+    "faqTitle": "Questions fréquentes",
+    "faq": [
+      {
+        "q": "Qu'est-ce que {site} ?",
+        "a": "{site} est une plateforme en ligne proposant des auto-tests approfondis sur la personnalité, les relations, le travail et le bien-être. Vous pouvez passer chaque test gratuitement et commander un rapport personnel détaillé si vous souhaitez en savoir plus."
+      },
+      {
+        "q": "Combien coûte un test ?",
+        "a": "Passer un test est gratuit. Le rapport personnel détaillé coûte {price}, en un seul paiement. Il n'y a pas d'abonnement et vous ne serez jamais débité de nouveau automatiquement."
+      },
+      {
+        "q": "Comment vais-je recevoir mon rapport ?",
+        "a": "Après le paiement, votre rapport est envoyé à l'adresse e-mail que vous avez indiquée, généralement en moins d'une minute. Vous ne le trouvez pas ? Vérifiez votre dossier spam ou promotions."
+      },
+      {
+        "q": "Puis-je repasser un test ?",
+        "a": "Oui, autant de fois que vous le souhaitez. Repasser un test après quelques semaines est un bon moyen de voir ce qui a changé. Chaque rapport est un achat unique distinct."
+      },
+      {
+        "q": "S'agit-il d'un diagnostic médical ?",
+        "a": "Non. Nos tests sont conçus pour l'introspection. Les tests de dépistage, comme ceux du TDAH ou de la dépression, peuvent indiquer s'il est utile de consulter un professionnel, mais ils ne remplacent jamais l'évaluation d'un professionnel qualifié."
+      },
+      {
+        "q": "Comment ces tests ont-ils été conçus ?",
+        "a": "Nos tests reposent sur des modèles psychologiques reconnus comme le Big Five, le RIASEC et la théorie de l'attachement. Les tests sur la dépression et le traumatisme intègrent aussi les questionnaires libres de droits PHQ-9 et PCL-5, notés selon leurs seuils officiels."
+      },
+      {
+        "q": "Les résultats peuvent-ils être peu fiables ?",
+        "a": "Tout questionnaire comporte une marge d'erreur, et votre humeur du jour peut jouer un rôle. Répondez honnêtement, sans trop réfléchir, et voyez votre résultat comme un point de départ pour la réflexion plutôt que comme un verdict définitif."
+      },
+      {
+        "q": "Mes données restent-elles privées ?",
+        "a": "Oui. Vous n'avez pas besoin de compte. Vos réponses servent uniquement à calculer votre résultat et à créer votre rapport, et nous ne vendons jamais vos données."
+      }
+    ],
+    "ctaTitle": "Prêt à en découvrir davantage sur vous-même ?",
+    "ctaButton": "Découvrir nos tests"
+  },
+  "categories": {
+    "personality": "Personnalité & type",
+    "relationships": "Relations & émotions",
+    "work": "Travail & valeurs",
+    "screeners": "Dépistage",
+    "wellbeing": "Bien-être & habitudes"
+  },
+  "test": {
+    "start": "Commencer le test",
+    "questions": "{count} questions",
+    "minutes": "{count} min",
+    "free": "Gratuit",
+    "aboutTitle": "À propos de ce test",
+    "whatYouGet": "Ce que contient votre rapport",
+    "whatYouGet1": "Votre score sur chaque dimension : {dimensions}",
+    "whatYouGet2": "Une interprétation personnelle de chaque score",
+    "whatYouGet3": "Des conseils pratiques à appliquer tout de suite",
+    "otherTests": "Autres tests populaires",
+    "question": "Question {current} sur {total}",
+    "back": "Retour",
+    "next": "Suivant",
+    "finish": "Voir mes résultats",
+    "chooseAnswer": "Choisissez la réponse qui vous correspond le mieux.",
+    "resume": "Vous avez un test inachevé. Reprendre là où vous vous êtes arrêté ?",
+    "resumeYes": "Reprendre",
+    "resumeNo": "Recommencer",
+    "genderTitle": "D'abord, une petite question",
+    "genderQuestion": "Quel est votre genre ?",
+    "genderMale": "Homme",
+    "genderFemale": "Femme",
+    "genderOther": "Autre / je préfère ne pas répondre",
+    "screenerNote": "Ce test est un outil de dépistage, pas un diagnostic."
+  },
+  "scales": {
+    "agree": [
+      "Pas du tout d'accord",
+      "Pas d'accord",
+      "Ni d'accord ni pas d'accord",
+      "D'accord",
+      "Tout à fait d'accord"
+    ],
+    "frequency": [
+      "Jamais",
+      "Rarement",
+      "Parfois",
+      "Souvent",
+      "Très souvent"
+    ],
+    "phq": [
+      "Jamais",
+      "Plusieurs jours",
+      "Plus de la moitié du temps",
+      "Presque tous les jours"
+    ],
+    "intensity": [
+      "Pas du tout",
+      "Un peu",
+      "Modérément",
+      "Beaucoup",
+      "Extrêmement"
+    ]
+  },
+  "levels": {
+    "low": "Faible",
+    "mid": "Moyen",
+    "high": "Élevé"
+  },
+  "result": {
+    "title": "Vos résultats sont prêts",
+    "subtitle": "Vous avez terminé le test « {test} ». Débloquez votre rapport personnel complet pour découvrir vos scores et leur signification.",
+    "mainType": "Votre type principal",
+    "locked": "Verrouillé",
+    "unlockTitle": "Obtenez votre rapport complet",
+    "unlockText": "Votre rapport détaillé avec tous vos scores, des interprétations personnelles et des conseils pratiques, envoyé par e-mail.",
+    "emailLabel": "Adresse e-mail",
+    "emailPlaceholder": "vous@exemple.fr",
+    "consent": "J'accepte les conditions générales et la politique de confidentialité.",
+    "buy": "Obtenir mon rapport pour {price}",
+    "secure": "Paiement sécurisé via Stripe. Paiement unique, sans abonnement.",
+    "invalidEmail": "Veuillez saisir une adresse e-mail valide.",
+    "consentRequired": "Veuillez accepter les conditions pour continuer.",
+    "error": "Une erreur s'est produite. Veuillez réessayer.",
+    "noAnswers": "Nous n'avons pas trouvé vos réponses. Veuillez d'abord passer le test.",
+    "takeTest": "Passer le test",
+    "crisisTitle": "Vous n'êtes pas seul(e)",
+    "crisisText": "Vous avez indiqué avoir eu des pensées selon lesquelles vous seriez mieux mort(e) ou de vous faire du mal. Parlez-en à quelqu'un dès aujourd'hui. Si vous êtes en danger immédiat, appelez le 112. Vous pouvez aussi contacter à toute heure une ligne d'écoute de votre pays, comme celles répertoriées sur findahelpline.com.",
+    "crisisLink": "Trouver une ligne d'écoute près de chez vous"
+  },
+  "thanks": {
+    "title": "Merci pour votre achat !",
+    "text": "Votre rapport personnel est en route vers votre boîte de réception. Il arrive généralement en moins d'une minute.",
+    "spam": "Rien reçu après 10 minutes ? Vérifiez votre dossier spam ou promotions, ou contactez-nous à {email}.",
+    "more": "Découvrir d'autres tests"
+  },
+  "report": {
+    "subject": "Votre rapport : {test}",
+    "greeting": "Bonjour,",
+    "intro": "Merci d'avoir passé le test « {test} » sur {site}. Voici votre rapport personnel.",
+    "scoreLabel": "Votre score",
+    "outro": "Nous espérons que ce rapport vous apportera des éclairages utiles. Envie d'explorer d'autres facettes de vous-même ? Découvrez tous nos tests sur {url}.",
+    "signature": "L'équipe {site}",
+    "instrumentLabel": "{name} : {score} sur {max}",
+    "typeLabel": "Votre type"
+  },
+  "footer": {
+    "tagline": "Mieux vous connaître",
+    "about": "Des auto-tests approfondis pour ceux qui veulent plus qu'une étiquette en quatre lettres.",
+    "company": "Entreprise",
+    "home": "Accueil",
+    "help": "Aide",
+    "contact": "Nous contacter",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales",
+    "cookies": "Politique relative aux cookies",
+    "refund": "Politique de remboursement",
+    "rights": "© {year} {site}. Tous droits réservés.",
+    "disclaimer": "{site} n'est pas un service médical. Pour toute préoccupation clinique, veuillez consulter un professionnel de santé agréé."
+  },
+  "legal": {
+    "privacyTitle": "Politique de confidentialité",
+    "privacyBody": [
+      "Nous collectons uniquement les données nécessaires à notre service : vos réponses aux tests et, si vous achetez un rapport, votre adresse e-mail.",
+      "Vos réponses sont traitées pour calculer votre résultat. Lorsque vous achetez un rapport, vos réponses et votre adresse e-mail sont transmises à notre prestataire de paiement Stripe et à notre prestataire d'e-mail afin de traiter le paiement et de livrer le rapport.",
+      "Nous ne vendons pas vos données et ne les utilisons pas à des fins publicitaires. Vous pouvez à tout moment nous demander de supprimer vos données en nous écrivant à {email}.",
+      "Les paiements sont gérés par Stripe. Nous ne voyons ni ne conservons jamais les données de votre carte."
+    ],
+    "termsTitle": "Conditions d'utilisation",
+    "termsBody": [
+      "Tous les tests proposés sur {site} sont destinés à l'introspection et au divertissement. Ils ne constituent pas un diagnostic médical, psychologique ou professionnel.",
+      "Passer un test est gratuit. Un rapport personnel coûte {price} par test, en paiement unique. Le rapport est livré sous forme numérique par e-mail.",
+      "Le rapport étant un contenu numérique fourni immédiatement après le paiement, vous acceptez que votre droit de rétractation prenne fin dès l'envoi du rapport. Si vous n'avez pas reçu votre rapport, contactez {email} et nous vous le renverrons ou vous rembourserons.",
+      "Nous faisons de notre mieux pour que le contenu soit exact, mais nous ne pouvons pas garantir que les résultats soient complets ou corrects pour chaque personne."
+    ],
+    "cookiesTitle": "Politique relative aux cookies",
+    "cookiesBody": [
+      "{site} n'utilise pas de cookies publicitaires ni de cookies de suivi.",
+      "Nous enregistrons uniquement des données strictement nécessaires dans votre navigateur : la langue choisie et votre progression dans un test, pour que vous puissiez reprendre là où vous vous êtes arrêté. Ces données restent sur votre appareil.",
+      "Lors du paiement, notre prestataire Stripe peut déposer des cookies nécessaires pour traiter le paiement en toute sécurité et prévenir la fraude.",
+      "Des questions ? Contactez-nous à {email}."
+    ],
+    "refundTitle": "Politique de remboursement",
+    "refundBody": [
+      "Un rapport coûte {price} par test, en paiement unique. Il n'y a ni abonnement ni renouvellement automatique.",
+      "Vous n'avez pas reçu votre rapport ou quelque chose s'est mal passé ? Contactez {email} dans les 14 jours en indiquant l'adresse e-mail utilisée, et nous vous renverrons votre rapport ou vous rembourserons.",
+      "Le rapport étant un contenu numérique livré immédiatement, le droit légal de rétractation prend fin dès son envoi. Nous vous aiderons néanmoins toujours si quelque chose ne va pas.",
+      "Les remboursements sont effectués sur le moyen de paiement d'origine sous 5 à 10 jours ouvrés."
+    ]
+  }
+}

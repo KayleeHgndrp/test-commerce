@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Ücretsiz online psikoloji testleri",
+    "description": "Kişilik, bağlanma, kariyer, DEHB, tükenmişlik ve daha fazlası üzerine kapsamlı testler çözün. Testler ücretsiz; ayrıntılı kişisel rapor yalnızca {price}."
+  },
+  "nav": {
+    "tests": "Testler",
+    "pricing": "Fiyatlar",
+    "faq": "SSS",
+    "language": "Dil",
+    "cta": "Teste başla"
+  },
+  "home": {
+    "badge": "{count} test · {languages} dil",
+    "heroTitle": "Kendinizi test test keşfedin",
+    "heroSubtitle": "Kişilik, ilişkiler, iş ve iyi oluş üzerine kapsamlı testler. 100 soru, yaklaşık 5 dakika ve yalnızca {price} karşılığında kişisel bir rapor.",
+    "heroCta": "Testlerimizi keşfedin",
+    "heroSecondary": "Nasıl çalışır?",
+    "trust1": "Hesap gerekmez",
+    "trust2": "Tek seferlik ödeme, abonelik yok",
+    "trust3": "Rapor doğrudan e-posta kutunuza",
+    "dimensionsTitle": "Siz tek bir puandan fazlasısınız — her yönünüzü görün.",
+    "dimensionsSubtitle": "Testlerimizin kişilik, ilişkiler ve iyi oluş alanlarında en sık ölçtüğü boyutlar.",
+    "dimensions": [
+      "🎯 Odaklanma",
+      "🔋 Sosyal enerji",
+      "🌊 Strese tepki",
+      "💞 Bağlanma",
+      "⚖️ Kararlar",
+      "🧭 Değerler",
+      "💡 Yaratıcılık",
+      "🪞 Öz farkındalık",
+      "🛡️ Dayanıklılık"
+    ],
+    "testsTitle": "Testinizi seçin",
+    "testsSubtitle": "Tüm testler ücretsiz. İçinizden geleni seçin.",
+    "howTitle": "İlk sorudan tam rapora üç adımda",
+    "steps": [
+      {
+        "title": "Bir test seçin",
+        "text": "Her biri yerleşik psikolojik modellere dayanan kişilik, ilişki ve tarama testlerinden oluşan kütüphanemizden seçiminizi yapın."
+      },
+      {
+        "title": "Testi çözün",
+        "text": "Basit bir ölçekte 100 soruyu yanıtlayın. Testlerin çoğu yaklaşık 5 dakika sürer ve ilerlemeniz kaydedilir."
+      },
+      {
+        "title": "Raporunuzu okuyun",
+        "text": "Puanlarınızı, ne anlama geldiklerini ve pratik önerileri içeren kişisel raporunuz doğrudan e-posta kutunuza gelsin."
+      }
+    ],
+    "pricingTitle": "Basit fiyatlandırma",
+    "pricingSubtitle": "Tek fiyat. Abonelik yok. Sürpriz yok.",
+    "planFreeName": "Testi çözün",
+    "planFreePrice": "Ücretsiz",
+    "planFreeFeatures": [
+      "{count} testin tamamı ücretsiz",
+      "100 soru, yaklaşık 5 dakika",
+      "İlerleme otomatik olarak kaydedilir",
+      "Sonuç alanlarınızın anında önizlemesi"
+    ],
+    "planReportName": "Tam rapor",
+    "planReportPrice": "{price}",
+    "planReportPer": "test başına, tek seferlik",
+    "planReportFeatures": [
+      "Her boyuttaki puanınız",
+      "Her puanın kişisel yorumu",
+      "Hemen uygulayabileceğiniz pratik öneriler",
+      "Birkaç dakika içinde e-posta kutunuzda",
+      "Abonelik yok, otomatik yenileme yok"
+    ],
+    "planCta": "Hemen deneyin",
+    "faqTitle": "Sıkça sorulan sorular",
+    "faq": [
+      {
+        "q": "{site} nedir?",
+        "a": "{site}; kişilik, ilişkiler, iş ve iyi oluş üzerine kapsamlı öz değerlendirme testleri sunan bir online platformdur. Tüm testleri ücretsiz çözebilir, daha fazlasını öğrenmek isterseniz ayrıntılı kişisel rapor sipariş edebilirsiniz."
+      },
+      {
+        "q": "Bir test ne kadar?",
+        "a": "Test çözmek ücretsizdir. Ayrıntılı kişisel rapor {price} tutarındadır ve tek seferlik ödenir. Abonelik yoktur ve sizden asla otomatik olarak tekrar ücret alınmaz."
+      },
+      {
+        "q": "Raporumu nasıl alırım?",
+        "a": "Ödemenin ardından raporunuz girdiğiniz e-posta adresine, genellikle bir dakika içinde gönderilir. Bulamıyor musunuz? Spam veya promosyonlar klasörünüzü kontrol edin."
+      },
+      {
+        "q": "Bir testi tekrar çözebilir miyim?",
+        "a": "Evet, istediğiniz kadar. Birkaç hafta sonra testi yeniden çözmek, nelerin değiştiğini görmenin iyi bir yoludur. Her rapor ayrı bir tek seferlik satın alımdır."
+      },
+      {
+        "q": "Bu tıbbi bir teşhis mi?",
+        "a": "Hayır. Testlerimiz kendini tanıma amaçlıdır. DEHB veya depresyon testi gibi tarama testleri bir uzmanla konuşmanın anlamlı olup olmadığına işaret edebilir, ancak hiçbir zaman yetkin bir uzmanın değerlendirmesinin yerini tutmaz."
+      },
+      {
+        "q": "Bu testler nasıl hazırlandı?",
+        "a": "Testlerimiz Beş Faktör (Big Five), RIASEC ve bağlanma kuramı gibi yerleşik psikolojik modellere dayanır. Depresyon ve travma testleri ayrıca kamuya açık PHQ-9 ve PCL-5 ölçeklerini içerir ve resmi kesme puanlarıyla puanlanır."
+      },
+      {
+        "q": "Sonuçlar güvenilmez olabilir mi?",
+        "a": "Her ölçeğin bir hata payı vardır ve o günkü ruh haliniz de etkili olabilir. Dürüstçe ve fazla düşünmeden yanıtlayın; sonucunuzu kesin bir hüküm olarak değil, üzerine düşünmek için bir başlangıç noktası olarak görün."
+      },
+      {
+        "q": "Verilerim gizli kalacak mı?",
+        "a": "Evet. Hesap açmanız gerekmez. Yanıtlarınız yalnızca sonucunuzu hesaplamak ve raporunuzu oluşturmak için kullanılır; verilerinizi asla satmayız."
+      }
+    ],
+    "ctaTitle": "Kendiniz hakkında daha fazlasını keşfetmeye hazır mısınız?",
+    "ctaButton": "Testlerimizi keşfedin"
+  },
+  "categories": {
+    "personality": "Kişilik ve tip",
+    "relationships": "İlişkiler ve duygular",
+    "work": "İş ve değerler",
+    "screeners": "Tarama testleri",
+    "wellbeing": "İyi oluş ve alışkanlıklar"
+  },
+  "test": {
+    "start": "Teste başla",
+    "questions": "{count} soru",
+    "minutes": "{count} dk",
+    "free": "Ücretsiz",
+    "aboutTitle": "Bu test hakkında",
+    "whatYouGet": "Raporunuzda neler var?",
+    "whatYouGet1": "Her boyuttaki puanınız: {dimensions}",
+    "whatYouGet2": "Her puanın kişisel yorumu",
+    "whatYouGet3": "Hemen uygulayabileceğiniz pratik öneriler",
+    "otherTests": "Diğer popüler testler",
+    "question": "Soru {current} / {total}",
+    "back": "Geri",
+    "next": "İleri",
+    "finish": "Sonuçlarımı gör",
+    "chooseAnswer": "Size en uygun yanıtı seçin.",
+    "resume": "Yarım kalmış bir testiniz var. Kaldığınız yerden devam etmek ister misiniz?",
+    "resumeYes": "Devam et",
+    "resumeNo": "Baştan başla",
+    "genderTitle": "Önce kısa bir soru",
+    "genderQuestion": "Cinsiyetiniz nedir?",
+    "genderMale": "Erkek",
+    "genderFemale": "Kadın",
+    "genderOther": "Diğer / belirtmek istemiyorum",
+    "screenerNote": "Bu test bir tarama aracıdır, teşhis değildir."
+  },
+  "scales": {
+    "agree": [
+      "Kesinlikle katılmıyorum",
+      "Katılmıyorum",
+      "Kararsızım",
+      "Katılıyorum",
+      "Kesinlikle katılıyorum"
+    ],
+    "frequency": [
+      "Hiçbir zaman",
+      "Nadiren",
+      "Bazen",
+      "Sık sık",
+      "Çok sık"
+    ],
+    "phq": [
+      "Hiç",
+      "Birkaç gün",
+      "Günlerin yarısından fazlasında",
+      "Hemen her gün"
+    ],
+    "intensity": [
+      "Hiç",
+      "Biraz",
+      "Orta düzeyde",
+      "Oldukça",
+      "Aşırı derecede"
+    ]
+  },
+  "levels": {
+    "low": "Düşük",
+    "mid": "Orta",
+    "high": "Yüksek"
+  },
+  "result": {
+    "title": "Sonuçlarınız hazır",
+    "subtitle": "{test} testini tamamladınız. Puanlarınızı ve ne anlama geldiklerini görmek için tam kişisel raporunuzun kilidini açın.",
+    "mainType": "Ana tipiniz",
+    "locked": "Kilitli",
+    "unlockTitle": "Tam raporunuzu alın",
+    "unlockText": "Tüm puanlarınızı, kişisel yorumları ve pratik önerileri içeren ayrıntılı raporunuz e-posta adresinize gönderilir.",
+    "emailLabel": "E-posta adresi",
+    "emailPlaceholder": "siz@ornek.com",
+    "consent": "Koşulları ve gizlilik politikasını kabul ediyorum.",
+    "buy": "Raporumu {price} karşılığında al",
+    "secure": "Stripe ile güvenli ödeme. Tek seferlik ödeme, abonelik yok.",
+    "invalidEmail": "Lütfen geçerli bir e-posta adresi girin.",
+    "consentRequired": "Devam etmek için lütfen koşulları kabul edin.",
+    "error": "Bir sorun oluştu. Lütfen tekrar deneyin.",
+    "noAnswers": "Yanıtlarınızı bulamadık. Lütfen önce testi çözün.",
+    "takeTest": "Testi çöz",
+    "crisisTitle": "Yalnız değilsiniz",
+    "crisisText": "Ölmüş olmanın daha iyi olacağına dair ya da kendinize zarar vermeye yönelik düşünceleriniz olduğunu belirttiniz. Lütfen bugün biriyle konuşun. Acil bir tehlike altındaysanız 112'yi arayın. Ayrıca günün her saatinde, findahelpline.com'da listelenenler gibi ülkenizdeki bir kriz hattına da ulaşabilirsiniz.",
+    "crisisLink": "Yakınınızdaki bir yardım hattını bulun"
+  },
+  "thanks": {
+    "title": "Satın aldığınız için teşekkürler!",
+    "text": "Kişisel raporunuz e-posta kutunuza doğru yola çıktı. Genellikle bir dakika içinde ulaşır.",
+    "spam": "10 dakika sonra hâlâ gelmedi mi? Spam veya promosyonlar klasörünüzü kontrol edin ya da {email} adresinden bize ulaşın.",
+    "more": "Daha fazla test keşfedin"
+  },
+  "report": {
+    "subject": "{test} raporunuz",
+    "greeting": "Merhaba,",
+    "intro": "{site} üzerinde {test} testini çözdüğünüz için teşekkür ederiz. İşte kişisel raporunuz.",
+    "scoreLabel": "Puanınız",
+    "outro": "Bu raporun size faydalı içgörüler sunmasını umuyoruz. Kendinizin başka yönlerini de merak ediyor musunuz? Tüm testlerimizi {url} adresinde keşfedin.",
+    "signature": "{site} ekibi",
+    "instrumentLabel": "{name}: {score} / {max}",
+    "typeLabel": "Tipiniz"
+  },
+  "footer": {
+    "tagline": "Kendinizi daha iyi tanıyın",
+    "about": "Dört harfli bir etiketten fazlasını isteyenler için kapsamlı öz değerlendirme testleri.",
+    "company": "Şirket",
+    "home": "Ana sayfa",
+    "help": "Yardım",
+    "contact": "Bize ulaşın",
+    "legal": "Yasal",
+    "privacy": "Gizlilik politikası",
+    "terms": "Şartlar ve koşullar",
+    "cookies": "Çerez politikası",
+    "refund": "İade politikası",
+    "rights": "© {year} {site}. Tüm hakları saklıdır.",
+    "disclaimer": "{site} bir sağlık hizmeti değildir. Klinik endişeleriniz için lütfen lisanslı bir uzmana danışın."
+  },
+  "legal": {
+    "privacyTitle": "Gizlilik politikası",
+    "privacyBody": [
+      "Yalnızca hizmetimizi sunmak için gereken verileri topluyoruz: test yanıtlarınız ve rapor satın alırsanız e-posta adresiniz.",
+      "Yanıtlarınız sonucunuzu hesaplamak için işlenir. Bir rapor satın aldığınızda, ödemenin işlenmesi ve raporun teslim edilmesi amacıyla yanıtlarınız ve e-posta adresiniz ödeme sağlayıcımız Stripe'a ve e-posta sağlayıcımıza aktarılır.",
+      "Verilerinizi satmıyor ve reklam amacıyla kullanmıyoruz. {email} adresinden bize ulaşarak verilerinizin silinmesini istediğiniz zaman talep edebilirsiniz.",
+      "Ödemeler Stripe tarafından işlenir. Kart bilgilerinizi asla görmez ve saklamayız."
+    ],
+    "termsTitle": "Hizmet şartları",
+    "termsBody": [
+      "{site} üzerindeki tüm testler kendini tanıma ve eğlence amaçlıdır. Tıbbi, psikolojik veya mesleki bir teşhis niteliği taşımazlar.",
+      "Test çözmek ücretsizdir. Kişisel rapor, test başına tek seferlik {price} ödemeyle sunulur. Rapor dijital olarak e-postayla teslim edilir.",
+      "Rapor, ödemeden hemen sonra teslim edilen dijital içerik olduğundan, rapor gönderildiği anda cayma hakkının sona erdiğini kabul edersiniz. Raporunuzu almadıysanız {email} adresine yazın; raporu yeniden göndeririz ya da ücretinizi iade ederiz.",
+      "İçeriğin doğru olması için elimizden geleni yapıyoruz, ancak sonuçların herkes için eksiksiz veya doğru olacağını garanti edemeyiz."
+    ],
+    "cookiesTitle": "Çerez politikası",
+    "cookiesBody": [
+      "{site} reklam veya izleme çerezleri kullanmaz.",
+      "Tarayıcınızda yalnızca kesinlikle gerekli verileri saklıyoruz: seçtiğiniz dil ve testteki ilerlemeniz; böylece kaldığınız yerden devam edebilirsiniz. Bu veriler cihazınızda kalır.",
+      "Ödeme yaptığınızda ödeme sağlayıcımız Stripe, ödemeyi güvenli şekilde işlemek ve dolandırıcılığı önlemek için gerekli çerezleri yerleştirebilir.",
+      "Sorularınız mı var? {email} adresinden bize ulaşın."
+    ],
+    "refundTitle": "İade politikası",
+    "refundBody": [
+      "Bir rapor, test başına tek seferlik {price} ödemeyle sunulur. Abonelik ve otomatik yenileme yoktur.",
+      "Raporunuzu almadınız mı ya da bir sorun mu oluştu? Kullandığınız e-posta adresini belirterek 14 gün içinde {email} adresine yazın; raporunuzu yeniden gönderelim ya da ödemenizi iade edelim.",
+      "Rapor anında teslim edilen dijital içerik olduğundan, yasal cayma hakkı rapor gönderildiğinde sona erer. Yine de bir sorun olursa size her zaman yardımcı oluruz.",
+      "İadeler, 5–10 iş günü içinde orijinal ödeme yöntemine yapılır."
+    ]
+  }
+}

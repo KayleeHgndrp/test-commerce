@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Test psicologici gratuiti online",
+    "description": "Fai test approfonditi su personalità, attaccamento, carriera, ADHD, burnout e molto altro. Gratuiti, con un report personale dettagliato a soli {price}."
+  },
+  "nav": {
+    "tests": "Test",
+    "pricing": "Prezzi",
+    "faq": "FAQ",
+    "language": "Lingua",
+    "cta": "Inizia un test"
+  },
+  "home": {
+    "badge": "{count} test · {languages} lingue",
+    "heroTitle": "Conosci te stesso, un test alla volta",
+    "heroSubtitle": "Test approfonditi su personalità, relazioni, lavoro e benessere. 100 domande, circa 5 minuti e un report personale a soli {price}.",
+    "heroCta": "Scopri i nostri test",
+    "heroSecondary": "Come funziona",
+    "trust1": "Nessun account richiesto",
+    "trust2": "Pagamento unico, nessun abbonamento",
+    "trust3": "Report direttamente nella tua casella email",
+    "dimensionsTitle": "Sei più di un singolo punteggio: scopri ogni lato di te.",
+    "dimensionsSubtitle": "Le aree che i nostri test misurano più spesso, tra personalità, relazioni e benessere.",
+    "dimensions": [
+      "🎯 Concentrazione",
+      "🔋 Energia sociale",
+      "🌊 Reazione allo stress",
+      "💞 Attaccamento",
+      "⚖️ Decisioni",
+      "🧭 Valori",
+      "💡 Creatività",
+      "🪞 Consapevolezza di sé",
+      "🛡️ Resilienza"
+    ],
+    "testsTitle": "Scegli il tuo test",
+    "testsSubtitle": "Ogni test è gratuito. Scegli quello che ti incuriosisce di più.",
+    "howTitle": "Dalla prima domanda al report completo in tre passaggi",
+    "steps": [
+      {
+        "title": "Scegli un test",
+        "text": "Scegli dalla nostra raccolta di test di personalità, sulle relazioni e di screening, tutti basati su modelli psicologici consolidati."
+      },
+      {
+        "title": "Fai il test",
+        "text": "Rispondi a 100 domande su una scala semplice. La maggior parte dei test richiede circa 5 minuti e i tuoi progressi vengono salvati."
+      },
+      {
+        "title": "Leggi il tuo report",
+        "text": "Ricevi un report personale con i tuoi punteggi, il loro significato e consigli pratici, direttamente nella tua casella email."
+      }
+    ],
+    "pricingTitle": "Prezzi semplici",
+    "pricingSubtitle": "Un solo prezzo. Nessun abbonamento. Nessuna sorpresa.",
+    "planFreeName": "Fai il test",
+    "planFreePrice": "Gratis",
+    "planFreeFeatures": [
+      "Tutti i {count} test, gratuiti",
+      "100 domande, circa 5 minuti",
+      "Progressi salvati automaticamente",
+      "Anteprima immediata delle tue aree di risultato"
+    ],
+    "planReportName": "Report completo",
+    "planReportPrice": "{price}",
+    "planReportPer": "una tantum, per test",
+    "planReportFeatures": [
+      "Il tuo punteggio in ogni dimensione",
+      "Un'interpretazione personale di ogni punteggio",
+      "Consigli pratici da mettere subito in pratica",
+      "Nella tua casella email in pochi minuti",
+      "Nessun abbonamento, nessun rinnovo automatico"
+    ],
+    "planCta": "Prova ora",
+    "faqTitle": "Domande frequenti",
+    "faq": [
+      {
+        "q": "Che cos'è {site}?",
+        "a": "{site} è una piattaforma online con autovalutazioni approfondite su personalità, relazioni, lavoro e benessere. Puoi fare ogni test gratuitamente e ordinare un report personale dettagliato se vuoi saperne di più."
+      },
+      {
+        "q": "Quanto costa un test?",
+        "a": "Fare un test è gratuito. Il report personale dettagliato costa {price}, con un pagamento unico. Non c'è alcun abbonamento e non ti verrà mai addebitato nulla automaticamente."
+      },
+      {
+        "q": "Come ricevo il mio report?",
+        "a": "Dopo il pagamento, il report viene inviato all'indirizzo email che hai indicato, di solito entro un minuto. Non lo trovi? Controlla la cartella spam o promozioni."
+      },
+      {
+        "q": "Posso ripetere un test?",
+        "a": "Sì, tutte le volte che vuoi. Ripetere un test dopo qualche settimana è un ottimo modo per vedere cosa è cambiato. Ogni report è un acquisto singolo e separato."
+      },
+      {
+        "q": "È una diagnosi medica?",
+        "a": "No. I nostri test servono all'autoriflessione. Gli strumenti di screening, come il test sull'ADHD o sulla depressione, possono indicare se è opportuno parlare con un professionista, ma non sostituiscono mai la valutazione di uno specialista qualificato."
+      },
+      {
+        "q": "Come sono stati creati questi test?",
+        "a": "I nostri test si basano su modelli psicologici consolidati come i Big Five, il RIASEC e la teoria dell'attaccamento. I test su depressione e trauma includono anche i questionari di pubblico dominio PHQ-9 e PCL-5, valutati con i loro cut-off ufficiali."
+      },
+      {
+        "q": "I risultati possono essere poco affidabili?",
+        "a": "Ogni questionario ha un margine di errore e anche il tuo umore del giorno può influire. Rispondi con sincerità e senza pensarci troppo, e considera il risultato un punto di partenza per riflettere, non un verdetto definitivo."
+      },
+      {
+        "q": "I miei dati restano privati?",
+        "a": "Sì. Non serve un account. Le tue risposte vengono usate solo per calcolare il risultato e creare il report, e non vendiamo mai i tuoi dati."
+      }
+    ],
+    "ctaTitle": "Pronto a scoprire di più su di te?",
+    "ctaButton": "Scopri i nostri test"
+  },
+  "categories": {
+    "personality": "Personalità e tipo",
+    "relationships": "Relazioni ed emozioni",
+    "work": "Lavoro e valori",
+    "screeners": "Screening",
+    "wellbeing": "Benessere e abitudini"
+  },
+  "test": {
+    "start": "Inizia il test",
+    "questions": "{count} domande",
+    "minutes": "{count} min",
+    "free": "Gratis",
+    "aboutTitle": "Informazioni su questo test",
+    "whatYouGet": "Cosa include il tuo report",
+    "whatYouGet1": "Il tuo punteggio in ogni dimensione: {dimensions}",
+    "whatYouGet2": "Un'interpretazione personale di ogni punteggio",
+    "whatYouGet3": "Consigli pratici da mettere subito in pratica",
+    "otherTests": "Altri test popolari",
+    "question": "Domanda {current} di {total}",
+    "back": "Indietro",
+    "next": "Avanti",
+    "finish": "Vedi i miei risultati",
+    "chooseAnswer": "Scegli la risposta che ti descrive meglio.",
+    "resume": "Hai un test in sospeso. Vuoi riprendere da dove avevi lasciato?",
+    "resumeYes": "Riprendi",
+    "resumeNo": "Ricomincia",
+    "genderTitle": "Prima, una domanda veloce",
+    "genderQuestion": "Qual è il tuo genere?",
+    "genderMale": "Uomo",
+    "genderFemale": "Donna",
+    "genderOther": "Altro / preferisco non rispondere",
+    "screenerNote": "Questo test è uno strumento di screening, non una diagnosi."
+  },
+  "scales": {
+    "agree": [
+      "Fortemente in disaccordo",
+      "In disaccordo",
+      "Né d'accordo né in disaccordo",
+      "D'accordo",
+      "Fortemente d'accordo"
+    ],
+    "frequency": [
+      "Mai",
+      "Raramente",
+      "A volte",
+      "Spesso",
+      "Molto spesso"
+    ],
+    "phq": [
+      "Mai",
+      "Alcuni giorni",
+      "Per oltre la metà dei giorni",
+      "Quasi ogni giorno"
+    ],
+    "intensity": [
+      "Per niente",
+      "Un po'",
+      "Moderatamente",
+      "Molto",
+      "Estremamente"
+    ]
+  },
+  "levels": {
+    "low": "Basso",
+    "mid": "Medio",
+    "high": "Alto"
+  },
+  "result": {
+    "title": "I tuoi risultati sono pronti",
+    "subtitle": "Hai completato il test «{test}». Sblocca il tuo report personale completo per vedere i tuoi punteggi e cosa significano.",
+    "mainType": "Il tuo tipo principale",
+    "locked": "Bloccato",
+    "unlockTitle": "Ottieni il tuo report completo",
+    "unlockText": "Il tuo report dettagliato con tutti i punteggi, interpretazioni personali e consigli pratici, inviato alla tua email.",
+    "emailLabel": "Indirizzo email",
+    "emailPlaceholder": "tu@esempio.it",
+    "consent": "Accetto i termini e l'informativa sulla privacy.",
+    "buy": "Ottieni il mio report a {price}",
+    "secure": "Pagamento sicuro tramite Stripe. Pagamento unico, nessun abbonamento.",
+    "invalidEmail": "Inserisci un indirizzo email valido.",
+    "consentRequired": "Accetta i termini per continuare.",
+    "error": "Qualcosa è andato storto. Riprova.",
+    "noAnswers": "Non abbiamo trovato le tue risposte. Fai prima il test.",
+    "takeTest": "Fai il test",
+    "crisisTitle": "Non sei solo",
+    "crisisText": "Hai indicato di aver avuto pensieri di essere meglio morto o di farti del male. Ti preghiamo di parlarne con qualcuno oggi stesso. Se sei in pericolo immediato, chiama il 112. Puoi anche contattare a qualsiasi ora una linea di supporto per le crisi nel tuo Paese, come quelle elencate su findahelpline.com.",
+    "crisisLink": "Trova una linea di aiuto vicino a te"
+  },
+  "thanks": {
+    "title": "Grazie per il tuo acquisto!",
+    "text": "Il tuo report personale sta arrivando nella tua casella email. Di solito arriva entro un minuto.",
+    "spam": "Non l'hai ricevuto dopo 10 minuti? Controlla la cartella spam o promozioni, oppure scrivici a {email}.",
+    "more": "Scopri altri test"
+  },
+  "report": {
+    "subject": "Il tuo report: {test}",
+    "greeting": "Ciao,",
+    "intro": "Grazie per aver fatto il test «{test}» su {site}. Ecco il tuo report personale.",
+    "scoreLabel": "Il tuo punteggio",
+    "outro": "Speriamo che questo report ti offra spunti utili. Curioso di scoprire altri aspetti di te? Trovi tutti i nostri test su {url}.",
+    "signature": "Il team di {site}",
+    "instrumentLabel": "{name}: {score} su {max}",
+    "typeLabel": "Il tuo tipo"
+  },
+  "footer": {
+    "tagline": "Conosci meglio te stesso",
+    "about": "Test di autovalutazione approfonditi per chi vuole più di un'etichetta di quattro lettere.",
+    "company": "Azienda",
+    "home": "Home",
+    "help": "Aiuto",
+    "contact": "Contattaci",
+    "legal": "Note legali",
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini e condizioni",
+    "cookies": "Cookie policy",
+    "refund": "Politica di rimborso",
+    "rights": "© {year} {site}. Tutti i diritti riservati.",
+    "disclaimer": "{site} non è un servizio medico. Per problemi clinici, rivolgiti a un professionista abilitato."
+  },
+  "legal": {
+    "privacyTitle": "Informativa sulla privacy",
+    "privacyBody": [
+      "Raccogliamo solo i dati necessari per fornire il nostro servizio: le tue risposte ai test e, se acquisti un report, il tuo indirizzo email.",
+      "Le tue risposte vengono elaborate per calcolare il risultato. Quando acquisti un report, le tue risposte e il tuo indirizzo email vengono trasmessi al nostro fornitore di pagamenti Stripe e al nostro fornitore di servizi email, per elaborare il pagamento e consegnare il report.",
+      "Non vendiamo i tuoi dati e non li usiamo per scopi pubblicitari. Puoi chiederci in qualsiasi momento di cancellare i tuoi dati scrivendo a {email}.",
+      "I pagamenti sono gestiti da Stripe. Non vediamo né conserviamo mai i dati della tua carta."
+    ],
+    "termsTitle": "Termini di servizio",
+    "termsBody": [
+      "Tutti i test su {site} sono pensati per l'autoriflessione e l'intrattenimento. Non costituiscono una diagnosi medica, psicologica o professionale.",
+      "Fare un test è gratuito. Un report personale costa {price} per test, con pagamento unico. Il report viene consegnato in formato digitale via email.",
+      "Poiché il report è un contenuto digitale fornito subito dopo il pagamento, accetti che il diritto di recesso decada una volta inviato il report. Se non hai ricevuto il report, scrivi a {email} e te lo invieremo di nuovo o ti rimborseremo.",
+      "Facciamo del nostro meglio per mantenere i contenuti accurati, ma non possiamo garantire che i risultati siano completi o corretti per ogni persona."
+    ],
+    "cookiesTitle": "Cookie policy",
+    "cookiesBody": [
+      "{site} non utilizza cookie pubblicitari o di tracciamento.",
+      "Salviamo nel tuo browser solo i dati strettamente necessari: la lingua scelta e i tuoi progressi in un test, così puoi riprendere da dove avevi lasciato. Questi dati restano sul tuo dispositivo.",
+      "Quando paghi, il nostro fornitore di pagamenti Stripe può installare cookie necessari per elaborare il pagamento in modo sicuro e prevenire le frodi.",
+      "Domande? Scrivici a {email}."
+    ],
+    "refundTitle": "Politica di rimborso",
+    "refundBody": [
+      "Un report costa {price} per test, con pagamento unico. Non c'è alcun abbonamento né rinnovo automatico.",
+      "Non hai ricevuto il report o qualcosa è andato storto? Scrivi a {email} entro 14 giorni indicando l'indirizzo email che hai usato, e ti invieremo di nuovo il report o ti rimborseremo il pagamento.",
+      "Poiché il report è un contenuto digitale consegnato immediatamente, il diritto di recesso previsto dalla legge decade una volta inviato. Ti aiuteremo comunque sempre se qualcosa non va.",
+      "I rimborsi vengono effettuati sul metodo di pagamento originale entro 5–10 giorni lavorativi."
+    ]
+  }
+}

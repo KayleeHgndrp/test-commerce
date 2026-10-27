@@ -1,0 +1,206 @@
+{
+  "name": "Test dei 16 tipi di personalità",
+  "tagline": "Scopri il tuo tipo a quattro lettere e cosa dice di te.",
+  "intro": "Questo test ti colloca su quattro scale di preferenza: da dove trai energia, come raccogli le informazioni, come prendi le decisioni e come organizzi la tua vita. Le tue quattro preferenze si combinano in uno dei 16 tipi di personalità. Valuta 100 brevi affermazioni: ci vogliono circa cinque minuti.",
+  "seoTitle": "Test dei 16 tipi di personalità – Gratis",
+  "seoDescription": "Scopri il tuo tipo di personalità a quattro lettere in 5 minuti. Guarda le tue preferenze su ogni scala e leggi il ritratto del tuo tipo con consigli pratici.",
+  "items": [
+    "Ragiono meglio quando discuto le idee con altre persone.",
+    "Penso spesso a cosa potrebbe riservare il futuro.",
+    "Prendo le decisioni basandomi prima di tutto sulla logica.",
+    "Mi piace tenermi aperte più possibilità.",
+    "Mi fido più dei fatti che delle intuizioni.",
+    "Dopo del tempo in compagnia ho bisogno di solitudine per ricaricarmi.",
+    "Mi piace avere la giornata pianificata.",
+    "Valuto come le mie scelte influiscono sui sentimenti degli altri.",
+    "Conoscere persone nuove mi dà una carica.",
+    "Mi piace scoprire schemi e significati nascosti.",
+    "Do più valore all'onestà che al tatto.",
+    "Mi piace decidere le cose sul momento.",
+    "Noto piccoli dettagli che sfuggono agli altri.",
+    "Preferisco una conversazione profonda a tante chiacchiere leggere.",
+    "Provo sollievo quando una decisione è presa.",
+    "Mantenere la pace è importante per me.",
+    "Mi piace lavorare in uno spazio aperto e vivace.",
+    "I dettagli di routine mi annoiano.",
+    "Riesco a mantenere il distacco quando risolvo un conflitto.",
+    "Lavoro meglio sotto la pressione dell'ultimo minuto.",
+    "Preferisco istruzioni passo dopo passo.",
+    "Rifletto sulle cose prima di dirle.",
+    "Finisco i compiti con largo anticipo sulla scadenza.",
+    "Decido più con il cuore che con la testa.",
+    "Mi inserisco rapidamente in una conversazione.",
+    "Mi fido del mio istinto riguardo alle possibilità.",
+    "Mi piace analizzare in modo oggettivo pro e contro.",
+    "Gli orari rigidi mi stanno stretti.",
+    "Mi concentro su ciò che sta succedendo adesso.",
+    "Una serata tranquilla a casa è il mio ideale.",
+    "Mi piace sapere cosa aspettarmi.",
+    "Faccio fatica a criticare le persone che mi piacciono.",
+    "Stare tra la gente mi ricarica le batterie.",
+    "Mi piace immaginare come le cose potrebbero essere diverse.",
+    "Le regole dovrebbero valere per tutti allo stesso modo.",
+    "Spesso porto avanti più progetti contemporaneamente.",
+    "Mi piacciono le idee con un'utilità pratica chiara.",
+    "Tengo i miei pensieri per me finché non sono chiari.",
+    "Faccio liste e le rispetto.",
+    "La storia di un'altra persona mi commuove facilmente.",
+    "Mi piace avere un'ampia cerchia di amici.",
+    "Spesso leggo tra le righe.",
+    "Faccio notare i difetti di un piano senza esitare.",
+    "Mi piace vedere dove mi porta la giornata.",
+    "Ricordo bene fatti e numeri specifici.",
+    "La folla mi sfinisce in fretta.",
+    "Preferisco definire i programmi in anticipo.",
+    "Faccio eccezioni per le persone in situazioni difficili.",
+    "Spesso condivido i miei pensieri man mano che mi vengono.",
+    "Preferisco le teorie al lavoro pratico.",
+    "Mi convincono gli argomenti, non le emozioni.",
+    "Cambio programma facilmente quando salta fuori qualcosa di meglio.",
+    "Imparo meglio facendo le cose in pratica.",
+    "Preferisco lavorare in autonomia che in team.",
+    "Le questioni in sospeso mi mettono a disagio.",
+    "Voglio che tutti si sentano coinvolti in una decisione.",
+    "I fine settimana pieni di impegni mi rendono felice.",
+    "Mi piace parlare per metafore e immagini.",
+    "Preferisco avere ragione che piacere.",
+    "Rimando le decisioni finché non diventa inevitabile prenderle.",
+    "Preferisco metodi collaudati a quelli non sperimentati.",
+    "Nei gruppi lascio la parola agli altri.",
+    "Tengo aggiornato il mio calendario.",
+    "La tensione in un gruppo mi tocca profondamente.",
+    "Mi agito quando passo troppo tempo in solitudine.",
+    "Salto rapidamente al quadro generale.",
+    "Per me essere giusti significa essere coerenti.",
+    "Inizio molte cose e le finisco più tardi.",
+    "Descrivo le cose in modo letterale e preciso.",
+    "Preferisco scrivere un messaggio che fare una telefonata.",
+    "Mi piace completare un compito prima di iniziarne un altro.",
+    "La gentilezza conta più per me che avere ragione.",
+    "Mi piace socializzare agli eventi.",
+    "Le idee nuove mi entusiasmano più dei fatti concreti.",
+    "Mi riesce facile dare un feedback critico.",
+    "Preparo la valigia all'ultimissimo momento.",
+    "Voglio vedere delle prove prima di credere a qualcosa.",
+    "Ho una piccola cerchia di amici stretti.",
+    "Mi infastidisce quando i programmi cambiano all'ultimo minuto.",
+    "Spesso prendo sul personale le critiche al mio lavoro.",
+    "Attacco facilmente bottone con persone che non conosco.",
+    "Spesso salto le istruzioni e mi arrangio a modo mio.",
+    "Mi piace discutere per mettere alla prova le idee.",
+    "Le giornate senza programmi mi danno un senso di libertà.",
+    "Mi piacciono i compiti con risultati concreti e visibili.",
+    "Dopo una lunga giornata di riunioni non ho più energie.",
+    "Preferisco una struttura chiara nel mio lavoro.",
+    "Lascio che siano i miei valori a guidare le mie scelte.",
+    "Preferisco fare brainstorming in gruppo che riflettere per conto mio.",
+    "Mi attira ciò che è nuovo e non ancora sperimentato.",
+    "Giudico una soluzione da quanto bene funziona.",
+    "Adatto i miei programmi al mio umore.",
+    "Mi affido alla mia esperienza passata per risolvere i problemi.",
+    "A volte le persone all'inizio fanno fatica a capirmi.",
+    "Organizzo le vacanze con largo anticipo.",
+    "Preferisco incoraggiare che criticare.",
+    "Di solito prendo la parola prima degli altri.",
+    "Presto più attenzione al presente che al futuro.",
+    "Sul lavoro do più valore alla competenza che alla cordialità.",
+    "Mi piace chiudere subito le questioni in sospeso."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Estroversione vs. Introversione",
+      "short": "Se trai energia soprattutto dal mondo esterno fatto di persone e azione (E) o dal tuo mondo interiore fatto di pensieri e riflessione (I).",
+      "low": "Tendi verso l'Introversione (I). Ti ricarichi nella quiete, rifletti prima di parlare e preferisci poche conversazioni profonde a tanti scambi brevi. Spesso elabori le idee dentro di te e le condividi solo quando hanno preso forma. Le giornate piene di vita sociale possono lasciarti senza energie, anche se ti sono piaciute. Consiglio: pianifica del tempo di recupero dopo gli eventi sociali intensi e consideralo manutenzione, non fuga. In gruppo, prepara in anticipo i tuoi contributi o riprendili per iscritto dopo, così le tue idee verranno ascoltate.",
+      "mid": "Ti trovi vicino al centro tra Estroversione e Introversione, quindi la tua lettera potrebbe cambiare a seconda dell'umore o della situazione. Ti piacciono la compagnia e l'attività, ma hai anche bisogno di tempo per te per ricaricarti. Puoi ragionare ad alta voce con gli altri o riflettere in silenzio, a seconda del compito. Consiglio: osserva la tua energia dopo diversi tipi di giornate. Usa queste informazioni per costruire un ritmo settimanale che alterni contatti sociali e momenti di quiete nelle proporzioni giuste per te.",
+      "high": "Tendi verso l'Estroversione (E). Trai energia dalle persone, dalle conversazioni e dall'attività, e spesso ragioni meglio parlando. Ti lanci in fretta, sei una persona facile da avvicinare e ti trovi a tuo agio nei gruppi. Lunghi periodi in solitudine possono metterti addosso irrequietezza. Consiglio: prima di reagire in una discussione, fai una breve pausa e poni prima una domanda; lascia spazio alle persone più silenziose e affina il tuo stesso pensiero. Ritagliati brevi momenti di riflessione per elaborare ciò che vivi."
+    },
+    "sensing": {
+      "name": "Sensazione vs. Intuizione",
+      "short": "Se ti concentri soprattutto su fatti concreti, dettagli ed esperienza (S) o su schemi, possibilità e quadro generale (N).",
+      "low": "Tendi verso l'Intuizione (N). Cerchi spontaneamente significati, schemi e possibilità future, e ti piacciono le idee, le teorie e immaginare ciò che potrebbe essere. I dettagli di routine possono annoiarti e a volte salti dei passaggi per arrivare al quadro generale. Consiglio: quando condividi una visione, aggiungi esempi concreti e prossimi passi così che gli altri possano seguirti. Chiedi a un collega attento ai dettagli di verificare le lacune pratiche dei tuoi piani prima di impegnarti.",
+      "mid": "Ti trovi vicino al centro tra Sensazione e Intuizione, quindi la tua lettera può variare a seconda delle situazioni. Sai lavorare con fatti concreti e dettagli, ma ti piace anche esplorare idee e possibilità. Questo ti permette di fare da ponte tra le persone pratiche e i visionari. Consiglio: osserva quale modalità adotti in automatico sotto pressione. Nelle decisioni importanti verifica di proposito entrambe le cose: cosa dicono i fatti e quali nuove opzioni varrebbe la pena considerare?",
+      "high": "Tendi verso la Sensazione (S). Ti fidi dei fatti, dell'esperienza e di ciò che puoi vedere e verificare. Noti i dettagli, preferisci istruzioni chiare e apprezzi le idee con un'utilità pratica. Le persone contano sul tuo realismo e sulla tua precisione. Consiglio: quando qualcuno condivide idee astratte, concediti un momento prima di giudicarne la praticità; alcune potrebbero trasformarsi in qualcosa di utile. Ogni tanto prova a immaginare dove potrebbe portare una tendenza tra cinque anni, per allargare il tuo sguardo."
+    },
+    "thinking": {
+      "name": "Pensiero vs. Sentimento",
+      "short": "Se prendi le decisioni soprattutto attraverso la logica e l'analisi oggettiva (T) o attraverso i valori personali e l'impatto sulle persone (F).",
+      "low": "Tendi verso il Sentimento (F). Prendi le decisioni valutando i valori, le relazioni e il modo in cui le persone ne saranno toccate. Dai valore all'armonia, apprezzi la gentilezza e cogli in fretta ciò di cui gli altri hanno bisogno. Spesso le persone si sentono capite da te. Consiglio: quando una decisione è difficile, annota anche i pro e i contro oggettivi; può rendere la tua scelta più facile da spiegare. Ricorda che anche un feedback sincero, dato con calore, è una forma di cura.",
+      "mid": "Ti trovi vicino al centro tra Pensiero e Sentimento, quindi la tua lettera può cambiare a seconda delle situazioni. Quando decidi, valuti sia la logica sia l'impatto umano, e questo ti aiuta a trovare soluzioni giuste ed equilibrate. Consiglio: osserva se al lavoro ti appoggi alla logica e a casa ai sentimenti, o viceversa. Nelle decisioni chiave verifica consapevolmente entrambe le cose: è una scelta solida ed è giusta per le persone coinvolte?",
+      "high": "Tendi verso il Pensiero (T). Decidi in base alla logica, alla coerenza e all'analisi oggettiva. Per te essere giusti significa applicare le stesse regole a tutti, e sai dare feedback duri senza farti influenzare dalle emozioni. Consiglio: prima di esprimere una critica, riconosci l'impegno o l'intenzione dietro il lavoro di qualcuno. Chiediti come vivranno una decisione le persone coinvolte; spesso ne migliora l'accettazione senza indebolire il tuo ragionamento."
+    },
+    "judging": {
+      "name": "Giudizio vs. Percezione",
+      "short": "Se preferisci una vita pianificata, definita e strutturata (J) o una vita flessibile, aperta e spontanea (P).",
+      "low": "Tendi verso la Percezione (P). Ti piace tenere aperte le possibilità, adattarti strada facendo e decidere quando è necessario. Spesso lavori a ondate di energia e gli orari rigidi ti stanno stretti. Questo ti rende flessibile e ricco di risorse quando i piani cambiano. Consiglio: usa una struttura leggera per l'essenziale, per esempio un unico sistema di promemoria per le scadenze. Suddividi i grandi progetti in piccole tappe, così la corsa finale non diventa stressante.",
+      "mid": "Ti trovi vicino al centro tra Giudizio e Percezione, quindi la tua lettera può variare. Ti piace avere un piano, ma lo abbandoni facilmente quando salta fuori qualcosa di meglio. Riesci a rispettare le scadenze e a goderti comunque la spontaneità. Consiglio: osserva dove un po' più di pianificazione ridurrebbe lo stress, per esempio nei viaggi o con i soldi, e dove un po' più di flessibilità renderebbe tutto più divertente. Fai aggiustamenti consapevoli invece di andare in automatico.",
+      "high": "Tendi verso il Giudizio (J). Ti piace pianificare in anticipo, prendere decisioni e chiudere le questioni. Orari chiari, liste e scadenze ti danno un senso di controllo, e di solito finisci i compiti ben prima dell'ultimo minuto. Consiglio: lascia qualche spazio libero nei tuoi piani, così gli imprevisti non ti destabilizzano. Quando altre persone lavorano in modo più libero, concordate le scadenze principali e lasciate che scelgano come arrivarci."
+    }
+  },
+  "summary": "Il tuo tipo combina quattro preferenze: Estroversione o Introversione (E/I), Sensazione o Intuizione (S/N), Pensiero o Sentimento (T/F) e Giudizio o Percezione (J/P). Ogni scala mostra quanto tendi verso uno dei due lati; punteggi vicini al 50 % indicano che usi entrambi i lati in modo piuttosto flessibile. I tipi descrivono preferenze, non capacità, e nessun tipo è migliore di un altro.",
+  "types": {
+    "ISTJ": {
+      "name": "L'Ancora",
+      "text": "Ti distinguono stabilità, scrupolo e una profonda affidabilità. Rispetti i fatti, mantieni le promesse e affronti i compiti con metodo finché non sono fatti come si deve. Le persone contano su di te perché fai quello che dici. Preferisci aspettative chiare e metodi collaudati, e noti errori che sfuggono agli altri. La tua forza silenziosa tiene uniti team e famiglie. Consiglio per crescere: mantieni l'apertura verso nuovi approcci, anche quando il vecchio metodo funziona ancora; a volte un esperimento porta un vero miglioramento. Esprimi ad alta voce il tuo apprezzamento per gli altri, perché la tua lealtà non sempre si vede. Concediti del riposo senza doverlo prima guadagnare."
+    },
+    "ISFJ": {
+      "name": "Il Custode",
+      "text": "Ti distinguono premura, coscienziosità e una dedizione silenziosa. Ricordi ciò che conta per le persone, noti i loro bisogni e aiuti in modo concreto, spesso senza che te lo chiedano. Dai valore alla tradizione, alla stabilità e all'armonia, e ti impegni molto perché gli altri si sentano al sicuro e a proprio agio. La tua gentilezza è di quelle costanti, su cui le persone contano per anni. Consiglio per crescere: i tuoi bisogni meritano la stessa attenzione che dedichi agli altri, quindi esercitati a dire di no senza sensi di colpa. Parla quando qualcosa ti disturba invece di assorbirlo in silenzio. Lasciarti sostenere dagli altri rafforza le relazioni, non le appesantisce."
+    },
+    "INFJ": {
+      "name": "La Mente visionaria",
+      "text": "Unisci una profonda comprensione delle persone a un forte senso dello scopo. Percepisci le correnti sotterranee nelle relazioni, pensi a lungo termine e vuoi che la tua vita contribuisca a qualcosa di significativo. Sei una persona riservata ma calorosa, e chi lasci entrare si sente davvero visto. I tuoi ideali ti danno direzione e determinazione. Consiglio per crescere: i tuoi standard elevati possono trasformarsi in stanchezza o delusione quando la realtà non è all'altezza, quindi festeggia i progressi, non solo la perfezione. Condividi le tue idee prima, invece di aspettare che siano completamente definite. Proteggi la tua energia mettendo dei confini prima che il carico diventi eccessivo, non dopo."
+    },
+    "INTJ": {
+      "name": "Il Grande Stratega",
+      "text": "Ti distinguono indipendenza, spirito analitico e attenzione agli obiettivi di lungo periodo. Vedi come si incastrano i sistemi, individui in fretta le inefficienze e ti piace progettare modi migliori di fare le cose. Ti fidi del tuo ragionamento e sei pronto a seguire la tua strada per realizzare una visione. La tua determinazione può trasformare idee ambiziose in realtà. Consiglio per crescere: gli altri potrebbero non seguire la tua logica alla tua velocità, quindi spiega il tuo ragionamento passo dopo passo e chiedi un riscontro. Ricorda che anche i sentimenti delle persone sono dati. Concedi spazio a prime versioni imperfette: spesso il progresso batte un piano impeccabile che resta in attesa."
+    },
+    "ISTP": {
+      "name": "Il Mago del fai-da-te",
+      "text": "Ti distinguono calma, senso pratico e curiosità per come funzionano le cose. Ti piace capire i problemi con le mani, smontare le cose e trovare soluzioni efficienti. Nelle crisi mantieni il sangue freddo e agisci con decisione mentre gli altri stanno ancora parlando. Dai valore alla libertà e non ami le regole inutili o le riunioni lunghe. Consiglio per crescere: condividi più spesso i tuoi pensieri, perché il tuo silenzio può essere scambiato per disinteresse. Impegnati su qualche obiettivo di lungo periodo, così le tue tante abilità costruiscono qualcosa di più grande. Fai sapere alle persone vicine cosa provi: anche poche parole di apprezzamento hanno molto peso."
+    },
+    "ISFP": {
+      "name": "L'Anima artistica",
+      "text": "Ti distinguono sensibilità, gentilezza e un'attenzione speciale per la bellezza e il momento presente. Ti esprimi più con le azioni e la creatività che con le parole, e dai valore all'autenticità e alla libertà. Sei una persona tollerante, di mentalità aperta e leale verso le persone e le cause che ti stanno a cuore. La tua presenza delicata fa sentire gli altri accettati. Consiglio per crescere: potresti evitare i conflitti finché la frustrazione non si accumula, quindi esercitati a esprimere presto le piccole preoccupazioni. Trasforma i tuoi valori in qualche obiettivo concreto per dare una direzione ai tuoi talenti. Credi nel tuo lavoro abbastanza da mostrarlo agli altri: il tuo punto di vista merita di essere visto."
+    },
+    "INFP": {
+      "name": "Il Sognatore",
+      "text": "Ti distinguono idealismo, immaginazione e forti valori interiori che ti guidano. Cerchi un significato in tutto ciò che fai e tieni profondamente all'autenticità, in te e negli altri. Comprendi bene i sentimenti e spesso li esprimi attraverso la scrittura, l'arte o conversazioni profonde. Sei una persona gentile, di mentalità aperta e leale verso ciò in cui credi. Consiglio per crescere: i tuoi ideali sono una bussola, ma la realtà è raramente perfetta; fai piccoli passi concreti invece di aspettare il momento ideale. Riserva a te la stessa compassione che hai per gli altri. Condividi i tuoi sogni con persone che possono aiutarti a realizzarli."
+    },
+    "INTP": {
+      "name": "Il Risolutore di enigmi",
+      "text": "Ti distinguono logica, inventiva e una curiosità senza fine. Ami analizzare le idee, scovare le incoerenze e costruire teorie che spieghino come funzionano davvero le cose. Pensi in modo indipendente e ti piacciono le conversazioni profonde su temi complessi. La tua mente sa vedere soluzioni originali che sfuggono agli altri. Consiglio per crescere: le idee esprimono il loro potenziale quando vengono condivise e applicate, quindi datti piccole scadenze per finire e presentare il tuo lavoro. Fai attenzione ai dettagli pratici e a come si sentono gli altri: contano anche quando sembrano illogici. Entra in contatto con persone che condividono i tuoi interessi: daranno energia al tuo pensiero."
+    },
+    "ESTP": {
+      "name": "Lo Spirito libero",
+      "text": "Ti distinguono energia, audacia e orientamento all'azione. Vivi nel momento, leggi le situazioni in fretta e dai il meglio quando le cose si muovono veloci. Ti piacciono le sfide, corri rischi calcolati e risolvi i problemi pratici sul momento. Le persone sono attratte dalla tua sicurezza e dal tuo senso del divertimento. Consiglio per crescere: valuta le conseguenze a lungo termine prima di buttarti, soprattutto con i soldi e nelle relazioni. Esercita la pazienza con i processi più lenti e con le persone che hanno bisogno di più tempo per decidere. Considera come arriva il tuo stile diretto alle persone sensibili: un po' di tatto rende la tua influenza ancora più forte."
+    },
+    "ESFP": {
+      "name": "La Scintilla",
+      "text": "Ti distinguono vivacità, calore e amore per il divertimento. Porti energia in qualsiasi stanza, ti godi le persone e le esperienze e rendi speciali i momenti di tutti i giorni. Sei una persona pratica, generosa e pronta ad aiutare chi sta passando un momento difficile. Il tuo entusiasmo è contagioso e alle persone piace stare con te. Consiglio per crescere: pianificare può sembrarti noioso, ma un po' di struttura nelle finanze e negli obiettivi a lungo termine ti darà più libertà in futuro. Affronta le conversazioni difficili invece di distrarti. Prenditi qualche momento di quiete per riflettere su ciò che vuoi davvero, non solo su ciò che ti fa stare bene adesso."
+    },
+    "ENFP": {
+      "name": "L'Ispiratore",
+      "text": "Ti distinguono entusiasmo, creatività e una mente piena di possibilità. Entri facilmente in sintonia con le persone, vedi potenziale ovunque e ami avviare nuovi progetti e nuove conversazioni. Il tuo calore e la tua immaginazione incoraggiano gli altri a sognare più in grande. Dai valore alla libertà, all'autenticità e alle relazioni significative. Consiglio per crescere: le tue tante idee hanno bisogno di focus per diventare risultati, quindi scegli poche priorità e portale fino in fondo. Crea semplici routine per le attività pratiche che trovi noiose. Quando il tuo umore cala dopo l'entusiasmo di un nuovo inizio, ricorda che gran parte della vera soddisfazione sta nel portare avanti le cose con costanza."
+    },
+    "ENTP": {
+      "name": "L'Innovatore",
+      "text": "Ti distinguono prontezza di spirito, inventiva e amore per un buon dibattito. Vedi nuove angolazioni su vecchi problemi, metti in discussione i presupposti e ti piace sperimentare con le idee. Ti adatti in fretta e le sfide complesse e le persone brillanti ti danno energia. La tua curiosità ti spinge a migliorare quasi tutto ciò che tocchi. Consiglio per crescere: non tutte le discussioni vanno vinte e alcune persone vivono il dibattito come un conflitto, quindi leggi l'atmosfera. Porta a termine le tue idee migliori invece di passare troppo presto alla successiva. Fai squadra con persone attente ai dettagli che ti aiutino a trasformare i concetti in realtà."
+    },
+    "ESTJ": {
+      "name": "Il Capitano",
+      "text": "Ti distinguono organizzazione, decisione e senso pratico. Ti piacciono obiettivi chiari, processi efficienti e portare a termine le cose. Ti assumi le responsabilità in modo naturale, fissi standard elevati e fai in modo che i piani vengano realizzati. Le persone apprezzano la tua franchezza e la tua affidabilità. Consiglio per crescere: il tuo stile efficiente può sembrare controllante agli altri, quindi chiedi il loro parere prima di decidere e spiega il perché. Mantieni l'apertura verso nuovi metodi anche quando quello attuale funziona. Mostra apprezzamento per l'impegno delle persone, non solo per i loro risultati: il riconoscimento motiva quanto istruzioni chiare."
+    },
+    "ESFJ": {
+      "name": "Il Padrone di casa",
+      "text": "Ti distinguono socievolezza, premura e senso della comunità. Noti ciò di cui le persone hanno bisogno, le fai sentire benvenute e ti piace riunire gli altri. Dai valore all'armonia, alla lealtà e alla tradizione, e ti impegni davvero perché relazioni e gruppi funzionino senza intoppi. In tua presenza le persone si sentono accudite. Consiglio per crescere: potresti prendere sul personale critiche o conflitti, quindi ricordati che un disaccordo non è un rifiuto. Chiediti se stai aiutando perché lo desideri o perché senti di doverlo fare. Fai spazio ai tuoi bisogni e alle tue opinioni: contano quanto quelli di chiunque altro."
+    },
+    "ENFJ": {
+      "name": "Il Mentore",
+      "text": "Ti distinguono calore, capacità di ispirare e attenzione alla crescita delle persone. Sai leggere gli altri, ne fai emergere i punti di forza e riunisci i gruppi attorno a uno scopo comune. Comunichi con entusiasmo e convinzione, e ti senti responsabile del benessere di chi ti sta intorno. Le persone cercano spesso la tua guida. Consiglio per crescere: non puoi farti carico di tutti, quindi lascia che gli altri si prendano la responsabilità delle proprie scelte. Accorgiti di quando ti impegni troppo o trascuri i tuoi bisogni. Accetta che alcune persone non saranno d'accordo con te: il loro percorso diverso non dice nulla sul tuo valore."
+    },
+    "ENTJ": {
+      "name": "Il Comandante",
+      "text": "Ti distinguono sicurezza, visione strategica e una forte spinta a realizzare. Vedi il quadro generale, fissi obiettivi ambiziosi e organizzi persone e risorse per raggiungerli. Prendi decisioni in fretta, comunichi con chiarezza e non temi le sfide o le responsabilità. Gli altri guardano spesso a te come guida. Consiglio per crescere: la tua velocità e la tua franchezza possono travolgere le persone, quindi rallenta per ascoltare e riconoscere i sentimenti. Ricorda che la motivazione cresce quando le persone si sentono ascoltate, non solo dirette. Fai spazio al riposo e alle relazioni: il successo a lungo termine dipende da più che dai soli risultati."
+    }
+  }
+}

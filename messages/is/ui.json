@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Ókeypis sálfræðipróf á netinu",
+    "description": "Taktu ítarleg próf um persónuleika, tengslamynstur, starfsferil, ADHD, kulnun og fleira. Ókeypis að taka, með ítarlegri persónulegri skýrslu fyrir aðeins {price}."
+  },
+  "nav": {
+    "tests": "Próf",
+    "pricing": "Verð",
+    "faq": "Algengar spurningar",
+    "language": "Tungumál",
+    "cta": "Byrja próf"
+  },
+  "home": {
+    "badge": "{count} próf · {languages} tungumál",
+    "heroTitle": "Kynnstu sjálfum þér, eitt próf í einu",
+    "heroSubtitle": "Ítarleg próf um persónuleika, sambönd, vinnu og vellíðan. 100 spurningar, um 5 mínútur og persónuleg skýrsla fyrir aðeins {price}.",
+    "heroCta": "Skoðaðu prófin okkar",
+    "heroSecondary": "Svona virkar þetta",
+    "trust1": "Enginn aðgangur nauðsynlegur",
+    "trust2": "Eingreiðsla, engin áskrift",
+    "trust3": "Skýrslan beint í pósthólfið þitt",
+    "dimensionsTitle": "Þú ert meira en ein einkunn — sjáðu allar hliðar þínar.",
+    "dimensionsSubtitle": "Þau svið sem prófin okkar mæla oftast, þvert á persónuleika, sambönd og vellíðan.",
+    "dimensions": [
+      "🎯 Einbeiting",
+      "🔋 Félagsleg orka",
+      "🌊 Streituviðbrögð",
+      "💞 Tengslamyndun",
+      "⚖️ Ákvarðanir",
+      "🧭 Gildi",
+      "💡 Sköpunargáfa",
+      "🪞 Sjálfsþekking",
+      "🛡️ Seigla"
+    ],
+    "testsTitle": "Veldu þitt próf",
+    "testsSubtitle": "Öll prófin eru ókeypis. Veldu það sem höfðar til þín.",
+    "howTitle": "Frá fyrstu spurningu að fullri skýrslu í þremur skrefum",
+    "steps": [
+      {
+        "title": "Veldu próf",
+        "text": "Veldu úr safni okkar af persónuleikaprófum, sambandsprófum og skimunarprófum, sem öll byggja á viðurkenndum sálfræðilíkönum."
+      },
+      {
+        "title": "Taktu prófið",
+        "text": "Svaraðu 100 spurningum á einföldum kvarða. Flest próf taka um 5 mínútur og framvindan þín er vistuð."
+      },
+      {
+        "title": "Lestu skýrsluna",
+        "text": "Fáðu persónulega skýrslu með niðurstöðum þínum, hvað þær þýða og hagnýtum ráðum, beint í pósthólfið þitt."
+      }
+    ],
+    "pricingTitle": "Einföld verðlagning",
+    "pricingSubtitle": "Eitt verð. Engin áskrift. Engar óvæntar uppákomur.",
+    "planFreeName": "Taka prófið",
+    "planFreePrice": "Ókeypis",
+    "planFreeFeatures": [
+      "Öll {count} prófin, ókeypis",
+      "100 spurningar, um 5 mínútur",
+      "Framvinda vistuð sjálfkrafa",
+      "Tafarlaus forsýn á niðurstöðusviðin þín"
+    ],
+    "planReportName": "Full skýrsla",
+    "planReportPrice": "{price}",
+    "planReportPer": "eingreiðsla, á hvert próf",
+    "planReportFeatures": [
+      "Einkunn þín á hverjum þætti",
+      "Persónuleg túlkun á hverri einkunn",
+      "Hagnýt ráð sem þú getur nýtt strax",
+      "Send í pósthólfið þitt innan nokkurra mínútna",
+      "Engin áskrift, engin sjálfvirk endurnýjun"
+    ],
+    "planCta": "Prófaðu núna",
+    "faqTitle": "Algengar spurningar",
+    "faq": [
+      {
+        "q": "Hvað er {site}?",
+        "a": "{site} er vefsvæði með ítarlegum sjálfsprófum um persónuleika, sambönd, vinnu og vellíðan. Þú getur tekið öll prófin ókeypis og pantað ítarlega persónulega skýrslu ef þú vilt vita meira."
+      },
+      {
+        "q": "Hvað kostar próf?",
+        "a": "Það er ókeypis að taka próf. Ítarlega persónulega skýrslan kostar {price}, greitt einu sinni. Engin áskrift er í boði og þú verður aldrei rukkaður sjálfkrafa aftur."
+      },
+      {
+        "q": "Hvernig fæ ég skýrsluna mína?",
+        "a": "Eftir greiðslu er skýrslan send á netfangið sem þú gafst upp, yfirleitt innan mínútu. Finnurðu hana ekki? Athugaðu ruslpóstsmöppuna eða kynningarmöppuna."
+      },
+      {
+        "q": "Get ég tekið próf aftur?",
+        "a": "Já, eins oft og þú vilt. Að taka próf aftur eftir nokkrar vikur er góð leið til að sjá hvað hefur breyst. Hver skýrsla er sérstök eingreiðslukaup."
+      },
+      {
+        "q": "Er þetta læknisfræðileg greining?",
+        "a": "Nei. Prófin okkar eru ætluð til sjálfsskoðunar. Skimunarpróf eins og ADHD- eða þunglyndisprófið geta gefið til kynna hvort skynsamlegt sé að ræða við fagaðila, en þau koma aldrei í stað mats hjá menntuðum fagaðila."
+      },
+      {
+        "q": "Hvernig voru prófin búin til?",
+        "a": "Prófin okkar byggja á viðurkenndum sálfræðilíkönum eins og fimm þátta líkaninu (Big Five), RIASEC og tengslakenningunni. Þunglyndis- og áfallaprófin innihalda einnig spurningalistana PHQ-9 og PCL-5, sem eru öllum frjálsir til notkunar, og eru metnir samkvæmt opinberum viðmiðunarmörkum."
+      },
+      {
+        "q": "Geta niðurstöðurnar verið óáreiðanlegar?",
+        "a": "Allir spurningalistar hafa skekkjumörk og dagsformið getur líka haft áhrif. Svaraðu heiðarlega og án þess að hugsa of mikið, og líttu á niðurstöðuna sem upphafspunkt til íhugunar frekar en endanlegan dóm."
+      },
+      {
+        "q": "Verða gögnin mín áfram trúnaðarmál?",
+        "a": "Já. Þú þarft engan aðgang. Svörin þín eru eingöngu notuð til að reikna niðurstöðuna og búa til skýrsluna, og við seljum aldrei gögnin þín."
+      }
+    ],
+    "ctaTitle": "Tilbúin(n) að uppgötva meira um sjálfa(n) þig?",
+    "ctaButton": "Skoðaðu prófin okkar"
+  },
+  "categories": {
+    "personality": "Persónuleiki og manngerð",
+    "relationships": "Sambönd og tilfinningar",
+    "work": "Vinna og gildi",
+    "screeners": "Skimunarpróf",
+    "wellbeing": "Vellíðan og venjur"
+  },
+  "test": {
+    "start": "Byrja prófið",
+    "questions": "{count} spurningar",
+    "minutes": "{count} mín.",
+    "free": "Ókeypis",
+    "aboutTitle": "Um þetta próf",
+    "whatYouGet": "Það sem skýrslan inniheldur",
+    "whatYouGet1": "Einkunn þín á hverjum þætti: {dimensions}",
+    "whatYouGet2": "Persónuleg túlkun á hverri einkunn",
+    "whatYouGet3": "Hagnýt ráð sem þú getur nýtt strax",
+    "otherTests": "Önnur vinsæl próf",
+    "question": "Spurning {current} af {total}",
+    "back": "Til baka",
+    "next": "Áfram",
+    "finish": "Sjá niðurstöðurnar mínar",
+    "chooseAnswer": "Veldu svarið sem á best við þig.",
+    "resume": "Þú átt ólokið próf. Viltu halda áfram þar sem frá var horfið?",
+    "resumeYes": "Halda áfram",
+    "resumeNo": "Byrja upp á nýtt",
+    "genderTitle": "Fyrst, ein stutt spurning",
+    "genderQuestion": "Hvert er kyn þitt?",
+    "genderMale": "Karl",
+    "genderFemale": "Kona",
+    "genderOther": "Annað / vil ekki svara",
+    "screenerNote": "Þetta próf er skimunartæki, ekki greining."
+  },
+  "scales": {
+    "agree": [
+      "Mjög ósammála",
+      "Ósammála",
+      "Hvorki sammála né ósammála",
+      "Sammála",
+      "Mjög sammála"
+    ],
+    "frequency": [
+      "Aldrei",
+      "Sjaldan",
+      "Stundum",
+      "Oft",
+      "Mjög oft"
+    ],
+    "phq": [
+      "Alls ekki",
+      "Nokkra daga",
+      "Meira en helming daganna",
+      "Nánast alla daga"
+    ],
+    "intensity": [
+      "Alls ekki",
+      "Lítillega",
+      "Í meðallagi",
+      "Talsvert",
+      "Mjög mikið"
+    ]
+  },
+  "levels": {
+    "low": "Lágt",
+    "mid": "Miðlungs",
+    "high": "Hátt"
+  },
+  "result": {
+    "title": "Niðurstöðurnar þínar eru tilbúnar",
+    "subtitle": "Þú hefur lokið prófinu {test}. Opnaðu fulla persónulega skýrslu til að sjá einkunnir þínar og hvað þær þýða.",
+    "mainType": "Aðalmanngerð þín",
+    "locked": "Læst",
+    "unlockTitle": "Fáðu fulla skýrslu",
+    "unlockText": "Ítarleg skýrsla með öllum einkunnum, persónulegum túlkunum og hagnýtum ráðum, send á netfangið þitt.",
+    "emailLabel": "Netfang",
+    "emailPlaceholder": "thu@daemi.is",
+    "consent": "Ég samþykki skilmálana og persónuverndarstefnuna.",
+    "buy": "Fá skýrsluna fyrir {price}",
+    "secure": "Örugg greiðsla í gegnum Stripe. Eingreiðsla, engin áskrift.",
+    "invalidEmail": "Sláðu inn gilt netfang.",
+    "consentRequired": "Samþykktu skilmálana til að halda áfram.",
+    "error": "Eitthvað fór úrskeiðis. Reyndu aftur.",
+    "noAnswers": "Við fundum ekki svörin þín. Taktu prófið fyrst.",
+    "takeTest": "Taka prófið",
+    "crisisTitle": "Þú ert ekki ein(n)",
+    "crisisText": "Þú gafst til kynna að þú hafir haft hugsanir um að þú værir betur sett(ur) dáin(n) eða um að skaða sjálfa(n) þig. Talaðu við einhvern í dag. Ef þú ert í bráðri hættu skaltu hringja í 112. Þú getur líka haft samband við hjálparsíma í þínu landi, til dæmis þá sem eru skráðir á findahelpline.com, hvenær sem er sólarhringsins.",
+    "crisisLink": "Finndu hjálparsíma nálægt þér"
+  },
+  "thanks": {
+    "title": "Takk fyrir kaupin!",
+    "text": "Persónulega skýrslan þín er á leið í pósthólfið þitt. Hún berst yfirleitt innan mínútu.",
+    "spam": "Ekki borist eftir 10 mínútur? Athugaðu ruslpóstsmöppuna eða kynningarmöppuna, eða hafðu samband við okkur á {email}.",
+    "more": "Uppgötvaðu fleiri próf"
+  },
+  "report": {
+    "subject": "Skýrslan þín: {test}",
+    "greeting": "Halló,",
+    "intro": "Takk fyrir að taka prófið {test} á {site}. Hér er persónulega skýrslan þín.",
+    "scoreLabel": "Einkunn þín",
+    "outro": "Við vonum að skýrslan gefi þér gagnlega innsýn. Forvitin(n) um aðrar hliðar á sjálfri/sjálfum þér? Skoðaðu öll prófin okkar á {url}.",
+    "signature": "Teymið hjá {site}",
+    "instrumentLabel": "{name}: {score} af {max}",
+    "typeLabel": "Manngerð þín"
+  },
+  "footer": {
+    "tagline": "Kynnstu sjálfum þér betur",
+    "about": "Ítarleg sjálfspróf fyrir fólk sem vill meira en fjögurra stafa merkimiða.",
+    "company": "Fyrirtækið",
+    "home": "Forsíða",
+    "help": "Hjálp",
+    "contact": "Hafðu samband",
+    "legal": "Lagalegt",
+    "privacy": "Persónuverndarstefna",
+    "terms": "Skilmálar",
+    "cookies": "Vafrakökustefna",
+    "refund": "Endurgreiðslustefna",
+    "rights": "© {year} {site}. Allur réttur áskilinn.",
+    "disclaimer": "{site} er ekki heilbrigðisþjónusta. Ef þú hefur klínískar áhyggjur skaltu leita til löggilts fagaðila."
+  },
+  "legal": {
+    "privacyTitle": "Persónuverndarstefna",
+    "privacyBody": [
+      "Við söfnum aðeins þeim gögnum sem þarf til að veita þjónustuna: svörum þínum við prófinu og, ef þú kaupir skýrslu, netfanginu þínu.",
+      "Svörin þín eru unnin til að reikna út niðurstöðuna. Þegar þú kaupir skýrslu eru svörin þín og netfang send til greiðsluþjónustuaðila okkar, Stripe, og tölvupóstþjónustuaðila okkar til að vinna úr greiðslunni og afhenda skýrsluna.",
+      "Við seljum ekki gögnin þín og notum þau ekki í auglýsingaskyni. Þú getur hvenær sem er beðið okkur um að eyða gögnunum þínum með því að hafa samband á {email}.",
+      "Stripe sér um greiðslur. Við sjáum hvorki né geymum kortaupplýsingarnar þínar."
+    ],
+    "termsTitle": "Notkunarskilmálar",
+    "termsBody": [
+      "Öll próf á {site} eru ætluð til sjálfsskoðunar og skemmtunar. Þau eru ekki læknisfræðileg, sálfræðileg eða fagleg greining.",
+      "Það er ókeypis að taka próf. Persónuleg skýrsla kostar {price} fyrir hvert próf sem eingreiðsla. Skýrslan er afhent rafrænt með tölvupósti.",
+      "Þar sem skýrslan er stafrænt efni sem er afhent strax eftir greiðslu samþykkir þú að réttur til að falla frá samningi falli niður þegar skýrslan hefur verið send. Ef þú fékkst ekki skýrsluna skaltu hafa samband á {email} og við sendum hana aftur eða endurgreiðum þér.",
+      "Við gerum okkar besta til að efnið sé rétt, en við getum ekki ábyrgst að niðurstöðurnar séu tæmandi eða réttar fyrir alla."
+    ],
+    "cookiesTitle": "Vafrakökustefna",
+    "cookiesBody": [
+      "{site} notar hvorki auglýsinga- né rakningarkökur.",
+      "Við geymum aðeins bráðnauðsynleg gögn í vafranum þínum: tungumálið sem þú valdir og framvindu þína í prófi, svo þú getir haldið áfram þar sem frá var horfið. Þessi gögn haldast á tækinu þínu.",
+      "Þegar þú greiðir kann greiðsluþjónustuaðili okkar, Stripe, að vista vafrakökur sem nauðsynlegar eru til að vinna úr greiðslunni á öruggan hátt og koma í veg fyrir svik.",
+      "Spurningar? Hafðu samband við okkur á {email}."
+    ],
+    "refundTitle": "Endurgreiðslustefna",
+    "refundBody": [
+      "Skýrsla kostar {price} fyrir hvert próf sem eingreiðsla. Engin áskrift og engin sjálfvirk endurnýjun.",
+      "Fékkstu ekki skýrsluna eða fór eitthvað úrskeiðis? Hafðu samband á {email} innan 14 daga og tilgreindu netfangið sem þú notaðir, og við sendum skýrsluna aftur eða endurgreiðum þér.",
+      "Þar sem skýrslan er stafrænt efni sem er afhent strax fellur lögbundinn réttur til að falla frá samningi niður þegar hún hefur verið send. Við munum samt alltaf aðstoða þig ef eitthvað er ekki í lagi.",
+      "Endurgreiðslur eru lagðar inn á upphaflegan greiðslumáta innan 5–10 virkra daga."
+    ]
+  }
+}

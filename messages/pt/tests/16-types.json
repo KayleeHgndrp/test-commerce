@@ -1,0 +1,206 @@
+{
+  "name": "Teste dos 16 Tipos de Personalidade",
+  "tagline": "Descobre o teu tipo de quatro letras e o que diz sobre ti.",
+  "intro": "Este teste situa-te em quatro escalas de preferência: de onde tiras a tua energia, como recolhes informação, como tomas decisões e como organizas a tua vida. As tuas quatro preferências combinam-se num de 16 tipos de personalidade. Avalia 100 afirmações curtas; demora cerca de cinco minutos.",
+  "seoTitle": "Teste dos 16 Tipos de Personalidade – Grátis",
+  "seoDescription": "Descobre o teu tipo de personalidade de quatro letras em 5 minutos. Vê as tuas preferências em cada escala e lê o retrato do teu tipo com dicas práticas.",
+  "items": [
+    "Penso melhor quando discuto as ideias com outras pessoas.",
+    "Penso muitas vezes no que o futuro pode trazer.",
+    "Tomo decisões baseando-me primeiro na lógica.",
+    "Gosto de manter as minhas opções em aberto.",
+    "Confio mais em factos do que em palpites.",
+    "Depois de estar com pessoas, preciso de tempo a sós para recarregar.",
+    "Gosto de ter o meu dia planeado.",
+    "Pondero como as minhas escolhas afetam os sentimentos dos outros.",
+    "Conhecer pessoas novas dá-me energia.",
+    "Gosto de descobrir padrões e significados escondidos.",
+    "Valorizo mais a honestidade do que o tato.",
+    "Gosto de decidir as coisas no momento.",
+    "Reparo em pequenos pormenores que os outros não veem.",
+    "Prefiro uma conversa profunda a muitas conversas leves.",
+    "Sinto alívio quando uma decisão fica tomada.",
+    "Manter a paz é importante para mim.",
+    "Gosto de trabalhar num espaço aberto e animado.",
+    "Os pormenores de rotina aborrecem-me.",
+    "Consigo manter o distanciamento quando resolvo um conflito.",
+    "Trabalho melhor sob a pressão da última hora.",
+    "Prefiro instruções passo a passo.",
+    "Penso bem nas coisas antes de as dizer.",
+    "Termino as tarefas bem antes do prazo.",
+    "Decido mais com o coração do que com a cabeça.",
+    "Entro rapidamente numa conversa.",
+    "Confio no meu instinto quanto ao que é possível.",
+    "Gosto de analisar os prós e os contras de forma objetiva.",
+    "Os horários rígidos fazem-me sentir limitação.",
+    "Concentro-me no que está a acontecer agora.",
+    "Uma noite tranquila em casa é o meu ideal.",
+    "Gosto de saber com o que posso contar.",
+    "Tenho dificuldade em criticar pessoas de quem gosto.",
+    "Estar com pessoas recarrega-me as baterias.",
+    "Gosto de imaginar como as coisas poderiam ser diferentes.",
+    "As regras devem aplicar-se a todos da mesma forma.",
+    "Muitas vezes tenho vários projetos em mãos ao mesmo tempo.",
+    "Gosto de ideias com uma utilidade prática clara.",
+    "Guardo os meus pensamentos para mim até estarem claros.",
+    "Faço listas e cumpro-as.",
+    "A história de outra pessoa comove-me facilmente.",
+    "Gosto de ter um círculo de amigos alargado.",
+    "Muitas vezes leio nas entrelinhas.",
+    "Aponto falhas nos planos sem hesitar.",
+    "Gosto de ver para onde o dia me leva.",
+    "Lembro-me bem de factos e números concretos.",
+    "As multidões esgotam-me depressa.",
+    "Prefiro fechar os planos com antecedência.",
+    "Abro exceções para pessoas em situações difíceis.",
+    "Costumo partilhar os meus pensamentos à medida que surgem.",
+    "Prefiro teorias a trabalho prático.",
+    "Convencem-me argumentos, não emoções.",
+    "Mudo de planos com facilidade quando surge algo melhor.",
+    "Aprendo melhor pondo as mãos na massa.",
+    "Prefiro trabalhar a solo a trabalhar em equipa.",
+    "Assuntos por resolver deixam-me desconfortável.",
+    "Quero que todos se sintam incluídos numa decisão.",
+    "Fins de semana cheios de planos fazem-me feliz.",
+    "Gosto de falar através de metáforas e imagens.",
+    "Prefiro ter razão a agradar.",
+    "Adio as decisões até ter mesmo de as tomar.",
+    "Prefiro métodos comprovados a métodos por testar.",
+    "Em grupo, deixo os outros tomar a palavra.",
+    "Mantenho a minha agenda atualizada.",
+    "A tensão num grupo afeta-me profundamente.",
+    "Sinto inquietação quando passo demasiado tempo sem companhia.",
+    "Salto rapidamente para a visão de conjunto.",
+    "Para mim, justo significa coerente.",
+    "Começo muitas coisas e termino-as mais tarde.",
+    "Descrevo as coisas de forma literal e precisa.",
+    "Prefiro enviar uma mensagem a fazer um telefonema.",
+    "Gosto de terminar uma tarefa antes de começar outra.",
+    "A gentileza importa-me mais do que ter razão.",
+    "Gosto de circular e conversar em eventos.",
+    "As ideias novas entusiasmam-me mais do que os factos práticos.",
+    "Acho fácil dar feedback crítico.",
+    "Faço a mala no último momento.",
+    "Quero ver provas antes de acreditar em algo.",
+    "Tenho um pequeno círculo de amigos próximos.",
+    "Irrita-me quando os planos mudam à última hora.",
+    "Muitas vezes levo a peito as críticas ao meu trabalho.",
+    "Meto conversa facilmente com pessoas que não conheço.",
+    "Muitas vezes salto as instruções e descubro por mim como funciona.",
+    "Gosto de debater para pôr ideias à prova.",
+    "Dias sem nada marcado dão-me uma sensação de liberdade.",
+    "Gosto de tarefas com resultados concretos e visíveis.",
+    "Um longo dia de reuniões deixa-me sem energia.",
+    "Prefiro uma estrutura clara no meu trabalho.",
+    "Confio nos meus valores para orientar as minhas escolhas.",
+    "Prefiro fazer brainstorming em grupo a pensar a sós.",
+    "Sinto atração pelo que é novo e ainda não foi testado.",
+    "Avalio uma solução pela forma como funciona.",
+    "Adapto os meus planos ao meu estado de espírito.",
+    "Recorro à minha experiência passada para resolver problemas.",
+    "Às vezes, as pessoas acham-me difícil de decifrar ao início.",
+    "Organizo as minhas férias com bastante antecedência.",
+    "Prefiro encorajar a criticar.",
+    "Costumo estar entre os primeiros a falar.",
+    "Presto mais atenção ao presente do que ao futuro.",
+    "No trabalho, valorizo a competência acima da simpatia.",
+    "Gosto de resolver rapidamente os assuntos pendentes."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Extroversão vs. Introversão",
+      "short": "Se tiras energia sobretudo do mundo exterior das pessoas e da ação (E) ou do teu mundo interior de pensamentos e reflexão (I).",
+      "low": "Tendes para a Introversão (I). Recarregas no sossego, pensas antes de falar e preferes poucas conversas profundas a muitas conversas breves. Muitas vezes processas as ideias interiormente e partilha-las quando já estão bem formadas. Dias sociais muito preenchidos podem deixar-te cansado, mesmo que tenhas gostado. Dica: planeia tempo de recuperação depois de eventos sociais intensos e encara-o como manutenção, não como fuga. Em grupo, prepara os teus contributos com antecedência ou dá seguimento por escrito, para que as tuas ideias sejam ouvidas.",
+      "mid": "Situas-te perto do meio entre Extroversão e Introversão, por isso a tua letra pode mudar consoante o estado de espírito ou a situação. Gostas de companhia e de atividade, mas também precisas de tempo a sós para recarregar. Consegues pensar em voz alta com outras pessoas ou refletir em silêncio, conforme a tarefa. Dica: observa a tua energia depois de diferentes tipos de dias. Usa esse conhecimento para criar um ritmo semanal que misture contacto social e tempo tranquilo nas proporções que te convêm.",
+      "high": "Tendes para a Extroversão (E). Ganhas energia com pessoas, conversas e atividade, e muitas vezes pensas melhor falando sobre as coisas. Envolves-te depressa, és uma pessoa acessível e sentes-te à vontade em grupo. Longos períodos a sós podem deixar-te inquieto. Dica: antes de reagires numa discussão, faz uma pequena pausa e começa por fazer uma pergunta; isso dá espaço às pessoas mais caladas e afina o teu próprio raciocínio. Reserva breves momentos de reflexão para processares o que vives."
+    },
+    "sensing": {
+      "name": "Sensação vs. Intuição",
+      "short": "Se te focas sobretudo em factos concretos, pormenores e experiência (S) ou em padrões, possibilidades e na visão de conjunto (N).",
+      "low": "Tendes para a Intuição (N). Procuras naturalmente significado, padrões e possibilidades futuras, e gostas de ideias, teorias e de imaginar o que poderia ser. Os pormenores de rotina podem aborrecer-te, e às vezes saltas etapas para chegar à visão de conjunto. Dica: quando partilhas uma visão, acrescenta exemplos concretos e próximos passos para que os outros te possam acompanhar. Pede a um colega atento aos pormenores que verifique se os teus planos têm lacunas práticas antes de te comprometeres.",
+      "mid": "Situas-te perto do meio entre Sensação e Intuição, por isso a tua letra pode variar de situação para situação. Consegues trabalhar com factos concretos e pormenores, mas também gostas de explorar ideias e possibilidades. Isto permite-te fazer a ponte entre pessoas práticas e visionárias. Dica: repara em que modo cais por defeito quando estás sob pressão. Nas decisões importantes, verifica deliberadamente as duas coisas: o que dizem os factos e que novas opções podem valer a pena considerar?",
+      "high": "Tendes para a Sensação (S). Confias em factos, na experiência e no que podes ver e testar. Reparas nos pormenores, preferes instruções claras e gostas de ideias com utilidade prática. As pessoas contam com o teu realismo e a tua precisão. Dica: quando outros partilham ideias abstratas, dá-lhes um momento antes de julgares se são práticas; algumas podem tornar-se em algo útil. De vez em quando, tenta imaginar onde uma tendência pode levar daqui a cinco anos para alargares a tua perspetiva."
+    },
+    "thinking": {
+      "name": "Pensamento vs. Sentimento",
+      "short": "Se tomas decisões sobretudo através da lógica e da análise objetiva (T) ou dos valores pessoais e do impacto nas pessoas (F).",
+      "low": "Tendes para o Sentimento (F). Tomas decisões pesando valores, relações e a forma como as pessoas serão afetadas. Valorizas a harmonia, aprecias a gentileza e percebes depressa aquilo de que os outros precisam. As pessoas sentem muitas vezes que as compreendes. Dica: quando uma decisão é difícil, escreve também os prós e os contras objetivos; isso pode tornar a tua escolha mais fácil de explicar. Lembra-te de que um feedback honesto, dado com carinho, também é uma forma de cuidar.",
+      "mid": "Situas-te perto do meio entre Pensamento e Sentimento, por isso a tua letra pode variar consoante a situação. Quando decides, pesas tanto a lógica como o impacto humano, o que te ajuda a encontrar soluções justas e equilibradas. Dica: repara se te apoias na lógica no trabalho e nos sentimentos em casa, ou ao contrário. Nas decisões importantes, verifica conscientemente as duas coisas: é sólido e é justo para as pessoas envolvidas?",
+      "high": "Tendes para o Pensamento (T). Decides com base na lógica, na coerência e na análise objetiva. Valorizas a justiça no sentido de aplicar as mesmas regras a todos e consegues dar feedback duro sem te deixares levar pela emoção. Dica: antes de fazeres uma crítica, reconhece o esforço ou a intenção por trás do trabalho da pessoa. Pergunta-te como uma decisão vai ser sentida pelas pessoas afetadas; isso melhora muitas vezes a aceitação sem enfraquecer o teu raciocínio."
+    },
+    "judging": {
+      "name": "Julgamento vs. Perceção",
+      "short": "Se preferes uma vida planeada, decidida e estruturada (J) ou uma vida flexível, aberta e espontânea (P).",
+      "low": "Tendes para a Perceção (P). Gostas de manter as opções em aberto, de te adaptar pelo caminho e de decidir quando tem de ser. Muitas vezes trabalhas em picos de energia e sentes-te encurralado por horários rígidos. Isto torna-te flexível e cheio de recursos quando os planos mudam. Dica: usa uma estrutura leve para o essencial, como um único sistema de lembretes de prazos. Divide os grandes projetos em pequenas etapas para que a corrida final não se torne stressante.",
+      "mid": "Situas-te perto do meio entre Julgamento e Perceção, por isso a tua letra pode variar. Gostas de ter um plano, mas consegues largá-lo facilmente quando surge algo melhor. Consegues cumprir prazos e, ainda assim, apreciar a espontaneidade. Dica: repara onde um pouco mais de planeamento reduziria o stress, por exemplo em viagens ou dinheiro, e onde mais flexibilidade traria mais diversão. Ajusta de forma deliberada, e não por defeito.",
+      "high": "Tendes para o Julgamento (J). Gostas de planear com antecedência, tomar decisões e dar as coisas por concluídas. Horários, listas e prazos claros dão-te uma sensação de controlo, e normalmente terminas as tarefas bem antes da última hora. Dica: deixa algum espaço livre nos teus planos para que as surpresas não te desequilibrem. Quando outras pessoas trabalham de forma mais solta, combinem os prazos essenciais e deixa-as escolher como lá chegam."
+    }
+  },
+  "summary": "O teu tipo combina quatro preferências: Extroversão ou Introversão (E/I), Sensação ou Intuição (S/N), Pensamento ou Sentimento (T/F) e Julgamento ou Perceção (J/P). Cada escala mostra com que intensidade tendes para um dos lados; pontuações perto de 50 % significam que usas ambos os lados com bastante flexibilidade. Os tipos descrevem preferências, não capacidades, e nenhum tipo é melhor do que outro.",
+  "types": {
+    "ISTJ": {
+      "name": "A Âncora",
+      "text": "Tens uma natureza estável, minuciosa e profundamente fiável. Respeitas os factos, cumpres as tuas promessas e avanças nas tarefas de forma metódica até estarem bem feitas. As pessoas contam contigo porque fazes o que dizes. Preferes expectativas claras e métodos comprovados, e reparas em erros que os outros deixam passar. A tua força tranquila mantém equipas e famílias unidas. Dica de crescimento: mantém-te aberto a novas abordagens, mesmo quando o método antigo ainda funciona; às vezes uma experiência traz melhorias reais. Exprime em voz alta o teu apreço pelos outros, porque a tua lealdade nem sempre é visível. Reserva tempo para descansar sem sentires que tens de o merecer primeiro."
+    },
+    "ISFJ": {
+      "name": "O Guardião",
+      "text": "Tens uma natureza atenciosa, conscienciosa e discretamente dedicada. Lembras-te do que é importante para as pessoas, reparas nas suas necessidades e ajudas de forma prática, muitas vezes sem que te peçam. Valorizas a tradição, a estabilidade e a harmonia, e esforças-te para que os outros se sintam seguros e confortáveis. A tua bondade é daquela, constante, com que as pessoas contam durante anos. Dica de crescimento: as tuas próprias necessidades merecem a mesma atenção que dás aos outros, por isso pratica dizer não sem culpa. Fala quando algo te incomoda, em vez de o absorveres em silêncio. Deixar que os outros te apoiem fortalece as relações em vez de as sobrecarregar."
+    },
+    "INFJ": {
+      "name": "O Visionário Silencioso",
+      "text": "Combinas uma compreensão profunda das pessoas com um forte sentido de propósito. Captas as correntes subterrâneas nas relações, pensas a longo prazo e queres que a tua vida contribua para algo com significado. És uma pessoa reservada mas calorosa, e quem deixas entrar sente-se verdadeiramente visto. Os teus ideais dão-te direção e determinação. Dica de crescimento: os teus padrões elevados podem transformar-se em exaustão ou desilusão quando a realidade fica aquém, por isso celebra o progresso e não apenas a perfeição. Partilha as tuas ideias mais cedo, em vez de esperares que estejam totalmente formadas. Protege a tua energia estabelecendo limites antes de te sentires sobrecarregado, não depois."
+    },
+    "INTJ": {
+      "name": "O Grande Estratega",
+      "text": "Tens uma natureza independente, analítica e focada em objetivos de longo prazo. Vês como os sistemas encaixam, detetas ineficiências depressa e gostas de conceber melhores formas de fazer as coisas. Confias no teu próprio raciocínio e estás disposto a seguir o teu caminho para alcançar uma visão. A tua determinação consegue transformar ideias ambiciosas em realidade. Dica de crescimento: os outros podem não acompanhar a tua lógica tão depressa como tu, por isso explica o teu raciocínio passo a passo e pede feedback. Lembra-te de que os sentimentos das pessoas também são dados. Dá espaço a primeiras versões imperfeitas; o progresso vale muitas vezes mais do que um plano impecável que fica à espera."
+    },
+    "ISTP": {
+      "name": "O Engenhoso",
+      "text": "Tens uma natureza calma, prática e curiosa sobre o funcionamento das coisas. Gostas de compreender os problemas com as mãos, desmontar coisas e encontrar soluções eficientes. Numa crise manténs o sangue-frio e ages com decisão, enquanto os outros ainda estão a falar. Valorizas a liberdade e não gostas de regras desnecessárias nem de reuniões longas. Dica de crescimento: partilha o teu raciocínio com os outros mais vezes, porque o teu silêncio pode ser confundido com desinteresse. Compromete-te com alguns objetivos de longo prazo para que as tuas muitas competências construam algo maior. Diz às pessoas próximas o que sentes; pequenas palavras de apreço têm muito peso."
+    },
+    "ISFP": {
+      "name": "O Artista Sensível",
+      "text": "Tens uma natureza sensível, bondosa e sintonizada com a beleza e o momento presente. Exprimes-te mais através de ações e da criatividade do que de palavras, e valorizas a autenticidade e a liberdade. És uma pessoa tolerante, de mente aberta e leal às pessoas e causas que te são queridas. A tua presença gentil faz os outros sentirem-se aceites. Dica de crescimento: podes evitar conflitos até a frustração se acumular, por isso pratica exprimir pequenas preocupações cedo. Transforma os teus valores em alguns objetivos concretos para dar direção aos teus talentos. Acredita o suficiente no teu trabalho para o mostrares aos outros; a tua perspetiva merece ser vista."
+    },
+    "INFP": {
+      "name": "O Sonhador",
+      "text": "Tens uma natureza idealista e imaginativa, guiada por fortes valores interiores. Procuras significado em tudo o que fazes e dás muita importância à autenticidade, em ti e nos outros. Compreendes bem os sentimentos e muitas vezes exprime-los através da escrita, da arte ou de conversas ponderadas. És uma pessoa gentil, de mente aberta e leal àquilo em que acreditas. Dica de crescimento: os teus ideais são uma bússola, mas a realidade raramente é perfeita; dá pequenos passos práticos em vez de esperares pelo momento ideal. Sê tão compassivo contigo como és com os outros. Partilha os teus sonhos com pessoas que te possam ajudar a torná-los reais."
+    },
+    "INTP": {
+      "name": "O Solucionador de Enigmas",
+      "text": "Tens uma mente lógica, inventiva e infinitamente curiosa. Adoras analisar ideias, encontrar incoerências e construir teorias que expliquem como as coisas funcionam realmente. Pensas de forma independente e gostas de conversas profundas sobre temas complexos. A tua mente consegue ver soluções originais que escapam aos outros. Dica de crescimento: as ideias atingem o seu potencial quando são partilhadas e aplicadas, por isso define pequenos prazos para terminar e apresentar o teu trabalho. Presta atenção aos pormenores práticos e ao que os outros sentem, que importam mesmo quando parecem ilógicos. Liga-te a pessoas que partilham os teus interesses; vão dar energia ao teu pensamento."
+    },
+    "ESTP": {
+      "name": "O Aventureiro",
+      "text": "Tens uma natureza enérgica, ousada e orientada para a ação. Vives o momento, lês as situações depressa e prosperas quando as coisas andam rápido. Gostas de desafios, assumes riscos calculados e resolves problemas práticos no momento. As pessoas sentem-se atraídas pela tua confiança e pelo teu sentido de diversão. Dica de crescimento: pensa nas consequências a longo prazo antes de te lançares, sobretudo em questões de dinheiro e relações. Pratica a paciência com processos mais lentos e com pessoas que precisam de mais tempo para decidir. Pensa em como o teu estilo direto é recebido por pessoas sensíveis; um pouco de tato torna a tua influência ainda mais forte."
+    },
+    "ESFP": {
+      "name": "A Faísca",
+      "text": "Tens uma natureza vivaz, calorosa e divertida. Trazes energia a qualquer sala, gostas de pessoas e de experiências, e tornas especiais os momentos do dia a dia. És uma pessoa prática, generosa e rápida a ajudar quem está a passar um mau bocado. O teu entusiasmo é contagiante e as pessoas gostam de estar contigo. Dica de crescimento: planear com antecedência pode parecer aborrecido, mas um pouco de estrutura nas finanças e nos objetivos de longo prazo dá-te mais liberdade mais tarde. Enfrenta as conversas difíceis em vez de te distraíres. Reserva alguns momentos de sossego para refletir sobre o que realmente queres, e não apenas sobre o que sabe bem agora."
+    },
+    "ENFP": {
+      "name": "O Inspirador",
+      "text": "Tens uma natureza entusiasta, criativa e cheia de possibilidades. Crias ligações facilmente, vês potencial em todo o lado e adoras começar novos projetos e conversas. O teu calor humano e a tua imaginação encorajam os outros a sonhar mais alto. Valorizas a liberdade, a autenticidade e as relações com significado. Dica de crescimento: as tuas muitas ideias precisam de foco para se transformarem em resultados, por isso escolhe algumas prioridades e leva-as até ao fim. Cria rotinas simples para as tarefas práticas que achas aborrecidas. Quando o teu ânimo baixar depois do entusiasmo de um novo começo, lembra-te de que é na persistência que está grande parte da verdadeira recompensa."
+    },
+    "ENTP": {
+      "name": "O Inovador",
+      "text": "Tens um espírito rápido e inventivo, e adoras um bom debate. Vês novos ângulos em problemas antigos, questionas pressupostos e gostas de experimentar ideias. Adaptas-te depressa e ganhas energia com desafios complexos e pessoas inteligentes. A tua curiosidade leva-te a melhorar quase tudo aquilo em que tocas. Dica de crescimento: nem todas as discussões precisam de ser ganhas, e algumas pessoas vivem o debate como conflito, por isso lê o ambiente. Leva até ao fim as tuas melhores ideias em vez de passares cedo demais para a seguinte. Junta-te a pessoas atentas aos pormenores que te ajudem a transformar conceitos em realidade."
+    },
+    "ESTJ": {
+      "name": "O Capitão",
+      "text": "Tens uma natureza organizada, decidida e prática. Gostas de objetivos claros, processos eficientes e de pôr as coisas a andar. Assumes responsabilidades naturalmente, defines padrões elevados e garantes que os planos são cumpridos. As pessoas apreciam a tua franqueza e a tua fiabilidade. Dica de crescimento: o teu estilo eficiente pode parecer controlador aos outros, por isso pede contributos antes de decidir e explica porquê. Mantém-te aberto a novos métodos mesmo quando o atual funciona. Mostra apreço pelo esforço das pessoas e não só pelos resultados; o reconhecimento motiva tanto como instruções claras."
+    },
+    "ESFJ": {
+      "name": "O Anfitrião",
+      "text": "Tens uma natureza sociável, atenciosa e com espírito de comunidade. Reparas naquilo de que as pessoas precisam, fazes com que se sintam bem-vindas e gostas de juntar os outros. Valorizas a harmonia, a lealdade e a tradição, e esforças-te a sério para que as relações e os grupos funcionem bem. As pessoas sentem-se cuidadas na tua presença. Dica de crescimento: podes levar a peito críticas ou conflitos, por isso lembra-te de que discordância não é rejeição. Verifica se estás a ajudar porque queres ou porque sentes que tens de o fazer. Dá espaço às tuas próprias necessidades e opiniões; importam tanto como as de qualquer outra pessoa."
+    },
+    "ENFJ": {
+      "name": "O Mentor",
+      "text": "Tens uma natureza calorosa e inspiradora, focada em ajudar as pessoas a crescer. Lês bem os outros, fazes sobressair os seus pontos fortes e unes grupos em torno de um propósito comum. Comunicas com entusiasmo e convicção, e sentes-te responsável pelo bem-estar de quem te rodeia. As pessoas procuram muitas vezes os teus conselhos. Dica de crescimento: não consegues carregar toda a gente, por isso deixa que os outros assumam a responsabilidade pelas suas escolhas. Repara quando te comprometes demais ou descuras as tuas próprias necessidades. Aceita que algumas pessoas vão discordar de ti; o caminho diferente delas não diz nada sobre o teu valor."
+    },
+    "ENTJ": {
+      "name": "O Líder",
+      "text": "Tens uma natureza confiante, estratégica e movida pela vontade de concretizar. Vês a visão de conjunto, defines objetivos ambiciosos e organizas pessoas e recursos para os alcançar. Tomas decisões depressa, comunicas com clareza e não tens medo de desafios nem de responsabilidades. Os outros olham muitas vezes para ti para liderar. Dica de crescimento: a tua rapidez e franqueza podem sobrecarregar as pessoas, por isso abranda para ouvir e reconhecer sentimentos. Lembra-te de que a motivação cresce quando as pessoas se sentem ouvidas, e não apenas dirigidas. Reserva espaço para o descanso e para as relações; o sucesso a longo prazo depende de mais do que só resultados."
+    }
+  }
+}

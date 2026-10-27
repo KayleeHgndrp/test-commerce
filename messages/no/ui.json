@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Gratis psykologiske tester på nett",
+    "description": "Ta grundige tester om personlighet, tilknytning, karriere, ADHD, utbrenthet og mye mer. Gratis å ta, med en detaljert personlig rapport for bare {price}."
+  },
+  "nav": {
+    "tests": "Tester",
+    "pricing": "Priser",
+    "faq": "Spørsmål og svar",
+    "language": "Språk",
+    "cta": "Start en test"
+  },
+  "home": {
+    "badge": "{count} tester · {languages} språk",
+    "heroTitle": "Bli kjent med deg selv, én test om gangen",
+    "heroSubtitle": "Grundige tester om personlighet, relasjoner, jobb og trivsel. 100 spørsmål, rundt 5 minutter og en personlig rapport for bare {price}.",
+    "heroCta": "Utforsk testene våre",
+    "heroSecondary": "Slik fungerer det",
+    "trust1": "Ingen konto nødvendig",
+    "trust2": "Engangsbetaling, ingen abonnement",
+    "trust3": "Rapporten rett i innboksen",
+    "dimensionsTitle": "Du er mer enn én poengsum – se alle sidene dine.",
+    "dimensionsSubtitle": "Områdene testene våre oftest måler, innen personlighet, relasjoner og trivsel.",
+    "dimensions": [
+      "🎯 Fokus",
+      "🔋 Sosial energi",
+      "🌊 Stressreaksjon",
+      "💞 Tilknytning",
+      "⚖️ Beslutninger",
+      "🧭 Verdier",
+      "💡 Kreativitet",
+      "🪞 Selvinnsikt",
+      "🛡️ Motstandskraft"
+    ],
+    "testsTitle": "Velg din test",
+    "testsSubtitle": "Alle testene er gratis å ta. Velg den som frister deg mest.",
+    "howTitle": "Fra første spørsmål til full rapport i tre steg",
+    "steps": [
+      {
+        "title": "Velg en test",
+        "text": "Velg fra biblioteket vårt med personlighetstester, relasjonstester og screeningtester, alle bygget på anerkjente psykologiske modeller."
+      },
+      {
+        "title": "Ta testen",
+        "text": "Svar på 100 spørsmål på en enkel skala. De fleste testene tar rundt 5 minutter, og fremgangen din lagres."
+      },
+      {
+        "title": "Les rapporten din",
+        "text": "Få en personlig rapport med poengsummene dine, hva de betyr og praktiske tips – rett i innboksen."
+      }
+    ],
+    "pricingTitle": "Enkle priser",
+    "pricingSubtitle": "Én pris. Ingen abonnement. Ingen overraskelser.",
+    "planFreeName": "Ta testen",
+    "planFreePrice": "Gratis",
+    "planFreeFeatures": [
+      "Alle {count} testene, gratis å ta",
+      "100 spørsmål, rundt 5 minutter",
+      "Fremgangen lagres automatisk",
+      "Umiddelbar forhåndsvisning av resultatområdene dine"
+    ],
+    "planReportName": "Full rapport",
+    "planReportPrice": "{price}",
+    "planReportPer": "engangsbeløp per test",
+    "planReportFeatures": [
+      "Poengsummen din på hver dimensjon",
+      "Personlig tolkning av hver poengsum",
+      "Praktiske tips du kan bruke med en gang",
+      "Sendt til innboksen din i løpet av minutter",
+      "Ingen abonnement, ingen automatisk fornyelse"
+    ],
+    "planCta": "Prøv nå",
+    "faqTitle": "Ofte stilte spørsmål",
+    "faq": [
+      {
+        "q": "Hva er {site}?",
+        "a": "{site} er en nettplattform med grundige selvtester om personlighet, relasjoner, jobb og trivsel. Du kan ta alle testene gratis og bestille en detaljert personlig rapport hvis du vil vite mer."
+      },
+      {
+        "q": "Hva koster en test?",
+        "a": "Det er gratis å ta en test. Den detaljerte personlige rapporten koster {price}, betalt én gang. Det er ikke noe abonnement, og du blir aldri trukket automatisk igjen."
+      },
+      {
+        "q": "Hvordan får jeg rapporten min?",
+        "a": "Etter betaling sendes rapporten til e-postadressen du oppga, vanligvis i løpet av ett minutt. Finner du den ikke? Sjekk søppelpostmappen eller kampanjemappen."
+      },
+      {
+        "q": "Kan jeg ta en test på nytt?",
+        "a": "Ja, så ofte du vil. Å ta en test på nytt etter noen uker er en fin måte å se hva som har endret seg. Hver rapport er et eget engangskjøp."
+      },
+      {
+        "q": "Er dette en medisinsk diagnose?",
+        "a": "Nei. Testene våre er ment for selvrefleksjon. Screeningtester som ADHD- eller depresjonstesten kan vise om det kan være lurt å snakke med en fagperson, men de erstatter aldri en vurdering fra kvalifisert helsepersonell."
+      },
+      {
+        "q": "Hvordan er testene laget?",
+        "a": "Testene våre bygger på anerkjente psykologiske modeller som femfaktormodellen (Big Five), RIASEC og tilknytningsteori. Depresjons- og traumetestene inneholder også de fritt tilgjengelige spørreskjemaene PHQ-9 og PCL-5, som skåres etter de offisielle grenseverdiene."
+      },
+      {
+        "q": "Kan resultatene være upålitelige?",
+        "a": "Alle spørreskjemaer har en feilmargin, og dagsformen kan også spille inn. Svar ærlig og uten å tenke for mye, og se på resultatet som et utgangspunkt for refleksjon heller enn en endelig dom."
+      },
+      {
+        "q": "Forblir dataene mine private?",
+        "a": "Ja. Du trenger ingen konto. Svarene dine brukes bare til å beregne resultatet og lage rapporten din, og vi selger aldri dataene dine."
+      }
+    ],
+    "ctaTitle": "Klar til å oppdage mer om deg selv?",
+    "ctaButton": "Utforsk testene våre"
+  },
+  "categories": {
+    "personality": "Personlighet og type",
+    "relationships": "Relasjoner og følelser",
+    "work": "Jobb og verdier",
+    "screeners": "Screeningtester",
+    "wellbeing": "Trivsel og vaner"
+  },
+  "test": {
+    "start": "Start testen",
+    "questions": "{count} spørsmål",
+    "minutes": "{count} min",
+    "free": "Gratis",
+    "aboutTitle": "Om denne testen",
+    "whatYouGet": "Dette inneholder rapporten din",
+    "whatYouGet1": "Poengsummen din på hver dimensjon: {dimensions}",
+    "whatYouGet2": "En personlig tolkning av hver poengsum",
+    "whatYouGet3": "Praktiske tips du kan bruke med en gang",
+    "otherTests": "Andre populære tester",
+    "question": "Spørsmål {current} av {total}",
+    "back": "Tilbake",
+    "next": "Neste",
+    "finish": "Se resultatene mine",
+    "chooseAnswer": "Velg svaret som passer best for deg.",
+    "resume": "Du har en uferdig test. Vil du fortsette der du slapp?",
+    "resumeYes": "Fortsett",
+    "resumeNo": "Start på nytt",
+    "genderTitle": "Først et raskt spørsmål",
+    "genderQuestion": "Hvilket kjønn er du?",
+    "genderMale": "Mann",
+    "genderFemale": "Kvinne",
+    "genderOther": "Annet / vil ikke oppgi",
+    "screenerNote": "Denne testen er et screeningverktøy, ikke en diagnose."
+  },
+  "scales": {
+    "agree": [
+      "Helt uenig",
+      "Uenig",
+      "Verken enig eller uenig",
+      "Enig",
+      "Helt enig"
+    ],
+    "frequency": [
+      "Aldri",
+      "Sjelden",
+      "Noen ganger",
+      "Ofte",
+      "Svært ofte"
+    ],
+    "phq": [
+      "Ikke i det hele tatt",
+      "Flere dager",
+      "Mer enn halvparten av dagene",
+      "Nesten hver dag"
+    ],
+    "intensity": [
+      "Ikke i det hele tatt",
+      "Litt",
+      "Moderat",
+      "En god del",
+      "Svært mye"
+    ]
+  },
+  "levels": {
+    "low": "Lav",
+    "mid": "Middels",
+    "high": "Høy"
+  },
+  "result": {
+    "title": "Resultatene dine er klare",
+    "subtitle": "Du har fullført {test}. Lås opp den fullstendige personlige rapporten for å se poengsummene dine og hva de betyr.",
+    "mainType": "Hovedtypen din",
+    "locked": "Låst",
+    "unlockTitle": "Få den fullstendige rapporten",
+    "unlockText": "Den detaljerte rapporten din med alle poengsummer, personlige tolkninger og praktiske tips, sendt til e-posten din.",
+    "emailLabel": "E-postadresse",
+    "emailPlaceholder": "deg@eksempel.no",
+    "consent": "Jeg godtar vilkårene og personvernerklæringen.",
+    "buy": "Få rapporten min for {price}",
+    "secure": "Sikker betaling via Stripe. Engangsbetaling, ingen abonnement.",
+    "invalidEmail": "Skriv inn en gyldig e-postadresse.",
+    "consentRequired": "Du må godta vilkårene for å fortsette.",
+    "error": "Noe gikk galt. Prøv igjen.",
+    "noAnswers": "Vi fant ikke svarene dine. Ta testen først.",
+    "takeTest": "Ta testen",
+    "crisisTitle": "Du er ikke alene",
+    "crisisText": "Du har oppgitt at du har hatt tanker om at du ville vært bedre tjent med å være død, eller om å skade deg selv. Snakk med noen i dag. Hvis du er i akutt fare, ring 112. Du kan også når som helst på døgnet kontakte en krisetelefon i landet ditt, for eksempel de som er oppført på findahelpline.com.",
+    "crisisLink": "Finn en hjelpetelefon i nærheten"
+  },
+  "thanks": {
+    "title": "Takk for kjøpet!",
+    "text": "Den personlige rapporten din er på vei til innboksen. Den kommer vanligvis i løpet av ett minutt.",
+    "spam": "Ikke mottatt etter 10 minutter? Sjekk søppelpostmappen eller kampanjemappen, eller kontakt oss på {email}.",
+    "more": "Oppdag flere tester"
+  },
+  "report": {
+    "subject": "Din rapport: {test}",
+    "greeting": "Hei,",
+    "intro": "Takk for at du tok {test} på {site}. Her er den personlige rapporten din.",
+    "scoreLabel": "Din poengsum",
+    "outro": "Vi håper rapporten gir deg nyttig innsikt. Nysgjerrig på andre sider ved deg selv? Oppdag alle testene våre på {url}.",
+    "signature": "Hilsen teamet bak {site}",
+    "instrumentLabel": "{name}: {score} av {max}",
+    "typeLabel": "Din type"
+  },
+  "footer": {
+    "tagline": "Bli bedre kjent med deg selv",
+    "about": "Grundige selvtester for deg som vil ha mer enn en merkelapp på fire bokstaver.",
+    "company": "Selskap",
+    "home": "Hjem",
+    "help": "Hjelp",
+    "contact": "Kontakt oss",
+    "legal": "Juridisk",
+    "privacy": "Personvernerklæring",
+    "terms": "Vilkår og betingelser",
+    "cookies": "Informasjonskapsler",
+    "refund": "Refusjonsregler",
+    "rights": "© {year} {site}. Alle rettigheter forbeholdt.",
+    "disclaimer": "{site} er ikke en helsetjeneste. Ved kliniske bekymringer bør du kontakte autorisert helsepersonell."
+  },
+  "legal": {
+    "privacyTitle": "Personvernerklæring",
+    "privacyBody": [
+      "Vi samler bare inn dataene vi trenger for å levere tjenesten: svarene dine på testen og, hvis du kjøper en rapport, e-postadressen din.",
+      "Svarene dine behandles for å beregne resultatet ditt. Når du kjøper en rapport, overføres svarene og e-postadressen din til betalingsleverandøren vår Stripe og e-postleverandøren vår, slik at betalingen kan behandles og rapporten leveres.",
+      "Vi selger ikke dataene dine og bruker dem ikke til reklame. Du kan når som helst be oss slette dataene dine ved å kontakte {email}.",
+      "Betalinger håndteres av Stripe. Vi ser eller lagrer aldri kortopplysningene dine."
+    ],
+    "termsTitle": "Bruksvilkår",
+    "termsBody": [
+      "Alle tester på {site} er ment for selvrefleksjon og underholdning. De er ingen medisinsk, psykologisk eller faglig diagnose.",
+      "Det er gratis å ta en test. En personlig rapport koster {price} per test som en engangsbetaling. Rapporten leveres digitalt på e-post.",
+      "Fordi rapporten er digitalt innhold som leveres umiddelbart etter betaling, samtykker du i at angreretten bortfaller når rapporten er sendt. Har du ikke mottatt rapporten, kontakt {email}, så sender vi den på nytt eller refunderer beløpet.",
+      "Vi gjør vårt beste for at innholdet skal være korrekt, men vi kan ikke garantere at resultatene er fullstendige eller riktige for alle."
+    ],
+    "cookiesTitle": "Informasjonskapsler",
+    "cookiesBody": [
+      "{site} bruker ikke informasjonskapsler til reklame eller sporing.",
+      "Vi lagrer bare strengt nødvendige data i nettleseren din: språket du har valgt og fremgangen din i en test, slik at du kan fortsette der du slapp. Disse dataene blir værende på enheten din.",
+      "Når du betaler, kan betalingsleverandøren vår Stripe sette informasjonskapsler som er nødvendige for å behandle betalingen sikkert og forhindre svindel.",
+      "Spørsmål? Kontakt oss på {email}."
+    ],
+    "refundTitle": "Refusjonsregler",
+    "refundBody": [
+      "En rapport koster {price} per test som en engangsbetaling. Det er ikke noe abonnement og ingen automatisk fornyelse.",
+      "Har du ikke mottatt rapporten, eller gikk noe galt? Kontakt {email} innen 14 dager og oppgi e-postadressen du brukte, så sender vi rapporten på nytt eller refunderer betalingen.",
+      "Fordi rapporten er digitalt innhold som leveres umiddelbart, bortfaller den lovfestede angreretten når den er sendt. Vi hjelper deg likevel alltid hvis noe ikke stemmer.",
+      "Refusjoner gjøres til den opprinnelige betalingsmåten innen 5–10 virkedager."
+    ]
+  }
+}

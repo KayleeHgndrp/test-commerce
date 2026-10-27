@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Testijiet psikoloġiċi online b'xejn",
+    "description": "Agħmel testijiet dettaljati dwar il-personalità, l-attachment, il-karriera, l-ADHD, il-burnout u aktar. B'xejn biex tagħmilhom, b'rapport personali dettaljat għal {price} biss."
+  },
+  "nav": {
+    "tests": "Testijiet",
+    "pricing": "Prezzijiet",
+    "faq": "Mistoqsijiet frekwenti",
+    "language": "Lingwa",
+    "cta": "Ibda test"
+  },
+  "home": {
+    "badge": "{count} testijiet · {languages} lingwi",
+    "heroTitle": "Sir af lilek innifsek, test wara test",
+    "heroSubtitle": "Testijiet dettaljati dwar il-personalità, ir-relazzjonijiet, ix-xogħol u l-benesseri. 100 mistoqsija, madwar 5 minuti, u rapport personali għal {price} biss.",
+    "heroCta": "Esplora t-testijiet tagħna",
+    "heroSecondary": "Kif jaħdem",
+    "trust1": "M'għandekx bżonn kont",
+    "trust2": "Ħlas wieħed, l-ebda abbonament",
+    "trust3": "Ir-rapport dritt fl-inbox tiegħek",
+    "dimensionsTitle": "Inti aktar minn punteġġ wieħed — ara kull naħa tiegħek.",
+    "dimensionsSubtitle": "L-oqsma li t-testijiet tagħna jkejlu l-aktar spiss, fil-personalità, ir-relazzjonijiet u l-benesseri.",
+    "dimensions": [
+      "🎯 Konċentrazzjoni",
+      "🔋 Enerġija soċjali",
+      "🌊 Reazzjoni għall-istress",
+      "💞 Rabta emozzjonali",
+      "⚖️ Deċiżjonijiet",
+      "🧭 Valuri",
+      "💡 Kreattività",
+      "🪞 Għarfien personali",
+      "🛡️ Reżiljenza"
+    ],
+    "testsTitle": "Agħżel it-test tiegħek",
+    "testsSubtitle": "Kull test huwa b'xejn. Agħżel dak li l-aktar jinteressak.",
+    "howTitle": "Mill-ewwel mistoqsija sar-rapport sħiħ fi tliet passi",
+    "steps": [
+      {
+        "title": "Agħżel test",
+        "text": "Agħżel mil-librerija tagħna ta' testijiet tal-personalità, tar-relazzjonijiet u ta' screening, kull wieħed mibni fuq mudelli psikoloġiċi stabbiliti."
+      },
+      {
+        "title": "Agħmel it-test",
+        "text": "Wieġeb 100 mistoqsija fuq skala sempliċi. Il-biċċa l-kbira tat-testijiet jieħdu madwar 5 minuti u l-progress tiegħek jiġi ssejvjat."
+      },
+      {
+        "title": "Aqra r-rapport tiegħek",
+        "text": "Irċievi rapport personali bil-punteġġi tiegħek, xi jfissru u pariri prattiċi, mibgħut dritt fl-inbox tiegħek."
+      }
+    ],
+    "pricingTitle": "Prezzijiet sempliċi",
+    "pricingSubtitle": "Prezz wieħed. L-ebda abbonament. L-ebda sorpriża.",
+    "planFreeName": "Agħmel it-test",
+    "planFreePrice": "B'xejn",
+    "planFreeFeatures": [
+      "It-testijiet kollha ({count}), b'xejn",
+      "100 mistoqsija, madwar 5 minuti",
+      "Il-progress jiġi ssejvjat awtomatikament",
+      "Ħarsa immedjata lejn l-oqsma tar-riżultat tiegħek"
+    ],
+    "planReportName": "Rapport sħiħ",
+    "planReportPrice": "{price}",
+    "planReportPer": "darba biss, għal kull test",
+    "planReportFeatures": [
+      "Il-punteġġ tiegħek f'kull dimensjoni",
+      "Interpretazzjoni personali ta' kull punteġġ",
+      "Pariri prattiċi li tista' tuża minnufih",
+      "Mibgħut fl-inbox tiegħek fi ftit minuti",
+      "L-ebda abbonament, l-ebda tiġdid awtomatiku"
+    ],
+    "planCta": "Ipprova issa",
+    "faqTitle": "Mistoqsijiet frekwenti",
+    "faq": [
+      {
+        "q": "X'inhu {site}?",
+        "a": "{site} hija pjattaforma online b'testijiet dettaljati ta' awtovalutazzjoni dwar il-personalità, ir-relazzjonijiet, ix-xogħol u l-benesseri. Tista' tagħmel kull test b'xejn u tordna rapport personali dettaljat jekk trid tkun taf aktar."
+      },
+      {
+        "q": "Kemm jiswa test?",
+        "a": "Li tagħmel test huwa b'xejn. Ir-rapport personali dettaljat jiswa {price}, imħallas darba biss. M'hemm l-ebda abbonament u qatt mhu se terġa' tiġi ddebitat awtomatikament."
+      },
+      {
+        "q": "Kif nirċievi r-rapport tiegħi?",
+        "a": "Wara l-ħlas, ir-rapport tiegħek jintbagħat fl-indirizz tal-email li daħħalt, normalment fi żmien minuta. Ma sibtux? Iċċekkja l-folder tal-ispam jew tal-promozzjonijiet."
+      },
+      {
+        "q": "Nista' nerġa' nagħmel test?",
+        "a": "Iva, kemm-il darba trid. Li terġa' tagħmel test wara ftit ġimgħat huwa mod tajjeb biex tara x'inbidel. Kull rapport huwa xiri separat ta' darba."
+      },
+      {
+        "q": "Din hija dijanjożi medika?",
+        "a": "Le. It-testijiet tagħna huma maħsuba għar-riflessjoni personali. Testijiet ta' screening bħal dawk għall-ADHD jew id-dipressjoni jistgħu jindikaw jekk ikunx għaqli li tkellem professjonist, iżda qatt ma jieħdu post valutazzjoni minn professjonist kwalifikat."
+      },
+      {
+        "q": "Kif saru dawn it-testijiet?",
+        "a": "It-testijiet tagħna huma bbażati fuq mudelli psikoloġiċi stabbiliti bħall-Big Five, ir-RIASEC u t-teorija tal-attachment. It-testijiet tad-dipressjoni u tat-trawma jinkludu wkoll il-kwestjonarji PHQ-9 u PCL-5, li huma fid-dominju pubbliku, ikkalkulati bil-limiti uffiċjali tagħhom."
+      },
+      {
+        "q": "Ir-riżultati jistgħu ma jkunux affidabbli?",
+        "a": "Kull kwestjonarju għandu marġni ta' żball, u l-burdata tiegħek dakinhar tista' wkoll taffettwa. Wieġeb b'onestà u mingħajr ma taħsibha wisq, u ara r-riżultat tiegħek bħala punt tat-tluq għar-riflessjoni aktar milli bħala verdett finali."
+      },
+      {
+        "q": "Id-data tiegħi se tibqa' privata?",
+        "a": "Iva. M'għandekx bżonn kont. It-tweġibiet tiegħek jintużaw biss biex jiġi kkalkulat ir-riżultat tiegħek u jinħoloq ir-rapport, u qatt ma nbigħu d-data tiegħek."
+      }
+    ],
+    "ctaTitle": "Lest biex tiskopri aktar dwarek innifsek?",
+    "ctaButton": "Esplora t-testijiet tagħna"
+  },
+  "categories": {
+    "personality": "Personalità u tip",
+    "relationships": "Relazzjonijiet u emozzjonijiet",
+    "work": "Xogħol u valuri",
+    "screeners": "Testijiet ta' screening",
+    "wellbeing": "Benesseri u drawwiet"
+  },
+  "test": {
+    "start": "Ibda t-test",
+    "questions": "{count} mistoqsija",
+    "minutes": "{count} min",
+    "free": "B'xejn",
+    "aboutTitle": "Dwar dan it-test",
+    "whatYouGet": "X'jinkludi r-rapport tiegħek",
+    "whatYouGet1": "Il-punteġġ tiegħek f'kull dimensjoni: {dimensions}",
+    "whatYouGet2": "Interpretazzjoni personali ta' kull punteġġ",
+    "whatYouGet3": "Pariri prattiċi li tista' tapplika minnufih",
+    "otherTests": "Testijiet popolari oħra",
+    "question": "Mistoqsija {current} minn {total}",
+    "back": "Lura",
+    "next": "Li jmiss",
+    "finish": "Ara r-riżultati tiegħi",
+    "chooseAnswer": "Agħżel it-tweġiba li l-aktar taqbel miegħek.",
+    "resume": "Għandek test mhux lest. Trid tkompli minn fejn ħallejt?",
+    "resumeYes": "Kompli",
+    "resumeNo": "Ibda mill-ġdid",
+    "genderTitle": "L-ewwel, mistoqsija qasira",
+    "genderQuestion": "X'inhu s-sess tiegħek?",
+    "genderMale": "Raġel",
+    "genderFemale": "Mara",
+    "genderOther": "Ieħor / nippreferi ma ngħidx",
+    "screenerNote": "Dan it-test huwa għodda ta' screening, mhux dijanjożi."
+  },
+  "scales": {
+    "agree": [
+      "Ma naqbel xejn",
+      "Ma naqbilx",
+      "Newtrali",
+      "Naqbel",
+      "Naqbel ħafna"
+    ],
+    "frequency": [
+      "Qatt",
+      "Rarament",
+      "Kultant",
+      "Spiss",
+      "Spiss ħafna"
+    ],
+    "phq": [
+      "Xejn",
+      "Diversi ġranet",
+      "Aktar minn nofs il-ġranet",
+      "Kważi kuljum"
+    ],
+    "intensity": [
+      "Xejn",
+      "Ftit",
+      "Moderatament",
+      "Pjuttost",
+      "Estremament"
+    ]
+  },
+  "levels": {
+    "low": "Baxx",
+    "mid": "Medju",
+    "high": "Għoli"
+  },
+  "result": {
+    "title": "Ir-riżultati tiegħek huma lesti",
+    "subtitle": "Lestejt it-test {test}. Iftaħ ir-rapport personali sħiħ tiegħek biex tara l-punteġġi tiegħek u xi jfissru.",
+    "mainType": "It-tip prinċipali tiegħek",
+    "locked": "Imsakkar",
+    "unlockTitle": "Ikseb ir-rapport sħiħ tiegħek",
+    "unlockText": "Ir-rapport dettaljat tiegħek bil-punteġġi kollha, interpretazzjonijiet personali u pariri prattiċi, mibgħut fl-email tiegħek.",
+    "emailLabel": "Indirizz tal-email",
+    "emailPlaceholder": "inti@ezempju.com",
+    "consent": "Naqbel mat-termini u mal-politika tal-privatezza.",
+    "buy": "Ikseb ir-rapport tiegħi għal {price}",
+    "secure": "Ħlas sigur permezz ta' Stripe. Ħlas wieħed, l-ebda abbonament.",
+    "invalidEmail": "Jekk jogħġbok daħħal indirizz tal-email validu.",
+    "consentRequired": "Jekk jogħġbok aċċetta t-termini biex tkompli.",
+    "error": "Xi ħaġa marret ħażin. Jekk jogħġbok erġa' pprova.",
+    "noAnswers": "Ma stajniex insibu t-tweġibiet tiegħek. Jekk jogħġbok agħmel it-test l-ewwel.",
+    "takeTest": "Agħmel it-test",
+    "crisisTitle": "M'intix waħdek",
+    "crisisText": "Indikajt li kellek ħsibijiet li jkun aħjar li kont mejjet jew li tweġġa' lilek innifsek. Jekk jogħġbok kellem lil xi ħadd illum. Jekk tinsab f'periklu immedjat, ċempel 112. Tista' wkoll tikkuntattja linja ta' kriżi f'pajjiżek, bħal dawk elenkati fuq findahelpline.com, fi kwalunkwe ħin tal-ġurnata.",
+    "crisisLink": "Sib linja ta' għajnuna qrib tiegħek"
+  },
+  "thanks": {
+    "title": "Grazzi tax-xiri tiegħek!",
+    "text": "Ir-rapport personali tiegħek qed jasal fl-inbox tiegħek. Normalment jasal fi żmien minuta.",
+    "spam": "Ma rċevejtux wara 10 minuti? Iċċekkja l-folder tal-ispam jew tal-promozzjonijiet, jew ikkuntattjana fuq {email}.",
+    "more": "Skopri aktar testijiet"
+  },
+  "report": {
+    "subject": "Ir-rapport tiegħek: {test}",
+    "greeting": "Bonġu,",
+    "intro": "Grazzi talli għamilt it-test {test} fuq {site}. Hawn hu r-rapport personali tiegħek.",
+    "scoreLabel": "Il-punteġġ tiegħek",
+    "outro": "Nittamaw li dan ir-rapport jagħtik għarfien utli. Kurjuż dwar aspetti oħra tiegħek? Skopri t-testijiet kollha tagħna fuq {url}.",
+    "signature": "It-tim ta' {site}",
+    "instrumentLabel": "{name}: {score} minn {max}",
+    "typeLabel": "It-tip tiegħek"
+  },
+  "footer": {
+    "tagline": "Sir af lilek innifsek aħjar",
+    "about": "Testijiet dettaljati ta' awtovalutazzjoni għal min irid aktar minn tikketta ta' erba' ittri.",
+    "company": "Kumpanija",
+    "home": "Paġna ewlenija",
+    "help": "Għajnuna",
+    "contact": "Ikkuntattjana",
+    "legal": "Legali",
+    "privacy": "Politika tal-privatezza",
+    "terms": "Termini u kundizzjonijiet",
+    "cookies": "Politika dwar il-cookies",
+    "refund": "Politika tar-rifużjoni",
+    "rights": "© {year} {site}. Id-drittijiet kollha riżervati.",
+    "disclaimer": "{site} mhuwiex servizz mediku. Għal tħassib kliniku, jekk jogħġbok ikkonsulta professjonist liċenzjat."
+  },
+  "legal": {
+    "privacyTitle": "Politika tal-privatezza",
+    "privacyBody": [
+      "Niġbru biss id-data meħtieġa biex nipprovdu s-servizz tagħna: it-tweġibiet tiegħek għat-test u, jekk tixtri rapport, l-indirizz tal-email tiegħek.",
+      "It-tweġibiet tiegħek jiġu pproċessati biex jiġi kkalkulat ir-riżultat tiegħek. Meta tixtri rapport, it-tweġibiet u l-indirizz tal-email tiegħek jintbagħtu lill-fornitur tal-ħlasijiet tagħna Stripe u lill-fornitur tal-email tagħna sabiex jiġi pproċessat il-ħlas u jintbagħat ir-rapport.",
+      "Ma nbigħux id-data tiegħek u ma nużawhiex għar-reklamar. Tista' titlobna f'kull ħin biex inħassru d-data tiegħek billi tikkuntattja lil {email}.",
+      "Il-ħlasijiet jiġu ġestiti minn Stripe. Qatt ma naraw jew naħżnu d-dettalji tal-karta tiegħek."
+    ],
+    "termsTitle": "Termini tas-servizz",
+    "termsBody": [
+      "It-testijiet kollha fuq {site} huma maħsuba għar-riflessjoni personali u għad-divertiment. Mhumiex dijanjożi medika, psikoloġika jew professjonali.",
+      "Li tagħmel test huwa b'xejn. Rapport personali jiswa {price} għal kull test bħala ħlas ta' darba. Ir-rapport jiġi kkunsinnat diġitalment bl-email.",
+      "Peress li r-rapport huwa kontenut diġitali kkunsinnat immedjatament wara l-ħlas, taqbel li d-dritt ta' rtirar jiskadi ladarba r-rapport jintbagħat. Jekk ma rċevejtx ir-rapport tiegħek, ikkuntattja lil {email} u nerġgħu nibagħtuhulek jew inroddulek flusek.",
+      "Nagħmlu ħilitna biex il-kontenut ikun preċiż, iżda ma nistgħux niggarantixxu li r-riżultati huma kompluti jew korretti għal kull persuna."
+    ],
+    "cookiesTitle": "Politika dwar il-cookies",
+    "cookiesBody": [
+      "{site} ma jużax cookies tar-reklamar jew tat-traċċar.",
+      "Naħżnu fil-browser tiegħek biss data strettament meħtieġa: il-lingwa li għażilt u l-progress tiegħek f'test, sabiex tkun tista' tkompli minn fejn ħallejt. Din id-data tibqa' fuq l-apparat tiegħek.",
+      "Meta tħallas, il-fornitur tal-ħlasijiet tagħna Stripe jista' jpoġġi cookies meħtieġa biex il-ħlas jiġi pproċessat b'mod sigur u biex tiġi evitata l-frodi.",
+      "Għandek mistoqsijiet? Ikkuntattjana fuq {email}."
+    ],
+    "refundTitle": "Politika tar-rifużjoni",
+    "refundBody": [
+      "Rapport jiswa {price} għal kull test bħala ħlas ta' darba. M'hemmx abbonament u l-ebda tiġdid awtomatiku.",
+      "Ma rċevejtx ir-rapport tiegħek, jew xi ħaġa marret ħażin? Ikkuntattja lil {email} fi żmien 14-il jum, billi ssemmi l-indirizz tal-email li użajt, u nerġgħu nibagħtulek ir-rapport jew inroddulek il-ħlas.",
+      "Peress li r-rapport huwa kontenut diġitali li jiġi kkunsinnat immedjatament, id-dritt statutorju ta' rtirar jiskadi ladarba jintbagħat. Madankollu, dejjem ngħinuk jekk xi ħaġa ma tkunx sew.",
+      "Ir-rifużjonijiet isiru fuq il-metodu tal-ħlas oriġinali fi żmien 5–10 ijiem tax-xogħol."
+    ]
+  }
+}

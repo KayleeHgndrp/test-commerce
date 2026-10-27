@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Darmowe testy psychologiczne online",
+    "description": "Wykonaj rzetelne testy osobowości, przywiązania, kariery, ADHD, wypalenia i nie tylko. Bezpłatnie, ze szczegółowym raportem osobistym za jedyne {price}."
+  },
+  "nav": {
+    "tests": "Testy",
+    "pricing": "Cennik",
+    "faq": "FAQ",
+    "language": "Język",
+    "cta": "Rozpocznij test"
+  },
+  "home": {
+    "badge": "{count} testów · {languages} języków",
+    "heroTitle": "Poznaj siebie – test po teście",
+    "heroSubtitle": "Rzetelne testy o osobowości, relacjach, pracy i dobrostanie. 100 pytań, około 5 minut i osobisty raport za jedyne {price}.",
+    "heroCta": "Poznaj nasze testy",
+    "heroSecondary": "Jak to działa",
+    "trust1": "Bez zakładania konta",
+    "trust2": "Jednorazowa płatność, bez subskrypcji",
+    "trust3": "Raport prosto na Twoją skrzynkę",
+    "dimensionsTitle": "Jesteś kimś więcej niż jednym wynikiem – poznaj każdą swoją stronę.",
+    "dimensionsSubtitle": "Obszary, które nasze testy mierzą najczęściej – od osobowości, przez relacje, po dobrostan.",
+    "dimensions": [
+      "🎯 Koncentracja",
+      "🔋 Energia społeczna",
+      "🌊 Reakcja na stres",
+      "💞 Przywiązanie",
+      "⚖️ Decyzje",
+      "🧭 Wartości",
+      "💡 Kreatywność",
+      "🪞 Samoświadomość",
+      "🛡️ Odporność psychiczna"
+    ],
+    "testsTitle": "Wybierz swój test",
+    "testsSubtitle": "Każdy test jest bezpłatny. Wybierz ten, który najbardziej Cię ciekawi.",
+    "howTitle": "Od pierwszego pytania do pełnego raportu w trzech krokach",
+    "steps": [
+      {
+        "title": "Wybierz test",
+        "text": "Wybierz spośród naszych testów osobowości, relacji i testów przesiewowych – wszystkie opierają się na uznanych modelach psychologicznych."
+      },
+      {
+        "title": "Rozwiąż test",
+        "text": "Odpowiedz na 100 pytań na prostej skali. Większość testów zajmuje około 5 minut, a Twoje postępy są zapisywane."
+      },
+      {
+        "title": "Przeczytaj raport",
+        "text": "Otrzymaj osobisty raport z wynikami, ich znaczeniem i praktycznymi wskazówkami – prosto na swoją skrzynkę."
+      }
+    ],
+    "pricingTitle": "Prosty cennik",
+    "pricingSubtitle": "Jedna cena. Bez subskrypcji. Bez niespodzianek.",
+    "planFreeName": "Rozwiąż test",
+    "planFreePrice": "Bezpłatnie",
+    "planFreeFeatures": [
+      "Wszystkie testy ({count}) za darmo",
+      "100 pytań, około 5 minut",
+      "Automatyczny zapis postępów",
+      "Natychmiastowy podgląd obszarów wyniku"
+    ],
+    "planReportName": "Pełny raport",
+    "planReportPrice": "{price}",
+    "planReportPer": "jednorazowo, za test",
+    "planReportFeatures": [
+      "Twój wynik w każdym wymiarze",
+      "Osobista interpretacja każdego wyniku",
+      "Praktyczne wskazówki do wykorzystania od razu",
+      "Na Twojej skrzynce w ciągu kilku minut",
+      "Bez subskrypcji i automatycznego odnawiania"
+    ],
+    "planCta": "Wypróbuj teraz",
+    "faqTitle": "Najczęściej zadawane pytania",
+    "faq": [
+      {
+        "q": "Czym jest {site}?",
+        "a": "{site} to platforma internetowa z rzetelnymi testami samooceny dotyczącymi osobowości, relacji, pracy i dobrostanu. Każdy test możesz wykonać za darmo, a jeśli chcesz dowiedzieć się więcej, zamówić szczegółowy raport osobisty."
+      },
+      {
+        "q": "Ile kosztuje test?",
+        "a": "Rozwiązanie testu jest bezpłatne. Szczegółowy raport osobisty kosztuje {price} i płacisz za niego jednorazowo. Nie ma subskrypcji i nigdy nie zostaniesz automatycznie obciążony ponownie."
+      },
+      {
+        "q": "Jak otrzymam raport?",
+        "a": "Po płatności raport zostanie wysłany na podany adres e-mail, zwykle w ciągu minuty. Nie możesz go znaleźć? Sprawdź folder spam lub oferty."
+      },
+      {
+        "q": "Czy mogę powtórzyć test?",
+        "a": "Tak, tyle razy, ile chcesz. Powtórzenie testu po kilku tygodniach to dobry sposób, by zobaczyć, co się zmieniło. Każdy raport to osobny, jednorazowy zakup."
+      },
+      {
+        "q": "Czy to diagnoza medyczna?",
+        "a": "Nie. Nasze testy służą autorefleksji. Testy przesiewowe, takie jak test ADHD czy depresji, mogą wskazać, czy warto porozmawiać ze specjalistą, ale nigdy nie zastąpią oceny wykwalifikowanego profesjonalisty."
+      },
+      {
+        "q": "Jak powstały te testy?",
+        "a": "Nasze testy opierają się na uznanych modelach psychologicznych, takich jak Wielka Piątka, RIASEC i teoria przywiązania. Testy depresji i traumy zawierają też ogólnodostępne kwestionariusze PHQ-9 i PCL-5, oceniane według ich oficjalnych punktów odcięcia."
+      },
+      {
+        "q": "Czy wyniki mogą być niewiarygodne?",
+        "a": "Każdy kwestionariusz ma margines błędu, a znaczenie może mieć też Twój nastrój danego dnia. Odpowiadaj szczerze i bez zbędnego zastanawiania się, a wynik traktuj jako punkt wyjścia do refleksji, a nie ostateczny werdykt."
+      },
+      {
+        "q": "Czy moje dane pozostaną prywatne?",
+        "a": "Tak. Nie potrzebujesz konta. Twoje odpowiedzi służą wyłącznie do obliczenia wyniku i przygotowania raportu, a Twoich danych nigdy nie sprzedajemy."
+      }
+    ],
+    "ctaTitle": "Chcesz odkryć o sobie więcej?",
+    "ctaButton": "Poznaj nasze testy"
+  },
+  "categories": {
+    "personality": "Osobowość i typ",
+    "relationships": "Relacje i emocje",
+    "work": "Praca i wartości",
+    "screeners": "Testy przesiewowe",
+    "wellbeing": "Dobrostan i nawyki"
+  },
+  "test": {
+    "start": "Rozpocznij test",
+    "questions": "Liczba pytań: {count}",
+    "minutes": "{count} min",
+    "free": "Bezpłatnie",
+    "aboutTitle": "O tym teście",
+    "whatYouGet": "Co zawiera Twój raport",
+    "whatYouGet1": "Twój wynik w każdym wymiarze: {dimensions}",
+    "whatYouGet2": "Osobistą interpretację każdego wyniku",
+    "whatYouGet3": "Praktyczne wskazówki do wykorzystania od razu",
+    "otherTests": "Inne popularne testy",
+    "question": "Pytanie {current} z {total}",
+    "back": "Wstecz",
+    "next": "Dalej",
+    "finish": "Zobacz moje wyniki",
+    "chooseAnswer": "Wybierz odpowiedź, która najlepiej do Ciebie pasuje.",
+    "resume": "Masz niedokończony test. Chcesz kontynuować od miejsca, w którym przerwano?",
+    "resumeYes": "Kontynuuj",
+    "resumeNo": "Zacznij od nowa",
+    "genderTitle": "Najpierw krótkie pytanie",
+    "genderQuestion": "Jaka jest Twoja płeć?",
+    "genderMale": "Mężczyzna",
+    "genderFemale": "Kobieta",
+    "genderOther": "Inna / wolę nie podawać",
+    "screenerNote": "Ten test jest narzędziem przesiewowym, a nie diagnozą."
+  },
+  "scales": {
+    "agree": [
+      "Zdecydowanie się nie zgadzam",
+      "Nie zgadzam się",
+      "Ani się zgadzam, ani nie zgadzam",
+      "Zgadzam się",
+      "Zdecydowanie się zgadzam"
+    ],
+    "frequency": [
+      "Nigdy",
+      "Rzadko",
+      "Czasami",
+      "Często",
+      "Bardzo często"
+    ],
+    "phq": [
+      "Wcale",
+      "Kilka dni",
+      "Więcej niż połowę dni",
+      "Niemal codziennie"
+    ],
+    "intensity": [
+      "Wcale",
+      "Trochę",
+      "Umiarkowanie",
+      "Znacznie",
+      "Bardzo silnie"
+    ]
+  },
+  "levels": {
+    "low": "Niski",
+    "mid": "Średni",
+    "high": "Wysoki"
+  },
+  "result": {
+    "title": "Twoje wyniki są gotowe",
+    "subtitle": "Test „{test}” został ukończony. Odblokuj pełny raport osobisty, aby zobaczyć swoje wyniki i ich znaczenie.",
+    "mainType": "Twój główny typ",
+    "locked": "Zablokowane",
+    "unlockTitle": "Odbierz pełny raport",
+    "unlockText": "Szczegółowy raport ze wszystkimi wynikami, osobistą interpretacją i praktycznymi wskazówkami, wysłany na Twój e-mail.",
+    "emailLabel": "Adres e-mail",
+    "emailPlaceholder": "ty@przyklad.pl",
+    "consent": "Akceptuję regulamin i politykę prywatności.",
+    "buy": "Odbierz raport za {price}",
+    "secure": "Bezpieczna płatność przez Stripe. Jednorazowa opłata, bez subskrypcji.",
+    "invalidEmail": "Podaj prawidłowy adres e-mail.",
+    "consentRequired": "Zaakceptuj regulamin, aby kontynuować.",
+    "error": "Coś poszło nie tak. Spróbuj ponownie.",
+    "noAnswers": "Nie znaleźliśmy Twoich odpowiedzi. Najpierw rozwiąż test.",
+    "takeTest": "Rozwiąż test",
+    "crisisTitle": "Nie jesteś sam(a)",
+    "crisisText": "Z Twoich odpowiedzi wynika, że miewasz myśli, że lepiej byłoby nie żyć, albo myśli o zrobieniu sobie krzywdy. Proszę, porozmawiaj z kimś jeszcze dziś. Jeśli grozi Ci bezpośrednie niebezpieczeństwo, zadzwoń pod 112. Możesz też o każdej porze skontaktować się z telefonem zaufania w swoim kraju, np. z listy na findahelpline.com.",
+    "crisisLink": "Znajdź telefon zaufania w pobliżu"
+  },
+  "thanks": {
+    "title": "Dziękujemy za zakup!",
+    "text": "Twój osobisty raport jest już w drodze na Twoją skrzynkę. Zwykle dociera w ciągu minuty.",
+    "spam": "Nie dotarł po 10 minutach? Sprawdź folder spam lub oferty albo napisz do nas na {email}.",
+    "more": "Odkryj więcej testów"
+  },
+  "report": {
+    "subject": "Twój raport: {test}",
+    "greeting": "Dzień dobry,",
+    "intro": "Dziękujemy za wykonanie testu „{test}” w serwisie {site}. Oto Twój osobisty raport.",
+    "scoreLabel": "Twój wynik",
+    "outro": "Mamy nadzieję, że ten raport dostarczy Ci cennych spostrzeżeń. Chcesz poznać inne strony siebie? Wszystkie nasze testy znajdziesz na {url}.",
+    "signature": "Zespół {site}",
+    "instrumentLabel": "{name}: {score} z {max}",
+    "typeLabel": "Twój typ"
+  },
+  "footer": {
+    "tagline": "Poznaj siebie lepiej",
+    "about": "Rzetelne testy samooceny dla tych, którzy chcą czegoś więcej niż czteroliterowej etykiety.",
+    "company": "Firma",
+    "home": "Strona główna",
+    "help": "Pomoc",
+    "contact": "Kontakt",
+    "legal": "Informacje prawne",
+    "privacy": "Polityka prywatności",
+    "terms": "Regulamin",
+    "cookies": "Polityka cookies",
+    "refund": "Zasady zwrotów",
+    "rights": "© {year} {site}. Wszelkie prawa zastrzeżone.",
+    "disclaimer": "{site} nie jest usługą medyczną. W sprawach klinicznych skonsultuj się z uprawnionym specjalistą."
+  },
+  "legal": {
+    "privacyTitle": "Polityka prywatności",
+    "privacyBody": [
+      "Zbieramy wyłącznie dane niezbędne do świadczenia naszej usługi: Twoje odpowiedzi w testach oraz, jeśli kupisz raport, Twój adres e-mail.",
+      "Twoje odpowiedzi są przetwarzane w celu obliczenia wyniku. Gdy kupujesz raport, Twoje odpowiedzi i adres e-mail są przekazywane naszemu operatorowi płatności Stripe oraz dostawcy usług e-mail w celu realizacji płatności i dostarczenia raportu.",
+      "Nie sprzedajemy Twoich danych i nie wykorzystujemy ich do celów reklamowych. W każdej chwili możesz poprosić o usunięcie swoich danych, pisząc na {email}.",
+      "Płatności obsługuje Stripe. Nigdy nie widzimy ani nie przechowujemy danych Twojej karty."
+    ],
+    "termsTitle": "Warunki korzystania z usługi",
+    "termsBody": [
+      "Wszystkie testy w serwisie {site} służą autorefleksji i rozrywce. Nie stanowią diagnozy medycznej, psychologicznej ani zawodowej.",
+      "Rozwiązanie testu jest bezpłatne. Osobisty raport kosztuje {price} za test i jest płatny jednorazowo. Raport jest dostarczany w formie cyfrowej e-mailem.",
+      "Ponieważ raport jest treścią cyfrową dostarczaną natychmiast po płatności, zgadzasz się, że prawo do odstąpienia od umowy wygasa z chwilą wysłania raportu. Jeśli nie otrzymałeś raportu, napisz na {email}, a wyślemy go ponownie lub zwrócimy pieniądze.",
+      "Dokładamy starań, aby treści były rzetelne, ale nie możemy zagwarantować, że wyniki będą kompletne lub trafne w przypadku każdej osoby."
+    ],
+    "cookiesTitle": "Polityka cookies",
+    "cookiesBody": [
+      "{site} nie używa reklamowych ani śledzących plików cookie.",
+      "W Twojej przeglądarce przechowujemy tylko niezbędne dane: wybrany język i postęp w teście, abyś mógł kontynuować od miejsca, w którym przerwano. Dane te pozostają na Twoim urządzeniu.",
+      "Podczas płatności nasz operator płatności Stripe może zapisywać pliki cookie niezbędne do bezpiecznej realizacji płatności i zapobiegania oszustwom.",
+      "Masz pytania? Napisz do nas na {email}."
+    ],
+    "refundTitle": "Zasady zwrotów",
+    "refundBody": [
+      "Raport kosztuje {price} za test i jest płatny jednorazowo. Nie ma subskrypcji ani automatycznego odnawiania.",
+      "Nie otrzymałeś raportu lub coś poszło nie tak? Napisz na {email} w ciągu 14 dni, podając użyty adres e-mail, a wyślemy raport ponownie lub zwrócimy płatność.",
+      "Ponieważ raport jest treścią cyfrową dostarczaną natychmiast, ustawowe prawo do odstąpienia od umowy wygasa z chwilą jego wysłania. Mimo to zawsze pomożemy, jeśli coś jest nie tak.",
+      "Zwroty są realizowane na pierwotną metodę płatności w ciągu 5–10 dni roboczych."
+    ]
+  }
+}

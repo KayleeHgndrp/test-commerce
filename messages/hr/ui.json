@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "title": "{site} – Besplatni psihološki testovi online",
+    "description": "Riješite detaljne testove o osobnosti, privrženosti, karijeri, ADHD-u, sagorijevanju i još mnogo toga. Testovi su besplatni, a detaljno osobno izvješće stoji samo {price}."
+  },
+  "nav": {
+    "tests": "Testovi",
+    "pricing": "Cijene",
+    "faq": "Česta pitanja",
+    "language": "Jezik",
+    "cta": "Započni test"
+  },
+  "home": {
+    "badge": "Testova: {count} · Jezika: {languages}",
+    "heroTitle": "Upoznajte sebe, test po test",
+    "heroSubtitle": "Detaljni testovi o osobnosti, odnosima, poslu i dobrobiti. 100 pitanja, oko 5 minuta i osobno izvješće za samo {price}.",
+    "heroCta": "Istražite naše testove",
+    "heroSecondary": "Kako funkcionira",
+    "trust1": "Bez registracije",
+    "trust2": "Jednokratno plaćanje, bez pretplate",
+    "trust3": "Izvješće izravno u vaš sandučić",
+    "dimensionsTitle": "Vi ste više od jednog rezultata – upoznajte svaku svoju stranu.",
+    "dimensionsSubtitle": "Područja koja naši testovi najčešće mjere – osobnost, odnosi i dobrobit.",
+    "dimensions": [
+      "🎯 Usredotočenost",
+      "🔋 Društvena energija",
+      "🌊 Reakcija na stres",
+      "💞 Privrženost",
+      "⚖️ Odluke",
+      "🧭 Vrijednosti",
+      "💡 Kreativnost",
+      "🪞 Samosvijest",
+      "🛡️ Otpornost"
+    ],
+    "testsTitle": "Odaberite svoj test",
+    "testsSubtitle": "Svaki test možete riješiti besplatno. Odaberite onaj koji vam je najbliži.",
+    "howTitle": "Od prvog pitanja do cjelovitog izvješća u tri koraka",
+    "steps": [
+      {
+        "title": "Odaberite test",
+        "text": "Birajte iz naše zbirke testova osobnosti, odnosa i probirnih testova, a svaki se temelji na priznatim psihološkim modelima."
+      },
+      {
+        "title": "Riješite test",
+        "text": "Odgovorite na 100 pitanja na jednostavnoj ljestvici. Većina testova traje oko 5 minuta, a vaš se napredak sprema."
+      },
+      {
+        "title": "Pročitajte izvješće",
+        "text": "Primite osobno izvješće s rezultatima, njihovim značenjem i praktičnim savjetima, izravno u svoj sandučić."
+      }
+    ],
+    "pricingTitle": "Jednostavne cijene",
+    "pricingSubtitle": "Jedna cijena. Bez pretplate. Bez iznenađenja.",
+    "planFreeName": "Rješavanje testa",
+    "planFreePrice": "Besplatno",
+    "planFreeFeatures": [
+      "Svi testovi ({count}) besplatno",
+      "100 pitanja, oko 5 minuta",
+      "Napredak se automatski sprema",
+      "Trenutačan pregled područja vašeg rezultata"
+    ],
+    "planReportName": "Cjelovito izvješće",
+    "planReportPrice": "{price}",
+    "planReportPer": "jednokratno, po testu",
+    "planReportFeatures": [
+      "Vaš rezultat u svakoj dimenziji",
+      "Osobno tumačenje svakog rezultata",
+      "Praktični savjeti koje možete odmah primijeniti",
+      "Stiže u vaš sandučić za nekoliko minuta",
+      "Bez pretplate, bez automatske obnove"
+    ],
+    "planCta": "Isprobajte sada",
+    "faqTitle": "Česta pitanja",
+    "faq": [
+      {
+        "q": "Što je {site}?",
+        "a": "{site} je internetska platforma s detaljnim testovima samoprocjene o osobnosti, odnosima, poslu i dobrobiti. Svaki test možete riješiti besplatno, a ako želite saznati više, možete naručiti detaljno osobno izvješće."
+      },
+      {
+        "q": "Koliko stoji test?",
+        "a": "Rješavanje testa je besplatno. Detaljno osobno izvješće stoji {price} i plaća se jednokratno. Nema pretplate i nikada vam se ništa neće automatski ponovno naplatiti."
+      },
+      {
+        "q": "Kako ću dobiti izvješće?",
+        "a": "Nakon plaćanja izvješće se šalje na adresu e-pošte koju ste unijeli, obično u roku od minute. Ne možete ga pronaći? Provjerite mapu neželjene pošte ili promocija."
+      },
+      {
+        "q": "Mogu li ponoviti test?",
+        "a": "Da, koliko god često želite. Ponavljanje testa nakon nekoliko tjedana dobar je način da vidite što se promijenilo. Svako izvješće zasebna je jednokratna kupnja."
+      },
+      {
+        "q": "Je li ovo medicinska dijagnoza?",
+        "a": "Ne. Naši su testovi namijenjeni samorefleksiji. Probirni testovi, poput testa za ADHD ili depresiju, mogu pokazati ima li smisla razgovarati sa stručnjakom, ali nikada ne zamjenjuju procjenu kvalificiranog stručnjaka."
+      },
+      {
+        "q": "Kako su nastali ovi testovi?",
+        "a": "Naši se testovi temelje na priznatim psihološkim modelima kao što su Velikih pet, RIASEC i teorija privrženosti. Testovi depresije i traume uključuju i javno dostupne upitnike PHQ-9 i PCL-5, koji se boduju prema službenim graničnim vrijednostima."
+      },
+      {
+        "q": "Mogu li rezultati biti nepouzdani?",
+        "a": "Svaki upitnik ima određenu pogrešku, a ulogu može imati i vaše raspoloženje tog dana. Odgovarajte iskreno i bez previše razmišljanja te rezultat shvatite kao polazište za razmišljanje, a ne kao konačnu presudu."
+      },
+      {
+        "q": "Hoće li moji podaci ostati privatni?",
+        "a": "Da. Ne trebate korisnički račun. Vaši se odgovori koriste samo za izračun rezultata i izradu izvješća, a vaše podatke nikada ne prodajemo."
+      }
+    ],
+    "ctaTitle": "Spremni otkriti više o sebi?",
+    "ctaButton": "Istražite naše testove"
+  },
+  "categories": {
+    "personality": "Osobnost i tip",
+    "relationships": "Odnosi i emocije",
+    "work": "Posao i vrijednosti",
+    "screeners": "Probirni testovi",
+    "wellbeing": "Dobrobit i navike"
+  },
+  "test": {
+    "start": "Započni test",
+    "questions": "Pitanja: {count}",
+    "minutes": "{count} min",
+    "free": "Besplatno",
+    "aboutTitle": "O ovom testu",
+    "whatYouGet": "Što sadrži vaše izvješće",
+    "whatYouGet1": "Vaš rezultat u svakoj dimenziji: {dimensions}",
+    "whatYouGet2": "Osobno tumačenje svakog rezultata",
+    "whatYouGet3": "Praktični savjeti koje možete odmah primijeniti",
+    "otherTests": "Drugi popularni testovi",
+    "question": "Pitanje {current} od {total}",
+    "back": "Natrag",
+    "next": "Dalje",
+    "finish": "Prikaži moje rezultate",
+    "chooseAnswer": "Odaberite odgovor koji vam najbolje odgovara.",
+    "resume": "Imate nedovršen test. Želite li nastaviti ondje gdje ste stali?",
+    "resumeYes": "Nastavi",
+    "resumeNo": "Kreni ispočetka",
+    "genderTitle": "Najprije jedno kratko pitanje",
+    "genderQuestion": "Kojeg ste spola?",
+    "genderMale": "Muško",
+    "genderFemale": "Žensko",
+    "genderOther": "Drugo / ne želim reći",
+    "screenerNote": "Ovaj je test alat za probir, a ne dijagnoza."
+  },
+  "scales": {
+    "agree": [
+      "Uopće se ne slažem",
+      "Ne slažem se",
+      "Niti se slažem niti se ne slažem",
+      "Slažem se",
+      "U potpunosti se slažem"
+    ],
+    "frequency": [
+      "Nikad",
+      "Rijetko",
+      "Ponekad",
+      "Često",
+      "Vrlo često"
+    ],
+    "phq": [
+      "Nimalo",
+      "Nekoliko dana",
+      "Više od polovice dana",
+      "Gotovo svaki dan"
+    ],
+    "intensity": [
+      "Nimalo",
+      "Malo",
+      "Umjereno",
+      "Prilično",
+      "Iznimno"
+    ]
+  },
+  "levels": {
+    "low": "Nisko",
+    "mid": "Srednje",
+    "high": "Visoko"
+  },
+  "result": {
+    "title": "Vaši su rezultati spremni",
+    "subtitle": "Završili ste test „{test}”. Otključajte cjelovito osobno izvješće i saznajte svoje rezultate i njihovo značenje.",
+    "mainType": "Vaš glavni tip",
+    "locked": "Zaključano",
+    "unlockTitle": "Preuzmite cjelovito izvješće",
+    "unlockText": "Vaše detaljno izvješće sa svim rezultatima, osobnim tumačenjima i praktičnim savjetima, poslano na vašu e-poštu.",
+    "emailLabel": "Adresa e-pošte",
+    "emailPlaceholder": "vi@primjer.hr",
+    "consent": "Prihvaćam uvjete korištenja i pravila privatnosti.",
+    "buy": "Preuzmi izvješće za {price}",
+    "secure": "Sigurno plaćanje putem Stripea. Jednokratno plaćanje, bez pretplate.",
+    "invalidEmail": "Unesite valjanu adresu e-pošte.",
+    "consentRequired": "Za nastavak prihvatite uvjete korištenja.",
+    "error": "Nešto je pošlo po zlu. Pokušajte ponovno.",
+    "noAnswers": "Nismo pronašli vaše odgovore. Najprije riješite test.",
+    "takeTest": "Riješi test",
+    "crisisTitle": "Niste sami",
+    "crisisText": "Naveli ste da ste imali misli da bi vam bilo bolje da ste mrtvi ili da biste se ozlijedili. Molimo vas da danas razgovarate s nekim. Ako ste u neposrednoj opasnosti, nazovite 112. U bilo koje doba dana možete se obratiti i kriznoj liniji u svojoj zemlji, primjerice nekoj od onih navedenih na findahelpline.com.",
+    "crisisLink": "Pronađite liniju za pomoć u svojoj blizini"
+  },
+  "thanks": {
+    "title": "Hvala na kupnji!",
+    "text": "Vaše osobno izvješće stiže u vaš sandučić. Obično stigne u roku od minute.",
+    "spam": "Niste ga primili ni nakon 10 minuta? Provjerite mapu neželjene pošte ili promocija ili nam se javite na {email}.",
+    "more": "Otkrijte još testova"
+  },
+  "report": {
+    "subject": "Vaše izvješće: {test}",
+    "greeting": "Pozdrav,",
+    "intro": "Hvala što ste riješili test „{test}” na stranici {site}. Evo vašeg osobnog izvješća.",
+    "scoreLabel": "Vaš rezultat",
+    "outro": "Nadamo se da će vam ovo izvješće dati korisne uvide. Zanimaju vas i druge vaše strane? Otkrijte sve naše testove na {url}.",
+    "signature": "Tim {site}",
+    "instrumentLabel": "{name}: {score} od {max}",
+    "typeLabel": "Vaš tip"
+  },
+  "footer": {
+    "tagline": "Upoznajte se bolje",
+    "about": "Detaljni testovi samospoznaje za one koji žele više od oznake od četiri slova.",
+    "company": "Tvrtka",
+    "home": "Početna",
+    "help": "Pomoć",
+    "contact": "Kontaktirajte nas",
+    "legal": "Pravne informacije",
+    "privacy": "Pravila privatnosti",
+    "terms": "Uvjeti i odredbe",
+    "cookies": "Pravila o kolačićima",
+    "refund": "Pravila povrata novca",
+    "rights": "© {year} {site}. Sva prava pridržana.",
+    "disclaimer": "{site} nije medicinska usluga. Za kliničke tegobe obratite se licenciranom stručnjaku."
+  },
+  "legal": {
+    "privacyTitle": "Pravila privatnosti",
+    "privacyBody": [
+      "Prikupljamo samo podatke potrebne za pružanje naše usluge: vaše odgovore na testu i, ako kupite izvješće, vašu adresu e-pošte.",
+      "Vaši se odgovori obrađuju radi izračuna rezultata. Kada kupite izvješće, vaši odgovori i adresa e-pošte prosljeđuju se našem pružatelju usluga plaćanja Stripeu i našem pružatelju usluga e-pošte radi obrade plaćanja i dostave izvješća.",
+      "Vaše podatke ne prodajemo i ne koristimo ih za oglašavanje. U bilo kojem trenutku možete zatražiti brisanje svojih podataka slanjem poruke na {email}.",
+      "Plaćanja obrađuje Stripe. Podatke vaše kartice nikada ne vidimo niti ih pohranjujemo."
+    ],
+    "termsTitle": "Uvjeti korištenja",
+    "termsBody": [
+      "Svi testovi na stranici {site} namijenjeni su samorefleksiji i zabavi. Oni nisu medicinska, psihološka ni stručna dijagnoza.",
+      "Rješavanje testa je besplatno. Osobno izvješće stoji {price} po testu i plaća se jednokratno. Izvješće se dostavlja digitalno e-poštom.",
+      "Budući da je izvješće digitalni sadržaj koji se isporučuje odmah nakon plaćanja, prihvaćate da pravo na jednostrani raskid ugovora prestaje nakon slanja izvješća. Ako niste primili izvješće, javite se na {email} i ponovno ćemo vam ga poslati ili vratiti novac.",
+      "Trudimo se da sadržaj bude točan, ali ne možemo jamčiti da su rezultati potpuni ili točni za svaku osobu."
+    ],
+    "cookiesTitle": "Pravila o kolačićima",
+    "cookiesBody": [
+      "{site} ne koristi kolačiće za oglašavanje ni praćenje.",
+      "U vašem pregledniku pohranjujemo samo nužno potrebne podatke: odabrani jezik i napredak u testu, kako biste mogli nastaviti ondje gdje ste stali. Ti podaci ostaju na vašem uređaju.",
+      "Prilikom plaćanja naš pružatelj usluga plaćanja Stripe može postaviti kolačiće potrebne za sigurnu obradu plaćanja i sprječavanje prijevara.",
+      "Imate pitanja? Javite nam se na {email}."
+    ],
+    "refundTitle": "Pravila povrata novca",
+    "refundBody": [
+      "Izvješće stoji {price} po testu i plaća se jednokratno. Nema pretplate ni automatske obnove.",
+      "Niste primili izvješće ili je nešto pošlo po zlu? Javite se na {email} u roku od 14 dana, navedite adresu e-pošte koju ste koristili i ponovno ćemo vam poslati izvješće ili vratiti novac.",
+      "Budući da je izvješće digitalni sadržaj koji se odmah isporučuje, zakonsko pravo na jednostrani raskid ugovora prestaje nakon njegova slanja. Ipak, uvijek ćemo vam pomoći ako nešto nije u redu.",
+      "Povrat novca provodi se na izvorni način plaćanja u roku od 5 do 10 radnih dana."
+    ]
+  }
+}
