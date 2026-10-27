@@ -1,0 +1,206 @@
+{
+  "name": "16 személyiségtípus teszt",
+  "tagline": "Ismerd meg a négybetűs típusodat, és azt, mit árul el rólad.",
+  "intro": "Ez a teszt négy preferenciaskálán helyez el: honnan meríted az energiádat, hogyan fogadod be az információkat, hogyan hozol döntéseket, és hogyan szervezed az életedet. A négy preferenciád együtt a 16 személyiségtípus egyikét adja ki. Értékelj 100 rövid állítást; körülbelül öt percet vesz igénybe.",
+  "seoTitle": "16 személyiségtípus teszt – Ingyenes négybetűs típus",
+  "seoDescription": "Fedezd fel négybetűs személyiségtípusodat 5 perc alatt. Nézd meg preferenciáidat minden skálán, és olvasd el típusod portréját gyakorlati tippekkel.",
+  "items": [
+    "Akkor gondolkodom a legjobban, amikor másokkal beszélem át az ötleteket.",
+    "Gyakran gondolkodom azon, mit hozhat a jövő.",
+    "A döntéseimet elsősorban a logikára alapozom.",
+    "Szeretem nyitva hagyni a lehetőségeimet.",
+    "Jobban bízom a tényekben, mint a megérzésekben.",
+    "Társaság után egyedül töltött időre van szükségem, hogy feltöltődjek.",
+    "Szeretem, ha meg van tervezve a napom.",
+    "Mérlegelem, hogyan hatnak a döntéseim mások érzéseire.",
+    "Új emberek megismerése feldob.",
+    "Élvezem a rejtett mintázatok és jelentések felfedezését.",
+    "Az őszinteséget többre tartom a tapintatnál.",
+    "Szeretek a pillanat hevében dönteni.",
+    "Észreveszem azokat az apró részleteket, amelyek másoknak elkerülik a figyelmét.",
+    "Egy mély beszélgetést többre tartok sok felszínesnél.",
+    "Megkönnyebbülök, amikor megszületik egy döntés.",
+    "Fontos számomra a béke megőrzése.",
+    "Szeretek nyitott, pezsgő térben dolgozni.",
+    "Untatnak a rutinszerű részletek.",
+    "Egy konfliktus megoldásakor tárgyilagos tudok maradni.",
+    "Az utolsó pillanatos nyomás alatt dolgozom a legjobban.",
+    "A lépésről lépésre haladó útmutatásokat kedvelem.",
+    "Átgondolom a dolgokat, mielőtt kimondom őket.",
+    "Jóval a határidő előtt befejezem a feladataimat.",
+    "Inkább a szívemmel döntök, mint az eszemmel.",
+    "Gyorsan bekapcsolódom egy beszélgetésbe.",
+    "Bízom a megérzésemben, ha lehetőségekről van szó.",
+    "Szeretem tárgyilagosan elemezni az előnyöket és a hátrányokat.",
+    "A szigorú napirend korlátoz.",
+    "Arra összpontosítok, ami éppen most történik.",
+    "Egy csendes otthoni este az ideálom.",
+    "Szeretem tudni, mire számíthatok.",
+    "Nehezemre esik kritizálni azokat, akiket kedvelek.",
+    "Az emberek társasága feltölti az elemeimet.",
+    "Szeretem elképzelni, hogyan lehetnének másképp a dolgok.",
+    "A szabályoknak mindenkire ugyanúgy kell vonatkozniuk.",
+    "Gyakran egyszerre több projekttel is zsonglőrködöm.",
+    "Azokat az ötleteket szeretem, amelyeknek egyértelmű gyakorlati haszna van.",
+    "Megtartom magamnak a gondolataimat, amíg nem tisztulnak le.",
+    "Listákat írok, és tartom magam hozzájuk.",
+    "Könnyen meghat valaki más története.",
+    "Szeretem, ha széles baráti köröm van.",
+    "Gyakran olvasok a sorok között.",
+    "Habozás nélkül rámutatok a tervek hibáira.",
+    "Szeretem hagyni, hogy a nap vigyen magával.",
+    "Jól megjegyzem a konkrét tényeket és számokat.",
+    "A tömeg gyorsan kimerít.",
+    "Szeretem korán rögzíteni a terveket.",
+    "Kivételt teszek azokkal, akik nehéz helyzetben vannak.",
+    "Gyakran megosztom a gondolataimat, ahogy eszembe jutnak.",
+    "Az elméleteket jobban kedvelem a gyakorlati munkánál.",
+    "Az érvek győznek meg, nem az érzelmek.",
+    "Könnyen megváltoztatom a terveimet, ha valami jobb adódik.",
+    "Akkor tanulok a legjobban, ha a gyakorlatban csinálom a dolgokat.",
+    "Szívesebben dolgozom egyedül, mint csapatban.",
+    "A lezáratlan ügyek nyugtalanítanak.",
+    "Azt szeretném, ha egy döntésnél mindenki úgy érezné, hogy bevonták.",
+    "Boldoggá tesznek a programokkal teli hétvégék.",
+    "Szeretek metaforákban és képekben beszélni.",
+    "Inkább legyen igazam, mint hogy kedveljenek.",
+    "Addig halogatom a döntéseket, amíg muszáj meghoznom őket.",
+    "A bevált módszereket jobban kedvelem a kipróbálatlanoknál.",
+    "Csoportban hagyom, hogy mások vigyék a szót.",
+    "Naprakészen vezetem a naptáramat.",
+    "Egy csoporton belüli feszültség mélyen érint.",
+    "Nyugtalan leszek, ha túl sokáig vagyok egyedül.",
+    "Gyorsan előreugrom a nagy egészhez.",
+    "Számomra a méltányosság következetességet jelent.",
+    "Sok mindenbe belekezdek, és később fejezem be őket.",
+    "Szó szerint és pontosan írom le a dolgokat.",
+    "Inkább írok üzenetet, mint hogy telefonáljak.",
+    "Szeretek befejezni egy feladatot, mielőtt egy másikba kezdek.",
+    "A kedvesség fontosabb számomra, mint az, hogy igazam legyen.",
+    "Szeretek rendezvényeken vegyülni.",
+    "Az új ötletek jobban lelkesítenek, mint a gyakorlati tények.",
+    "Könnyen adok kritikus visszajelzést.",
+    "Az utolsó pillanatban pakolom be a táskámat.",
+    "Bizonyítékot akarok látni, mielőtt elhiszek valamit.",
+    "Kis, szoros baráti köröm van.",
+    "Bosszant, ha az utolsó pillanatban megváltoznak a tervek.",
+    "Gyakran személyesen veszem a munkámat érő kritikát.",
+    "Könnyen szóba elegyedem ismeretlenekkel.",
+    "Gyakran kihagyom a használati útmutatót, és magam jövök rá a dolgokra.",
+    "Szeretek vitatkozni, hogy próbára tegyem az ötleteket.",
+    "A kötetlen napok felszabadítóak számomra.",
+    "Élvezem azokat a feladatokat, amelyeknek kézzelfogható, látható eredménye van.",
+    "Egy hosszú, értekezletekkel teli nap után kimerültnek érzem magam.",
+    "A munkámban a világos struktúrát kedvelem.",
+    "Bízom abban, hogy az értékeim vezetik a döntéseimet.",
+    "Szívesebben ötletelek csoportban, mint hogy egyedül gondolkodjak.",
+    "Vonz az új és a kipróbálatlan.",
+    "Egy megoldást az alapján ítélek meg, hogy mennyire jól működik.",
+    "A hangulatomhoz igazítom a terveimet.",
+    "A korábbi tapasztalataimra támaszkodom a problémák megoldásában.",
+    "Az emberek néha elsőre nehezen olvasnak bennem.",
+    "Jó előre megszervezem a szabadságaimat.",
+    "Inkább bátorítok, mint kritizálok.",
+    "Általában az elsők között szólalok meg.",
+    "Jobban figyelek a jelenre, mint a jövőre.",
+    "A munkában a hozzáértést többre tartom a kedvességnél.",
+    "Szeretem gyorsan elvarrni a szálakat."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Extraverzió vs. Introverzió",
+      "short": "Hogy elsősorban az emberek és a cselekvés külső világából (E), vagy a gondolatok és az elmélyülés belső világából (I) meríted-e az energiádat.",
+      "low": "Az introverzió (I) felé hajlasz. Csendben töltődsz fel, előbb gondolkodsz, aztán beszélsz, és néhány mély beszélgetést többre tartasz sok rövidnél. Az ötleteidet gyakran magadban dolgozod fel, és csak akkor osztod meg, amikor már kiforrtak. A mozgalmas társasági napok akkor is elfáraszthatnak, ha élvezted őket. Tipp: tervezz pihenőidőt az intenzív társasági események utánra, és tekints rá karbantartásként, ne menekülésként. Csoportos helyzetekben készítsd elő előre a hozzászólásodat, vagy utólag írásban egészítsd ki, hogy az ötleteid meghallgatásra találjanak.",
+      "mid": "Közel állsz a középhez az extraverzió és az introverzió között, így a betűd a hangulattól vagy a helyzettől függően változhat. Élvezed a társaságot és a tevékenységet, mégis szükséged van egyedül töltött időre a feltöltődéshez. A feladattól függően hangosan gondolkodsz másokkal, vagy csendben elmélkedsz. Tipp: figyeld meg az energiádat a különböző típusú napok után. Ezt a tudást használd fel egy olyan heti ritmus kialakításához, amely a neked megfelelő arányban keveri a társas kapcsolatokat és a csendes időt.",
+      "high": "Az extraverzió (E) felé hajlasz. Az emberekből, a beszélgetésből és a tevékenységből merítesz energiát, és gyakran akkor gondolkodsz a legjobban, amikor átbeszéled a dolgokat. Gyorsan bekapcsolódsz, könnyen megközelíthető vagy, és jól érzed magad csoportban. A hosszú egyedüllét nyugtalanná tehet. Tipp: mielőtt egy vitában reagálsz, tarts egy rövid szünetet, és először tegyél fel egy kérdést; ez teret ad a csendesebbeknek, és a saját gondolkodásodat is élesíti. Iktass be rövid elmélkedő pillanatokat, hogy feldolgozd, amit átélsz."
+    },
+    "sensing": {
+      "name": "Érzékelés vs. Intuíció",
+      "short": "Hogy elsősorban a konkrét tényekre, részletekre és tapasztalatokra (S), vagy a mintázatokra, lehetőségekre és a nagy egészre (N) összpontosítasz-e.",
+      "low": "Az intuíció (N) felé hajlasz. Természetes módon keresed a jelentést, a mintázatokat és a jövőbeli lehetőségeket, és élvezed az ötleteket, az elméleteket és annak elképzelését, mi lehetne. A rutinszerű részletek untathatnak, és néha lépéseket ugrasz át, hogy eljuss a nagy egészig. Tipp: amikor megosztod az elképzelésedet, adj hozzá konkrét példákat és következő lépéseket, hogy mások is követni tudjanak. Kérj meg egy részletorientált kollégát, hogy nézze át a terveidet gyakorlati hiányosságok után kutatva, mielőtt elköteleződsz.",
+      "mid": "Közel állsz a középhez az érzékelés és az intuíció között, így a betűd helyzetről helyzetre változhat. Tudsz kemény tényekkel és részletekkel dolgozni, de élvezed az ötletek és lehetőségek felfedezését is. Ez lehetővé teszi, hogy hidat képezz a gyakorlatias emberek és a látnokok között. Tipp: figyeld meg, nyomás alatt melyik üzemmódba váltasz alapból. Fontos döntéseknél tudatosan ellenőrizd mindkettőt: mit mondanak a tények, és milyen új lehetőségeket érdemes megfontolni?",
+      "high": "Az érzékelés (S) felé hajlasz. A tényekben, a tapasztalatban, és abban bízol, amit látsz és kipróbálhatsz. Észreveszed a részleteket, a világos útmutatást kedveled, és azokat az ötleteket szereted, amelyeknek gyakorlati haszna van. Az emberek támaszkodnak a realitásérzékedre és a pontosságodra. Tipp: amikor mások elvont ötleteket osztanak meg, adj nekik egy kis időt, mielőtt a gyakorlati hasznukról ítélkeznél; némelyikből még hasznos dolog válhat. Időnként próbáld elképzelni, hová vezethet egy trend öt év múlva, hogy tágítsd a látóköröd."
+    },
+    "thinking": {
+      "name": "Gondolkodás vs. Érzés",
+      "short": "Hogy döntéseidet elsősorban logikával és tárgyilagos elemzéssel (T), vagy személyes értékek és az emberekre gyakorolt hatás alapján (F) hozod-e.",
+      "low": "Az érzés (F) felé hajlasz. Úgy hozol döntéseket, hogy mérlegeled az értékeket, a kapcsolatokat, és azt, hogyan érinti az embereket. Fontos neked a harmónia, értékeled a kedvességet, és gyorsan megérzed, mire van szüksége a másiknak. Az emberek gyakran érzik úgy, hogy megérted őket. Tipp: ha nehéz egy döntés, írd le a tárgyilagos előnyöket és hátrányokat is; így könnyebben megindokolhatod a választásodat. Ne feledd: a melegen átadott őszinte visszajelzés is a törődés egy formája.",
+      "mid": "Közel állsz a középhez a gondolkodás és az érzés között, így a betűd helyzetenként eltérhet. Döntéskor a logikát és az emberekre gyakorolt hatást is mérlegeled, ami segít méltányos, kiegyensúlyozott megoldásokat találni. Tipp: figyeld meg, hogy a munkában a logikára, otthon pedig az érzéseidre támaszkodsz-e, vagy éppen fordítva. Kulcsfontosságú döntéseknél tudatosan ellenőrizd mindkettőt: megalapozott-e, és méltányos-e az érintettekkel szemben?",
+      "high": "A gondolkodás (T) felé hajlasz. Logika, következetesség és tárgyilagos elemzés alapján döntesz. A méltányosságot úgy érted, hogy ugyanazok a szabályok vonatkoznak mindenkire, és képes vagy kemény visszajelzést adni anélkül, hogy az érzelmek befolyásolnának. Tipp: mielőtt kritikát fogalmazol meg, ismerd el az illető munkája mögötti erőfeszítést vagy szándékot. Kérdezd meg magadtól, milyen érzés lesz egy döntés az érintetteknek; ez gyakran javítja az elfogadottságot anélkül, hogy gyengítené az érvelésedet."
+    },
+    "judging": {
+      "name": "Megítélés vs. Észlelés",
+      "short": "Hogy a tervezett, eldöntött és strukturált életet (J), vagy a rugalmas, nyitott és spontán életet (P) kedveled-e.",
+      "low": "Az észlelés (P) felé hajlasz. Szereted nyitva hagyni a lehetőségeidet, menet közben alkalmazkodni, és akkor dönteni, amikor muszáj. Gyakran energialöketekben dolgozol, és a merev napirend béklyónak érződik. Ettől rugalmas és leleményes vagy, amikor változnak a tervek. Tipp: a lényeges dolgokhoz használj könnyed struktúrát, például egyetlen határidő-emlékeztető rendszert. Bontsd a nagy projekteket kis mérföldkövekre, hogy a végső hajrá ne váljon stresszessé.",
+      "mid": "Közel állsz a középhez a megítélés és az észlelés között, így a betűd változhat. Szereted, ha van terved, de könnyen elengeded, ha valami jobb adódik. Képes vagy tartani a határidőket, és mégis élvezni a spontaneitást. Tipp: figyeld meg, hol csökkentené a stresszt egy kicsivel több tervezés – például az utazásnál vagy a pénzügyeknél –, és hol tenné szórakoztatóbbá a dolgokat több rugalmasság. Tudatosan igazíts, ne megszokásból.",
+      "high": "A megítélés (J) felé hajlasz. Szeretsz előre tervezni, döntéseket hozni és lezárni a dolgokat. A világos napirend, a listák és a határidők a kontroll érzését adják, és a feladataidat általában jóval az utolsó pillanat előtt befejezed. Tipp: hagyj némi szabad teret a terveidben, hogy a meglepetések ne zökkentsenek ki. Amikor mások lazábban dolgoznak, egyezzetek meg a kulcsfontosságú határidőkben, és hagyd, hogy ők válasszák meg, hogyan jutnak el odáig."
+    }
+  },
+  "summary": "A típusod négy preferenciát kombinál: extraverzió vagy introverzió (E/I), érzékelés vagy intuíció (S/N), gondolkodás vagy érzés (T/F), valamint megítélés vagy észlelés (J/P). Minden skála megmutatja, mennyire hajlasz az egyik oldal felé; az 50% körüli pontszám azt jelenti, hogy mindkét oldalt elég rugalmasan használod. A típusok preferenciákat írnak le, nem képességeket, és egyik típus sem jobb a másiknál.",
+  "types": {
+    "ISTJ": {
+      "name": "A horgony",
+      "text": "Kiegyensúlyozott, alapos és mélyen megbízható vagy. Tiszteled a tényeket, betartod az ígéreteidet, és módszeresen haladsz a feladatokkal, amíg rendesen el nem készülnek. Az emberek számítanak rád, mert azt teszed, amit mondasz. A világos elvárásokat és a bevált módszereket kedveled, és észreveszed azokat a hibákat, amelyek másoknak elkerülik a figyelmét. A csendes erőd összetartja a csapatokat és a családokat. Fejlődési tipp: maradj nyitott az új megközelítésekre, még akkor is, ha a régi módszer még működik; néha egy kísérlet valódi javulást hoz. Fejezd ki hangosan is, hogy értékeled a többieket, mert a hűséged nem mindig látható. Szánj időt a pihenésre anélkül, hogy előbb ki kellene érdemelned."
+    },
+    "ISFJ": {
+      "name": "Az őrző",
+      "text": "Gondoskodó, lelkiismeretes és csendesen odaadó vagy. Emlékszel arra, ami fontos az embereknek, észreveszed az igényeiket, és gyakorlati módon segítesz, gyakran kérés nélkül. Fontos neked a hagyomány, a stabilitás és a harmónia, és keményen dolgozol azért, hogy mások biztonságban és kényelemben érezzék magukat. A kedvességed az a fajta állandó jóság, amelyre az emberek évekig támaszkodhatnak. Fejlődési tipp: a saját igényeid ugyanannyi figyelmet érdemelnek, mint amennyit másoknak adsz, ezért gyakorold, hogy bűntudat nélkül mondj nemet. Szólalj meg, ha valami zavar, ahelyett, hogy csendben magadba fojtanád. Ha hagyod, hogy mások támogassanak, az erősíti a kapcsolatokat, nem terheli őket."
+    },
+    "INFJ": {
+      "name": "A csendes látnok",
+      "text": "Mély emberismeretet ötvözöl erős céltudatossággal. Megérzed a kapcsolatok rejtett áramlatait, hosszú távon gondolkodsz, és azt szeretnéd, ha az életed valami értelmeshez járulna hozzá. Zárkózott, mégis meleg vagy, és akiket beengedsz, valóban látva érzik magukat. Az eszményeid irányt és elszántságot adnak. Fejlődési tipp: a magas mércéd kimerültségbe vagy csalódásba fordulhat, ha a valóság elmarad tőle, ezért ünnepeld a haladást, ne csak a tökéletességet. Oszd meg az ötleteidet korábban, ahelyett, hogy megvárnád, amíg teljesen kiforrnak. Védd az energiádat azzal, hogy még azelőtt húzol határokat, hogy túlterheltnek éreznéd magad, nem utána."
+    },
+    "INTJ": {
+      "name": "A nagy stratéga",
+      "text": "Független, elemző gondolkodású vagy, és a hosszú távú célokra összpontosítasz. Látod, hogyan illeszkednek egymáshoz a rendszerek, gyorsan kiszúrod a hatékonysági hiányosságokat, és szeretsz jobb módszereket kidolgozni. Bízol a saját érvelésedben, és hajlandó vagy a saját utadat járni, hogy megvalósíts egy elképzelést. Az elszántságod valósággá tudja váltani a nagyratörő ötleteket. Fejlődési tipp: mások talán nem követik olyan gyorsan a logikádat, mint te, ezért magyarázd el lépésről lépésre a gondolatmenetedet, és kérj visszajelzést. Ne feledd, hogy az emberek érzései is adatok. Hagyj teret a tökéletlen első változatoknak; a haladás gyakran többet ér egy hibátlan, de váratott tervnél."
+    },
+    "ISTP": {
+      "name": "A mindenes ezermester",
+      "text": "Nyugodt, gyakorlatias vagy, és kíváncsi arra, hogyan működnek a dolgok. Szereted a gyakorlatban megérteni a problémákat, szétszedni a dolgokat, és hatékony megoldásokat találni. Válsághelyzetben hidegvérű maradsz, és határozottan cselekszel, miközben mások még csak beszélnek. Fontos neked a szabadság, és nem kedveled a felesleges szabályokat vagy a hosszú értekezleteket. Fejlődési tipp: oszd meg gyakrabban a gondolataidat másokkal, mert a hallgatásodat érdektelenségnek vélhetik. Kötelezd el magad néhány hosszú távú cél mellett, hogy a sokféle készséged valami nagyobb felé építkezzen. Mondd el a hozzád közel állóknak, mit érzel; a megbecsülés apró szavainak nagy súlya van."
+    },
+    "ISFP": {
+      "name": "A szelíd művész",
+      "text": "Érzékeny, kedves vagy, és ráhangolódsz a szépségre és a jelen pillanatra. Inkább tettekkel és kreativitással fejezed ki magad, mint szavakkal, és fontos neked a hitelesség és a szabadság. Toleráns, nyitott gondolkodású vagy, és hűséges azokhoz az emberekhez és ügyekhez, amelyek fontosak neked. A szelíd jelenléted elfogadottság érzését kelti másokban. Fejlődési tipp: lehet, hogy addig kerülöd a konfliktust, amíg fel nem gyűlik benned a frusztráció, ezért gyakorold, hogy az apró aggályaidat korán kimondd. Fordítsd az értékeidet néhány konkrét célra, hogy a tehetséged irányt kapjon. Higgy annyira a munkádban, hogy megmutasd másoknak; a nézőpontod megérdemli, hogy lássák."
+    },
+    "INFP": {
+      "name": "Az álmodozó",
+      "text": "Idealista, fantáziadús vagy, és erős belső értékek vezetnek. Mindenben az értelmet keresed, és mélyen fontos neked a hitelesség – magadban és másokban is. Jól érted az érzéseket, és gyakran írásban, művészetben vagy elmélyült beszélgetésekben fejezed ki őket. Szelíd, nyitott gondolkodású vagy, és hűséges ahhoz, amiben hiszel. Fejlődési tipp: az eszményeid iránytűként szolgálnak, de a valóság ritkán tökéletes; tegyél apró gyakorlati lépéseket, ahelyett, hogy az ideális pillanatra várnál. Légy ugyanolyan együttérző magaddal, mint másokkal. Oszd meg az álmaidat olyanokkal, akik segíthetnek valóra váltani őket."
+    },
+    "INTP": {
+      "name": "A rejtvényfejtő",
+      "text": "Logikus, leleményes és végtelenül kíváncsi vagy. Imádod elemezni az ötleteket, ellentmondásokat találni, és olyan elméleteket felépíteni, amelyek megmagyarázzák, hogyan működnek valójában a dolgok. Önállóan gondolkodsz, és élvezed a bonyolult témákról szóló mély beszélgetéseket. Az elméd olyan eredeti megoldásokat lát meg, amelyek másoknak elkerülik a figyelmét. Fejlődési tipp: az ötletek akkor bontakoznak ki igazán, ha megosztják és alkalmazzák őket, ezért tűzz ki magadnak kis határidőket a munkád befejezésére és bemutatására. Figyelj a gyakorlati részletekre és arra, hogyan éreznek mások – ezek akkor is számítanak, ha logikátlannak tűnnek. Kapcsolódj olyanokhoz, akik osztoznak az érdeklődésedben; feltöltik a gondolkodásodat."
+    },
+    "ESTP": {
+      "name": "A vakmerő",
+      "text": "Energikus, merész és cselekvésorientált vagy. A pillanatnak élsz, gyorsan felméred a helyzeteket, és akkor vagy elemedben, amikor felgyorsulnak az események. Élvezed a kihívásokat, okos kockázatokat vállalsz, és helyben megoldod a gyakorlati problémákat. Az embereket vonzza a magabiztosságod és a humorod. Fejlődési tipp: gondold végig a hosszabb távú következményeket, mielőtt fejest ugrasz valamibe, különösen a pénzügyekben és a kapcsolatokban. Gyakorold a türelmet a lassabb folyamatokkal és azokkal szemben, akiknek több idő kell a döntéshez. Gondold át, hogyan hat az egyenes stílusod az érzékenyebb emberekre; egy kis tapintat még erősebbé teszi a befolyásodat."
+    },
+    "ESFP": {
+      "name": "A szikra",
+      "text": "Élénk, melegszívű és életvidám vagy. Energiát hozol minden helyiségbe, élvezed az embereket és az élményeket, és különlegessé teszed a hétköznapi pillanatokat. Gyakorlatias, nagylelkű vagy, és gyorsan segítesz annak, akinek nehéz. A lelkesedésed ragályos, és az emberek szívesen vannak a közeledben. Fejlődési tipp: az előre tervezés unalmasnak tűnhet, de egy kis struktúra a pénzügyekben és a hosszú távú célokban később több szabadságot ad. Nézz szembe a nehéz beszélgetésekkel, ahelyett, hogy elterelnéd a figyelmedet. Szánj néhány csendes pillanatot arra, hogy átgondold, mit szeretnél igazán, és ne csak azt, ami éppen jólesik."
+    },
+    "ENFP": {
+      "name": "Az inspiráló",
+      "text": "Lelkes, kreatív és tele vagy lehetőségekkel. Könnyen kapcsolódsz az emberekhez, mindenütt meglátod a lehetőséget, és imádsz új projekteket és beszélgetéseket kezdeni. A melegséged és a fantáziád nagyobb álmokra bátorít másokat. Fontos neked a szabadság, a hitelesség és a tartalmas kapcsolatok. Fejlődési tipp: a sok ötletednek fókuszra van szüksége ahhoz, hogy eredménnyé váljon, ezért válassz ki néhány prioritást, és vidd végig őket. Alakíts ki egyszerű rutinokat azokra a gyakorlati feladatokra, amelyeket unalmasnak találsz. Amikor egy új kezdet izgalma után lelohad a hangulatod, ne feledd: a valódi jutalom nagy része a kitartó végigvitelben rejlik."
+    },
+    "ENTP": {
+      "name": "Az újító",
+      "text": "Gyors észjárású, leleményes vagy, és imádod a jó vitát. Új szögből látod a régi problémákat, megkérdőjelezed a feltevéseket, és élvezed az ötletekkel való kísérletezést. Gyorsan alkalmazkodsz, és feltöltenek a bonyolult kihívások és az okos emberek. A kíváncsiságod arra ösztönöz, hogy szinte mindent jobbá tegyél, amihez hozzányúlsz. Fejlődési tipp: nem minden vitát kell megnyerni, és vannak, akik a vitát konfliktusként élik meg, ezért figyelj a hangulatra. Vidd végig a legjobb ötleteidet, ahelyett, hogy túl hamar továbblépnél a következőre. Társulj részletorientált emberekkel, akik segítenek valóra váltani az elképzeléseidet."
+    },
+    "ESTJ": {
+      "name": "A kapitány",
+      "text": "Szervezett, határozott és gyakorlatias vagy. Szereted a világos célokat, a hatékony folyamatokat, és azt, ha a dolgok elkészülnek. Természetes módon vállalsz felelősséget, magas mércét állítasz, és gondoskodsz róla, hogy a tervek megvalósuljanak. Az emberek értékelik az egyenességedet és a megbízhatóságodat. Fejlődési tipp: a hatékony stílusod mások számára irányítónak tűnhet, ezért kérd ki a véleményüket, mielőtt döntesz, és magyarázd el, miért. Maradj nyitott az új módszerekre, még ha a jelenlegi működik is. Fejezd ki megbecsülésedet az emberek erőfeszítése iránt, ne csak az eredményeik iránt; az elismerés ugyanúgy motivál, mint a világos útmutatás."
+    },
+    "ESFJ": {
+      "name": "A házigazda",
+      "text": "Társaságkedvelő, gondoskodó és közösségi beállítottságú vagy. Észreveszed, mire van szükségük az embereknek, szívesen látott vendégnek érezteted őket, és szereted összehozni a többieket. Fontos neked a harmónia, a hűség és a hagyomány, és valódi erőfeszítést teszel azért, hogy a kapcsolatok és a csoportok olajozottan működjenek. Az emberek a közeledben gondoskodást éreznek. Fejlődési tipp: lehet, hogy személyesen veszed a kritikát vagy a konfliktust, ezért emlékeztesd magad, hogy a nézeteltérés nem elutasítás. Nézz rá, hogy azért segítesz-e, mert szeretnél, vagy mert úgy érzed, muszáj. Adj teret a saját igényeidnek és véleményednek; ugyanannyira számítanak, mint bárki másé."
+    },
+    "ENFJ": {
+      "name": "A mentor",
+      "text": "Melegszívű, inspiráló vagy, és arra összpontosítasz, hogy segíts az embereknek fejlődni. Jól olvasol másokban, előhozod az erősségeiket, és közös cél köré gyűjtöd a csoportokat. Lelkesedéssel és meggyőződéssel kommunikálsz, és felelősséget érzel a körülötted élők jóllétéért. Az emberek gyakran kérik ki a tanácsodat. Fejlődési tipp: nem cipelhetsz mindenkit, ezért hagyd, hogy mások vállalják a felelősséget a saját döntéseikért. Vedd észre, amikor túlvállalod magad, vagy elhanyagolod a saját igényeidet. Fogadd el, hogy lesznek, akik nem értenek egyet veled; az eltérő útjuk nem a te értékedet tükrözi."
+    },
+    "ENTJ": {
+      "name": "A vezér",
+      "text": "Magabiztos, stratégiai gondolkodású vagy, és hajt a teljesítmény. Látod a nagy egészet, nagyratörő célokat tűzöl ki, és megszervezed az embereket és az erőforrásokat az elérésükhöz. Gyorsan döntesz, világosan kommunikálsz, és nem riadsz vissza a kihívásoktól vagy a felelősségtől. Mások gyakran tőled várják a vezetést. Fejlődési tipp: a gyorsaságod és az egyenességed lehengerelheti az embereket, ezért lassíts, hogy meghallgasd őket, és elismerd az érzéseiket. Ne feledd, hogy a motiváció akkor nő, ha az emberek úgy érzik, meghallgatják őket, és nem csak irányítják. Hagyj teret a pihenésnek és a kapcsolatoknak; a hosszú távú siker nem csupán az eredményeken múlik."
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "name": "Test 16 typów osobowości",
+  "tagline": "Poznaj swój czteroliterowy typ i to, co o tobie mówi.",
+  "intro": "Ten test umieszcza cię na czterech skalach preferencji: skąd czerpiesz energię, jak przyjmujesz informacje, jak podejmujesz decyzje i jak organizujesz swoje życie. Twoje cztery preferencje łączą się w jeden z 16 typów osobowości. Oceń 100 krótkich stwierdzeń – zajmie ci to około pięciu minut.",
+  "seoTitle": "Test 16 typów osobowości – bezpłatny typ czteroliterowy",
+  "seoDescription": "Poznaj swój czteroliterowy typ osobowości w 5 minut. Zobacz swoje preferencje na każdej skali i przeczytaj portret swojego typu z praktycznymi wskazówkami.",
+  "items": [
+    "Najlepiej myślę, gdy omawiam pomysły z innymi.",
+    "Często myślę o tym, co może przynieść przyszłość.",
+    "Podejmuję decyzje przede wszystkim w oparciu o logikę.",
+    "Lubię zostawiać sobie otwarte możliwości.",
+    "Bardziej ufam faktom niż przeczuciom.",
+    "Po kontaktach z ludźmi potrzebuję czasu w samotności, by się zregenerować.",
+    "Lubię mieć zaplanowany dzień.",
+    "Rozważam, jak moje wybory wpłyną na uczucia innych.",
+    "Poznawanie nowych ludzi dodaje mi energii.",
+    "Lubię odkrywać ukryte wzorce i znaczenia.",
+    "Cenię szczerość bardziej niż takt.",
+    "Lubię podejmować decyzje pod wpływem chwili.",
+    "Zauważam drobne szczegóły, które umykają innym.",
+    "Wolę jedną głęboką rozmowę niż wiele luźnych.",
+    "Czuję ulgę, gdy decyzja zostaje podjęta.",
+    "Utrzymanie spokoju i zgody jest dla mnie ważne.",
+    "Lubię pracować w otwartej, tętniącej życiem przestrzeni.",
+    "Rutynowe szczegóły mnie nudzą.",
+    "Potrafię zachować dystans, rozwiązując konflikt.",
+    "Najlepiej pracuję pod presją ostatniej chwili.",
+    "Wolę instrukcje krok po kroku.",
+    "Przemyślam sprawy, zanim je wypowiem.",
+    "Kończę zadania długo przed terminem.",
+    "Decyduję bardziej sercem niż rozumem.",
+    "Szybko włączam się do rozmowy.",
+    "Ufam swojemu przeczuciu co do możliwości.",
+    "Lubię obiektywnie analizować za i przeciw.",
+    "Ścisłe harmonogramy mnie ograniczają.",
+    "Skupiam się na tym, co dzieje się tu i teraz.",
+    "Spokojny wieczór w domu to mój ideał.",
+    "Lubię wiedzieć, czego się spodziewać.",
+    "Trudno mi krytykować ludzi, których lubię.",
+    "Przebywanie wśród ludzi ładuje moje baterie.",
+    "Lubię wyobrażać sobie, jak rzeczy mogłyby wyglądać inaczej.",
+    "Zasady powinny obowiązywać wszystkich w ten sam sposób.",
+    "Często żongluję kilkoma projektami naraz.",
+    "Lubię pomysły, które mają jasne praktyczne zastosowanie.",
+    "Zachowuję myśli dla siebie, dopóki nie są jasne.",
+    "Tworzę listy i się ich trzymam.",
+    "Łatwo wzrusza mnie czyjaś historia.",
+    "Lubię mieć szerokie grono przyjaciół.",
+    "Często czytam między wierszami.",
+    "Bez wahania wskazuję słabe punkty planów.",
+    "Lubię zobaczyć, dokąd zaprowadzi mnie dzień.",
+    "Dobrze zapamiętuję konkretne fakty i liczby.",
+    "Tłumy szybko mnie męczą.",
+    "Wolę ustalać plany wcześnie.",
+    "Robię wyjątki dla ludzi w trudnej sytuacji.",
+    "Często dzielę się myślami na bieżąco, gdy tylko się pojawiają.",
+    "Wolę teorie od pracy praktycznej.",
+    "Przekonują mnie argumenty, a nie emocje.",
+    "Łatwo zmieniam plany, gdy pojawia się coś lepszego.",
+    "Najlepiej uczę się przez praktyczne działanie.",
+    "Wolę pracować w pojedynkę niż w zespole.",
+    "Niezałatwione sprawy wywołują u mnie niepokój.",
+    "Chcę, by każdy czuł się uwzględniony w decyzji.",
+    "Weekendy wypełnione planami sprawiają mi radość.",
+    "Lubię mówić metaforami i obrazami.",
+    "Wolę mieć rację, niż być lubianą osobą.",
+    "Odkładam decyzje, dopóki nie muszę ich podjąć.",
+    "Wolę sprawdzone metody od nieprzetestowanych.",
+    "W grupie oddaję głos innym.",
+    "Na bieżąco aktualizuję swój kalendarz.",
+    "Napięcie w grupie głęboko na mnie wpływa.",
+    "Gdy zbyt długo przebywam w samotności, ogarnia mnie niepokój.",
+    "Szybko przeskakuję do szerszego obrazu.",
+    "Sprawiedliwość oznacza dla mnie konsekwencję.",
+    "Zaczynam wiele rzeczy, a kończę je później.",
+    "Opisuję rzeczy dosłownie i precyzyjnie.",
+    "Wolę napisać wiadomość niż zadzwonić.",
+    "Lubię skończyć jedno zadanie, zanim zacznę kolejne.",
+    "Życzliwość jest dla mnie ważniejsza niż racja.",
+    "Lubię krążyć między ludźmi na wydarzeniach.",
+    "Nowe pomysły ekscytują mnie bardziej niż praktyczne fakty.",
+    "Łatwo przychodzi mi przekazywanie krytycznej informacji zwrotnej.",
+    "Pakuję się w ostatniej chwili.",
+    "Chcę zobaczyć dowody, zanim w coś uwierzę.",
+    "Mam niewielkie grono bliskich przyjaciół.",
+    "Irytuje mnie, gdy plany zmieniają się w ostatniej chwili.",
+    "Często biorę do siebie krytykę mojej pracy.",
+    "Łatwo zagaduję do ludzi, których nie znam.",
+    "Często pomijam instrukcje i samodzielnie dochodzę do tego, jak coś działa.",
+    "Lubię dyskutować, by sprawdzać pomysły.",
+    "Dni bez planu dają mi poczucie wolności.",
+    "Lubię zadania z konkretnymi, widocznymi efektami.",
+    "Po długim dniu spotkań czuję wyczerpanie.",
+    "Wolę jasną strukturę w pracy.",
+    "Ufam, że moje wartości wskażą mi właściwe wybory.",
+    "Wolę burzę mózgów w grupie niż samotne rozmyślanie.",
+    "Pociąga mnie to, co nowe i niesprawdzone.",
+    "Oceniam rozwiązanie po tym, jak dobrze działa.",
+    "Dostosowuję plany do swojego nastroju.",
+    "Rozwiązując problemy, opieram się na swoim dotychczasowym doświadczeniu.",
+    "Ludziom czasem trudno mnie na początku rozgryźć.",
+    "Planuję wakacje z dużym wyprzedzeniem.",
+    "Wolę zachęcać niż krytykować.",
+    "Zwykle zabieram głos jako jedna z pierwszych osób.",
+    "Zwracam większą uwagę na teraźniejszość niż na przyszłość.",
+    "W pracy cenię kompetencje wyżej niż życzliwość.",
+    "Lubię szybko domykać niezałatwione sprawy."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Ekstrawersja kontra introwersja",
+      "short": "Czy czerpiesz energię głównie ze świata zewnętrznego, ludzi i działania (E), czy ze swojego wewnętrznego świata myśli i refleksji (I).",
+      "low": "Skłaniasz się ku introwersji (I). Regenerujesz się w ciszy, myślisz, zanim coś powiesz, i wolisz kilka głębokich rozmów od wielu krótkich. Często przetwarzasz pomysły wewnętrznie i dzielisz się nimi, gdy są już w pełni ukształtowane. Intensywne towarzysko dni mogą cię męczyć, nawet jeśli sprawiły ci przyjemność. Wskazówka: planuj czas na regenerację po intensywnych spotkaniach towarzyskich i traktuj go jak konserwację, a nie unikanie. W grupie przygotuj swój wkład z wyprzedzeniem albo uzupełnij go potem na piśmie, by twoje pomysły zostały usłyszane.",
+      "mid": "Znajdujesz się blisko środka między ekstrawersją a introwersją, więc twoja litera może się zmieniać zależnie od nastroju czy sytuacji. Lubisz towarzystwo i aktywność, ale potrzebujesz też czasu w samotności, by się zregenerować. W zależności od zadania potrafisz myśleć na głos z innymi albo rozważać sprawy w ciszy. Wskazówka: obserwuj swoją energię po różnych rodzajach dni. Wykorzystaj tę wiedzę, by zbudować tygodniowy rytm łączący kontakty towarzyskie z czasem w ciszy w proporcjach, które ci odpowiadają.",
+      "high": "Skłaniasz się ku ekstrawersji (E). Czerpiesz energię z ludzi, rozmów i aktywności i często najlepiej myślisz, omawiając sprawy na głos. Szybko się angażujesz, łatwo do ciebie podejść i dobrze czujesz się w grupie. Długie okresy w samotności mogą wywoływać w tobie niepokój. Wskazówka: zanim zareagujesz w dyskusji, zrób krótką pauzę i najpierw zadaj jedno pytanie; daje to przestrzeń cichszym osobom i wyostrza twoje własne myślenie. Planuj krótkie chwile refleksji, by przetwarzać to, czego doświadczasz."
+    },
+    "sensing": {
+      "name": "Poznanie zmysłowe kontra intuicja",
+      "short": "Czy skupiasz się głównie na konkretnych faktach, szczegółach i doświadczeniu (S), czy na wzorcach, możliwościach i szerszym obrazie (N).",
+      "low": "Skłaniasz się ku intuicji (N). Naturalnie szukasz znaczeń, wzorców i przyszłych możliwości i lubisz idee, teorie oraz wyobrażanie sobie tego, co mogłoby być. Rutynowe szczegóły mogą cię nudzić, a czasem pomijasz kroki, by dojść do szerszego obrazu. Wskazówka: dzieląc się wizją, dodaj konkretne przykłady i kolejne kroki, by inni mogli za tobą podążać. Zanim się zobowiążesz, poproś osobę dbającą o szczegóły, by sprawdziła twoje plany pod kątem praktycznych luk.",
+      "mid": "Znajdujesz się blisko środka między poznaniem zmysłowym a intuicją, więc twoja litera może się różnić w zależności od sytuacji. Potrafisz pracować z twardymi faktami i szczegółami, ale lubisz też zgłębiać idee i możliwości. Dzięki temu możesz łączyć ludzi praktycznych z wizjonerami. Wskazówka: zauważ, na który tryb przełączasz się domyślnie pod presją. Przy ważnych decyzjach świadomie sprawdzaj oba: co mówią fakty i jakie nowe opcje warto rozważyć?",
+      "high": "Skłaniasz się ku poznaniu zmysłowemu (S). Ufasz faktom, doświadczeniu i temu, co możesz zobaczyć i sprawdzić. Zauważasz szczegóły, wolisz jasne instrukcje i lubisz pomysły, które mają praktyczne zastosowanie. Ludzie polegają na twoim realizmie i dokładności. Wskazówka: gdy inni dzielą się abstrakcyjnymi pomysłami, daj im chwilę, zanim ocenisz ich praktyczność; niektóre mogą wyrosnąć na coś przydatnego. Od czasu do czasu spróbuj wyobrazić sobie, dokąd dany trend może prowadzić za pięć lat, by poszerzyć swoją perspektywę."
+    },
+    "thinking": {
+      "name": "Myślenie kontra odczuwanie",
+      "short": "Czy podejmujesz decyzje głównie poprzez logikę i obiektywną analizę (T), czy poprzez osobiste wartości i wpływ na ludzi (F).",
+      "low": "Skłaniasz się ku odczuwaniu (F). Podejmujesz decyzje, ważąc wartości, relacje i to, jak dana decyzja wpłynie na ludzi. Cenisz harmonię i życzliwość i szybko wyczuwasz, czego potrzebują inni. Ludzie często czują, że ich rozumiesz. Wskazówka: gdy decyzja jest trudna, zapisz też obiektywne za i przeciw; może to ułatwić wyjaśnienie twojego wyboru. Pamiętaj, że szczera informacja zwrotna przekazana z ciepłem to także forma troski.",
+      "mid": "Znajdujesz się blisko środka między myśleniem a odczuwaniem, więc twoja litera może się różnić w zależności od sytuacji. Decydując, bierzesz pod uwagę zarówno logikę, jak i wpływ na ludzi, co pomaga ci znajdować sprawiedliwe, zrównoważone rozwiązania. Wskazówka: zauważ, czy w pracy opierasz się na logice, a w domu na uczuciach, czy odwrotnie. Przy kluczowych decyzjach świadomie sprawdzaj oba aspekty: czy to rozsądne i czy to sprawiedliwe wobec zaangażowanych osób?",
+      "high": "Skłaniasz się ku myśleniu (T). Decydujesz w oparciu o logikę, konsekwencję i obiektywną analizę. Cenisz sprawiedliwość rozumianą jako stosowanie tych samych zasad wobec wszystkich i potrafisz przekazać trudną informację zwrotną, nie ulegając emocjom. Wskazówka: zanim podzielisz się krytyką, doceń wysiłek lub intencję stojącą za czyjąś pracą. Zapytaj, jak decyzja zostanie odebrana przez osoby, których dotyczy; często poprawia to jej akceptację, nie osłabiając twojego rozumowania."
+    },
+    "judging": {
+      "name": "Osądzanie kontra obserwacja",
+      "short": "Czy wolisz życie zaplanowane, zdecydowane i uporządkowane (J), czy elastyczne, otwarte i spontaniczne (P).",
+      "low": "Skłaniasz się ku obserwacji (P). Lubisz zostawiać sobie otwarte możliwości, dostosowywać się na bieżąco i decydować wtedy, gdy musisz. Często pracujesz zrywami energii, a sztywne harmonogramy cię ograniczają. Dzięki temu masz w sobie elastyczność i pomysłowość, gdy plany się zmieniają. Wskazówka: stosuj lekką strukturę dla najważniejszych spraw, na przykład jeden system przypomnień o terminach. Dziel duże projekty na małe etapy, by końcowy zryw nie stawał się stresujący.",
+      "mid": "Znajdujesz się blisko środka między osądzaniem a obserwacją, więc twoja litera może się zmieniać. Lubisz mieć plan, ale łatwo z niego rezygnujesz, gdy pojawia się coś lepszego. Potrafisz dotrzymywać terminów i jednocześnie cieszyć się spontanicznością. Wskazówka: zauważ, gdzie odrobina więcej planowania zmniejszyłaby stres, na przykład w podróżach czy finansach, a gdzie więcej elastyczności dodałoby radości. Dostosowuj się świadomie, a nie z przyzwyczajenia.",
+      "high": "Skłaniasz się ku osądzaniu (J). Lubisz planować z wyprzedzeniem, podejmować decyzje i domykać sprawy. Jasne harmonogramy, listy i terminy dają ci poczucie kontroli, a zadania zwykle kończysz na długo przed ostatnią chwilą. Wskazówka: zostawiaj w swoich planach trochę wolnej przestrzeni, by niespodzianki nie wytrącały cię z równowagi. Gdy inni pracują w luźniejszy sposób, uzgadniajcie kluczowe terminy i pozwól im wybrać drogę do celu."
+    }
+  },
+  "summary": "Twój typ łączy cztery preferencje: ekstrawersję lub introwersję (E/I), poznanie zmysłowe lub intuicję (S/N), myślenie lub odczuwanie (T/F) oraz osądzanie lub obserwację (J/P). Każda skala pokazuje, jak silnie skłaniasz się ku jednej ze stron; wyniki bliskie 50% oznaczają, że dość elastycznie korzystasz z obu. Typy opisują preferencje, a nie zdolności, i żaden typ nie jest lepszy od innego.",
+  "types": {
+    "ISTJ": {
+      "name": "Kotwica",
+      "text": "Cechują cię stałość, rzetelność i głęboka niezawodność. Szanujesz fakty, dotrzymujesz obietnic i metodycznie pracujesz nad zadaniami, dopóki nie zostaną porządnie wykonane. Ludzie na tobie polegają, bo robisz to, co mówisz. Wolisz jasne oczekiwania i sprawdzone metody, a do tego zauważasz błędy, które umykają innym. Twoja cicha siła spaja zespoły i rodziny. Wskazówka rozwojowa: zachowaj otwartość na nowe podejścia, nawet gdy stary sposób wciąż działa; czasem eksperyment przynosi prawdziwą poprawę. Wyrażaj na głos uznanie dla innych, bo twoja lojalność nie zawsze jest widoczna. Znajduj czas na odpoczynek, nie musząc najpierw na niego zasłużyć."
+    },
+    "ISFJ": {
+      "name": "Opiekun",
+      "text": "Masz w sobie troskliwość, sumienność i ciche oddanie. Pamiętasz, co jest ważne dla ludzi, zauważasz ich potrzeby i pomagasz w praktyczny sposób, często bez proszenia. Cenisz tradycję, stabilność i harmonię i ciężko pracujesz, by inni czuli się bezpiecznie i komfortowo. Twoja życzliwość jest tym stałym rodzajem dobroci, na którym ludzie polegają latami. Wskazówka rozwojowa: twoje potrzeby zasługują na taką samą uwagę, jaką poświęcasz innym, więc ćwicz odmawianie bez poczucia winy. Mów, gdy coś ci przeszkadza, zamiast po cichu to dźwigać. Pozwolenie innym, by cię wspierali, wzmacnia relacje, a nie je obciąża."
+    },
+    "INFJ": {
+      "name": "Cichy wizjoner",
+      "text": "Łączysz głęboki wgląd w ludzi z silnym poczuciem celu. Wyczuwasz ukryte prądy w relacjach, myślisz długofalowo i chcesz, by twoje życie przyczyniało się do czegoś ważnego. Strzeżesz swojej prywatności, a jednocześnie masz w sobie ciepło, a ludzie, których do siebie dopuszczasz, czują się naprawdę dostrzeżeni. Twoje ideały dają ci kierunek i determinację. Wskazówka rozwojowa: wysokie standardy mogą prowadzić do wyczerpania lub rozczarowania, gdy rzeczywistość im nie dorównuje, więc świętuj postępy, a nie tylko perfekcję. Dziel się pomysłami wcześniej, zamiast czekać, aż będą w pełni dopracowane. Chroń swoją energię, wyznaczając granice, zanim poczujesz przytłoczenie, a nie dopiero potem."
+    },
+    "INTJ": {
+      "name": "Wielki strateg",
+      "text": "Cechują cię niezależność, analityczny umysł i skupienie na długofalowych celach. Widzisz, jak systemy do siebie pasują, szybko dostrzegasz nieefektywność i lubisz projektować lepsze sposoby działania. Ufasz własnemu rozumowaniu i potrafisz iść własną drogą, by zrealizować swoją wizję. Twoja determinacja potrafi zamieniać ambitne pomysły w rzeczywistość. Wskazówka rozwojowa: inni mogą nie nadążać za twoją logiką tak szybko jak ty, więc wyjaśniaj swoje rozumowanie krok po kroku i zapraszaj do dzielenia się opinią. Pamiętaj, że uczucia ludzi to także dane. Zostawiaj miejsce na niedoskonałe pierwsze wersje; postęp często wygrywa z bezbłędnym planem, który wciąż czeka."
+    },
+    "ISTP": {
+      "name": "Majsterkowicz",
+      "text": "Masz w sobie spokój, praktyczne podejście i ciekawość tego, jak działają rzeczy. Lubisz rozumieć problemy w praktyce, rozbierać rzeczy na części i znajdować skuteczne rozwiązania. W kryzysie zachowujesz zimną krew i działasz zdecydowanie, gdy inni jeszcze rozmawiają. Cenisz wolność i nie lubisz zbędnych zasad ani długich spotkań. Wskazówka rozwojowa: częściej dziel się swoim tokiem myślenia, bo twoje milczenie może zostać odebrane jako brak zainteresowania. Zobowiąż się do kilku długofalowych celów, by twoje liczne umiejętności składały się na coś większego. Daj bliskim znać, co czujesz; drobne słowa uznania mają ogromną wagę."
+    },
+    "ISFP": {
+      "name": "Łagodny artysta",
+      "text": "Masz w sobie wrażliwość, życzliwość i wyczulenie na piękno oraz chwilę obecną. Wyrażasz siebie bardziej poprzez działania i twórczość niż słowa i cenisz autentyczność oraz wolność. Cechują cię tolerancja, otwartość umysłu i lojalność wobec ludzi i spraw, na których ci zależy. Twoja łagodna obecność sprawia, że inni czują się akceptowani. Wskazówka rozwojowa: możesz unikać konfliktów, dopóki frustracja się nie nagromadzi, więc ćwicz wczesne mówienie o drobnych obawach. Zamień swoje wartości w kilka konkretnych celów, by nadać kierunek swoim talentom. Uwierz w swoją pracę na tyle, by pokazać ją innym; twoja perspektywa zasługuje na to, by ją dostrzec."
+    },
+    "INFP": {
+      "name": "Marzyciel",
+      "text": "Cechują cię idealizm, wyobraźnia i silne wewnętrzne wartości, którymi się kierujesz. Szukasz sensu we wszystkim, co robisz, i głęboko zależy ci na autentyczności – zarówno własnej, jak i innych. Dobrze rozumiesz uczucia i często wyrażasz je poprzez pisanie, sztukę lub przemyślane rozmowy. Masz w sobie łagodność, otwartość i lojalność wobec tego, w co wierzysz. Wskazówka rozwojowa: twoje ideały są kompasem, ale rzeczywistość rzadko bywa idealna; rób małe praktyczne kroki, zamiast czekać na idealny moment. Okazuj sobie tyle samo współczucia, ile okazujesz innym. Dziel się marzeniami z ludźmi, którzy mogą pomóc je urzeczywistnić."
+    },
+    "INTP": {
+      "name": "Mistrz łamigłówek",
+      "text": "Cechują cię logika, pomysłowość i niekończąca się ciekawość. Uwielbiasz analizować idee, wychwytywać niespójności i budować teorie wyjaśniające, jak rzeczy naprawdę działają. Myślisz niezależnie i lubisz głębokie rozmowy o złożonych tematach. Twój umysł potrafi dostrzec oryginalne rozwiązania, które umykają innym. Wskazówka rozwojowa: pomysły osiągają swój potencjał, gdy się nimi dzielisz i wprowadzasz je w życie, więc wyznaczaj sobie małe terminy na ukończenie i zaprezentowanie swojej pracy. Zwracaj uwagę na praktyczne szczegóły i na uczucia innych, które mają znaczenie, nawet gdy wydają się nielogiczne. Nawiązuj kontakt z ludźmi o podobnych zainteresowaniach; dodadzą energii twojemu myśleniu."
+    },
+    "ESTP": {
+      "name": "Śmiałek",
+      "text": "Masz w sobie energię, śmiałość i nastawienie na działanie. Żyjesz chwilą, szybko odczytujesz sytuacje i rozkwitasz, gdy wszystko dzieje się szybko. Lubisz wyzwania, podejmujesz przemyślane ryzyko i rozwiązujesz praktyczne problemy na bieżąco. Ludzi przyciąga twoja pewność siebie i poczucie humoru. Wskazówka rozwojowa: zanim się w coś rzucisz, przemyśl długofalowe konsekwencje, zwłaszcza w sprawach finansowych i w relacjach. Ćwicz cierpliwość wobec wolniejszych procesów i ludzi, którzy potrzebują więcej czasu na decyzję. Zastanów się, jak twój bezpośredni styl odbierają wrażliwe osoby; odrobina taktu sprawi, że twój wpływ będzie jeszcze silniejszy."
+    },
+    "ESFP": {
+      "name": "Iskra",
+      "text": "Masz w sobie żywiołowość, ciepło i zamiłowanie do zabawy. Wnosisz energię do każdego pomieszczenia, lubisz ludzi i nowe przeżycia i sprawiasz, że codzienne chwile stają się wyjątkowe. Cechują cię praktyczność, hojność i szybka gotowość do pomocy komuś, kto przechodzi trudny czas. Twój entuzjazm jest zaraźliwy, a ludzie lubią przebywać w twoim towarzystwie. Wskazówka rozwojowa: planowanie z wyprzedzeniem może wydawać się nudne, ale odrobina struktury w finansach i długofalowych celach da ci później więcej swobody. Stawiaj czoła trudnym rozmowom, zamiast uciekać w rozrywkę. Znajdź chwile ciszy, by zastanowić się, czego naprawdę chcesz, a nie tylko co sprawia ci przyjemność w danej chwili."
+    },
+    "ENFP": {
+      "name": "Inspirator",
+      "text": "Masz w sobie entuzjazm, kreatywność i mnóstwo pomysłów na to, co możliwe. Łatwo nawiązujesz kontakt z ludźmi, wszędzie dostrzegasz potencjał i uwielbiasz zaczynać nowe projekty i rozmowy. Twoje ciepło i wyobraźnia zachęcają innych, by marzyć odważniej. Cenisz wolność, autentyczność i znaczące relacje. Wskazówka rozwojowa: twoje liczne pomysły potrzebują skupienia, by przełożyć się na efekty, więc wybierz kilka priorytetów i doprowadź je do końca. Zbuduj proste nawyki dla praktycznych zadań, które cię nudzą. Gdy twój nastrój spada po ekscytacji nowego początku, pamiętaj, że to w wytrwałym doprowadzaniu spraw do końca kryje się wiele prawdziwej satysfakcji."
+    },
+    "ENTP": {
+      "name": "Innowator",
+      "text": "Cechują cię bystrość, pomysłowość i zamiłowanie do dobrej dyskusji. Dostrzegasz nowe podejścia do starych problemów, kwestionujesz założenia i lubisz eksperymentować z ideami. Szybko się dostosowujesz, a energii dodają ci złożone wyzwania i inteligentni ludzie. Ciekawość pcha cię do ulepszania niemal wszystkiego, czego się dotkniesz. Wskazówka rozwojowa: nie każdą dyskusję trzeba wygrać, a niektórzy odbierają spór jako konflikt, więc wyczuwaj atmosferę. Doprowadzaj do końca swoje najlepsze pomysły, zamiast zbyt szybko przechodzić do kolejnych. Współpracuj z osobami dbającymi o szczegóły, które pomogą ci zamieniać koncepcje w rzeczywistość."
+    },
+    "ESTJ": {
+      "name": "Kapitan",
+      "text": "Cechują cię zorganizowanie, zdecydowanie i praktyczne podejście. Lubisz jasne cele, sprawne procesy i doprowadzanie spraw do końca. W naturalny sposób bierzesz odpowiedzialność, stawiasz wysokie wymagania i dbasz o to, by plany były realizowane. Ludzie cenią twoją bezpośredniość i niezawodność. Wskazówka rozwojowa: twój skuteczny styl może być przez innych odbierany jako kontrolujący, więc przed decyzją pytaj o zdanie i wyjaśniaj, dlaczego tak postanawiasz. Zachowaj otwartość na nowe metody, nawet gdy obecna działa. Doceniaj wysiłek ludzi, a nie tylko ich wyniki; uznanie motywuje innych równie mocno jak jasne polecenia."
+    },
+    "ESFJ": {
+      "name": "Gospodarz",
+      "text": "Masz w sobie towarzyskość, troskliwość i silne poczucie wspólnoty. Zauważasz, czego potrzebują ludzie, sprawiasz, że czują się mile widziani, i lubisz łączyć innych. Cenisz harmonię, lojalność i tradycję i wkładasz wiele wysiłku w to, by relacje i grupy funkcjonowały sprawnie. Ludzie czują się przy tobie zaopiekowani. Wskazówka rozwojowa: możesz brać krytykę lub konflikt do siebie, więc przypominaj sobie, że różnica zdań to nie odrzucenie. Sprawdzaj, czy pomagasz, bo chcesz, czy dlatego, że czujesz, że musisz. Zrób miejsce na własne potrzeby i opinie; są tak samo ważne jak potrzeby i opinie innych."
+    },
+    "ENFJ": {
+      "name": "Mentor",
+      "text": "Masz w sobie ciepło, zdolność inspirowania i nastawienie na pomaganie ludziom w rozwoju. Dobrze odczytujesz innych, wydobywasz ich mocne strony i jednoczysz grupy wokół wspólnego celu. Komunikujesz się z entuzjazmem i przekonaniem i poczuwasz się do odpowiedzialności za dobrostan osób wokół ciebie. Ludzie często szukają u ciebie wskazówek. Wskazówka rozwojowa: nie możesz nieść wszystkich, więc pozwól innym brać odpowiedzialność za własne wybory. Zauważaj, kiedy bierzesz na siebie za dużo lub zaniedbujesz własne potrzeby. Zaakceptuj, że niektórzy ludzie nie będą się z tobą zgadzać; ich odmienna droga nie świadczy o twojej wartości."
+    },
+    "ENTJ": {
+      "name": "Szef",
+      "text": "Cechują cię pewność siebie, strategiczne myślenie i silna motywacja do osiągnięć. Widzisz szerszy obraz, wyznaczasz ambitne cele i organizujesz ludzi oraz zasoby, by je osiągnąć. Szybko podejmujesz decyzje, jasno się komunikujesz i nie boisz się wyzwań ani odpowiedzialności. Inni często oczekują, że to ty poprowadzisz. Wskazówka rozwojowa: twoje tempo i bezpośredniość mogą przytłaczać ludzi, więc zwolnij, by słuchać i dostrzegać uczucia. Pamiętaj, że motywacja rośnie, gdy ludzie czują się wysłuchani, a nie tylko kierowani. Zrób miejsce na odpoczynek i relacje; długotrwały sukces zależy od czegoś więcej niż same wyniki."
+    }
+  }
+}
