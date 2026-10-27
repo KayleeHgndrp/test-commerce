@@ -1,0 +1,206 @@
+{
+  "name": "Test 16 typů osobnosti",
+  "tagline": "Zjistěte svůj čtyřpísmenný typ a co o vás vypovídá.",
+  "intro": "Tento test vás umístí na čtyři škály preferencí: odkud čerpáte energii, jak přijímáte informace, jak se rozhodujete a jak si organizujete život. Vaše čtyři preference se spojí do jednoho z 16 typů osobnosti. Ohodnoťte 100 krátkých tvrzení; zabere vám to asi pět minut.",
+  "seoTitle": "Test 16 typů osobnosti – čtyřpísmenný typ zdarma",
+  "seoDescription": "Zjistěte za 5 minut svůj čtyřpísmenný typ osobnosti. Podívejte se na své preference na každé škále a přečtěte si portrét svého typu s praktickými tipy.",
+  "items": [
+    "Nejlépe přemýšlím, když nápady probírám s ostatními.",
+    "Často přemýšlím o tom, co by mohla přinést budoucnost.",
+    "Rozhoduji se především na základě logiky.",
+    "Rád si nechávám otevřené možnosti.",
+    "Faktům věřím víc než tušení.",
+    "Po čase s lidmi potřebuji být chvíli sám, abych načerpal energii.",
+    "Mám rád, když mám den naplánovaný.",
+    "Zvažuji, jak moje rozhodnutí ovlivní pocity druhých.",
+    "Seznamování s novými lidmi mi dodává energii.",
+    "Baví mě hledat skryté vzorce a významy.",
+    "Upřímnost si cením víc než taktu.",
+    "Baví mě rozhodovat se pod vlivem okamžiku.",
+    "Všímám si drobných detailů, které ostatním unikají.",
+    "Jeden hluboký rozhovor mi vyhovuje víc než mnoho povrchních.",
+    "Jakmile je rozhodnuto, uleví se mi.",
+    "Udržovat klid je pro mě důležité.",
+    "Baví mě pracovat v otevřeném, živém prostoru.",
+    "Rutinní detaily mě nudí.",
+    "Při řešení konfliktu si dokážu zachovat odstup.",
+    "Nejlépe pracuji pod tlakem na poslední chvíli.",
+    "Dávám přednost pokynům krok za krokem.",
+    "Věci si promyslím dřív, než je řeknu.",
+    "Úkoly dokončuji dlouho před termínem.",
+    "Rozhoduji se víc srdcem než rozumem.",
+    "Rychle se zapojím do rozhovoru.",
+    "Ohledně možností věřím svému instinktu.",
+    "Rád objektivně rozebírám výhody a nevýhody.",
+    "Přísné rozvrhy mi připadají svazující.",
+    "Soustředím se na to, co se děje právě teď.",
+    "Klidný večer doma je můj ideál.",
+    "Chci vědět, co mě čeká.",
+    "Těžko kritizuji lidi, které mám rád.",
+    "Pobyt mezi lidmi mi dobíjí baterky.",
+    "Baví mě představovat si, jak by věci mohly být jinak.",
+    "Pravidla by měla platit pro všechny stejně.",
+    "Často žongluji s několika projekty najednou.",
+    "Mám rád nápady, které mají jasné praktické využití.",
+    "Své myšlenky si nechávám pro sebe, dokud nejsou jasné.",
+    "Dělám si seznamy a držím se jich.",
+    "Příběh někoho jiného mě snadno dojme.",
+    "Mám rád široký okruh přátel.",
+    "Často čtu mezi řádky.",
+    "Bez váhání upozorňuji na nedostatky v plánech.",
+    "Rád nechávám den plynout, kam mě zavede.",
+    "Dobře si pamatuji konkrétní fakta a čísla.",
+    "Davy mě rychle vyčerpají.",
+    "Plány si rád ujasním včas.",
+    "Pro lidi v těžké situaci dělám výjimky.",
+    "Často sdílím své myšlenky hned, jak mě napadnou.",
+    "Teorie mi vyhovují víc než praktická práce.",
+    "Přesvědčí mě argumenty, ne emoce.",
+    "Když se naskytne něco lepšího, snadno změním plány.",
+    "Nejlépe se učím tím, že si věci prakticky vyzkouším.",
+    "Raději pracuji sám než v týmu.",
+    "Nedořešené věci mě znepokojují.",
+    "Chci, aby se každý cítil zapojený do rozhodnutí.",
+    "Víkendy nabité plány mi dělají radost.",
+    "Rád mluvím v metaforách a obrazech.",
+    "Mít pravdu je pro mě důležitější než být oblíbený.",
+    "Rozhodnutí odkládám, dokud nemusím.",
+    "Dávám přednost osvědčeným metodám před nevyzkoušenými.",
+    "Ve skupinách nechávám slovo ostatním.",
+    "Svůj kalendář mám vždy aktuální.",
+    "Napětí ve skupině mě hluboce zasahuje.",
+    "Když jsem příliš dlouho sám, začnu být neklidný.",
+    "Rychle přeskočím k celkovému obrazu.",
+    "Férové pro mě znamená důsledné.",
+    "Začínám mnoho věcí a dokončuji je později.",
+    "Věci popisuji doslova a přesně.",
+    "Raději napíšu zprávu, než abych telefonoval.",
+    "Rád dokončím jeden úkol, než začnu další.",
+    "Laskavost je pro mě důležitější než mít pravdu.",
+    "Baví mě se na akcích mísit s lidmi.",
+    "Nové nápady mě nadchnou víc než praktická fakta.",
+    "Dávat kritickou zpětnou vazbu mi jde snadno.",
+    "Tašku si balím na úplně poslední chvíli.",
+    "Než něčemu uvěřím, chci vidět důkazy.",
+    "Mám malý okruh blízkých přátel.",
+    "Rozčiluje mě, když se plány na poslední chvíli změní.",
+    "Kritiku své práce si často beru osobně.",
+    "Snadno se dám do řeči s lidmi, které neznám.",
+    "Často přeskočím návod a přijdu na to sám.",
+    "Baví mě debatovat, abych prověřil nápady.",
+    "Dny bez pevného programu mi dávají pocit svobody.",
+    "Baví mě úkoly s konkrétními, viditelnými výsledky.",
+    "Po dlouhém dni plném porad se cítím vyčerpaný.",
+    "V práci dávám přednost jasné struktuře.",
+    "Při rozhodování se nechávám vést svými hodnotami.",
+    "Brainstorming ve skupině mi vyhovuje víc než přemýšlení o samotě.",
+    "Přitahuje mě to, co je nové a nevyzkoušené.",
+    "Řešení posuzuji podle toho, jak dobře funguje.",
+    "Své plány přizpůsobuji své náladě.",
+    "Při řešení problémů se spoléhám na své dřívější zkušenosti.",
+    "Lidé mě zpočátku někdy těžko čtou.",
+    "Dovolenou si organizuji dlouho dopředu.",
+    "Raději povzbuzuji, než kritizuji.",
+    "Obvykle patřím k prvním, kdo se ozvou.",
+    "Věnuji víc pozornosti přítomnosti než budoucnosti.",
+    "V práci si cením kompetence víc než přívětivosti.",
+    "Nedodělky rád vyřeším hned."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Extraverze vs. introverze",
+      "short": "Zda čerpáte energii hlavně z vnějšího světa lidí a dění (E), nebo ze svého vnitřního světa myšlenek a úvah (I).",
+      "low": "Kloníte se k introverzi (I). Energii dobíjíte v klidu, než promluvíte, přemýšlíte, a několik hlubokých rozhovorů vám vyhovuje víc než mnoho krátkých. Myšlenky často zpracováváte uvnitř a sdílíte je, až když jsou plně zformované. Rušné společenské dny vás mohou unavit, i když jste si je užili. Tip: po intenzivních společenských akcích si naplánujte čas na zotavení a berte ho jako údržbu, ne jako útěk. Ve skupinách si svůj příspěvek připravte předem nebo ho doplňte písemně, aby vaše nápady zazněly.",
+      "mid": "Nacházíte se blízko středu mezi extraverzí a introverzí, takže se vaše písmeno může měnit podle nálady nebo situace. Užíváte si společnost a dění, ale potřebujete také čas o samotě, abyste načerpali energii. Podle úkolu dokážete přemýšlet nahlas s ostatními nebo v tichosti. Tip: sledujte svou energii po různých typech dní. Využijte to k vytvoření týdenního rytmu, který kombinuje kontakt s lidmi a klidný čas v poměru, který vám vyhovuje.",
+      "high": "Kloníte se k extraverzi (E). Energii čerpáte z lidí, rozhovorů a aktivity a často nejlépe přemýšlíte, když věci probíráte nahlas. Rychle se zapojíte, jste snadno přístupní a ve skupinách se cítíte dobře. Dlouhé chvíle o samotě ve vás mohou vyvolávat neklid. Tip: než v diskusi zareagujete, udělejte krátkou pauzu a nejdřív položte otázku; dáte tím prostor tišším lidem a zpřesníte i své vlastní myšlení. Naplánujte si krátké chvíle zamyšlení, abyste zpracovali, co prožíváte."
+    },
+    "sensing": {
+      "name": "Smysly vs. intuice",
+      "short": "Zda se soustředíte hlavně na konkrétní fakta, detaily a zkušenosti (S), nebo na vzorce, možnosti a celkový obraz (N).",
+      "low": "Kloníte se k intuici (N). Přirozeně hledáte smysl, vzorce a budoucí možnosti a baví vás myšlenky, teorie a představy o tom, co by mohlo být. Rutinní detaily vás mohou nudit a někdy přeskakujete kroky, abyste se dostali k celkovému obrazu. Tip: když sdílíte vizi, přidejte konkrétní příklady a další kroky, aby vás ostatní mohli následovat. Než se zavážete, požádejte kolegu, který dbá na detaily, aby vaše plány prověřil z hlediska praktických mezer.",
+      "mid": "Nacházíte se blízko středu mezi smysly a intuicí, takže se vaše písmeno může v různých situacích lišit. Dokážete pracovat s tvrdými fakty a detaily, ale baví vás také zkoumat myšlenky a možnosti. Díky tomu dokážete propojit praktické lidi s vizionáři. Tip: všímejte si, ke kterému režimu se pod tlakem uchylujete. U důležitých rozhodnutí záměrně ověřte obojí: co říkají fakta a jaké nové možnosti by stálo za to zvážit?",
+      "high": "Kloníte se ke smyslům (S). Věříte faktům, zkušenostem a tomu, co můžete vidět a vyzkoušet. Všímáte si detailů, dáváte přednost jasným pokynům a máte rádi nápady s praktickým využitím. Lidé se spoléhají na váš realismus a přesnost. Tip: když ostatní sdílejí abstraktní nápady, dejte jim chvíli, než posoudíte jejich praktičnost; některé z nich mohou přerůst v něco užitečného. Občas si zkuste představit, kam by nějaký trend mohl vést za pět let, abyste rozšířili svůj pohled."
+    },
+    "thinking": {
+      "name": "Myšlení vs. cítění",
+      "short": "Zda se rozhodujete hlavně logikou a objektivní analýzou (T), nebo podle osobních hodnot a dopadu na lidi (F).",
+      "low": "Kloníte se k cítění (F). Rozhodujete se tak, že zvažujete hodnoty, vztahy a dopad na lidi. Ceníte si harmonie, oceňujete laskavost a rychle vycítíte, co druzí potřebují. Lidé se u vás často cítí pochopeni. Tip: když je rozhodnutí těžké, sepište si také objektivní výhody a nevýhody; vaši volbu pak může být snazší vysvětlit. Pamatujte, že upřímná zpětná vazba podaná vřele je také formou péče.",
+      "mid": "Nacházíte se blízko středu mezi myšlením a cítěním, takže se vaše písmeno může v různých situacích lišit. Při rozhodování zvažujete logiku i lidský dopad, což vám pomáhá nacházet férová, vyvážená řešení. Tip: všímejte si, zda se v práci opíráte o logiku a doma o pocity, nebo naopak. U klíčových rozhodnutí vědomě ověřte obojí: je to rozumné a je to férové k dotčeným lidem?",
+      "high": "Kloníte se k myšlení (T). Rozhodujete se logikou, důsledností a objektivní analýzou. Férovost pro vás znamená uplatňovat stejná pravidla na všechny a dokážete dát tvrdou zpětnou vazbu, aniž byste se nechali ovlivnit emocemi. Tip: než vyslovíte kritiku, uznejte úsilí nebo záměr, který za něčí prací stojí. Zeptejte se, jak rozhodnutí dopadne na pocity dotčených lidí; často to zlepší jeho přijetí, aniž by to oslabilo vaši argumentaci."
+    },
+    "judging": {
+      "name": "Usuzování vs. vnímání",
+      "short": "Zda dáváte přednost naplánovanému, rozhodnutému a strukturovanému životu (J), nebo flexibilnímu, otevřenému a spontánnímu (P).",
+      "low": "Kloníte se k vnímání (P). Rádi si necháváte otevřené možnosti, přizpůsobujete se za pochodu a rozhodujete se, až když musíte. Často pracujete v návalech energie a pevné rozvrhy vás svazují. Díky tomu jste flexibilní a vynalézaví, když se plány mění. Tip: pro to podstatné používejte lehkou strukturu, například jeden systém připomínek termínů. Rozdělte velké projekty na malé milníky, aby se závěrečný spěch nestal stresujícím.",
+      "mid": "Nacházíte se blízko středu mezi usuzováním a vnímáním, takže se vaše písmeno může měnit. Máte rádi plán, ale snadno ho opustíte, když se naskytne něco lepšího. Dokážete dodržet termíny a přitom si užívat spontánnost. Tip: všímejte si, kde by vám trocha víc plánování ubrala stres, například u cestování nebo peněz, a kde by vám víc flexibility přineslo radost. Upravujte to záměrně, ne ze zvyku.",
+      "high": "Kloníte se k usuzování (J). Rádi plánujete dopředu, rozhodujete se a dotahujete věci do konce. Jasné rozvrhy, seznamy a termíny vám dávají pocit kontroly a úkoly obvykle dokončíte dlouho před poslední chvílí. Tip: nechávejte ve svých plánech trochu volného prostoru, aby vás překvapení nevykolejila. Když ostatní pracují volněji, dohodněte se na klíčových termínech a nechte je zvolit si cestu k nim."
+    }
+  },
+  "summary": "Váš typ kombinuje čtyři preference: extraverzi, nebo introverzi (E/I), smysly, nebo intuici (S/N), myšlení, nebo cítění (T/F) a usuzování, nebo vnímání (J/P). Každá škála ukazuje, jak silně se kloníte k jedné straně; skóre blízko 50 % znamená, že obě strany používáte poměrně flexibilně. Typy popisují preference, ne schopnosti, a žádný typ není lepší než jiný.",
+  "types": {
+    "ISTJ": {
+      "name": "Kotva",
+      "text": "Jste stálí, důkladní a hluboce spolehliví. Respektujete fakta, dodržujete sliby a metodicky pracujete na úkolech, dokud nejsou pořádně hotové. Lidé se na vás spoléhají, protože děláte, co říkáte. Dáváte přednost jasným očekáváním a osvědčeným metodám a všímáte si chyb, které ostatní přehlédnou. Vaše tichá síla drží pohromadě týmy i rodiny. Tip pro růst: zůstaňte otevření novým přístupům, i když starý způsob stále funguje; někdy experiment přinese skutečné zlepšení. Vyjadřujte své uznání druhým nahlas, protože vaše loajalita není vždy vidět. Dopřejte si odpočinek, aniž byste si ho museli nejdřív zasloužit."
+    },
+    "ISFJ": {
+      "name": "Strážce",
+      "text": "Jste pečující, svědomití a tiše oddaní. Pamatujete si, na čem lidem záleží, všímáte si jejich potřeb a pomáháte prakticky, často aniž by vás někdo požádal. Ceníte si tradic, stability a harmonie a usilovně pracujete na tom, aby se druzí cítili v bezpečí a pohodlí. Vaše laskavost je ten stálý druh, na který se lidé mohou spoléhat léta. Tip pro růst: vaše vlastní potřeby si zaslouží stejnou pozornost, jakou věnujete druhým, proto se učte říkat ne bez pocitu viny. Ozvěte se, když vám něco vadí, místo abyste to tiše snášeli. Když dovolíte druhým, aby vás podpořili, vztahy tím posílíte, ne zatížíte."
+    },
+    "INFJ": {
+      "name": "Tichý vizionář",
+      "text": "Spojujete hluboký vhled do lidí se silným smyslem pro poslání. Vnímáte skryté proudy ve vztazích, myslíte dlouhodobě a chcete, aby váš život přispíval k něčemu smysluplnému. Jste uzavření, a přesto vřelí, a lidé, které k sobě pustíte, se cítí opravdu viděni. Vaše ideály vám dávají směr a odhodlání. Tip pro růst: vaše vysoké nároky se mohou změnit ve vyčerpání nebo zklamání, když realita nedosahuje očekávání, proto oslavujte pokrok, nejen dokonalost. Sdílejte své nápady dřív, místo abyste čekali, až budou plně zformované. Chraňte svou energii tím, že si stanovíte hranice dřív, než se budete cítit zahlceni, ne až potom."
+    },
+    "INTJ": {
+      "name": "Velký stratég",
+      "text": "Jste nezávislí, analytičtí a zaměření na dlouhodobé cíle. Vidíte, jak do sebe systémy zapadají, rychle odhalíte neefektivitu a baví vás navrhovat lepší způsoby, jak věci dělat. Věříte svému vlastnímu uvažování a jste ochotni jít vlastní cestou, abyste dosáhli své vize. Vaše odhodlání dokáže proměnit ambiciózní nápady ve skutečnost. Tip pro růst: ostatní nemusí vaši logiku sledovat tak rychle jako vy, proto vysvětlujte své uvažování krok za krokem a žádejte o zpětnou vazbu. Pamatujte, že i pocity lidí jsou data. Nechte prostor pro nedokonalé první verze; pokrok často překoná bezchybný plán, který jen čeká."
+    },
+    "ISTP": {
+      "name": "Kutil",
+      "text": "Jste klidní, praktičtí a zvídaví, jak věci fungují. Rádi problémům rozumíte prakticky, věci rozebíráte a hledáte efektivní řešení. V krizi zůstáváte v klidu a jednáte rozhodně, zatímco ostatní ještě diskutují. Ceníte si svobody a nemáte rádi zbytečná pravidla ani dlouhé porady. Tip pro růst: sdílejte své úvahy s ostatními častěji, protože vaše mlčení může být mylně vykládáno jako nezájem. Zavažte se k několika dlouhodobým cílům, aby vaše mnohé dovednosti směřovaly k něčemu většímu. Dejte svým blízkým vědět, co cítíte; drobná slova uznání mají velkou váhu."
+    },
+    "ISFP": {
+      "name": "Jemný umělec",
+      "text": "Jste citliví, laskaví a vnímaví ke kráse a přítomnému okamžiku. Vyjadřujete se spíše činy a tvořivostí než slovy a ceníte si autenticity a svobody. Jste tolerantní, otevření a loajální k lidem a věcem, na kterých vám záleží. Vaše jemná přítomnost dává druhým pocit přijetí. Tip pro růst: možná se vyhýbáte konfliktům, dokud se frustrace nenahromadí, proto se učte vyjadřovat drobné obavy včas. Převeďte své hodnoty do několika konkrétních cílů, abyste dali svým talentům směr. Věřte své práci natolik, abyste ji ukázali ostatním; váš pohled si zaslouží být viděn."
+    },
+    "INFP": {
+      "name": "Snílek",
+      "text": "Jste idealističtí, nápadití a vedení silnými vnitřními hodnotami. Ve všem, co děláte, hledáte smysl a hluboce vám záleží na autenticitě u sebe i u druhých. Dobře rozumíte pocitům a často je vyjadřujete psaním, uměním nebo promyšleným rozhovorem. Jste jemní, otevření a loajální k tomu, čemu věříte. Tip pro růst: vaše ideály jsou kompasem, ale realita je jen zřídka dokonalá; dělejte malé praktické kroky, místo abyste čekali na ideální chvíli. Buďte k sobě stejně soucitní jako k druhým. Sdílejte své sny s lidmi, kteří vám je mohou pomoci uskutečnit."
+    },
+    "INTP": {
+      "name": "Luštitel hádanek",
+      "text": "Jste logičtí, vynalézaví a nekonečně zvídaví. Milujete rozebírání myšlenek, hledání nesrovnalostí a budování teorií, které vysvětlují, jak věci doopravdy fungují. Myslíte nezávisle a baví vás hluboké rozhovory o složitých tématech. Vaše mysl dokáže vidět originální řešení, která ostatním unikají. Tip pro růst: nápady dosáhnou svého potenciálu, když jsou sdíleny a uplatněny, proto si stanovujte malé termíny, do kdy svou práci dokončíte a představíte. Věnujte pozornost praktickým detailům a tomu, jak se cítí druzí, na čemž záleží, i když se to zdá nelogické. Spojte se s lidmi, kteří sdílejí vaše zájmy; dodají vašemu myšlení energii."
+    },
+    "ESTP": {
+      "name": "Odvážlivec",
+      "text": "Jste energičtí, odvážní a zaměření na akci. Žijete přítomným okamžikem, rychle čtete situace a daří se vám, když se věci rychle hýbou. Baví vás výzvy, chytře riskujete a praktické problémy řešíte na místě. Lidi přitahuje vaše sebedůvěra a smysl pro zábavu. Tip pro růst: než se do něčeho vrhnete, promyslete dlouhodobější důsledky, zvlášť u peněz a vztahů. Cvičte se v trpělivosti s pomalejšími procesy a lidmi, kteří potřebují víc času na rozhodnutí. Zamyslete se, jak váš přímý styl působí na citlivé lidi; trocha taktu váš vliv ještě posílí."
+    },
+    "ESFP": {
+      "name": "Jiskra",
+      "text": "Jste živí, vřelí a milujete zábavu. Do každé místnosti vnášíte energii, užíváte si lidi i zážitky a z všedních chvil děláte něco výjimečného. Jste praktičtí, štědří a rychle pomůžete někomu, kdo to má těžké. Vaše nadšení je nakažlivé a lidé jsou rádi ve vaší společnosti. Tip pro růst: plánování dopředu se může zdát nudné, ale trocha struktury ve financích a dlouhodobých cílech vám později dá víc svobody. Těžkým rozhovorům čelte, místo abyste se rozptylovali. Najděte si chvíle klidu a zamyslete se, co opravdu chcete, nejen co je teď příjemné."
+    },
+    "ENFP": {
+      "name": "Inspirátor",
+      "text": "Jste nadšení, tvořiví a plní možností. Snadno navazujete kontakt s lidmi, všude vidíte potenciál a milujete začínat nové projekty i rozhovory. Vaše vřelost a představivost povzbuzují druhé, aby snili ve větším. Ceníte si svobody, autenticity a smysluplných vztahů. Tip pro růst: vaše četné nápady potřebují soustředění, aby se proměnily ve výsledky, proto si vyberte několik priorit a dotáhněte je. Vytvořte si jednoduché rutiny pro praktické úkoly, které vás nudí. Když vaše nálada po vzrušení z nového začátku poklesne, pamatujte, že vytrvalé dotahování je místem, kde leží velká část skutečné odměny."
+    },
+    "ENTP": {
+      "name": "Inovátor",
+      "text": "Jste bystří, vynalézaví a milujete dobrou debatu. Vidíte nové úhly starých problémů, zpochybňujete předpoklady a baví vás experimentovat s myšlenkami. Rychle se přizpůsobujete a energii vám dodávají složité výzvy a chytří lidé. Vaše zvídavost vás žene zlepšovat téměř vše, na co sáhnete. Tip pro růst: ne každou diskusi je třeba vyhrát a někteří lidé vnímají debatu jako konflikt, proto vnímejte atmosféru. Dotahujte své nejlepší nápady, místo abyste příliš brzy přeskočili k dalšímu. Spojte se s lidmi, kteří dbají na detaily a pomohou vám proměnit koncepty ve skutečnost."
+    },
+    "ESTJ": {
+      "name": "Kapitán",
+      "text": "Jste organizovaní, rozhodní a praktičtí. Máte rádi jasné cíle, efektivní procesy a dotažené věci. Přirozeně přebíráte odpovědnost, stanovujete vysoké standardy a dbáte na to, aby se plány uskutečnily. Lidé oceňují vaši přímost a spolehlivost. Tip pro růst: váš efektivní styl může na druhé působit kontrolujícím dojmem, proto se před rozhodnutím zeptejte na jejich názor a vysvětlete proč. Zůstaňte otevření novým metodám, i když ta současná funguje. Oceňujte úsilí lidí, nejen jejich výsledky; uznání motivuje druhé stejně jako jasné pokyny."
+    },
+    "ESFJ": {
+      "name": "Hostitel",
+      "text": "Jste společenští, pečující a smýšlíte komunitně. Všímáte si, co lidé potřebují, dáváte jim pocit, že jsou vítáni, a rádi lidi spojujete. Ceníte si harmonie, loajality a tradic a vynakládáte skutečné úsilí, aby vztahy i skupiny fungovaly hladce. Lidé se ve vaší přítomnosti cítí opečováváni. Tip pro růst: kritiku nebo konflikt si můžete brát osobně, proto si připomínejte, že nesouhlas neznamená odmítnutí. Ověřte si, zda pomáháte, protože chcete, nebo protože máte pocit, že musíte. Udělejte místo pro své vlastní potřeby a názory; záleží na nich stejně jako na potřebách a názorech kohokoli jiného."
+    },
+    "ENFJ": {
+      "name": "Mentor",
+      "text": "Jste vřelí, inspirující a zaměření na to, aby lidé rostli. Dobře čtete druhé, probouzíte jejich silné stránky a sjednocujete skupiny kolem společného cíle. Komunikujete s nadšením a přesvědčením a cítíte zodpovědnost za pohodu lidí kolem sebe. Lidé u vás často hledají vedení. Tip pro růst: nemůžete nést všechny, proto nechte ostatní převzít odpovědnost za jejich vlastní rozhodnutí. Všímejte si, kdy na sebe berete příliš mnoho nebo zanedbáváte své vlastní potřeby. Přijměte, že někteří lidé s vámi nebudou souhlasit; jejich odlišná cesta nevypovídá nic o vaší hodnotě."
+    },
+    "ENTJ": {
+      "name": "Šéf",
+      "text": "Jste sebejistí, strategičtí a hnaní touhou dosáhnout cílů. Vidíte celkový obraz, stanovujete si ambiciózní cíle a organizujete lidi i zdroje k jejich dosažení. Rozhodujete se rychle, komunikujete jasně a nebojíte se výzev ani odpovědnosti. Ostatní často čekají, že povedete právě vy. Tip pro růst: vaše rychlost a přímost mohou lidi zahltit, proto zpomalte, abyste naslouchali a uznali pocity druhých. Pamatujte, že motivace roste, když se lidé cítí vyslyšeni, nejen řízeni. Udělejte si místo pro odpočinek a vztahy; dlouhodobý úspěch závisí na víc než jen na výsledcích."
+    }
+  }
+}
