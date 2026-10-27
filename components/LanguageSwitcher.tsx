@@ -20,7 +20,7 @@ export function LanguageSwitcher({ locale, label }: { locale: Locale; label: str
       <select
         value={locale}
         onChange={(e) => change(e.target.value)}
-        className="appearance-none rounded-full border border-border bg-surface py-2 pl-9 pr-8 text-sm font-medium text-foreground hover:border-accent focus:outline-none focus:ring-2 focus:ring-accent"
+        className="appearance-none rounded-lg border border-border bg-surface py-2 pl-9 pr-8 text-sm font-medium text-foreground hover:border-accent focus:outline-none focus:ring-2 focus:ring-accent"
       >
         {locales.map((l) => (
           <option key={l} value={l}>

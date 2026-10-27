@@ -36,7 +36,7 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
         </p>
         <Link
           href={`/${locale}/${def.slug}/start`}
-          className="mt-8 inline-flex h-12 items-center rounded-full bg-accent px-8 font-semibold text-white shadow-lg shadow-accent/25 transition hover:bg-accent-strong"
+          className="mt-8 inline-flex h-12 items-center rounded-lg bg-accent px-8 font-semibold text-white shadow-lg shadow-accent/25 transition hover:bg-accent-strong"
         >
           {ui.test.start} →
         </Link>

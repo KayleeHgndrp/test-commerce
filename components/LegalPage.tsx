@@ -3,7 +3,7 @@ import { hasLocale } from "@/lib/i18n/locales";
 import { fmt, getUi } from "@/lib/i18n/messages";
 import { formatPrice, site } from "@/lib/site";
 
-export async function LegalPage({ params, kind }: { params: Promise<{ locale: string }>; kind: "privacy" | "terms" }) {
+export async function LegalPage({ params, kind }: { params: Promise<{ locale: string }>; kind: "privacy" | "terms" | "cookies" | "refund" }) {
   const { locale } = await params;
   if (!hasLocale(locale)) notFound();
   const { legal } = await getUi(locale);

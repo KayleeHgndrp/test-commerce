@@ -78,10 +78,10 @@ export function Quiz({ locale, slug, name, items, scale, ui }: Props) {
         <h1 className="text-2xl font-bold">{name}</h1>
         <p className="mt-4 text-muted">{ui.resume}</p>
         <div className="mt-8 flex flex-col justify-center gap-3 sm:flex-row">
-          <button className="rounded-full bg-accent px-6 py-3 font-semibold text-white hover:bg-accent-strong" onClick={() => { setState(resumable); setResumable(null); }}>
+          <button className="rounded-lg bg-accent px-6 py-3 font-semibold text-white hover:bg-accent-strong" onClick={() => { setState(resumable); setResumable(null); }}>
             {ui.resumeYes}
           </button>
-          <button className="rounded-full border border-border px-6 py-3 font-semibold hover:border-accent" onClick={() => { localStorage.removeItem(progressKey(slug)); setResumable(null); }}>
+          <button className="rounded-lg border border-border px-6 py-3 font-semibold hover:border-accent" onClick={() => { localStorage.removeItem(progressKey(slug)); setResumable(null); }}>
             {ui.resumeNo}
           </button>
         </div>

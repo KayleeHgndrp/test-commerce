@@ -17,13 +17,13 @@ export function TestCard({
   return (
     <Link
       href={`/${locale}/${def.slug}`}
-      className="group flex flex-col rounded-2xl border border-border bg-surface p-5 transition hover:-translate-y-0.5 hover:border-accent hover:shadow-lg hover:shadow-accent/10"
+      className="group flex flex-col rounded-2xl border border-border bg-surface p-5 transition hover:-translate-y-0.5 hover:border-accent/60 hover:shadow-xl hover:shadow-black/5"
     >
       <div className="flex items-start justify-between gap-3">
         <span className="grid h-12 w-12 place-items-center rounded-xl bg-accent-soft text-2xl" aria-hidden>
           {def.icon}
         </span>
-        <span className="rounded-full bg-accent-soft px-2.5 py-1 text-xs font-semibold text-accent">
+        <span className="rounded-full bg-background px-2.5 py-1 text-xs font-semibold text-muted">
           {ui.test.free}
         </span>
       </div>

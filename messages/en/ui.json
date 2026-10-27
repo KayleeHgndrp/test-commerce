@@ -5,34 +5,108 @@
   },
   "nav": {
     "tests": "Tests",
-    "howItWorks": "How it works",
+    "pricing": "Pricing",
     "faq": "FAQ",
-    "language": "Language"
+    "language": "Language",
+    "cta": "Start a test"
   },
   "home": {
-    "heroTitle": "Understand yourself better",
-    "heroSubtitle": "{count} free online tests on personality, relationships, work and wellbeing. Get your in-depth personal report by email for just {price}.",
-    "heroCta": "Browse all tests",
-    "testsTitle": "Choose a test",
-    "testsSubtitle": "All tests are free to take and available in {languages} languages.",
-    "howTitle": "How it works",
-    "step1Title": "Take the test",
-    "step1Text": "Answer 100 short questions honestly. It takes about 5 minutes.",
-    "step2Title": "See your preview",
-    "step2Text": "Get an instant overview of what your results cover.",
-    "step3Title": "Receive your report",
-    "step3Text": "Unlock your full personal report for {price}. It is sent straight to your inbox.",
+    "badge": "{count} tests · {languages} languages",
+    "heroTitle": "Get to know yourself, one test at a time",
+    "heroSubtitle": "In-depth tests on personality, relationships, work and wellbeing. 100 questions, about 5 minutes, and a personal report for just {price}.",
+    "heroCta": "Explore our tests",
+    "heroSecondary": "How it works",
+    "trust1": "No account needed",
+    "trust2": "One-time payment, no subscription",
+    "trust3": "Report straight to your inbox",
+    "dimensionsTitle": "You're more than one score — see every side.",
+    "dimensionsSubtitle": "The areas our tests measure most often, across personality, relationships and wellbeing.",
+    "dimensions": [
+      "🎯 Focus",
+      "🔋 Social energy",
+      "🌊 Stress response",
+      "💞 Attachment",
+      "⚖️ Decisions",
+      "🧭 Values",
+      "💡 Creativity",
+      "🪞 Self-awareness",
+      "🛡️ Resilience"
+    ],
+    "testsTitle": "Choose your test",
+    "testsSubtitle": "Every test is free to take. Pick the one that speaks to you.",
+    "howTitle": "From first question to full report in three steps",
+    "steps": [
+      {
+        "title": "Pick a test",
+        "text": "Choose from our library of personality, relationship and screening tests, each built on established psychological models."
+      },
+      {
+        "title": "Take the test",
+        "text": "Answer 100 questions on a simple scale. Most tests take about 5 minutes and your progress is saved."
+      },
+      {
+        "title": "Read your report",
+        "text": "Get a personal report with your scores, what they mean and practical tips, sent straight to your inbox."
+      }
+    ],
+    "pricingTitle": "Simple pricing",
+    "pricingSubtitle": "One price. No subscription. No surprises.",
+    "planFreeName": "Take the test",
+    "planFreePrice": "Free",
+    "planFreeFeatures": [
+      "All {count} tests, free to take",
+      "100 questions, about 5 minutes",
+      "Progress saved automatically",
+      "Instant preview of your result areas"
+    ],
+    "planReportName": "Full report",
+    "planReportPrice": "{price}",
+    "planReportPer": "one-time, per test",
+    "planReportFeatures": [
+      "Your score on every dimension",
+      "Personal interpretation of each score",
+      "Practical tips you can use right away",
+      "Sent to your inbox within minutes",
+      "No subscription, no automatic renewal"
+    ],
+    "planCta": "Try now",
     "faqTitle": "Frequently asked questions",
-    "faq1Q": "Is taking a test free?",
-    "faq1A": "Yes. Every test is free to take. Only the detailed personal report costs {price}, as a one-time payment with no subscription.",
-    "faq2Q": "How do I receive my report?",
-    "faq2A": "After payment your report is sent to the email address you entered, usually within a minute. Please check your spam folder if you do not see it.",
-    "faq3Q": "Are these tests a medical diagnosis?",
-    "faq3A": "No. Our tests are designed for self-reflection and are not a substitute for an assessment by a qualified professional.",
-    "faq4Q": "What happens to my answers?",
-    "faq4A": "Your answers are only used to calculate your result and generate your report. We do not create an account or sell your data.",
-    "faq5Q": "Is there a subscription?",
-    "faq5A": "No. You pay {price} once per report. There are no recurring charges."
+    "faq": [
+      {
+        "q": "What is {site}?",
+        "a": "{site} is an online platform with in-depth self-tests on personality, relationships, work and wellbeing. You can take every test for free and order a detailed personal report if you want to know more."
+      },
+      {
+        "q": "How much does a test cost?",
+        "a": "Taking a test is free. The detailed personal report costs {price}, paid once. There is no subscription and you will never be charged again automatically."
+      },
+      {
+        "q": "How do I receive my report?",
+        "a": "After payment your report is sent to the email address you entered, usually within a minute. Can't find it? Check your spam or promotions folder."
+      },
+      {
+        "q": "Can I retake a test?",
+        "a": "Yes, as often as you like. Retaking a test after a few weeks is a good way to see what has changed. Each report is a separate one-time purchase."
+      },
+      {
+        "q": "Is this a medical diagnosis?",
+        "a": "No. Our tests are meant for self-reflection. Screeners such as the ADHD or depression test can indicate whether it makes sense to talk to a professional, but they never replace an assessment by a qualified professional."
+      },
+      {
+        "q": "How were these tests made?",
+        "a": "Our tests are based on established psychological models such as the Big Five, RIASEC and attachment theory. The depression and trauma tests also include the public-domain PHQ-9 and PCL-5 questionnaires, scored with their official cut-offs."
+      },
+      {
+        "q": "Can the results be unreliable?",
+        "a": "Every questionnaire has a margin of error, and your mood on the day can play a role. Answer honestly and without overthinking, and see your result as a starting point for reflection rather than a final verdict."
+      },
+      {
+        "q": "Will my data stay private?",
+        "a": "Yes. You don't need an account. Your answers are only used to calculate your result and create your report, and we never sell your data."
+      }
+    ],
+    "ctaTitle": "Ready to discover more about yourself?",
+    "ctaButton": "Explore our tests"
   },
   "categories": {
     "personality": "Personality & type",
@@ -139,11 +213,19 @@
     "typeLabel": "Your type"
   },
   "footer": {
-    "rights": "© {year} {site}. All rights reserved.",
-    "disclaimer": "{site} is not a medical service. For clinical concerns, please consult a licensed professional.",
+    "tagline": "Know yourself better",
+    "about": "In-depth self-tests for people who want more than a four-letter label.",
+    "company": "Company",
+    "home": "Home",
+    "help": "Help",
+    "contact": "Contact us",
+    "legal": "Legal",
     "privacy": "Privacy policy",
-    "terms": "Terms of service",
-    "contact": "Contact"
+    "terms": "Terms & conditions",
+    "cookies": "Cookie policy",
+    "refund": "Refund policy",
+    "rights": "© {year} {site}. All rights reserved.",
+    "disclaimer": "{site} is not a medical service. For clinical concerns, please consult a licensed professional."
   },
   "legal": {
     "privacyTitle": "Privacy policy",
@@ -159,6 +241,20 @@
       "Taking a test is free. A personal report costs {price} per test as a one-time payment. The report is delivered digitally by email.",
       "Because the report is digital content delivered immediately after payment, you agree that the right of withdrawal expires once the report has been sent. If you did not receive your report, contact {email} and we will resend it or refund you.",
       "We do our best to keep the content accurate, but we cannot guarantee that the results are complete or correct for every person."
+    ],
+    "cookiesTitle": "Cookie policy",
+    "cookiesBody": [
+      "{site} does not use advertising or tracking cookies.",
+      "We only store strictly necessary data in your browser: your chosen language and your progress in a test, so you can continue where you left off. This data stays on your device.",
+      "When you pay, our payment provider Stripe may place cookies needed to process the payment securely and prevent fraud.",
+      "Questions? Contact us at {email}."
+    ],
+    "refundTitle": "Refund policy",
+    "refundBody": [
+      "A report costs {price} per test as a one-time payment. There is no subscription and no automatic renewal.",
+      "Did you not receive your report, or did something go wrong? Contact {email} within 14 days, mentioning the email address you used, and we will resend your report or refund your payment.",
+      "Because the report is digital content that is delivered immediately, the statutory right of withdrawal expires once it has been sent. We will still always help you if something is not right.",
+      "Refunds are made to the original payment method within 5–10 business days."
     ]
   }
 }

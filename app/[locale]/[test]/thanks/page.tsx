@@ -20,7 +20,7 @@ export default async function ThanksPage({ params }: PageProps<"/[locale]/[test]
       <h1 className="mt-4 text-3xl font-bold tracking-tight">{ui.thanks.title}</h1>
       <p className="mt-4 leading-relaxed text-muted">{ui.thanks.text}</p>
       <p className="mt-4 text-sm text-muted">{fmt(ui.thanks.spam, { email: site.contactEmail })}</p>
-      <Link href={`/${locale}#tests`} className="mt-8 inline-flex rounded-full bg-accent px-6 py-3 font-semibold text-white hover:bg-accent-strong">
+      <Link href={`/${locale}#tests`} className="mt-8 inline-flex rounded-lg bg-accent px-6 py-3 font-semibold text-white hover:bg-accent-strong">
         {ui.thanks.more}
       </Link>
     </div>

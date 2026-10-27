@@ -42,7 +42,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, ui }: 
     return (
       <div className="mx-auto mt-16 max-w-xl px-4 text-center">
         <p className="text-muted">{ui.noAnswers}</p>
-        <Link href={`/${locale}/${def.slug}/start`} className="mt-6 inline-flex rounded-full bg-accent px-6 py-3 font-semibold text-white">
+        <Link href={`/${locale}/${def.slug}/start`} className="mt-6 inline-flex rounded-lg bg-accent px-6 py-3 font-semibold text-white">
           {ui.takeTest}
         </Link>
       </div>
@@ -132,7 +132,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, ui }: 
           {error && <p className="mt-3 text-sm font-medium text-rose-600">{error}</p>}
           <button
             disabled={busy}
-            className="mt-5 w-full rounded-full bg-accent px-5 py-3.5 font-semibold text-white shadow-lg shadow-accent/25 transition hover:bg-accent-strong disabled:opacity-60"
+            className="mt-5 w-full rounded-lg bg-accent px-5 py-3.5 font-semibold text-white shadow-lg shadow-accent/25 transition hover:bg-accent-strong disabled:opacity-60"
           >
             {busy ? "…" : fmt(ui.buy, { price })}
           </button>
