@@ -4,6 +4,7 @@ import def_personality from "@/content/definitions/personality.json";
 import def_big_five from "@/content/definitions/big-five.json";
 import def_16_types from "@/content/definitions/16-types.json";
 import def_enneagram from "@/content/definitions/enneagram.json";
+import def_disc from "@/content/definitions/disc.json";
 import def_archetype from "@/content/definitions/archetype.json";
 import def_character_strengths from "@/content/definitions/character-strengths.json";
 import def_strengths from "@/content/definitions/strengths.json";
@@ -11,6 +12,7 @@ import def_attachment from "@/content/definitions/attachment.json";
 import def_love_style from "@/content/definitions/love-style.json";
 import def_eq from "@/content/definitions/eq.json";
 import def_career from "@/content/definitions/career.json";
+import def_political from "@/content/definitions/political.json";
 import def_autism from "@/content/definitions/autism.json";
 import def_adhd from "@/content/definitions/adhd.json";
 import def_depression from "@/content/definitions/depression.json";
@@ -32,6 +34,7 @@ export const definitions = [
   def_big_five,
   def_16_types,
   def_enneagram,
+  def_disc,
   def_archetype,
   def_character_strengths,
   def_strengths,
@@ -39,6 +42,7 @@ export const definitions = [
   def_love_style,
   def_eq,
   def_career,
+  def_political,
   def_autism,
   def_adhd,
   def_depression,
@@ -62,6 +66,7 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "en/tests/big-five": () => import("@/messages/en/tests/big-five.json").then((m) => m.default),
   "en/tests/16-types": () => import("@/messages/en/tests/16-types.json").then((m) => m.default),
   "en/tests/enneagram": () => import("@/messages/en/tests/enneagram.json").then((m) => m.default),
+  "en/tests/disc": () => import("@/messages/en/tests/disc.json").then((m) => m.default),
   "en/tests/archetype": () => import("@/messages/en/tests/archetype.json").then((m) => m.default),
   "en/tests/character-strengths": () => import("@/messages/en/tests/character-strengths.json").then((m) => m.default),
   "en/tests/strengths": () => import("@/messages/en/tests/strengths.json").then((m) => m.default),
@@ -69,6 +74,7 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "en/tests/love-style": () => import("@/messages/en/tests/love-style.json").then((m) => m.default),
   "en/tests/eq": () => import("@/messages/en/tests/eq.json").then((m) => m.default),
   "en/tests/career": () => import("@/messages/en/tests/career.json").then((m) => m.default),
+  "en/tests/political": () => import("@/messages/en/tests/political.json").then((m) => m.default),
   "en/tests/autism": () => import("@/messages/en/tests/autism.json").then((m) => m.default),
   "en/tests/adhd": () => import("@/messages/en/tests/adhd.json").then((m) => m.default),
   "en/tests/depression": () => import("@/messages/en/tests/depression.json").then((m) => m.default),

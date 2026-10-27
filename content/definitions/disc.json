@@ -1,0 +1,345 @@
+{
+  "slug": "disc",
+  "kind": "likert",
+  "scale": "agree",
+  "category": "personality",
+  "minutes": 5,
+  "icon": "🧭",
+  "outcome": "top",
+  "dimensions": [
+    "dominance",
+    "influence",
+    "steadiness",
+    "conscientiousness"
+  ],
+  "items": [
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "steadiness",
+      "rev": true
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "dominance",
+      "rev": true
+    },
+    {
+      "dim": "conscientiousness",
+      "rev": true
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "influence",
+      "rev": true
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "steadiness",
+      "rev": true
+    },
+    {
+      "dim": "dominance",
+      "rev": true
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "conscientiousness",
+      "rev": true
+    },
+    {
+      "dim": "influence",
+      "rev": true
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "steadiness",
+      "rev": true
+    },
+    {
+      "dim": "dominance",
+      "rev": true
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "conscientiousness",
+      "rev": true
+    },
+    {
+      "dim": "influence",
+      "rev": true
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "steadiness",
+      "rev": true
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "dominance",
+      "rev": true
+    },
+    {
+      "dim": "conscientiousness",
+      "rev": true
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "influence",
+      "rev": true
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "steadiness",
+      "rev": true
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "dominance",
+      "rev": true
+    },
+    {
+      "dim": "conscientiousness",
+      "rev": true
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "influence",
+      "rev": true
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "steadiness",
+      "rev": true
+    },
+    {
+      "dim": "dominance",
+      "rev": true
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "conscientiousness",
+      "rev": true
+    },
+    {
+      "dim": "influence",
+      "rev": true
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "steadiness",
+      "rev": true
+    },
+    {
+      "dim": "dominance",
+      "rev": true
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "conscientiousness",
+      "rev": true
+    },
+    {
+      "dim": "influence",
+      "rev": true
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "dominance"
+    },
+    {
+      "dim": "influence"
+    },
+    {
+      "dim": "steadiness"
+    },
+    {
+      "dim": "conscientiousness"
+    }
+  ]
+}
