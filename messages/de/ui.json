@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Kostenlose Psychotests online",
-    "description": "Mach fundierte Tests zu Persönlichkeit, Bindung, Beruf, ADHS, Burnout und mehr. Kostenlos ausfüllen, mit ausführlichem persönlichem Bericht für nur {price}."
+    "description": "Fundierte Tests zu Persönlichkeit, Beziehungen, Arbeit und Wohlbefinden – gestützt auf anerkannte psychologische Forschung und verständlich erklärt."
   },
   "nav": {
     "tests": "Tests",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} Tests · {languages} Sprachen",
-    "heroTitle": "Lerne dich selbst kennen – Test für Test",
-    "heroSubtitle": "Fundierte Tests zu Persönlichkeit, Beziehungen, Arbeit und Wohlbefinden. 100 Fragen, etwa 5 Minuten und ein persönlicher Bericht für nur {price}.",
+    "heroTitle": "Entdecke mit unseren Tests deine",
+    "heroHighlight": "Persönlichkeit",
+    "heroSubtitle": "Fundierte Tests zu Persönlichkeit, Beziehungen und Wohlbefinden – jeder gestützt auf anerkannte psychologische Forschung und so verständlich erklärt, dass du ihn wirklich bis zum Ende liest.",
     "heroCta": "Unsere Tests entdecken",
     "heroSecondary": "So funktioniert's",
     "trust1": "Kein Konto nötig",

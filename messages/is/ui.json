@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Ókeypis sálfræðipróf á netinu",
-    "description": "Taktu ítarleg próf um persónuleika, tengslamynstur, starfsferil, ADHD, kulnun og fleira. Ókeypis að taka, með ítarlegri persónulegri skýrslu fyrir aðeins {price}."
+    "description": "Ítarleg próf um persónuleika, sambönd, vinnu og vellíðan — byggð á sálfræðirannsóknum og útskýrð á skýran hátt."
   },
   "nav": {
     "tests": "Próf",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} próf · {languages} tungumál",
-    "heroTitle": "Kynnstu sjálfum þér, eitt próf í einu",
-    "heroSubtitle": "Ítarleg próf um persónuleika, sambönd, vinnu og vellíðan. 100 spurningar, um 5 mínútur og persónuleg skýrsla fyrir aðeins {price}.",
+    "heroTitle": "Prófin sem afhjúpa",
+    "heroHighlight": "persónuleika þinn",
+    "heroSubtitle": "Ítarleg próf um persónuleika, sambönd og vellíðan — hvert þeirra byggt á viðurkenndum sálfræðirannsóknum og útskýrt á skýru máli sem þú lest í raun til enda.",
     "heroCta": "Skoðaðu prófin okkar",
     "heroSecondary": "Svona virkar þetta",
     "trust1": "Enginn aðgangur nauðsynlegur",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Testijiet psikoloġiċi online b'xejn",
-    "description": "Agħmel testijiet dettaljati dwar il-personalità, l-attachment, il-karriera, l-ADHD, il-burnout u aktar. B'xejn biex tagħmilhom, b'rapport personali dettaljat għal {price} biss."
+    "description": "Testijiet dettaljati dwar il-personalità, ir-relazzjonijiet, ix-xogħol u l-benessri — ibbażati fuq riċerka psikoloġika u spjegati b'mod ċar."
   },
   "nav": {
     "tests": "Testijiet",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} testijiet · {languages} lingwi",
-    "heroTitle": "Sir af lilek innifsek, test wara test",
-    "heroSubtitle": "Testijiet dettaljati dwar il-personalità, ir-relazzjonijiet, ix-xogħol u l-benesseri. 100 mistoqsija, madwar 5 minuti, u rapport personali għal {price} biss.",
+    "heroTitle": "It-testijiet li jiżvelaw il-",
+    "heroHighlight": "personalità tiegħek",
+    "heroSubtitle": "Testijiet dettaljati dwar il-personalità, ir-relazzjonijiet u l-benessri — kull wieħed ibbażat fuq riċerka psikoloġika stabbilita u spjegat b'lingwaġġ ċar li verament taqrah sal-aħħar.",
     "heroCta": "Esplora t-testijiet tagħna",
     "heroSecondary": "Kif jaħdem",
     "trust1": "M'għandekx bżonn kont",

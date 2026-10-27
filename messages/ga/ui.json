@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Tástálacha síceolaíochta saor in aisce ar líne",
-    "description": "Déan tástálacha mionsonraithe ar phearsantacht, ar cheangal, ar ghairm bheatha, ar ADHD, ar thraochadh agus níos mó. Saor in aisce le déanamh, le tuarascáil phearsanta mhionsonraithe ar {price} amháin."
+    "description": "Trialacha domhain ar phearsantacht, ar chaidrimh, ar obair agus ar fholláine — bunaithe ar thaighde síceolaíochta agus mínithe go soiléir."
   },
   "nav": {
     "tests": "Tástálacha",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "Tástálacha: {count} · Teangacha: {languages}",
-    "heroTitle": "Cuir aithne ort féin, tástáil ar thástáil",
-    "heroSubtitle": "Tástálacha mionsonraithe ar phearsantacht, ar chaidrimh, ar obair agus ar fholláine. 100 ceist, timpeall 5 nóiméad, agus tuarascáil phearsanta ar {price} amháin.",
+    "heroTitle": "Na trialacha a nochtann do",
+    "heroHighlight": "phearsantacht",
+    "heroSubtitle": "Trialacha domhain ar phearsantacht, ar chaidrimh agus ar fholláine — gach ceann bunaithe ar thaighde síceolaíochta aitheanta agus mínithe i dteanga shoiléir a léifidh tú go deireadh.",
     "heroCta": "Féach ar ár dtástálacha",
     "heroSecondary": "Conas a oibríonn sé",
     "trust1": "Níl cuntas ag teastáil",

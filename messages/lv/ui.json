@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "title": "{site} – Bezmaksas psiholoģiskie testi tiešsaistē",
+    "description": "Padziļināti testi par personību, attiecībām, darbu un labsajūtu — balstīti psiholoģijas pētījumos un skaidri izskaidroti."
+  },
+  "nav": {
+    "tests": "Testi",
+    "pricing": "Cenas",
+    "faq": "BUJ",
+    "language": "Valoda",
+    "cta": "Sākt testu"
+  },
+  "home": {
+    "badge": "Testi: {count} · Valodas: {languages}",
+    "heroTitle": "Testi, kas atklāj tavu",
+    "heroHighlight": "personību",
+    "heroSubtitle": "Padziļināti testi par personību, attiecībām un labsajūtu — katrs balstīts atzītos psiholoģijas pētījumos un izskaidrots skaidrā valodā, ko tu tiešām izlasīsi līdz galam.",
+    "heroCta": "Apskatīt mūsu testus",
+    "heroSecondary": "Kā tas darbojas",
+    "trust1": "Konts nav vajadzīgs",
+    "trust2": "Vienreizējs maksājums, bez abonementa",
+    "trust3": "Pārskats tieši tavā e-pastā",
+    "dimensionsTitle": "Tu esi vairāk nekā viens rezultāts – iepazīsti visas savas puses.",
+    "dimensionsSubtitle": "Jomas, ko mūsu testi mēra visbiežāk, – no personības līdz attiecībām un labsajūtai.",
+    "dimensions": [
+      "🎯 Koncentrēšanās",
+      "🔋 Sociālā enerģija",
+      "🌊 Reakcija uz stresu",
+      "💞 Piesaiste",
+      "⚖️ Lēmumi",
+      "🧭 Vērtības",
+      "💡 Radošums",
+      "🪞 Pašizziņa",
+      "🛡️ Noturība"
+    ],
+    "testsTitle": "Izvēlies savu testu",
+    "testsSubtitle": "Katrs tests ir bez maksas. Izvēlies to, kas tevi uzrunā.",
+    "howTitle": "No pirmā jautājuma līdz pilnam pārskatam trīs soļos",
+    "steps": [
+      {
+        "title": "Izvēlies testu",
+        "text": "Izvēlies no mūsu personības, attiecību un skrīninga testiem – visi balstīti atzītos psiholoģiskos modeļos."
+      },
+      {
+        "title": "Izpildi testu",
+        "text": "Atbildi uz 100 jautājumiem vienkāršā skalā. Lielākā daļa testu aizņem apmēram 5 minūtes, un tavs progress tiek saglabāts."
+      },
+      {
+        "title": "Izlasi savu pārskatu",
+        "text": "Saņem personīgu pārskatu ar saviem rezultātiem, to nozīmi un praktiskiem padomiem – tieši savā e-pastā."
+      }
+    ],
+    "pricingTitle": "Vienkāršas cenas",
+    "pricingSubtitle": "Viena cena. Bez abonementa. Bez pārsteigumiem.",
+    "planFreeName": "Izpildīt testu",
+    "planFreePrice": "Bez maksas",
+    "planFreeFeatures": [
+      "Visi testi ({count}) bez maksas",
+      "100 jautājumu, apmēram 5 minūtes",
+      "Progress tiek saglabāts automātiski",
+      "Tūlītējs rezultātu jomu priekšskatījums"
+    ],
+    "planReportName": "Pilns pārskats",
+    "planReportPrice": "{price}",
+    "planReportPer": "vienreiz, par testu",
+    "planReportFeatures": [
+      "Tavs rezultāts katrā dimensijā",
+      "Personīga katra rezultāta interpretācija",
+      "Praktiski padomi, ko vari izmantot uzreiz",
+      "Tavā e-pastā dažu minūšu laikā",
+      "Bez abonementa, bez automātiskas atjaunošanas"
+    ],
+    "planCta": "Izmēģināt",
+    "faqTitle": "Biežāk uzdotie jautājumi",
+    "faq": [
+      {
+        "q": "Kas ir {site}?",
+        "a": "{site} ir tiešsaistes platforma ar padziļinātiem pašnovērtējuma testiem par personību, attiecībām, darbu un labsajūtu. Katru testu vari izpildīt bez maksas un, ja vēlies uzzināt vairāk, pasūtīt detalizētu personīgo pārskatu."
+      },
+      {
+        "q": "Cik maksā tests?",
+        "a": "Testa izpilde ir bez maksas. Detalizētais personīgais pārskats maksā {price} kā vienreizējs maksājums. Abonementa nav, un tev nekad netiks automātiski iekasēta maksa vēlreiz."
+      },
+      {
+        "q": "Kā es saņemšu pārskatu?",
+        "a": "Pēc apmaksas pārskats tiek nosūtīts uz tevis norādīto e-pasta adresi, parasti minūtes laikā. Nevari atrast? Pārbaudi surogātpasta vai reklāmu mapi."
+      },
+      {
+        "q": "Vai varu testu pildīt atkārtoti?",
+        "a": "Jā, cik bieži vien vēlies. Atkārtot testu pēc dažām nedēļām ir labs veids, kā redzēt, kas ir mainījies. Katrs pārskats ir atsevišķs vienreizējs pirkums."
+      },
+      {
+        "q": "Vai tā ir medicīniska diagnoze?",
+        "a": "Nē. Mūsu testi ir paredzēti pašrefleksijai. Skrīninga testi, piemēram, UDHS vai depresijas tests, var norādīt, vai ir vērts runāt ar speciālistu, taču tie nekad neaizstāj kvalificēta speciālista novērtējumu."
+      },
+      {
+        "q": "Kā šie testi ir izveidoti?",
+        "a": "Mūsu testi balstīti atzītos psiholoģiskos modeļos, piemēram, Lielajā piecniekā (Big Five), RIASEC un piesaistes teorijā. Depresijas un traumas testos iekļautas arī brīvi pieejamās aptaujas PHQ-9 un PCL-5, kas vērtētas pēc to oficiālajiem robežlielumiem."
+      },
+      {
+        "q": "Vai rezultāti var būt neprecīzi?",
+        "a": "Katrai aptaujai ir kļūdas robeža, un lomu var spēlēt arī tavs dienas noskaņojums. Atbildi godīgi un pārāk daudz nedomājot, un uztver rezultātu kā sākumpunktu pārdomām, nevis galīgu spriedumu."
+      },
+      {
+        "q": "Vai mani dati paliks privāti?",
+        "a": "Jā. Konts nav vajadzīgs. Tavas atbildes tiek izmantotas tikai rezultāta aprēķināšanai un pārskata sagatavošanai, un mēs nekad nepārdodam tavus datus."
+      }
+    ],
+    "ctaTitle": "Gatavs uzzināt par sevi vairāk?",
+    "ctaButton": "Apskatīt mūsu testus"
+  },
+  "categories": {
+    "personality": "Personība un tips",
+    "relationships": "Attiecības un emocijas",
+    "work": "Darbs un vērtības",
+    "screeners": "Skrīninga testi",
+    "wellbeing": "Labsajūta un ieradumi"
+  },
+  "test": {
+    "start": "Sākt testu",
+    "questions": "Jautājumi: {count}",
+    "minutes": "{count} min",
+    "free": "Bez maksas",
+    "aboutTitle": "Par šo testu",
+    "whatYouGet": "Ko ietver tavs pārskats",
+    "whatYouGet1": "Tavs rezultāts katrā dimensijā: {dimensions}",
+    "whatYouGet2": "Personīga katra rezultāta interpretācija",
+    "whatYouGet3": "Praktiski padomi, ko vari izmantot uzreiz",
+    "otherTests": "Citi populāri testi",
+    "question": "Jautājums {current} no {total}",
+    "back": "Atpakaļ",
+    "next": "Tālāk",
+    "finish": "Skatīt manus rezultātus",
+    "chooseAnswer": "Izvēlies atbildi, kas tev vislabāk atbilst.",
+    "resume": "Tev ir nepabeigts tests. Turpināt no vietas, kur apstājies?",
+    "resumeYes": "Turpināt",
+    "resumeNo": "Sākt no jauna",
+    "genderTitle": "Vispirms īss jautājums",
+    "genderQuestion": "Kāds ir tavs dzimums?",
+    "genderMale": "Vīrietis",
+    "genderFemale": "Sieviete",
+    "genderOther": "Cits / nevēlos norādīt",
+    "screenerNote": "Šis tests ir skrīninga rīks, nevis diagnoze."
+  },
+  "scales": {
+    "agree": [
+      "Pilnīgi nepiekrītu",
+      "Nepiekrītu",
+      "Ne piekrītu, ne nepiekrītu",
+      "Piekrītu",
+      "Pilnīgi piekrītu"
+    ],
+    "frequency": [
+      "Nekad",
+      "Reti",
+      "Dažreiz",
+      "Bieži",
+      "Ļoti bieži"
+    ],
+    "phq": [
+      "Nemaz",
+      "Dažas dienas",
+      "Vairāk nekā pusi dienu",
+      "Gandrīz katru dienu"
+    ],
+    "intensity": [
+      "Nemaz",
+      "Nedaudz",
+      "Mēreni",
+      "Diezgan stipri",
+      "Ārkārtīgi"
+    ]
+  },
+  "levels": {
+    "low": "Zems",
+    "mid": "Vidējs",
+    "high": "Augsts"
+  },
+  "result": {
+    "title": "Tavi rezultāti ir gatavi",
+    "subtitle": "Tu esi pabeidzis testu “{test}”. Atbloķē savu pilno personīgo pārskatu, lai redzētu savus rezultātus un to nozīmi.",
+    "mainType": "Tavs galvenais tips",
+    "locked": "Bloķēts",
+    "unlockTitle": "Saņem pilnu pārskatu",
+    "unlockText": "Tavs detalizētais pārskats ar visiem rezultātiem, personīgām interpretācijām un praktiskiem padomiem, nosūtīts uz tavu e-pastu.",
+    "emailLabel": "E-pasta adrese",
+    "emailPlaceholder": "tu@piemers.lv",
+    "consent": "Piekrītu noteikumiem un privātuma politikai.",
+    "buy": "Saņemt manu pārskatu par {price}",
+    "secure": "Droša apmaksa ar Stripe. Vienreizējs maksājums, bez abonementa.",
+    "invalidEmail": "Lūdzu, ievadi derīgu e-pasta adresi.",
+    "consentRequired": "Lai turpinātu, lūdzu, piekrīti noteikumiem.",
+    "error": "Kaut kas nogāja greizi. Lūdzu, mēģini vēlreiz.",
+    "noAnswers": "Mēs neatradām tavas atbildes. Lūdzu, vispirms izpildi testu.",
+    "takeTest": "Izpildīt testu",
+    "crisisTitle": "Tu neesi viens",
+    "crisisText": "Tu norādīji, ka tev ir bijušas domas, ka tev būtu labāk būt mirušam, vai domas par sev nodarītu kaitējumu. Lūdzu, vēl šodien parunā ar kādu. Ja esi tiešās briesmās, zvani 112. Jebkurā diennakts laikā vari sazināties arī ar krīzes tālruni savā valstī, piemēram, kādu no tiem, kas norādīti vietnē findahelpline.com.",
+    "crisisLink": "Atrodi palīdzības tālruni savā tuvumā"
+  },
+  "thanks": {
+    "title": "Paldies par pirkumu!",
+    "text": "Tavs personīgais pārskats jau ir ceļā uz tavu e-pastu. Parasti tas pienāk minūtes laikā.",
+    "spam": "Nav saņemts pēc 10 minūtēm? Pārbaudi surogātpasta vai reklāmu mapi vai raksti mums uz {email}.",
+    "more": "Atklāt vairāk testu"
+  },
+  "report": {
+    "subject": "Tavs pārskats: {test}",
+    "greeting": "Sveiki!",
+    "intro": "Paldies, ka izpildīji testu “{test}” vietnē {site}. Šeit ir tavs personīgais pārskats.",
+    "scoreLabel": "Tavs rezultāts",
+    "outro": "Ceram, ka šis pārskats tev sniegs noderīgas atziņas. Vēlies iepazīt arī citas savas puses? Atklāj visus mūsu testus vietnē {url}.",
+    "signature": "{site} komanda",
+    "instrumentLabel": "{name}: {score} no {max}",
+    "typeLabel": "Tavs tips"
+  },
+  "footer": {
+    "tagline": "Iepazīsti sevi labāk",
+    "about": "Padziļināti pašizziņas testi tiem, kas vēlas vairāk nekā četru burtu etiķeti.",
+    "company": "Uzņēmums",
+    "home": "Sākums",
+    "help": "Palīdzība",
+    "contact": "Sazināties",
+    "legal": "Juridiskā informācija",
+    "privacy": "Privātuma politika",
+    "terms": "Noteikumi un nosacījumi",
+    "cookies": "Sīkdatņu politika",
+    "refund": "Atmaksas politika",
+    "rights": "© {year} {site}. Visas tiesības aizsargātas.",
+    "disclaimer": "{site} nav medicīnisks pakalpojums. Klīnisku problēmu gadījumā, lūdzu, vērsies pie sertificēta speciālista."
+  },
+  "legal": {
+    "privacyTitle": "Privātuma politika",
+    "privacyBody": [
+      "Mēs vācam tikai pakalpojuma sniegšanai nepieciešamos datus: tavas atbildes testos un, ja iegādājies pārskatu, tavu e-pasta adresi.",
+      "Tavas atbildes tiek apstrādātas, lai aprēķinātu tavu rezultātu. Kad iegādājies pārskatu, tavas atbildes un e-pasta adrese tiek nodotas mūsu maksājumu pakalpojumu sniedzējam Stripe un mūsu e-pasta pakalpojumu sniedzējam, lai apstrādātu maksājumu un piegādātu pārskatu.",
+      "Mēs nepārdodam tavus datus un neizmantojam tos reklāmai. Jebkurā laikā vari lūgt mums dzēst savus datus, rakstot uz {email}.",
+      "Maksājumus apstrādā Stripe. Mēs nekad neredzam un neglabājam tavas kartes datus."
+    ],
+    "termsTitle": "Lietošanas noteikumi",
+    "termsBody": [
+      "Visi {site} testi ir paredzēti pašrefleksijai un izklaidei. Tie nav medicīniska, psiholoģiska vai cita profesionāla diagnoze.",
+      "Testa izpilde ir bez maksas. Personīgais pārskats maksā {price} par testu kā vienreizējs maksājums. Pārskats tiek piegādāts digitāli pa e-pastu.",
+      "Tā kā pārskats ir digitāls saturs, kas tiek piegādāts tūlīt pēc apmaksas, tu piekrīti, ka tavas atteikuma tiesības izbeidzas, tiklīdz pārskats ir nosūtīts. Ja neesi saņēmis pārskatu, raksti uz {email}, un mēs to nosūtīsim vēlreiz vai atmaksāsim naudu.",
+      "Mēs darām visu, lai saturs būtu precīzs, taču nevaram garantēt, ka rezultāti ir pilnīgi vai pareizi ikvienam."
+    ],
+    "cookiesTitle": "Sīkdatņu politika",
+    "cookiesBody": [
+      "{site} neizmanto reklāmas vai izsekošanas sīkdatnes.",
+      "Tavā pārlūkā mēs glabājam tikai noteikti nepieciešamos datus: izvēlēto valodu un tavu progresu testā, lai tu varētu turpināt no vietas, kur apstājies. Šie dati paliek tavā ierīcē.",
+      "Kad tu maksā, mūsu maksājumu pakalpojumu sniedzējs Stripe var izmantot sīkdatnes, kas nepieciešamas drošai maksājuma apstrādei un krāpšanas novēršanai.",
+      "Jautājumi? Raksti mums uz {email}."
+    ],
+    "refundTitle": "Atmaksas politika",
+    "refundBody": [
+      "Pārskats maksā {price} par testu kā vienreizējs maksājums. Nav abonementa un nav automātiskas atjaunošanas.",
+      "Neesi saņēmis pārskatu vai kaut kas nogāja greizi? Raksti uz {email} 14 dienu laikā, norādot izmantoto e-pasta adresi, un mēs nosūtīsim pārskatu vēlreiz vai atmaksāsim tavu maksājumu.",
+      "Tā kā pārskats ir uzreiz piegādāts digitāls saturs, likumā noteiktās atteikuma tiesības izbeidzas, tiklīdz tas ir nosūtīts. Tomēr, ja kaut kas nav kārtībā, mēs vienmēr palīdzēsim.",
+      "Atmaksa tiek veikta uz sākotnējo maksājuma veidu 5–10 darba dienu laikā."
+    ]
+  }
+}

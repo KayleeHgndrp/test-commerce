@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "title": "{site} – Teste psikologjike falas online",
+    "description": "Teste të thelluara për personalitetin, marrëdhëniet, punën dhe mirëqenien — të bazuara në kërkime psikologjike dhe të shpjeguara qartë."
+  },
+  "nav": {
+    "tests": "Testet",
+    "pricing": "Çmimet",
+    "faq": "Pyetje të shpeshta",
+    "language": "Gjuha",
+    "cta": "Fillo një test"
+  },
+  "home": {
+    "badge": "{count} teste · {languages} gjuhë",
+    "heroTitle": "Testet që zbulojnë",
+    "heroHighlight": "personalitetin tënd",
+    "heroSubtitle": "Teste të thelluara për personalitetin, marrëdhëniet dhe mirëqenien — secili i bazuar në kërkime të njohura psikologjike dhe i shpjeguar në një gjuhë të qartë që do ta lexosh vërtet deri në fund.",
+    "heroCta": "Shiko testet tona",
+    "heroSecondary": "Si funksionon",
+    "trust1": "Nuk nevojitet llogari",
+    "trust2": "Pagesë e njëhershme, pa abonim",
+    "trust3": "Raporti drejt e në emailin tënd",
+    "dimensionsTitle": "Je më shumë se një rezultat — shiko çdo anë tënden.",
+    "dimensionsSubtitle": "Fushat që testet tona matin më shpesh, në personalitet, marrëdhënie dhe mirëqenie.",
+    "dimensions": [
+      "🎯 Përqendrimi",
+      "🔋 Energjia sociale",
+      "🌊 Reagimi ndaj stresit",
+      "💞 Lidhja emocionale",
+      "⚖️ Vendimet",
+      "🧭 Vlerat",
+      "💡 Kreativiteti",
+      "🪞 Vetëdija",
+      "🛡️ Qëndrueshmëria"
+    ],
+    "testsTitle": "Zgjidh testin tënd",
+    "testsSubtitle": "Çdo test plotësohet falas. Zgjidh atë që të flet më shumë.",
+    "howTitle": "Nga pyetja e parë te raporti i plotë në tre hapa",
+    "steps": [
+      {
+        "title": "Zgjidh një test",
+        "text": "Zgjidh nga biblioteka jonë me teste personaliteti, marrëdhëniesh dhe depistimi, secili i ndërtuar mbi modele të njohura psikologjike."
+      },
+      {
+        "title": "Plotëso testin",
+        "text": "Përgjigju 100 pyetjeve në një shkallë të thjeshtë. Shumica e testeve zgjasin rreth 5 minuta dhe përparimi yt ruhet."
+      },
+      {
+        "title": "Lexo raportin",
+        "text": "Merr një raport personal me rezultatet e tua, çfarë do të thonë ato dhe këshilla praktike, drejt e në emailin tënd."
+      }
+    ],
+    "pricingTitle": "Çmime të thjeshta",
+    "pricingSubtitle": "Një çmim. Pa abonim. Pa surpriza.",
+    "planFreeName": "Plotëso testin",
+    "planFreePrice": "Falas",
+    "planFreeFeatures": [
+      "Të gjitha {count} testet, falas",
+      "100 pyetje, rreth 5 minuta",
+      "Përparimi ruhet automatikisht",
+      "Pamje e menjëhershme e fushave të rezultatit tënd"
+    ],
+    "planReportName": "Raporti i plotë",
+    "planReportPrice": "{price}",
+    "planReportPer": "një herë, për test",
+    "planReportFeatures": [
+      "Rezultati yt në çdo dimension",
+      "Interpretim personal i çdo rezultati",
+      "Këshilla praktike që mund t'i zbatosh menjëherë",
+      "Dërgohet në emailin tënd brenda pak minutash",
+      "Pa abonim, pa rinovim automatik"
+    ],
+    "planCta": "Provo tani",
+    "faqTitle": "Pyetje të shpeshta",
+    "faq": [
+      {
+        "q": "Çfarë është {site}?",
+        "a": "{site} është një platformë online me teste të thelluara vetëvlerësimi për personalitetin, marrëdhëniet, punën dhe mirëqenien. Mund ta plotësosh çdo test falas dhe të porosisësh një raport personal të detajuar nëse dëshiron të mësosh më shumë."
+      },
+      {
+        "q": "Sa kushton një test?",
+        "a": "Plotësimi i një testi është falas. Raporti personal i detajuar kushton {price}, i paguar një herë. Nuk ka abonim dhe nuk do të tarifohesh më kurrë automatikisht."
+      },
+      {
+        "q": "Si e marr raportin tim?",
+        "a": "Pas pagesës, raporti dërgohet në adresën e emailit që ke dhënë, zakonisht brenda një minute. Nuk e gjen? Kontrollo dosjen e postës së padëshiruar ose të promocioneve."
+      },
+      {
+        "q": "A mund ta përsëris një test?",
+        "a": "Po, sa herë të duash. Përsëritja e testit pas disa javësh është një mënyrë e mirë për të parë çfarë ka ndryshuar. Çdo raport është një blerje e veçantë e njëhershme."
+      },
+      {
+        "q": "A është kjo diagnozë mjekësore?",
+        "a": "Jo. Testet tona janë për vetëreflektim. Testet e depistimit, si ai për ADHD-në ose depresionin, mund të tregojnë nëse ka kuptim të flasësh me një profesionist, por nuk zëvendësojnë kurrë vlerësimin nga një profesionist i kualifikuar."
+      },
+      {
+        "q": "Si janë krijuar këto teste?",
+        "a": "Testet tona bazohen në modele të njohura psikologjike si Big Five (Pesë Faktorët e Mëdhenj), RIASEC dhe teoria e lidhjes emocionale. Testet e depresionit dhe të traumës përfshijnë gjithashtu pyetësorët PHQ-9 dhe PCL-5, që janë në domen publik, të vlerësuar me pragjet e tyre zyrtare."
+      },
+      {
+        "q": "A mund të jenë rezultatet të pasakta?",
+        "a": "Çdo pyetësor ka një marzh gabimi dhe edhe disponimi yt i ditës mund të ndikojë. Përgjigju sinqerisht dhe pa e menduar tepër, dhe shiko rezultatin si pikënisje për reflektim, jo si vendim përfundimtar."
+      },
+      {
+        "q": "A do të mbeten private të dhënat e mia?",
+        "a": "Po. Nuk të nevojitet llogari. Përgjigjet e tua përdoren vetëm për të llogaritur rezultatin dhe për të krijuar raportin, dhe ne nuk i shesim kurrë të dhënat e tua."
+      }
+    ],
+    "ctaTitle": "Gati të zbulosh më shumë për veten?",
+    "ctaButton": "Shiko testet tona"
+  },
+  "categories": {
+    "personality": "Personaliteti dhe tipi",
+    "relationships": "Marrëdhëniet dhe emocionet",
+    "work": "Puna dhe vlerat",
+    "screeners": "Teste depistimi",
+    "wellbeing": "Mirëqenia dhe zakonet"
+  },
+  "test": {
+    "start": "Fillo testin",
+    "questions": "{count} pyetje",
+    "minutes": "{count} min",
+    "free": "Falas",
+    "aboutTitle": "Rreth këtij testi",
+    "whatYouGet": "Çfarë përfshin raporti yt",
+    "whatYouGet1": "Rezultati yt në çdo dimension: {dimensions}",
+    "whatYouGet2": "Interpretim personal i çdo rezultati",
+    "whatYouGet3": "Këshilla praktike që mund t'i zbatosh menjëherë",
+    "otherTests": "Teste të tjera të njohura",
+    "question": "Pyetja {current} nga {total}",
+    "back": "Prapa",
+    "next": "Para",
+    "finish": "Shiko rezultatet e mia",
+    "chooseAnswer": "Zgjidh përgjigjen që të përshtatet më mirë.",
+    "resume": "Ke një test të papërfunduar. Do të vazhdosh nga ku e le?",
+    "resumeYes": "Vazhdo",
+    "resumeNo": "Fillo nga e para",
+    "genderTitle": "Së pari, një pyetje e shkurtër",
+    "genderQuestion": "Cila është gjinia jote?",
+    "genderMale": "Mashkull",
+    "genderFemale": "Femër",
+    "genderOther": "Tjetër / preferoj të mos e them",
+    "screenerNote": "Ky test është mjet depistimi, jo diagnozë."
+  },
+  "scales": {
+    "agree": [
+      "Aspak dakord",
+      "Nuk jam dakord",
+      "Neutral",
+      "Dakord",
+      "Plotësisht dakord"
+    ],
+    "frequency": [
+      "Kurrë",
+      "Rrallë",
+      "Ndonjëherë",
+      "Shpesh",
+      "Shumë shpesh"
+    ],
+    "phq": [
+      "Aspak",
+      "Disa ditë",
+      "Më shumë se gjysmën e ditëve",
+      "Pothuajse çdo ditë"
+    ],
+    "intensity": [
+      "Aspak",
+      "Pak",
+      "Mesatarisht",
+      "Mjaft",
+      "Jashtëzakonisht"
+    ]
+  },
+  "levels": {
+    "low": "I ulët",
+    "mid": "Mesatar",
+    "high": "I lartë"
+  },
+  "result": {
+    "title": "Rezultatet e tua janë gati",
+    "subtitle": "E përfundove testin {test}. Zhblloko raportin tënd të plotë personal për të parë rezultatet dhe çfarë do të thonë ato.",
+    "mainType": "Tipi yt kryesor",
+    "locked": "I kyçur",
+    "unlockTitle": "Merr raportin tënd të plotë",
+    "unlockText": "Raporti yt i detajuar me të gjitha rezultatet, interpretime personale dhe këshilla praktike, i dërguar në emailin tënd.",
+    "emailLabel": "Adresa e emailit",
+    "emailPlaceholder": "ti@shembull.com",
+    "consent": "Pranoj kushtet dhe politikën e privatësisë.",
+    "buy": "Merr raportin për {price}",
+    "secure": "Pagesë e sigurt përmes Stripe. Pagesë e njëhershme, pa abonim.",
+    "invalidEmail": "Të lutem shkruaj një adresë emaili të vlefshme.",
+    "consentRequired": "Të lutem prano kushtet për të vazhduar.",
+    "error": "Diçka shkoi keq. Të lutem provo përsëri.",
+    "noAnswers": "Nuk i gjetëm përgjigjet e tua. Të lutem plotëso fillimisht testin.",
+    "takeTest": "Plotëso testin",
+    "crisisTitle": "Nuk je vetëm",
+    "crisisText": "Ke treguar se ke pasur mendime se do të ishte më mirë të ishe i/e vdekur ose për të lënduar veten. Të lutem fol me dikë sot. Nëse je në rrezik të menjëhershëm, telefono 112. Mund të kontaktosh gjithashtu një linjë krize në vendin tënd, si ato të listuara në findahelpline.com, në çdo orë të ditës.",
+    "crisisLink": "Gjej një linjë ndihme pranë teje"
+  },
+  "thanks": {
+    "title": "Faleminderit për blerjen!",
+    "text": "Raporti yt personal është në rrugë drejt emailit tënd. Zakonisht mbërrin brenda një minute.",
+    "spam": "Nuk të ka ardhur pas 10 minutash? Kontrollo dosjen e postës së padëshiruar ose të promocioneve, ose na kontakto në {email}.",
+    "more": "Zbulo më shumë teste"
+  },
+  "report": {
+    "subject": "Raporti yt: {test}",
+    "greeting": "Përshëndetje,",
+    "intro": "Faleminderit që plotësove testin {test} në {site}. Ja raporti yt personal.",
+    "scoreLabel": "Rezultati yt",
+    "outro": "Shpresojmë që ky raport të të japë njohuri të dobishme. Je kurioz/e për anë të tjera të vetes? Zbulo të gjitha testet tona në {url}.",
+    "signature": "Ekipi i {site}",
+    "instrumentLabel": "{name}: {score} nga {max}",
+    "typeLabel": "Tipi yt"
+  },
+  "footer": {
+    "tagline": "Njih veten më mirë",
+    "about": "Teste të thelluara vetënjohjeje për ata që duan më shumë se një etiketë me katër shkronja.",
+    "company": "Kompania",
+    "home": "Kryefaqja",
+    "help": "Ndihmë",
+    "contact": "Na kontakto",
+    "legal": "Ligjore",
+    "privacy": "Politika e privatësisë",
+    "terms": "Kushtet dhe afatet",
+    "cookies": "Politika e cookie-ve",
+    "refund": "Politika e rimbursimit",
+    "rights": "© {year} {site}. Të gjitha të drejtat të rezervuara.",
+    "disclaimer": "{site} nuk është shërbim mjekësor. Për shqetësime klinike, të lutem konsulto një profesionist të licencuar."
+  },
+  "legal": {
+    "privacyTitle": "Politika e privatësisë",
+    "privacyBody": [
+      "Mbledhim vetëm të dhënat e nevojshme për të ofruar shërbimin tonë: përgjigjet e tua në test dhe, nëse blen një raport, adresën tënde të emailit.",
+      "Përgjigjet e tua përpunohen për të llogaritur rezultatin. Kur blen një raport, përgjigjet dhe adresa jote e emailit u kalohen ofruesit tonë të pagesave Stripe dhe ofruesit tonë të emailit, me qëllim përpunimin e pagesës dhe dërgimin e raportit.",
+      "Nuk i shesim të dhënat e tua dhe nuk i përdorim për reklama. Mund të kërkosh në çdo kohë fshirjen e të dhënave duke na kontaktuar në {email}.",
+      "Pagesat përpunohen nga Stripe. Ne nuk i shohim dhe nuk i ruajmë kurrë të dhënat e kartës sate."
+    ],
+    "termsTitle": "Kushtet e shërbimit",
+    "termsBody": [
+      "Të gjitha testet në {site} janë për vetëreflektim dhe argëtim. Ato nuk janë diagnozë mjekësore, psikologjike ose profesionale.",
+      "Plotësimi i një testi është falas. Një raport personal kushton {price} për test si pagesë e njëhershme. Raporti dorëzohet në formë dixhitale me email.",
+      "Meqenëse raporti është përmbajtje dixhitale që dorëzohet menjëherë pas pagesës, pranon që e drejta e tërheqjes skadon sapo raporti të jetë dërguar. Nëse nuk e ke marrë raportin, kontakto {email} dhe do ta ridërgojmë ose do të të rimbursojmë.",
+      "Bëjmë çmos që përmbajtja të jetë e saktë, por nuk mund të garantojmë që rezultatet janë të plota ose të sakta për çdo person."
+    ],
+    "cookiesTitle": "Politika e cookie-ve",
+    "cookiesBody": [
+      "{site} nuk përdor cookie reklamuese ose gjurmuese.",
+      "Në shfletuesin tënd ruajmë vetëm të dhëna rreptësisht të nevojshme: gjuhën e zgjedhur dhe përparimin tënd në një test, që të mund të vazhdosh nga ku e le. Këto të dhëna mbeten në pajisjen tënde.",
+      "Kur paguan, ofruesi ynë i pagesave Stripe mund të vendosë cookie të nevojshme për të përpunuar pagesën në mënyrë të sigurt dhe për të parandaluar mashtrimet.",
+      "Ke pyetje? Na kontakto në {email}."
+    ],
+    "refundTitle": "Politika e rimbursimit",
+    "refundBody": [
+      "Një raport kushton {price} për test si pagesë e njëhershme. Nuk ka abonim dhe as rinovim automatik.",
+      "Nuk e more raportin ose diçka shkoi keq? Kontakto {email} brenda 14 ditëve, duke përmendur adresën e emailit që përdore, dhe do ta ridërgojmë raportin ose do të ta kthejmë pagesën.",
+      "Meqenëse raporti është përmbajtje dixhitale që dorëzohet menjëherë, e drejta ligjore e tërheqjes skadon sapo të jetë dërguar. Megjithatë, do të të ndihmojmë gjithmonë nëse diçka nuk shkon.",
+      "Rimbursimet bëhen në mënyrën origjinale të pagesës brenda 5–10 ditëve pune."
+    ]
+  }
+}

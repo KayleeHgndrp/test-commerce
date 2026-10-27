@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Test psicologici gratuiti online",
-    "description": "Fai test approfonditi su personalità, attaccamento, carriera, ADHD, burnout e molto altro. Gratuiti, con un report personale dettagliato a soli {price}."
+    "description": "Test approfonditi su personalità, relazioni, lavoro e benessere, basati su ricerche psicologiche consolidate e spiegati con parole semplici."
   },
   "nav": {
     "tests": "Test",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} test · {languages} lingue",
-    "heroTitle": "Conosci te stesso, un test alla volta",
-    "heroSubtitle": "Test approfonditi su personalità, relazioni, lavoro e benessere. 100 domande, circa 5 minuti e un report personale a soli {price}.",
+    "heroTitle": "I test che rivelano la tua",
+    "heroHighlight": "personalità",
+    "heroSubtitle": "Test approfonditi su personalità, relazioni e benessere, ciascuno basato su ricerche psicologiche consolidate e spiegato con parole semplici che leggerai davvero fino in fondo.",
     "heroCta": "Scopri i nostri test",
     "heroSecondary": "Come funziona",
     "trust1": "Nessun account richiesto",

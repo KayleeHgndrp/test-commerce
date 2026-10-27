@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Testes de psicologia gratuitos online",
-    "description": "Faça testes aprofundados sobre personalidade, vinculação, carreira, PHDA, burnout e muito mais. Gratuitos, com um relatório pessoal detalhado por apenas {price}."
+    "description": "Testes aprofundados sobre personalidade, relações, trabalho e bem-estar, baseados em investigação psicológica reconhecida e explicados em linguagem simples."
   },
   "nav": {
     "tests": "Testes",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} testes · {languages} idiomas",
-    "heroTitle": "Conheça-se melhor, um teste de cada vez",
-    "heroSubtitle": "Testes aprofundados sobre personalidade, relações, trabalho e bem-estar. 100 perguntas, cerca de 5 minutos e um relatório pessoal por apenas {price}.",
+    "heroTitle": "Os testes que revelam a sua",
+    "heroHighlight": "personalidade",
+    "heroSubtitle": "Testes aprofundados sobre personalidade, relações e bem-estar, cada um baseado em investigação psicológica reconhecida e explicado numa linguagem tão clara que vai mesmo lê-lo até ao fim.",
     "heroCta": "Explorar os nossos testes",
     "heroSecondary": "Como funciona",
     "trust1": "Sem necessidade de conta",

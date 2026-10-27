@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "title": "{site} – Tasuta psühholoogilised testid veebis",
+    "description": "Põhjalikud testid isiksuse, suhete, töö ja heaolu kohta — põhinevad psühholoogilisel uurimistööl ja on selgelt lahti seletatud."
+  },
+  "nav": {
+    "tests": "Testid",
+    "pricing": "Hinnad",
+    "faq": "KKK",
+    "language": "Keel",
+    "cta": "Alusta testi"
+  },
+  "home": {
+    "badge": "Teste: {count} · Keeli: {languages}",
+    "heroTitle": "Testid, mis avavad sinu",
+    "heroHighlight": "isiksuse",
+    "heroSubtitle": "Põhjalikud testid isiksuse, suhete ja heaolu kohta — iga test põhineb tunnustatud psühholoogilisel uurimistööl ja on selgitatud selges keeles, mille sa ka päriselt lõpuni loed.",
+    "heroCta": "Vaata meie teste",
+    "heroSecondary": "Kuidas see toimib",
+    "trust1": "Kontot pole vaja",
+    "trust2": "Ühekordne makse, tellimust pole",
+    "trust3": "Raport otse sinu postkasti",
+    "dimensionsTitle": "Sa oled rohkem kui üks tulemus – näe kõiki oma külgi.",
+    "dimensionsSubtitle": "Valdkonnad, mida meie testid kõige sagedamini mõõdavad – isiksusest suhete ja heaoluni.",
+    "dimensions": [
+      "🎯 Keskendumine",
+      "🔋 Sotsiaalne energia",
+      "🌊 Stressireaktsioon",
+      "💞 Kiindumus",
+      "⚖️ Otsustamine",
+      "🧭 Väärtused",
+      "💡 Loovus",
+      "🪞 Eneseteadlikkus",
+      "🛡️ Vastupidavus"
+    ],
+    "testsTitle": "Vali oma test",
+    "testsSubtitle": "Iga test on tasuta. Vali see, mis sind kõnetab.",
+    "howTitle": "Esimesest küsimusest täieliku raportini kolme sammuga",
+    "steps": [
+      {
+        "title": "Vali test",
+        "text": "Vali meie isiksuse-, suhte- ja sõeltestide hulgast – kõik põhinevad tunnustatud psühholoogilistel mudelitel."
+      },
+      {
+        "title": "Tee test",
+        "text": "Vasta 100 küsimusele lihtsal skaalal. Enamik teste võtab umbes 5 minutit ja sinu edenemine salvestatakse."
+      },
+      {
+        "title": "Loe oma raportit",
+        "text": "Saad isikliku raporti oma tulemuste, nende tähenduse ja praktiliste nõuannetega – otse oma postkasti."
+      }
+    ],
+    "pricingTitle": "Lihtne hinnastus",
+    "pricingSubtitle": "Üks hind. Tellimust pole. Üllatusi pole.",
+    "planFreeName": "Tee test",
+    "planFreePrice": "Tasuta",
+    "planFreeFeatures": [
+      "Kõik testid ({count}) tasuta",
+      "100 küsimust, umbes 5 minutit",
+      "Edenemine salvestatakse automaatselt",
+      "Kohene eelvaade sinu tulemusvaldkondadest"
+    ],
+    "planReportName": "Täielik raport",
+    "planReportPrice": "{price}",
+    "planReportPer": "ühekordselt, testi kohta",
+    "planReportFeatures": [
+      "Sinu tulemus igas dimensioonis",
+      "Iga tulemuse isiklik tõlgendus",
+      "Praktilised nõuanded, mida saad kohe kasutada",
+      "Sinu postkastis mõne minutiga",
+      "Tellimust pole, automaatset pikendamist pole"
+    ],
+    "planCta": "Proovi kohe",
+    "faqTitle": "Korduma kippuvad küsimused",
+    "faq": [
+      {
+        "q": "Mis on {site}?",
+        "a": "{site} on veebiplatvorm, kus on põhjalikud enesetestid isiksuse, suhete, töö ja heaolu kohta. Saad iga testi tasuta teha ja tellida üksikasjaliku isikliku raporti, kui soovid rohkem teada."
+      },
+      {
+        "q": "Kui palju test maksab?",
+        "a": "Testi tegemine on tasuta. Üksikasjalik isiklik raport maksab {price} ühekordse maksena. Tellimust pole ja sinult ei võeta kunagi automaatselt uuesti raha."
+      },
+      {
+        "q": "Kuidas ma raporti saan?",
+        "a": "Pärast makset saadetakse raport sinu sisestatud e-posti aadressile, tavaliselt minuti jooksul. Ei leia seda? Vaata rämpsposti või reklaamide kausta."
+      },
+      {
+        "q": "Kas saan testi uuesti teha?",
+        "a": "Jah, nii tihti kui soovid. Testi kordamine mõne nädala pärast on hea viis näha, mis on muutunud. Iga raport on eraldi ühekordne ost."
+      },
+      {
+        "q": "Kas see on meditsiiniline diagnoos?",
+        "a": "Ei. Meie testid on mõeldud eneserefleksiooniks. Sõeltestid, näiteks ATH- või depressioonitest, võivad näidata, kas tasub spetsialistiga rääkida, kuid need ei asenda kunagi kvalifitseeritud spetsialisti hinnangut."
+      },
+      {
+        "q": "Kuidas need testid on loodud?",
+        "a": "Meie testid põhinevad tunnustatud psühholoogilistel mudelitel, nagu viiefaktorimudel (Big Five), RIASEC ja kiindumusteooria. Depressiooni- ja traumatestid sisaldavad ka vabalt kasutatavaid küsimustikke PHQ-9 ja PCL-5, mida hinnatakse nende ametlike lävendite järgi."
+      },
+      {
+        "q": "Kas tulemused võivad olla ebausaldusväärsed?",
+        "a": "Igal küsimustikul on veamäär ja rolli võib mängida ka sinu päevane meeleolu. Vasta ausalt ja liigselt mõtlemata ning võta oma tulemust kui mõtisklemise lähtepunkti, mitte lõplikku otsust."
+      },
+      {
+        "q": "Kas mu andmed jäävad privaatseks?",
+        "a": "Jah. Kontot pole vaja. Sinu vastuseid kasutatakse ainult tulemuse arvutamiseks ja raporti koostamiseks ning me ei müü kunagi sinu andmeid."
+      }
+    ],
+    "ctaTitle": "Valmis enda kohta rohkem avastama?",
+    "ctaButton": "Vaata meie teste"
+  },
+  "categories": {
+    "personality": "Isiksus ja tüüp",
+    "relationships": "Suhted ja emotsioonid",
+    "work": "Töö ja väärtused",
+    "screeners": "Sõeltestid",
+    "wellbeing": "Heaolu ja harjumused"
+  },
+  "test": {
+    "start": "Alusta testi",
+    "questions": "{count} küsimust",
+    "minutes": "{count} min",
+    "free": "Tasuta",
+    "aboutTitle": "Testist",
+    "whatYouGet": "Mida sinu raport sisaldab",
+    "whatYouGet1": "Sinu tulemus igas dimensioonis: {dimensions}",
+    "whatYouGet2": "Iga tulemuse isiklik tõlgendus",
+    "whatYouGet3": "Praktilised nõuanded, mida saad kohe rakendada",
+    "otherTests": "Teised populaarsed testid",
+    "question": "Küsimus {current}/{total}",
+    "back": "Tagasi",
+    "next": "Edasi",
+    "finish": "Vaata minu tulemusi",
+    "chooseAnswer": "Vali vastus, mis sobib sulle kõige paremini.",
+    "resume": "Sul on pooleli test. Kas jätkad sealt, kus pooleli jäi?",
+    "resumeYes": "Jätka",
+    "resumeNo": "Alusta uuesti",
+    "genderTitle": "Kõigepealt üks kiire küsimus",
+    "genderQuestion": "Mis on sinu sugu?",
+    "genderMale": "Mees",
+    "genderFemale": "Naine",
+    "genderOther": "Muu / ei soovi öelda",
+    "screenerNote": "See test on sõelumisvahend, mitte diagnoos."
+  },
+  "scales": {
+    "agree": [
+      "Ei nõustu üldse",
+      "Ei nõustu",
+      "Ei oska öelda",
+      "Nõustun",
+      "Nõustun täielikult"
+    ],
+    "frequency": [
+      "Mitte kunagi",
+      "Harva",
+      "Mõnikord",
+      "Sageli",
+      "Väga sageli"
+    ],
+    "phq": [
+      "Üldse mitte",
+      "Mõnel päeval",
+      "Rohkem kui pooltel päevadel",
+      "Peaaegu iga päev"
+    ],
+    "intensity": [
+      "Üldse mitte",
+      "Veidi",
+      "Mõõdukalt",
+      "Üsna palju",
+      "Äärmiselt"
+    ]
+  },
+  "levels": {
+    "low": "Madal",
+    "mid": "Keskmine",
+    "high": "Kõrge"
+  },
+  "result": {
+    "title": "Sinu tulemused on valmis",
+    "subtitle": "Oled testi „{test}“ lõpetanud. Ava oma täielik isiklik raport, et näha oma tulemusi ja nende tähendust.",
+    "mainType": "Sinu põhitüüp",
+    "locked": "Lukus",
+    "unlockTitle": "Saa oma täielik raport",
+    "unlockText": "Sinu üksikasjalik raport kõigi tulemuste, isiklike tõlgenduste ja praktiliste nõuannetega, saadetud sinu e-postile.",
+    "emailLabel": "E-posti aadress",
+    "emailPlaceholder": "sina@naide.ee",
+    "consent": "Nõustun tingimuste ja privaatsuspoliitikaga.",
+    "buy": "Saa minu raport hinnaga {price}",
+    "secure": "Turvaline makse Stripe'i kaudu. Ühekordne makse, tellimust pole.",
+    "invalidEmail": "Sisesta kehtiv e-posti aadress.",
+    "consentRequired": "Jätkamiseks nõustu tingimustega.",
+    "error": "Midagi läks valesti. Proovi uuesti.",
+    "noAnswers": "Me ei leidnud sinu vastuseid. Tee kõigepealt test.",
+    "takeTest": "Tee test",
+    "crisisTitle": "Sa ei ole üksi",
+    "crisisText": "Märkisid, et sul on olnud mõtteid, et oleksid parem surnud, või mõtteid endale haiget teha. Palun räägi kellegagi juba täna. Kui oled vahetus ohus, helista 112. Võid ka igal kellaajal pöörduda oma riigi kriisitelefonile, näiteks nende hulgast, mis on loetletud lehel findahelpline.com.",
+    "crisisLink": "Leia lähim abitelefon"
+  },
+  "thanks": {
+    "title": "Aitäh ostu eest!",
+    "text": "Sinu isiklik raport on teel sinu postkasti. Tavaliselt jõuab see kohale minuti jooksul.",
+    "spam": "Pole 10 minuti jooksul kätte saanud? Vaata rämpsposti või reklaamide kausta või kirjuta meile aadressil {email}.",
+    "more": "Avasta veel teste"
+  },
+  "report": {
+    "subject": "Sinu raport: {test}",
+    "greeting": "Tere!",
+    "intro": "Aitäh, et tegid lehel {site} testi „{test}“. Siin on sinu isiklik raport.",
+    "scoreLabel": "Sinu tulemus",
+    "outro": "Loodame, et see raport annab sulle kasulikke teadmisi. Tahad teada ka oma teisi külgi? Avasta kõik meie testid aadressil {url}.",
+    "signature": "{site} meeskond",
+    "instrumentLabel": "{name}: {score}/{max}",
+    "typeLabel": "Sinu tüüp"
+  },
+  "footer": {
+    "tagline": "Tunne ennast paremini",
+    "about": "Põhjalikud enesetestid neile, kes tahavad enamat kui nelja tähega silti.",
+    "company": "Ettevõte",
+    "home": "Avaleht",
+    "help": "Abi",
+    "contact": "Võta ühendust",
+    "legal": "Õiguslik teave",
+    "privacy": "Privaatsuspoliitika",
+    "terms": "Tingimused",
+    "cookies": "Küpsiste poliitika",
+    "refund": "Tagastuspoliitika",
+    "rights": "© {year} {site}. Kõik õigused kaitstud.",
+    "disclaimer": "{site} ei ole meditsiiniteenus. Kliiniliste murede korral pöördu litsentseeritud spetsialisti poole."
+  },
+  "legal": {
+    "privacyTitle": "Privaatsuspoliitika",
+    "privacyBody": [
+      "Kogume ainult teenuse osutamiseks vajalikke andmeid: sinu vastuseid testidele ja raporti ostmisel sinu e-posti aadressi.",
+      "Sinu vastuseid töödeldakse tulemuse arvutamiseks. Kui ostad raporti, edastatakse sinu vastused ja e-posti aadress meie makseteenuse pakkujale Stripe'ile ja meie e-posti teenuse pakkujale, et makse töödelda ja raport kätte toimetada.",
+      "Me ei müü sinu andmeid ega kasuta neid reklaamiks. Võid igal ajal paluda oma andmed kustutada, kirjutades aadressil {email}.",
+      "Makseid töötleb Stripe. Me ei näe ega salvesta kunagi sinu kaardiandmeid."
+    ],
+    "termsTitle": "Kasutustingimused",
+    "termsBody": [
+      "Kõik {site} testid on mõeldud eneserefleksiooniks ja meelelahutuseks. Need ei ole meditsiiniline, psühholoogiline ega muu professionaalne diagnoos.",
+      "Testi tegemine on tasuta. Isiklik raport maksab {price} testi kohta ühekordse maksena. Raport edastatakse digitaalselt e-postiga.",
+      "Kuna raport on digitaalne sisu, mis edastatakse kohe pärast makset, nõustud, et sinu taganemisõigus lõpeb raporti saatmisega. Kui sa ei saanud oma raportit kätte, kirjuta aadressil {email} ja me saadame selle uuesti või maksame raha tagasi.",
+      "Püüame hoida sisu täpsena, kuid me ei saa tagada, et tulemused on iga inimese jaoks täielikud või õiged."
+    ],
+    "cookiesTitle": "Küpsiste poliitika",
+    "cookiesBody": [
+      "{site} ei kasuta reklaami- ega jälgimisküpsiseid.",
+      "Salvestame sinu brauserisse ainult hädavajalikke andmeid: valitud keele ja edenemise testis, et saaksid jätkata sealt, kus pooleli jäi. Need andmed jäävad sinu seadmesse.",
+      "Maksmisel võib meie makseteenuse pakkuja Stripe kasutada küpsiseid, mis on vajalikud makse turvaliseks töötlemiseks ja pettuste ennetamiseks.",
+      "Küsimusi? Kirjuta meile aadressil {email}."
+    ],
+    "refundTitle": "Tagastuspoliitika",
+    "refundBody": [
+      "Raport maksab {price} testi kohta ühekordse maksena. Tellimust ega automaatset pikendamist pole.",
+      "Kas sa ei saanud oma raportit või läks midagi valesti? Kirjuta 14 päeva jooksul aadressil {email}, märkides kasutatud e-posti aadressi, ja me saadame raporti uuesti või maksame raha tagasi.",
+      "Kuna raport on kohe edastatav digitaalne sisu, lõpeb seadusjärgne taganemisõigus selle saatmisega. Kui midagi on valesti, aitame sind siiski alati.",
+      "Raha tagastatakse algsele makseviisile 5–10 tööpäeva jooksul."
+    ]
+  }
+}

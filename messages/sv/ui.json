@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Gratis psykologiska tester online",
-    "description": "Gör djupgående tester om personlighet, anknytning, karriär, ADHD, utbrändhet och mycket mer. Gratis att göra, med en detaljerad personlig rapport för bara {price}."
+    "description": "Djupgående tester om personlighet, relationer, arbete och välmående – grundade i etablerad psykologisk forskning och förklarade på begriplig svenska."
   },
   "nav": {
     "tests": "Tester",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} tester · {languages} språk",
-    "heroTitle": "Lär känna dig själv, ett test i taget",
-    "heroSubtitle": "Djupgående tester om personlighet, relationer, arbete och välmående. 100 frågor, cirka 5 minuter och en personlig rapport för bara {price}.",
+    "heroTitle": "Testerna som avslöjar din",
+    "heroHighlight": "personlighet",
+    "heroSubtitle": "Djupgående tester om personlighet, relationer och välmående – alla grundade i etablerad psykologisk forskning och förklarade på ett så enkelt språk att du faktiskt läser till slutet.",
     "heroCta": "Utforska våra tester",
     "heroSecondary": "Så fungerar det",
     "trust1": "Inget konto behövs",

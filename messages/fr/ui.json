@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Tests de psychologie gratuits en ligne",
-    "description": "Passez des tests approfondis sur la personnalité, l'attachement, la carrière, le TDAH, le burn-out et bien plus. Gratuits, avec un rapport personnel détaillé pour seulement {price}."
+    "description": "Des tests approfondis sur la personnalité, les relations, le travail et le bien-être, fondés sur une recherche psychologique reconnue et expliqués simplement."
   },
   "nav": {
     "tests": "Tests",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} tests · {languages} langues",
-    "heroTitle": "Apprenez à vous connaître, un test à la fois",
-    "heroSubtitle": "Des tests approfondis sur la personnalité, les relations, le travail et le bien-être. 100 questions, environ 5 minutes, et un rapport personnel pour seulement {price}.",
+    "heroTitle": "Les tests qui révèlent votre",
+    "heroHighlight": "personnalité",
+    "heroSubtitle": "Des tests approfondis sur la personnalité, les relations et le bien-être, chacun fondé sur une recherche psychologique reconnue et expliqué dans un langage simple que vous lirez vraiment jusqu'au bout.",
     "heroCta": "Découvrir nos tests",
     "heroSecondary": "Comment ça marche",
     "trust1": "Aucun compte nécessaire",

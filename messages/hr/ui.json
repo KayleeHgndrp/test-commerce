@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Besplatni psihološki testovi online",
-    "description": "Riješite detaljne testove o osobnosti, privrženosti, karijeri, ADHD-u, sagorijevanju i još mnogo toga. Testovi su besplatni, a detaljno osobno izvješće stoji samo {price}."
+    "description": "Detaljni testovi o osobnosti, odnosima, poslu i dobrobiti — temeljeni na psihološkim istraživanjima i jasno objašnjeni."
   },
   "nav": {
     "tests": "Testovi",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "Testova: {count} · Jezika: {languages}",
-    "heroTitle": "Upoznajte sebe, test po test",
-    "heroSubtitle": "Detaljni testovi o osobnosti, odnosima, poslu i dobrobiti. 100 pitanja, oko 5 minuta i osobno izvješće za samo {price}.",
+    "heroTitle": "Testovi koji otkrivaju tvoju",
+    "heroHighlight": "osobnost",
+    "heroSubtitle": "Detaljni testovi o osobnosti, odnosima i dobrobiti — svaki se temelji na priznatim psihološkim istraživanjima i objašnjen je jasnim jezikom koji ćeš stvarno pročitati do kraja.",
     "heroCta": "Istražite naše testove",
     "heroSecondary": "Kako funkcionira",
     "trust1": "Bez registracije",

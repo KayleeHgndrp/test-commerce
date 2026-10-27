@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Ücretsiz online psikoloji testleri",
-    "description": "Kişilik, bağlanma, kariyer, DEHB, tükenmişlik ve daha fazlası üzerine kapsamlı testler çözün. Testler ücretsiz; ayrıntılı kişisel rapor yalnızca {price}."
+    "description": "Kişilik, ilişkiler, iş ve iyi oluş üzerine derinlemesine testler — psikolojik araştırmalara dayanır ve sade bir dille açıklanır."
   },
   "nav": {
     "tests": "Testler",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} test · {languages} dil",
-    "heroTitle": "Kendinizi test test keşfedin",
-    "heroSubtitle": "Kişilik, ilişkiler, iş ve iyi oluş üzerine kapsamlı testler. 100 soru, yaklaşık 5 dakika ve yalnızca {price} karşılığında kişisel bir rapor.",
+    "heroTitle": "Testlerle keşfet:",
+    "heroHighlight": "kişiliğini",
+    "heroSubtitle": "Kişilik, ilişkiler ve iyi oluş üzerine derinlemesine testler — her biri saygın psikolojik araştırmalara dayanır ve gerçekten sonuna kadar okuyacağın sade bir dille açıklanır.",
     "heroCta": "Testlerimizi keşfedin",
     "heroSecondary": "Nasıl çalışır?",
     "trust1": "Hesap gerekmez",

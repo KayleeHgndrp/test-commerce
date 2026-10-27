@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Gratis psykologiske tester på nett",
-    "description": "Ta grundige tester om personlighet, tilknytning, karriere, ADHD, utbrenthet og mye mer. Gratis å ta, med en detaljert personlig rapport for bare {price}."
+    "description": "Grundige tester om personlighet, relasjoner, arbeid og trivsel – basert på psykologisk forskning og forklart på et klart språk."
   },
   "nav": {
     "tests": "Tester",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} tester · {languages} språk",
-    "heroTitle": "Bli kjent med deg selv, én test om gangen",
-    "heroSubtitle": "Grundige tester om personlighet, relasjoner, jobb og trivsel. 100 spørsmål, rundt 5 minutter og en personlig rapport for bare {price}.",
+    "heroTitle": "Testene som avslører din",
+    "heroHighlight": "personlighet",
+    "heroSubtitle": "Grundige tester om personlighet, relasjoner og trivsel – hver av dem bygger på anerkjent psykologisk forskning og er forklart på et klart språk du faktisk leser til slutt.",
     "heroCta": "Utforsk testene våre",
     "heroSecondary": "Slik fungerer det",
     "trust1": "Ingen konto nødvendig",

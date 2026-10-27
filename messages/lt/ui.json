@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – nemokami psichologiniai testai internete",
-    "description": "Atlikite išsamius asmenybės, prieraišumo, karjeros, ADHD, perdegimo ir kitus testus. Testai nemokami, o išsami asmeninė ataskaita – tik už {price}."
+    "description": "Išsamūs asmenybės, santykių, darbo ir gerovės testai — paremti psichologiniais tyrimais ir aiškiai paaiškinti."
   },
   "nav": {
     "tests": "Testai",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "Testų: {count} · Kalbų: {languages}",
-    "heroTitle": "Pažinkite save – testas po testo",
-    "heroSubtitle": "Išsamūs testai apie asmenybę, santykius, darbą ir savijautą. 100 klausimų, apie 5 minutes ir asmeninė ataskaita tik už {price}.",
+    "heroTitle": "Testai, atskleidžiantys tavo",
+    "heroHighlight": "asmenybę",
+    "heroSubtitle": "Išsamūs asmenybės, santykių ir gerovės testai — kiekvienas paremtas pripažintais psichologiniais tyrimais ir paaiškintas aiškia kalba, kurią tikrai perskaitysi iki galo.",
     "heroCta": "Peržiūrėti testus",
     "heroSecondary": "Kaip tai veikia",
     "trust1": "Paskyros nereikia",

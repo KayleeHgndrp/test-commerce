@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Gratis online psychologische tests",
-    "description": "Doe diepgaande tests over persoonlijkheid, hechting, loopbaan, ADHD, burn-out en meer. Gratis in te vullen, met een uitgebreid persoonlijk rapport voor maar {price}."
+    "description": "Diepgaande tests over persoonlijkheid, relaties, werk en welzijn — gebaseerd op erkend psychologisch onderzoek en uitgelegd in begrijpelijke taal."
   },
   "nav": {
     "tests": "Tests",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} tests · {languages} talen",
-    "heroTitle": "Leer jezelf kennen, test voor test",
-    "heroSubtitle": "Diepgaande tests over persoonlijkheid, relaties, werk en welzijn. 100 vragen, zo'n 5 minuten, en een persoonlijk rapport voor maar {price}.",
+    "heroTitle": "Ontdek met onze tests jouw",
+    "heroHighlight": "persoonlijkheid",
+    "heroSubtitle": "Diepgaande tests over persoonlijkheid, relaties en welzijn — elk gebaseerd op erkend psychologisch onderzoek en uitgelegd in heldere taal die je ook echt tot het einde leest.",
     "heroCta": "Bekijk onze tests",
     "heroSecondary": "Zo werkt het",
     "trust1": "Geen account nodig",

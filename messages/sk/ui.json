@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Psychologické testy online zadarmo",
-    "description": "Vyplň podrobné testy osobnosti, citovej väzby, kariéry, ADHD, vyhorenia a ďalších tém. Zadarmo, s podrobnou osobnou správou len za {price}."
+    "description": "Podrobné testy o osobnosti, vzťahoch, práci a duševnej pohode – postavené na uznávanom psychologickom výskume a vysvetlené zrozumiteľnou rečou."
   },
   "nav": {
     "tests": "Testy",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "Testy: {count} · Jazyky: {languages}",
-    "heroTitle": "Spoznaj sám seba – test po teste",
-    "heroSubtitle": "Podrobné testy o osobnosti, vzťahoch, práci a duševnej pohode. 100 otázok, približne 5 minút a osobná správa len za {price}.",
+    "heroTitle": "Testy, ktoré odhalia tvoju",
+    "heroHighlight": "osobnosť",
+    "heroSubtitle": "Podrobné testy o osobnosti, vzťahoch a duševnej pohode – každý postavený na uznávanom psychologickom výskume a vysvetlený tak zrozumiteľne, že ho naozaj dočítaš až do konca.",
     "heroCta": "Pozrieť testy",
     "heroSecondary": "Ako to funguje",
     "trust1": "Bez registrácie",

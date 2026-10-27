@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Ingyenes online pszichológiai tesztek",
-    "description": "Tölts ki alapos teszteket személyiségről, kötődésről, karrierről, ADHD-ról, kiégésről és még sok másról. Ingyenesen, részletes személyes értékeléssel mindössze {price} áron."
+    "description": "Alapos tesztek személyiségről, kapcsolatokról, munkáról és jóllétről – elismert pszichológiai kutatásokra építve, közérthetően elmagyarázva."
   },
   "nav": {
     "tests": "Tesztek",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} teszt · {languages} nyelv",
-    "heroTitle": "Ismerd meg önmagad, tesztről tesztre",
-    "heroSubtitle": "Alapos tesztek személyiségről, kapcsolatokról, munkáról és jóllétről. 100 kérdés, kb. 5 perc, és személyes értékelés mindössze {price} áron.",
+    "heroTitle": "Tesztek, amelyek feltárják a",
+    "heroHighlight": "személyiségedet",
+    "heroSubtitle": "Alapos tesztek személyiségről, kapcsolatokról és jóllétről – mindegyik elismert pszichológiai kutatásokon alapul, és olyan közérthetően magyaráz, hogy tényleg a végéig elolvasod.",
     "heroCta": "Fedezd fel tesztjeinket",
     "heroSecondary": "Hogyan működik?",
     "trust1": "Nem kell regisztrálni",

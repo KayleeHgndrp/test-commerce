@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Teste psihologice online gratuite",
-    "description": "Fă teste aprofundate despre personalitate, atașament, carieră, ADHD, burnout și multe altele. Gratuite, cu un raport personal detaliat la doar {price}."
+    "description": "Teste aprofundate despre personalitate, relații, muncă și stare de bine – bazate pe cercetări psihologice consacrate și explicate pe înțelesul tuturor."
   },
   "nav": {
     "tests": "Teste",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} teste · {languages} limbi",
-    "heroTitle": "Cunoaște-te pe tine însuți, test cu test",
-    "heroSubtitle": "Teste aprofundate despre personalitate, relații, muncă și stare de bine. 100 de întrebări, cam 5 minute și un raport personal la doar {price}.",
+    "heroTitle": "Testele care îți dezvăluie",
+    "heroHighlight": "personalitatea",
+    "heroSubtitle": "Teste aprofundate despre personalitate, relații și stare de bine – fiecare bazat pe cercetări psihologice consacrate și explicat atât de clar, încât chiar îl vei citi până la capăt.",
     "heroCta": "Descoperă testele noastre",
     "heroSecondary": "Cum funcționează",
     "trust1": "Fără cont",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Brezplačni psihološki testi na spletu",
-    "description": "Rešite poglobljene teste o osebnosti, navezanosti, karieri, ADHD, izgorelosti in še več. Reševanje je brezplačno, podrobno osebno poročilo pa stane le {price}."
+    "description": "Poglobljeni testi o osebnosti, odnosih, delu in dobrem počutju — temeljijo na psiholoških raziskavah in so jasno razloženi."
   },
   "nav": {
     "tests": "Testi",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "Testi: {count} · Jeziki: {languages}",
-    "heroTitle": "Spoznajte sebe – test za testom",
-    "heroSubtitle": "Poglobljeni testi o osebnosti, odnosih, delu in dobrem počutju. 100 vprašanj, približno 5 minut in osebno poročilo za samo {price}.",
+    "heroTitle": "Testi, ki razkrijejo tvojo",
+    "heroHighlight": "osebnost",
+    "heroSubtitle": "Poglobljeni testi o osebnosti, odnosih in dobrem počutju — vsak temelji na priznanih psiholoških raziskavah in je razložen v jasnem jeziku, ki ga boš res prebral do konca.",
     "heroCta": "Oglejte si naše teste",
     "heroSecondary": "Kako deluje",
     "trust1": "Brez registracije",

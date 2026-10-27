@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Ilmaiset psykologiset testit verkossa",
-    "description": "Tee perusteellisia testejä persoonallisuudesta, kiintymyssuhteesta, urasta, ADHD:sta, uupumuksesta ja paljon muusta. Ilmaiseksi – ja yksityiskohtainen henkilökohtainen raportti vain {price}."
+    "description": "Perusteellisia testejä persoonallisuudesta, ihmissuhteista, työstä ja hyvinvoinnista – vakiintuneeseen psykologiseen tutkimukseen perustuvia ja selkokielisesti selitettyjä."
   },
   "nav": {
     "tests": "Testit",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "Testejä: {count} · Kieliä: {languages}",
-    "heroTitle": "Opi tuntemaan itsesi, testi kerrallaan",
-    "heroSubtitle": "Perusteellisia testejä persoonallisuudesta, ihmissuhteista, työstä ja hyvinvoinnista. 100 kysymystä, noin 5 minuuttia ja henkilökohtainen raportti vain {price}.",
+    "heroTitle": "Testit, jotka paljastavat",
+    "heroHighlight": "persoonallisuutesi",
+    "heroSubtitle": "Perusteellisia testejä persoonallisuudesta, ihmissuhteista ja hyvinvoinnista – jokainen perustuu vakiintuneeseen psykologiseen tutkimukseen ja on selitetty niin selkeästi, että luet sen oikeasti loppuun asti.",
     "heroCta": "Tutustu testeihin",
     "heroSecondary": "Näin se toimii",
     "trust1": "Ei tiliä tarvita",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Tests de psicología gratis online",
-    "description": "Haz tests completos sobre personalidad, apego, carrera profesional, TDAH, burnout y mucho más. Gratis, con un informe personal detallado por solo {price}."
+    "description": "Tests completos sobre personalidad, relaciones, trabajo y bienestar, basados en investigación psicológica contrastada y explicados con un lenguaje sencillo."
   },
   "nav": {
     "tests": "Tests",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} tests · {languages} idiomas",
-    "heroTitle": "Conócete mejor, test a test",
-    "heroSubtitle": "Tests completos sobre personalidad, relaciones, trabajo y bienestar. 100 preguntas, unos 5 minutos y un informe personal por solo {price}.",
+    "heroTitle": "Los tests que revelan tu",
+    "heroHighlight": "personalidad",
+    "heroSubtitle": "Tests completos sobre personalidad, relaciones y bienestar, cada uno basado en investigación psicológica contrastada y explicado con un lenguaje tan claro que de verdad lo leerás hasta el final.",
     "heroCta": "Descubre nuestros tests",
     "heroSecondary": "Cómo funciona",
     "trust1": "Sin necesidad de cuenta",

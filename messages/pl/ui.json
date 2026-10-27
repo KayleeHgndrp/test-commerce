@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Darmowe testy psychologiczne online",
-    "description": "Wykonaj rzetelne testy osobowości, przywiązania, kariery, ADHD, wypalenia i nie tylko. Bezpłatnie, ze szczegółowym raportem osobistym za jedyne {price}."
+    "description": "Rzetelne testy o osobowości, relacjach, pracy i dobrostanie – oparte na uznanych badaniach psychologicznych i wyjaśnione prostym językiem."
   },
   "nav": {
     "tests": "Testy",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} testów · {languages} języków",
-    "heroTitle": "Poznaj siebie – test po teście",
-    "heroSubtitle": "Rzetelne testy o osobowości, relacjach, pracy i dobrostanie. 100 pytań, około 5 minut i osobisty raport za jedyne {price}.",
+    "heroTitle": "Testy, które odkrywają Twoją",
+    "heroHighlight": "osobowość",
+    "heroSubtitle": "Rzetelne testy o osobowości, relacjach i dobrostanie – każdy oparty na uznanych badaniach psychologicznych i wyjaśniony tak prostym językiem, że naprawdę przeczytasz go do końca.",
     "heroCta": "Poznaj nasze testy",
     "heroSecondary": "Jak to działa",
     "trust1": "Bez zakładania konta",

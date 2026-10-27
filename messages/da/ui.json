@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "{site} – Gratis psykologiske tests online",
-    "description": "Tag dybdegående tests om personlighed, tilknytning, karriere, ADHD, stress og udbrændthed og meget mere. Gratis at tage, med en detaljeret personlig rapport for kun {price}."
+    "description": "Dybdegående tests om personlighed, relationer, arbejde og trivsel – baseret på anerkendt psykologisk forskning og forklaret i et letforståeligt sprog."
   },
   "nav": {
     "tests": "Tests",
@@ -12,8 +12,9 @@
   },
   "home": {
     "badge": "{count} tests · {languages} sprog",
-    "heroTitle": "Lær dig selv at kende, én test ad gangen",
-    "heroSubtitle": "Dybdegående tests om personlighed, relationer, arbejde og trivsel. 100 spørgsmål, cirka 5 minutter og en personlig rapport for kun {price}.",
+    "heroTitle": "Testene, der afslører din",
+    "heroHighlight": "personlighed",
+    "heroSubtitle": "Dybdegående tests om personlighed, relationer og trivsel – hver især baseret på anerkendt psykologisk forskning og forklaret så letforståeligt, at du faktisk læser helt til slut.",
     "heroCta": "Udforsk vores tests",
     "heroSecondary": "Sådan virker det",
     "trust1": "Ingen konto nødvendig",
@@ -177,7 +178,7 @@
   },
   "result": {
     "title": "Dine resultater er klar",
-    "subtitle": "Du har gennemført testen „{test}“. Lås op for din fulde personlige rapport, og se dine scorer, og hvad de betyder.",
+    "subtitle": "Du har gennemført testen »{test}«. Lås op for din fulde personlige rapport, og se dine scorer, og hvad de betyder.",
     "mainType": "Din hovedtype",
     "locked": "Låst",
     "unlockTitle": "Få din fulde rapport",
@@ -205,7 +206,7 @@
   "report": {
     "subject": "Din rapport: {test}",
     "greeting": "Hej,",
-    "intro": "Tak, fordi du tog testen „{test}“ på {site}. Her er din personlige rapport.",
+    "intro": "Tak, fordi du tog testen »{test}« på {site}. Her er din personlige rapport.",
     "scoreLabel": "Din score",
     "outro": "Vi håber, at rapporten giver dig nyttig indsigt. Nysgerrig efter andre sider af dig selv? Opdag alle vores tests på {url}.",
     "signature": "Holdet bag {site}",
