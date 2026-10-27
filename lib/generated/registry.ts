@@ -247,6 +247,7 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "it/tests/bpd": () => import("@/messages/it/tests/bpd.json").then((m) => m.default),
   "it/tests/bipolar": () => import("@/messages/it/tests/bipolar.json").then((m) => m.default),
   "it/tests/narcissism": () => import("@/messages/it/tests/narcissism.json").then((m) => m.default),
+  "it/tests/trauma": () => import("@/messages/it/tests/trauma.json").then((m) => m.default),
   "it/tests/burnout": () => import("@/messages/it/tests/burnout.json").then((m) => m.default),
   "it/tests/hsp": () => import("@/messages/it/tests/hsp.json").then((m) => m.default),
   "it/tests/overthinking": () => import("@/messages/it/tests/overthinking.json").then((m) => m.default),
