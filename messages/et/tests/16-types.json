@@ -1,0 +1,206 @@
+{
+  "name": "16 isiksusetüübi test",
+  "tagline": "Leia oma neljatäheline tüüp ja vaata, mida see sinu kohta ütleb.",
+  "intro": "See test paigutab sind neljale eelistuste skaalale: kust sa ammutad energiat, kuidas sa infot vastu võtad, kuidas otsuseid teed ja kuidas oma elu korraldad. Sinu neli eelistust moodustavad koos ühe 16 isiksusetüübist. Hinda 100 lühikest väidet; testi tegemine võtab umbes viis minutit.",
+  "seoTitle": "16 isiksusetüübi test – tasuta neljatäheline tüüp",
+  "seoDescription": "Leia 5 minutiga oma neljatäheline isiksusetüüp. Vaata oma eelistusi igal skaalal ja loe oma tüübi portreed koos praktiliste nõuannetega.",
+  "items": [
+    "Mõtlen kõige paremini, kui arutan ideid teistega.",
+    "Mõtlen sageli sellele, mida tulevik võiks tuua.",
+    "Teen otsuseid eelkõige loogika põhjal.",
+    "Mulle meeldib hoida oma valikud avatuna.",
+    "Usaldan fakte rohkem kui aimdusi.",
+    "Pärast inimestega suhtlemist vajan taastumiseks üksiolekut.",
+    "Mulle meeldib, kui mu päev on ette planeeritud.",
+    "Kaalun, kuidas mu valikud mõjutavad teiste tundeid.",
+    "Uute inimestega kohtumine annab mulle hoogu juurde.",
+    "Mulle meeldib leida peidetud mustreid ja tähendusi.",
+    "Hindan ausust rohkem kui taktitunnet.",
+    "Mulle meeldib otsustada asju hetke ajel.",
+    "Märkan pisidetaile, mis teistel kahe silma vahele jäävad.",
+    "Eelistan ühte sügavat vestlust paljudele kergetele.",
+    "Tunnen kergendust, kui otsus on tehtud.",
+    "Rahu säilitamine on minu jaoks oluline.",
+    "Mulle meeldib töötada avatud ja elavas ruumis.",
+    "Rutiinsed detailid tüütavad mind.",
+    "Suudan konflikti lahendades jääda erapooletuks.",
+    "Töötan kõige paremini viimase hetke surve all.",
+    "Eelistan samm-sammulisi juhiseid.",
+    "Mõtlen asjad läbi, enne kui need välja ütlen.",
+    "Lõpetan ülesanded tükk aega enne tähtaega.",
+    "Otsustan pigem südame kui mõistusega.",
+    "Lülitun kiiresti vestlusesse.",
+    "Usaldan võimaluste osas oma kõhutunnet.",
+    "Mulle meeldib plusse ja miinuseid objektiivselt analüüsida.",
+    "Ranged ajakavad tunduvad mulle piiravad.",
+    "Keskendun sellele, mis toimub praegu.",
+    "Vaikne õhtu kodus on minu ideaal.",
+    "Mulle meeldib teada, mida oodata.",
+    "Mul on raske kritiseerida inimesi, kes mulle meeldivad.",
+    "Inimeste seltsis olemine laeb mu akusid.",
+    "Mulle meeldib kujutleda, kuidas asjad võiksid teisiti olla.",
+    "Reeglid peaksid kehtima kõigile ühtemoodi.",
+    "Tegelen sageli korraga mitme projektiga.",
+    "Mulle meeldivad ideed, millel on selge praktiline kasutus.",
+    "Hoian oma mõtted enda teada, kuni need on selged.",
+    "Teen nimekirju ja pean neist kinni.",
+    "Kellegi teise lugu liigutab mind kergesti.",
+    "Mulle meeldib, kui mul on lai sõpruskond.",
+    "Loen sageli ridade vahelt.",
+    "Toon plaanide puudused kõhklematult välja.",
+    "Mulle meeldib vaadata, kuhu päev mind viib.",
+    "Mäletan hästi konkreetseid fakte ja arve.",
+    "Rahvahulgad väsitavad mind kiiresti.",
+    "Eelistan plaanid varakult paika panna.",
+    "Teen raskes olukorras inimestele erandeid.",
+    "Jagan oma mõtteid sageli kohe, kui need tekivad.",
+    "Eelistan teooriaid praktilisele tööle.",
+    "Mind veenavad argumendid, mitte emotsioonid.",
+    "Muudan plaane kergesti, kui ilmub midagi paremat.",
+    "Õpin kõige paremini asju ise käega katsudes.",
+    "Eelistan üksi töötamist meeskonnatööle.",
+    "Lõpetamata asjad tekitavad minus rahutust.",
+    "Tahan, et kõik tunneksid end otsuse tegemisse kaasatuna.",
+    "Plaanidega täidetud nädalavahetused teevad mind õnnelikuks.",
+    "Mulle meeldib rääkida metafooride ja kujunditega.",
+    "Mulle on olulisem, et mul oleks õigus, kui et ma meeldiksin.",
+    "Lükkan otsuseid edasi, kuni pean need tegema.",
+    "Eelistan läbiproovitud meetodeid katsetamata meetoditele.",
+    "Lasen grupis teistel sõna võtta.",
+    "Hoian oma kalendri ajakohasena.",
+    "Pinge grupis mõjutab mind sügavalt.",
+    "Muutun rahutuks, kui olen liiga kaua üksi.",
+    "Hüppan kiiresti suure pildi juurde.",
+    "Õiglane tähendab minu jaoks järjepidevat.",
+    "Alustan paljusid asju ja lõpetan need hiljem.",
+    "Kirjeldan asju sõna-sõnalt ja täpselt.",
+    "Kirjutan pigem sõnumi kui helistan.",
+    "Mulle meeldib lõpetada üks ülesanne enne järgmisega alustamist.",
+    "Lahkus on minu jaoks olulisem kui õigus olemine.",
+    "Mulle meeldib üritustel ringi liikuda ja inimestega suhelda.",
+    "Uued ideed erutavad mind rohkem kui praktilised faktid.",
+    "Mul on kerge kriitilist tagasisidet anda.",
+    "Pakin oma koti päris viimasel hetkel.",
+    "Tahan enne millegi uskumist näha tõendeid.",
+    "Mul on väike lähedaste sõprade ring.",
+    "Ärritun, kui plaanid viimasel hetkel muutuvad.",
+    "Võtan oma töö kritiseerimist sageli isiklikult.",
+    "Alustan kergesti juttu võõraste inimestega.",
+    "Jätan sageli juhendi lugemata ja nuputan ise välja.",
+    "Mulle meeldib väidelda, et ideid proovile panna.",
+    "Lahtised, plaanideta päevad tunduvad mulle vabastavad.",
+    "Mulle meeldivad ülesanded, millel on konkreetne ja nähtav tulemus.",
+    "Tunnen end pärast pikka koosolekutepäeva tühjana.",
+    "Eelistan oma töös selget struktuuri.",
+    "Usaldan, et mu väärtused juhivad mu valikuid.",
+    "Eelistan ajurünnakut grupis üksi mõtlemisele.",
+    "Mind tõmbab kõik uus ja proovimata.",
+    "Hindan lahendust selle järgi, kui hästi see toimib.",
+    "Kohandan oma plaane vastavalt tujule.",
+    "Toetun probleemide lahendamisel oma varasemale kogemusele.",
+    "Inimestel on mõnikord alguses raske mind lugeda.",
+    "Korraldan oma puhkused aegsasti ette.",
+    "Pigem julgustan kui kritiseerin.",
+    "Olen tavaliselt üks esimesi, kes sõna võtab.",
+    "Pööran olevikule rohkem tähelepanu kui tulevikule.",
+    "Hindan tööl pädevust rohkem kui sõbralikkust.",
+    "Mulle meeldib lahtised otsad kiiresti kokku tõmmata."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Ekstravertsus vs. introvertsus",
+      "short": "Kas ammutad energiat peamiselt inimeste ja tegevuse välisest maailmast (E) või mõtete ja mõtiskluse sisemaailmast (I).",
+      "low": "Kaldud introvertsuse (I) poole. Laed end vaikuses, mõtled enne rääkimist ja eelistad mõnda sügavat vestlust paljudele lühikestele. Töötled ideid sageli enda sees ja jagad neid siis, kui need on täielikult välja kujunenud. Kiired seltskondlikud päevad võivad sind väsitada, isegi kui need sulle meeldisid. Nõuanne: planeeri pärast intensiivseid seltskondlikke sündmusi taastumisaega ja vaata seda kui hooldust, mitte vältimist. Grupis valmista oma sisend ette või täienda seda hiljem kirjalikult, et su ideed kõlama jääksid.",
+      "mid": "Asud ekstravertsuse ja introvertsuse vahel keskpaiga lähedal, nii et sinu täht võib meeleolust või olukorrast sõltuvalt muutuda. Sulle meeldivad seltskond ja tegevus, kuid vajad ka üksiolekut, et end laadida. Sõltuvalt ülesandest võid mõelda teistega koos valjult või mõtiskleda vaikselt. Nõuanne: jälgi oma energiat eri tüüpi päevade järel. Kasuta seda teadmist, et luua nädalarütm, mis segab sotsiaalset suhtlust ja vaikset aega sulle sobivas vahekorras.",
+      "high": "Kaldud ekstravertsuse (E) poole. Saad energiat inimestest, vestlustest ja tegevusest ning mõtled sageli kõige paremini asju läbi rääkides. Haakud kiiresti, oled kergesti ligipääsetav ja tunned end grupis mugavalt. Pikad üksiolekuperioodid võivad sind rahutuks teha. Nõuanne: enne arutelus reageerimist tee lühike paus ja esita kõigepealt üks küsimus; see annab vaiksematele inimestele ruumi ja teravdab su enda mõtlemist. Planeeri lühikesi mõtisklushetki, et kogetut töödelda."
+    },
+    "sensing": {
+      "name": "Meeltega tajumine vs. intuitsioon",
+      "short": "Kas keskendud peamiselt konkreetsetele faktidele, detailidele ja kogemusele (S) või mustritele, võimalustele ja suurele pildile (N).",
+      "low": "Kaldud intuitsiooni (N) poole. Otsid loomulikult tähendust, mustreid ja tulevikuvõimalusi ning sulle meeldivad ideed, teooriad ja kujutlemine, mis võiks olla. Rutiinsed detailid võivad sind tüüdata ja vahel jätad samme vahele, et suure pildini jõuda. Nõuanne: kui jagad visiooni, lisa konkreetseid näiteid ja järgmisi samme, et teised saaksid kaasa minna. Palu detailidele keskenduval kolleegil oma plaanid enne otsustamist praktiliste lünkade osas üle vaadata.",
+      "mid": "Asud meeltega tajumise ja intuitsiooni vahel keskpaiga lähedal, nii et sinu täht võib olukorriti erineda. Oskad töötada kõvade faktide ja detailidega, kuid sulle meeldib ka ideid ja võimalusi uurida. See võimaldab sul olla sillaks praktiliste inimeste ja visionääride vahel. Nõuanne: pane tähele, millisesse režiimi lähed surve all vaikimisi. Olulistes otsustes kontrolli teadlikult mõlemat: mida ütlevad faktid ja milliseid uusi võimalusi võiks kaaluda?",
+      "high": "Kaldud meeltega tajumise (S) poole. Usaldad fakte, kogemust ja seda, mida saad näha ja proovile panna. Märkad detaile, eelistad selgeid juhiseid ja sulle meeldivad praktilise kasutusega ideed. Inimesed toetuvad sinu realismile ja täpsusele. Nõuanne: kui teised jagavad abstraktseid ideid, anna neile hetk aega, enne kui nende praktilisust hindad; mõnest võib kasvada midagi kasulikku. Proovi aeg-ajalt kujutleda, kuhu mõni suundumus võiks viie aasta pärast viia, et oma vaatevälja laiendada."
+    },
+    "thinking": {
+      "name": "Mõtlemine vs. tundmine",
+      "short": "Kas teed otsuseid peamiselt loogika ja objektiivse analüüsi (T) või isiklike väärtuste ja inimestele avalduva mõju (F) põhjal.",
+      "low": "Kaldud tundmise (F) poole. Teed otsuseid väärtusi, suhteid ja inimestele avalduvat mõju kaaludes. Hindad harmooniat ja lahkust ning tabad kiiresti, mida teised vajavad. Inimesed tunnevad end sageli sinu poolt mõistetuna. Nõuanne: kui otsus on raske, pane kirja ka objektiivsed plussid ja miinused; see võib aidata oma valikut selgitada. Pea meeles, et soojalt edastatud aus tagasiside on samuti hoolimise vorm.",
+      "mid": "Asud mõtlemise ja tundmise vahel keskpaiga lähedal, nii et sinu täht võib olukorriti erineda. Otsustades kaalud nii loogikat kui ka inimlikku mõju, mis aitab sul leida õiglasi ja tasakaalustatud lahendusi. Nõuanne: pane tähele, kas toetud tööl loogikale ja kodus tunnetele või vastupidi. Võtmeotsustes kontrolli teadlikult mõlemat: kas see on põhjendatud ja kas see on asjaosaliste suhtes õiglane?",
+      "high": "Kaldud mõtlemise (T) poole. Otsustad loogika, järjepidevuse ja objektiivse analüüsi abil. Hindad õiglust selles mõttes, et kõigile kehtivad samad reeglid, ning suudad anda karmi tagasisidet, ilma et emotsioonid sind kõigutaksid. Nõuanne: enne kriitika jagamist tunnusta pingutust või kavatsust, mis kellegi töö taga on. Küsi, kuidas otsus asjaosalistele tundub; see parandab sageli vastuvõttu, ilma et su arutluskäik nõrgeneks."
+    },
+    "judging": {
+      "name": "Otsustavus vs. tajumine",
+      "short": "Kas eelistad planeeritud, otsustatud ja struktureeritud elu (J) või paindlikku, avatud ja spontaanset elu (P).",
+      "low": "Kaldud tajumise (P) poole. Sulle meeldib hoida võimalused avatuna, kohaneda jooksvalt ja otsustada siis, kui pead. Töötad sageli energiapursetena ja jäigad ajakavad tekitavad sinus kitsikuse tunnet. See teeb sind paindlikuks ja leidlikuks, kui plaanid muutuvad. Nõuanne: kasuta põhiasjade jaoks kerget struktuuri, näiteks üht tähtaegade meeldetuletuse süsteemi. Jaga suured projektid väikesteks vahe-eesmärkideks, et lõpukiir ei muutuks stressirohkeks.",
+      "mid": "Asud otsustavuse ja tajumise vahel keskpaiga lähedal, nii et sinu täht võib varieeruda. Sulle meeldib plaan olemas olla, kuid saad sellest kergesti loobuda, kui ilmub midagi paremat. Suudad tähtaegadest kinni pidada ja samas spontaansust nautida. Nõuanne: pane tähele, kus natuke rohkem planeerimist vähendaks stressi, näiteks reisides või rahaasjades, ja kus suurem paindlikkus tooks lusti juurde. Kohanda teadlikult, mitte harjumusest.",
+      "high": "Kaldud otsustavuse (J) poole. Sulle meeldib ette planeerida, otsuseid teha ja asju lõpule viia. Selged ajakavad, nimekirjad ja tähtajad annavad sulle kontrollitunde ning tavaliselt lõpetad ülesanded tükk aega enne viimast hetke. Nõuanne: jäta oma plaanidesse ka vaba ruumi, et üllatused sind rööpast välja ei viiks. Kui teised töötavad vabamalt, leppige kokku peamised tähtajad ja las nad valivad ise, kuidas sinna jõuavad."
+    }
+  },
+  "summary": "Sinu tüüp ühendab neli eelistust: ekstravertsus või introvertsus (E/I), meeltega tajumine või intuitsioon (S/N), mõtlemine või tundmine (T/F) ning otsustavus või tajumine (J/P). Iga skaala näitab, kui tugevalt kaldud ühele poole; tulemused 50% lähedal tähendavad, et kasutad mõlemat poolt üsna paindlikult. Tüübid kirjeldavad eelistusi, mitte võimeid, ja ükski tüüp pole teisest parem.",
+  "types": {
+    "ISTJ": {
+      "name": "Ankur",
+      "text": "Oled kindel, põhjalik ja sügavalt usaldusväärne. Austad fakte, pead oma lubadusi ja töötad ülesanded metoodiliselt läbi, kuni need on korralikult tehtud. Inimesed loodavad sinule, sest teed seda, mida ütled. Eelistad selgeid ootusi ja läbiproovitud meetodeid ning märkad vigu, mis teistel märkamata jäävad. Sinu vaikne jõud hoiab meeskondi ja peresid koos. Arengunõuanne: jää avatuks uutele lähenemistele isegi siis, kui vana viis veel töötab; mõnikord toob katsetus tõelise paranduse. Väljenda oma tunnustust teistele valjult, sest sinu lojaalsus ei ole alati nähtav. Võta aega puhkuseks ilma, et peaksid selle kõigepealt välja teenima."
+    },
+    "ISFJ": {
+      "name": "Hoidja",
+      "text": "Oled hooliv, kohusetundlik ja vaikselt pühendunud. Mäletad, mis on inimestele oluline, märkad nende vajadusi ja aitad praktiliselt, sageli ilma et sinult palutaks. Hindad traditsioone, stabiilsust ja harmooniat ning teed kõvasti tööd, et teised tunneksid end turvaliselt ja mugavalt. Sinu lahkus on seda püsivat sorti, millele inimesed saavad aastaid loota. Arengunõuanne: sinu enda vajadused väärivad sama tähelepanu, mida pühendad teistele, seega harjuta ei ütlemist ilma süütundeta. Anna märku, kui miski sind häirib, selle asemel et seda vaikselt alla neelata. Kui lubad teistel end toetada, tugevdab see suhteid, mitte ei koorma neid."
+    },
+    "INFJ": {
+      "name": "Vaikne visionäär",
+      "text": "Sinus on ühendatud sügav arusaam inimestest ja tugev eesmärgitunne. Tajud suhete hoovusi, mõtled pikas plaanis ja tahad, et su elu panustaks millessegi tähenduslikku. Oled privaatne, kuid soe, ja inimesed, kelle enda lähedale lased, tunnevad end tõeliselt nähtuna. Sinu ideaalid annavad sulle suuna ja sihikindluse. Arengunõuanne: sinu kõrged standardid võivad muutuda kurnatuseks või pettumuseks, kui tegelikkus neile alla jääb, seega tähista edasiminekut, mitte ainult täiuslikkust. Jaga oma ideid varem, selle asemel et oodata, kuni need on täielikult välja kujunenud. Kaitse oma energiat, seades piire enne, kui tunned end ülekoormatuna, mitte pärast."
+    },
+    "INTJ": {
+      "name": "Suurstrateeg",
+      "text": "Oled iseseisev, analüütiline ja keskendunud pikaajalistele eesmärkidele. Näed, kuidas süsteemid kokku sobivad, märkad kiiresti ebatõhusust ja sulle meeldib välja mõelda paremaid viise asjade tegemiseks. Usaldad oma arutluskäiku ja oled valmis visiooni nimel oma teed minema. Sinu sihikindlus võib muuta ambitsioonikad ideed tegelikkuseks. Arengunõuanne: teised ei pruugi sinu loogikat nii kiiresti jälgida kui sina, seega selgita oma arutluskäiku samm-sammult ja küsi tagasisidet. Pea meeles, et ka inimeste tunded on andmed. Luba ebatäiuslikke esimesi versioone; edasiminek on sageli parem kui veatu plaan, mis ootab."
+    },
+    "ISTP": {
+      "name": "Meisterdaja",
+      "text": "Oled rahulik, praktiline ja uudishimulik selle vastu, kuidas asjad toimivad. Sulle meeldib probleeme käed-külge mõista, asju lahti võtta ja leida tõhusaid lahendusi. Kriisis jääd rahulikuks ja tegutsed otsustavalt, kui teised veel räägivad. Hindad vabadust ega salli tarbetuid reegleid ega pikki koosolekuid. Arengunõuanne: jaga oma mõtteid teistega sagedamini, sest su vaikimist võidakse tõlgendada huvipuudusena. Pühendu mõnele pikaajalisele eesmärgile, et su paljud oskused ehitaksid üles midagi suuremat. Anna lähedastele teada, mida tunned; väikesed tunnustavad sõnad kaaluvad palju."
+    },
+    "ISFP": {
+      "name": "Õrn kunstnik",
+      "text": "Oled tundlik, lahke ja häälestatud ilule ning praegusele hetkele. Väljendad end pigem tegude ja loovuse kui sõnade kaudu ning hindad ehedust ja vabadust. Oled salliv, avatud meelega ja lojaalne inimestele ning asjadele, millest hoolid. Sinu leebe kohalolu paneb teised end aktsepteerituna tundma. Arengunõuanne: võid konflikti vältida, kuni frustratsioon kuhjub, seega harjuta väikestest muredest varakult rääkimist. Muuda oma väärtused mõneks konkreetseks eesmärgiks, et anda oma annetele suund. Usu oma töösse piisavalt, et seda teistele näidata; sinu vaatenurk väärib nähtavaks saamist."
+    },
+    "INFP": {
+      "name": "Unistaja",
+      "text": "Oled idealistlik, kujutlusvõimeline ja juhindud tugevatest sisemistest väärtustest. Otsid tähendust kõiges, mida teed, ning hoolid sügavalt ehedusest nii endas kui ka teistes. Mõistad tundeid hästi ja väljendad neid sageli kirjutamise, kunsti või sisukate vestluste kaudu. Oled leebe, avatud meelega ja truu sellele, millesse usud. Arengunõuanne: sinu ideaalid on kompass, kuid tegelikkus on harva täiuslik; astu väikseid praktilisi samme, selle asemel et oodata ideaalset hetke. Ole enda vastu sama kaastundlik kui teiste vastu. Jaga oma unistusi inimestega, kes saavad aidata neid teoks teha."
+    },
+    "INTP": {
+      "name": "Mõistatuste lahendaja",
+      "text": "Oled loogiline, leidlik ja lõputult uudishimulik. Sulle meeldib ideid analüüsida, vastuolusid leida ja ehitada teooriaid, mis selgitavad, kuidas asjad tegelikult toimivad. Mõtled iseseisvalt ja naudid sügavaid vestlusi keerukatel teemadel. Sinu mõistus näeb originaalseid lahendusi, mis teistel märkamata jäävad. Arengunõuanne: ideed saavutavad oma potentsiaali siis, kui neid jagatakse ja rakendatakse, seega sea endale väikesed tähtajad oma töö lõpetamiseks ja esitlemiseks. Pööra tähelepanu praktilistele detailidele ja sellele, mida teised tunnevad – need on olulised ka siis, kui tunduvad ebaloogilised. Suhtle inimestega, kellel on sinuga ühised huvid; nad annavad su mõtlemisele energiat."
+    },
+    "ESTP": {
+      "name": "Isepäine",
+      "text": "Oled energiline, julge ja tegutsemisele suunatud. Elad hetkes, loed olukordi kiiresti ja õitsed, kui asjad liiguvad kiiresti. Sulle meeldivad väljakutsed, võtad nutikaid riske ja lahendad praktilisi probleeme kohapeal. Inimesi tõmbab sinu enesekindlus ja huumorimeel. Arengunõuanne: mõtle enne asjasse sukeldumist läbi pikemaajalised tagajärjed, eriti raha ja suhete puhul. Harjuta kannatlikkust aeglasemate protsesside ja inimestega, kes vajavad otsustamiseks rohkem aega. Mõtle, kuidas su otsekohene stiil tundlikele inimestele mõjub; natuke taktitunnet muudab su mõju veelgi tugevamaks."
+    },
+    "ESFP": {
+      "name": "Säde",
+      "text": "Oled elav, soe ja lõbus. Tood igasse ruumi energiat, naudid inimesi ja kogemusi ning muudad igapäevased hetked eriliseks. Oled praktiline, helde ja kiire aitama kedagi, kellel on raske. Sinu entusiasm on nakkav ja inimestele meeldib sinu seltsis olla. Arengunõuanne: ette planeerimine võib tunduda igav, kuid natuke struktuuri rahaasjades ja pikaajalistes eesmärkides annab sulle hiljem rohkem vabadust. Astu rasketele vestlustele vastu, selle asemel et end kõrvale juhtida. Võta vaikseid hetki, et mõelda, mida sa tegelikult tahad, mitte ainult seda, mis praegu hea tundub."
+    },
+    "ENFP": {
+      "name": "Inspireerija",
+      "text": "Oled entusiastlik, loov ja täis võimalusi. Lood kergesti sidet inimestega, näed potentsiaali kõikjal ning armastad alustada uusi projekte ja vestlusi. Sinu soojus ja kujutlusvõime julgustavad teisi suuremalt unistama. Hindad vabadust, ehedust ja tähenduslikke suhteid. Arengunõuanne: sinu paljud ideed vajavad tulemusteks muutumiseks fookust, seega vali mõned prioriteedid ja vii need lõpuni. Loo lihtsad rutiinid praktiliste ülesannete jaoks, mis sulle igavad tunduvad. Kui su tuju pärast uue alguse elevust langeb, pea meeles, et suur osa tõelisest tasust peitub järjekindlas lõpuni viimises."
+    },
+    "ENTP": {
+      "name": "Uuendaja",
+      "text": "Oled vaimukas, leidlik ja armastad head vaidlust. Näed vanadel probleemidel uusi nurki, sead eeldusi kahtluse alla ja naudid ideedega katsetamist. Kohaned kiiresti ning keerukad väljakutsed ja nutikad inimesed annavad sulle energiat. Sinu uudishimu paneb sind parandama peaaegu kõike, mida puudutad. Arengunõuanne: iga arutelu ei pea võitma ja mõned inimesed kogevad vaidlust konfliktina, seega loe õhkkonda. Vii oma parimad ideed lõpuni, selle asemel et liiga vara järgmise juurde liikuda. Tee koostööd detailidele keskenduvate inimestega, kes aitavad sul kontseptsioone tegelikkuseks muuta."
+    },
+    "ESTJ": {
+      "name": "Kapten",
+      "text": "Oled organiseeritud, otsustav ja praktiline. Sulle meeldivad selged eesmärgid, tõhusad protsessid ja asjade valmis saamine. Võtad loomulikult vastutuse, sead kõrged standardid ja hoolitsed, et plaanid ellu viidaks. Inimesed hindavad sinu otsekohesust ja usaldusväärsust. Arengunõuanne: sinu tõhus stiil võib teistele tunduda kontrolliv, seega küsi enne otsustamist teiste arvamust ja selgita, miks. Jää avatuks uutele meetoditele isegi siis, kui praegune töötab. Näita tunnustust inimeste pingutuse, mitte ainult tulemuste eest; tunnustus motiveerib teisi sama palju kui selged juhised."
+    },
+    "ESFJ": {
+      "name": "Võõrustaja",
+      "text": "Oled seltskondlik, hooliv ja kogukonnale mõtlev. Märkad, mida inimesed vajavad, paned neid end teretulnuna tundma ja sulle meeldib inimesi kokku tuua. Hindad harmooniat, lojaalsust ja traditsioone ning näed tõsist vaeva, et suhted ja grupid sujuksid. Sinu seltsis tunnevad inimesed, et nende eest hoolitsetakse. Arengunõuanne: võid kriitikat või konflikti isiklikult võtta, seega tuleta endale meelde, et eriarvamus ei ole tõrjumine. Kontrolli, kas aitad, sest tahad, või sellepärast, et tunned, et pead. Tee ruumi oma vajadustele ja arvamustele; need on sama olulised kui kellegi teise omad."
+    },
+    "ENFJ": {
+      "name": "Mentor",
+      "text": "Oled soe, inspireeriv ja keskendunud inimeste arengu toetamisele. Loed teisi hästi, tood esile nende tugevused ja koondad grupid ühise eesmärgi ümber. Suhtled entusiasmi ja veendumusega ning tunned vastutust oma ümbruse heaolu eest. Inimesed otsivad sageli sinu juhatust. Arengunõuanne: sa ei saa kõiki kanda, seega lase teistel oma valikute eest ise vastutada. Pane tähele, kui võtad liiga palju kohustusi või jätad oma vajadused hooletusse. Leppi sellega, et mõned inimesed ei ole sinuga nõus; nende teistsugune tee ei peegelda sinu väärtust."
+    },
+    "ENTJ": {
+      "name": "Juht",
+      "text": "Oled enesekindel, strateegiline ja saavutustele orienteeritud. Näed suurt pilti, sead ambitsioonikaid eesmärke ning korraldad inimesi ja ressursse nende saavutamiseks. Teed otsuseid kiiresti, suhtled selgelt ega karda väljakutseid ega vastutust. Teised vaatavad sageli sinu poole, et sa juhiksid. Arengunõuanne: sinu kiirus ja otsekohesus võivad inimesi üle koormata, seega võta hoogu maha, et kuulata ja tundeid tunnustada. Pea meeles, et motivatsioon kasvab siis, kui inimesed tunnevad end ärakuulatuna, mitte ainult juhendatuna. Tee ruumi puhkusele ja suhetele; pikaajaline edu sõltub enamast kui ainult tulemustest."
+    }
+  }
+}
