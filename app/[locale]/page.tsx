@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Faq } from "@/components/Faq";
-import { TestCard } from "@/components/TestCard";
+import { TestCarousel } from "@/components/TestCarousel";
 import { hasLocale, locales } from "@/lib/i18n/locales";
 import { fmt, getAllTestTexts, getUi } from "@/lib/i18n/messages";
 import { alternates } from "@/lib/seo";
@@ -78,20 +78,23 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
           <h2 className="text-3xl font-extrabold sm:text-4xl">{h.testsTitle}</h2>
           <p className="mt-3 text-muted">{h.testsSubtitle}</p>
         </div>
-        {CATEGORY_ORDER.map((category) => {
-          const inCategory = tests.filter((t) => t.def.category === category);
-          if (!inCategory.length) return null;
-          return (
-            <div key={category} className="mt-12">
-              <h3 className="mb-4 font-sans text-sm font-semibold uppercase tracking-wider text-muted">{ui.categories[category]}</h3>
-              <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-                {inCategory.map(({ def, text }) => (
-                  <TestCard key={def.slug} locale={locale} ui={ui} def={def} text={text} />
-                ))}
-              </div>
-            </div>
-          );
-        })}
+        <div className="mt-10">
+          <TestCarousel
+            locale={locale}
+            tests={tests.map(({ def, text }) => ({
+              slug: def.slug,
+              name: text.name,
+              tagline: text.tagline,
+              category: def.category,
+              meta: `${fmt(ui.test.questions, { count: def.items.length })} · ${fmt(ui.test.minutes, { count: def.minutes })}`,
+            }))}
+            categories={CATEGORY_ORDER.map((id) => ({ id, label: ui.categories[id] }))}
+            allLabel={h.allTests}
+            cta={ui.test.tryNow}
+            previousLabel={h.previous}
+            nextLabel={h.next}
+          />
+        </div>
       </section>
 
       {/* How it works */}

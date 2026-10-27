@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Redo att upptäcka mer om dig själv?",
-    "ctaButton": "Utforska våra tester"
+    "ctaButton": "Utforska våra tester",
+    "allTests": "Alla tester",
+    "previous": "Föregående",
+    "next": "Nästa"
   },
   "categories": {
     "personality": "Personlighet & typ",
@@ -120,7 +123,6 @@
     "start": "Starta testet",
     "questions": "{count} frågor",
     "minutes": "{count} min",
-    "free": "Gratis",
     "aboutTitle": "Om testet",
     "whatYouGet": "Det här ingår i din rapport",
     "whatYouGet1": "Ditt resultat på varje dimension: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Hur ofta har du under de senaste två veckorna besvärats av följande problem?",
       "intensity": "Hur mycket har du under den senaste månaden besvärats av följande problem?"
     },
-    "unanswered": "Svara på alla påståenden på den här sidan för att fortsätta."
+    "unanswered": "Svara på alla påståenden på den här sidan för att fortsätta.",
+    "tryNow": "Testa nu"
   },
   "scales": {
     "agree": [

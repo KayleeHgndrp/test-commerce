@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Készen állsz, hogy többet megtudj magadról?",
-    "ctaButton": "Fedezd fel tesztjeinket"
+    "ctaButton": "Fedezd fel tesztjeinket",
+    "allTests": "Összes teszt",
+    "previous": "Előző",
+    "next": "Következő"
   },
   "categories": {
     "personality": "Személyiség és típus",
@@ -120,7 +123,6 @@
     "start": "Teszt indítása",
     "questions": "{count} kérdés",
     "minutes": "{count} perc",
-    "free": "Ingyenes",
     "aboutTitle": "A tesztről",
     "whatYouGet": "Mit tartalmaz az értékelésed?",
     "whatYouGet1": "Pontszámod minden dimenzióban: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Az elmúlt két hétben milyen gyakran zavartak a következő problémák?",
       "intensity": "Az elmúlt hónapban mennyire zavartak a következő problémák?"
     },
-    "unanswered": "A folytatáshoz válaszolj az oldalon lévő összes állításra."
+    "unanswered": "A folytatáshoz válaszolj az oldalon lévő összes állításra.",
+    "tryNow": "Kipróbálom"
   },
   "scales": {
     "agree": [

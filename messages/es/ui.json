@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "¿Listo para descubrir más sobre ti?",
-    "ctaButton": "Descubre nuestros tests"
+    "ctaButton": "Descubre nuestros tests",
+    "allTests": "Todos los tests",
+    "previous": "Anterior",
+    "next": "Siguiente"
   },
   "categories": {
     "personality": "Personalidad y tipo",
@@ -120,7 +123,6 @@
     "start": "Empezar el test",
     "questions": "{count} preguntas",
     "minutes": "{count} min",
-    "free": "Gratis",
     "aboutTitle": "Sobre este test",
     "whatYouGet": "Qué incluye tu informe",
     "whatYouGet1": "Tu puntuación en cada dimensión: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Durante las últimas dos semanas, ¿con qué frecuencia te han molestado los siguientes problemas?",
       "intensity": "En el último mes, ¿cuánto te han molestado los siguientes problemas?"
     },
-    "unanswered": "Responde a todas las afirmaciones de esta página para continuar."
+    "unanswered": "Responde a todas las afirmaciones de esta página para continuar.",
+    "tryNow": "Probar ahora"
   },
   "scales": {
     "agree": [

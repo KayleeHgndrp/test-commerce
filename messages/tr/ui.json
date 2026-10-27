@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Kendiniz hakkında daha fazlasını keşfetmeye hazır mısınız?",
-    "ctaButton": "Testlerimizi keşfedin"
+    "ctaButton": "Testlerimizi keşfedin",
+    "allTests": "Tüm testler",
+    "previous": "Önceki",
+    "next": "Sonraki"
   },
   "categories": {
     "personality": "Kişilik ve tip",
@@ -120,7 +123,6 @@
     "start": "Teste başla",
     "questions": "{count} soru",
     "minutes": "{count} dk",
-    "free": "Ücretsiz",
     "aboutTitle": "Bu test hakkında",
     "whatYouGet": "Raporunuzda neler var?",
     "whatYouGet1": "Her boyuttaki puanınız: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Son iki hafta içinde aşağıdaki sorunlar seni ne sıklıkla rahatsız etti?",
       "intensity": "Son bir ay içinde aşağıdaki sorunlar seni ne kadar rahatsız etti?"
     },
-    "unanswered": "Devam etmek için bu sayfadaki tüm ifadeleri yanıtla."
+    "unanswered": "Devam etmek için bu sayfadaki tüm ifadeleri yanıtla.",
+    "tryNow": "Hemen dene"
   },
   "scales": {
     "agree": [

@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Valmis enda kohta rohkem avastama?",
-    "ctaButton": "Vaata meie teste"
+    "ctaButton": "Vaata meie teste",
+    "allTests": "Kõik testid",
+    "previous": "Eelmine",
+    "next": "Järgmine"
   },
   "categories": {
     "personality": "Isiksus ja tüüp",
@@ -120,7 +123,6 @@
     "start": "Alusta testi",
     "questions": "{count} küsimust",
     "minutes": "{count} min",
-    "free": "Tasuta",
     "aboutTitle": "Testist",
     "whatYouGet": "Mida sinu raport sisaldab",
     "whatYouGet1": "Sinu tulemus igas dimensioonis: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Kui sageli on sind viimase kahe nädala jooksul häirinud järgmised probleemid?",
       "intensity": "Kui palju on sind viimase kuu jooksul häirinud järgmised probleemid?"
     },
-    "unanswered": "Jätkamiseks vasta kõigile sellel lehel olevatele väidetele."
+    "unanswered": "Jätkamiseks vasta kõigile sellel lehel olevatele väidetele.",
+    "tryNow": "Proovi kohe"
   },
   "scales": {
     "agree": [

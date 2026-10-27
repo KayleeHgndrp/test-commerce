@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Lest biex tiskopri aktar dwarek innifsek?",
-    "ctaButton": "Esplora t-testijiet tagħna"
+    "ctaButton": "Esplora t-testijiet tagħna",
+    "allTests": "It-testijiet kollha",
+    "previous": "Ta' qabel",
+    "next": "Li jmiss"
   },
   "categories": {
     "personality": "Personalità u tip",
@@ -120,7 +123,6 @@
     "start": "Ibda t-test",
     "questions": "{count} mistoqsija",
     "minutes": "{count} min",
-    "free": "B'xejn",
     "aboutTitle": "Dwar dan it-test",
     "whatYouGet": "X'jinkludi r-rapport tiegħek",
     "whatYouGet1": "Il-punteġġ tiegħek f'kull dimensjoni: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Matul l-aħħar ġimagħtejn, kemm-il darba ddejqek il-problemi li ġejjin?",
       "intensity": "Matul l-aħħar xahar, kemm iddejqek il-problemi li ġejjin?"
     },
-    "unanswered": "Wieġeb l-istqarrijiet kollha f'din il-paġna biex tkompli."
+    "unanswered": "Wieġeb l-istqarrijiet kollha f'din il-paġna biex tkompli.",
+    "tryNow": "Ipprova issa"
   },
   "scales": {
     "agree": [

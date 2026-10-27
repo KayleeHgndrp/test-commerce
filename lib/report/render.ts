@@ -49,7 +49,7 @@ export async function renderReport(locale: Locale, slug: string, answers: number
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;background:#ffffff;border-radius:16px;overflow:hidden">
 <tr><td style="background:#5b3df5;color:#ffffff;padding:28px 32px">
 <div style="font-size:14px;opacity:.85">${esc(site.name)}</div>
-<div style="font-size:26px;font-weight:bold;margin-top:6px">${def.icon} ${esc(text.name)}</div>
+<div style="font-size:26px;font-weight:bold;margin-top:6px">${esc(text.name)}</div>
 </td></tr>
 <tr><td style="padding:28px 32px;font-size:15px;line-height:1.6">
 <p>${esc(r.greeting)}</p>

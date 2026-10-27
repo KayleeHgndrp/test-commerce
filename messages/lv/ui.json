@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Gatavs uzzināt par sevi vairāk?",
-    "ctaButton": "Apskatīt mūsu testus"
+    "ctaButton": "Apskatīt mūsu testus",
+    "allTests": "Visi testi",
+    "previous": "Iepriekšējais",
+    "next": "Nākamais"
   },
   "categories": {
     "personality": "Personība un tips",
@@ -120,7 +123,6 @@
     "start": "Sākt testu",
     "questions": "Jautājumi: {count}",
     "minutes": "{count} min",
-    "free": "Bez maksas",
     "aboutTitle": "Par šo testu",
     "whatYouGet": "Ko ietver tavs pārskats",
     "whatYouGet1": "Tavs rezultāts katrā dimensijā: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Cik bieži pēdējo divu nedēļu laikā tevi ir traucējušas šādas problēmas?",
       "intensity": "Cik ļoti pēdējā mēneša laikā tevi ir traucējušas šādas problēmas?"
     },
-    "unanswered": "Lai turpinātu, atbildi uz visiem šīs lapas apgalvojumiem."
+    "unanswered": "Lai turpinātu, atbildi uz visiem šīs lapas apgalvojumiem.",
+    "tryNow": "Izmēģini"
   },
   "scales": {
     "agree": [

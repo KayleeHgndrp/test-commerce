@@ -26,13 +26,10 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
   return (
     <div className="mx-auto max-w-4xl px-4 pt-14">
       <div className="rounded-3xl border border-border bg-surface p-8 text-center sm:p-12">
-        <span className="mx-auto grid h-16 w-16 place-items-center rounded-2xl bg-accent-soft text-4xl" aria-hidden>
-          {def.icon}
-        </span>
-        <h1 className="mt-6 text-3xl font-bold tracking-tight sm:text-5xl">{text.name}</h1>
+        <h1 className="text-3xl font-bold tracking-tight sm:text-5xl">{text.name}</h1>
         <p className="mx-auto mt-4 max-w-xl text-lg text-muted">{text.tagline}</p>
         <p className="mt-4 text-sm font-medium text-muted">
-          {fmt(ui.test.questions, { count: def.items.length })} · {fmt(ui.test.minutes, { count: def.minutes })} · {ui.test.free}
+          {fmt(ui.test.questions, { count: def.items.length })} · {fmt(ui.test.minutes, { count: def.minutes })}
         </p>
         <Link
           href={`/${locale}/${def.slug}/start`}
@@ -64,9 +61,19 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
       {related.length > 0 && (
         <section className="mt-16">
           <h2 className="mb-4 text-xl font-semibold">{ui.test.otherTests}</h2>
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="grid gap-4 sm:grid-cols-2">
             {related.map((d, i) => (
-              <TestCard key={d.slug} locale={locale} ui={ui} def={d} text={relatedTexts[i]} />
+              <TestCard
+                key={d.slug}
+                locale={locale}
+                cta={ui.test.tryNow}
+                test={{
+                  slug: d.slug,
+                  name: relatedTexts[i].name,
+                  tagline: relatedTexts[i].tagline,
+                  meta: `${fmt(ui.test.questions, { count: d.items.length })} · ${fmt(ui.test.minutes, { count: d.minutes })}`,
+                }}
+              />
             ))}
           </div>
         </section>

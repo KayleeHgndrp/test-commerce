@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Klar til at opdage mere om dig selv?",
-    "ctaButton": "Udforsk vores tests"
+    "ctaButton": "Udforsk vores tests",
+    "allTests": "Alle tests",
+    "previous": "Forrige",
+    "next": "Næste"
   },
   "categories": {
     "personality": "Personlighed & type",
@@ -120,7 +123,6 @@
     "start": "Start testen",
     "questions": "{count} spørgsmål",
     "minutes": "{count} min.",
-    "free": "Gratis",
     "aboutTitle": "Om testen",
     "whatYouGet": "Det indeholder din rapport",
     "whatYouGet1": "Din score på alle dimensioner: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Hvor ofte har du i de sidste to uger været generet af følgende problemer?",
       "intensity": "Hvor meget har du i den sidste måned været generet af følgende problemer?"
     },
-    "unanswered": "Besvar alle udsagn på denne side for at fortsætte."
+    "unanswered": "Besvar alle udsagn på denne side for at fortsætte.",
+    "tryNow": "Prøv nu"
   },
   "scales": {
     "agree": [

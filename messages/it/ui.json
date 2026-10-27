@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Pronto a scoprire di più su di te?",
-    "ctaButton": "Scopri i nostri test"
+    "ctaButton": "Scopri i nostri test",
+    "allTests": "Tutti i test",
+    "previous": "Precedente",
+    "next": "Successivo"
   },
   "categories": {
     "personality": "Personalità e tipo",
@@ -120,7 +123,6 @@
     "start": "Inizia il test",
     "questions": "{count} domande",
     "minutes": "{count} min",
-    "free": "Gratis",
     "aboutTitle": "Informazioni su questo test",
     "whatYouGet": "Cosa include il tuo report",
     "whatYouGet1": "Il tuo punteggio in ogni dimensione: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Nelle ultime due settimane, con quale frequenza ti hanno dato fastidio i seguenti problemi?",
       "intensity": "Nell'ultimo mese, quanto ti hanno disturbato i seguenti problemi?"
     },
-    "unanswered": "Rispondi a tutte le affermazioni di questa pagina per continuare."
+    "unanswered": "Rispondi a tutte le affermazioni di questa pagina per continuare.",
+    "tryNow": "Prova ora"
   },
   "scales": {
     "agree": [

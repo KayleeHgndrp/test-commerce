@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Tilbúin(n) að uppgötva meira um sjálfa(n) þig?",
-    "ctaButton": "Skoðaðu prófin okkar"
+    "ctaButton": "Skoðaðu prófin okkar",
+    "allTests": "Öll próf",
+    "previous": "Fyrri",
+    "next": "Næsta"
   },
   "categories": {
     "personality": "Persónuleiki og manngerð",
@@ -120,7 +123,6 @@
     "start": "Byrja prófið",
     "questions": "{count} spurningar",
     "minutes": "{count} mín.",
-    "free": "Ókeypis",
     "aboutTitle": "Um þetta próf",
     "whatYouGet": "Það sem skýrslan inniheldur",
     "whatYouGet1": "Einkunn þín á hverjum þætti: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Hversu oft hafa eftirfarandi vandamál angrað þig síðastliðnar tvær vikur?",
       "intensity": "Hversu mikið hafa eftirfarandi vandamál angrað þig síðastliðinn mánuð?"
     },
-    "unanswered": "Svaraðu öllum fullyrðingum á þessari síðu til að halda áfram."
+    "unanswered": "Svaraðu öllum fullyrðingum á þessari síðu til að halda áfram.",
+    "tryNow": "Prófaðu núna"
   },
   "scales": {
     "agree": [

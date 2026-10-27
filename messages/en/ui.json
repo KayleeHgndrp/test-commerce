@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Ready to discover more about yourself?",
-    "ctaButton": "Explore our tests"
+    "ctaButton": "Explore our tests",
+    "allTests": "All tests",
+    "previous": "Previous",
+    "next": "Next"
   },
   "categories": {
     "personality": "Personality & type",
@@ -120,7 +123,6 @@
     "start": "Start the test",
     "questions": "{count} questions",
     "minutes": "{count} min",
-    "free": "Free",
     "aboutTitle": "About this test",
     "whatYouGet": "What your report includes",
     "whatYouGet1": "Your score on every dimension: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Over the last two weeks, how often have you been bothered by the following problems?",
       "intensity": "In the past month, how much were you bothered by the following problems?"
     },
-    "unanswered": "Please answer all statements on this page to continue."
+    "unanswered": "Please answer all statements on this page to continue.",
+    "tryNow": "Try now"
   },
   "scales": {
     "agree": [

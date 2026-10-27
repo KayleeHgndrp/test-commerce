@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Bereit, mehr über dich zu erfahren?",
-    "ctaButton": "Unsere Tests entdecken"
+    "ctaButton": "Unsere Tests entdecken",
+    "allTests": "Alle Tests",
+    "previous": "Zurück",
+    "next": "Weiter"
   },
   "categories": {
     "personality": "Persönlichkeit & Typ",
@@ -120,7 +123,6 @@
     "start": "Test starten",
     "questions": "{count} Fragen",
     "minutes": "{count} Min.",
-    "free": "Kostenlos",
     "aboutTitle": "Über diesen Test",
     "whatYouGet": "Das steht in deinem Bericht",
     "whatYouGet1": "Dein Wert in jeder Dimension: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Wie oft fühltest du dich im Verlauf der letzten zwei Wochen durch die folgenden Beschwerden beeinträchtigt?",
       "intensity": "Wie sehr haben dich die folgenden Probleme im letzten Monat belastet?"
     },
-    "unanswered": "Bitte beantworte alle Aussagen auf dieser Seite, um fortzufahren."
+    "unanswered": "Bitte beantworte alle Aussagen auf dieser Seite, um fortzufahren.",
+    "tryNow": "Jetzt starten"
   },
   "scales": {
     "agree": [

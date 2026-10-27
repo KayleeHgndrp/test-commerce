@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Ste pripravljeni odkriti več o sebi?",
-    "ctaButton": "Oglejte si naše teste"
+    "ctaButton": "Oglejte si naše teste",
+    "allTests": "Vsi testi",
+    "previous": "Nazaj",
+    "next": "Naprej"
   },
   "categories": {
     "personality": "Osebnost in tip",
@@ -120,7 +123,6 @@
     "start": "Začni test",
     "questions": "Vprašanja: {count}",
     "minutes": "{count} min",
-    "free": "Brezplačno",
     "aboutTitle": "O tem testu",
     "whatYouGet": "Kaj vključuje vaše poročilo",
     "whatYouGet1": "Vaš rezultat na vsaki dimenziji: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Kako pogosto so vas v zadnjih dveh tednih motile naslednje težave?",
       "intensity": "Koliko so vas v zadnjem mesecu motile naslednje težave?"
     },
-    "unanswered": "Za nadaljevanje odgovorite na vse trditve na tej strani."
+    "unanswered": "Za nadaljevanje odgovorite na vse trditve na tej strani.",
+    "tryNow": "Preizkusite"
   },
   "scales": {
     "agree": [

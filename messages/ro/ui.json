@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Gata să descoperi mai multe despre tine?",
-    "ctaButton": "Descoperă testele noastre"
+    "ctaButton": "Descoperă testele noastre",
+    "allTests": "Toate testele",
+    "previous": "Înapoi",
+    "next": "Înainte"
   },
   "categories": {
     "personality": "Personalitate și tip",
@@ -120,7 +123,6 @@
     "start": "Începe testul",
     "questions": "{count} de întrebări",
     "minutes": "{count} min",
-    "free": "Gratuit",
     "aboutTitle": "Despre acest test",
     "whatYouGet": "Ce conține raportul tău",
     "whatYouGet1": "Scorul tău la fiecare dimensiune: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "În ultimele două săptămâni, cât de des te-au deranjat următoarele probleme?",
       "intensity": "În ultima lună, cât de mult te-au deranjat următoarele probleme?"
     },
-    "unanswered": "Răspunde la toate afirmațiile de pe această pagină pentru a continua."
+    "unanswered": "Răspunde la toate afirmațiile de pe această pagină pentru a continua.",
+    "tryNow": "Încearcă acum"
   },
   "scales": {
     "agree": [

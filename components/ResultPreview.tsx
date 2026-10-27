@@ -85,8 +85,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, ui }: 
       )}
 
       <div className="text-center">
-        <span className="text-5xl" aria-hidden>{def.icon}</span>
-        <h1 className="mt-4 text-3xl font-bold tracking-tight sm:text-4xl">{ui.title}</h1>
+        <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">{ui.title}</h1>
         <p className="mx-auto mt-3 max-w-xl text-muted">{fmt(ui.subtitle, { test: name })}</p>
       </div>
 

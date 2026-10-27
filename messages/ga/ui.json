@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Réidh chun níos mó a fháil amach fút féin?",
-    "ctaButton": "Féach ar ár dtástálacha"
+    "ctaButton": "Féach ar ár dtástálacha",
+    "allTests": "Gach triail",
+    "previous": "Roimhe seo",
+    "next": "Ar aghaidh"
   },
   "categories": {
     "personality": "Pearsantacht & cineál",
@@ -120,7 +123,6 @@
     "start": "Tosaigh an tástáil",
     "questions": "Ceisteanna: {count}",
     "minutes": "{count} nóim.",
-    "free": "Saor in aisce",
     "aboutTitle": "Faoin tástáil seo",
     "whatYouGet": "Cad atá i do thuarascáil",
     "whatYouGet1": "Do scór ar gach toise: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Le coicís anuas, cé chomh minic is a chuir na fadhbanna seo a leanas isteach ort?",
       "intensity": "Le mí anuas, cé mhéad a chuir na fadhbanna seo a leanas isteach ort?"
     },
-    "unanswered": "Freagair gach ráiteas ar an leathanach seo chun leanúint ar aghaidh."
+    "unanswered": "Freagair gach ráiteas ar an leathanach seo chun leanúint ar aghaidh.",
+    "tryNow": "Bain triail as"
   },
   "scales": {
     "agree": [

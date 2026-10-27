@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Spremni da otkrijete više o sebi?",
-    "ctaButton": "Istražite naše testove"
+    "ctaButton": "Istražite naše testove",
+    "allTests": "Svi testovi",
+    "previous": "Prethodno",
+    "next": "Sledeće"
   },
   "categories": {
     "personality": "Ličnost i tip",
@@ -120,7 +123,6 @@
     "start": "Započni test",
     "questions": "Pitanja: {count}",
     "minutes": "{count} min",
-    "free": "Besplatno",
     "aboutTitle": "O ovom testu",
     "whatYouGet": "Šta sadrži vaš izveštaj",
     "whatYouGet1": "Vaš rezultat u svakoj dimenziji: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Koliko često su vas tokom poslednje dve nedelje mučili sledeći problemi?",
       "intensity": "Koliko su vas tokom poslednjeg meseca mučili sledeći problemi?"
     },
-    "unanswered": "Odgovorite na sve tvrdnje na ovoj stranici da biste nastavili."
+    "unanswered": "Odgovorite na sve tvrdnje na ovoj stranici da biste nastavili.",
+    "tryNow": "Isprobajte"
   },
   "scales": {
     "agree": [

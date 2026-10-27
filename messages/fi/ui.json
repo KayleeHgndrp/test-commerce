@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Valmis oppimaan itsestäsi lisää?",
-    "ctaButton": "Tutustu testeihin"
+    "ctaButton": "Tutustu testeihin",
+    "allTests": "Kaikki testit",
+    "previous": "Edellinen",
+    "next": "Seuraava"
   },
   "categories": {
     "personality": "Persoonallisuus ja tyyppi",
@@ -120,7 +123,6 @@
     "start": "Aloita testi",
     "questions": "{count} kysymystä",
     "minutes": "{count} min",
-    "free": "Ilmainen",
     "aboutTitle": "Tietoa testistä",
     "whatYouGet": "Raporttisi sisältää",
     "whatYouGet1": "Pisteesi jokaisella ulottuvuudella: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Kuinka usein seuraavat ongelmat ovat vaivanneet sinua viimeisen kahden viikon aikana?",
       "intensity": "Kuinka paljon seuraavat ongelmat ovat vaivanneet sinua viimeisen kuukauden aikana?"
     },
-    "unanswered": "Vastaa kaikkiin tämän sivun väitteisiin jatkaaksesi."
+    "unanswered": "Vastaa kaikkiin tämän sivun väitteisiin jatkaaksesi.",
+    "tryNow": "Kokeile nyt"
   },
   "scales": {
     "agree": [

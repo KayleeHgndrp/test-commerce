@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Chceš o sobě zjistit víc?",
-    "ctaButton": "Prohlédnout testy"
+    "ctaButton": "Prohlédnout testy",
+    "allTests": "Všechny testy",
+    "previous": "Předchozí",
+    "next": "Další"
   },
   "categories": {
     "personality": "Osobnost a typ",
@@ -120,7 +123,6 @@
     "start": "Začít test",
     "questions": "Počet otázek: {count}",
     "minutes": "{count} min",
-    "free": "Zdarma",
     "aboutTitle": "O tomto testu",
     "whatYouGet": "Co obsahuje tvá zpráva",
     "whatYouGet1": "Tvé skóre v každé dimenzi: {dimensions}",
@@ -146,7 +148,8 @@
       "phq": "Jak často vás během posledních dvou týdnů obtěžovaly následující problémy?",
       "intensity": "Jak moc vás během posledního měsíce obtěžovaly následující problémy?"
     },
-    "unanswered": "Pro pokračování odpovězte na všechna tvrzení na této stránce."
+    "unanswered": "Pro pokračování odpovězte na všechna tvrzení na této stránce.",
+    "tryNow": "Vyzkoušet"
   },
   "scales": {
     "agree": [
