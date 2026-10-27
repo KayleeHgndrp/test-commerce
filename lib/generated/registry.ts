@@ -203,6 +203,7 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "es/tests/imposter": () => import("@/messages/es/tests/imposter.json").then((m) => m.default),
   "es/tests/perfectionism": () => import("@/messages/es/tests/perfectionism.json").then((m) => m.default),
   "es/tests/chronotype": () => import("@/messages/es/tests/chronotype.json").then((m) => m.default),
+  "es/tests/phone-addiction": () => import("@/messages/es/tests/phone-addiction.json").then((m) => m.default),
   "es/tests/money-mindset": () => import("@/messages/es/tests/money-mindset.json").then((m) => m.default),
   "it/ui": () => import("@/messages/it/ui.json").then((m) => m.default),
   "it/tests/big-five": () => import("@/messages/it/tests/big-five.json").then((m) => m.default),
