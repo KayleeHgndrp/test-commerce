@@ -18,6 +18,8 @@ import def_adhd from "@/content/definitions/adhd.json";
 import def_depression from "@/content/definitions/depression.json";
 import def_bpd from "@/content/definitions/bpd.json";
 import def_bipolar from "@/content/definitions/bipolar.json";
+import def_narcissism from "@/content/definitions/narcissism.json";
+import def_trauma from "@/content/definitions/trauma.json";
 import def_burnout from "@/content/definitions/burnout.json";
 import def_hsp from "@/content/definitions/hsp.json";
 import def_overthinking from "@/content/definitions/overthinking.json";
@@ -49,6 +51,8 @@ export const definitions = [
   def_depression,
   def_bpd,
   def_bipolar,
+  def_narcissism,
+  def_trauma,
   def_burnout,
   def_hsp,
   def_overthinking,
@@ -82,6 +86,8 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "en/tests/depression": () => import("@/messages/en/tests/depression.json").then((m) => m.default),
   "en/tests/bpd": () => import("@/messages/en/tests/bpd.json").then((m) => m.default),
   "en/tests/bipolar": () => import("@/messages/en/tests/bipolar.json").then((m) => m.default),
+  "en/tests/narcissism": () => import("@/messages/en/tests/narcissism.json").then((m) => m.default),
+  "en/tests/trauma": () => import("@/messages/en/tests/trauma.json").then((m) => m.default),
   "en/tests/burnout": () => import("@/messages/en/tests/burnout.json").then((m) => m.default),
   "en/tests/hsp": () => import("@/messages/en/tests/hsp.json").then((m) => m.default),
   "en/tests/overthinking": () => import("@/messages/en/tests/overthinking.json").then((m) => m.default),
