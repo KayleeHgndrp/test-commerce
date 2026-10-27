@@ -10,7 +10,7 @@
     "E vlerësoj kur dikush ma lehtëson një ditë të ngarkuar.",
     "Më pëlqen t'u them njerëzve me zë sa shumë do të thonë për mua.",
     "Një mbrëmje bashkë pa telefona ka shumë rëndësi për mua.",
-    "Ndihem i veçantë kur dikush më befason me një dhuratë të vogël.",
+    "Ndiej se jam dikush i veçantë kur dikush tjetër më befason me një dhuratë të vogël.",
     "Preferoj të merrem me gjërat e mia sesa me aktivitete të përbashkëta.",
     "Një përqafim më thotë më shumë se shumë fjalë.",
     "Shpesh u shkruaj shënime ose kartolina njerëzve që i dua.",
@@ -30,7 +30,7 @@
     "Do të më lëndonte vërtet nëse dikush do ta harronte ditëlindjen time.",
     "Fjalët inkurajuese më ndihmojnë t'i kaloj kohët e vështira.",
     "Kujdesi për detajet praktike është mënyra si e tregoj dashurinë.",
-    "E tregoj dashurinë duke gjetur kohë, edhe kur jam i zënë.",
+    "E tregoj dashurinë duke gjetur kohë, edhe kur kam shumë punë.",
     "Nëse njerëzit më ndihmojnë apo jo, ka pak rëndësi për mua.",
     "Natyrshëm zgjas dorën për të prekur njerëzit me të cilët ndihem afër.",
     "Dhënia e dhuratave është një nga mënyrat e mia të preferuara për të treguar dashuri.",
@@ -46,7 +46,7 @@
     "Rrallë kam nevojë ta dëgjoj që më duan.",
     "Dhuratat nuk janë të rëndësishme për mua në një marrëdhënie.",
     "Premtimet e pambajtura për ndihmë më zhgënjejnë shumë.",
-    "Nuk jam shumë i dhënë pas përqafimeve.",
+    "Përqafimet nuk më tërheqin shumë.",
     "Një letër e shkruar nga zemra më prek më shumë se shumica e gjesteve.",
     "Një takim romantik i anuluar pothuajse nuk më shqetëson.",
     "Harroj shpejt çfarë më kanë dhënë njerëzit.",
@@ -119,7 +119,7 @@
       "short": "Sa shumë të bëjnë të ndihesh i dashur vëmendja e pandarë dhe momentet e përbashkëta.",
       "low": "Të kalosh shumë kohë bashkë nuk është mënyra kryesore si ndihesh i dashur. Mund të ndihesh rehat me pavarësinë dhe t'i vlerësosh më shumë sinjale të tjera, si ndihma, dhuratat ose fjalët e ëmbla. Kjo është krejt në rregull. Thjesht mos harro se për shumë njerëz, sidomos për partnerët, koha bashkë është thelbësore. Planifikimi i një momenti të rregullt pa shpërqendrime, qoftë edhe një shëtitje e shkurtër ose një vakt i përbashkët, mund t'i forcojë marrëdhëniet e tua pa të kërkuar shumë.",
       "mid": "Të pëlqejnë momentet e përbashkëta dhe vëmendja, por nuk ke nevojë të jeni vazhdimisht bashkë që të ndihesh i dashur. Koha bashkë është e rëndësishme për ty krahas mënyrave të tjera të lidhjes. Një këshillë e dobishme është të mbrosh disa momente cilësore çdo javë në vend që të synosh sasi të mëdha kohe. Lërini telefonat mënjanë, zgjidhni një aktivitet që ju pëlqen të dyve dhe vër re si ndikon në ndjenjën e afërsisë. Ritualet e vogla shpesh kanë më shumë rëndësi se planet e mëdha.",
-      "high": "Vëmendja e pandarë është një nga shenjat më të qarta të dashurisë për ty. Bisedat e gjata, aktivitetet e përbashkëta dhe thjesht të qenit bashkë të bëjnë të ndihesh i vlerësuar, ndërsa shpërqendrimi ose planet e anuluara mund të duken si refuzim. Tregoju njerëzve të afërt se prania e tyre ka më shumë rëndësi se dhuratat ose gjestet e mëdha. Bini dakord për kohë të rregullt dhe të mbrojtur bashkë. Njëkohësisht, përpiqu ta mos e masësh dashurinë vetëm me orë, sepse periudhat e ngarkuara nuk do të thonë gjithmonë se dikujt i intereson më pak."
+      "high": "Vëmendja e pandarë është një nga shenjat më të qarta të dashurisë për ty. Bisedat e gjata, aktivitetet e përbashkëta dhe thjesht të qenit bashkë të bëjnë të ndihesh i vlerësuar, ndërsa shpërqendrimi ose planet e anuluara mund të duken si refuzim. Tregoju njerëzve të afërt se prania e tyre ka më shumë rëndësi se dhuratat ose gjestet e mëdha. Bini dakord për kohë të rregullt dhe të mbrojtur bashkë. Njëkohësisht, përpiqu të mos e masësh dashurinë vetëm me orë, sepse periudhat e ngarkuara nuk do të thonë gjithmonë se dikujt i intereson më pak."
     },
     "gifts": {
       "name": "Dhuratat e menduara",
