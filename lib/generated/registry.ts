@@ -339,6 +339,7 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "ro/tests/overthinking": () => import("@/messages/ro/tests/overthinking.json").then((m) => m.default),
   "ro/tests/people-pleaser": () => import("@/messages/ro/tests/people-pleaser.json").then((m) => m.default),
   "ro/tests/imposter": () => import("@/messages/ro/tests/imposter.json").then((m) => m.default),
+  "ro/tests/rejection-sensitivity": () => import("@/messages/ro/tests/rejection-sensitivity.json").then((m) => m.default),
   "ro/tests/procrastination": () => import("@/messages/ro/tests/procrastination.json").then((m) => m.default),
   "ro/tests/perfectionism": () => import("@/messages/ro/tests/perfectionism.json").then((m) => m.default),
   "ro/tests/chronotype": () => import("@/messages/ro/tests/chronotype.json").then((m) => m.default),
