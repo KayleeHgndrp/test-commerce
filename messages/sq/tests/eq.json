@@ -7,7 +7,7 @@
   "items": [
     "E kuptoj se zemërimi shpesh fsheh lëndim ose frikë.",
     "Konfliktet i zgjidh në një mënyrë që funksionon për të dyja palët.",
-    "Mund ta ruaj qetësinë kur të tjerët përreth më zë paniku.",
+    "Mund ta ruaj qetësinë kur të tjerët përreth i zë paniku.",
     "E shoh shpejt kur dikush ndihet i lënë jashtë.",
     "E vë re kur fjalët dhe toni i dikujt nuk përputhen.",
     "I rregulloj gjërat shpejt pas një keqkuptimi.",
@@ -56,7 +56,7 @@
     "Mund t'i gjej fjalët e duhura për ndjenjat e holla.",
     "Emocionet e të tjerëve e kam të vështirë t'i lexoj.",
     "I mbaj gjallë marrëdhëniet e mira ndër vite.",
-    "Priremi të bluaj gjërat në mendje për një kohë të gjatë.",
+    "Prirem të bluaj gjërat në mendje për një kohë të gjatë.",
     "E kuptoj pse njerëzit reagojnë ndryshe ndaj të njëjtit lajm.",
     "Stresi më bën ta humbas lehtë kontrollin.",
     "Mund të mos pajtohem me dikë pa e dëmtuar marrëdhënien.",
@@ -72,7 +72,7 @@
     "I vë re shenjat e holla të nervozizmit te të tjerët.",
     "Ndjenjat e mia shpesh duket sikur dalin nga hiçi.",
     "Mund ta ruaj përqendrimin edhe kur jam mërzitur.",
-    "Njerëzit ndonjëherë më thonë se dukem i ftohtë.",
+    "Njerëzit ndonjëherë më thonë se jap përshtypjen e një njeriu të ftohtë.",
     "Mund ta riformuloj një pengesë që të duket e përballueshme.",
     "E di cilat situata zakonisht më mërzitin.",
     "Mund ta bashkoj një grup rreth një qëllimi të përbashkët.",
@@ -119,7 +119,7 @@
       "short": "Sa mirë i kupton shkaqet dhe rrjedhën e emocioneve.",
       "low": "Përgjigjet e tua tregojnë se emocionet ndonjëherë mund të duken konfuze, sikur dalin nga hiçi ose janë të vështira për t'u shpjeguar. Kjo është një përvojë e zakonshme dhe një aftësi që mund ta zhvillosh. Provo të mbash një ditar të shkurtër humori për disa javë: shëno çfarë ndieve, çfarë ndodhi pak më parë dhe si ndryshoi ndjenja. Modelet do të shfaqen shpejt. Leximi i romaneve ose shikimi i filmave duke u kushtuar vëmendje ndjenjave të personazheve mund ta thellojë gjithashtu kuptimin tënd për të tjerët.",
       "mid": "Ke një kuptim të mirë se pse lindin emocionet dhe si zhvillohen, si te vetja ashtu edhe te të tjerët. Disa reagime mund të të hutojnë ende, sidomos ato të përziera ose intensive. Një këshillë: kur një ndjenjë të befason, pyet veten çfarë nevoje ose vlere mund të jetë duke mbrojtur. Zemërimi shpesh tregon një kufi, trishtimi një humbje. Diskutimi i situatave më pas me një mik mund të të ndihmojë gjithashtu t'i shohësh më qartë modelet emocionale.",
-      "high": "Ke një kuptim të thellë të emocioneve. Zakonisht mund ta shpjegosh pse ndien atë që ndien, të parashikosh si do t'i prekin situatat njerëzit dhe të dallosh lëndimin ose frikën që mund të fshihet pas zemërimit. Ky largpamësi të ndihmon të marrësh vendime më të mençura dhe t'i mbështetësh mirë të tjerët. Vazhdo ta përdorësh me bujari, por mos harro se ta kuptosh një ndjenjë nuk do të thotë se duhet ta rregullosh. Ndonjëherë njerëzit thjesht kanë nevojë të dëgjohen, jo të analizohen."
+      "high": "Ke një kuptim të thellë të emocioneve. Zakonisht mund ta shpjegosh pse ndien atë që ndien, të parashikosh si do t'i prekin situatat njerëzit dhe të dallosh lëndimin ose frikën që mund të fshihet pas zemërimit. Kjo aftësi për t'i kuptuar emocionet të ndihmon të marrësh vendime më të mençura dhe t'i mbështetësh mirë të tjerët. Vazhdo ta përdorësh me bujari, por mos harro se ta kuptosh një ndjenjë nuk do të thotë se duhet ta rregullosh. Ndonjëherë njerëzit thjesht kanë nevojë të dëgjohen, jo të analizohen."
     },
     "regulating": {
       "name": "Rregullimi i emocioneve",
