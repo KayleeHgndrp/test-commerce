@@ -194,7 +194,7 @@
     "unlockText": "Your detailed report with all scores, personal interpretations and practical tips, sent to your email.",
     "emailLabel": "Email address",
     "emailPlaceholder": "you@example.com",
-    "consent": "I agree to the terms and privacy policy.",
+    "consent": "I agree to the terms and privacy policy and ask for my report to be delivered immediately. I understand that I lose my right of withdrawal once the report has been sent.",
     "buy": "Get my report for {price}",
     "secure": "Secure payment via Stripe. One-time payment, no subscription.",
     "invalidEmail": "Please enter a valid email address.",
@@ -235,7 +235,8 @@
     "cookies": "Cookie policy",
     "refund": "Refund policy",
     "rights": "© {year} {site}. All rights reserved.",
-    "disclaimer": "{site} is not a medical service. For clinical concerns, please consult a licensed professional."
+    "disclaimer": "{site} is not a medical service. For clinical concerns, please consult a licensed professional.",
+    "aboutLink": "About us"
   },
   "legal": {
     "privacyTitle": "Privacy policy",
@@ -277,5 +278,47 @@
     "sending": "Sending…",
     "success": "Thank you! Your message has been sent. We'll get back to you soon.",
     "error": "Your message could not be sent. Please try again later."
+  },
+  "about": {
+    "title": "About {site}",
+    "intro": "We believe everyone deserves a clear, honest look at who they are — without jargon, without subscriptions and without a four-letter label that explains nothing.",
+    "missionTitle": "Our mission",
+    "mission": "Psychology has developed powerful ways to describe personality, relationships and wellbeing, but most of that knowledge is locked away in textbooks or expensive assessments. {site} makes it accessible: in-depth tests anyone can take for free, in their own language, with a personal report that explains your results in plain words and gives you practical next steps.",
+    "howTitle": "How we build our tests",
+    "how": [
+      {
+        "title": "Established models",
+        "text": "Every test is based on well-researched frameworks such as the Big Five, RIASEC and attachment theory. Where public-domain clinical questionnaires exist, such as the PHQ-9 and PCL-5, we include them and use their official scoring."
+      },
+      {
+        "title": "100 questions, 5 minutes",
+        "text": "Each test uses 100 short statements spread over every dimension it measures. That gives a far more reliable picture than a quick ten-question quiz, while still taking only about five minutes."
+      },
+      {
+        "title": "Written to be read",
+        "text": "Our reports explain what each score means, where it comes from and what you can do with it. No jargon and no vague horoscope language — just clear, practical insight."
+      }
+    ],
+    "valuesTitle": "What you can count on",
+    "values": [
+      {
+        "title": "No account, no subscription",
+        "text": "You pay {price} once for a report you want. Nothing renews, nothing is charged later."
+      },
+      {
+        "title": "Privacy first",
+        "text": "Your answers are only used to calculate your result. We don't sell data and don't show ads."
+      },
+      {
+        "title": "Available in {languages} languages",
+        "text": "Every test and every report is available in all major European languages."
+      },
+      {
+        "title": "Honest about limits",
+        "text": "Our tests support self-reflection. Screeners can tell you whether it makes sense to talk to a professional, but they never replace a diagnosis."
+      }
+    ],
+    "ctaTitle": "Curious what your results say?",
+    "ctaButton": "Explore our tests"
   }
 }

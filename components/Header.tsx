@@ -16,6 +16,7 @@ export function Header({ locale, ui }: { locale: Locale; ui: UiMessages }) {
           <Link href={`/${locale}#tests`} className={link}>{ui.nav.tests}</Link>
           <Link href={`/${locale}#pricing`} className={link}>{ui.nav.pricing}</Link>
           <Link href={`/${locale}#faq`} className={link}>{ui.nav.faq}</Link>
+          <Link href={`/${locale}/about`} className={link}>{ui.footer.aboutLink}</Link>
           <LanguageSwitcher locale={locale} label={ui.nav.language} />
           <Link
             href={`/${locale}#tests`}

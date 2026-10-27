@@ -4,7 +4,7 @@ import { allDefinitions } from "@/lib/i18n/messages";
 import { site } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const paths = ["", ...allDefinitions.map((def) => `/${def.slug}`)];
+  const paths = ["", "/about", "/contact", ...allDefinitions.map((def) => `/${def.slug}`)];
   return paths.flatMap((path) =>
     locales.map((locale) => ({
       url: `${site.url}/${locale}${path}`,
