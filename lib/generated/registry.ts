@@ -355,6 +355,7 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "sk/tests/burnout": () => import("@/messages/sk/tests/burnout.json").then((m) => m.default),
   "hu/ui": () => import("@/messages/hu/ui.json").then((m) => m.default),
   "sv/ui": () => import("@/messages/sv/ui.json").then((m) => m.default),
+  "sv/tests/burnout": () => import("@/messages/sv/tests/burnout.json").then((m) => m.default),
   "da/ui": () => import("@/messages/da/ui.json").then((m) => m.default),
   "fi/ui": () => import("@/messages/fi/ui.json").then((m) => m.default),
   "et/ui": () => import("@/messages/et/ui.json").then((m) => m.default),

@@ -107,7 +107,10 @@
       }
     ],
     "ctaTitle": "Pronto para descobrires mais sobre ti?",
-    "ctaButton": "Explora os nossos testes"
+    "ctaButton": "Explora os nossos testes",
+    "allTests": "Todos os testes",
+    "previous": "Anterior",
+    "next": "Seguinte"
   },
   "categories": {
     "personality": "Personalidade e tipo",
@@ -120,18 +123,15 @@
     "start": "Começar o teste",
     "questions": "{count} perguntas",
     "minutes": "{count} min",
-    "free": "Grátis",
     "aboutTitle": "Sobre este teste",
     "whatYouGet": "O que inclui o teu relatório",
     "whatYouGet1": "A tua pontuação em cada dimensão: {dimensions}",
     "whatYouGet2": "Uma interpretação pessoal de cada pontuação",
     "whatYouGet3": "Dicas práticas para aplicares de imediato",
     "otherTests": "Outros testes populares",
-    "question": "Pergunta {current} de {total}",
     "back": "Voltar",
     "next": "Seguinte",
     "finish": "Ver os meus resultados",
-    "chooseAnswer": "Escolhe a resposta que melhor se aplica a ti.",
     "resume": "Tens um teste por terminar. Queres continuar onde ficaste?",
     "resumeYes": "Continuar",
     "resumeNo": "Recomeçar",
@@ -140,7 +140,16 @@
     "genderMale": "Masculino",
     "genderFemale": "Feminino",
     "genderOther": "Outro / prefiro não dizer",
-    "screenerNote": "Este teste é uma ferramenta de rastreio, não um diagnóstico."
+    "screenerNote": "Este teste é uma ferramenta de rastreio, não um diagnóstico.",
+    "step": "Passo {current} de {total}",
+    "instructions": {
+      "agree": "Escolhe até que ponto cada afirmação te descreve.",
+      "frequency": "Escolhe com que frequência cada afirmação se aplica a ti.",
+      "phq": "Nas últimas duas semanas, com que frequência foste afetado por algum dos seguintes problemas?",
+      "intensity": "No último mês, até que ponto foste afetado pelos seguintes problemas?"
+    },
+    "unanswered": "Responde a todas as afirmações desta página para continuar.",
+    "tryNow": "Experimenta agora"
   },
   "scales": {
     "agree": [
