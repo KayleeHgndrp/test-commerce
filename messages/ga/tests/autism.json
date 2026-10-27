@@ -45,7 +45,7 @@
     "Tugaim faoi deara láithreach nuair a bhíonn rudaí beagán as a n-áit.",
     "Cuireann áiteanna plódaithe mo chéadfaí thar maoil go tapa.",
     "Déanaim aithris ar iompar daoine eile ionas go n-oirfidh mé isteach.",
-    "Ní chuireann sé isteach orm má bheintear liom gan choinne.",
+    "Ní chuireann sé isteach orm má leagann duine lámh orm gan choinne.",
     "Is furasta liom aistriú idir tascanna éagsúla.",
     "B’fhearr liom teachtaireachtaí scríofa ná glaonna gutháin.",
     "Is minic nach mbím cinnte cathain is é mo sheal labhairt.",
@@ -65,7 +65,7 @@
     "Táim an-íogair d’athruithe teochta.",
     "Uaireanta cuireann nathanna cainte agus meafair mearbhall orm.",
     "Uaireanta ceapann daoine go bhfuilim drochbhéasach cé nach raibh sé i gceist agam.",
-    "Mothaíonn fuaimeanna áirithe gnáth pianmhar go fisiciúil dom.",
+    "Mothaíonn gnáthfhuaimeanna áirithe pianmhar go fisiciúil dom.",
     "Athraím an chaoi a labhraím le daoine éagsúla gan stró.",
     "Is maith liom rudaí a phleanáil go mion roimh ré.",
     "Bíonn sé deacair orm cairdeas a choinneáil ag imeacht le himeacht ama.",
@@ -136,5 +136,5 @@
       "high": "Tugann do fhreagraí le fios go bhfuil rogha láidir agat do ghnáthamh agus d’intuarthacht, suimeanna dírithe dian agus súil ghéar do mhionsonraí agus do phatrúin. Is tréithe tipiciúla de speictream an uathachais iad seo agus is féidir leo a bheith ina bhfíorláidreachtaí, mar shampla in obair speisialaithe. Má chuireann athrú gan choinne an-chuid anacra ort, smaoinigh ar labhairt le gairmí cáilithe a thuigeann an t-uathachas. Is féidir le gnáthaimh intuartha a thógáil agus ullmhú d’aistrithe cabhrú leat mothú go bhfuil níos mó smachta agat."
     }
   },
-  "summary": "Léiríonn an scagthástáil seo cé chomh láidir is a aithníonn tú tréithe atá coitianta ar speictream an uathachais i gceithre réimse. Ciallaíonn scóir níos airde go n-aithníonn tú níos mó de na tréithe seo ionat féin. Faigheann go leor daoine scór ard i réimse amháin amháin, agus ní diagnóis iad na torthaí: ní féidir ach le gairmí cáilithe measúnú a dhéanamh ar uathachas."
+  "summary": "Léiríonn an scagthástáil seo cé chomh láidir is a aithníonn tú tréithe atá coitianta ar speictream an uathachais i gceithre réimse. Ciallaíonn scóir níos airde go n-aithníonn tú níos mó de na tréithe seo ionat féin. Faigheann go leor daoine scór ard i réimse amháin agus sin é, agus ní diagnóis iad na torthaí: ní féidir ach le gairmí cáilithe measúnú a dhéanamh ar uathachas."
 }
