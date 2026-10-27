@@ -23,7 +23,7 @@
     "Rebutjo invitacions abans que em puguin deixar de banda.",
     "Quan demano alguna cosa, em preparo per a un no.",
     "Quan es cancel·len plans, m'ho prenc com una cosa personal.",
-    "Reacciono amb ràbia quan em sento exclòs.",
+    "Reacciono amb ràbia quan em deixen de banda.",
     "Mantinc la gent a distància per protegir-me.",
     "Dono per fet que els nous coneguts no voldran tornar a quedar.",
     "Percebo crítiques fins i tot en comentaris amistosos.",
@@ -37,11 +37,11 @@
     "Quan la gent xiuxiueja, em pregunto si parlen de mi.",
     "Estic a punt de plorar quan algú em menysprea.",
     "No em presento a coses en què em podrien rebutjar.",
-    "Em poso nerviós abans de convidar algú a fer alguna cosa.",
+    "Em neguitejo abans de convidar algú a fer alguna cosa.",
     "M'adono fins i tot del canvi més petit en el to d'algú.",
     "Dic coses de les quals em penedeixo quan sento rebuig.",
     "Trenco les relacions abans que ho pugui fer l'altra persona.",
-    "Crec que la gent em trobarà avorrit quan em conegui.",
+    "Crec que, quan la gent em conegui, li semblaré una persona avorrida.",
     "Un aniversari oblidat em diu que no importo.",
     "Sento vergonya durant dies després d'un rebuig.",
     "Amago les meves opinions per evitar la desaprovació.",
@@ -100,8 +100,8 @@
     "Conèixer gent nova m'omple de por de no caure bé.",
     "El feedback constructiu em sembla un atac personal.",
     "Un sol comentari fred em fa qüestionar tota la relació.",
-    "Em guardo l'afecte per no sortir decebut.",
-    "Em preocupa que ser jo mateix allunyi la gent.",
+    "Em guardo l'afecte per no endur-me cap decepció.",
+    "Em preocupa que mostrar-me tal com soc allunyi la gent.",
     "M'ho prenc com una cosa personal quan algú necessita espai.",
     "Reacciono exageradament quan em deixen de banda i després sento vergonya.",
     "Em salto els esdeveniments on no conec ningú."
@@ -112,27 +112,27 @@
       "short": "Fins a quin punt esperes que els altres et rebutgin o s'allunyin de tu.",
       "low": "Les teves respostes indiquen que en general esperes que els altres siguin oberts i amables amb tu. Sembla que afrontes les peticions, les invitacions i la gent nova amb esperança i no amb temor. Aquesta expectativa positiva sovint s'acaba complint, perquè la gent respon a la calidesa. Mantén-la realista recordant que un no ocasional és normal i diu poca cosa del teu valor. Quan arribi un no, pren-t'ho com una informació sobre el moment o l'encaix, no sobre tu.",
       "mid": "Les teves respostes indiquen que de vegades esperes el rebuig, sobretot en situacions noves o amb persones que t'importen. Potser et prepares per a un no abans de demanar alguna cosa. Abans de fer el pas, prova de pensar en tres resultats possibles, no només en el pitjor. Després, compara el que esperaves amb el que ha passat realment. Amb el temps, això ajuda que les teves expectatives siguin més ajustades i menys temoroses.",
-      "high": "Les teves respostes indiquen que sovint esperes que et rebutgin, que et deixin de banda o que et decebin. Viure amb aquesta expectativa pot fer que la vida social sigui tensa i cansada, i pot condicionar com t'apropes a les amistats, la parella i els companys. Fixa't quan prediu el rebuig i pregunta't quines proves ho sostenen. Recull exemples de moments en què la gent t'ha acollit bé. Si aquestes pors són intenses o afecten el teu benestar, parlar amb un professional qualificat, com un terapeuta, et pot ajudar a sentir més seguretat en les relacions."
+      "high": "Les teves respostes indiquen que sovint esperes que et rebutgin, que et deixin de banda o que et decebin. Viure amb aquesta expectativa pot fer que la vida social sigui tensa i cansada, i pot condicionar com t'apropes a les amistats, la parella i els companys. Fixa't quan predius el rebuig i pregunta't quines proves ho sostenen. Recull exemples de moments en què la gent t'ha acollit bé. Si aquestes pors són intenses o afecten el teu benestar, parlar amb un professional qualificat, com un terapeuta, et pot ajudar a sentir més seguretat en les relacions."
     },
     "perception": {
       "name": "Percebre el rebuig",
       "short": "Amb quina facilitat veus rebuig en situacions neutres o ambigües.",
       "low": "Les teves respostes indiquen que tendeixes a interpretar les situacions amb generositat. Un missatge curt, un pla cancel·lat o una amistat distreta no et semblen fàcilment un rebuig. Això dona aire a les teves relacions. Tot i així, para atenció als senyals reals: si alguna cosa sembla que no va bé durant un temps, és millor preguntar amb amabilitat que ignorar-ho del tot. La teva lectura generosa és un regal per a la gent del teu voltant.",
       "mid": "Les teves respostes indiquen que de vegades interpretes situacions neutres com a senyals de rebuig, sobretot amb cansament o estrès. Quan t'adonis que estàs llegint una cosa en negatiu, fes una pausa i pensa dues explicacions alternatives. Les agendes plenes, els mals dies i les distraccions expliquen molt més del que la gent sol pensar. Si dubtes, pregunta amb delicadesa en lloc de donar-ho per fet. Un simple «Va tot bé entre nosaltres?» normalment dona un alleujament ràpid i sovint mostra que no passava res.",
-      "high": "Les teves respostes indiquen que sovint percebs senyals de rebuig en moments quotidians, com el to, el silenci o una resposta que triga. Estar tan alerta als senyals socials pot ser esgotador i pot portar a ferides que l'altra persona no tenia cap intenció de provocar. Practica comprovar la teva interpretació abans de reaccionar: escriu els fets per separat dels teus pensaments sobre ells. Pregunta directament a la gent quan alguna cosa importi. Si aquest patró et causa un malestar constant, un professional qualificat et pot ajudar a desenvolupar maneres més serenes d'interpretar les situacions socials."
+      "high": "Les teves respostes indiquen que sovint perceps senyals de rebuig en moments quotidians, com el to, el silenci o una resposta que triga. Estar tan alerta als senyals socials pot ser esgotador i pot portar a ferides que l'altra persona no tenia cap intenció de provocar. Practica comprovar la teva interpretació abans de reaccionar: escriu els fets per separat dels teus pensaments sobre ells. Pregunta directament a la gent quan alguna cosa importi. Si aquest patró et causa un malestar constant, un professional qualificat et pot ajudar a desenvolupar maneres més serenes d'interpretar les situacions socials."
     },
     "reaction": {
       "name": "Reacció emocional",
       "short": "Amb quina intensitat respons quan sents rebuig o crítica.",
       "low": "Les teves respostes indiquen que gestiones el rebuig i les crítiques amb força calma. Potser sents decepció, però sembla que et recuperes de pressa i mantens intacte el teu sentit del valor. Aquesta resiliència t'ajuda a arriscar-te i a mantenir les relacions. Continua afavorint-la amb una bona cura de tu i amb persones que t'apreciïn, i permet-te sentir alguna punxada de tant en tant en lloc d'apartar-la del tot.",
       "mid": "Les teves respostes indiquen que de vegades el rebuig t'afecta molt, amb un dolor o una frustració que poden durar. Les teves reaccions són comprensibles, però potser et costen més energia del que voldries. Quan sentis rebuig, dona't una petita pausa abans de respondre, com un passeig o unes quantes respiracions lentes. Posa nom al sentiment. Això crea espai per triar com vols respondre.",
-      "high": "Les teves respostes indiquen que sentir rebuig et pot despertar emocions molt intenses, com un dolor profund, vergonya o ràbia. Aquestes reaccions poden ser doloroses i de vegades poden tensar les teves relacions. No són un defecte de caràcter, i es poden suavitzar. Prova una regla de pausa fixa: espera abans d'enviar missatges quan et sentis ferit. Calmar el cos amb una respiració lenta o amb moviment ajuda. Si les reaccions intenses afecten el teu benestar o les teves relacions, planteja't buscar el suport d'un professional qualificat."
+      "high": "Les teves respostes indiquen que sentir rebuig et pot despertar emocions molt intenses, com un dolor profund, vergonya o ràbia. Aquestes reaccions poden ser doloroses i de vegades poden tensar les teves relacions. No són un defecte de caràcter, i es poden suavitzar. Prova una regla de pausa fixa: espera abans d'enviar missatges quan sentis dolor. Calmar el cos amb una respiració lenta o amb moviment ajuda. Si les reaccions intenses afecten el teu benestar o les teves relacions, planteja't buscar el suport d'un professional qualificat."
     },
     "avoidance": {
       "name": "Evitació",
       "short": "Fins a quin punt et contens o et retires per protegir-te del rebuig.",
-      "low": "Les teves respostes indiquen que estàs disposat a córrer riscos socials. Sembla que t'apropes als altres, comparteixes sentiments i aprofites oportunitats encara que potser no surtin bé. Aquesta obertura t'ajuda a construir relacions properes i a créixer. Continua equilibrant-la amb un bon criteri sobre a qui confies les coses personals, perquè la teva obertura es trobi amb respecte. El teu coratge també pot animar els altres a obrir-se.",
-      "mid": "Les teves respostes indiquen que de vegades et contens per protegir-te, per exemple callant, no demanant o esperant que els altres facin el primer pas. Això et pot mantenir segur en el moment, però també limita la connexió. Tria un petit risc social cada setmana, com convidar algú a un cafè o compartir una opinió sincera. Fixa't que la majoria de resultats són millors del que temies.",
+      "low": "Les teves respostes indiquen que corres riscos socials de bon grat. Sembla que t'apropes als altres, comparteixes sentiments i aprofites oportunitats encara que potser no surtin bé. Aquesta obertura t'ajuda a construir relacions properes i a créixer. Continua equilibrant-la amb un bon criteri sobre a qui confies les coses personals, perquè la teva obertura es trobi amb respecte. El teu coratge també pot animar els altres a obrir-se.",
+      "mid": "Les teves respostes indiquen que de vegades et contens per protegir-te, per exemple callant, no demanant o esperant que els altres facin el primer pas. Això et pot protegir en el moment, però també limita la connexió. Tria un petit risc social cada setmana, com convidar algú a un cafè o compartir una opinió sincera. Fixa't que la majoria de resultats són millors del que temies.",
       "high": "Les teves respostes indiquen que sovint evites les situacions en què podria haver-hi rebuig. Mantenir la distància pot semblar més segur, però pot portar a la solitud i a perdre oportunitats. Comença amb passos petits i de poc risc, com enviar un missatge amable o apuntar-te a una activitat de grup amb una estructura clara. Celebra el coratge, sigui quin sigui el resultat. Si l'evitació limita molt la teva vida social o el teu benestar, un professional qualificat et pot ajudar a guanyar confiança pas a pas."
     }
   },
