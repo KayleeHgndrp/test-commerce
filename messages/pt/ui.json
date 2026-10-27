@@ -12,15 +12,15 @@
   },
   "home": {
     "badge": "{count} testes · {languages} idiomas",
-    "heroTitle": "Os testes que revelam a sua",
+    "heroTitle": "Os testes que revelam a tua",
     "heroHighlight": "personalidade",
-    "heroSubtitle": "Testes aprofundados sobre personalidade, relações e bem-estar, cada um baseado em investigação psicológica reconhecida e explicado numa linguagem tão clara que vai mesmo lê-lo até ao fim.",
-    "heroCta": "Explorar os nossos testes",
+    "heroSubtitle": "Testes aprofundados sobre personalidade, relações e bem-estar, cada um baseado em investigação psicológica reconhecida e explicado numa linguagem tão clara que vais mesmo lê-lo até ao fim.",
+    "heroCta": "Explora os nossos testes",
     "heroSecondary": "Como funciona",
     "trust1": "Sem necessidade de conta",
     "trust2": "Pagamento único, sem subscrição",
-    "trust3": "Relatório diretamente no seu e-mail",
-    "dimensionsTitle": "É muito mais do que uma pontuação: descubra todas as suas facetas.",
+    "trust3": "Relatório diretamente no teu e-mail",
+    "dimensionsTitle": "És muito mais do que uma pontuação: descobre todas as tuas facetas.",
     "dimensionsSubtitle": "As áreas que os nossos testes medem com mais frequência, da personalidade às relações e ao bem-estar.",
     "dimensions": [
       "🎯 Concentração",
@@ -33,21 +33,21 @@
       "🪞 Autoconhecimento",
       "🛡️ Resiliência"
     ],
-    "testsTitle": "Escolha o seu teste",
-    "testsSubtitle": "Todos os testes são gratuitos. Escolha o que mais lhe diz.",
+    "testsTitle": "Escolhe o teu teste",
+    "testsSubtitle": "Todos os testes são gratuitos. Escolhe o que mais te diz.",
     "howTitle": "Da primeira pergunta ao relatório completo em três passos",
     "steps": [
       {
-        "title": "Escolha um teste",
-        "text": "Escolha na nossa biblioteca de testes de personalidade, relações e rastreio, todos baseados em modelos psicológicos reconhecidos."
+        "title": "Escolhe um teste",
+        "text": "Escolhe na nossa biblioteca de testes de personalidade, relações e rastreio, todos baseados em modelos psicológicos reconhecidos."
       },
       {
-        "title": "Faça o teste",
-        "text": "Responda a 100 perguntas numa escala simples. A maioria dos testes demora cerca de 5 minutos e o seu progresso fica guardado."
+        "title": "Faz o teste",
+        "text": "Responde a 100 perguntas numa escala simples. A maioria dos testes demora cerca de 5 minutos e o teu progresso fica guardado."
       },
       {
-        "title": "Leia o seu relatório",
-        "text": "Receba um relatório pessoal com as suas pontuações, o que significam e dicas práticas, diretamente no seu e-mail."
+        "title": "Lê o teu relatório",
+        "text": "Recebe um relatório pessoal com as tuas pontuações, o que significam e dicas práticas, diretamente no teu e-mail."
       }
     ],
     "pricingTitle": "Preços simples",
@@ -58,40 +58,40 @@
       "Todos os {count} testes, gratuitos",
       "100 perguntas, cerca de 5 minutos",
       "Progresso guardado automaticamente",
-      "Pré-visualização imediata das suas áreas de resultado"
+      "Pré-visualização imediata das tuas áreas de resultado"
     ],
     "planReportName": "Relatório completo",
     "planReportPrice": "{price}",
     "planReportPer": "pagamento único, por teste",
     "planReportFeatures": [
-      "A sua pontuação em cada dimensão",
+      "A tua pontuação em cada dimensão",
       "Interpretação pessoal de cada pontuação",
-      "Dicas práticas para aplicar de imediato",
-      "No seu e-mail em poucos minutos",
+      "Dicas práticas para aplicares de imediato",
+      "No teu e-mail em poucos minutos",
       "Sem subscrição nem renovação automática"
     ],
-    "planCta": "Experimentar agora",
+    "planCta": "Experimenta agora",
     "faqTitle": "Perguntas frequentes",
     "faq": [
       {
         "q": "O que é o {site}?",
-        "a": "O {site} é uma plataforma online com autotestes aprofundados sobre personalidade, relações, trabalho e bem-estar. Pode fazer todos os testes gratuitamente e encomendar um relatório pessoal detalhado se quiser saber mais."
+        "a": "O {site} é uma plataforma online com autotestes aprofundados sobre personalidade, relações, trabalho e bem-estar. Podes fazer todos os testes gratuitamente e encomendar um relatório pessoal detalhado se quiseres saber mais."
       },
       {
         "q": "Quanto custa um teste?",
-        "a": "Fazer um teste é gratuito. O relatório pessoal detalhado custa {price}, num único pagamento. Não há subscrição e nunca lhe será cobrado nada automaticamente outra vez."
+        "a": "Fazer um teste é gratuito. O relatório pessoal detalhado custa {price}, num único pagamento. Não há subscrição e nunca te será cobrado nada automaticamente outra vez."
       },
       {
         "q": "Como recebo o meu relatório?",
-        "a": "Após o pagamento, o seu relatório é enviado para o endereço de e-mail que indicou, normalmente em menos de um minuto. Não o encontra? Verifique a pasta de spam ou de promoções."
+        "a": "Após o pagamento, o teu relatório é enviado para o endereço de e-mail que indicaste, normalmente em menos de um minuto. Não o encontras? Verifica a pasta de spam ou de promoções."
       },
       {
         "q": "Posso repetir um teste?",
-        "a": "Sim, quantas vezes quiser. Repetir um teste ao fim de algumas semanas é uma boa forma de ver o que mudou. Cada relatório é uma compra única e independente."
+        "a": "Sim, quantas vezes quiseres. Repetir um teste ao fim de algumas semanas é uma boa forma de veres o que mudou. Cada relatório é uma compra única e independente."
       },
       {
         "q": "Isto é um diagnóstico médico?",
-        "a": "Não. Os nossos testes destinam-se à autorreflexão. Os testes de rastreio, como o de PHDA ou de depressão, podem indicar se faz sentido falar com um profissional, mas nunca substituem a avaliação de um profissional qualificado."
+        "a": "Não. Os nossos testes destinam-se à autorreflexão. Os testes de rastreio, como o de PHDA ou de depressão, podem indicar se faz sentido falares com um profissional, mas nunca substituem a avaliação de um profissional qualificado."
       },
       {
         "q": "Como foram criados estes testes?",
@@ -99,18 +99,15 @@
       },
       {
         "q": "Os resultados podem não ser fiáveis?",
-        "a": "Qualquer questionário tem uma margem de erro, e o seu estado de espírito no dia também pode influenciar. Responda com honestidade e sem pensar demasiado, e veja o seu resultado como um ponto de partida para reflexão e não como um veredicto final."
+        "a": "Qualquer questionário tem uma margem de erro, e o teu estado de espírito no dia também pode influenciar. Responde com honestidade e sem pensar demasiado, e vê o teu resultado como um ponto de partida para reflexão e não como um veredicto final."
       },
       {
         "q": "Os meus dados ficam privados?",
-        "a": "Sim. Não precisa de conta. As suas respostas são usadas apenas para calcular o resultado e criar o relatório, e nunca vendemos os seus dados."
+        "a": "Sim. Não precisas de conta. As tuas respostas são usadas apenas para calcular o resultado e criar o relatório, e nunca vendemos os teus dados."
       }
     ],
-    "ctaTitle": "Pronto para descobrir mais sobre si?",
-    "ctaButton": "Explorar os nossos testes",
-    "allTests": "Todos os testes",
-    "previous": "Anterior",
-    "next": "Seguinte"
+    "ctaTitle": "Pronto para descobrires mais sobre ti?",
+    "ctaButton": "Explora os nossos testes"
   },
   "categories": {
     "personality": "Personalidade e tipo",
@@ -123,33 +120,27 @@
     "start": "Começar o teste",
     "questions": "{count} perguntas",
     "minutes": "{count} min",
+    "free": "Grátis",
     "aboutTitle": "Sobre este teste",
-    "whatYouGet": "O que inclui o seu relatório",
-    "whatYouGet1": "A sua pontuação em cada dimensão: {dimensions}",
+    "whatYouGet": "O que inclui o teu relatório",
+    "whatYouGet1": "A tua pontuação em cada dimensão: {dimensions}",
     "whatYouGet2": "Uma interpretação pessoal de cada pontuação",
-    "whatYouGet3": "Dicas práticas para aplicar de imediato",
+    "whatYouGet3": "Dicas práticas para aplicares de imediato",
     "otherTests": "Outros testes populares",
+    "question": "Pergunta {current} de {total}",
     "back": "Voltar",
     "next": "Seguinte",
     "finish": "Ver os meus resultados",
-    "resume": "Tem um teste por terminar. Quer continuar onde ficou?",
+    "chooseAnswer": "Escolhe a resposta que melhor se aplica a ti.",
+    "resume": "Tens um teste por terminar. Queres continuar onde ficaste?",
     "resumeYes": "Continuar",
     "resumeNo": "Recomeçar",
     "genderTitle": "Primeiro, uma pergunta rápida",
-    "genderQuestion": "Qual é o seu género?",
+    "genderQuestion": "Qual é o teu género?",
     "genderMale": "Masculino",
     "genderFemale": "Feminino",
     "genderOther": "Outro / prefiro não dizer",
-    "screenerNote": "Este teste é uma ferramenta de rastreio, não um diagnóstico.",
-    "step": "Passo {current} de {total}",
-    "instructions": {
-      "agree": "Escolha em que medida cada afirmação o descreve.",
-      "frequency": "Escolha com que frequência cada afirmação se aplica a si.",
-      "phq": "Nas últimas duas semanas, com que frequência foi incomodado pelos seguintes problemas?",
-      "intensity": "No último mês, quanto foi incomodado pelos seguintes problemas?"
-    },
-    "unanswered": "Responda a todas as afirmações desta página para continuar.",
-    "tryNow": "Experimentar"
+    "screenerNote": "Este teste é uma ferramenta de rastreio, não um diagnóstico."
   },
   "scales": {
     "agree": [
@@ -186,84 +177,84 @@
     "high": "Alto"
   },
   "result": {
-    "title": "Os seus resultados estão prontos",
-    "subtitle": "Concluiu o teste «{test}». Desbloqueie o seu relatório pessoal completo para ver as suas pontuações e o que significam.",
-    "mainType": "O seu tipo principal",
+    "title": "Os teus resultados estão prontos",
+    "subtitle": "Concluíste o teste «{test}». Desbloqueia o teu relatório pessoal completo para veres as tuas pontuações e o que significam.",
+    "mainType": "O teu tipo principal",
     "locked": "Bloqueado",
-    "unlockTitle": "Obtenha o seu relatório completo",
-    "unlockText": "O seu relatório detalhado com todas as pontuações, interpretações pessoais e dicas práticas, enviado para o seu e-mail.",
+    "unlockTitle": "Obtém o teu relatório completo",
+    "unlockText": "O teu relatório detalhado com todas as pontuações, interpretações pessoais e dicas práticas, enviado para o teu e-mail.",
     "emailLabel": "Endereço de e-mail",
     "emailPlaceholder": "nome@exemplo.pt",
     "consent": "Aceito os termos e a política de privacidade.",
     "buy": "Obter o meu relatório por {price}",
     "secure": "Pagamento seguro através da Stripe. Pagamento único, sem subscrição.",
-    "invalidEmail": "Introduza um endereço de e-mail válido.",
-    "consentRequired": "Aceite os termos para continuar.",
-    "error": "Ocorreu um erro. Tente novamente.",
-    "noAnswers": "Não encontrámos as suas respostas. Faça primeiro o teste.",
+    "invalidEmail": "Introduz um endereço de e-mail válido.",
+    "consentRequired": "Aceita os termos para continuar.",
+    "error": "Ocorreu um erro. Tenta novamente.",
+    "noAnswers": "Não encontrámos as tuas respostas. Faz primeiro o teste.",
     "takeTest": "Fazer o teste",
-    "crisisTitle": "Não está sozinho",
-    "crisisText": "Indicou que teve pensamentos de que estaria melhor morto ou de se magoar. Por favor, fale hoje com alguém. Se estiver em perigo imediato, ligue 112. Também pode contactar a qualquer hora uma linha de apoio em crise no seu país, como as que estão listadas em findahelpline.com.",
-    "crisisLink": "Encontre uma linha de apoio perto de si"
+    "crisisTitle": "Não estás sozinho",
+    "crisisText": "Indicaste que tiveste pensamentos de que estarias melhor morto ou de te magoares. Por favor, fala hoje com alguém. Se estiveres em perigo imediato, liga 112. Também podes contactar a qualquer hora uma linha de apoio em crise no teu país, como as que estão listadas em findahelpline.com.",
+    "crisisLink": "Encontra uma linha de apoio perto de ti"
   },
   "thanks": {
-    "title": "Obrigado pela sua compra!",
-    "text": "O seu relatório pessoal está a caminho do seu e-mail. Normalmente chega em menos de um minuto.",
-    "spam": "Não o recebeu após 10 minutos? Verifique a pasta de spam ou de promoções, ou contacte-nos através de {email}.",
+    "title": "Obrigado pela tua compra!",
+    "text": "O teu relatório pessoal está a caminho do teu e-mail. Normalmente chega em menos de um minuto.",
+    "spam": "Não o recebeste após 10 minutos? Verifica a pasta de spam ou de promoções, ou contacta-nos através de {email}.",
     "more": "Descobrir mais testes"
   },
   "report": {
-    "subject": "O seu relatório: {test}",
+    "subject": "O teu relatório: {test}",
     "greeting": "Olá,",
-    "intro": "Obrigado por ter feito o teste «{test}» no {site}. Aqui está o seu relatório pessoal.",
-    "scoreLabel": "A sua pontuação",
-    "outro": "Esperamos que este relatório lhe traga ideias úteis. Tem curiosidade sobre outros aspetos de si? Descubra todos os nossos testes em {url}.",
+    "intro": "Obrigado por teres feito o teste «{test}» no {site}. Aqui está o teu relatório pessoal.",
+    "scoreLabel": "A tua pontuação",
+    "outro": "Esperamos que este relatório te traga ideias úteis. Tens curiosidade sobre outros aspetos de ti? Descobre todos os nossos testes em {url}.",
     "signature": "A equipa {site}",
     "instrumentLabel": "{name}: {score} de {max}",
-    "typeLabel": "O seu tipo"
+    "typeLabel": "O teu tipo"
   },
   "footer": {
-    "tagline": "Conheça-se melhor",
+    "tagline": "Conhece-te melhor",
     "about": "Autotestes aprofundados para quem quer mais do que um rótulo de quatro letras.",
     "company": "Empresa",
     "home": "Início",
     "help": "Ajuda",
-    "contact": "Contacte-nos",
+    "contact": "Contacta-nos",
     "legal": "Informação legal",
     "privacy": "Política de privacidade",
     "terms": "Termos e condições",
     "cookies": "Política de cookies",
     "refund": "Política de reembolso",
     "rights": "© {year} {site}. Todos os direitos reservados.",
-    "disclaimer": "O {site} não é um serviço médico. Para questões clínicas, consulte um profissional de saúde habilitado."
+    "disclaimer": "O {site} não é um serviço médico. Para questões clínicas, consulta um profissional de saúde habilitado."
   },
   "legal": {
     "privacyTitle": "Política de privacidade",
     "privacyBody": [
-      "Recolhemos apenas os dados necessários para prestar o nosso serviço: as suas respostas aos testes e, se comprar um relatório, o seu endereço de e-mail.",
-      "As suas respostas são tratadas para calcular o seu resultado. Quando compra um relatório, as suas respostas e o seu endereço de e-mail são transmitidos ao nosso prestador de pagamentos, a Stripe, e ao nosso prestador de e-mail, para processar o pagamento e entregar o relatório.",
-      "Não vendemos os seus dados nem os usamos para publicidade. Pode pedir-nos a qualquer momento que eliminemos os seus dados, contactando {email}.",
-      "Os pagamentos são processados pela Stripe. Nunca vemos nem guardamos os dados do seu cartão."
+      "Recolhemos apenas os dados necessários para prestar o nosso serviço: as tuas respostas aos testes e, se comprares um relatório, o teu endereço de e-mail.",
+      "As tuas respostas são tratadas para calcular o teu resultado. Quando compras um relatório, as tuas respostas e o teu endereço de e-mail são transmitidos ao nosso prestador de pagamentos, a Stripe, e ao nosso prestador de e-mail, para processar o pagamento e entregar o relatório.",
+      "Não vendemos os teus dados nem os usamos para publicidade. Podes pedir-nos a qualquer momento que eliminemos os teus dados, contactando {email}.",
+      "Os pagamentos são processados pela Stripe. Nunca vemos nem guardamos os dados do teu cartão."
     ],
     "termsTitle": "Termos de serviço",
     "termsBody": [
       "Todos os testes do {site} destinam-se à autorreflexão e ao entretenimento. Não constituem um diagnóstico médico, psicológico ou profissional.",
       "Fazer um teste é gratuito. Um relatório pessoal custa {price} por teste, num único pagamento. O relatório é entregue em formato digital por e-mail.",
-      "Uma vez que o relatório é um conteúdo digital fornecido imediatamente após o pagamento, aceita que o seu direito de livre resolução cessa assim que o relatório for enviado. Se não recebeu o seu relatório, contacte {email} e voltaremos a enviá-lo ou reembolsá-lo-emos.",
+      "Uma vez que o relatório é um conteúdo digital fornecido imediatamente após o pagamento, aceitas que o teu direito de livre resolução cessa assim que o relatório for enviado. Se não recebeste o teu relatório, contacta {email} e voltaremos a enviá-lo ou reembolsar-te-emos.",
       "Fazemos o possível para manter o conteúdo correto, mas não podemos garantir que os resultados sejam completos ou corretos para todas as pessoas."
     ],
     "cookiesTitle": "Política de cookies",
     "cookiesBody": [
       "O {site} não utiliza cookies de publicidade nem de rastreamento.",
-      "Guardamos no seu navegador apenas os dados estritamente necessários: o idioma escolhido e o seu progresso num teste, para que possa continuar onde ficou. Estes dados permanecem no seu dispositivo.",
-      "Quando paga, o nosso prestador de pagamentos, a Stripe, pode instalar cookies necessários para processar o pagamento em segurança e prevenir fraudes.",
-      "Dúvidas? Contacte-nos através de {email}."
+      "Guardamos no teu navegador apenas os dados estritamente necessários: o idioma escolhido e o teu progresso num teste, para que possas continuar onde ficaste. Estes dados permanecem no teu dispositivo.",
+      "Quando pagas, o nosso prestador de pagamentos, a Stripe, pode instalar cookies necessários para processar o pagamento em segurança e prevenir fraudes.",
+      "Dúvidas? Contacta-nos através de {email}."
     ],
     "refundTitle": "Política de reembolso",
     "refundBody": [
       "Um relatório custa {price} por teste, num único pagamento. Não há subscrição nem renovação automática.",
-      "Não recebeu o seu relatório ou algo correu mal? Contacte {email} no prazo de 14 dias, indicando o endereço de e-mail que utilizou, e voltaremos a enviar o seu relatório ou reembolsaremos o seu pagamento.",
-      "Uma vez que o relatório é um conteúdo digital entregue de imediato, o direito legal de livre resolução cessa assim que for enviado. Ainda assim, ajudá-lo-emos sempre se algo não estiver bem.",
+      "Não recebeste o teu relatório ou algo correu mal? Contacta {email} no prazo de 14 dias, indicando o endereço de e-mail que utilizaste, e voltaremos a enviar o teu relatório ou reembolsaremos o teu pagamento.",
+      "Uma vez que o relatório é um conteúdo digital entregue de imediato, o direito legal de livre resolução cessa assim que for enviado. Ainda assim, ajudar-te-emos sempre se algo não estiver bem.",
       "Os reembolsos são feitos para o método de pagamento original no prazo de 5 a 10 dias úteis."
     ]
   }
