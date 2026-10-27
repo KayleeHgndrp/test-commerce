@@ -1,0 +1,206 @@
+{
+  "name": "16 personības tipu tests",
+  "tagline": "Atrodi savu četru burtu tipu un uzzini, ko tas par tevi stāsta.",
+  "intro": "Šis tests izvieto tevi uz četrām priekšrocību skalām: no kurienes tu smelies enerģiju, kā uztver informāciju, kā pieņem lēmumus un kā organizē savu dzīvi. Tavas četras priekšrocības apvienojas vienā no 16 personības tipiem. Novērtē 100 īsus apgalvojumus; tas aizņem apmēram piecas minūtes.",
+  "seoTitle": "16 personības tipu tests – bezmaksas četru burtu tips",
+  "seoDescription": "Atklāj savu četru burtu personības tipu 5 minūtēs. Redzi savas priekšrocības katrā skalā un izlasi sava tipa portretu ar praktiskiem padomiem.",
+  "items": [
+    "Vislabāk domāju, kad izrunāju idejas ar citiem.",
+    "Bieži domāju par to, ko varētu nest nākotne.",
+    "Lēmumus pieņemu, vispirms balstoties uz loģiku.",
+    "Man patīk atstāt iespējas vaļā.",
+    "Faktiem uzticos vairāk nekā nojautām.",
+    "Pēc kopā būšanas ar cilvēkiem man vajag laiku vienatnē, lai atjaunotu spēkus.",
+    "Man patīk, ka mana diena ir saplānota.",
+    "Izsveru, kā manas izvēles ietekmēs citu jūtas.",
+    "Iepazīšanās ar jauniem cilvēkiem man dod enerģiju.",
+    "Man patīk atklāt slēptas likumsakarības un nozīmes.",
+    "Godīgumu vērtēju augstāk par taktu.",
+    "Man patīk izlemt lietas acumirklī.",
+    "Pamanu sīkas detaļas, ko citi palaiž garām.",
+    "Vienu dziļu sarunu vērtēju augstāk par daudzām vieglām.",
+    "Jūtu atvieglojumu, kad lēmums ir pieņemts.",
+    "Miera saglabāšana man ir svarīga.",
+    "Man patīk strādāt atvērtā, rosīgā telpā.",
+    "Ikdienišķas detaļas mani garlaiko.",
+    "Risinot konfliktu, spēju saglabāt distanci.",
+    "Vislabāk strādāju pēdējā brīža spiedienā.",
+    "Dodu priekšroku norādījumiem soli pa solim.",
+    "Pārdomāju lietas, pirms tās izsaku.",
+    "Pabeidzu uzdevumus krietni pirms termiņa.",
+    "Lēmumus pieņemu vairāk ar sirdi nekā ar prātu.",
+    "Ātri iesaistos sarunā.",
+    "Uzticos savai nojautai par iespējām.",
+    "Man patīk objektīvi analizēt plusus un mīnusus.",
+    "Stingri grafiki man šķiet ierobežojoši.",
+    "Koncentrējos uz to, kas notiek tieši tagad.",
+    "Kluss vakars mājās ir mans ideāls.",
+    "Man patīk zināt, ko gaidīt.",
+    "Man ir grūti kritizēt cilvēkus, kuri man patīk.",
+    "Cilvēku sabiedrība uzlādē manas baterijas.",
+    "Man patīk iztēloties, kā lietas varētu būt citādi.",
+    "Noteikumiem jāattiecas uz visiem vienādi.",
+    "Bieži vienlaikus žonglēju ar vairākiem projektiem.",
+    "Man patīk idejas ar skaidru praktisku pielietojumu.",
+    "Paturu savas domas pie sevis, līdz tās kļūst skaidras.",
+    "Veidoju sarakstus un pie tiem turos.",
+    "Kāda cita stāsts mani viegli aizkustina.",
+    "Man patīk plašs draugu loks.",
+    "Bieži lasu starp rindām.",
+    "Nevilcinoties norādu uz plānu trūkumiem.",
+    "Man patīk redzēt, kurp mani aizvedīs diena.",
+    "Labi atceros konkrētus faktus un skaitļus.",
+    "Pūļi mani ātri nogurdina.",
+    "Dodu priekšroku plānus nokārtot laikus.",
+    "Cilvēkiem grūtās situācijās pieļauju izņēmumus.",
+    "Bieži dalos domās, tiklīdz tās rodas.",
+    "Teorijas man patīk vairāk nekā praktisks darbs.",
+    "Mani pārliecina argumenti, nevis emocijas.",
+    "Viegli mainu plānus, kad parādās kaut kas labāks.",
+    "Vislabāk mācos, darot lietas praktiski.",
+    "Dodu priekšroku strādāt vienatnē, nevis komandā.",
+    "Nepabeigtas lietas man rada nemieru.",
+    "Gribu, lai lēmumā visi justos iekļauti.",
+    "Plāniem pārpildītas nedēļas nogales mani iepriecina.",
+    "Man patīk runāt metaforās un tēlos.",
+    "Man svarīgāk ir, lai man būtu taisnība, nekā patikt.",
+    "Atlieku lēmumus, līdz tie ir jāpieņem.",
+    "Dodu priekšroku pārbaudītām metodēm, nevis nepārbaudītām.",
+    "Grupās ļauju runāt citiem.",
+    "Uzturu savu kalendāru aktuālu.",
+    "Spriedze grupā mani dziļi ietekmē.",
+    "Pārāk ilgi vienatnē mani pārņem nemiers.",
+    "Ātri pārlecu uz kopainu.",
+    "Taisnīgums man nozīmē konsekvenci.",
+    "Sāku daudzas lietas un pabeidzu tās vēlāk.",
+    "Aprakstu lietas burtiski un precīzi.",
+    "Labāk rakstu īsziņu, nekā zvanu.",
+    "Man patīk pabeigt vienu uzdevumu, pirms sāku nākamo.",
+    "Laipnība man ir svarīgāka par pareizību.",
+    "Man patīk pasākumos sarunāties ar daudziem.",
+    "Jaunas idejas mani saista vairāk nekā praktiski fakti.",
+    "Man ir viegli sniegt kritisku atgriezenisko saiti.",
+    "Somu sakravāju pašā pēdējā brīdī.",
+    "Pirms kaut kam noticu, gribu redzēt pierādījumus.",
+    "Man ir neliels tuvu draugu loks.",
+    "Mani kaitina, kad plāni mainās pēdējā brīdī.",
+    "Kritiku par savu darbu bieži uztveru personīgi.",
+    "Viegli uzsāku tērzēšanu ar nepazīstamiem cilvēkiem.",
+    "Bieži izlaižu instrukcijas un visu izdomāju patstāvīgi.",
+    "Man patīk debatēt, lai pārbaudītu idejas.",
+    "Dienas bez noteikta plāna man šķiet atbrīvojošas.",
+    "Man patīk uzdevumi ar konkrētiem, redzamiem rezultātiem.",
+    "Gara sanāksmju diena mani iztukšo.",
+    "Dodu priekšroku skaidrai struktūrai savā darbā.",
+    "Uzticos savām vērtībām, lai tās vadītu manas izvēles.",
+    "Dodu priekšroku prāta vētrai grupā, nevis domāšanai vienatnē.",
+    "Mani vilina viss jaunais un nepārbaudītais.",
+    "Risinājumu vērtēju pēc tā, cik labi tas darbojas.",
+    "Pielāgoju savus plānus savam garastāvoklim.",
+    "Problēmu risināšanā paļaujos uz savu iepriekšējo pieredzi.",
+    "Cilvēkiem sākumā reizēm ir grūti mani izprast.",
+    "Savus atvaļinājumus organizēju krietni laikus.",
+    "Labāk iedrošinu, nekā kritizēju.",
+    "Parasti esmu starp pirmajiem, kas izsakās.",
+    "Vairāk uzmanības pievēršu tagadnei nekā nākotnei.",
+    "Darbā kompetenci vērtēju augstāk par draudzīgumu.",
+    "Man patīk ātri nokārtot nepabeigtās lietas."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Ekstraversija pret introversiju",
+      "short": "Vai tu enerģiju smelies galvenokārt no ārējās pasaules – cilvēkiem un darbības (E) – vai no savas iekšējās domu un pārdomu pasaules (I).",
+      "low": "Tu sliecies uz introversiju (I). Tu atjauno spēkus klusumā, padomā, pirms runā, un vienu dziļu sarunu vērtē augstāk par daudzām īsām. Bieži tu apstrādā idejas sevī un dalies tajās, kad tās ir pilnībā izveidojušās. Aizņemtas sabiedriskās dienas tevi var nogurdināt, pat ja tās tev patika. Padoms: pēc intensīviem saviesīgiem pasākumiem ieplāno atgūšanās laiku un uztver to kā apkopi, nevis izvairīšanos. Grupās sagatavo savu ieguldījumu iepriekš vai pēc tam papildini rakstiski, lai tavas idejas tiktu sadzirdētas.",
+      "mid": "Tu atrodies tuvu vidum starp ekstraversiju un introversiju, tāpēc tavs burts var mainīties atkarībā no noskaņojuma vai situācijas. Tev patīk sabiedrība un aktivitāte, tomēr tev vajag arī laiku vienatnē, lai atjaunotu spēkus. Atkarībā no uzdevuma tu vari domāt skaļi kopā ar citiem vai klusi pārdomāt. Padoms: vēro savu enerģiju pēc dažāda veida dienām. Izmanto šīs zināšanas, lai veidotu nedēļas ritmu, kas apvieno saskarsmi ar klusu laiku tev piemērotās proporcijās.",
+      "high": "Tu sliecies uz ekstraversiju (E). Tu smelies enerģiju no cilvēkiem, sarunām un aktivitātēm un bieži vislabāk domā, lietas izrunājot. Tu ātri iesaisties, esi viegli pieejams un grupās jūties ērti. Ilgi periodi vienatnē tevi var padarīt nemierīgu. Padoms: pirms reaģē diskusijā, ietur īsu pauzi un vispirms uzdod vienu jautājumu; tas dod vietu klusākiem cilvēkiem un uzasina tavu domāšanu. Ieplāno īsus pārdomu brīžus, lai apstrādātu piedzīvoto."
+    },
+    "sensing": {
+      "name": "Maņas pret intuīciju",
+      "short": "Vai tu galvenokārt koncentrējies uz konkrētiem faktiem, detaļām un pieredzi (S) vai uz likumsakarībām, iespējām un kopainu (N).",
+      "low": "Tu sliecies uz intuīciju (N). Tu dabiski meklē jēgu, likumsakarības un nākotnes iespējas, un tev patīk idejas, teorijas un iztēle par to, kas varētu būt. Ikdienišķas detaļas tevi var garlaikot, un reizēm tu izlaid soļus, lai nonāktu pie kopainas. Padoms: daloties savā vīzijā, pievieno konkrētus piemērus un nākamos soļus, lai citi varētu tev sekot. Pirms apņemies, palūdz detaļām orientētam kolēģim pārbaudīt tavus plānus, vai tajos nav praktisku robu.",
+      "mid": "Tu atrodies tuvu vidum starp maņām un intuīciju, tāpēc tavs burts dažādās situācijās var atšķirties. Tu vari strādāt ar cietiem faktiem un detaļām, bet tev patīk arī pētīt idejas un iespējas. Tas ļauj tev būt tiltam starp praktiskiem cilvēkiem un vizionāriem. Padoms: pamani, kurš režīms tev ir noklusējuma režīms spiediena apstākļos. Svarīgos lēmumos apzināti pārbaudi abus: ko saka fakti un kuras jaunas iespējas varētu būt vērts apsvērt?",
+      "high": "Tu sliecies uz maņām (S). Tu uzticies faktiem, pieredzei un tam, ko vari redzēt un pārbaudīt. Tu pamani detaļas, dod priekšroku skaidriem norādījumiem un tev patīk idejas ar praktisku pielietojumu. Cilvēki paļaujas uz tavu reālismu un precizitāti. Padoms: kad citi dalās abstraktās idejās, dod tām brīdi, pirms vērtē to praktiskumu; dažas var izaugt par ko noderīgu. Reizēm pamēģini iztēloties, kurp kāda tendence varētu aizvest pēc pieciem gadiem, lai paplašinātu savu skatījumu."
+    },
+    "thinking": {
+      "name": "Domāšana pret jušanu",
+      "short": "Vai tu lēmumus pieņem galvenokārt ar loģiku un objektīvu analīzi (T) vai balstoties uz personīgām vērtībām un ietekmi uz cilvēkiem (F).",
+      "low": "Tu sliecies uz jušanu (F). Tu pieņem lēmumus, izsverot vērtības, attiecības un to, kā tas ietekmēs cilvēkus. Tu novērtē harmoniju, laipnību un ātri sajūti, kas citiem vajadzīgs. Cilvēki bieži jūtas tevis saprasti. Padoms: kad lēmums ir grūts, pieraksti arī objektīvos plusus un mīnusus; tas var palīdzēt vieglāk izskaidrot savu izvēli. Atceries, ka godīga atgriezeniskā saite, sirsnīgi pasniegta, arī ir rūpju veids.",
+      "mid": "Tu atrodies tuvu vidum starp domāšanu un jušanu, tāpēc tavs burts dažādās situācijās var atšķirties. Pieņemot lēmumus, tu izsver gan loģiku, gan ietekmi uz cilvēkiem, kas palīdz atrast taisnīgus, līdzsvarotus risinājumus. Padoms: pamani, vai darbā tu balsties uz loģiku, bet mājās uz jūtām, vai otrādi. Svarīgos lēmumos apzināti pārbaudi abus: vai tas ir pamatoti un vai tas ir taisnīgi pret iesaistītajiem cilvēkiem?",
+      "high": "Tu sliecies uz domāšanu (T). Tu lem ar loģiku, konsekvenci un objektīvu analīzi. Taisnīgumu tu saproti kā vienādu noteikumu piemērošanu visiem, un tu vari sniegt skarbu atgriezenisko saiti, neļaujoties emocijām. Padoms: pirms dalies kritikā, atzīsti pūles vai nodomu aiz kāda darba. Pajautā, kā lēmums šķitīs tiem, kurus tas skar; tas bieži uzlabo pieņemšanu, nevājinot tavu argumentāciju."
+    },
+    "judging": {
+      "name": "Spriešana pret uztveri",
+      "short": "Vai tu dod priekšroku plānotai, izlemtai un strukturētai dzīvei (J) vai elastīgai, atvērtai un spontānai (P).",
+      "low": "Tu sliecies uz uztveri (P). Tev patīk atstāt iespējas vaļā, pielāgoties pa ceļam un izlemt tad, kad tas ir nepieciešams. Bieži tu strādā enerģijas uzplūdos un stingros grafikos jūties kā ierāmēts. Tas tevi padara elastīgu un atjautīgu, kad plāni mainās. Padoms: izmanto vieglu struktūru būtiskākajam, piemēram, vienu termiņu atgādinājumu sistēmu. Sadali lielus projektus mazos starpposmos, lai pēdējā brīža steiga nekļūtu stresaina.",
+      "mid": "Tu atrodies tuvu vidum starp spriešanu un uztveri, tāpēc tavs burts var mainīties. Tev patīk plāns, bet tu viegli no tā atkāpies, kad parādās kaut kas labāks. Tu vari ievērot termiņus un tomēr baudīt spontanitāti. Padoms: pamani, kur nedaudz vairāk plānošanas mazinātu stresu, piemēram, ceļojumos vai naudas lietās, un kur vairāk elastības piešķirtu prieku. Pielāgo apzināti, nevis pēc noklusējuma.",
+      "high": "Tu sliecies uz spriešanu (J). Tev patīk plānot uz priekšu, pieņemt lēmumus un novest lietas līdz galam. Skaidri grafiki, saraksti un termiņi tev sniedz kontroles sajūtu, un parasti tu pabeidz uzdevumus krietni pirms pēdējā brīža. Padoms: iebūvē savos plānos nedaudz brīvas telpas, lai pārsteigumi tevi neizsistu no līdzsvara. Kad citi strādā brīvākā veidā, vienojieties par galvenajiem termiņiem un ļauj viņiem izvēlēties, kā līdz tiem nonākt."
+    }
+  },
+  "summary": "Tavs tips apvieno četras priekšrocības: ekstraversija vai introversija (E/I), maņas vai intuīcija (S/N), domāšana vai jušana (T/F) un spriešana vai uztvere (J/P). Katra skala parāda, cik spēcīgi tu sliecies uz vienu pusi; rezultāti tuvu 50 % nozīmē, ka tu diezgan elastīgi izmanto abas puses. Tipi apraksta priekšrocības, nevis spējas, un neviens tips nav labāks par citu.",
+  "types": {
+    "ISTJ": {
+      "name": "Enkurs",
+      "text": "Tu esi nosvērts, pamatīgs un ļoti uzticams. Tu ciena faktus, turi solījumus un metodiski strādā pie uzdevumiem, līdz tie ir paveikti kārtīgi. Cilvēki uz tevi paļaujas, jo tu dari to, ko saki. Tu dod priekšroku skaidrām gaidām un pārbaudītām metodēm, un tu pamani kļūdas, ko citi neievēro. Tavs klusais spēks satur kopā komandas un ģimenes. Izaugsmes padoms: paliec atvērts jaunām pieejām, pat ja vecais veids joprojām darbojas; reizēm eksperiments nes patiesu uzlabojumu. Pauž savu atzinību citiem skaļi, jo tava lojalitāte ne vienmēr ir redzama. Atvēli laiku atpūtai, to vispirms nenopelnot."
+    },
+    "ISFJ": {
+      "name": "Sargātājs",
+      "text": "Tu esi gādīgs, apzinīgs un klusi uzticīgs. Tu atceries, kas cilvēkiem ir svarīgs, pamani viņu vajadzības un palīdzi praktiski, bieži pat nelūgts. Tu novērtē tradīcijas, stabilitāti un harmoniju un smagi strādā, lai citi justos droši un ērti. Tava laipnība ir tā noturīgā, uz kuru cilvēki paļaujas gadiem ilgi. Izaugsmes padoms: tavas vajadzības ir pelnījušas tādu pašu uzmanību, kādu tu veltī citiem, tāpēc trenējies atteikt bez vainas sajūtas. Izsakies, kad kaut kas tevi nomāc, nevis klusi to uzsūc. Ļaujot citiem tevi atbalstīt, attiecības kļūst stiprākas, nevis apgrūtinātas."
+    },
+    "INFJ": {
+      "name": "Klusais vizionārs",
+      "text": "Tu apvieno dziļu izpratni par cilvēkiem ar spēcīgu mērķa izjūtu. Tu sajūti zemstrāvas attiecībās, domā ilgtermiņā un vēlies, lai tava dzīve dotu ieguldījumu kaut kā jēgpilnā. Tu esi noslēgts, tomēr sirsnīgs, un cilvēki, kurus ielaid sev tuvu, jūtas patiesi ieraudzīti. Tavi ideāli tev dod virzienu un apņēmību. Izaugsmes padoms: tavi augstie standarti var pārvērsties izsīkumā vai vilšanās, kad realitāte tiem neatbilst, tāpēc atzīmē progresu, ne tikai pilnību. Dalies savās idejās agrāk, nevis gaidi, līdz tās ir pilnībā izveidotas. Sargā savu enerģiju, nosakot robežas, pirms jūties pārņemts, nevis pēc tam."
+    },
+    "INTJ": {
+      "name": "Lielais stratēģis",
+      "text": "Tu esi neatkarīgs, analītisks un vērsts uz ilgtermiņa mērķiem. Tu redzi, kā sistēmas savienojas kopā, ātri pamani neefektivitāti un labprāt izstrādā labākus darbības veidus. Tu uzticies savai spriešanai un esi gatavs iet savu ceļu, lai sasniegtu vīziju. Tava apņēmība var pārvērst vērienīgas idejas realitātē. Izaugsmes padoms: citi var neizsekot tavai loģikai tik ātri kā tu, tāpēc skaidro savu spriešanu soli pa solim un aicini sniegt atsauksmes. Atceries, ka arī cilvēku jūtas ir dati. Atvēli vietu nepilnīgām pirmajām versijām; progress bieži ir labāks par nevainojamu plānu, kas gaida."
+    },
+    "ISTP": {
+      "name": "Meistarotājs",
+      "text": "Tu esi mierīgs, praktisks un ziņkārīgs par to, kā lietas darbojas. Tev patīk izprast problēmas praktiski, izjaukt lietas un atrast efektīvus risinājumus. Krīzē tu saglabā vēsu prātu un rīkojies izlēmīgi, kamēr citi vēl runā. Tu novērtē brīvību, un tev nepatīk lieki noteikumi vai garas sanāksmes. Izaugsmes padoms: biežāk dalies savās domās ar citiem, jo tavu klusēšanu var pārprast kā ieinteresētības trūkumu. Apņemies dažiem ilgtermiņa mērķiem, lai tavas daudzās prasmes veidotu kaut ko lielāku. Ļauj tuviem cilvēkiem zināt, ko jūti; mazi atzinības vārdi nes lielu svaru."
+    },
+    "ISFP": {
+      "name": "Maigais mākslinieks",
+      "text": "Tu esi jutīgs, laipns un noskaņots uz skaistumu un tagadnes brīdi. Tu sevi pauž vairāk ar darbiem un radošumu nekā vārdiem, un tu novērtē autentiskumu un brīvību. Tu esi iecietīgs, atvērts un lojāls cilvēkiem un lietām, kas tev rūp. Tava maigā klātbūtne liek citiem justies pieņemtiem. Izaugsmes padoms: tu vari izvairīties no konflikta, līdz sakrājas neapmierinātība, tāpēc trenējies laikus paust nelielas bažas. Pārvērt savas vērtības dažos konkrētos mērķos, lai dotu saviem talantiem virzienu. Tici savam darbam pietiekami, lai to parādītu citiem; tavs skatījums ir pelnījis, lai to redzētu."
+    },
+    "INFP": {
+      "name": "Sapņotājs",
+      "text": "Tu esi ideālists, iztēles bagāts un vadīts no spēcīgām iekšējām vērtībām. Tu meklē jēgu visā, ko dari, un tev dziļi rūp autentiskums gan sevī, gan citos. Tu labi saproti jūtas un bieži tās pauž rakstot, mākslā vai pārdomātās sarunās. Tu esi maigs, atvērts un lojāls tam, kam tici. Izaugsmes padoms: tavi ideāli ir kompass, taču realitāte reti ir perfekta; sper mazus praktiskus soļus, nevis gaidi ideālo brīdi. Esi pret sevi tikpat līdzjūtīgs kā pret citiem. Dalies savos sapņos ar cilvēkiem, kuri var palīdzēt tos īstenot."
+    },
+    "INTP": {
+      "name": "Mīklu risinātājs",
+      "text": "Tu esi loģisks, izgudrojošs un bezgala ziņkārīgs. Tev ļoti patīk analizēt idejas, atrast pretrunas un veidot teorijas, kas izskaidro, kā lietas patiesībā darbojas. Tu domā neatkarīgi, un tev patīk dziļas sarunas par sarežģītām tēmām. Tavs prāts spēj saskatīt oriģinālus risinājumus, ko citi palaiž garām. Izaugsmes padoms: idejas sasniedz savu potenciālu, kad ar tām dalās un tās pielieto, tāpēc nosaki sev nelielus termiņus darba pabeigšanai un prezentēšanai. Pievērs uzmanību praktiskām detaļām un tam, kā jūtas citi, jo tas ir svarīgi pat tad, kad šķiet neloģiski. Veido saikni ar cilvēkiem, kuriem ir līdzīgas intereses; viņi uzlādēs tavu domāšanu."
+    },
+    "ESTP": {
+      "name": "Pašgājējs",
+      "text": "Tu esi enerģisks, drosmīgs un orientēts uz darbību. Tu dzīvo šajā brīdī, ātri nolasi situācijas un plaukst, kad viss notiek strauji. Tev patīk izaicinājumi, tu gudri riskē un risini praktiskas problēmas uz vietas. Cilvēkus piesaista tava pārliecība un jautrības izjūta. Izaugsmes padoms: pirms ienirsti, pārdomā ilgtermiņa sekas, īpaši naudas lietās un attiecībās. Trenējies pacietību ar lēnākiem procesiem un cilvēkiem, kuriem vajag vairāk laika, lai izlemtu. Padomā, kā tavs tiešais stils iedarbojas uz jūtīgiem cilvēkiem; nedaudz takta padara tavu ietekmi vēl spēcīgāku."
+    },
+    "ESFP": {
+      "name": "Dzirkstele",
+      "text": "Tu esi dzīvespriecīgs, sirsnīgs un jautrības mīļotājs. Tu ienes enerģiju jebkurā telpā, tev patīk cilvēki un piedzīvojumi, un tu padari ikdienas brīžus īpašus. Tu esi praktisks, dāsns un ātri palīdzi kādam, kam klājas grūti. Tavs entuziasms ir lipīgs, un cilvēkiem patīk būt tavā tuvumā. Izaugsmes padoms: plānošana uz priekšu var šķist garlaicīga, taču nedaudz struktūras finansēs un ilgtermiņa mērķos vēlāk dod tev vairāk brīvības. Stājies pretī grūtām sarunām, nevis novērs sevi. Atvēli dažus klusus brīžus, lai pārdomātu, ko patiesi vēlies, ne tikai to, kas šobrīd šķiet patīkami."
+    },
+    "ENFP": {
+      "name": "Iedvesmotājs",
+      "text": "Tu esi entuziastisks, radošs un iespēju pilns. Tu viegli veido saikni ar cilvēkiem, visur saskati potenciālu un ļoti labprāt uzsāc jaunus projektus un sarunas. Tavs siltums un iztēle mudina citus sapņot lielāk. Tu novērtē brīvību, autentiskumu un jēgpilnas attiecības. Izaugsmes padoms: tavām daudzajām idejām vajag fokusu, lai tās pārvērstos rezultātos, tāpēc izvēlies dažas prioritātes un noved tās līdz galam. Izveido vienkāršu rutīnu praktiskiem uzdevumiem, kas tev šķiet garlaicīgi. Kad pēc jauna sākuma sajūsmas tavs garastāvoklis pieplok, atceries, ka liela daļa patiesā gandarījuma slēpjas vienmērīgā līdz galam novešanā."
+    },
+    "ENTP": {
+      "name": "Novators",
+      "text": "Tu esi asprātīgs, izgudrojošs, un tev ļoti patīk labas debates. Tu saskati jaunus skatpunktus uz vecām problēmām, apšaubi pieņēmumus un labprāt eksperimentē ar idejām. Tu ātri pielāgojies, un tevi uzlādē sarežģīti izaicinājumi un gudri cilvēki. Tava ziņkāre mudina tevi uzlabot gandrīz visu, kam pieskaries. Izaugsmes padoms: ne katra diskusija ir jāuzvar, un daži cilvēki debates uztver kā konfliktu, tāpēc nolasi gaisotni. Noved līdz galam savas labākās idejas, nevis pārej pie nākamās pārāk ātri. Sadarbojies ar detaļām orientētiem cilvēkiem, kuri palīdz pārvērst koncepcijas realitātē."
+    },
+    "ESTJ": {
+      "name": "Kapteinis",
+      "text": "Tu esi organizēts, izlēmīgs un praktisks. Tev patīk skaidri mērķi, efektīvi procesi un lietu paveikšana. Tu dabiski uzņemies atbildību, izvirzi augstus standartus un parūpējies, lai plāni tiktu īstenoti. Cilvēki novērtē tavu tiešumu un uzticamību. Izaugsmes padoms: tavs efektīvais stils citiem var šķist kontrolējošs, tāpēc pirms izlem, aicini citus izteikties un paskaidro, kāpēc. Paliec atvērts jaunām metodēm arī tad, kad pašreizējā darbojas. Izrādi atzinību par cilvēku pūlēm, ne tikai rezultātiem; atzinība motivē citus tikpat ļoti kā skaidri norādījumi."
+    },
+    "ESFJ": {
+      "name": "Viesmīlīgais",
+      "text": "Tu esi sabiedrisks, gādīgs un vērsts uz kopienu. Tu pamani, kas cilvēkiem vajadzīgs, liec viņiem justies gaidītiem un labprāt apvieno citus. Tu novērtē harmoniju, lojalitāti un tradīcijas un pieliec patiesas pūles, lai attiecības un grupas darbotos raiti. Cilvēki tavā klātbūtnē jūtas aprūpēti. Izaugsmes padoms: tu vari kritiku vai konfliktu uztvert personīgi, tāpēc atgādini sev, ka nepiekrišana nav atraidījums. Pārbaudi, vai palīdzi tāpēc, ka gribi, vai tāpēc, ka jūti, ka tev tas jādara. Atvēli vietu savām vajadzībām un viedoklim; tie ir tikpat svarīgi kā jebkura cita."
+    },
+    "ENFJ": {
+      "name": "Mentors",
+      "text": "Tu esi sirsnīgs, iedvesmojošs un vērsts uz to, lai palīdzētu cilvēkiem augt. Tu labi saproti citus, izceļ viņu stiprās puses un apvieno grupas ap kopīgu mērķi. Tu komunicē ar entuziasmu un pārliecību un jūti atbildību par apkārtējo labklājību. Cilvēki bieži meklē tavu padomu. Izaugsmes padoms: tu nevari nest visus, tāpēc ļauj citiem uzņemties atbildību par savām izvēlēm. Pamani, kad uzņemies pārāk daudz vai atstāj novārtā savas vajadzības. Pieņem, ka daži cilvēki tev nepiekritīs; viņu atšķirīgais ceļš neatspoguļo tavu vērtību."
+    },
+    "ENTJ": {
+      "name": "Vadonis",
+      "text": "Tu esi pārliecināts, stratēģisks un tiecies pēc sasniegumiem. Tu redzi kopainu, izvirzi vērienīgus mērķus un organizē cilvēkus un resursus, lai tos sasniegtu. Tu ātri pieņem lēmumus, skaidri komunicē un nebaidies no izaicinājumiem vai atbildības. Citi bieži gaida, ka vadīsi tu. Izaugsmes padoms: tavs ātrums un tiešums var nomākt cilvēkus, tāpēc palēnini tempu, lai ieklausītos un atzītu jūtas. Atceries, ka motivācija aug, kad cilvēki jūtas sadzirdēti, nevis tikai vadīti. Atvēli vietu atpūtai un attiecībām; ilgtermiņa panākumi ir atkarīgi ne tikai no rezultātiem."
+    }
+  }
+}
