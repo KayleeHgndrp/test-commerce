@@ -127,11 +127,9 @@
     "whatYouGet2": "Osobistą interpretację każdego wyniku",
     "whatYouGet3": "Praktyczne wskazówki do wykorzystania od razu",
     "otherTests": "Inne popularne testy",
-    "question": "Pytanie {current} z {total}",
     "back": "Wstecz",
     "next": "Dalej",
     "finish": "Zobacz moje wyniki",
-    "chooseAnswer": "Wybierz odpowiedź, która najlepiej do Ciebie pasuje.",
     "resume": "Masz niedokończony test. Chcesz kontynuować od miejsca, w którym przerwano?",
     "resumeYes": "Kontynuuj",
     "resumeNo": "Zacznij od nowa",
@@ -140,7 +138,15 @@
     "genderMale": "Mężczyzna",
     "genderFemale": "Kobieta",
     "genderOther": "Inna / wolę nie podawać",
-    "screenerNote": "Ten test jest narzędziem przesiewowym, a nie diagnozą."
+    "screenerNote": "Ten test jest narzędziem przesiewowym, a nie diagnozą.",
+    "step": "Krok {current} z {total}",
+    "instructions": {
+      "agree": "Wybierz, na ile każde stwierdzenie do Ciebie pasuje.",
+      "frequency": "Wybierz, jak często każde stwierdzenie dotyczy Ciebie.",
+      "phq": "Jak często w ciągu ostatnich dwóch tygodni dokuczały Ci następujące problemy?",
+      "intensity": "Jak bardzo w ciągu ostatniego miesiąca dokuczały Ci następujące problemy?"
+    },
+    "unanswered": "Odpowiedz na wszystkie stwierdzenia na tej stronie, aby kontynuować."
   },
   "scales": {
     "agree": [

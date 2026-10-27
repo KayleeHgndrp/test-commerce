@@ -127,11 +127,9 @@
     "whatYouGet2": "Une interprétation personnelle de chaque score",
     "whatYouGet3": "Des conseils pratiques à appliquer tout de suite",
     "otherTests": "Autres tests populaires",
-    "question": "Question {current} sur {total}",
     "back": "Retour",
     "next": "Suivant",
     "finish": "Voir mes résultats",
-    "chooseAnswer": "Choisissez la réponse qui vous correspond le mieux.",
     "resume": "Vous avez un test inachevé. Reprendre là où vous vous êtes arrêté ?",
     "resumeYes": "Reprendre",
     "resumeNo": "Recommencer",
@@ -140,7 +138,15 @@
     "genderMale": "Homme",
     "genderFemale": "Femme",
     "genderOther": "Autre / je préfère ne pas répondre",
-    "screenerNote": "Ce test est un outil de dépistage, pas un diagnostic."
+    "screenerNote": "Ce test est un outil de dépistage, pas un diagnostic.",
+    "step": "Étape {current} sur {total}",
+    "instructions": {
+      "agree": "Indiquez dans quelle mesure chaque affirmation vous correspond.",
+      "frequency": "Indiquez à quelle fréquence chaque affirmation s'applique à vous.",
+      "phq": "Au cours des deux dernières semaines, à quelle fréquence avez-vous été gêné(e) par les problèmes suivants ?",
+      "intensity": "Au cours du dernier mois, à quel point avez-vous été gêné(e) par les problèmes suivants ?"
+    },
+    "unanswered": "Veuillez répondre à toutes les affirmations de cette page pour continuer."
   },
   "scales": {
     "agree": [

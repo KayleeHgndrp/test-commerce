@@ -127,11 +127,9 @@
     "whatYouGet2": "Osobný výklad každého skóre",
     "whatYouGet3": "Praktické tipy, ktoré hneď využiješ",
     "otherTests": "Ďalšie obľúbené testy",
-    "question": "Otázka {current} z {total}",
     "back": "Späť",
     "next": "Ďalej",
     "finish": "Zobraziť výsledky",
-    "chooseAnswer": "Vyber odpoveď, ktorá ťa najlepšie vystihuje.",
     "resume": "Máš rozpracovaný test. Chceš pokračovať tam, kde si skončil(a)?",
     "resumeYes": "Pokračovať",
     "resumeNo": "Začať odznova",
@@ -140,7 +138,15 @@
     "genderMale": "Muž",
     "genderFemale": "Žena",
     "genderOther": "Iné / nechcem uviesť",
-    "screenerNote": "Tento test je skríningový nástroj, nie diagnóza."
+    "screenerNote": "Tento test je skríningový nástroj, nie diagnóza.",
+    "step": "Krok {current} z {total}",
+    "instructions": {
+      "agree": "Vyberte, nakoľko vás každé tvrdenie vystihuje.",
+      "frequency": "Vyberte, ako často sa na vás každé tvrdenie vzťahuje.",
+      "phq": "Ako často vás počas posledných dvoch týždňov trápili nasledujúce problémy?",
+      "intensity": "Ako veľmi vás počas posledného mesiaca trápili nasledujúce problémy?"
+    },
+    "unanswered": "Ak chcete pokračovať, odpovedzte na všetky tvrdenia na tejto stránke."
   },
   "scales": {
     "agree": [

@@ -127,11 +127,9 @@
     "whatYouGet2": "Henkilökohtaisen tulkinnan jokaisesta tuloksesta",
     "whatYouGet3": "Käytännön vinkkejä, joita voit hyödyntää heti",
     "otherTests": "Muita suosittuja testejä",
-    "question": "Kysymys {current}/{total}",
     "back": "Takaisin",
     "next": "Seuraava",
     "finish": "Näytä tulokseni",
-    "chooseAnswer": "Valitse vastaus, joka kuvaa sinua parhaiten.",
     "resume": "Sinulla on keskeneräinen testi. Jatketaanko siitä, mihin jäit?",
     "resumeYes": "Jatka",
     "resumeNo": "Aloita alusta",
@@ -140,7 +138,15 @@
     "genderMale": "Mies",
     "genderFemale": "Nainen",
     "genderOther": "Muu / en halua kertoa",
-    "screenerNote": "Tämä testi on seulontatyökalu, ei diagnoosi."
+    "screenerNote": "Tämä testi on seulontatyökalu, ei diagnoosi.",
+    "step": "Vaihe {current}/{total}",
+    "instructions": {
+      "agree": "Valitse, kuinka hyvin kukin väite kuvaa sinua.",
+      "frequency": "Valitse, kuinka usein kukin väite pätee sinuun.",
+      "phq": "Kuinka usein seuraavat ongelmat ovat vaivanneet sinua viimeisen kahden viikon aikana?",
+      "intensity": "Kuinka paljon seuraavat ongelmat ovat vaivanneet sinua viimeisen kuukauden aikana?"
+    },
+    "unanswered": "Vastaa kaikkiin tämän sivun väitteisiin jatkaaksesi."
   },
   "scales": {
     "agree": [

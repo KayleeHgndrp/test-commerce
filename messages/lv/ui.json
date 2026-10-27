@@ -127,11 +127,9 @@
     "whatYouGet2": "Personīga katra rezultāta interpretācija",
     "whatYouGet3": "Praktiski padomi, ko vari izmantot uzreiz",
     "otherTests": "Citi populāri testi",
-    "question": "Jautājums {current} no {total}",
     "back": "Atpakaļ",
     "next": "Tālāk",
     "finish": "Skatīt manus rezultātus",
-    "chooseAnswer": "Izvēlies atbildi, kas tev vislabāk atbilst.",
     "resume": "Tev ir nepabeigts tests. Turpināt no vietas, kur apstājies?",
     "resumeYes": "Turpināt",
     "resumeNo": "Sākt no jauna",
@@ -140,7 +138,15 @@
     "genderMale": "Vīrietis",
     "genderFemale": "Sieviete",
     "genderOther": "Cits / nevēlos norādīt",
-    "screenerNote": "Šis tests ir skrīninga rīks, nevis diagnoze."
+    "screenerNote": "Šis tests ir skrīninga rīks, nevis diagnoze.",
+    "step": "{current}. solis no {total}",
+    "instructions": {
+      "agree": "Izvēlies, cik precīzi katrs apgalvojums tevi raksturo.",
+      "frequency": "Izvēlies, cik bieži katrs apgalvojums uz tevi attiecas.",
+      "phq": "Cik bieži pēdējo divu nedēļu laikā tevi ir traucējušas šādas problēmas?",
+      "intensity": "Cik ļoti pēdējā mēneša laikā tevi ir traucējušas šādas problēmas?"
+    },
+    "unanswered": "Lai turpinātu, atbildi uz visiem šīs lapas apgalvojumiem."
   },
   "scales": {
     "agree": [

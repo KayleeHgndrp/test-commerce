@@ -127,11 +127,9 @@
     "whatYouGet2": "O interpretare personală a fiecărui scor",
     "whatYouGet3": "Sfaturi practice pe care le poți aplica imediat",
     "otherTests": "Alte teste populare",
-    "question": "Întrebarea {current} din {total}",
     "back": "Înapoi",
     "next": "Înainte",
     "finish": "Vezi rezultatele mele",
-    "chooseAnswer": "Alege răspunsul care ți se potrivește cel mai bine.",
     "resume": "Ai un test neterminat. Vrei să continui de unde ai rămas?",
     "resumeYes": "Continuă",
     "resumeNo": "Ia-o de la capăt",
@@ -140,7 +138,15 @@
     "genderMale": "Masculin",
     "genderFemale": "Feminin",
     "genderOther": "Altul / prefer să nu spun",
-    "screenerNote": "Acest test este un instrument de screening, nu un diagnostic."
+    "screenerNote": "Acest test este un instrument de screening, nu un diagnostic.",
+    "step": "Pasul {current} din {total}",
+    "instructions": {
+      "agree": "Alege în ce măsură te descrie fiecare afirmație.",
+      "frequency": "Alege cât de des se aplică fiecare afirmație în cazul tău.",
+      "phq": "În ultimele două săptămâni, cât de des te-au deranjat următoarele probleme?",
+      "intensity": "În ultima lună, cât de mult te-au deranjat următoarele probleme?"
+    },
+    "unanswered": "Răspunde la toate afirmațiile de pe această pagină pentru a continua."
   },
   "scales": {
     "agree": [

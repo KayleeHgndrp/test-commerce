@@ -127,11 +127,9 @@
     "whatYouGet2": "Osebna razlaga vsakega rezultata",
     "whatYouGet3": "Praktični nasveti, ki jih lahko takoj uporabite",
     "otherTests": "Drugi priljubljeni testi",
-    "question": "Vprašanje {current} od {total}",
     "back": "Nazaj",
     "next": "Naprej",
     "finish": "Prikaži moje rezultate",
-    "chooseAnswer": "Izberite odgovor, ki vam najbolj ustreza.",
     "resume": "Imate nedokončan test. Želite nadaljevati, kjer ste ostali?",
     "resumeYes": "Nadaljuj",
     "resumeNo": "Začni znova",
@@ -140,7 +138,15 @@
     "genderMale": "Moški",
     "genderFemale": "Ženski",
     "genderOther": "Drugo / ne želim odgovoriti",
-    "screenerNote": "Ta test je presejalno orodje, ne diagnoza."
+    "screenerNote": "Ta test je presejalno orodje, ne diagnoza.",
+    "step": "Korak {current} od {total}",
+    "instructions": {
+      "agree": "Izberite, kako dobro vas opisuje posamezna trditev.",
+      "frequency": "Izberite, kako pogosto posamezna trditev velja za vas.",
+      "phq": "Kako pogosto so vas v zadnjih dveh tednih motile naslednje težave?",
+      "intensity": "Koliko so vas v zadnjem mesecu motile naslednje težave?"
+    },
+    "unanswered": "Za nadaljevanje odgovorite na vse trditve na tej strani."
   },
   "scales": {
     "agree": [

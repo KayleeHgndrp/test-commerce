@@ -127,11 +127,9 @@
     "whatYouGet2": "En personlig tolkning av hver poengsum",
     "whatYouGet3": "Praktiske tips du kan bruke med en gang",
     "otherTests": "Andre populære tester",
-    "question": "Spørsmål {current} av {total}",
     "back": "Tilbake",
     "next": "Neste",
     "finish": "Se resultatene mine",
-    "chooseAnswer": "Velg svaret som passer best for deg.",
     "resume": "Du har en uferdig test. Vil du fortsette der du slapp?",
     "resumeYes": "Fortsett",
     "resumeNo": "Start på nytt",
@@ -140,7 +138,15 @@
     "genderMale": "Mann",
     "genderFemale": "Kvinne",
     "genderOther": "Annet / vil ikke oppgi",
-    "screenerNote": "Denne testen er et screeningverktøy, ikke en diagnose."
+    "screenerNote": "Denne testen er et screeningverktøy, ikke en diagnose.",
+    "step": "Steg {current} av {total}",
+    "instructions": {
+      "agree": "Velg hvor godt hvert utsagn passer på deg.",
+      "frequency": "Velg hvor ofte hvert utsagn gjelder for deg.",
+      "phq": "Hvor ofte har du i løpet av de siste to ukene vært plaget av følgende problemer?",
+      "intensity": "Hvor mye har du i løpet av den siste måneden vært plaget av følgende problemer?"
+    },
+    "unanswered": "Svar på alle utsagnene på denne siden for å fortsette."
   },
   "scales": {
     "agree": [

@@ -127,11 +127,9 @@
     "whatYouGet2": "Iga tulemuse isiklik tõlgendus",
     "whatYouGet3": "Praktilised nõuanded, mida saad kohe rakendada",
     "otherTests": "Teised populaarsed testid",
-    "question": "Küsimus {current}/{total}",
     "back": "Tagasi",
     "next": "Edasi",
     "finish": "Vaata minu tulemusi",
-    "chooseAnswer": "Vali vastus, mis sobib sulle kõige paremini.",
     "resume": "Sul on pooleli test. Kas jätkad sealt, kus pooleli jäi?",
     "resumeYes": "Jätka",
     "resumeNo": "Alusta uuesti",
@@ -140,7 +138,15 @@
     "genderMale": "Mees",
     "genderFemale": "Naine",
     "genderOther": "Muu / ei soovi öelda",
-    "screenerNote": "See test on sõelumisvahend, mitte diagnoos."
+    "screenerNote": "See test on sõelumisvahend, mitte diagnoos.",
+    "step": "Samm {current}/{total}",
+    "instructions": {
+      "agree": "Vali, kui hästi iga väide sind kirjeldab.",
+      "frequency": "Vali, kui sageli iga väide sinu kohta kehtib.",
+      "phq": "Kui sageli on sind viimase kahe nädala jooksul häirinud järgmised probleemid?",
+      "intensity": "Kui palju on sind viimase kuu jooksul häirinud järgmised probleemid?"
+    },
+    "unanswered": "Jätkamiseks vasta kõigile sellel lehel olevatele väidetele."
   },
   "scales": {
     "agree": [

@@ -127,11 +127,9 @@
     "whatYouGet2": "Her puanın kişisel yorumu",
     "whatYouGet3": "Hemen uygulayabileceğiniz pratik öneriler",
     "otherTests": "Diğer popüler testler",
-    "question": "Soru {current} / {total}",
     "back": "Geri",
     "next": "İleri",
     "finish": "Sonuçlarımı gör",
-    "chooseAnswer": "Size en uygun yanıtı seçin.",
     "resume": "Yarım kalmış bir testiniz var. Kaldığınız yerden devam etmek ister misiniz?",
     "resumeYes": "Devam et",
     "resumeNo": "Baştan başla",
@@ -140,7 +138,15 @@
     "genderMale": "Erkek",
     "genderFemale": "Kadın",
     "genderOther": "Diğer / belirtmek istemiyorum",
-    "screenerNote": "Bu test bir tarama aracıdır, teşhis değildir."
+    "screenerNote": "Bu test bir tarama aracıdır, teşhis değildir.",
+    "step": "Adım {current} / {total}",
+    "instructions": {
+      "agree": "Her ifadenin seni ne kadar yansıttığını seç.",
+      "frequency": "Her ifadenin senin için ne sıklıkla geçerli olduğunu seç.",
+      "phq": "Son iki hafta içinde aşağıdaki sorunlar seni ne sıklıkla rahatsız etti?",
+      "intensity": "Son bir ay içinde aşağıdaki sorunlar seni ne kadar rahatsız etti?"
+    },
+    "unanswered": "Devam etmek için bu sayfadaki tüm ifadeleri yanıtla."
   },
   "scales": {
     "agree": [

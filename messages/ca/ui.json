@@ -127,11 +127,9 @@
     "whatYouGet2": "Una interpretació personal de cada puntuació",
     "whatYouGet3": "Consells pràctics que pots aplicar de seguida",
     "otherTests": "Altres tests populars",
-    "question": "Pregunta {current} de {total}",
     "back": "Enrere",
     "next": "Següent",
     "finish": "Mostra els meus resultats",
-    "chooseAnswer": "Tria la resposta que millor t'encaixi.",
     "resume": "Tens un test sense acabar. Vols continuar on ho vas deixar?",
     "resumeYes": "Continua",
     "resumeNo": "Torna a començar",
@@ -140,7 +138,15 @@
     "genderMale": "Home",
     "genderFemale": "Dona",
     "genderOther": "Altre / prefereixo no dir-ho",
-    "screenerNote": "Aquest test és una eina de cribratge, no un diagnòstic."
+    "screenerNote": "Aquest test és una eina de cribratge, no un diagnòstic.",
+    "step": "Pas {current} de {total}",
+    "instructions": {
+      "agree": "Tria fins a quin punt cada afirmació et descriu.",
+      "frequency": "Tria amb quina freqüència cada afirmació s'aplica a tu.",
+      "phq": "Durant les últimes dues setmanes, amb quina freqüència t'han molestat els problemes següents?",
+      "intensity": "Durant l'últim mes, quant t'han molestat els problemes següents?"
+    },
+    "unanswered": "Respon totes les afirmacions d'aquesta pàgina per continuar."
   },
   "scales": {
     "agree": [

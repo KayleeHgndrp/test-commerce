@@ -127,11 +127,9 @@
     "whatYouGet2": "Una interpretación personal de cada puntuación",
     "whatYouGet3": "Consejos prácticos que puedes aplicar ya",
     "otherTests": "Otros tests populares",
-    "question": "Pregunta {current} de {total}",
     "back": "Atrás",
     "next": "Siguiente",
     "finish": "Ver mis resultados",
-    "chooseAnswer": "Elige la respuesta que mejor te describa.",
     "resume": "Tienes un test sin terminar. ¿Quieres seguir donde lo dejaste?",
     "resumeYes": "Continuar",
     "resumeNo": "Empezar de nuevo",
@@ -140,7 +138,15 @@
     "genderMale": "Hombre",
     "genderFemale": "Mujer",
     "genderOther": "Otro / prefiero no decirlo",
-    "screenerNote": "Este test es una herramienta de cribado, no un diagnóstico."
+    "screenerNote": "Este test es una herramienta de cribado, no un diagnóstico.",
+    "step": "Paso {current} de {total}",
+    "instructions": {
+      "agree": "Elige en qué medida te describe cada afirmación.",
+      "frequency": "Elige con qué frecuencia se aplica a ti cada afirmación.",
+      "phq": "Durante las últimas dos semanas, ¿con qué frecuencia te han molestado los siguientes problemas?",
+      "intensity": "En el último mes, ¿cuánto te han molestado los siguientes problemas?"
+    },
+    "unanswered": "Responde a todas las afirmaciones de esta página para continuar."
   },
   "scales": {
     "agree": [

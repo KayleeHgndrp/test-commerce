@@ -127,11 +127,9 @@
     "whatYouGet2": "Interpretim personal i çdo rezultati",
     "whatYouGet3": "Këshilla praktike që mund t'i zbatosh menjëherë",
     "otherTests": "Teste të tjera të njohura",
-    "question": "Pyetja {current} nga {total}",
     "back": "Prapa",
     "next": "Para",
     "finish": "Shiko rezultatet e mia",
-    "chooseAnswer": "Zgjidh përgjigjen që të përshtatet më mirë.",
     "resume": "Ke një test të papërfunduar. Do të vazhdosh nga ku e le?",
     "resumeYes": "Vazhdo",
     "resumeNo": "Fillo nga e para",
@@ -140,7 +138,15 @@
     "genderMale": "Mashkull",
     "genderFemale": "Femër",
     "genderOther": "Tjetër / preferoj të mos e them",
-    "screenerNote": "Ky test është mjet depistimi, jo diagnozë."
+    "screenerNote": "Ky test është mjet depistimi, jo diagnozë.",
+    "step": "Hapi {current} nga {total}",
+    "instructions": {
+      "agree": "Zgjidh sa mirë të përshkruan secili pohim.",
+      "frequency": "Zgjidh sa shpesh vlen për ty secili pohim.",
+      "phq": "Gjatë dy javëve të fundit, sa shpesh të kanë shqetësuar problemet e mëposhtme?",
+      "intensity": "Gjatë muajit të fundit, sa shumë të kanë shqetësuar problemet e mëposhtme?"
+    },
+    "unanswered": "Përgjigju të gjitha pohimeve në këtë faqe për të vazhduar."
   },
   "scales": {
     "agree": [

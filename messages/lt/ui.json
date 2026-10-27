@@ -127,11 +127,9 @@
     "whatYouGet2": "Asmeninė kiekvieno balo interpretacija",
     "whatYouGet3": "Praktiniai patarimai, kuriuos galite taikyti iškart",
     "otherTests": "Kiti populiarūs testai",
-    "question": "{current} klausimas iš {total}",
     "back": "Atgal",
     "next": "Toliau",
     "finish": "Žiūrėti rezultatus",
-    "chooseAnswer": "Pasirinkite atsakymą, kuris jums labiausiai tinka.",
     "resume": "Turite nebaigtą testą. Tęsti nuo ten, kur sustojote?",
     "resumeYes": "Tęsti",
     "resumeNo": "Pradėti iš naujo",
@@ -140,7 +138,15 @@
     "genderMale": "Vyras",
     "genderFemale": "Moteris",
     "genderOther": "Kita / nenoriu nurodyti",
-    "screenerNote": "Šis testas yra patikros priemonė, o ne diagnozė."
+    "screenerNote": "Šis testas yra patikros priemonė, o ne diagnozė.",
+    "step": "{current} žingsnis iš {total}",
+    "instructions": {
+      "agree": "Pasirinkite, kiek kiekvienas teiginys jums tinka.",
+      "frequency": "Pasirinkite, kaip dažnai kiekvienas teiginys jums tinka.",
+      "phq": "Kaip dažnai per pastarąsias dvi savaites jus vargino šios problemos?",
+      "intensity": "Kiek per pastarąjį mėnesį jus vargino šios problemos?"
+    },
+    "unanswered": "Norėdami tęsti, atsakykite į visus šio puslapio teiginius."
   },
   "scales": {
     "agree": [

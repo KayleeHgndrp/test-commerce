@@ -127,11 +127,9 @@
     "whatYouGet2": "Osobno tumačenje svakog rezultata",
     "whatYouGet3": "Praktični savjeti koje možete odmah primijeniti",
     "otherTests": "Drugi popularni testovi",
-    "question": "Pitanje {current} od {total}",
     "back": "Natrag",
     "next": "Dalje",
     "finish": "Prikaži moje rezultate",
-    "chooseAnswer": "Odaberite odgovor koji vam najbolje odgovara.",
     "resume": "Imate nedovršen test. Želite li nastaviti ondje gdje ste stali?",
     "resumeYes": "Nastavi",
     "resumeNo": "Kreni ispočetka",
@@ -140,7 +138,15 @@
     "genderMale": "Muško",
     "genderFemale": "Žensko",
     "genderOther": "Drugo / ne želim reći",
-    "screenerNote": "Ovaj je test alat za probir, a ne dijagnoza."
+    "screenerNote": "Ovaj je test alat za probir, a ne dijagnoza.",
+    "step": "Korak {current} od {total}",
+    "instructions": {
+      "agree": "Odaberite koliko vas svaka tvrdnja opisuje.",
+      "frequency": "Odaberite koliko često se svaka tvrdnja odnosi na vas.",
+      "phq": "Koliko često su vas tijekom posljednja dva tjedna mučili sljedeći problemi?",
+      "intensity": "Koliko su vas tijekom posljednjeg mjeseca mučili sljedeći problemi?"
+    },
+    "unanswered": "Odgovorite na sve tvrdnje na ovoj stranici kako biste nastavili."
   },
   "scales": {
     "agree": [

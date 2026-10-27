@@ -127,11 +127,9 @@
     "whatYouGet2": "Minden pontszám személyes értelmezése",
     "whatYouGet3": "Azonnal alkalmazható gyakorlati tippek",
     "otherTests": "További népszerű tesztek",
-    "question": "{current}. kérdés / {total}",
     "back": "Vissza",
     "next": "Tovább",
     "finish": "Eredményeim megtekintése",
-    "chooseAnswer": "Válaszd azt a választ, amelyik a legjobban illik rád.",
     "resume": "Van egy befejezetlen teszted. Folytatod, ahol abbahagytad?",
     "resumeYes": "Folytatás",
     "resumeNo": "Újrakezdés",
@@ -140,7 +138,15 @@
     "genderMale": "Férfi",
     "genderFemale": "Nő",
     "genderOther": "Egyéb / nem szeretném megadni",
-    "screenerNote": "Ez a teszt szűrőeszköz, nem diagnózis."
+    "screenerNote": "Ez a teszt szűrőeszköz, nem diagnózis.",
+    "step": "{current}. lépés / {total}",
+    "instructions": {
+      "agree": "Válaszd ki, mennyire jellemző rád az egyes állítás.",
+      "frequency": "Válaszd ki, milyen gyakran igaz rád az egyes állítás.",
+      "phq": "Az elmúlt két hétben milyen gyakran zavartak a következő problémák?",
+      "intensity": "Az elmúlt hónapban mennyire zavartak a következő problémák?"
+    },
+    "unanswered": "A folytatáshoz válaszolj az oldalon lévő összes állításra."
   },
   "scales": {
     "agree": [

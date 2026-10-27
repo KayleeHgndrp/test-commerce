@@ -127,11 +127,9 @@
     "whatYouGet2": "En personlig tolkning av varje resultat",
     "whatYouGet3": "Praktiska tips du kan använda direkt",
     "otherTests": "Andra populära tester",
-    "question": "Fråga {current} av {total}",
     "back": "Tillbaka",
     "next": "Nästa",
     "finish": "Se mina resultat",
-    "chooseAnswer": "Välj det svar som passar dig bäst.",
     "resume": "Du har ett påbörjat test. Vill du fortsätta där du slutade?",
     "resumeYes": "Fortsätt",
     "resumeNo": "Börja om",
@@ -140,7 +138,15 @@
     "genderMale": "Man",
     "genderFemale": "Kvinna",
     "genderOther": "Annat / vill inte uppge",
-    "screenerNote": "Det här testet är ett screeningverktyg, inte en diagnos."
+    "screenerNote": "Det här testet är ett screeningverktyg, inte en diagnos.",
+    "step": "Steg {current} av {total}",
+    "instructions": {
+      "agree": "Välj hur väl varje påstående stämmer in på dig.",
+      "frequency": "Välj hur ofta varje påstående stämmer in på dig.",
+      "phq": "Hur ofta har du under de senaste två veckorna besvärats av följande problem?",
+      "intensity": "Hur mycket har du under den senaste månaden besvärats av följande problem?"
+    },
+    "unanswered": "Svara på alla påståenden på den här sidan för att fortsätta."
   },
   "scales": {
     "agree": [

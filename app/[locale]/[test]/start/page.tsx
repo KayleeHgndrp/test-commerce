@@ -18,6 +18,7 @@ export default async function StartPage({ params }: PageProps<"/[locale]/[test]/
       slug={def.slug}
       name={text.name}
       items={text.items}
+      scaleType={def.scale}
       scale={ui.scales[def.scale]}
       ui={ui.test}
     />

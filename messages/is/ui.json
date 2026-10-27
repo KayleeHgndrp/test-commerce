@@ -127,11 +127,9 @@
     "whatYouGet2": "Persónuleg túlkun á hverri einkunn",
     "whatYouGet3": "Hagnýt ráð sem þú getur nýtt strax",
     "otherTests": "Önnur vinsæl próf",
-    "question": "Spurning {current} af {total}",
     "back": "Til baka",
     "next": "Áfram",
     "finish": "Sjá niðurstöðurnar mínar",
-    "chooseAnswer": "Veldu svarið sem á best við þig.",
     "resume": "Þú átt ólokið próf. Viltu halda áfram þar sem frá var horfið?",
     "resumeYes": "Halda áfram",
     "resumeNo": "Byrja upp á nýtt",
@@ -140,7 +138,15 @@
     "genderMale": "Karl",
     "genderFemale": "Kona",
     "genderOther": "Annað / vil ekki svara",
-    "screenerNote": "Þetta próf er skimunartæki, ekki greining."
+    "screenerNote": "Þetta próf er skimunartæki, ekki greining.",
+    "step": "Skref {current} af {total}",
+    "instructions": {
+      "agree": "Veldu hversu vel hver fullyrðing á við þig.",
+      "frequency": "Veldu hversu oft hver fullyrðing á við þig.",
+      "phq": "Hversu oft hafa eftirfarandi vandamál angrað þig síðastliðnar tvær vikur?",
+      "intensity": "Hversu mikið hafa eftirfarandi vandamál angrað þig síðastliðinn mánuð?"
+    },
+    "unanswered": "Svaraðu öllum fullyrðingum á þessari síðu til að halda áfram."
   },
   "scales": {
     "agree": [

@@ -127,11 +127,9 @@
     "whatYouGet2": "Een persoonlijke uitleg bij elke score",
     "whatYouGet3": "Praktische tips die je meteen kunt toepassen",
     "otherTests": "Andere populaire tests",
-    "question": "Vraag {current} van {total}",
     "back": "Terug",
     "next": "Volgende",
     "finish": "Bekijk mijn resultaten",
-    "chooseAnswer": "Kies het antwoord dat het best bij je past.",
     "resume": "Je hebt een onafgemaakte test. Verdergaan waar je gebleven was?",
     "resumeYes": "Verdergaan",
     "resumeNo": "Opnieuw beginnen",
@@ -140,7 +138,15 @@
     "genderMale": "Man",
     "genderFemale": "Vrouw",
     "genderOther": "Anders / zeg ik liever niet",
-    "screenerNote": "Deze test is een screeningsinstrument, geen diagnose."
+    "screenerNote": "Deze test is een screeningsinstrument, geen diagnose.",
+    "step": "Stap {current} van {total}",
+    "instructions": {
+      "agree": "Kies in hoeverre elke stelling bij je past.",
+      "frequency": "Kies hoe vaak elke stelling op jou van toepassing is.",
+      "phq": "Hoe vaak heb je in de afgelopen twee weken last gehad van de volgende problemen?",
+      "intensity": "Hoeveel last heb je in de afgelopen maand gehad van de volgende problemen?"
+    },
+    "unanswered": "Beantwoord alle stellingen op deze pagina om verder te gaan."
   },
   "scales": {
     "agree": [

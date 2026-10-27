@@ -127,11 +127,9 @@
     "whatYouGet2": "Interpretazzjoni personali ta' kull punteġġ",
     "whatYouGet3": "Pariri prattiċi li tista' tapplika minnufih",
     "otherTests": "Testijiet popolari oħra",
-    "question": "Mistoqsija {current} minn {total}",
     "back": "Lura",
     "next": "Li jmiss",
     "finish": "Ara r-riżultati tiegħi",
-    "chooseAnswer": "Agħżel it-tweġiba li l-aktar taqbel miegħek.",
     "resume": "Għandek test mhux lest. Trid tkompli minn fejn ħallejt?",
     "resumeYes": "Kompli",
     "resumeNo": "Ibda mill-ġdid",
@@ -140,7 +138,15 @@
     "genderMale": "Raġel",
     "genderFemale": "Mara",
     "genderOther": "Ieħor / nippreferi ma ngħidx",
-    "screenerNote": "Dan it-test huwa għodda ta' screening, mhux dijanjożi."
+    "screenerNote": "Dan it-test huwa għodda ta' screening, mhux dijanjożi.",
+    "step": "Pass {current} minn {total}",
+    "instructions": {
+      "agree": "Agħżel kemm kull stqarrija tiddeskrivik.",
+      "frequency": "Agħżel kemm-il darba kull stqarrija tapplika għalik.",
+      "phq": "Matul l-aħħar ġimagħtejn, kemm-il darba ddejqek il-problemi li ġejjin?",
+      "intensity": "Matul l-aħħar xahar, kemm iddejqek il-problemi li ġejjin?"
+    },
+    "unanswered": "Wieġeb l-istqarrijiet kollha f'din il-paġna biex tkompli."
   },
   "scales": {
     "agree": [

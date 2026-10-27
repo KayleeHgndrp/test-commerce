@@ -127,11 +127,9 @@
     "whatYouGet2": "A personal interpretation of each score",
     "whatYouGet3": "Practical tips you can apply right away",
     "otherTests": "Other popular tests",
-    "question": "Question {current} of {total}",
     "back": "Back",
     "next": "Next",
     "finish": "See my results",
-    "chooseAnswer": "Choose the answer that fits you best.",
     "resume": "You have an unfinished test. Continue where you left off?",
     "resumeYes": "Continue",
     "resumeNo": "Start over",
@@ -140,7 +138,15 @@
     "genderMale": "Male",
     "genderFemale": "Female",
     "genderOther": "Other / prefer not to say",
-    "screenerNote": "This test is a screening tool, not a diagnosis."
+    "screenerNote": "This test is a screening tool, not a diagnosis.",
+    "step": "Step {current} of {total}",
+    "instructions": {
+      "agree": "Choose how accurately each statement reflects you.",
+      "frequency": "Choose how often each statement applies to you.",
+      "phq": "Over the last two weeks, how often have you been bothered by the following problems?",
+      "intensity": "In the past month, how much were you bothered by the following problems?"
+    },
+    "unanswered": "Please answer all statements on this page to continue."
   },
   "scales": {
     "agree": [

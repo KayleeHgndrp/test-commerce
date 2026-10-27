@@ -127,11 +127,9 @@
     "whatYouGet2": "Léirmhíniú pearsanta ar gach scór",
     "whatYouGet3": "Leideanna praiticiúla is féidir leat a chur i bhfeidhm láithreach",
     "otherTests": "Tástálacha eile a bhfuil an-tóir orthu",
-    "question": "Ceist {current} as {total}",
     "back": "Siar",
     "next": "Ar aghaidh",
     "finish": "Féach ar mo thorthaí",
-    "chooseAnswer": "Roghnaigh an freagra is fearr a oireann duit.",
     "resume": "Tá tástáil neamhchríochnaithe agat. Ar mhaith leat leanúint ar aghaidh ón áit ar stop tú?",
     "resumeYes": "Lean ar aghaidh",
     "resumeNo": "Tosaigh as an nua",
@@ -140,7 +138,15 @@
     "genderMale": "Fireann",
     "genderFemale": "Baineann",
     "genderOther": "Eile / b'fhearr liom gan a rá",
-    "screenerNote": "Uirlis scagthástála í an tástáil seo, ní diagnóis."
+    "screenerNote": "Uirlis scagthástála í an tástáil seo, ní diagnóis.",
+    "step": "Céim {current} de {total}",
+    "instructions": {
+      "agree": "Roghnaigh cé chomh maith is a chuireann gach ráiteas síos ort.",
+      "frequency": "Roghnaigh cé chomh minic is a bhaineann gach ráiteas leat.",
+      "phq": "Le coicís anuas, cé chomh minic is a chuir na fadhbanna seo a leanas isteach ort?",
+      "intensity": "Le mí anuas, cé mhéad a chuir na fadhbanna seo a leanas isteach ort?"
+    },
+    "unanswered": "Freagair gach ráiteas ar an leathanach seo chun leanúint ar aghaidh."
   },
   "scales": {
     "agree": [

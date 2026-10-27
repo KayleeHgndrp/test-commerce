@@ -127,11 +127,9 @@
     "whatYouGet2": "Eine persönliche Deutung jedes Werts",
     "whatYouGet3": "Praktische Tipps, die du sofort umsetzen kannst",
     "otherTests": "Weitere beliebte Tests",
-    "question": "Frage {current} von {total}",
     "back": "Zurück",
     "next": "Weiter",
     "finish": "Meine Ergebnisse ansehen",
-    "chooseAnswer": "Wähle die Antwort, die am besten zu dir passt.",
     "resume": "Du hast einen unvollständigen Test. Dort weitermachen, wo du aufgehört hast?",
     "resumeYes": "Weitermachen",
     "resumeNo": "Neu beginnen",
@@ -140,7 +138,15 @@
     "genderMale": "Männlich",
     "genderFemale": "Weiblich",
     "genderOther": "Divers / keine Angabe",
-    "screenerNote": "Dieser Test ist ein Screening-Instrument, keine Diagnose."
+    "screenerNote": "Dieser Test ist ein Screening-Instrument, keine Diagnose.",
+    "step": "Schritt {current} von {total}",
+    "instructions": {
+      "agree": "Wähle, wie gut jede Aussage auf dich zutrifft.",
+      "frequency": "Wähle, wie oft jede Aussage auf dich zutrifft.",
+      "phq": "Wie oft fühltest du dich im Verlauf der letzten zwei Wochen durch die folgenden Beschwerden beeinträchtigt?",
+      "intensity": "Wie sehr haben dich die folgenden Probleme im letzten Monat belastet?"
+    },
+    "unanswered": "Bitte beantworte alle Aussagen auf dieser Seite, um fortzufahren."
   },
   "scales": {
     "agree": [
