@@ -7,12 +7,12 @@ the detailed personal report costs €1.25 and is emailed after payment via Stri
 
 ```bash
 npm install
-cp .env.example .env.local   # fill in Stripe/Resend keys (optional for local dev)
+cp .env.example .env.local   # fill in Stripe/SMTP settings (optional for local dev)
 npm run dev
 ```
 
-Without `STRIPE_SECRET_KEY` the dev server skips payment and "sends" the report straight away. Without
-`RESEND_API_KEY` the email is logged to the console instead.
+Without `STRIPE_SECRET_KEY` the dev server skips payment, shows the report on the thank-you page and "sends" it
+straight away. Without `SMTP_HOST` the email is logged to the console instead.
 
 ## URL structure
 
@@ -34,7 +34,10 @@ Without `STRIPE_SECRET_KEY` the dev server skips payment and "sends" the report 
 - `npm run check:content` – validates every definition and translation (counts, keys, placeholders)
 - `lib/tests/scoring.ts` – scoring, incl. 16-types code, attachment style, political quadrant, PHQ-9/PCL-5
 - `app/api/checkout` – creates a Stripe Checkout session; answers travel in the session metadata (no database)
-- `app/api/stripe/webhook` – on payment renders the report (`lib/report/render.ts`) and emails it via Resend
+- `app/api/stripe/webhook` – on payment renders the report (`lib/report/render.ts`) and emails it over SMTP
+- `/[locale]/[test]/thanks?session_id=…` – verifies the payment with Stripe, shows the full report on the page and
+  emails it if the webhook has not done so yet (`lib/delivery.ts`; a flag on the PaymentIntent prevents double sends)
+- `/[locale]/contact` + `app/api/contact` – contact form, delivered over SMTP to `NEXT_PUBLIC_CONTACT_EMAIL`/`CONTACT_FROM_EMAIL`
 
 Missing translations fall back to English per key, so a partially translated language still works.
 See `docs/CONTENT_SPEC.md` for the content format.
@@ -45,7 +48,8 @@ See `docs/CONTENT_SPEC.md` for the content format.
 2. In Stripe, add a webhook endpoint `https://<domain>/api/stripe/webhook` for
    `checkout.session.completed` and `checkout.session.async_payment_succeeded`; enable the payment methods
    you want (cards, iDEAL, Bancontact, …) in the Stripe dashboard.
-3. Verify your sending domain in Resend and set `EMAIL_FROM`.
+3. Set `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS` and `CONTACT_FROM_EMAIL` (make sure SPF/DKIM for the
+   sender domain are set up at your mail provider so reports don't land in spam).
 4. Add your company details via `NEXT_PUBLIC_COMPANY_DETAILS` and review the privacy/terms texts.
 
 ## Validated questionnaires

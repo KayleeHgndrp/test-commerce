@@ -266,5 +266,16 @@
       "Fordi rapporten er digitalt innhold som leveres umiddelbart, bortfaller den lovfestede angreretten når den er sendt. Vi hjelper deg likevel alltid hvis noe ikke stemmer.",
       "Refusjoner gjøres til den opprinnelige betalingsmåten innen 5–10 virkedager."
     ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Spørsmål om en test eller rapporten din? Send oss en melding, så svarer vi innen 1–2 virkedager.",
+    "name": "Navn",
+    "email": "E-postadresse",
+    "message": "Melding",
+    "send": "Send melding",
+    "sending": "Sender…",
+    "success": "Takk! Meldingen din er sendt. Vi tar snart kontakt.",
+    "error": "Meldingen kunne ikke sendes. Prøv igjen senere."
   }
 }

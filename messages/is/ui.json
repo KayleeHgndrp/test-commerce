@@ -266,5 +266,16 @@
       "Þar sem skýrslan er stafrænt efni sem er afhent strax fellur lögbundinn réttur til að falla frá samningi niður þegar hún hefur verið send. Við munum samt alltaf aðstoða þig ef eitthvað er ekki í lagi.",
       "Endurgreiðslur eru lagðar inn á upphaflegan greiðslumáta innan 5–10 virkra daga."
     ]
+  },
+  "contact": {
+    "title": "Hafa samband",
+    "subtitle": "Spurningar um próf eða skýrsluna þína? Sendu okkur skilaboð og við svörum innan 1–2 virkra daga.",
+    "name": "Nafn",
+    "email": "Netfang",
+    "message": "Skilaboð",
+    "send": "Senda skilaboð",
+    "sending": "Sendi…",
+    "success": "Takk! Skilaboðin þín hafa verið send. Við höfum samband fljótlega.",
+    "error": "Ekki tókst að senda skilaboðin. Reyndu aftur síðar."
   }
 }

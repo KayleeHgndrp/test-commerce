@@ -266,5 +266,16 @@
       "Uma vez que o relatório é um conteúdo digital entregue de imediato, o direito legal de livre resolução cessa assim que for enviado. Ainda assim, ajudar-te-emos sempre se algo não estiver bem.",
       "Os reembolsos são feitos para o método de pagamento original no prazo de 5 a 10 dias úteis."
     ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Tens dúvidas sobre um teste ou o teu relatório? Envia-nos uma mensagem e respondemos em 1–2 dias úteis.",
+    "name": "Nome",
+    "email": "Endereço de e-mail",
+    "message": "Mensagem",
+    "send": "Enviar mensagem",
+    "sending": "A enviar…",
+    "success": "Obrigado! A tua mensagem foi enviada. Responderemos em breve.",
+    "error": "Não foi possível enviar a tua mensagem. Tenta novamente mais tarde."
   }
 }

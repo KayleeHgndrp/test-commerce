@@ -266,5 +266,16 @@
       "Ós rud é gur ábhar digiteach í an tuarascáil a sheachadtar láithreach, téann an ceart reachtúil tarraingt siar in éag a luaithe a sheoltar í. Mar sin féin, cabhróimid leat i gcónaí mura bhfuil rud éigin i gceart.",
       "Déantar aisíocaíochtaí ar an modh íocaíochta bunaidh laistigh de 5–10 lá oibre."
     ]
+  },
+  "contact": {
+    "title": "Déan teagmháil linn",
+    "subtitle": "Ceisteanna faoi thriail nó faoi do thuarascáil? Seol teachtaireacht chugainn agus freagróimid laistigh de 1–2 lá oibre.",
+    "name": "Ainm",
+    "email": "Seoladh ríomhphoist",
+    "message": "Teachtaireacht",
+    "send": "Seol teachtaireacht",
+    "sending": "Á seoladh…",
+    "success": "Go raibh maith agat! Seoladh do theachtaireacht. Beimid i dteagmháil leat go luath.",
+    "error": "Níorbh fhéidir do theachtaireacht a sheoladh. Bain triail eile as ar ball."
   }
 }

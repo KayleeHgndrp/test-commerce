@@ -1,0 +1,206 @@
+{
+  "name": "Test 16 osebnostnih tipov",
+  "tagline": "Odkrijte svoj štiričrkovni tip in kaj pove o vas.",
+  "intro": "Ta test vas umesti na štiri lestvice preferenc: od kod črpate energijo, kako sprejemate informacije, kako se odločate in kako organizirate svoje življenje. Vaše štiri preference skupaj tvorijo enega od 16 osebnostnih tipov. Ocenite 100 kratkih trditev; vzame vam približno pet minut.",
+  "seoTitle": "Test 16 osebnostnih tipov – brezplačno in hitro",
+  "seoDescription": "Odkrijte svoj štiričrkovni osebnostni tip v 5 minutah. Oglejte si svoje preference na vsaki lestvici in preberite portret svojega tipa s praktičnimi nasveti.",
+  "items": [
+    "Najbolje razmišljam, ko ideje predebatiram z drugimi.",
+    "Pogosto razmišljam o tem, kaj bi lahko prinesla prihodnost.",
+    "Odločitve sprejemam najprej na podlagi logike.",
+    "Najraje ohranjam odprte možnosti.",
+    "Dejstvom zaupam bolj kot slutnjam.",
+    "Po druženju potrebujem čas zase, da si napolnim baterije.",
+    "Všeč mi je, če imam dan vnaprej načrtovan.",
+    "Pretehtam, kako moje odločitve vplivajo na čustva drugih.",
+    "Spoznavanje novih ljudi mi da zagon.",
+    "Uživam v odkrivanju skritih vzorcev in pomenov.",
+    "Iskrenost cenim bolj kot taktnost.",
+    "Uživam v tem, da se odločam spontano, v trenutku.",
+    "Opazim drobne podrobnosti, ki jih drugi spregledajo.",
+    "Raje imam en globok pogovor kot veliko površnih.",
+    "Ko je odločitev sprejeta, mi odleže.",
+    "Ohranjanje miru mi je pomembno.",
+    "Všeč mi je delo v odprtem, živahnem prostoru.",
+    "Rutinske podrobnosti me hitro začnejo dolgočasiti.",
+    "Pri reševanju konflikta znam ohraniti distanco.",
+    "Najbolje delam pod pritiskom zadnjega trenutka.",
+    "Raje imam navodila po korakih.",
+    "Stvari premislim, preden jih izrečem.",
+    "Naloge dokončam precej pred rokom.",
+    "Odločam se bolj s srcem kot z glavo.",
+    "Hitro se vključim v pogovor.",
+    "Glede možnosti zaupam svojemu notranjemu občutku.",
+    "Všeč mi je objektivno tehtati prednosti in slabosti.",
+    "Strogi urniki me utesnjujejo.",
+    "Osredotočam se na to, kar se dogaja zdaj.",
+    "Miren večer doma je zame idealen.",
+    "Všeč mi je vedeti, kaj me čaka.",
+    "Težko kritiziram ljudi, ki so mi všeč.",
+    "Druženje z ljudmi mi napolni baterije.",
+    "Všeč mi je predstavljati si, kako bi lahko bile stvari drugačne.",
+    "Pravila bi morala za vse veljati enako.",
+    "Pogosto hkrati žongliram z več projekti.",
+    "Všeč so mi ideje z jasno praktično uporabo.",
+    "Svoje misli zadržim zase, dokler se ne izkristalizirajo.",
+    "Pišem sezname in se jih držim.",
+    "Zgodba druge osebe me hitro gane.",
+    "Všeč mi je, če imam širok krog prijateljev.",
+    "Pogosto berem med vrsticami.",
+    "Brez oklevanja opozorim na pomanjkljivosti v načrtih.",
+    "Všeč mi je pustiti, da me dan sam odnese.",
+    "Dobro si zapomnim konkretna dejstva in številke.",
+    "Množice me hitro izčrpajo.",
+    "Načrte raje uskladim zgodaj.",
+    "Za ljudi v težkih okoliščinah naredim izjeme.",
+    "Pogosto delim svoje misli, takoj ko se mi porodijo.",
+    "Teorije so mi ljubše od praktičnega dela.",
+    "Prepričajo me argumenti, ne čustva.",
+    "Načrte zlahka spremenim, ko se ponudi kaj boljšega.",
+    "Najbolje se učim s praktičnim delom.",
+    "Raje delam samostojno kot v skupini.",
+    "Nedokončane zadeve me vznemirjajo.",
+    "Želim, da se vsi počutijo vključene v odločitev.",
+    "Vikendi, polni načrtov, me osrečujejo.",
+    "Všeč mi je govoriti v prispodobah in podobah.",
+    "Raje imam prav, kot da me imajo ljudje radi.",
+    "Odločitve odlagam, dokler jih ne moram sprejeti.",
+    "Preizkušene metode so mi ljubše od nepreizkušenih.",
+    "V skupini besedo raje prepustim drugim.",
+    "Svoj koledar sproti posodabljam.",
+    "Napetost v skupini me močno prizadene.",
+    "Ko sem predolgo brez družbe, me prevzame nemir.",
+    "Hitro skočim k širši sliki.",
+    "Zame pravičnost pomeni doslednost.",
+    "Veliko stvari začnem in jih dokončam pozneje.",
+    "Stvari opisujem dobesedno in natančno.",
+    "Raje napišem sporočilo, kot da pokličem.",
+    "Preden začnem novo nalogo, najraje dokončam prejšnjo.",
+    "Prijaznost mi pomeni več kot to, da imam prav.",
+    "Na dogodkih uživam v klepetu z različnimi ljudmi.",
+    "Nove ideje me navdušijo bolj kot praktična dejstva.",
+    "Kritično povratno informacijo podam brez težav.",
+    "Torbo spakiram v čisto zadnjem trenutku.",
+    "Preden nekaj verjamem, želim videti dokaze.",
+    "Imam majhen krog bližnjih prijateljev.",
+    "Zmoti me, ko se načrti spremenijo v zadnjem trenutku.",
+    "Kritiko svojega dela pogosto vzamem osebno.",
+    "Zlahka začnem klepet z neznanimi ljudmi.",
+    "Navodila pogosto preskočim in stvar razvozlam po svoje.",
+    "Uživam v debatah, s katerimi preizkušam ideje.",
+    "Dnevi brez načrta mi dajejo občutek svobode.",
+    "Uživam v nalogah s konkretnimi, vidnimi rezultati.",
+    "Po dolgem dnevu sestankov se počutim izčrpano.",
+    "Pri delu imam raje jasno strukturo.",
+    "Pri odločitvah me vodijo moje vrednote.",
+    "Ideje raje snujem v skupini kot v samoti.",
+    "Privlači me tisto, kar je novo in nepreizkušeno.",
+    "Rešitev presojam po tem, kako dobro deluje.",
+    "Svoje načrte prilagajam razpoloženju.",
+    "Pri reševanju težav se zanašam na pretekle izkušnje.",
+    "Ljudje me sprva včasih težko preberejo.",
+    "Počitnice organiziram precej vnaprej.",
+    "Raje spodbujam kot kritiziram.",
+    "Navadno se med prvimi oglasim.",
+    "Sedanjosti namenjam več pozornosti kot prihodnosti.",
+    "Pri delu cenim usposobljenost bolj kot prijaznost.",
+    "Nedokončane malenkosti hitro uredim."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Ekstravertnost proti introvertnosti",
+      "short": "Ali energijo črpate predvsem iz zunanjega sveta ljudi in dejavnosti (E) ali iz notranjega sveta misli in razmisleka (I).",
+      "low": "Nagibate se k introvertnosti (I). Energijo si napolnite v tišini, premislite, preden spregovorite, in imate raje nekaj globokih pogovorov kot veliko kratkih. Ideje pogosto predelate v sebi in jih delite, ko so dodobra izoblikovane. Naporni družabni dnevi vas lahko utrudijo, tudi če ste v njih uživali. Nasvet: po intenzivnih družabnih dogodkih si načrtujte čas za okrevanje in ga razumite kot vzdrževanje, ne kot izogibanje. V skupini si svoj prispevek pripravite vnaprej ali ga pozneje pošljite pisno, da bodo vaše ideje slišane.",
+      "mid": "Ste blizu sredine med ekstravertnostjo in introvertnostjo, zato se lahko vaša črka spreminja glede na razpoloženje ali okoliščine. Uživate v družbi in dejavnostih, a potrebujete tudi čas zase, da si napolnite baterije. Glede na nalogo lahko razmišljate na glas z drugimi ali tiho sami pri sebi. Nasvet: opazujte svojo energijo po različnih vrstah dni. To znanje uporabite za tedenski ritem, ki združuje druženje in tišino v razmerju, ki vam ustreza.",
+      "high": "Nagibate se k ekstravertnosti (E). Energijo črpate iz ljudi, pogovorov in dejavnosti, pogosto pa najbolje razmišljate, ko stvari predebatirate. Hitro se vključite, ste dostopni in se v skupini dobro počutite. Daljša obdobja v samoti vas lahko naredijo nemirne. Nasvet: preden se v razpravi odzovete, za trenutek počakajte in najprej postavite eno vprašanje; tišjim ljudem s tem date prostor, svoje razmišljanje pa izostrite. Načrtujte si kratke trenutke razmisleka, da predelate, kar doživite."
+    },
+    "sensing": {
+      "name": "Čutno zaznavanje proti intuiciji",
+      "short": "Ali se osredotočate predvsem na konkretna dejstva, podrobnosti in izkušnje (S) ali na vzorce, možnosti in širšo sliko (N).",
+      "low": "Nagibate se k intuiciji (N). Naravno iščete pomen, vzorce in prihodnje možnosti ter uživate v idejah, teorijah in predstavljanju tega, kar bi lahko bilo. Rutinske podrobnosti vas lahko dolgočasijo in včasih preskočite korake, da pridete do širše slike. Nasvet: ko predstavljate svojo vizijo, dodajte konkretne primere in naslednje korake, da vam drugi lahko sledijo. Preden se zavežete, prosite sodelavca, ki je pozoren na podrobnosti, naj vaše načrte preveri glede praktičnih vrzeli.",
+      "mid": "Ste blizu sredine med čutnim zaznavanjem in intuicijo, zato se lahko vaša črka od situacije do situacije razlikuje. Znate delati s trdnimi dejstvi in podrobnostmi, hkrati pa radi raziskujete ideje in možnosti. Tako lahko povezujete praktične ljudi in vizionarje. Nasvet: opazujte, h kateremu načinu se zatečete pod pritiskom. Pri pomembnih odločitvah zavestno preverite oboje: kaj pravijo dejstva in katere nove možnosti bi bilo vredno premisliti?",
+      "high": "Nagibate se k čutnemu zaznavanju (S). Zaupate dejstvom, izkušnjam ter temu, kar lahko vidite in preizkusite. Opazite podrobnosti, imate raje jasna navodila in so vam všeč ideje s praktično uporabo. Ljudje se zanašajo na vaš realizem in natančnost. Nasvet: ko drugi delijo abstraktne ideje, jim dajte trenutek, preden presodite njihovo uporabnost; nekatere lahko prerastejo v nekaj koristnega. Občasno si poskusite predstavljati, kam bi lahko neki trend vodil čez pet let, da razširite svoj pogled."
+    },
+    "thinking": {
+      "name": "Mišljenje proti čustvovanju",
+      "short": "Ali se odločate predvsem z logiko in objektivno analizo (T) ali na podlagi osebnih vrednot in vpliva na ljudi (F).",
+      "low": "Nagibate se k čustvovanju (F). Odločate se tako, da pretehtate vrednote, odnose in to, kako bo odločitev vplivala na ljudi. Cenite harmonijo in prijaznost ter hitro začutite, kaj drugi potrebujejo. Ljudje se ob vas pogosto počutijo razumljene. Nasvet: ko je odločitev težka, si zapišite tudi objektivne prednosti in slabosti; tako boste svojo izbiro laže pojasnili. Ne pozabite, da je tudi iskrena povratna informacija, podana s toplino, oblika skrbi.",
+      "mid": "Ste blizu sredine med mišljenjem in čustvovanjem, zato se lahko vaša črka od situacije do situacije razlikuje. Pri odločanju upoštevate tako logiko kot vpliv na ljudi, kar vam pomaga najti pravične in uravnotežene rešitve. Nasvet: opazujte, ali se v službi bolj zanašate na logiko, doma pa na čustva, ali obratno. Pri ključnih odločitvah zavestno preverite oboje: je odločitev premišljena in je pravična do vpletenih?",
+      "high": "Nagibate se k mišljenju (T). Odločate se z logiko, doslednostjo in objektivno analizo. Pravičnost razumete kot enaka pravila za vse in znate podati tudi težko povratno informacijo, ne da bi vas zaneslo čustvo. Nasvet: preden izrečete kritiko, priznajte trud ali namen, ki stoji za delom druge osebe. Vprašajte se, kako bo odločitev doživljal tisti, ki ga zadeva; to pogosto izboljša sprejemanje, ne da bi oslabilo vašo utemeljitev."
+    },
+    "judging": {
+      "name": "Presojanje proti zaznavanju",
+      "short": "Ali imate raje načrtovano, odločeno in strukturirano življenje (J) ali prožno, odprto in spontano (P).",
+      "low": "Nagibate se k zaznavanju (P). Radi ohranjate odprte možnosti, se sproti prilagajate in se odločite, ko je treba. Pogosto delate v izbruhih energije, togi urniki pa vas utesnjujejo. Zato ste prožni in iznajdljivi, ko se načrti spremenijo. Nasvet: za bistvene stvari uporabite rahlo strukturo, na primer en sistem opomnikov za roke. Velike projekte razdelite na majhne mejnike, da zaključni sprint ne postane stresen.",
+      "mid": "Ste blizu sredine med presojanjem in zaznavanjem, zato se lahko vaša črka spreminja. Radi imate načrt, a ga zlahka opustite, ko se ponudi kaj boljšega. Roke znate upoštevati in hkrati uživati v spontanosti. Nasvet: opazujte, kje bi nekoliko več načrtovanja zmanjšalo stres, na primer pri potovanjih ali denarju, in kje bi več prožnosti prineslo več zabave. Prilagajajte se zavestno, ne po navadi.",
+      "high": "Nagibate se k presojanju (J). Radi načrtujete vnaprej, sprejemate odločitve in stvari pripeljete do konca. Jasni urniki, seznami in roki vam dajejo občutek nadzora, naloge pa navadno dokončate precej pred zadnjim trenutkom. Nasvet: v svoje načrte vgradite nekaj odprtega prostora, da vas presenečenja ne vržejo iz tira. Ko drugi delajo bolj sproščeno, se dogovorite za ključne roke in jim prepustite, kako bodo do njih prišli."
+    }
+  },
+  "summary": "Vaš tip združuje štiri preference: ekstravertnost ali introvertnost (E/I), čutno zaznavanje ali intuicijo (S/N), mišljenje ali čustvovanje (T/F) ter presojanje ali zaznavanje (J/P). Vsaka lestvica pokaže, kako močno se nagibate k eni strani; rezultati okoli 50 % pomenijo, da obe strani uporabljate dokaj prožno. Tipi opisujejo preference, ne sposobnosti, in noben tip ni boljši od drugega.",
+  "types": {
+    "ISTJ": {
+      "name": "Sidro",
+      "text": "Ste stanovitni, temeljiti in izjemno zanesljivi. Spoštujete dejstva, držite obljube in naloge metodično opravljate, dokler niso narejene, kot je treba. Ljudje računajo na vas, ker naredite, kar rečete. Raje imate jasna pričakovanja in preizkušene metode ter opazite napake, ki jih drugi spregledajo. Vaša tiha moč drži skupaj ekipe in družine. Nasvet za rast: ostanite odprti za nove pristope, tudi ko stari način še deluje; včasih poskus prinese resnično izboljšavo. Svojo hvaležnost drugim izrazite na glas, saj vaša zvestoba ni vedno vidna. Privoščite si počitek, ne da bi si ga morali najprej zaslužiti."
+    },
+    "ISFJ": {
+      "name": "Varuh",
+      "text": "Ste skrbni, vestni in tiho predani. Zapomnite si, kaj je ljudem pomembno, opazite njihove potrebe in pomagate na praktične načine, pogosto ne da bi vas kdo prosil. Cenite tradicijo, stabilnost in harmonijo ter se zelo trudite, da bi se drugi počutili varne in udobno. Vaša prijaznost je tiste stanovitne vrste, na katero se ljudje zanašajo leta. Nasvet za rast: vaše potrebe si zaslužijo enako pozornost, kot jo namenjate drugim, zato vadite, kako reči ne brez krivde. Ko vas kaj moti, to povejte, namesto da tiho požirate. Če drugim dovolite, da vas podprejo, odnose krepite, ne obremenjujete."
+    },
+    "INFJ": {
+      "name": "Tihi vizionar",
+      "text": "Združujete globok vpogled v ljudi z močnim občutkom za smisel. Začutite podtone v odnosih, razmišljate dolgoročno in želite, da bi vaše življenje prispevalo k nečemu pomembnemu. Ste zadržani, a topli, in ljudje, ki jih spustite blizu, se počutijo resnično videne. Vaši ideali vam dajejo smer in odločnost. Nasvet za rast: visoka merila se lahko sprevržejo v izčrpanost ali razočaranje, ko resničnost ne doseže pričakovanj, zato proslavljajte napredek, ne le popolnosti. Svoje ideje delite prej, namesto da čakate, da so popolnoma izoblikovane. Svojo energijo zaščitite z mejami, preden ste preobremenjeni, ne šele potem."
+    },
+    "INTJ": {
+      "name": "Veliki strateg",
+      "text": "Ste neodvisni, analitični in osredotočeni na dolgoročne cilje. Vidite, kako se sistemi povezujejo, hitro opazite neučinkovitosti in radi zasnujete boljše načine dela. Zaupate lastnemu razmisleku in ste pripravljeni iti svojo pot, da uresničite vizijo. Vaša odločnost lahko ambiciozne zamisli spremeni v resničnost. Nasvet za rast: drugi morda ne sledijo vaši logiki tako hitro kot vi, zato razlagajte korak za korakom in prosite za povratne informacije. Ne pozabite, da so tudi čustva ljudi podatki. Dopustite nepopolne prve različice; napredek je pogosto boljši od brezhibnega načrta, ki čaka."
+    },
+    "ISTP": {
+      "name": "Mojster spretnih rok",
+      "text": "Ste mirni, praktični in radovedni glede tega, kako stvari delujejo. Težave radi razumete s praktičnim delom, stvari razstavite in najdete učinkovite rešitve. V krizi ostanete hladnokrvni in odločno ukrepate, medtem ko drugi še govorijo. Cenite svobodo in ne marate nepotrebnih pravil ali dolgih sestankov. Nasvet za rast: svoje razmišljanje pogosteje delite z drugimi, saj lahko vaš molk razumejo kot nezanimanje. Zavežite se nekaj dolgoročnim ciljem, da bodo vaše številne spretnosti gradile nekaj večjega. Bližnjim povejte, kaj čutite; majhne besede hvaležnosti imajo veliko težo."
+    },
+    "ISFP": {
+      "name": "Nežni umetnik",
+      "text": "Ste občutljivi, prijazni in uglašeni z lepoto ter sedanjim trenutkom. Izražate se bolj z dejanji in ustvarjalnostjo kot z besedami ter cenite pristnost in svobodo. Ste strpni, odprti in zvesti ljudem ter stvarem, ki so vam pomembni. Ob vaši nežni prisotnosti se drugi počutijo sprejete. Nasvet za rast: konfliktom se morda izogibate, dokler se ne nabere frustracija, zato vadite, kako zgodaj izraziti manjše pomisleke. Svoje vrednote prelijte v nekaj konkretnih ciljev, da bodo vaši talenti dobili smer. Verjemite v svoje delo dovolj, da ga pokažete drugim; vaš pogled si zasluži, da je viden."
+    },
+    "INFP": {
+      "name": "Sanjač",
+      "text": "Ste idealistični, domišljijski in vas vodijo močne notranje vrednote. V vsem, kar počnete, iščete smisel in vam je zelo pomembna pristnost, pri sebi in pri drugih. Čustva dobro razumete in jih pogosto izražate s pisanjem, umetnostjo ali premišljenim pogovorom. Ste nežni, odprti in zvesti temu, v kar verjamete. Nasvet za rast: vaši ideali so kompas, a resničnost je redko popolna; delajte majhne praktične korake, namesto da čakate na idealen trenutek. Do sebe bodite enako sočutni kot do drugih. Svoje sanje delite z ljudmi, ki vam jih lahko pomagajo uresničiti."
+    },
+    "INTP": {
+      "name": "Reševalec ugank",
+      "text": "Ste logični, iznajdljivi in neskončno radovedni. Radi analizirate ideje, iščete nedoslednosti in gradite teorije, ki pojasnjujejo, kako stvari zares delujejo. Razmišljate neodvisno in uživate v globokih pogovorih o zahtevnih temah. Vaš um vidi izvirne rešitve, ki jih drugi spregledajo. Nasvet za rast: ideje dosežejo svoj potencial, ko jih delite in uporabite, zato si postavite majhne roke za dokončanje in predstavitev svojega dela. Bodite pozorni na praktične podrobnosti in na to, kako se počutijo drugi, saj je to pomembno, tudi ko se zdi nelogično. Povežite se z ljudmi, ki delijo vaša zanimanja; spodbudili bodo vaše razmišljanje."
+    },
+    "ESTP": {
+      "name": "Drznež",
+      "text": "Ste energični, pogumni in usmerjeni v akcijo. Živite v trenutku, hitro preberete situacijo in se razcvetite, ko se stvari hitro odvijajo. Uživate v izzivih, sprejemate premišljena tveganja in praktične težave rešujete na mestu. Ljudi privlačita vaša samozavest in smisel za zabavo. Nasvet za rast: preden se vržete v nekaj, premislite o dolgoročnih posledicah, zlasti pri denarju in odnosih. Vadite potrpežljivost s počasnejšimi procesi in ljudmi, ki za odločitev potrebujejo več časa. Premislite, kako vaš neposreden slog doživljajo občutljivejši ljudje; malo takta vaš vpliv še okrepi."
+    },
+    "ESFP": {
+      "name": "Iskrica",
+      "text": "Ste živahni, topli in zabavni. V vsak prostor prinesete energijo, uživate v ljudeh in doživetjih ter vsakdanjim trenutkom daste poseben čar. Ste praktični, radodarni in hitro priskočite na pomoč nekomu, ki mu je težko. Vaše navdušenje je nalezljivo in ljudje so radi v vaši bližini. Nasvet za rast: načrtovanje vnaprej se vam morda zdi dolgočasno, a malo strukture pri financah in dolgoročnih ciljih vam pozneje prinese več svobode. Soočite se s težkimi pogovori, namesto da se zamotite z drugim. Vzemite si nekaj mirnih trenutkov za razmislek o tem, kaj si resnično želite, ne le o tem, kar je prijetno zdaj."
+    },
+    "ENFP": {
+      "name": "Navdihovalec",
+      "text": "Ste navdušeni, ustvarjalni in polni možnosti. Zlahka se povežete z ljudmi, povsod vidite potencial in radi začenjate nove projekte in pogovore. Vaša toplina in domišljija spodbujata druge, da sanjajo bolj na veliko. Cenite svobodo, pristnost in pomenljive odnose. Nasvet za rast: vaše številne ideje potrebujejo osredotočenost, da prinesejo rezultate, zato izberite nekaj prednostnih nalog in jih izpeljite do konca. Za praktična opravila, ki se vam zdijo dolgočasna, si ustvarite preproste rutine. Ko po navdušenju novega začetka razpoloženje upade, se spomnite, da se velik del prave nagrade skriva v vztrajnem izpeljevanju."
+    },
+    "ENTP": {
+      "name": "Inovator",
+      "text": "Ste duhoviti, iznajdljivi in obožujete dobro debato. Stare težave vidite z novih zornih kotov, izzivate predpostavke in radi eksperimentirate z idejami. Hitro se prilagodite, energijo pa vam dajejo zahtevni izzivi in bistri ljudje. Radovednost vas žene, da izboljšate skoraj vse, česar se lotite. Nasvet za rast: ni treba zmagati v vsaki razpravi in nekateri debato doživljajo kot konflikt, zato preberite vzdušje. Svoje najboljše ideje izpeljite do konca, namesto da prehitro preskočite k naslednji. Povežite se z ljudmi, ki so pozorni na podrobnosti in vam pomagajo zamisli spremeniti v resničnost."
+    },
+    "ESTJ": {
+      "name": "Kapitan",
+      "text": "Ste organizirani, odločni in praktični. Radi imate jasne cilje, učinkovite postopke in opravljeno delo. Odgovornost prevzamete naravno, postavljate visoka merila in poskrbite, da se načrti izvedejo. Ljudje cenijo vašo neposrednost in zanesljivost. Nasvet za rast: vaš učinkovit slog lahko drugim deluje nadzorovalno, zato jih pred odločitvijo vprašajte za mnenje in pojasnite, zakaj. Ostanite odprti za nove metode, tudi ko trenutna deluje. Izkažite priznanje za trud ljudi, ne le za rezultate; priznanje druge motivira prav tako kot jasna navodila."
+    },
+    "ESFJ": {
+      "name": "Gostitelj",
+      "text": "Ste družabni, skrbni in čutite s skupnostjo. Opazite, kaj ljudje potrebujejo, poskrbite, da se počutijo dobrodošle, in radi povezujete druge. Cenite harmonijo, zvestobo in tradicijo ter vložite veliko truda v to, da odnosi in skupine tečejo gladko. Ob vas se ljudje počutijo preskrbljene. Nasvet za rast: kritiko ali konflikt morda jemljete osebno, zato se spomnite, da nestrinjanje ni zavrnitev. Preverite, ali pomagate, ker to želite, ali ker čutite, da morate. Naredite prostor za svoje potrebe in mnenja; pomembni so prav toliko kot potrebe in mnenja drugih."
+    },
+    "ENFJ": {
+      "name": "Mentor",
+      "text": "Ste topli, navdihujoči in osredotočeni na to, da ljudem pomagate rasti. Druge dobro preberete, v njih prebudite njihove prednosti in skupine povežete okoli skupnega cilja. Komunicirate z navdušenjem in prepričanjem ter se čutite odgovorne za dobrobit ljudi okoli sebe. Ljudje pogosto iščejo vaše vodstvo. Nasvet za rast: ne morete nositi vseh, zato drugim prepustite odgovornost za njihove odločitve. Opazite, kdaj prevzamete preveč ali zanemarite lastne potrebe. Sprejmite, da se nekateri z vami ne bodo strinjali; njihova drugačna pot ni merilo vaše vrednosti."
+    },
+    "ENTJ": {
+      "name": "Poveljnik",
+      "text": "Ste samozavestni, strateški in vas žene želja po dosežkih. Vidite širšo sliko, postavljate ambiciozne cilje ter organizirate ljudi in vire, da jih dosežete. Odločate se hitro, komunicirate jasno in se ne bojite izzivov ali odgovornosti. Drugi se pogosto ozirajo k vam, da bi vodili. Nasvet za rast: vaša hitrost in neposrednost lahko ljudi preplavita, zato upočasnite, prisluhnite in priznajte čustva. Ne pozabite, da motivacija raste, ko se ljudje počutijo slišane, ne le usmerjane. Naredite prostor za počitek in odnose; dolgoročni uspeh je odvisen od več kot le rezultatov."
+    }
+  }
+}

@@ -266,5 +266,16 @@
       "Da der Bericht ein digitaler Inhalt ist, der sofort geliefert wird, erlischt das gesetzliche Widerrufsrecht mit dem Versand. Wenn etwas nicht stimmt, helfen wir dir trotzdem immer weiter.",
       "Erstattungen erfolgen innerhalb von 5–10 Werktagen auf das ursprüngliche Zahlungsmittel."
     ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Fragen zu einem Test oder deinem Bericht? Schreib uns eine Nachricht – wir antworten innerhalb von 1–2 Werktagen.",
+    "name": "Name",
+    "email": "E-Mail-Adresse",
+    "message": "Nachricht",
+    "send": "Nachricht senden",
+    "sending": "Wird gesendet…",
+    "success": "Danke! Deine Nachricht wurde gesendet. Wir melden uns bald bei dir.",
+    "error": "Deine Nachricht konnte nicht gesendet werden. Bitte versuche es später erneut."
   }
 }

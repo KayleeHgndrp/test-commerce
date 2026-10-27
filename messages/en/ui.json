@@ -266,5 +266,16 @@
       "Because the report is digital content that is delivered immediately, the statutory right of withdrawal expires once it has been sent. We will still always help you if something is not right.",
       "Refunds are made to the original payment method within 5–10 business days."
     ]
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "Questions about a test or your report? Send us a message and we'll get back to you within 1–2 business days.",
+    "name": "Name",
+    "email": "Email address",
+    "message": "Message",
+    "send": "Send message",
+    "sending": "Sending…",
+    "success": "Thank you! Your message has been sent. We'll get back to you soon.",
+    "error": "Your message could not be sent. Please try again later."
   }
 }

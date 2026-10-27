@@ -6,8 +6,8 @@ import { scoreTest } from "@/lib/tests/scoring";
 const esc = (s: string) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
-// Builds the paid report email (HTML + plain text) for one completed test.
-export async function renderReport(locale: Locale, slug: string, answers: number[]) {
+// Collects everything the paid report shows, for both the email and the web page.
+export async function buildReport(locale: Locale, slug: string, answers: number[]) {
   const def = getDefinition(slug)!;
   const [ui, text] = await Promise.all([getUi(locale), getTestText(locale, slug)]);
   const result = scoreTest(def, answers);
@@ -43,6 +43,16 @@ export async function renderReport(locale: Locale, slug: string, answers: number
   });
 
   const crisis = result.crisis ? `${ui.result.crisisTitle}. ${ui.result.crisisText}` : "";
+
+  return { ui, text, vars, headline, instrument, sections, crisis };
+}
+
+export type Report = Awaited<ReturnType<typeof buildReport>>;
+
+// Builds the paid report email (HTML + plain text) for one completed test.
+export async function renderReport(locale: Locale, slug: string, answers: number[]) {
+  const { ui, text, vars, headline, instrument, sections, crisis } = await buildReport(locale, slug, answers);
+  const r = ui.report;
 
   const html = `<!doctype html><html lang="${locale}"><body style="margin:0;background:#f4f3fa;font-family:Arial,Helvetica,sans-serif;color:#17152b">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr><td align="center" style="padding:24px 12px">

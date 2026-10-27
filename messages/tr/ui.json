@@ -266,5 +266,16 @@
       "Rapor anında teslim edilen dijital içerik olduğundan, yasal cayma hakkı rapor gönderildiğinde sona erer. Yine de bir sorun olursa size her zaman yardımcı oluruz.",
       "İadeler, 5–10 iş günü içinde orijinal ödeme yöntemine yapılır."
     ]
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Bir test ya da raporun hakkında sorun mu var? Bize mesaj gönder, 1–2 iş günü içinde yanıt verelim.",
+    "name": "Ad",
+    "email": "E-posta adresi",
+    "message": "Mesaj",
+    "send": "Mesajı gönder",
+    "sending": "Gönderiliyor…",
+    "success": "Teşekkürler! Mesajın gönderildi. En kısa sürede dönüş yapacağız.",
+    "error": "Mesajın gönderilemedi. Lütfen daha sonra tekrar dene."
   }
 }

@@ -266,5 +266,16 @@
       "Tā kā pārskats ir uzreiz piegādāts digitāls saturs, likumā noteiktās atteikuma tiesības izbeidzas, tiklīdz tas ir nosūtīts. Tomēr, ja kaut kas nav kārtībā, mēs vienmēr palīdzēsim.",
       "Atmaksa tiek veikta uz sākotnējo maksājuma veidu 5–10 darba dienu laikā."
     ]
+  },
+  "contact": {
+    "title": "Kontakti",
+    "subtitle": "Jautājumi par testu vai tavu pārskatu? Uzraksti mums, un atbildēsim 1–2 darba dienu laikā.",
+    "name": "Vārds",
+    "email": "E-pasta adrese",
+    "message": "Ziņa",
+    "send": "Sūtīt ziņu",
+    "sending": "Sūta…",
+    "success": "Paldies! Tava ziņa ir nosūtīta. Drīz sazināsimies.",
+    "error": "Ziņu neizdevās nosūtīt. Lūdzu, mēģini vēlāk."
   }
 }

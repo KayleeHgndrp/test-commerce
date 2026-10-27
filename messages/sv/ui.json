@@ -266,5 +266,16 @@
       "Eftersom rapporten är digitalt innehåll som levereras direkt upphör den lagstadgade ångerrätten när den har skickats. Vi hjälper dig ändå alltid om något inte stämmer.",
       "Återbetalningar görs till det ursprungliga betalningssättet inom 5–10 bankdagar."
     ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Frågor om ett test eller din rapport? Skicka ett meddelande så svarar vi inom 1–2 arbetsdagar.",
+    "name": "Namn",
+    "email": "E-postadress",
+    "message": "Meddelande",
+    "send": "Skicka meddelande",
+    "sending": "Skickar…",
+    "success": "Tack! Ditt meddelande har skickats. Vi återkommer snart.",
+    "error": "Meddelandet kunde inte skickas. Försök igen senare."
   }
 }

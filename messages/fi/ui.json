@@ -266,5 +266,16 @@
       "Koska raportti on heti toimitettavaa digitaalista sisältöä, lakisääteinen peruuttamisoikeus päättyy, kun raportti on lähetetty. Autamme sinua silti aina, jos jokin ei ole kunnossa.",
       "Palautukset maksetaan alkuperäiselle maksutavalle 5–10 arkipäivän kuluessa."
     ]
+  },
+  "contact": {
+    "title": "Ota yhteyttä",
+    "subtitle": "Kysyttävää testistä tai raportistasi? Lähetä meille viesti, niin vastaamme 1–2 arkipäivän kuluessa.",
+    "name": "Nimi",
+    "email": "Sähköpostiosoite",
+    "message": "Viesti",
+    "send": "Lähetä viesti",
+    "sending": "Lähetetään…",
+    "success": "Kiitos! Viestisi on lähetetty. Palaamme asiaan pian.",
+    "error": "Viestiä ei voitu lähettää. Yritä myöhemmin uudelleen."
   }
 }

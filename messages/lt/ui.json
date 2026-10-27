@@ -266,5 +266,16 @@
       "Kadangi ataskaita yra iškart pateikiamas skaitmeninis turinys, įstatymais numatyta teisė atsisakyti sutarties išnyksta, kai ji išsiunčiama. Vis dėlto, jei kas nors ne taip, visada jums padėsime.",
       "Pinigai grąžinami pradiniu mokėjimo būdu per 5–10 darbo dienų."
     ]
+  },
+  "contact": {
+    "title": "Kontaktai",
+    "subtitle": "Turite klausimų apie testą ar ataskaitą? Parašykite mums ir atsakysime per 1–2 darbo dienas.",
+    "name": "Vardas",
+    "email": "El. pašto adresas",
+    "message": "Žinutė",
+    "send": "Siųsti žinutę",
+    "sending": "Siunčiama…",
+    "success": "Ačiū! Jūsų žinutė išsiųsta. Netrukus su jumis susisieksime.",
+    "error": "Žinutės išsiųsti nepavyko. Bandykite vėliau."
   }
 }

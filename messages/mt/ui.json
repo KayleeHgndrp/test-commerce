@@ -266,5 +266,16 @@
       "Peress li r-rapport huwa kontenut diġitali li jiġi kkunsinnat immedjatament, id-dritt statutorju ta' rtirar jiskadi ladarba jintbagħat. Madankollu, dejjem ngħinuk jekk xi ħaġa ma tkunx sew.",
       "Ir-rifużjonijiet isiru fuq il-metodu tal-ħlas oriġinali fi żmien 5–10 ijiem tax-xogħol."
     ]
+  },
+  "contact": {
+    "title": "Ikkuntattjana",
+    "subtitle": "Għandek mistoqsijiet dwar test jew ir-rapport tiegħek? Ibgħatilna messaġġ u nwieġbuk fi żmien 1–2 jiem tax-xogħol.",
+    "name": "Isem",
+    "email": "Indirizz tal-email",
+    "message": "Messaġġ",
+    "send": "Ibgħat messaġġ",
+    "sending": "Qed jintbagħat…",
+    "success": "Grazzi! Il-messaġġ tiegħek intbagħat. Nikkuntattjawk dalwaqt.",
+    "error": "Il-messaġġ ma setax jintbagħat. Erġa' pprova aktar tard."
   }
 }

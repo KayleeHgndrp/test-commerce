@@ -266,5 +266,16 @@
       "Kuna raport on kohe edastatav digitaalne sisu, lõpeb seadusjärgne taganemisõigus selle saatmisega. Kui midagi on valesti, aitame sind siiski alati.",
       "Raha tagastatakse algsele makseviisile 5–10 tööpäeva jooksul."
     ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Küsimusi testi või raporti kohta? Saada meile sõnum ja vastame 1–2 tööpäeva jooksul.",
+    "name": "Nimi",
+    "email": "E-posti aadress",
+    "message": "Sõnum",
+    "send": "Saada sõnum",
+    "sending": "Saadan…",
+    "success": "Aitäh! Sinu sõnum on saadetud. Võtame peagi ühendust.",
+    "error": "Sõnumit ei õnnestunud saata. Proovi hiljem uuesti."
   }
 }

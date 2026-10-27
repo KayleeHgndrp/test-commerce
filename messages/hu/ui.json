@@ -266,5 +266,16 @@
       "Mivel az értékelés azonnal teljesített digitális tartalom, a törvényes elállási jog az elküldésével megszűnik. Ha valami nincs rendben, természetesen mindig segítünk.",
       "A visszatérítés az eredeti fizetési módra történik, 5–10 munkanapon belül."
     ]
+  },
+  "contact": {
+    "title": "Kapcsolat",
+    "subtitle": "Kérdésed van egy teszttel vagy a jelentéseddel kapcsolatban? Írj nekünk, és 1–2 munkanapon belül válaszolunk.",
+    "name": "Név",
+    "email": "E-mail-cím",
+    "message": "Üzenet",
+    "send": "Üzenet küldése",
+    "sending": "Küldés…",
+    "success": "Köszönjük! Az üzenetedet elküldtük. Hamarosan válaszolunk.",
+    "error": "Az üzenetet nem sikerült elküldeni. Próbáld újra később."
   }
 }

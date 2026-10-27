@@ -266,5 +266,16 @@
       "Como el informe es contenido digital que se entrega de inmediato, el derecho legal de desistimiento se extingue una vez enviado. Aun así, siempre te ayudaremos si algo no va bien.",
       "Los reembolsos se realizan al método de pago original en un plazo de 5 a 10 días hábiles."
     ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Tienes preguntas sobre un test o tu informe? Envíanos un mensaje y te responderemos en 1–2 días laborables.",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "send": "Enviar mensaje",
+    "sending": "Enviando…",
+    "success": "¡Gracias! Tu mensaje se ha enviado. Te responderemos pronto.",
+    "error": "No se ha podido enviar tu mensaje. Inténtalo de nuevo más tarde."
   }
 }

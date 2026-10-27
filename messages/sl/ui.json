@@ -266,5 +266,16 @@
       "Ker je poročilo digitalna vsebina, ki je dostavljena takoj, zakonska pravica do odstopa od pogodbe preneha, ko je poslano. Kljub temu vam bomo vedno pomagali, če kaj ni v redu.",
       "Vračila izvedemo na prvotni način plačila v 5–10 delovnih dneh."
     ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Imate vprašanja o testu ali poročilu? Pošljite nam sporočilo in odgovorili vam bomo v 1–2 delovnih dneh.",
+    "name": "Ime",
+    "email": "E-poštni naslov",
+    "message": "Sporočilo",
+    "send": "Pošljite sporočilo",
+    "sending": "Pošiljanje…",
+    "success": "Hvala! Vaše sporočilo je bilo poslano. Kmalu se vam oglasimo.",
+    "error": "Sporočila ni bilo mogoče poslati. Poskusite znova pozneje."
   }
 }

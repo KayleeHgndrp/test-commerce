@@ -266,5 +266,16 @@
       "Omdat het rapport digitale inhoud is die direct wordt geleverd, vervalt het wettelijke herroepingsrecht zodra het is verstuurd. We helpen je natuurlijk altijd als er iets niet klopt.",
       "Terugbetalingen gebeuren via de oorspronkelijke betaalmethode binnen 5–10 werkdagen."
     ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Vragen over een test of je rapport? Stuur ons een bericht, dan reageren we binnen 1–2 werkdagen.",
+    "name": "Naam",
+    "email": "E-mailadres",
+    "message": "Bericht",
+    "send": "Verstuur bericht",
+    "sending": "Versturen…",
+    "success": "Bedankt! Je bericht is verstuurd. We nemen snel contact met je op.",
+    "error": "Je bericht kon niet worden verstuurd. Probeer het later opnieuw."
   }
 }

@@ -266,5 +266,16 @@
       "Deoarece raportul este conținut digital livrat imediat, dreptul legal de retragere se stinge odată ce a fost trimis. Cu toate acestea, te vom ajuta întotdeauna dacă ceva nu este în regulă.",
       "Rambursările se fac pe metoda de plată inițială, în 5–10 zile lucrătoare."
     ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Ai întrebări despre un test sau raportul tău? Trimite-ne un mesaj și îți răspundem în 1–2 zile lucrătoare.",
+    "name": "Nume",
+    "email": "Adresă de e-mail",
+    "message": "Mesaj",
+    "send": "Trimite mesajul",
+    "sending": "Se trimite…",
+    "success": "Mulțumim! Mesajul tău a fost trimis. Îți răspundem în curând.",
+    "error": "Mesajul nu a putut fi trimis. Încearcă din nou mai târziu."
   }
 }

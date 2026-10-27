@@ -266,5 +266,16 @@
       "Pošto je izveštaj digitalni sadržaj koji se odmah isporučuje, zakonsko pravo na odustanak od ugovora prestaje kada se pošalje. Ipak, uvek ćemo vam pomoći ako nešto nije u redu.",
       "Povraćaj novca vrši se na prvobitni način plaćanja u roku od 5 do 10 radnih dana."
     ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Imate pitanja o testu ili izveštaju? Pošaljite nam poruku i odgovorićemo u roku od 1–2 radna dana.",
+    "name": "Ime",
+    "email": "Adresa e-pošte",
+    "message": "Poruka",
+    "send": "Pošaljite poruku",
+    "sending": "Slanje…",
+    "success": "Hvala! Vaša poruka je poslata. Uskoro ćemo vam se javiti.",
+    "error": "Poruku nije bilo moguće poslati. Pokušajte ponovo kasnije."
   }
 }

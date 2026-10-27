@@ -31,7 +31,7 @@ export async function POST(request: Request) {
       return Response.json({ error: "payments_not_configured" }, { status: 500 });
     }
     await sendEmail(email, await renderReport(locale, slug, decoded));
-    return Response.json({ url: thanksUrl });
+    return Response.json({ url: `${thanksUrl}?dev_answers=${answers}` });
   }
 
   const text = await getTestText(locale, slug);
@@ -43,7 +43,7 @@ export async function POST(request: Request) {
     "line_items[0][price_data][currency]": site.currency,
     "line_items[0][price_data][unit_amount]": String(site.priceCents),
     "line_items[0][price_data][product_data][name]": `${text.name} – ${site.name}`,
-    success_url: thanksUrl,
+    success_url: `${thanksUrl}?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${origin}/${locale}/${slug}/result`,
     "metadata[slug]": slug,
     "metadata[locale]": locale,

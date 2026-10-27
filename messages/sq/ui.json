@@ -266,5 +266,16 @@
       "Meqenëse raporti është përmbajtje dixhitale që dorëzohet menjëherë, e drejta ligjore e tërheqjes skadon sapo të jetë dërguar. Megjithatë, do të të ndihmojmë gjithmonë nëse diçka nuk shkon.",
       "Rimbursimet bëhen në mënyrën origjinale të pagesës brenda 5–10 ditëve pune."
     ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Ke pyetje për një test ose raportin tënd? Na dërgo një mesazh dhe do të përgjigjemi brenda 1–2 ditëve pune.",
+    "name": "Emri",
+    "email": "Adresa e email-it",
+    "message": "Mesazhi",
+    "send": "Dërgo mesazhin",
+    "sending": "Po dërgohet…",
+    "success": "Faleminderit! Mesazhi yt u dërgua. Do të të kontaktojmë së shpejti.",
+    "error": "Mesazhi nuk mund të dërgohej. Provo përsëri më vonë."
   }
 }

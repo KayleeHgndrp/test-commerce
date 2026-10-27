@@ -1,20 +1,5 @@
-import { sendEmail } from "@/lib/email";
-import { hasLocale } from "@/lib/i18n/locales";
-import { getDefinition } from "@/lib/i18n/messages";
-import { renderReport } from "@/lib/report/render";
-import { stripeRequest, verifyStripeSignature } from "@/lib/stripe";
-import { decodeAnswers } from "@/lib/tests/scoring";
-
-type CheckoutSession = {
-  id: string;
-  payment_status: string;
-  payment_intent: string | null;
-  customer_email: string | null;
-  customer_details?: { email?: string | null };
-  metadata: Record<string, string>;
-};
-
-type PaymentIntent = { metadata: Record<string, string> };
+import { deliverOnce, paidOrder, type CheckoutSession } from "@/lib/delivery";
+import { verifyStripeSignature } from "@/lib/stripe";
 
 export async function POST(request: Request) {
   const payload = await request.text();
@@ -29,28 +14,9 @@ export async function POST(request: Request) {
     return new Response("ignored");
   }
 
-  const session = event.data.object;
-  if (session.payment_status !== "paid") return new Response("not paid yet");
+  const order = paidOrder(event.data.object);
+  if (!order) return new Response("not paid or invalid metadata");
 
-  const { slug, locale, answers } = session.metadata;
-  const def = getDefinition(slug);
-  const decoded = def ? decodeAnswers(def, answers) : null;
-  const email = session.customer_details?.email ?? session.customer_email;
-  if (!decoded || !hasLocale(locale) || !email) {
-    console.error(`[webhook] cannot build report for session ${session.id}`);
-    return new Response("bad metadata");
-  }
-
-  // Stripe can deliver an event more than once; remember on the payment intent that the report went out.
-  if (session.payment_intent) {
-    const intent = await stripeRequest<PaymentIntent>(`payment_intents/${session.payment_intent}`);
-    if (intent.metadata.report_sent) return new Response("already sent");
-  }
-
-  await sendEmail(email, await renderReport(locale, slug, decoded));
-
-  if (session.payment_intent) {
-    await stripeRequest(`payment_intents/${session.payment_intent}`, { "metadata[report_sent]": "1" });
-  }
+  await deliverOnce(order);
   return new Response("ok");
 }

@@ -266,5 +266,16 @@
       "Ponieważ raport jest treścią cyfrową dostarczaną natychmiast, ustawowe prawo do odstąpienia od umowy wygasa z chwilą jego wysłania. Mimo to zawsze pomożemy, jeśli coś jest nie tak.",
       "Zwroty są realizowane na pierwotną metodę płatności w ciągu 5–10 dni roboczych."
     ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Masz pytania dotyczące testu lub raportu? Napisz do nas – odpowiemy w ciągu 1–2 dni roboczych.",
+    "name": "Imię",
+    "email": "Adres e-mail",
+    "message": "Wiadomość",
+    "send": "Wyślij wiadomość",
+    "sending": "Wysyłanie…",
+    "success": "Dziękujemy! Wiadomość została wysłana. Wkrótce się odezwiemy.",
+    "error": "Nie udało się wysłać wiadomości. Spróbuj ponownie później."
   }
 }

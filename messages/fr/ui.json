@@ -266,5 +266,16 @@
       "Le rapport étant un contenu numérique livré immédiatement, le droit légal de rétractation prend fin dès son envoi. Nous vous aiderons néanmoins toujours si quelque chose ne va pas.",
       "Les remboursements sont effectués sur le moyen de paiement d'origine sous 5 à 10 jours ouvrés."
     ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Une question sur un test ou votre rapport ? Envoyez-nous un message, nous vous répondrons sous 1 à 2 jours ouvrés.",
+    "name": "Nom",
+    "email": "Adresse e-mail",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "sending": "Envoi…",
+    "success": "Merci ! Votre message a été envoyé. Nous vous répondrons rapidement.",
+    "error": "Votre message n'a pas pu être envoyé. Veuillez réessayer plus tard."
   }
 }

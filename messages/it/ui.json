@@ -266,5 +266,16 @@
       "Poiché il report è un contenuto digitale consegnato immediatamente, il diritto di recesso previsto dalla legge decade una volta inviato. Ti aiuteremo comunque sempre se qualcosa non va.",
       "I rimborsi vengono effettuati sul metodo di pagamento originale entro 5–10 giorni lavorativi."
     ]
+  },
+  "contact": {
+    "title": "Contatti",
+    "subtitle": "Domande su un test o sul tuo report? Scrivici un messaggio e ti risponderemo entro 1–2 giorni lavorativi.",
+    "name": "Nome",
+    "email": "Indirizzo email",
+    "message": "Messaggio",
+    "send": "Invia messaggio",
+    "sending": "Invio in corso…",
+    "success": "Grazie! Il tuo messaggio è stato inviato. Ti risponderemo presto.",
+    "error": "Non è stato possibile inviare il messaggio. Riprova più tardi."
   }
 }

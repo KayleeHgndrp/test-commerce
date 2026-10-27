@@ -266,5 +266,16 @@
       "Com que l'informe és contingut digital que es lliura immediatament, el dret legal de desistiment s'extingeix un cop s'ha enviat. Tot i així, sempre t'ajudarem si alguna cosa no va bé.",
       "Els reemborsaments es fan al mitjà de pagament original en un termini de 5 a 10 dies hàbils."
     ]
+  },
+  "contact": {
+    "title": "Contacte",
+    "subtitle": "Tens preguntes sobre un test o el teu informe? Envia'ns un missatge i et respondrem en 1–2 dies laborables.",
+    "name": "Nom",
+    "email": "Adreça electrònica",
+    "message": "Missatge",
+    "send": "Envia el missatge",
+    "sending": "S'està enviant…",
+    "success": "Gràcies! El teu missatge s'ha enviat. Et respondrem aviat.",
+    "error": "No s'ha pogut enviar el missatge. Torna-ho a provar més tard."
   }
 }

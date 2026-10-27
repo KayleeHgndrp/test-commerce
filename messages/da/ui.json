@@ -266,5 +266,16 @@
       "Da rapporten er digitalt indhold, der leveres med det samme, bortfalder den lovbestemte fortrydelsesret, når den er sendt. Vi hjælper dig dog altid, hvis noget ikke er, som det skal være.",
       "Refusioner sker til den oprindelige betalingsmetode inden for 5–10 hverdage."
     ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Spørgsmål om en test eller din rapport? Send os en besked, så svarer vi inden for 1–2 hverdage.",
+    "name": "Navn",
+    "email": "E-mailadresse",
+    "message": "Besked",
+    "send": "Send besked",
+    "sending": "Sender…",
+    "success": "Tak! Din besked er sendt. Vi vender tilbage snarest.",
+    "error": "Din besked kunne ikke sendes. Prøv igen senere."
   }
 }

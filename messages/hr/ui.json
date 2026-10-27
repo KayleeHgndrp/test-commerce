@@ -266,5 +266,16 @@
       "Budući da je izvješće digitalni sadržaj koji se odmah isporučuje, zakonsko pravo na jednostrani raskid ugovora prestaje nakon njegova slanja. Ipak, uvijek ćemo vam pomoći ako nešto nije u redu.",
       "Povrat novca provodi se na izvorni način plaćanja u roku od 5 do 10 radnih dana."
     ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Imate pitanja o testu ili izvješću? Pošaljite nam poruku i odgovorit ćemo u roku od 1–2 radna dana.",
+    "name": "Ime",
+    "email": "Adresa e-pošte",
+    "message": "Poruka",
+    "send": "Pošaljite poruku",
+    "sending": "Slanje…",
+    "success": "Hvala! Vaša poruka je poslana. Uskoro ćemo vam se javiti.",
+    "error": "Poruku nije bilo moguće poslati. Pokušajte ponovno kasnije."
   }
 }
