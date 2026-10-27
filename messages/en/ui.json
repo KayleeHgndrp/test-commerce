@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "title": "{site} – Free online psychology tests",
+    "description": "Take in-depth tests on personality, attachment, career, ADHD, burnout and more. Free to take, with a detailed personal report for just {price}."
+  },
+  "nav": {
+    "tests": "Tests",
+    "howItWorks": "How it works",
+    "faq": "FAQ",
+    "language": "Language"
+  },
+  "home": {
+    "heroTitle": "Understand yourself better",
+    "heroSubtitle": "{count} free online tests on personality, relationships, work and wellbeing. Get your in-depth personal report by email for just {price}.",
+    "heroCta": "Browse all tests",
+    "testsTitle": "Choose a test",
+    "testsSubtitle": "All tests are free to take and available in {languages} languages.",
+    "howTitle": "How it works",
+    "step1Title": "Take the test",
+    "step1Text": "Answer 100 short questions honestly. It takes about 5 minutes.",
+    "step2Title": "See your preview",
+    "step2Text": "Get an instant overview of what your results cover.",
+    "step3Title": "Receive your report",
+    "step3Text": "Unlock your full personal report for {price}. It is sent straight to your inbox.",
+    "faqTitle": "Frequently asked questions",
+    "faq1Q": "Is taking a test free?",
+    "faq1A": "Yes. Every test is free to take. Only the detailed personal report costs {price}, as a one-time payment with no subscription.",
+    "faq2Q": "How do I receive my report?",
+    "faq2A": "After payment your report is sent to the email address you entered, usually within a minute. Please check your spam folder if you do not see it.",
+    "faq3Q": "Are these tests a medical diagnosis?",
+    "faq3A": "No. Our tests are designed for self-reflection and are not a substitute for an assessment by a qualified professional.",
+    "faq4Q": "What happens to my answers?",
+    "faq4A": "Your answers are only used to calculate your result and generate your report. We do not create an account or sell your data.",
+    "faq5Q": "Is there a subscription?",
+    "faq5A": "No. You pay {price} once per report. There are no recurring charges."
+  },
+  "categories": {
+    "personality": "Personality & type",
+    "relationships": "Relationships & emotions",
+    "work": "Work & values",
+    "screeners": "Screeners",
+    "wellbeing": "Wellbeing & habits"
+  },
+  "test": {
+    "start": "Start the test",
+    "questions": "{count} questions",
+    "minutes": "{count} min",
+    "free": "Free",
+    "aboutTitle": "About this test",
+    "whatYouGet": "What your report includes",
+    "whatYouGet1": "Your score on every dimension: {dimensions}",
+    "whatYouGet2": "A personal interpretation of each score",
+    "whatYouGet3": "Practical tips you can apply right away",
+    "otherTests": "Other popular tests",
+    "question": "Question {current} of {total}",
+    "back": "Back",
+    "next": "Next",
+    "finish": "See my results",
+    "chooseAnswer": "Choose the answer that fits you best.",
+    "resume": "You have an unfinished test. Continue where you left off?",
+    "resumeYes": "Continue",
+    "resumeNo": "Start over",
+    "genderTitle": "First, a quick question",
+    "genderQuestion": "What is your gender?",
+    "genderMale": "Male",
+    "genderFemale": "Female",
+    "genderOther": "Other / prefer not to say",
+    "screenerNote": "This test is a screening tool, not a diagnosis."
+  },
+  "scales": {
+    "agree": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral",
+      "Agree",
+      "Strongly agree"
+    ],
+    "frequency": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often",
+      "Very often"
+    ],
+    "phq": [
+      "Not at all",
+      "Several days",
+      "More than half the days",
+      "Nearly every day"
+    ],
+    "intensity": [
+      "Not at all",
+      "A little bit",
+      "Moderately",
+      "Quite a bit",
+      "Extremely"
+    ]
+  },
+  "levels": {
+    "low": "Low",
+    "mid": "Medium",
+    "high": "High"
+  },
+  "result": {
+    "title": "Your results are ready",
+    "subtitle": "You completed the {test}. Unlock your full personal report to see your scores and what they mean.",
+    "mainType": "Your main type",
+    "locked": "Locked",
+    "unlockTitle": "Get your full report",
+    "unlockText": "Your detailed report with all scores, personal interpretations and practical tips, sent to your email.",
+    "emailLabel": "Email address",
+    "emailPlaceholder": "you@example.com",
+    "consent": "I agree to the terms and privacy policy.",
+    "buy": "Get my report for {price}",
+    "secure": "Secure payment via Stripe. One-time payment, no subscription.",
+    "invalidEmail": "Please enter a valid email address.",
+    "consentRequired": "Please accept the terms to continue.",
+    "error": "Something went wrong. Please try again.",
+    "noAnswers": "We could not find your answers. Please take the test first.",
+    "takeTest": "Take the test",
+    "crisisTitle": "You are not alone",
+    "crisisText": "You indicated that you have had thoughts of being better off dead or of hurting yourself. Please talk to someone today. If you are in immediate danger, call 112. You can also contact a crisis line in your country, such as those listed on findahelpline.com, any time of day.",
+    "crisisLink": "Find a helpline near you"
+  },
+  "thanks": {
+    "title": "Thank you for your purchase!",
+    "text": "Your personal report is on its way to your inbox. It usually arrives within a minute.",
+    "spam": "Not received after 10 minutes? Check your spam or promotions folder, or contact us at {email}.",
+    "more": "Discover more tests"
+  },
+  "report": {
+    "subject": "Your {test} report",
+    "greeting": "Hello,",
+    "intro": "Thank you for taking the {test} on {site}. Here is your personal report.",
+    "scoreLabel": "Your score",
+    "outro": "We hope this report gives you useful insights. Curious about other aspects of yourself? Discover all our tests at {url}.",
+    "signature": "The {site} team",
+    "instrumentLabel": "{name}: {score} of {max}",
+    "typeLabel": "Your type"
+  },
+  "footer": {
+    "rights": "© {year} {site}. All rights reserved.",
+    "disclaimer": "{site} is not a medical service. For clinical concerns, please consult a licensed professional.",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "contact": "Contact"
+  },
+  "legal": {
+    "privacyTitle": "Privacy policy",
+    "privacyBody": [
+      "We only collect the data needed to provide our service: your test answers and, if you buy a report, your email address.",
+      "Your answers are processed to calculate your result. When you buy a report, your answers and email address are passed to our payment provider Stripe and our email provider in order to process the payment and deliver the report.",
+      "We do not sell your data and do not use it for advertising. You can ask us at any time to delete your data by contacting {email}.",
+      "Payments are handled by Stripe. We never see or store your card details."
+    ],
+    "termsTitle": "Terms of service",
+    "termsBody": [
+      "All tests on {site} are intended for self-reflection and entertainment. They are not a medical, psychological or professional diagnosis.",
+      "Taking a test is free. A personal report costs {price} per test as a one-time payment. The report is delivered digitally by email.",
+      "Because the report is digital content delivered immediately after payment, you agree that the right of withdrawal expires once the report has been sent. If you did not receive your report, contact {email} and we will resend it or refund you.",
+      "We do our best to keep the content accurate, but we cannot guarantee that the results are complete or correct for every person."
+    ]
+  }
+}

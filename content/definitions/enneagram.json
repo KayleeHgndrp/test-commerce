@@ -1,0 +1,344 @@
+{
+  "slug": "enneagram",
+  "kind": "likert",
+  "scale": "agree",
+  "category": "personality",
+  "minutes": 5,
+  "icon": "⭐",
+  "outcome": "top",
+  "dimensions": [
+    "type1",
+    "type2",
+    "type3",
+    "type4",
+    "type5",
+    "type6",
+    "type7",
+    "type8",
+    "type9"
+  ],
+  "items": [
+    {
+      "dim": "type1"
+    },
+    {
+      "dim": "type2"
+    },
+    {
+      "dim": "type3"
+    },
+    {
+      "dim": "type4"
+    },
+    {
+      "dim": "type5",
+      "rev": true
+    },
+    {
+      "dim": "type6",
+      "rev": true
+    },
+    {
+      "dim": "type7"
+    },
+    {
+      "dim": "type8"
+    },
+    {
+      "dim": "type9"
+    },
+    {
+      "dim": "type2"
+    },
+    {
+      "dim": "type1",
+      "rev": true
+    },
+    {
+      "dim": "type9"
+    },
+    {
+      "dim": "type8"
+    },
+    {
+      "dim": "type7"
+    },
+    {
+      "dim": "type6"
+    },
+    {
+      "dim": "type5"
+    },
+    {
+      "dim": "type4",
+      "rev": true
+    },
+    {
+      "dim": "type3"
+    },
+    {
+      "dim": "type5"
+    },
+    {
+      "dim": "type6"
+    },
+    {
+      "dim": "type7",
+      "rev": true
+    },
+    {
+      "dim": "type8"
+    },
+    {
+      "dim": "type9"
+    },
+    {
+      "dim": "type1"
+    },
+    {
+      "dim": "type2",
+      "rev": true
+    },
+    {
+      "dim": "type3"
+    },
+    {
+      "dim": "type4"
+    },
+    {
+      "dim": "type6",
+      "rev": true
+    },
+    {
+      "dim": "type5"
+    },
+    {
+      "dim": "type4"
+    },
+    {
+      "dim": "type3",
+      "rev": true
+    },
+    {
+      "dim": "type2"
+    },
+    {
+      "dim": "type1"
+    },
+    {
+      "dim": "type9"
+    },
+    {
+      "dim": "type8",
+      "rev": true
+    },
+    {
+      "dim": "type7"
+    },
+    {
+      "dim": "type9",
+      "rev": true
+    },
+    {
+      "dim": "type1"
+    },
+    {
+      "dim": "type2"
+    },
+    {
+      "dim": "type3"
+    },
+    {
+      "dim": "type4",
+      "rev": true
+    },
+    {
+      "dim": "type5"
+    },
+    {
+      "dim": "type6"
+    },
+    {
+      "dim": "type7"
+    },
+    {
+      "dim": "type8"
+    },
+    {
+      "dim": "type1",
+      "rev": true
+    },
+    {
+      "dim": "type9"
+    },
+    {
+      "dim": "type8"
+    },
+    {
+      "dim": "type7"
+    },
+    {
+      "dim": "type6"
+    },
+    {
+      "dim": "type5",
+      "rev": true
+    },
+    {
+      "dim": "type4"
+    },
+    {
+      "dim": "type3"
+    },
+    {
+      "dim": "type2",
+      "rev": true
+    },
+    {
+      "dim": "type4"
+    },
+    {
+      "dim": "type5"
+    },
+    {
+      "dim": "type6"
+    },
+    {
+      "dim": "type7"
+    },
+    {
+      "dim": "type8"
+    },
+    {
+      "dim": "type9"
+    },
+    {
+      "dim": "type1"
+    },
+    {
+      "dim": "type2"
+    },
+    {
+      "dim": "type3"
+    },
+    {
+      "dim": "type5"
+    },
+    {
+      "dim": "type4"
+    },
+    {
+      "dim": "type3"
+    },
+    {
+      "dim": "type2"
+    },
+    {
+      "dim": "type1"
+    },
+    {
+      "dim": "type9"
+    },
+    {
+      "dim": "type8"
+    },
+    {
+      "dim": "type7",
+      "rev": true
+    },
+    {
+      "dim": "type6",
+      "rev": true
+    },
+    {
+      "dim": "type8",
+      "rev": true
+    },
+    {
+      "dim": "type9"
+    },
+    {
+      "dim": "type1"
+    },
+    {
+      "dim": "type2"
+    },
+    {
+      "dim": "type3",
+      "rev": true
+    },
+    {
+      "dim": "type4",
+      "rev": true
+    },
+    {
+      "dim": "type5"
+    },
+    {
+      "dim": "type6"
+    },
+    {
+      "dim": "type7"
+    },
+    {
+      "dim": "type9",
+      "rev": true
+    },
+    {
+      "dim": "type8"
+    },
+    {
+      "dim": "type7"
+    },
+    {
+      "dim": "type6"
+    },
+    {
+      "dim": "type5"
+    },
+    {
+      "dim": "type4"
+    },
+    {
+      "dim": "type3"
+    },
+    {
+      "dim": "type2",
+      "rev": true
+    },
+    {
+      "dim": "type1",
+      "rev": true
+    },
+    {
+      "dim": "type3"
+    },
+    {
+      "dim": "type4"
+    },
+    {
+      "dim": "type5"
+    },
+    {
+      "dim": "type6"
+    },
+    {
+      "dim": "type7"
+    },
+    {
+      "dim": "type8"
+    },
+    {
+      "dim": "type9"
+    },
+    {
+      "dim": "type1"
+    },
+    {
+      "dim": "type2"
+    },
+    {
+      "dim": "type1"
+    }
+  ]
+}

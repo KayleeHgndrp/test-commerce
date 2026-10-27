@@ -1,0 +1,353 @@
+{
+  "slug": "big-five",
+  "kind": "likert",
+  "scale": "agree",
+  "category": "personality",
+  "minutes": 5,
+  "icon": "🌊",
+  "outcome": "dimensions",
+  "dimensions": [
+    "intellect",
+    "aesthetics",
+    "industriousness",
+    "orderliness",
+    "enthusiasm",
+    "assertiveness",
+    "compassion",
+    "politeness",
+    "volatility",
+    "withdrawal"
+  ],
+  "items": [
+    {
+      "dim": "intellect"
+    },
+    {
+      "dim": "aesthetics"
+    },
+    {
+      "dim": "industriousness",
+      "rev": true
+    },
+    {
+      "dim": "orderliness"
+    },
+    {
+      "dim": "enthusiasm"
+    },
+    {
+      "dim": "assertiveness",
+      "rev": true
+    },
+    {
+      "dim": "compassion"
+    },
+    {
+      "dim": "politeness"
+    },
+    {
+      "dim": "volatility",
+      "rev": true
+    },
+    {
+      "dim": "withdrawal"
+    },
+    {
+      "dim": "aesthetics"
+    },
+    {
+      "dim": "intellect",
+      "rev": true
+    },
+    {
+      "dim": "withdrawal",
+      "rev": true
+    },
+    {
+      "dim": "volatility"
+    },
+    {
+      "dim": "politeness"
+    },
+    {
+      "dim": "compassion",
+      "rev": true
+    },
+    {
+      "dim": "assertiveness"
+    },
+    {
+      "dim": "enthusiasm"
+    },
+    {
+      "dim": "orderliness",
+      "rev": true
+    },
+    {
+      "dim": "industriousness"
+    },
+    {
+      "dim": "enthusiasm",
+      "rev": true
+    },
+    {
+      "dim": "assertiveness"
+    },
+    {
+      "dim": "compassion"
+    },
+    {
+      "dim": "politeness",
+      "rev": true
+    },
+    {
+      "dim": "volatility"
+    },
+    {
+      "dim": "withdrawal"
+    },
+    {
+      "dim": "intellect"
+    },
+    {
+      "dim": "aesthetics",
+      "rev": true
+    },
+    {
+      "dim": "industriousness"
+    },
+    {
+      "dim": "orderliness"
+    },
+    {
+      "dim": "assertiveness",
+      "rev": true
+    },
+    {
+      "dim": "enthusiasm"
+    },
+    {
+      "dim": "orderliness"
+    },
+    {
+      "dim": "industriousness",
+      "rev": true
+    },
+    {
+      "dim": "aesthetics"
+    },
+    {
+      "dim": "intellect"
+    },
+    {
+      "dim": "withdrawal"
+    },
+    {
+      "dim": "volatility",
+      "rev": true
+    },
+    {
+      "dim": "politeness"
+    },
+    {
+      "dim": "compassion"
+    },
+    {
+      "dim": "volatility"
+    },
+    {
+      "dim": "withdrawal",
+      "rev": true
+    },
+    {
+      "dim": "intellect",
+      "rev": true
+    },
+    {
+      "dim": "aesthetics"
+    },
+    {
+      "dim": "industriousness"
+    },
+    {
+      "dim": "orderliness",
+      "rev": true
+    },
+    {
+      "dim": "enthusiasm"
+    },
+    {
+      "dim": "assertiveness"
+    },
+    {
+      "dim": "compassion",
+      "rev": true
+    },
+    {
+      "dim": "politeness"
+    },
+    {
+      "dim": "withdrawal"
+    },
+    {
+      "dim": "volatility"
+    },
+    {
+      "dim": "politeness",
+      "rev": true
+    },
+    {
+      "dim": "compassion"
+    },
+    {
+      "dim": "assertiveness"
+    },
+    {
+      "dim": "enthusiasm",
+      "rev": true
+    },
+    {
+      "dim": "orderliness"
+    },
+    {
+      "dim": "industriousness"
+    },
+    {
+      "dim": "aesthetics",
+      "rev": true
+    },
+    {
+      "dim": "intellect"
+    },
+    {
+      "dim": "industriousness",
+      "rev": true
+    },
+    {
+      "dim": "orderliness"
+    },
+    {
+      "dim": "enthusiasm"
+    },
+    {
+      "dim": "assertiveness",
+      "rev": true
+    },
+    {
+      "dim": "compassion"
+    },
+    {
+      "dim": "politeness"
+    },
+    {
+      "dim": "volatility",
+      "rev": true
+    },
+    {
+      "dim": "withdrawal"
+    },
+    {
+      "dim": "intellect"
+    },
+    {
+      "dim": "aesthetics"
+    },
+    {
+      "dim": "orderliness",
+      "rev": true
+    },
+    {
+      "dim": "industriousness"
+    },
+    {
+      "dim": "aesthetics"
+    },
+    {
+      "dim": "intellect",
+      "rev": true
+    },
+    {
+      "dim": "withdrawal",
+      "rev": true
+    },
+    {
+      "dim": "volatility"
+    },
+    {
+      "dim": "politeness"
+    },
+    {
+      "dim": "compassion",
+      "rev": true
+    },
+    {
+      "dim": "assertiveness"
+    },
+    {
+      "dim": "enthusiasm"
+    },
+    {
+      "dim": "compassion"
+    },
+    {
+      "dim": "politeness",
+      "rev": true
+    },
+    {
+      "dim": "volatility"
+    },
+    {
+      "dim": "withdrawal"
+    },
+    {
+      "dim": "intellect"
+    },
+    {
+      "dim": "aesthetics",
+      "rev": true
+    },
+    {
+      "dim": "industriousness"
+    },
+    {
+      "dim": "orderliness"
+    },
+    {
+      "dim": "enthusiasm",
+      "rev": true
+    },
+    {
+      "dim": "assertiveness"
+    },
+    {
+      "dim": "politeness"
+    },
+    {
+      "dim": "compassion"
+    },
+    {
+      "dim": "assertiveness"
+    },
+    {
+      "dim": "enthusiasm"
+    },
+    {
+      "dim": "orderliness"
+    },
+    {
+      "dim": "industriousness"
+    },
+    {
+      "dim": "aesthetics"
+    },
+    {
+      "dim": "intellect"
+    },
+    {
+      "dim": "withdrawal"
+    },
+    {
+      "dim": "volatility"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "name": "16 Personality Types Test",
+  "tagline": "Find your four-letter type and what it says about you.",
+  "intro": "This test places you on four preference scales: where you get your energy, how you take in information, how you make decisions and how you organise your life. Your four preferences combine into one of 16 personality types. Rate 100 short statements; it takes about five minutes.",
+  "seoTitle": "16 Personality Types Test – Free four-letter type",
+  "seoDescription": "Discover your four-letter personality type in 5 minutes. See your preferences on each scale and read a portrait of your type with practical tips.",
+  "items": [
+    "I think best when I talk ideas through with others.",
+    "I often think about what the future could hold.",
+    "I make decisions based on logic first.",
+    "I like to keep my options open.",
+    "I trust facts more than hunches.",
+    "I need time alone to recharge after people.",
+    "I like to have my day planned out.",
+    "I weigh how my choices affect others' feelings.",
+    "Meeting new people gives me a boost.",
+    "I enjoy finding hidden patterns and meanings.",
+    "I value honesty over tact.",
+    "I enjoy deciding things on the spur of the moment.",
+    "I notice small details others miss.",
+    "I prefer one deep talk to many light ones.",
+    "I feel relieved once a decision is made.",
+    "Keeping the peace is important to me.",
+    "I enjoy working in an open, lively space.",
+    "I get bored with routine details.",
+    "I can stay detached when solving a conflict.",
+    "I work best under last-minute pressure.",
+    "I prefer step-by-step instructions.",
+    "I think things through before I say them.",
+    "I finish tasks well before the deadline.",
+    "I decide with my heart more than my head.",
+    "I am quick to join a conversation.",
+    "I trust my gut feeling about possibilities.",
+    "I like to analyse the pros and cons objectively.",
+    "Strict schedules feel limiting to me.",
+    "I focus on what is happening right now.",
+    "A quiet evening at home is my ideal.",
+    "I like to know what to expect.",
+    "I find it hard to criticise people I like.",
+    "Being around people recharges my batteries.",
+    "I like to imagine how things could be different.",
+    "Rules should apply to everyone in the same way.",
+    "I often juggle several projects at once.",
+    "I like ideas that have a clear practical use.",
+    "I keep my thoughts to myself until they are clear.",
+    "I make lists and stick to them.",
+    "I am easily moved by someone else's story.",
+    "I like to have a wide circle of friends.",
+    "I often read between the lines.",
+    "I point out flaws in plans without hesitating.",
+    "I like to see where the day takes me.",
+    "I remember specific facts and figures well.",
+    "Crowds wear me out quickly.",
+    "I prefer to settle plans early.",
+    "I make exceptions for people in difficult situations.",
+    "I often share my thoughts as they come up.",
+    "I prefer theories to hands-on work.",
+    "I am convinced by arguments, not by emotions.",
+    "I change plans easily when something better comes up.",
+    "I learn best by doing things hands-on.",
+    "I prefer working alone to working in a team.",
+    "Unfinished business makes me uneasy.",
+    "I want everyone to feel included in a decision.",
+    "Weekends packed with plans make me happy.",
+    "I like to talk in metaphors and images.",
+    "I prefer being right to being liked.",
+    "I put off decisions until I have to make them.",
+    "I prefer proven methods to untested ones.",
+    "I let others take the floor in groups.",
+    "I keep my calendar up to date.",
+    "Tension in a group affects me deeply.",
+    "I get restless when I am alone too long.",
+    "I jump ahead to the big picture quickly.",
+    "Fair means consistent to me.",
+    "I start many things and finish them later.",
+    "I describe things literally and precisely.",
+    "I would rather text than make a phone call.",
+    "I like to complete one task before starting another.",
+    "Kindness matters more to me than being correct.",
+    "I enjoy mingling at events.",
+    "New ideas excite me more than practical facts.",
+    "I find it easy to give critical feedback.",
+    "I pack my bag at the very last moment.",
+    "I want to see evidence before I believe something.",
+    "I have a small circle of close friends.",
+    "I get annoyed when plans change at the last minute.",
+    "I often take criticism of my work personally.",
+    "I easily strike up chats with people I do not know.",
+    "I often skip the instructions and figure it out.",
+    "I enjoy debating to test ideas.",
+    "Open-ended days feel freeing to me.",
+    "I enjoy tasks with concrete, visible results.",
+    "I feel drained after a long day of meetings.",
+    "I prefer clear structure in my work.",
+    "I trust my values to guide my choices.",
+    "I prefer brainstorming in a group to thinking alone.",
+    "I am drawn to what is new and untested.",
+    "I judge a solution by how well it works.",
+    "I adapt my plans to my mood.",
+    "I rely on my past experience to solve problems.",
+    "People sometimes find me hard to read at first.",
+    "I organise my holidays well in advance.",
+    "I would rather encourage than critique.",
+    "I am usually among the first to speak up.",
+    "I pay more attention to the present than the future.",
+    "I value competence above friendliness at work.",
+    "I like to tidy up loose ends promptly."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Extraversion vs. Introversion",
+      "short": "Whether you draw energy mainly from the outer world of people and action (E) or from your inner world of thoughts and reflection (I).",
+      "low": "You lean towards Introversion (I). You recharge in quiet, think before you speak and prefer a few deep conversations to many brief ones. You often process ideas internally and share them once they are fully formed. Busy social days can leave you tired, even if you enjoyed them. Tip: plan recovery time after intense social events and see it as maintenance, not avoidance. In group settings, prepare your input in advance or follow up in writing so your ideas are heard.",
+      "mid": "You sit close to the middle between Extraversion and Introversion, so your letter could shift depending on mood or situation. You enjoy company and activity, yet you also need time alone to recharge. You can think out loud with others or reflect quietly, depending on the task. Tip: watch your energy after different kinds of days. Use that knowledge to build a weekly rhythm that mixes social contact with quiet time in the proportions that suit you.",
+      "high": "You lean towards Extraversion (E). You get energy from people, conversation and activity, and you often think best by talking things through. You are quick to engage, easy to approach and comfortable in groups. Long stretches alone may leave you restless. Tip: before reacting in a discussion, take a short pause and ask one question first; it gives quieter people room and sharpens your own thinking. Schedule brief moments of reflection to process what you experience."
+    },
+    "sensing": {
+      "name": "Sensing vs. Intuition",
+      "short": "Whether you focus mainly on concrete facts, details and experience (S) or on patterns, possibilities and the bigger picture (N).",
+      "low": "You lean towards Intuition (N). You naturally look for meaning, patterns and future possibilities, and you enjoy ideas, theories and imagining what could be. Routine details may bore you, and you sometimes skip steps to reach the big picture. Tip: when you share a vision, add concrete examples and next steps so others can follow. Ask a detail-oriented colleague to check your plans for practical gaps before you commit.",
+      "mid": "You sit close to the middle between Sensing and Intuition, so your letter may vary between situations. You can work with hard facts and details, but you also enjoy exploring ideas and possibilities. This lets you bridge practical people and visionaries. Tip: notice which mode you default to under pressure. In important decisions, deliberately check both: what do the facts say, and what new options might be worth considering?",
+      "high": "You lean towards Sensing (S). You trust facts, experience and what you can see and test. You notice details, prefer clear instructions and like ideas that have practical use. People rely on your realism and accuracy. Tip: when others share abstract ideas, give them a moment before judging their practicality; some may grow into something useful. Occasionally try to imagine where a trend could lead in five years to stretch your view."
+    },
+    "thinking": {
+      "name": "Thinking vs. Feeling",
+      "short": "Whether you make decisions mainly through logic and objective analysis (T) or through personal values and the impact on people (F).",
+      "low": "You lean towards Feeling (F). You make decisions by weighing values, relationships and how people will be affected. You value harmony, appreciate kindness and are quick to sense what others need. People often feel understood by you. Tip: when a decision is hard, also write down the objective pros and cons; it can make your choice easier to explain. Remember that honest feedback, delivered warmly, is also a form of care.",
+      "mid": "You sit close to the middle between Thinking and Feeling, so your letter may differ between situations. You weigh both logic and the human impact when you decide, which helps you find fair, balanced solutions. Tip: notice whether you lean on logic at work and on feelings at home, or the other way round. In key decisions, consciously check both: is it sound, and is it fair to the people involved?",
+      "high": "You lean towards Thinking (T). You decide through logic, consistency and objective analysis. You value fairness in the sense of applying the same rules to everyone, and you can give tough feedback without being swayed by emotion. Tip: before sharing criticism, acknowledge the effort or intention behind someone's work. Ask how a decision will feel to the people affected; it often improves acceptance without weakening your reasoning."
+    },
+    "judging": {
+      "name": "Judging vs. Perceiving",
+      "short": "Whether you prefer a planned, decided and structured life (J) or a flexible, open and spontaneous one (P).",
+      "low": "You lean towards Perceiving (P). You like to keep your options open, adapt as you go and decide when you have to. You often work in bursts of energy and feel boxed in by rigid schedules. This makes you flexible and resourceful when plans change. Tip: use light structure for the essentials, such as one deadline reminder system. Break big projects into small milestones so the final rush does not become stressful.",
+      "mid": "You sit close to the middle between Judging and Perceiving, so your letter may vary. You like having a plan but can drop it easily when something better comes up. You can meet deadlines and still enjoy spontaneity. Tip: notice where a bit more planning would reduce stress, for example for travel or money, and where more flexibility would add fun. Adjust deliberately rather than by default.",
+      "high": "You lean towards Judging (J). You like to plan ahead, make decisions and bring things to a close. Clear schedules, lists and deadlines give you a sense of control, and you usually finish tasks well before the last minute. Tip: build some open space into your plans so surprises do not throw you off. When others work in a looser way, agree on key deadlines and let them choose how they get there."
+    }
+  },
+  "summary": "Your type combines four preferences: Extraversion or Introversion (E/I), Sensing or Intuition (S/N), Thinking or Feeling (T/F) and Judging or Perceiving (J/P). Each scale shows how strongly you lean to one side; scores near 50 % mean you use both sides fairly flexibly. Types describe preferences, not abilities, and no type is better than another.",
+  "types": {
+    "ISTJ": {
+      "name": "The Anchor",
+      "text": "You are steady, thorough and deeply reliable. You respect facts, keep your promises and work through tasks methodically until they are done properly. People count on you because you do what you say. You prefer clear expectations and proven methods, and you notice mistakes others overlook. Your quiet strength holds teams and families together. Growth tip: stay open to new approaches, even when the old way still works; sometimes an experiment brings real improvement. Share your appreciation for others out loud, because your loyalty is not always visible. Make time for rest without needing to earn it first."
+    },
+    "ISFJ": {
+      "name": "The Keeper",
+      "text": "You are caring, conscientious and quietly devoted. You remember what matters to people, notice their needs and help in practical ways, often without being asked. You value tradition, stability and harmony, and you work hard to make others feel safe and comfortable. Your kindness is the steady kind that people rely on for years. Growth tip: your own needs deserve the same attention you give others, so practise saying no without guilt. Speak up when something bothers you rather than quietly absorbing it. Allowing others to support you strengthens relationships rather than burdening them."
+    },
+    "INFJ": {
+      "name": "The Quiet Visionary",
+      "text": "You combine deep insight into people with a strong sense of purpose. You sense undercurrents in relationships, think long term and want your life to contribute to something meaningful. You are private yet warm, and the people you let in feel truly seen. Your ideals give you direction and determination. Growth tip: your high standards can turn into exhaustion or disappointment when reality falls short, so celebrate progress, not just perfection. Share your ideas earlier rather than waiting until they are fully formed. Protect your energy by setting boundaries before you feel overwhelmed, not after."
+    },
+    "INTJ": {
+      "name": "The Grand Strategist",
+      "text": "You are independent, analytical and focused on long-term goals. You see how systems fit together, spot inefficiencies quickly and like to design better ways of doing things. You trust your own reasoning and are willing to go your own way to reach a vision. Your determination can turn ambitious ideas into reality. Growth tip: others may not follow your logic as fast as you do, so explain your reasoning step by step and invite feedback. Remember that people's feelings are data too. Allow room for imperfect first versions; progress often beats a flawless plan that waits."
+    },
+    "ISTP": {
+      "name": "The Tinkerer",
+      "text": "You are calm, practical and curious about how things work. You like to understand problems hands-on, take things apart and find efficient fixes. In a crisis you stay cool and act decisively, while others are still talking. You value freedom and dislike unnecessary rules or long meetings. Growth tip: share your thinking with others more often, because your silence can be misread as disinterest. Commit to a few long-term goals so your many skills build towards something bigger. Let people close to you know what you feel; small words of appreciation carry a lot of weight."
+    },
+    "ISFP": {
+      "name": "The Gentle Artist",
+      "text": "You are sensitive, kind and attuned to beauty and the present moment. You express yourself more through actions and creativity than words, and you value authenticity and freedom. You are tolerant, open-minded and loyal to the people and causes you care about. Your gentle presence makes others feel accepted. Growth tip: you may avoid conflict until frustration builds up, so practise voicing small concerns early. Turn your values into a few concrete goals to give your talents direction. Believe in your work enough to show it to others; your perspective deserves to be seen."
+    },
+    "INFP": {
+      "name": "The Dreamer",
+      "text": "You are idealistic, imaginative and guided by strong inner values. You look for meaning in everything you do and care deeply about authenticity, both in yourself and others. You understand feelings well and often express them through writing, art or thoughtful conversation. You are gentle, open-minded and loyal to what you believe in. Growth tip: your ideals are a compass, but reality is rarely perfect; take small practical steps rather than waiting for the ideal moment. Be as compassionate towards yourself as you are towards others. Share your dreams with people who can help make them real."
+    },
+    "INTP": {
+      "name": "The Puzzle Solver",
+      "text": "You are logical, inventive and endlessly curious. You love analysing ideas, finding inconsistencies and building theories that explain how things really work. You think independently and enjoy deep conversations about complex topics. Your mind can see original solutions others miss. Growth tip: ideas reach their potential when they are shared and applied, so set yourself small deadlines to finish and present your work. Pay attention to practical details and to how others feel, which matter even when they seem illogical. Connect with people who share your interests; they will energise your thinking."
+    },
+    "ESTP": {
+      "name": "The Maverick",
+      "text": "You are energetic, bold and action-oriented. You live in the moment, read situations quickly and thrive when things move fast. You enjoy challenges, take smart risks and solve practical problems on the spot. People are drawn to your confidence and sense of fun. Growth tip: think through the longer-term consequences before jumping in, especially in money and relationships. Practise patience with slower processes and people who need more time to decide. Consider how your direct style lands with sensitive people; a little tact makes your influence even stronger."
+    },
+    "ESFP": {
+      "name": "The Spark",
+      "text": "You are lively, warm and fun-loving. You bring energy into any room, enjoy people and experiences, and make everyday moments feel special. You are practical, generous and quick to help someone who is having a hard time. Your enthusiasm is contagious, and people enjoy being around you. Growth tip: planning ahead can feel dull, but a little structure in finances and long-term goals gives you more freedom later. Face difficult conversations instead of distracting yourself. Take some quiet moments to reflect on what you truly want, not just what feels good right now."
+    },
+    "ENFP": {
+      "name": "The Inspirer",
+      "text": "You are enthusiastic, creative and full of possibilities. You connect easily with people, see potential everywhere and love starting new projects and conversations. Your warmth and imagination encourage others to dream bigger. You value freedom, authenticity and meaningful relationships. Growth tip: your many ideas need focus to turn into results, so pick a few priorities and see them through. Build simple routines for practical tasks you find boring. When your mood dips after the excitement of a new start, remember that steady follow-through is where much of the real reward lies."
+    },
+    "ENTP": {
+      "name": "The Innovator",
+      "text": "You are quick-witted, inventive and love a good debate. You see new angles on old problems, challenge assumptions and enjoy experimenting with ideas. You adapt fast and are energised by complex challenges and clever people. Your curiosity drives you to improve almost everything you touch. Growth tip: not every discussion needs to be won, and some people experience debate as conflict, so read the room. Follow through on your best ideas instead of moving on to the next one too soon. Pair up with detail-oriented people who help you turn concepts into reality."
+    },
+    "ESTJ": {
+      "name": "The Captain",
+      "text": "You are organised, decisive and practical. You like clear goals, efficient processes and getting things done. You take responsibility naturally, set high standards and make sure plans are carried out. People appreciate your directness and reliability. Growth tip: your efficient style can feel controlling to others, so invite input before deciding and explain why. Stay open to new methods even when the current one works. Show appreciation for people's effort, not only their results; recognition motivates others as much as clear instructions do."
+    },
+    "ESFJ": {
+      "name": "The Host",
+      "text": "You are sociable, caring and community-minded. You notice what people need, make them feel welcome and like to bring others together. You value harmony, loyalty and tradition, and you put real effort into keeping relationships and groups running smoothly. People feel looked after in your presence. Growth tip: you may take criticism or conflict personally, so remind yourself that disagreement is not rejection. Check whether you are helping because you want to or because you feel you must. Make space for your own needs and opinions; they matter as much as anyone else's."
+    },
+    "ENFJ": {
+      "name": "The Mentor",
+      "text": "You are warm, inspiring and focused on helping people grow. You read others well, bring out their strengths and rally groups around a shared purpose. You communicate with enthusiasm and conviction, and you feel responsible for the wellbeing of those around you. People often seek your guidance. Growth tip: you cannot carry everyone, so let others take responsibility for their own choices. Notice when you over-commit or neglect your own needs. Accept that some people will disagree with you; their different path is not a reflection of your worth."
+    },
+    "ENTJ": {
+      "name": "The Chief",
+      "text": "You are confident, strategic and driven to achieve. You see the big picture, set ambitious goals and organise people and resources to reach them. You make decisions quickly, communicate clearly and are not afraid of challenges or responsibility. Others often look to you to lead. Growth tip: your speed and directness can overwhelm people, so slow down to listen and acknowledge feelings. Remember that motivation grows when people feel heard, not just directed. Make room for rest and relationships; long-term success depends on more than results alone."
+    }
+  }
+}

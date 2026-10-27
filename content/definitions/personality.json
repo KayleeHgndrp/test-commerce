@@ -1,0 +1,343 @@
+{
+  "slug": "personality",
+  "kind": "likert",
+  "scale": "agree",
+  "category": "personality",
+  "minutes": 5,
+  "icon": "🎭",
+  "outcome": "dimensions",
+  "dimensions": [
+    "openness",
+    "conscientiousness",
+    "extraversion",
+    "agreeableness",
+    "neuroticism"
+  ],
+  "items": [
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "agreeableness",
+      "rev": true
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "openness",
+      "rev": true
+    },
+    {
+      "dim": "neuroticism",
+      "rev": true
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "conscientiousness",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "agreeableness",
+      "rev": true
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "neuroticism",
+      "rev": true
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "openness",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "conscientiousness",
+      "rev": true
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "agreeableness",
+      "rev": true
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "openness",
+      "rev": true
+    },
+    {
+      "dim": "neuroticism",
+      "rev": true
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "conscientiousness",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "agreeableness",
+      "rev": true
+    },
+    {
+      "dim": "openness",
+      "rev": true
+    },
+    {
+      "dim": "neuroticism",
+      "rev": true
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "conscientiousness",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "agreeableness",
+      "rev": true
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "openness",
+      "rev": true
+    },
+    {
+      "dim": "neuroticism",
+      "rev": true
+    },
+    {
+      "dim": "conscientiousness",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "agreeableness"
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "conscientiousness"
+    },
+    {
+      "dim": "openness"
+    },
+    {
+      "dim": "neuroticism"
+    },
+    {
+      "dim": "agreeableness"
+    }
+  ]
+}

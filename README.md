@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Testora – multilingual online tests
 
-## Getting Started
+Next.js 16 site with 100-question psychological tests in 32 European languages. Taking a test is free;
+the detailed personal report costs €1.25 and is emailed after payment via Stripe.
 
-First, run the development server:
+## Getting started
 
 ```bash
+npm install
+cp .env.example .env.local   # fill in Stripe/Resend keys (optional for local dev)
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Without `STRIPE_SECRET_KEY` the dev server skips payment and "sends" the report straight away. Without
+`RESEND_API_KEY` the email is logged to the console instead.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## URL structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| URL                         | Page                                               |
+| --------------------------- | -------------------------------------------------- |
+| `/`                         | Redirects to the visitor's language                |
+| `/es`                       | Home page with all tests (`#tests`)                |
+| `/es/career`                | Test landing page (SEO)                            |
+| `/es/career/start`          | Gender choice, then the 100 questions              |
+| `/es/career/result`         | Locked preview + email/checkout form               |
+| `/es/career/thanks`         | Confirmation after payment                         |
 
-## Learn More
+## How it fits together
 
-To learn more about Next.js, take a look at the following resources:
+- `content/definitions/<slug>.json` – questions' scoring structure (dimensions, reverse items, outcome type)
+- `messages/<locale>/ui.json` – interface texts; `messages/<locale>/tests/<slug>.json` – test texts
+- `content/tests.json` – which tests are shown, in which order
+- `scripts/gen-registry.mjs` – generates `lib/generated/registry.ts` (runs automatically before dev/build)
+- `npm run check:content` – validates every definition and translation (counts, keys, placeholders)
+- `lib/tests/scoring.ts` – scoring, incl. 16-types code, attachment style, political quadrant, PHQ-9/PCL-5
+- `app/api/checkout` – creates a Stripe Checkout session; answers travel in the session metadata (no database)
+- `app/api/stripe/webhook` – on payment renders the report (`lib/report/render.ts`) and emails it via Resend
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Missing translations fall back to English per key, so a partially translated language still works.
+See `docs/CONTENT_SPEC.md` for the content format.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Going live
 
-## Deploy on Vercel
+1. Set all variables from `.env.example` in your hosting environment (e.g. Vercel).
+2. In Stripe, add a webhook endpoint `https://<domain>/api/stripe/webhook` for
+   `checkout.session.completed` and `checkout.session.async_payment_succeeded`; enable the payment methods
+   you want (cards, iDEAL, Bancontact, …) in the Stripe dashboard.
+3. Verify your sending domain in Resend and set `EMAIL_FROM`.
+4. Add your company details via `NEXT_PUBLIC_COMPANY_DETAILS` and review the privacy/terms texts.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Validated questionnaires
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The depression test embeds the PHQ-9 and the trauma test the PCL-5; both are public domain and are scored
+with their official cut-offs. ASRS (ADHD), MDQ (bipolar) and MSI-BPD are copyrighted and require a licence
+for commercial use, so those tests use original items covering the same symptom areas.

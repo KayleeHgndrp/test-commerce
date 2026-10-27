@@ -1,0 +1,365 @@
+{
+  "slug": "16-types",
+  "kind": "likert",
+  "scale": "agree",
+  "category": "personality",
+  "minutes": 5,
+  "icon": "🧬",
+  "outcome": "axes",
+  "dimensions": [
+    "extraversion",
+    "sensing",
+    "thinking",
+    "judging"
+  ],
+  "items": [
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing",
+      "rev": true
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging",
+      "rev": true
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "judging"
+    },
+    {
+      "dim": "thinking",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing",
+      "rev": true
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging",
+      "rev": true
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "judging"
+    },
+    {
+      "dim": "thinking",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing",
+      "rev": true
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging",
+      "rev": true
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "judging"
+    },
+    {
+      "dim": "thinking",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing",
+      "rev": true
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging",
+      "rev": true
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "judging"
+    },
+    {
+      "dim": "thinking",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing",
+      "rev": true
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging",
+      "rev": true
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "judging"
+    },
+    {
+      "dim": "thinking",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing",
+      "rev": true
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging",
+      "rev": true
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "judging"
+    },
+    {
+      "dim": "thinking",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing",
+      "rev": true
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging",
+      "rev": true
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "judging"
+    },
+    {
+      "dim": "thinking",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing",
+      "rev": true
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging",
+      "rev": true
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "judging"
+    },
+    {
+      "dim": "thinking",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing",
+      "rev": true
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging",
+      "rev": true
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "judging"
+    },
+    {
+      "dim": "thinking",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing",
+      "rev": true
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging",
+      "rev": true
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "judging"
+    },
+    {
+      "dim": "thinking",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing",
+      "rev": true
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging",
+      "rev": true
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "judging"
+    },
+    {
+      "dim": "thinking",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing",
+      "rev": true
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging",
+      "rev": true
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "extraversion",
+      "rev": true
+    },
+    {
+      "dim": "judging"
+    },
+    {
+      "dim": "thinking",
+      "rev": true
+    },
+    {
+      "dim": "extraversion"
+    },
+    {
+      "dim": "sensing"
+    },
+    {
+      "dim": "thinking"
+    },
+    {
+      "dim": "judging"
+    }
+  ]
+}
