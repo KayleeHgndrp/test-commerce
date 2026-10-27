@@ -2,6 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
+import { track } from "@/lib/analytics";
 import { fmt } from "@/lib/i18n/fmt";
 import type { UiMessages } from "@/lib/i18n/messages";
 import type { Scale } from "@/lib/tests/types";
@@ -112,6 +113,7 @@ export function Quiz({ locale, slug, name, items, scaleType, scale, ui }: Props)
       return;
     }
     if (state.step < steps - 1) return goTo(state.step + 1);
+    track("Test Complete", { test: slug });
     try {
       localStorage.setItem(resultKey(slug), JSON.stringify({ answers: state.answers.join(""), gender: state.gender }));
       localStorage.removeItem(progressKey(slug));
@@ -156,7 +158,14 @@ export function Quiz({ locale, slug, name, items, scaleType, scale, ui }: Props)
           <p className="mt-2 text-muted">{ui.genderQuestion}</p>
           <div className="mt-6 grid gap-3">
             {genders.map(([value, label]) => (
-              <button key={value} className={option} onClick={() => setState({ ...state, gender: value })}>
+              <button
+                key={value}
+                className={option}
+                onClick={() => {
+                  setState({ ...state, gender: value });
+                  track("Test Start", { test: slug });
+                }}
+              >
                 {label}
               </button>
             ))}

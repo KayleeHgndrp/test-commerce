@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Suspense } from "react";
 import { ReportView } from "@/components/ReportView";
+import { TrackPurchase } from "@/components/TrackPurchase";
 import { deliverOnce, retrievePaidOrder } from "@/lib/delivery";
 import type { Locale } from "@/lib/i18n/locales";
 import { fmt, getDefinition } from "@/lib/i18n/messages";
@@ -39,6 +40,7 @@ async function PaidReport({ locale, slug, searchParams }: { locale: Locale; slug
   if (!answers) return null;
   return (
     <div className="mt-10">
+      {sessionId && <TrackPurchase test={slug} sessionId={sessionId} amount={site.priceCents / 100} currency={site.currency} />}
       <ReportView report={await buildReport(locale, slug, answers)} />
     </div>
   );

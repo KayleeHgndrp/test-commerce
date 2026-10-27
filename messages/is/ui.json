@@ -194,7 +194,7 @@
     "unlockText": "Ítarleg skýrsla með öllum einkunnum, persónulegum túlkunum og hagnýtum ráðum, send á netfangið þitt.",
     "emailLabel": "Netfang",
     "emailPlaceholder": "thu@daemi.is",
-    "consent": "Ég samþykki skilmálana og persónuverndarstefnuna.",
+    "consent": "Ég samþykki skilmálana og persónuverndarstefnuna og óska eftir að skýrslan verði afhent strax. Ég skil að ég glata rétti mínum til að falla frá samningi þegar skýrslan hefur verið send.",
     "buy": "Fá skýrsluna fyrir {price}",
     "secure": "Örugg greiðsla í gegnum Stripe. Eingreiðsla, engin áskrift.",
     "invalidEmail": "Sláðu inn gilt netfang.",
@@ -235,7 +235,8 @@
     "cookies": "Vafrakökustefna",
     "refund": "Endurgreiðslustefna",
     "rights": "© {year} {site}. Allur réttur áskilinn.",
-    "disclaimer": "{site} er ekki heilbrigðisþjónusta. Ef þú hefur klínískar áhyggjur skaltu leita til löggilts fagaðila."
+    "disclaimer": "{site} er ekki heilbrigðisþjónusta. Ef þú hefur klínískar áhyggjur skaltu leita til löggilts fagaðila.",
+    "aboutLink": "Um okkur"
   },
   "legal": {
     "privacyTitle": "Persónuverndarstefna",
@@ -277,5 +278,47 @@
     "sending": "Sendi…",
     "success": "Takk! Skilaboðin þín hafa verið send. Við höfum samband fljótlega.",
     "error": "Ekki tókst að senda skilaboðin. Reyndu aftur síðar."
+  },
+  "about": {
+    "title": "Um {site}",
+    "intro": "Við trúum því að allir eigi skilið skýra og heiðarlega sýn á hver þeir eru — án fagmáls, án áskrifta og án fjögurra stafa merkimiða sem útskýrir ekkert.",
+    "missionTitle": "Markmið okkar",
+    "mission": "Sálfræðin hefur þróað öflugar leiðir til að lýsa persónuleika, samböndum og vellíðan, en mest af þeirri þekkingu er lokað inni í kennslubókum eða dýru mati. {site} gerir hana aðgengilega: ítarleg próf sem allir geta tekið ókeypis, á sínu eigin tungumáli, með persónulegri skýrslu sem útskýrir niðurstöðurnar á einföldu máli og gefur þér hagnýt næstu skref.",
+    "howTitle": "Hvernig við búum til prófin",
+    "how": [
+      {
+        "title": "Viðurkennd líkön",
+        "text": "Hvert próf byggir á vel rannsökuðum kenningum eins og fimm þátta líkaninu (Big Five), RIASEC og tengslakenningunni. Þar sem til eru klínískir spurningalistar sem öllum er frjálst að nota, eins og PHQ-9 og PCL-5, tökum við þá með og notum opinbera stigagjöf þeirra."
+      },
+      {
+        "title": "100 spurningar, 5 mínútur",
+        "text": "Hvert próf samanstendur af 100 stuttum fullyrðingum sem dreifast á alla þætti sem það mælir. Það gefur mun áreiðanlegri mynd en snögg tíu spurninga könnun en tekur samt aðeins um fimm mínútur."
+      },
+      {
+        "title": "Skrifað til að vera lesið",
+        "text": "Skýrslurnar okkar útskýra hvað hver einkunn þýðir, hvaðan hún kemur og hvað þú getur gert við hana. Ekkert fagmál og ekkert óljóst stjörnuspármál — bara skýr og hagnýt innsýn."
+      }
+    ],
+    "valuesTitle": "Það sem þú getur treyst á",
+    "values": [
+      {
+        "title": "Enginn aðgangur, engin áskrift",
+        "text": "Þú greiðir {price} einu sinni fyrir skýrslu sem þú vilt. Ekkert endurnýjast, ekkert er rukkað síðar."
+      },
+      {
+        "title": "Persónuvernd í fyrsta sæti",
+        "text": "Svörin þín eru eingöngu notuð til að reikna út niðurstöðuna. Við seljum engin gögn og birtum engar auglýsingar."
+      },
+      {
+        "title": "Í boði á {languages} tungumálum",
+        "text": "Öll próf og allar skýrslur eru í boði á öllum helstu tungumálum Evrópu."
+      },
+      {
+        "title": "Heiðarleg um takmarkanir",
+        "text": "Prófin okkar styðja sjálfsskoðun. Skimunarpróf geta gefið til kynna hvort skynsamlegt sé að ræða við fagaðila, en þau koma aldrei í stað greiningar."
+      }
+    ],
+    "ctaTitle": "Forvitin(n) um hvað niðurstöðurnar þínar segja?",
+    "ctaButton": "Skoðaðu prófin okkar"
   }
 }

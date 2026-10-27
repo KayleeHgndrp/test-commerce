@@ -194,7 +194,7 @@
     "unlockText": "Din detaljerede rapport med alle scorer, personlige fortolkninger og praktiske tips, sendt til din e-mail.",
     "emailLabel": "E-mailadresse",
     "emailPlaceholder": "dig@eksempel.dk",
-    "consent": "Jeg accepterer vilkårene og privatlivspolitikken.",
+    "consent": "Jeg accepterer vilkårene og privatlivspolitikken og anmoder om, at min rapport leveres med det samme. Jeg er indforstået med, at jeg mister min fortrydelsesret, når rapporten er sendt.",
     "buy": "Få min rapport for {price}",
     "secure": "Sikker betaling via Stripe. Engangsbetaling, intet abonnement.",
     "invalidEmail": "Indtast en gyldig e-mailadresse.",
@@ -235,7 +235,8 @@
     "cookies": "Cookiepolitik",
     "refund": "Refusionspolitik",
     "rights": "© {year} {site}. Alle rettigheder forbeholdes.",
-    "disclaimer": "{site} er ikke en sundhedsydelse. Ved kliniske bekymringer bør du kontakte en autoriseret fagperson."
+    "disclaimer": "{site} er ikke en sundhedsydelse. Ved kliniske bekymringer bør du kontakte en autoriseret fagperson.",
+    "aboutLink": "Om os"
   },
   "legal": {
     "privacyTitle": "Privatlivspolitik",
@@ -277,5 +278,47 @@
     "sending": "Sender…",
     "success": "Tak! Din besked er sendt. Vi vender tilbage snarest.",
     "error": "Din besked kunne ikke sendes. Prøv igen senere."
+  },
+  "about": {
+    "title": "Om {site}",
+    "intro": "Vi mener, at alle fortjener et klart og ærligt blik på, hvem de er – uden fagsprog, uden abonnementer og uden en etiket på fire bogstaver, der intet forklarer.",
+    "missionTitle": "Vores mission",
+    "mission": "Psykologien har udviklet stærke måder at beskrive personlighed, relationer og trivsel på, men det meste af den viden er gemt væk i lærebøger eller dyre test. {site} gør den tilgængelig: dybdegående tests, som alle kan tage gratis på deres eget sprog, med en personlig rapport, der forklarer dine resultater i et enkelt sprog og giver dig konkrete næste skridt.",
+    "howTitle": "Sådan bygger vi vores tests",
+    "how": [
+      {
+        "title": "Anerkendte modeller",
+        "text": "Hver test bygger på velundersøgte modeller som Big Five, RIASEC og tilknytningsteorien. Hvor der findes frit tilgængelige kliniske spørgeskemaer, som PHQ-9 og PCL-5, tager vi dem med og bruger deres officielle scoring."
+      },
+      {
+        "title": "100 spørgsmål, 5 minutter",
+        "text": "Hver test består af 100 korte udsagn fordelt på alle de dimensioner, den måler. Det giver et langt mere pålideligt billede end en hurtig quiz med ti spørgsmål – og tager stadig kun omkring fem minutter."
+      },
+      {
+        "title": "Skrevet til at blive læst",
+        "text": "Vores rapporter forklarer, hvad hver score betyder, hvor den kommer fra, og hvad du kan bruge den til. Ingen jargon og intet vagt horoskopsprog – bare klar, praktisk indsigt."
+      }
+    ],
+    "valuesTitle": "Det kan du regne med",
+    "values": [
+      {
+        "title": "Ingen konto, intet abonnement",
+        "text": "Du betaler {price} én gang for den rapport, du ønsker. Intet fornyes, og intet trækkes senere."
+      },
+      {
+        "title": "Privatliv først",
+        "text": "Dine svar bruges kun til at beregne dit resultat. Vi sælger ikke data og viser ikke reklamer."
+      },
+      {
+        "title": "Tilgængelig på {languages} sprog",
+        "text": "Alle tests og rapporter findes på alle større europæiske sprog."
+      },
+      {
+        "title": "Ærlige om begrænsninger",
+        "text": "Vores tests understøtter selvrefleksion. Screeningtests kan vise, om det giver mening at tale med en fagperson, men de erstatter aldrig en diagnose."
+      }
+    ],
+    "ctaTitle": "Nysgerrig efter, hvad dine resultater siger?",
+    "ctaButton": "Udforsk vores tests"
   }
 }

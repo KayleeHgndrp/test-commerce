@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter, Manrope } from "next/font/google";
 import { notFound } from "next/navigation";
+import { Analytics } from "@/components/Analytics";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { hasLocale, locales, toLangTag } from "@/lib/i18n/locales";
@@ -46,6 +47,7 @@ export default async function LocaleLayout({ children, params }: LayoutProps<"/[
         <Header locale={locale} ui={ui} />
         <main className="flex-1">{children}</main>
         <Footer locale={locale} ui={ui} />
+        <Analytics />
       </body>
     </html>
   );

@@ -194,7 +194,7 @@
     "unlockText": "Vaše detaljno izvješće sa svim rezultatima, osobnim tumačenjima i praktičnim savjetima, poslano na vašu e-poštu.",
     "emailLabel": "Adresa e-pošte",
     "emailPlaceholder": "vi@primjer.hr",
-    "consent": "Prihvaćam uvjete korištenja i pravila privatnosti.",
+    "consent": "Prihvaćam uvjete korištenja i pravila privatnosti te tražim da mi se izvješće isporuči odmah. Razumijem da gubim pravo na jednostrani raskid ugovora nakon što izvješće bude poslano.",
     "buy": "Preuzmi izvješće za {price}",
     "secure": "Sigurno plaćanje putem Stripea. Jednokratno plaćanje, bez pretplate.",
     "invalidEmail": "Unesite valjanu adresu e-pošte.",
@@ -235,7 +235,8 @@
     "cookies": "Pravila o kolačićima",
     "refund": "Pravila povrata novca",
     "rights": "© {year} {site}. Sva prava pridržana.",
-    "disclaimer": "{site} nije medicinska usluga. Za kliničke tegobe obratite se licenciranom stručnjaku."
+    "disclaimer": "{site} nije medicinska usluga. Za kliničke tegobe obratite se licenciranom stručnjaku.",
+    "aboutLink": "O nama"
   },
   "legal": {
     "privacyTitle": "Pravila privatnosti",
@@ -277,5 +278,47 @@
     "sending": "Slanje…",
     "success": "Hvala! Vaša poruka je poslana. Uskoro ćemo vam se javiti.",
     "error": "Poruku nije bilo moguće poslati. Pokušajte ponovno kasnije."
+  },
+  "about": {
+    "title": "O nama – {site}",
+    "intro": "Vjerujemo da svatko zaslužuje jasan i iskren pogled na to tko je – bez žargona, bez pretplata i bez oznake od četiri slova koja ništa ne objašnjava.",
+    "missionTitle": "Naša misija",
+    "mission": "Psihologija je razvila moćne načine opisivanja osobnosti, odnosa i dobrobiti, ali većina tog znanja ostaje zaključana u udžbenicima ili skupim procjenama. {site} ga čini dostupnim: detaljni testovi koje svatko može riješiti besplatno, na svom jeziku, uz osobno izvješće koje jednostavnim riječima objašnjava vaše rezultate i daje vam praktične sljedeće korake.",
+    "howTitle": "Kako izrađujemo naše testove",
+    "how": [
+      {
+        "title": "Priznati modeli",
+        "text": "Svaki se test temelji na dobro istraženim modelima kao što su Velikih pet, RIASEC i teorija privrženosti. Gdje postoje javno dostupni klinički upitnici, poput PHQ-9 i PCL-5, uključujemo ih i koristimo njihovo službeno bodovanje."
+      },
+      {
+        "title": "100 pitanja, 5 minuta",
+        "text": "Svaki test sadrži 100 kratkih tvrdnji raspoređenih po svim dimenzijama koje mjeri. To daje mnogo pouzdaniju sliku od brzog kviza s deset pitanja, a i dalje traje samo oko pet minuta."
+      },
+      {
+        "title": "Napisano da se čita",
+        "text": "Naša izvješća objašnjavaju što svaki rezultat znači, odakle dolazi i što s njim možete učiniti. Bez žargona i bez nejasnog horoskopskog jezika – samo jasni, praktični uvidi."
+      }
+    ],
+    "valuesTitle": "Na što se možete osloniti",
+    "values": [
+      {
+        "title": "Bez računa, bez pretplate",
+        "text": "Za izvješće koje želite plaćate {price} jednokratno. Ništa se ne obnavlja i ništa se ne naplaćuje naknadno."
+      },
+      {
+        "title": "Privatnost na prvom mjestu",
+        "text": "Vaši se odgovori koriste samo za izračun rezultata. Ne prodajemo podatke i ne prikazujemo oglase."
+      },
+      {
+        "title": "Dostupno na više jezika ({languages})",
+        "text": "Svaki test i svako izvješće dostupni su na svim većim europskim jezicima."
+      },
+      {
+        "title": "Iskreno o ograničenjima",
+        "text": "Naši testovi podržavaju samorefleksiju. Probirni testovi mogu pokazati ima li smisla razgovarati sa stručnjakom, ali nikada ne zamjenjuju dijagnozu."
+      }
+    ],
+    "ctaTitle": "Zanima vas što govore vaši rezultati?",
+    "ctaButton": "Istražite naše testove"
   }
 }

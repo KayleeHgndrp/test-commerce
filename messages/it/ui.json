@@ -194,7 +194,7 @@
     "unlockText": "Il tuo report dettagliato con tutti i punteggi, interpretazioni personali e consigli pratici, inviato alla tua email.",
     "emailLabel": "Indirizzo email",
     "emailPlaceholder": "tu@esempio.it",
-    "consent": "Accetto i termini e l'informativa sulla privacy.",
+    "consent": "Accetto i termini e l'informativa sulla privacy e chiedo che il mio report mi venga consegnato immediatamente. Sono consapevole di perdere il diritto di recesso una volta inviato il report.",
     "buy": "Ottieni il mio report a {price}",
     "secure": "Pagamento sicuro tramite Stripe. Pagamento unico, nessun abbonamento.",
     "invalidEmail": "Inserisci un indirizzo email valido.",
@@ -235,7 +235,8 @@
     "cookies": "Cookie policy",
     "refund": "Politica di rimborso",
     "rights": "© {year} {site}. Tutti i diritti riservati.",
-    "disclaimer": "{site} non è un servizio medico. Per problemi clinici, rivolgiti a un professionista abilitato."
+    "disclaimer": "{site} non è un servizio medico. Per problemi clinici, rivolgiti a un professionista abilitato.",
+    "aboutLink": "Chi siamo"
   },
   "legal": {
     "privacyTitle": "Informativa sulla privacy",
@@ -277,5 +278,47 @@
     "sending": "Invio in corso…",
     "success": "Grazie! Il tuo messaggio è stato inviato. Ti risponderemo presto.",
     "error": "Non è stato possibile inviare il messaggio. Riprova più tardi."
+  },
+  "about": {
+    "title": "Chi è {site}",
+    "intro": "Crediamo che tutti meritino uno sguardo chiaro e onesto su chi sono: senza gergo, senza abbonamenti e senza un'etichetta di quattro lettere che non spiega nulla.",
+    "missionTitle": "La nostra missione",
+    "mission": "La psicologia ha sviluppato strumenti efficaci per descrivere personalità, relazioni e benessere, ma gran parte di queste conoscenze resta chiusa nei manuali o in valutazioni costose. {site} le rende accessibili: test approfonditi che chiunque può fare gratis, nella propria lingua, con un report personale che spiega i tuoi risultati con parole semplici e ti indica passi concreti.",
+    "howTitle": "Come costruiamo i nostri test",
+    "how": [
+      {
+        "title": "Modelli consolidati",
+        "text": "Ogni test si basa su modelli ampiamente studiati come i Big Five, il RIASEC e la teoria dell'attaccamento. Dove esistono questionari clinici di pubblico dominio, come PHQ-9 e PCL-5, li includiamo con il loro punteggio ufficiale."
+      },
+      {
+        "title": "100 domande, 5 minuti",
+        "text": "Ogni test è composto da 100 brevi affermazioni distribuite su tutte le dimensioni che misura. Ne risulta un quadro molto più affidabile di un quiz veloce da dieci domande, in soli cinque minuti circa."
+      },
+      {
+        "title": "Scritti per essere letti",
+        "text": "I nostri report spiegano cosa significa ogni punteggio, da dove deriva e cosa puoi farne. Niente gergo e niente frasi vaghe da oroscopo: solo spunti chiari e pratici."
+      }
+    ],
+    "valuesTitle": "Su cosa puoi contare",
+    "values": [
+      {
+        "title": "Nessun account, nessun abbonamento",
+        "text": "Paghi {price} una sola volta per il report che desideri. Nulla si rinnova e nulla viene addebitato in seguito."
+      },
+      {
+        "title": "Prima di tutto la privacy",
+        "text": "Le tue risposte vengono usate solo per calcolare il risultato. Non vendiamo dati e non mostriamo pubblicità."
+      },
+      {
+        "title": "Disponibile in {languages} lingue",
+        "text": "Ogni test e ogni report è disponibile in tutte le principali lingue europee."
+      },
+      {
+        "title": "Onesti sui limiti",
+        "text": "I nostri test supportano l'autoriflessione. Gli strumenti di screening possono dirti se ha senso parlare con un professionista, ma non sostituiscono mai una diagnosi."
+      }
+    ],
+    "ctaTitle": "Curioso di sapere cosa dicono i tuoi risultati?",
+    "ctaButton": "Scopri i nostri test"
   }
 }

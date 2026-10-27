@@ -194,7 +194,7 @@
     "unlockText": "Ir-rapport dettaljat tiegħek bil-punteġġi kollha, interpretazzjonijiet personali u pariri prattiċi, mibgħut fl-email tiegħek.",
     "emailLabel": "Indirizz tal-email",
     "emailPlaceholder": "inti@ezempju.com",
-    "consent": "Naqbel mat-termini u mal-politika tal-privatezza.",
+    "consent": "Naqbel mat-termini u mal-politika tal-privatezza u nitlob li r-rapport tiegħi jiġi kkunsinnat immedjatament. Nifhem li nitlef id-dritt tiegħi ta' rtirar ladarba r-rapport jintbagħat.",
     "buy": "Ikseb ir-rapport tiegħi għal {price}",
     "secure": "Ħlas sigur permezz ta' Stripe. Ħlas wieħed, l-ebda abbonament.",
     "invalidEmail": "Jekk jogħġbok daħħal indirizz tal-email validu.",
@@ -235,7 +235,8 @@
     "cookies": "Politika dwar il-cookies",
     "refund": "Politika tar-rifużjoni",
     "rights": "© {year} {site}. Id-drittijiet kollha riżervati.",
-    "disclaimer": "{site} mhuwiex servizz mediku. Għal tħassib kliniku, jekk jogħġbok ikkonsulta professjonist liċenzjat."
+    "disclaimer": "{site} mhuwiex servizz mediku. Għal tħassib kliniku, jekk jogħġbok ikkonsulta professjonist liċenzjat.",
+    "aboutLink": "Dwarna"
   },
   "legal": {
     "privacyTitle": "Politika tal-privatezza",
@@ -277,5 +278,47 @@
     "sending": "Qed jintbagħat…",
     "success": "Grazzi! Il-messaġġ tiegħek intbagħat. Nikkuntattjawk dalwaqt.",
     "error": "Il-messaġġ ma setax jintbagħat. Erġa' pprova aktar tard."
+  },
+  "about": {
+    "title": "Dwar {site}",
+    "intro": "Nemmnu li kulħadd jistħoqqlu ħarsa ċara u onesta lejn min hu — mingħajr ġergu, mingħajr abbonamenti u mingħajr tikketta ta' erba' ittri li ma tispjega xejn.",
+    "missionTitle": "Il-missjoni tagħna",
+    "mission": "Il-psikoloġija żviluppat modi qawwija biex tiddeskrivi l-personalità, ir-relazzjonijiet u l-benesseri, iżda ħafna minn dan l-għarfien jibqa' magħluq fil-kotba jew f'valutazzjonijiet għaljin. {site} jagħmlu aċċessibbli: testijiet dettaljati li kulħadd jista' jagħmel b'xejn, bil-lingwa tiegħu, b'rapport personali li jispjega r-riżultati tiegħek bi kliem sempliċi u jagħtik passi prattiċi li jmiss.",
+    "howTitle": "Kif nibnu t-testijiet tagħna",
+    "how": [
+      {
+        "title": "Mudelli stabbiliti",
+        "text": "Kull test huwa bbażat fuq oqfsa riċerkati sew bħall-Big Five, ir-RIASEC u t-teorija tal-attachment. Fejn jeżistu kwestjonarji kliniċi fid-dominju pubbliku, bħall-PHQ-9 u l-PCL-5, ninkluduhom u nużaw il-punteġġ uffiċjali tagħhom."
+      },
+      {
+        "title": "100 mistoqsija, 5 minuti",
+        "text": "Kull test juża 100 stqarrija qasira mqassma fuq kull dimensjoni li jkejjel. Dan jagħti stampa ferm aktar affidabbli minn kwiż malajr ta' għaxar mistoqsijiet, u xorta jieħu biss madwar ħames minuti."
+      },
+      {
+        "title": "Miktub biex jinqara",
+        "text": "Ir-rapporti tagħna jispjegaw xi jfisser kull punteġġ, minn fejn ġej u x'tista' tagħmel bih. L-ebda ġergu u l-ebda lingwaġġ vag ta' oroskopju — biss għarfien ċar u prattiku."
+      }
+    ],
+    "valuesTitle": "Fuq xiex tista' toqgħod",
+    "values": [
+      {
+        "title": "L-ebda kont, l-ebda abbonament",
+        "text": "Tħallas {price} darba għal rapport li trid. Xejn ma jiġġedded, xejn ma jiġi ddebitat aktar tard."
+      },
+      {
+        "title": "Il-privatezza l-ewwel",
+        "text": "It-tweġibiet tiegħek jintużaw biss biex jiġi kkalkulat ir-riżultat tiegħek. Ma nbigħux data u ma nuru l-ebda reklam."
+      },
+      {
+        "title": "Disponibbli f'{languages} lingwa",
+        "text": "Kull test u kull rapport huma disponibbli fil-lingwi Ewropej ewlenin kollha."
+      },
+      {
+        "title": "Onesti dwar il-limiti",
+        "text": "It-testijiet tagħna jgħinu r-riflessjoni personali. Testijiet ta' screening jistgħu jgħidulek jekk ikunx għaqli li tkellem professjonist, iżda qatt ma jieħdu post dijanjożi."
+      }
+    ],
+    "ctaTitle": "Kurjuż x'jgħidu r-riżultati tiegħek?",
+    "ctaButton": "Esplora t-testijiet tagħna"
   }
 }

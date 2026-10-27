@@ -194,7 +194,7 @@
     "unlockText": "Tavs detalizētais pārskats ar visiem rezultātiem, personīgām interpretācijām un praktiskiem padomiem, nosūtīts uz tavu e-pastu.",
     "emailLabel": "E-pasta adrese",
     "emailPlaceholder": "tu@piemers.lv",
-    "consent": "Piekrītu noteikumiem un privātuma politikai.",
+    "consent": "Piekrītu noteikumiem un privātuma politikai un lūdzu pārskatu piegādāt nekavējoties. Es saprotu, ka zaudēju atteikuma tiesības, tiklīdz pārskats ir nosūtīts.",
     "buy": "Saņemt manu pārskatu par {price}",
     "secure": "Droša apmaksa ar Stripe. Vienreizējs maksājums, bez abonementa.",
     "invalidEmail": "Lūdzu, ievadi derīgu e-pasta adresi.",
@@ -235,7 +235,8 @@
     "cookies": "Sīkdatņu politika",
     "refund": "Atmaksas politika",
     "rights": "© {year} {site}. Visas tiesības aizsargātas.",
-    "disclaimer": "{site} nav medicīnisks pakalpojums. Klīnisku problēmu gadījumā, lūdzu, vērsies pie sertificēta speciālista."
+    "disclaimer": "{site} nav medicīnisks pakalpojums. Klīnisku problēmu gadījumā, lūdzu, vērsies pie sertificēta speciālista.",
+    "aboutLink": "Par mums"
   },
   "legal": {
     "privacyTitle": "Privātuma politika",
@@ -277,5 +278,47 @@
     "sending": "Sūta…",
     "success": "Paldies! Tava ziņa ir nosūtīta. Drīz sazināsimies.",
     "error": "Ziņu neizdevās nosūtīt. Lūdzu, mēģini vēlāk."
+  },
+  "about": {
+    "title": "Par {site}",
+    "intro": "Mēs uzskatām, ka ikviens ir pelnījis skaidru un godīgu skatījumu uz sevi – bez žargona, bez abonementiem un bez četru burtu etiķetes, kas neko nepaskaidro.",
+    "missionTitle": "Mūsu misija",
+    "mission": "Psiholoģija ir izstrādājusi spēcīgus veidus, kā aprakstīt personību, attiecības un labsajūtu, taču lielākā daļa šo zināšanu ir ieslēgta mācību grāmatās vai dārgos novērtējumos. {site} padara tās pieejamas: padziļināti testi, ko ikviens var izpildīt bez maksas savā valodā, ar personīgu pārskatu, kas vienkāršiem vārdiem izskaidro tavus rezultātus un piedāvā praktiskus nākamos soļus.",
+    "howTitle": "Kā mēs veidojam savus testus",
+    "how": [
+      {
+        "title": "Atzīti modeļi",
+        "text": "Katrs tests balstīts labi izpētītos modeļos, piemēram, Lielajā piecniekā (Big Five), RIASEC un piesaistes teorijā. Ja pastāv brīvi pieejamas klīniskās aptaujas, piemēram, PHQ-9 un PCL-5, mēs tās iekļaujam un izmantojam to oficiālo vērtēšanu."
+      },
+      {
+        "title": "100 jautājumu, 5 minūtes",
+        "text": "Katrā testā ir 100 īsu apgalvojumu, kas aptver visas tā mērītās dimensijas. Tas dod daudz ticamāku ainu nekā ātra desmit jautājumu viktorīna, un tomēr aizņem tikai apmēram piecas minūtes."
+      },
+      {
+        "title": "Rakstīti, lai tos lasītu",
+        "text": "Mūsu pārskati izskaidro, ko nozīmē katrs rezultāts, no kurienes tas rodas un ko tu ar to vari darīt. Nekāda žargona un miglainu horoskopa frāžu – tikai skaidras, praktiskas atziņas."
+      }
+    ],
+    "valuesTitle": "Uz ko vari paļauties",
+    "values": [
+      {
+        "title": "Bez konta, bez abonementa",
+        "text": "Tu vienreiz samaksā {price} par pārskatu, ko vēlies. Nekas netiek atjaunots, un vēlāk nekas netiek iekasēts."
+      },
+      {
+        "title": "Privātums pirmajā vietā",
+        "text": "Tavas atbildes tiek izmantotas tikai rezultāta aprēķināšanai. Mēs nepārdodam datus un nerādām reklāmas."
+      },
+      {
+        "title": "Pieejams {languages} valodās",
+        "text": "Katrs tests un katrs pārskats ir pieejams visās lielākajās Eiropas valodās."
+      },
+      {
+        "title": "Godīgi par ierobežojumiem",
+        "text": "Mūsu testi atbalsta pašrefleksiju. Skrīninga testi var norādīt, vai ir vērts runāt ar speciālistu, taču tie nekad neaizstāj diagnozi."
+      }
+    ],
+    "ctaTitle": "Interesē, ko saka tavi rezultāti?",
+    "ctaButton": "Apskatīt mūsu testus"
   }
 }

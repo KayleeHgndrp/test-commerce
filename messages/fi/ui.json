@@ -194,7 +194,7 @@
     "unlockText": "Yksityiskohtainen raporttisi kaikkine pisteineen, henkilökohtaisine tulkintoineen ja käytännön vinkkeineen sähköpostiisi.",
     "emailLabel": "Sähköpostiosoite",
     "emailPlaceholder": "sinä@esimerkki.fi",
-    "consent": "Hyväksyn käyttöehdot ja tietosuojakäytännön.",
+    "consent": "Hyväksyn käyttöehdot ja tietosuojakäytännön ja pyydän, että raporttini toimitetaan välittömästi. Ymmärrän, että menetän peruuttamisoikeuteni, kun raportti on lähetetty.",
     "buy": "Hanki raporttini hintaan {price}",
     "secure": "Turvallinen maksu Stripen kautta. Kertamaksu, ei tilausta.",
     "invalidEmail": "Anna kelvollinen sähköpostiosoite.",
@@ -235,7 +235,8 @@
     "cookies": "Evästekäytäntö",
     "refund": "Palautuskäytäntö",
     "rights": "© {year} {site}. Kaikki oikeudet pidätetään.",
-    "disclaimer": "{site} ei ole terveyspalvelu. Jos sinulla on kliinisiä huolia, käänny laillistetun ammattilaisen puoleen."
+    "disclaimer": "{site} ei ole terveyspalvelu. Jos sinulla on kliinisiä huolia, käänny laillistetun ammattilaisen puoleen.",
+    "aboutLink": "Tietoa meistä"
   },
   "legal": {
     "privacyTitle": "Tietosuojakäytäntö",
@@ -277,5 +278,47 @@
     "sending": "Lähetetään…",
     "success": "Kiitos! Viestisi on lähetetty. Palaamme asiaan pian.",
     "error": "Viestiä ei voitu lähettää. Yritä myöhemmin uudelleen."
+  },
+  "about": {
+    "title": "Tietoa {site}-palvelusta",
+    "intro": "Uskomme, että jokainen ansaitsee selkeän ja rehellisen kuvan itsestään – ilman ammattijargonia, ilman tilauksia ja ilman neljän kirjaimen leimaa, joka ei selitä mitään.",
+    "missionTitle": "Tehtävämme",
+    "mission": "Psykologia on kehittänyt tehokkaita tapoja kuvata persoonallisuutta, ihmissuhteita ja hyvinvointia, mutta suurin osa tästä tiedosta on lukittuna oppikirjoihin tai kalliisiin arviointeihin. {site} tuo sen kaikkien ulottuville: perusteellisia testejä, jotka kuka tahansa voi tehdä ilmaiseksi omalla kielellään, ja henkilökohtainen raportti, joka selittää tuloksesi selkokielellä ja antaa käytännön seuraavia askelia.",
+    "howTitle": "Näin rakennamme testimme",
+    "how": [
+      {
+        "title": "Vakiintuneet mallit",
+        "text": "Jokainen testi perustuu hyvin tutkittuihin malleihin, kuten Big Five -malliin, RIASEC-malliin ja kiintymyssuhdeteoriaan. Jos käytettävissä on vapaasti käytettäviä kliinisiä kyselyitä, kuten PHQ-9 ja PCL-5, otamme ne mukaan ja käytämme niiden virallista pisteytystä."
+      },
+      {
+        "title": "100 kysymystä, 5 minuuttia",
+        "text": "Jokaisessa testissä on 100 lyhyttä väittämää, jotka kattavat kaikki sen mittaamat ulottuvuudet. Se antaa paljon luotettavamman kuvan kuin nopea kymmenen kysymyksen visa – ja vie silti vain noin viisi minuuttia."
+      },
+      {
+        "title": "Kirjoitettu luettavaksi",
+        "text": "Raporttimme kertovat, mitä kukin tulos tarkoittaa, mistä se johtuu ja mitä voit sillä tehdä. Ei jargonia eikä epämääräisiä horoskooppimaisia lauseita – vain selkeitä ja käytännöllisiä oivalluksia."
+      }
+    ],
+    "valuesTitle": "Mihin voit luottaa",
+    "values": [
+      {
+        "title": "Ei tiliä, ei tilausta",
+        "text": "Maksat {price} kerran haluamastasi raportista. Mitään ei uusita eikä mitään veloiteta myöhemmin."
+      },
+      {
+        "title": "Yksityisyys edellä",
+        "text": "Vastauksiasi käytetään vain tuloksesi laskemiseen. Emme myy tietoja emmekä näytä mainoksia."
+      },
+      {
+        "title": "Saatavilla {languages} kielellä",
+        "text": "Jokainen testi ja raportti on saatavilla kaikilla suurilla eurooppalaisilla kielillä."
+      },
+      {
+        "title": "Rehellisesti rajoista",
+        "text": "Testimme tukevat itsereflektiota. Seulontatestit voivat kertoa, onko asiantuntijan kanssa puhumisesta hyötyä, mutta ne eivät koskaan korvaa diagnoosia."
+      }
+    ],
+    "ctaTitle": "Kiinnostaako, mitä tuloksesi kertovat?",
+    "ctaButton": "Tutustu testeihin"
   }
 }

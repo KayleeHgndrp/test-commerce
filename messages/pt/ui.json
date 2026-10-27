@@ -194,7 +194,7 @@
     "unlockText": "O teu relatório detalhado com todas as pontuações, interpretações pessoais e dicas práticas, enviado para o teu e-mail.",
     "emailLabel": "Endereço de e-mail",
     "emailPlaceholder": "nome@exemplo.pt",
-    "consent": "Aceito os termos e a política de privacidade.",
+    "consent": "Aceito os termos e a política de privacidade e peço a entrega imediata do meu relatório. Compreendo que perco o meu direito de livre resolução assim que o relatório for enviado.",
     "buy": "Obter o meu relatório por {price}",
     "secure": "Pagamento seguro através da Stripe. Pagamento único, sem subscrição.",
     "invalidEmail": "Introduz um endereço de e-mail válido.",
@@ -235,7 +235,8 @@
     "cookies": "Política de cookies",
     "refund": "Política de reembolso",
     "rights": "© {year} {site}. Todos os direitos reservados.",
-    "disclaimer": "O {site} não é um serviço médico. Para questões clínicas, consulta um profissional de saúde habilitado."
+    "disclaimer": "O {site} não é um serviço médico. Para questões clínicas, consulta um profissional de saúde habilitado.",
+    "aboutLink": "Sobre nós"
   },
   "legal": {
     "privacyTitle": "Política de privacidade",
@@ -277,5 +278,47 @@
     "sending": "A enviar…",
     "success": "Obrigado! A tua mensagem foi enviada. Responderemos em breve.",
     "error": "Não foi possível enviar a tua mensagem. Tenta novamente mais tarde."
+  },
+  "about": {
+    "title": "Sobre o {site}",
+    "intro": "Acreditamos que todos merecem um olhar claro e honesto sobre quem são — sem jargão, sem subscrições e sem um rótulo de quatro letras que não explica nada.",
+    "missionTitle": "A nossa missão",
+    "mission": "A psicologia desenvolveu formas poderosas de descrever a personalidade, as relações e o bem-estar, mas a maior parte desse conhecimento está fechada em manuais ou em avaliações caras. O {site} torna-o acessível: testes aprofundados que qualquer pessoa pode fazer gratuitamente, na sua própria língua, com um relatório pessoal que explica os teus resultados em palavras simples e te dá passos práticos a seguir.",
+    "howTitle": "Como construímos os nossos testes",
+    "how": [
+      {
+        "title": "Modelos reconhecidos",
+        "text": "Cada teste baseia-se em modelos bem estudados, como os Cinco Grandes Fatores, o RIASEC e a teoria da vinculação. Quando existem questionários clínicos de domínio público, como o PHQ-9 e o PCL-5, incluímo-los e usamos a sua cotação oficial."
+      },
+      {
+        "title": "100 perguntas, 5 minutos",
+        "text": "Cada teste usa 100 afirmações curtas distribuídas por todas as dimensões que mede. Isso dá uma imagem muito mais fiável do que um questionário rápido de dez perguntas e, ainda assim, demora apenas cerca de cinco minutos."
+      },
+      {
+        "title": "Escritos para serem lidos",
+        "text": "Os nossos relatórios explicam o que significa cada pontuação, de onde vem e o que podes fazer com ela. Sem jargão nem frases vagas de horóscopo — apenas ideias claras e práticas."
+      }
+    ],
+    "valuesTitle": "Com o que podes contar",
+    "values": [
+      {
+        "title": "Sem conta, sem subscrição",
+        "text": "Pagas {price} uma única vez pelo relatório que queres. Nada é renovado e nada é cobrado depois."
+      },
+      {
+        "title": "Privacidade em primeiro lugar",
+        "text": "As tuas respostas são usadas apenas para calcular o teu resultado. Não vendemos dados nem mostramos anúncios."
+      },
+      {
+        "title": "Disponível em {languages} idiomas",
+        "text": "Todos os testes e relatórios estão disponíveis nas principais línguas europeias."
+      },
+      {
+        "title": "Honestos quanto aos limites",
+        "text": "Os nossos testes apoiam a autorreflexão. Os testes de rastreio podem dizer-te se faz sentido falares com um profissional, mas nunca substituem um diagnóstico."
+      }
+    ],
+    "ctaTitle": "Tens curiosidade sobre o que dizem os teus resultados?",
+    "ctaButton": "Explora os nossos testes"
   }
 }

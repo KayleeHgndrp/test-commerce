@@ -194,7 +194,7 @@
     "unlockText": "Raportul tău detaliat, cu toate scorurile, interpretări personale și sfaturi practice, trimis pe e-mail.",
     "emailLabel": "Adresă de e-mail",
     "emailPlaceholder": "tu@exemplu.ro",
-    "consent": "Sunt de acord cu termenii și politica de confidențialitate.",
+    "consent": "Sunt de acord cu termenii și politica de confidențialitate și solicit livrarea imediată a raportului. Înțeleg că îmi pierd dreptul de retragere odată ce raportul a fost trimis.",
     "buy": "Obține raportul pentru {price}",
     "secure": "Plată securizată prin Stripe. Plată unică, fără abonament.",
     "invalidEmail": "Introdu o adresă de e-mail validă.",
@@ -235,7 +235,8 @@
     "cookies": "Politica privind cookie-urile",
     "refund": "Politica de rambursare",
     "rights": "© {year} {site}. Toate drepturile rezervate.",
-    "disclaimer": "{site} nu este un serviciu medical. Pentru probleme clinice, consultă un specialist autorizat."
+    "disclaimer": "{site} nu este un serviciu medical. Pentru probleme clinice, consultă un specialist autorizat.",
+    "aboutLink": "Despre noi"
   },
   "legal": {
     "privacyTitle": "Politica de confidențialitate",
@@ -277,5 +278,47 @@
     "sending": "Se trimite…",
     "success": "Mulțumim! Mesajul tău a fost trimis. Îți răspundem în curând.",
     "error": "Mesajul nu a putut fi trimis. Încearcă din nou mai târziu."
+  },
+  "about": {
+    "title": "Despre {site}",
+    "intro": "Credem că oricine merită o privire clară și sinceră asupra propriei persoane – fără jargon, fără abonamente și fără o etichetă din patru litere care nu explică nimic.",
+    "missionTitle": "Misiunea noastră",
+    "mission": "Psihologia a dezvoltat metode puternice de a descrie personalitatea, relațiile și starea de bine, dar cea mai mare parte a acestor cunoștințe rămâne închisă în manuale sau în evaluări costisitoare. {site} le face accesibile: teste aprofundate pe care oricine le poate face gratuit, în propria limbă, cu un raport personal care îți explică rezultatele pe înțeles și îți oferă pași practici.",
+    "howTitle": "Cum ne construim testele",
+    "how": [
+      {
+        "title": "Modele consacrate",
+        "text": "Fiecare test se bazează pe modele bine cercetate, precum Big Five, RIASEC și teoria atașamentului. Acolo unde există chestionare clinice din domeniul public, precum PHQ-9 și PCL-5, le includem și folosim punctajul lor oficial."
+      },
+      {
+        "title": "100 de întrebări, 5 minute",
+        "text": "Fiecare test are 100 de afirmații scurte, distribuite pe toate dimensiunile pe care le măsoară. Asta oferă o imagine mult mai fiabilă decât un chestionar rapid de zece întrebări și durează totuși doar vreo cinci minute."
+      },
+      {
+        "title": "Scrise ca să fie citite",
+        "text": "Rapoartele noastre explică ce înseamnă fiecare scor, de unde vine și ce poți face cu el. Fără jargon și fără formulări vagi de horoscop – doar idei clare și practice."
+      }
+    ],
+    "valuesTitle": "Pe ce te poți baza",
+    "values": [
+      {
+        "title": "Fără cont, fără abonament",
+        "text": "Plătești o singură dată {price} pentru raportul pe care îl vrei. Nimic nu se reînnoiește și nu se mai percepe nimic ulterior."
+      },
+      {
+        "title": "Confidențialitatea pe primul loc",
+        "text": "Răspunsurile tale sunt folosite doar pentru a-ți calcula rezultatul. Nu vindem date și nu afișăm reclame."
+      },
+      {
+        "title": "Disponibil în {languages} limbi",
+        "text": "Fiecare test și fiecare raport este disponibil în toate limbile europene importante."
+      },
+      {
+        "title": "Sinceri în privința limitelor",
+        "text": "Testele noastre sprijină autoreflecția. Testele de screening îți pot arăta dacă are sens să vorbești cu un specialist, dar nu înlocuiesc niciodată un diagnostic."
+      }
+    ],
+    "ctaTitle": "Ești curios ce spun rezultatele tale?",
+    "ctaButton": "Descoperă testele noastre"
   }
 }

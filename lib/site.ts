@@ -2,6 +2,14 @@ export const site = {
   name: process.env.NEXT_PUBLIC_SITE_NAME ?? "Testora",
   url: (process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000").replace(/\/$/, ""),
   contactEmail: process.env.NEXT_PUBLIC_CONTACT_EMAIL || process.env.CONTACT_FROM_EMAIL || "support@example.com",
+  // Legal notice (Impressum) details, required in e.g. Germany and Austria.
+  company: {
+    name: process.env.COMPANY_NAME ?? "",
+    address: process.env.COMPANY_ADDRESS ?? "",
+    registration: process.env.COMPANY_REGISTRATION ?? "",
+    vat: process.env.COMPANY_VAT ?? "",
+    representative: process.env.COMPANY_REPRESENTATIVE ?? "",
+  },
   // Report price in the smallest currency unit (cents).
   priceCents: Number(process.env.NEXT_PUBLIC_REPORT_PRICE_CENTS ?? 125),
   currency: (process.env.NEXT_PUBLIC_REPORT_CURRENCY ?? "eur").toLowerCase(),

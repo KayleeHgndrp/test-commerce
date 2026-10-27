@@ -194,7 +194,7 @@
     "unlockText": "Tu informe detallado con todas las puntuaciones, interpretaciones personales y consejos prácticos, enviado a tu correo.",
     "emailLabel": "Correo electrónico",
     "emailPlaceholder": "tu@ejemplo.es",
-    "consent": "Acepto las condiciones y la política de privacidad.",
+    "consent": "Acepto las condiciones y la política de privacidad y solicito la entrega inmediata de mi informe. Entiendo que pierdo mi derecho de desistimiento una vez enviado el informe.",
     "buy": "Conseguir mi informe por {price}",
     "secure": "Pago seguro con Stripe. Pago único, sin suscripción.",
     "invalidEmail": "Introduce una dirección de correo válida.",
@@ -235,7 +235,8 @@
     "cookies": "Política de cookies",
     "refund": "Política de reembolso",
     "rights": "© {year} {site}. Todos los derechos reservados.",
-    "disclaimer": "{site} no es un servicio médico. Si tienes dudas clínicas, consulta a un profesional colegiado."
+    "disclaimer": "{site} no es un servicio médico. Si tienes dudas clínicas, consulta a un profesional colegiado.",
+    "aboutLink": "Sobre nosotros"
   },
   "legal": {
     "privacyTitle": "Política de privacidad",
@@ -277,5 +278,47 @@
     "sending": "Enviando…",
     "success": "¡Gracias! Tu mensaje se ha enviado. Te responderemos pronto.",
     "error": "No se ha podido enviar tu mensaje. Inténtalo de nuevo más tarde."
+  },
+  "about": {
+    "title": "Sobre {site}",
+    "intro": "Creemos que todo el mundo merece una mirada clara y honesta sobre quién es: sin jerga, sin suscripciones y sin una etiqueta de cuatro letras que no explica nada.",
+    "missionTitle": "Nuestra misión",
+    "mission": "La psicología ha desarrollado herramientas muy potentes para describir la personalidad, las relaciones y el bienestar, pero la mayor parte de ese conocimiento está encerrado en manuales o en evaluaciones caras. {site} lo hace accesible: tests completos que cualquiera puede hacer gratis, en su propio idioma, con un informe personal que explica tus resultados con palabras sencillas y te propone pasos prácticos.",
+    "howTitle": "Cómo creamos nuestros tests",
+    "how": [
+      {
+        "title": "Modelos contrastados",
+        "text": "Cada test se basa en marcos bien investigados como los Cinco Grandes, RIASEC y la teoría del apego. Cuando existen cuestionarios clínicos de dominio público, como el PHQ-9 y el PCL-5, los incluimos con su puntuación oficial."
+      },
+      {
+        "title": "100 preguntas, 5 minutos",
+        "text": "Cada test consta de 100 afirmaciones breves repartidas entre todas las dimensiones que mide. Así se obtiene una imagen mucho más fiable que con un test rápido de diez preguntas, y aun así solo lleva unos cinco minutos."
+      },
+      {
+        "title": "Escritos para leerse",
+        "text": "Nuestros informes explican qué significa cada puntuación, de dónde sale y qué puedes hacer con ella. Sin jerga ni frases vagas de horóscopo: solo ideas claras y prácticas."
+      }
+    ],
+    "valuesTitle": "Con qué puedes contar",
+    "values": [
+      {
+        "title": "Sin cuenta ni suscripción",
+        "text": "Pagas {price} una sola vez por el informe que quieras. Nada se renueva y no se cobra nada después."
+      },
+      {
+        "title": "La privacidad, lo primero",
+        "text": "Tus respuestas solo se usan para calcular tu resultado. No vendemos datos ni mostramos anuncios."
+      },
+      {
+        "title": "Disponible en {languages} idiomas",
+        "text": "Todos los tests e informes están disponibles en los principales idiomas europeos."
+      },
+      {
+        "title": "Sinceros sobre los límites",
+        "text": "Nuestros tests ayudan a la autorreflexión. Los de cribado pueden indicarte si conviene hablar con un profesional, pero nunca sustituyen un diagnóstico."
+      }
+    ],
+    "ctaTitle": "¿Te pica la curiosidad por lo que dicen tus resultados?",
+    "ctaButton": "Descubre nuestros tests"
   }
 }

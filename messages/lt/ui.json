@@ -194,7 +194,7 @@
     "unlockText": "Išsami ataskaita su visais balais, asmeninėmis interpretacijomis ir praktiniais patarimais – į jūsų el. paštą.",
     "emailLabel": "El. pašto adresas",
     "emailPlaceholder": "jusu@pavyzdys.lt",
-    "consent": "Sutinku su taisyklėmis ir privatumo politika.",
+    "consent": "Sutinku su taisyklėmis ir privatumo politika ir prašau ataskaitą pateikti nedelsiant. Suprantu, kad išsiuntus ataskaitą prarandu teisę atsisakyti sutarties.",
     "buy": "Gauti ataskaitą už {price}",
     "secure": "Saugus mokėjimas per Stripe. Vienkartinis mokėjimas, jokios prenumeratos.",
     "invalidEmail": "Įveskite galiojantį el. pašto adresą.",
@@ -235,7 +235,8 @@
     "cookies": "Slapukų politika",
     "refund": "Pinigų grąžinimo politika",
     "rights": "© {year} {site}. Visos teisės saugomos.",
-    "disclaimer": "{site} nėra medicininė paslauga. Dėl klinikinių klausimų kreipkitės į licencijuotą specialistą."
+    "disclaimer": "{site} nėra medicininė paslauga. Dėl klinikinių klausimų kreipkitės į licencijuotą specialistą.",
+    "aboutLink": "Apie mus"
   },
   "legal": {
     "privacyTitle": "Privatumo politika",
@@ -277,5 +278,47 @@
     "sending": "Siunčiama…",
     "success": "Ačiū! Jūsų žinutė išsiųsta. Netrukus su jumis susisieksime.",
     "error": "Žinutės išsiųsti nepavyko. Bandykite vėliau."
+  },
+  "about": {
+    "title": "Apie {site}",
+    "intro": "Tikime, kad kiekvienas nusipelno aiškaus ir sąžiningo žvilgsnio į save – be žargono, be prenumeratų ir be keturių raidžių etiketės, kuri nieko nepaaiškina.",
+    "missionTitle": "Mūsų misija",
+    "mission": "Psichologija sukūrė galingų būdų apibūdinti asmenybę, santykius ir savijautą, tačiau dauguma šių žinių lieka užrakintos vadovėliuose arba brangiuose vertinimuose. {site} jas padaro prieinamas: išsamūs testai, kuriuos kiekvienas gali atlikti nemokamai ir savo kalba, su asmenine ataskaita, kuri paprastais žodžiais paaiškina jūsų rezultatus ir pasiūlo praktinių tolesnių žingsnių.",
+    "howTitle": "Kaip kuriame savo testus",
+    "how": [
+      {
+        "title": "Pripažinti modeliai",
+        "text": "Kiekvienas testas paremtas gerai ištirtais modeliais, tokiais kaip „Didysis penketas“, RIASEC ir prieraišumo teorija. Jei egzistuoja viešai prieinami klinikiniai klausimynai, pavyzdžiui, PHQ-9 ir PCL-5, juos įtraukiame ir vertiname pagal oficialią metodiką."
+      },
+      {
+        "title": "100 klausimų, 5 minutės",
+        "text": "Kiekvieną testą sudaro 100 trumpų teiginių, apimančių visas jo matuojamas dimensijas. Taip gaunamas kur kas patikimesnis vaizdas nei iš greitos dešimties klausimų viktorinos, o užtrunkate vis tiek tik apie penkias minutes."
+      },
+      {
+        "title": "Parašyta tam, kad būtų skaitoma",
+        "text": "Mūsų ataskaitos paaiškina, ką reiškia kiekvienas balas, iš kur jis kyla ir ką su juo galite daryti. Jokio žargono ir jokių miglotų horoskopo frazių – tik aiškios, praktiškos įžvalgos."
+      }
+    ],
+    "valuesTitle": "Kuo galite pasikliauti",
+    "values": [
+      {
+        "title": "Jokios paskyros, jokios prenumeratos",
+        "text": "Už norimą ataskaitą vieną kartą sumokate {price}. Niekas neatsinaujina, vėliau nieko nenuskaičiuojama."
+      },
+      {
+        "title": "Privatumas – svarbiausia",
+        "text": "Jūsų atsakymai naudojami tik rezultatui apskaičiuoti. Duomenų neparduodame ir reklamų nerodome."
+      },
+      {
+        "title": "Kalbų: {languages}",
+        "text": "Kiekvienas testas ir kiekviena ataskaita prieinami visomis pagrindinėmis Europos kalbomis."
+      },
+      {
+        "title": "Sąžiningai apie ribas",
+        "text": "Mūsų testai padeda pažinti save. Patikros testai gali parodyti, ar verta pasikalbėti su specialistu, tačiau jie niekada nepakeičia diagnozės."
+      }
+    ],
+    "ctaTitle": "Įdomu, ką rodo jūsų rezultatai?",
+    "ctaButton": "Peržiūrėti testus"
   }
 }

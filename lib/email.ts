@@ -1,7 +1,13 @@
 import nodemailer, { type Transporter } from "nodemailer";
 import { site } from "@/lib/site";
 
-type Message = { subject: string; html?: string; text: string; replyTo?: string };
+type Message = {
+  subject: string;
+  html?: string;
+  text: string;
+  replyTo?: string;
+  attachments?: { filename: string; content: Buffer }[];
+};
 
 let transport: Transporter | undefined;
 
@@ -35,5 +41,6 @@ export async function sendEmail(to: string, message: Message) {
     subject: message.subject,
     text: message.text,
     html: message.html,
+    attachments: message.attachments,
   });
 }

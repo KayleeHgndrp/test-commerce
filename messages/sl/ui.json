@@ -194,7 +194,7 @@
     "unlockText": "Vaše podrobno poročilo z vsemi rezultati, osebnimi razlagami in praktičnimi nasveti, poslano na vaš e-naslov.",
     "emailLabel": "E-naslov",
     "emailPlaceholder": "vi@primer.si",
-    "consent": "Strinjam se s pogoji uporabe in pravilnikom o zasebnosti.",
+    "consent": "Strinjam se s pogoji uporabe in pravilnikom o zasebnosti ter zahtevam takojšnjo dostavo poročila. Razumem, da izgubim pravico do odstopa od pogodbe, ko je poročilo poslano.",
     "buy": "Pridobi poročilo za {price}",
     "secure": "Varno plačilo prek Stripe. Enkratno plačilo, brez naročnine.",
     "invalidEmail": "Vnesite veljaven e-naslov.",
@@ -235,7 +235,8 @@
     "cookies": "Pravilnik o piškotkih",
     "refund": "Pravilnik o vračilu",
     "rights": "© {year} {site}. Vse pravice pridržane.",
-    "disclaimer": "{site} ni zdravstvena storitev. Pri kliničnih težavah se posvetujte z licenciranim strokovnjakom."
+    "disclaimer": "{site} ni zdravstvena storitev. Pri kliničnih težavah se posvetujte z licenciranim strokovnjakom.",
+    "aboutLink": "O nas"
   },
   "legal": {
     "privacyTitle": "Pravilnik o zasebnosti",
@@ -277,5 +278,47 @@
     "sending": "Pošiljanje…",
     "success": "Hvala! Vaše sporočilo je bilo poslano. Kmalu se vam oglasimo.",
     "error": "Sporočila ni bilo mogoče poslati. Poskusite znova pozneje."
+  },
+  "about": {
+    "title": "O {site}",
+    "intro": "Verjamemo, da si vsak zasluži jasen in iskren pogled nase – brez strokovnega žargona, brez naročnin in brez oznake iz štirih črk, ki ničesar ne pojasni.",
+    "missionTitle": "Naše poslanstvo",
+    "mission": "Psihologija je razvila zmogljive načine za opisovanje osebnosti, odnosov in dobrega počutja, vendar je večina tega znanja zaklenjena v učbenikih ali dragih ocenjevanjih. {site} ga naredi dostopnega: poglobljeni testi, ki jih lahko vsak reši brezplačno in v svojem jeziku, z osebnim poročilom, ki vaše rezultate pojasni s preprostimi besedami in vam ponudi praktične naslednje korake.",
+    "howTitle": "Kako pripravljamo teste",
+    "how": [
+      {
+        "title": "Uveljavljeni modeli",
+        "text": "Vsak test temelji na dobro raziskanih modelih, kot so model velikih pet, RIASEC in teorija navezanosti. Kjer obstajajo javno dostopni klinični vprašalniki, kot sta PHQ-9 in PCL-5, jih vključimo in uporabimo njihovo uradno točkovanje."
+      },
+      {
+        "title": "100 vprašanj, 5 minut",
+        "text": "Vsak test vsebuje 100 kratkih trditev, razporejenih po vseh dimenzijah, ki jih meri. Tako dobite veliko zanesljivejšo sliko kot pri hitrem kvizu z desetimi vprašanji, reševanje pa traja le približno pet minut."
+      },
+      {
+        "title": "Napisano, da se bere",
+        "text": "Naša poročila pojasnijo, kaj pomeni vsak rezultat, od kod izvira in kaj lahko z njim naredite. Brez žargona in brez meglenega horoskopskega jezika – le jasni, praktični uvidi."
+      }
+    ],
+    "valuesTitle": "Na kaj se lahko zanesete",
+    "values": [
+      {
+        "title": "Brez računa, brez naročnine",
+        "text": "Za poročilo, ki ga želite, enkrat plačate {price}. Nič se ne podaljša, nič se ne zaračuna pozneje."
+      },
+      {
+        "title": "Zasebnost na prvem mestu",
+        "text": "Vaše odgovore uporabimo le za izračun rezultata. Podatkov ne prodajamo in ne prikazujemo oglasov."
+      },
+      {
+        "title": "Na voljo v več jezikih ({languages})",
+        "text": "Vsak test in vsako poročilo sta na voljo v vseh večjih evropskih jezikih."
+      },
+      {
+        "title": "Iskreno o omejitvah",
+        "text": "Naši testi podpirajo samorefleksijo. Presejalni testi lahko pokažejo, ali je smiselno, da se pogovorite s strokovnjakom, vendar nikoli ne nadomestijo diagnoze."
+      }
+    ],
+    "ctaTitle": "Vas zanima, kaj povedo vaši rezultati?",
+    "ctaButton": "Oglejte si naše teste"
   }
 }

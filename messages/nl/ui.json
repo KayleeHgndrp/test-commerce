@@ -194,7 +194,7 @@
     "unlockText": "Je uitgebreide rapport met alle scores, persoonlijke uitleg en praktische tips, verstuurd naar je e-mail.",
     "emailLabel": "E-mailadres",
     "emailPlaceholder": "jij@voorbeeld.nl",
-    "consent": "Ik ga akkoord met de voorwaarden en het privacybeleid.",
+    "consent": "Ik ga akkoord met de voorwaarden en het privacybeleid en verzoek om directe levering van mijn rapport. Ik begrijp dat ik mijn herroepingsrecht verlies zodra het rapport is verstuurd.",
     "buy": "Ontvang mijn rapport voor {price}",
     "secure": "Veilig betalen via Stripe. Eenmalige betaling, geen abonnement.",
     "invalidEmail": "Vul een geldig e-mailadres in.",
@@ -235,7 +235,8 @@
     "cookies": "Cookiebeleid",
     "refund": "Terugbetalingsbeleid",
     "rights": "© {year} {site}. Alle rechten voorbehouden.",
-    "disclaimer": "{site} is geen medische dienst. Neem bij klinische zorgen contact op met een erkende zorgverlener."
+    "disclaimer": "{site} is geen medische dienst. Neem bij klinische zorgen contact op met een erkende zorgverlener.",
+    "aboutLink": "Over ons"
   },
   "legal": {
     "privacyTitle": "Privacybeleid",
@@ -277,5 +278,47 @@
     "sending": "Versturen…",
     "success": "Bedankt! Je bericht is verstuurd. We nemen snel contact met je op.",
     "error": "Je bericht kon niet worden verstuurd. Probeer het later opnieuw."
+  },
+  "about": {
+    "title": "Over {site}",
+    "intro": "Wij vinden dat iedereen een helder, eerlijk beeld van zichzelf verdient — zonder vakjargon, zonder abonnementen en zonder een label van vier letters dat niets uitlegt.",
+    "missionTitle": "Onze missie",
+    "mission": "De psychologie heeft krachtige manieren ontwikkeld om persoonlijkheid, relaties en welzijn te beschrijven, maar de meeste kennis zit verstopt in studieboeken of dure assessments. {site} maakt die kennis toegankelijk: diepgaande tests die iedereen gratis kan doen, in de eigen taal, met een persoonlijk rapport dat je resultaten in gewone woorden uitlegt en je praktische vervolgstappen geeft.",
+    "howTitle": "Zo bouwen we onze tests",
+    "how": [
+      {
+        "title": "Erkende modellen",
+        "text": "Elke test is gebaseerd op goed onderzochte modellen zoals de Big Five, RIASEC en de hechtingstheorie. Waar vrij beschikbare klinische vragenlijsten bestaan, zoals de PHQ-9 en PCL-5, nemen we die op en gebruiken we hun officiële scoring."
+      },
+      {
+        "title": "100 vragen, 5 minuten",
+        "text": "Elke test bestaat uit 100 korte stellingen, verdeeld over alle dimensies die hij meet. Dat geeft een veel betrouwbaarder beeld dan een snelle quiz van tien vragen, en het kost je nog steeds maar zo'n vijf minuten."
+      },
+      {
+        "title": "Geschreven om gelezen te worden",
+        "text": "Onze rapporten leggen uit wat elke score betekent, waar die vandaan komt en wat je ermee kunt. Geen jargon en geen vage horoscooptaal — gewoon heldere, praktische inzichten."
+      }
+    ],
+    "valuesTitle": "Waar je op kunt rekenen",
+    "values": [
+      {
+        "title": "Geen account, geen abonnement",
+        "text": "Je betaalt eenmalig {price} voor een rapport dat je wilt hebben. Er wordt niets verlengd en later niets afgeschreven."
+      },
+      {
+        "title": "Privacy voorop",
+        "text": "Je antwoorden worden alleen gebruikt om je resultaat te berekenen. We verkopen geen gegevens en tonen geen advertenties."
+      },
+      {
+        "title": "Beschikbaar in {languages} talen",
+        "text": "Elke test en elk rapport is beschikbaar in alle grote Europese talen."
+      },
+      {
+        "title": "Eerlijk over grenzen",
+        "text": "Onze tests ondersteunen zelfreflectie. Screeners kunnen aangeven of het zinvol is om met een professional te praten, maar ze vervangen nooit een diagnose."
+      }
+    ],
+    "ctaTitle": "Benieuwd wat je resultaten zeggen?",
+    "ctaButton": "Bekijk onze tests"
   }
 }

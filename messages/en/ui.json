@@ -236,7 +236,8 @@
     "refund": "Refund policy",
     "rights": "© {year} {site}. All rights reserved.",
     "disclaimer": "{site} is not a medical service. For clinical concerns, please consult a licensed professional.",
-    "aboutLink": "About us"
+    "aboutLink": "About us",
+    "notice": "Legal notice"
   },
   "legal": {
     "privacyTitle": "Privacy policy",
@@ -266,7 +267,17 @@
       "Did you not receive your report, or did something go wrong? Contact {email} within 14 days, mentioning the email address you used, and we will resend your report or refund your payment.",
       "Because the report is digital content that is delivered immediately, the statutory right of withdrawal expires once it has been sent. We will still always help you if something is not right.",
       "Refunds are made to the original payment method within 5–10 business days."
-    ]
+    ],
+    "noticeTitle": "Legal notice",
+    "notice": {
+      "company": "Company",
+      "address": "Address",
+      "representative": "Represented by",
+      "registration": "Company registration",
+      "vat": "VAT number",
+      "contact": "Contact",
+      "dispute": "The European Commission provides a platform for online dispute resolution (ODR): https://ec.europa.eu/consumers/odr. We are not obliged or willing to participate in dispute resolution proceedings before a consumer arbitration board."
+    }
   },
   "contact": {
     "title": "Contact us",
@@ -320,5 +331,10 @@
     ],
     "ctaTitle": "Curious what your results say?",
     "ctaButton": "Explore our tests"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for doesn't exist or has moved.",
+    "home": "Back to home"
   }
 }

@@ -194,7 +194,7 @@
     "unlockText": "Raporti yt i detajuar me të gjitha rezultatet, interpretime personale dhe këshilla praktike, i dërguar në emailin tënd.",
     "emailLabel": "Adresa e emailit",
     "emailPlaceholder": "ti@shembull.com",
-    "consent": "Pranoj kushtet dhe politikën e privatësisë.",
+    "consent": "Pranoj kushtet dhe politikën e privatësisë dhe kërkoj që raporti im të dorëzohet menjëherë. E kuptoj se e humbas të drejtën e tërheqjes sapo raporti të jetë dërguar.",
     "buy": "Merr raportin për {price}",
     "secure": "Pagesë e sigurt përmes Stripe. Pagesë e njëhershme, pa abonim.",
     "invalidEmail": "Të lutem shkruaj një adresë emaili të vlefshme.",
@@ -235,7 +235,8 @@
     "cookies": "Politika e cookie-ve",
     "refund": "Politika e rimbursimit",
     "rights": "© {year} {site}. Të gjitha të drejtat të rezervuara.",
-    "disclaimer": "{site} nuk është shërbim mjekësor. Për shqetësime klinike, të lutem konsulto një profesionist të licencuar."
+    "disclaimer": "{site} nuk është shërbim mjekësor. Për shqetësime klinike, të lutem konsulto një profesionist të licencuar.",
+    "aboutLink": "Rreth nesh"
   },
   "legal": {
     "privacyTitle": "Politika e privatësisë",
@@ -277,5 +278,47 @@
     "sending": "Po dërgohet…",
     "success": "Faleminderit! Mesazhi yt u dërgua. Do të të kontaktojmë së shpejti.",
     "error": "Mesazhi nuk mund të dërgohej. Provo përsëri më vonë."
+  },
+  "about": {
+    "title": "Rreth {site}",
+    "intro": "Besojmë se çdokush meriton një vështrim të qartë dhe të sinqertë mbi veten — pa zhargon, pa abonime dhe pa një etiketë me katër shkronja që nuk shpjegon asgjë.",
+    "missionTitle": "Misioni ynë",
+    "mission": "Psikologjia ka zhvilluar mënyra të fuqishme për të përshkruar personalitetin, marrëdhëniet dhe mirëqenien, por pjesa më e madhe e kësaj dijeje mbetet e mbyllur në tekste shkollore ose në vlerësime të shtrenjta. {site} e bën të aksesueshme: teste të thelluara që kushdo mund t'i plotësojë falas, në gjuhën e vet, me një raport personal që t'i shpjegon rezultatet me fjalë të thjeshta dhe të jep hapa praktikë për më tej.",
+    "howTitle": "Si i ndërtojmë testet tona",
+    "how": [
+      {
+        "title": "Modele të njohura",
+        "text": "Çdo test bazohet në korniza të studiuara mirë si Big Five (Pesë Faktorët e Mëdhenj), RIASEC dhe teoria e lidhjes emocionale. Aty ku ekzistojnë pyetësorë klinikë në domen publik, si PHQ-9 dhe PCL-5, i përfshijmë ato dhe përdorim vlerësimin e tyre zyrtar."
+      },
+      {
+        "title": "100 pyetje, 5 minuta",
+        "text": "Çdo test përdor 100 pohime të shkurtra të shpërndara në çdo dimension që mat. Kjo jep një pamje shumë më të besueshme se një kuiz i shpejtë me dhjetë pyetje, ndërsa zgjat vetëm rreth pesë minuta."
+      },
+      {
+        "title": "Shkruar për t'u lexuar",
+        "text": "Raportet tona shpjegojnë çfarë do të thotë çdo rezultat, nga vjen dhe çfarë mund të bësh me të. Pa zhargon dhe pa gjuhë të paqartë horoskopi — vetëm njohuri të qarta e praktike."
+      }
+    ],
+    "valuesTitle": "Ku mund të mbështetesh",
+    "values": [
+      {
+        "title": "Pa llogari, pa abonim",
+        "text": "Paguan {price} një herë për raportin që dëshiron. Asgjë nuk rinovohet, asgjë nuk tarifohet më vonë."
+      },
+      {
+        "title": "Privatësia në radhë të parë",
+        "text": "Përgjigjet e tua përdoren vetëm për të llogaritur rezultatin. Nuk shesim të dhëna dhe nuk shfaqim reklama."
+      },
+      {
+        "title": "I disponueshëm në {languages} gjuhë",
+        "text": "Çdo test dhe çdo raport është i disponueshëm në të gjitha gjuhët kryesore evropiane."
+      },
+      {
+        "title": "Të sinqertë për kufijtë",
+        "text": "Testet tona mbështesin vetëreflektimin. Testet e depistimit mund të të tregojnë nëse ka kuptim të flasësh me një profesionist, por nuk zëvendësojnë kurrë një diagnozë."
+      }
+    ],
+    "ctaTitle": "Kurioz/e se çfarë thonë rezultatet e tua?",
+    "ctaButton": "Shiko testet tona"
   }
 }

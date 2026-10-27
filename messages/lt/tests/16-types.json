@@ -1,0 +1,206 @@
+{
+  "name": "16 asmenybės tipų testas",
+  "tagline": "Sužinokite savo keturių raidžių tipą ir ką jis apie jus pasako.",
+  "intro": "Šis testas jus išdėsto keturiose pasirinkimų skalėse: iš kur semiatės energijos, kaip priimate informaciją, kaip priimate sprendimus ir kaip organizuojate savo gyvenimą. Keturi jūsų pasirinkimai susijungia į vieną iš 16 asmenybės tipų. Įvertinkite 100 trumpų teiginių; tai užtruks apie penkias minutes.",
+  "seoTitle": "16 asmenybės tipų testas – nemokamas keturių raidžių tipas",
+  "seoDescription": "Sužinokite savo keturių raidžių asmenybės tipą per 5 minutes. Pamatykite savo pasirinkimus kiekvienoje skalėje ir perskaitykite tipo portretą su patarimais.",
+  "items": [
+    "Geriausiai mąstau, kai idėjas aptariu su kitais.",
+    "Dažnai galvoju apie tai, ką gali atnešti ateitis.",
+    "Priimant sprendimus man pirmiausia svarbi logika.",
+    "Mėgstu palikti sau atvirų galimybių.",
+    "Faktais pasitikiu labiau nei nuojauta.",
+    "Pabuvus su žmonėmis man reikia laiko vienumoje atgauti jėgas.",
+    "Mėgstu, kai mano diena suplanuota.",
+    "Pasveriu, kaip mano pasirinkimai paveiks kitų jausmus.",
+    "Susipažinimas su naujais žmonėmis man suteikia energijos.",
+    "Man patinka atrasti paslėptus dėsningumus ir prasmes.",
+    "Sąžiningumą vertinu labiau nei taktiškumą.",
+    "Man patinka spręsti akimirkos įkarštyje.",
+    "Pastebiu smulkias detales, kurių kiti nepastebi.",
+    "Vieną gilų pokalbį vertinu labiau nei daug lengvų.",
+    "Jaučiu palengvėjimą, kai sprendimas priimtas.",
+    "Man svarbu išlaikyti ramybę.",
+    "Man patinka dirbti atviroje, gyvoje erdvėje.",
+    "Rutininės detalės man nusibosta.",
+    "Sprendžiant konfliktą galiu išlaikyti nešališkumą.",
+    "Geriausiai dirbu paskutinės minutės spaudimu.",
+    "Labiau mėgstu nurodymus žingsnis po žingsnio.",
+    "Gerai apgalvoju, ką noriu pasakyti, ir tik tada kalbu.",
+    "Užduotis užbaigiu gerokai prieš terminą.",
+    "Sprendžiu labiau širdimi nei protu.",
+    "Greitai įsitraukiu į pokalbį.",
+    "Pasitikiu savo nuojauta apie galimybes.",
+    "Mėgstu objektyviai išanalizuoti privalumus ir trūkumus.",
+    "Griežti grafikai mane varžo.",
+    "Susitelkiu į tai, kas vyksta dabar.",
+    "Ramus vakaras namuose – mano idealas.",
+    "Mėgstu žinoti, ko tikėtis.",
+    "Man sunku kritikuoti žmones, kurie man patinka.",
+    "Buvimas tarp žmonių man įkrauna baterijas.",
+    "Mėgstu įsivaizduoti, kaip viskas galėtų būti kitaip.",
+    "Taisyklės turėtų vienodai galioti visiems.",
+    "Dažnai vienu metu žongliruoju keliais projektais.",
+    "Man patinka idėjos, turinčios aiškų praktinį pritaikymą.",
+    "Savo mintis laikau sau, kol jos tampa aiškios.",
+    "Sudarau sąrašus ir jų laikausi.",
+    "Kito žmogaus istorija mane lengvai sujaudina.",
+    "Mėgstu turėti platų draugų ratą.",
+    "Dažnai skaitau tarp eilučių.",
+    "Be dvejonių nurodau planų trūkumus.",
+    "Mėgstu pažiūrėti, kur mane nuves diena.",
+    "Gerai prisimenu konkrečius faktus ir skaičius.",
+    "Minios mane greitai išvargina.",
+    "Planus mėgstu sutarti anksti.",
+    "Darau išimčių žmonėms, atsidūrusiems sunkioje padėtyje.",
+    "Dažnai dalinuosi mintimis vos joms kilus.",
+    "Teorijas vertinu labiau nei praktinį darbą.",
+    "Mane įtikina argumentai, o ne emocijos.",
+    "Lengvai keičiu planus, kai atsiranda kas nors geresnio.",
+    "Geriausiai mokausi praktiškai ką nors darant.",
+    "Mieliau dirbu savarankiškai nei komandoje.",
+    "Nebaigti reikalai man kelia nerimą.",
+    "Noriu, kad visi jaustųsi įtraukti į sprendimą.",
+    "Savaitgaliai, pilni planų, mane džiugina.",
+    "Mėgstu kalbėti metaforomis ir vaizdiniais.",
+    "Man svarbiau tiesa nei tai, ar mane mėgsta.",
+    "Atidedu sprendimus, kol privalau juos priimti.",
+    "Patikrintus metodus vertinu labiau nei neišbandytus.",
+    "Grupėse leidžiu kalbėti kitiems.",
+    "Nuolat atnaujinu savo kalendorių.",
+    "Įtampa grupėje mane giliai paveikia.",
+    "Per ilgai pabuvus vienumoje mane apima nerimastingumas.",
+    "Greitai peršoku prie bendro vaizdo.",
+    "Teisinga man reiškia nuoseklu.",
+    "Pradedu daug dalykų ir užbaigiu juos vėliau.",
+    "Dalykus apibūdinu pažodžiui ir tiksliai.",
+    "Mieliau parašau žinutę nei paskambinu.",
+    "Mėgstu užbaigti vieną užduotį ir tik tada pradėti kitą.",
+    "Gerumas man svarbesnis nei teisumas.",
+    "Man patinka bendrauti su įvairiais žmonėmis renginiuose.",
+    "Naujos idėjos mane jaudina labiau nei praktiniai faktai.",
+    "Man lengva pateikti kritišką grįžtamąjį ryšį.",
+    "Krepšį susikraunu pačią paskutinę akimirką.",
+    "Kad kuo nors patikėčiau, noriu pamatyti įrodymų.",
+    "Turiu nedidelį artimų draugų ratą.",
+    "Mane erzina, kai planai keičiasi paskutinę minutę.",
+    "Kritiką savo darbui dažnai priimu asmeniškai.",
+    "Lengvai užkalbinu nepažįstamus žmones.",
+    "Dažnai praleidžiu instrukcijas ir išsiaiškinu savarankiškai.",
+    "Man patinka diskutuoti, kad patikrinčiau idėjas.",
+    "Neplanuotos dienos man suteikia laisvės jausmą.",
+    "Man patinka užduotys su konkrečiais, matomais rezultatais.",
+    "Ilga susirinkimų diena mane išsekina.",
+    "Darbe mėgstu aiškią struktūrą.",
+    "Pasitikiu, kad mano vertybės nukreips mano pasirinkimus.",
+    "Minčių lietų grupėje vertinu labiau nei mąstymą vienumoje.",
+    "Mane traukia tai, kas nauja ir neišbandyta.",
+    "Sprendimą vertinu pagal tai, kaip gerai jis veikia.",
+    "Pritaikau savo planus prie nuotaikos.",
+    "Sprendžiant problemas remiuosi ankstesne patirtimi.",
+    "Žmonėms iš pradžių kartais būna sunku mane perprasti.",
+    "Atostogas suplanuoju gerokai iš anksto.",
+    "Mieliau padrąsinu nei kritikuoju.",
+    "Paprastai prabylu tarp pirmųjų.",
+    "Dabarčiai skiriu daugiau dėmesio nei ateičiai.",
+    "Darbe kompetenciją vertinu labiau nei draugiškumą.",
+    "Mėgstu greitai sutvarkyti likusius smulkius reikalus."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Ekstraversija ar introversija",
+      "short": "Ar energijos daugiausia semiatės iš išorinio žmonių ir veiksmo pasaulio (E), ar iš vidinio minčių ir apmąstymų pasaulio (I).",
+      "low": "Jūs linkstate į introversiją (I). Jėgas atgaunate tyloje, pagalvojate prieš kalbėdami ir vertinate kelis gilius pokalbius labiau nei daugybę trumpų. Idėjas dažnai apdorojate viduje ir jomis dalinatės, kai jos jau visiškai susiformavusios. Įtemptos socialinės dienos gali jus išvarginti, net jei jomis mėgavotės. Patarimas: po intensyvių socialinių renginių suplanuokite laiko atsigauti ir laikykite tai priežiūra, o ne vengimu. Grupėse savo indėlį pasiruoškite iš anksto arba vėliau papildykite raštu, kad jūsų idėjos būtų išgirstos.",
+      "mid": "Esate arti vidurio tarp ekstraversijos ir introversijos, todėl jūsų raidė gali keistis priklausomai nuo nuotaikos ar situacijos. Mėgaujatės draugija ir veikla, tačiau jums reikia ir laiko vienumoje atgauti jėgas. Priklausomai nuo užduoties, galite mąstyti garsiai su kitais arba apmąstyti tyliai. Patarimas: stebėkite savo energiją po skirtingų dienų. Šias žinias panaudokite kurdami savaitės ritmą, kuriame socialinis kontaktas ir ramus laikas derinami jums tinkamomis proporcijomis.",
+      "high": "Jūs linkstate į ekstraversiją (E). Energijos semiatės iš žmonių, pokalbių ir veiklos, o geriausiai dažnai mąstote aptardami dalykus. Greitai įsitraukiate, prie jūsų lengva prieiti, jums patogu grupėse. Ilgas buvimas vienumoje gali kelti nerimastingumą. Patarimas: prieš reaguodami diskusijoje trumpai stabtelėkite ir pirmiausia užduokite vieną klausimą; tai suteikia vietos tylesniems žmonėms ir paaštrina jūsų pačių mąstymą. Suplanuokite trumpas apmąstymų akimirkas, kad apdorotumėte tai, ką patiriate."
+    },
+    "sensing": {
+      "name": "Jutimas ar intuicija",
+      "short": "Ar daugiausia susitelkiate į konkrečius faktus, detales ir patirtį (S), ar į dėsningumus, galimybes ir bendrą vaizdą (N).",
+      "low": "Jūs linkstate į intuiciją (N). Natūraliai ieškote prasmės, dėsningumų ir ateities galimybių, mėgstate idėjas, teorijas ir įsivaizdavimą, kas galėtų būti. Rutininės detalės jums gali būti nuobodžios, ir kartais praleidžiate žingsnius, kad pasiektumėte bendrą vaizdą. Patarimas: dalindamiesi vizija pridėkite konkrečių pavyzdžių ir tolesnių žingsnių, kad kiti galėtų jus sekti. Prieš įsipareigodami paprašykite detalėms dėmesingo kolegos patikrinti, ar jūsų planuose nėra praktinių spragų.",
+      "mid": "Esate arti vidurio tarp jutimo ir intuicijos, todėl jūsų raidė įvairiose situacijose gali skirtis. Galite dirbti su tvirtais faktais ir detalėmis, bet taip pat mėgstate tyrinėti idėjas ir galimybes. Tai leidžia jums tiesti tiltus tarp praktiškų žmonių ir vizionierių. Patarimas: pastebėkite, kurį režimą renkatės patirdami spaudimą. Priimdami svarbius sprendimus sąmoningai patikrinkite abu: ką sako faktai ir kokios naujos galimybės galėtų būti vertos dėmesio?",
+      "high": "Jūs linkstate į jutimą (S). Pasitikite faktais, patirtimi ir tuo, ką galite pamatyti bei patikrinti. Pastebite detales, mėgstate aiškius nurodymus ir idėjas, turinčias praktinį pritaikymą. Žmonės pasikliauja jūsų realizmu ir tikslumu. Patarimas: kai kiti dalinasi abstrakčiomis idėjomis, prieš vertindami jų praktiškumą skirkite joms akimirką; kai kurios gali išaugti į kažką naudingo. Retkarčiais pabandykite įsivaizduoti, kur tendencija galėtų nuvesti po penkerių metų, kad praplėstumėte savo požiūrį."
+    },
+    "thinking": {
+      "name": "Mąstymas ar jausmai",
+      "short": "Ar sprendimus daugiausia priimate remdamiesi logika ir objektyvia analize (T), ar asmeninėmis vertybėmis ir poveikiu žmonėms (F).",
+      "low": "Jūs linkstate į jausmus (F). Sprendimus priimate pasverdami vertybes, santykius ir tai, kaip bus paveikti žmonės. Vertinate harmoniją, gerumą ir greitai pajuntate, ko reikia kitiems. Žmonės dažnai jaučiasi jūsų suprasti. Patarimas: kai sprendimas sunkus, taip pat užsirašykite objektyvius privalumus ir trūkumus; tai gali padėti lengviau paaiškinti savo pasirinkimą. Atminkite, kad šiltai pateiktas nuoširdus grįžtamasis ryšys taip pat yra rūpesčio forma.",
+      "mid": "Esate arti vidurio tarp mąstymo ir jausmų, todėl jūsų raidė įvairiose situacijose gali skirtis. Spręsdami pasveriate ir logiką, ir poveikį žmonėms, o tai padeda rasti teisingus, subalansuotus sprendimus. Patarimas: pastebėkite, ar darbe remiatės logika, o namuose jausmais, ar atvirkščiai. Priimdami svarbius sprendimus sąmoningai patikrinkite abu: ar tai pagrįsta ir ar tai teisinga susijusiems žmonėms?",
+      "high": "Jūs linkstate į mąstymą (T). Sprendžiate remdamiesi logika, nuoseklumu ir objektyvia analize. Teisingumą vertinate kaip tų pačių taisyklių taikymą visiems ir galite pateikti griežtą grįžtamąjį ryšį, nepasiduodami emocijoms. Patarimas: prieš kritikuodami pripažinkite pastangas ar ketinimus, slypinčius už žmogaus darbo. Paklauskite, kaip sprendimas atrodys paveiktiems žmonėms; tai dažnai pagerina jo priėmimą nesusilpnindama jūsų argumentų."
+    },
+    "judging": {
+      "name": "Vertinimas ar suvokimas",
+      "short": "Ar labiau mėgstate suplanuotą, apibrėžtą ir struktūruotą gyvenimą (J), ar lankstų, atvirą ir spontanišką (P).",
+      "low": "Jūs linkstate į suvokimą (P). Mėgstate palikti sau atvirų galimybių, prisitaikyti eigoje ir apsispręsti tada, kai būtina. Dažnai dirbate energijos protrūkiais, o griežti grafikai jus varžo. Dėl to esate lankstūs ir išradingi, kai planai keičiasi. Patarimas: svarbiausiems dalykams taikykite lengvą struktūrą, pavyzdžiui, vieną terminų priminimų sistemą. Didelius projektus suskaidykite į mažus etapus, kad galutinis spurtas netaptų stresinis.",
+      "mid": "Esate arti vidurio tarp vertinimo ir suvokimo, todėl jūsų raidė gali keistis. Mėgstate turėti planą, bet galite lengvai jo atsisakyti, kai atsiranda kas nors geresnio. Galite laikytis terminų ir vis tiek mėgautis spontaniškumu. Patarimas: pastebėkite, kur šiek tiek daugiau planavimo sumažintų stresą, pavyzdžiui, kelionėse ar finansuose, o kur daugiau lankstumo suteiktų džiaugsmo. Koreguokite sąmoningai, o ne iš įpročio.",
+      "high": "Jūs linkstate į vertinimą (J). Mėgstate planuoti iš anksto, priimti sprendimus ir užbaigti reikalus. Aiškūs grafikai, sąrašai ir terminai suteikia jums kontrolės jausmą, o užduotis paprastai užbaigiate gerokai prieš paskutinę minutę. Patarimas: palikite savo planuose šiek tiek laisvos erdvės, kad staigmenos jūsų neišmuštų iš vėžių. Kai kiti dirba laisviau, susitarkite dėl svarbiausių terminų ir leiskite jiems patiems pasirinkti, kaip juos pasiekti."
+    }
+  },
+  "summary": "Jūsų tipą sudaro keturi pasirinkimai: ekstraversija ar introversija (E/I), jutimas ar intuicija (S/N), mąstymas ar jausmai (T/F) ir vertinimas ar suvokimas (J/P). Kiekviena skalė parodo, kaip stipriai linkstate į vieną pusę; balai, artimi 50 %, reiškia, kad abi puses naudojate gana lanksčiai. Tipai apibūdina pasirinkimus, o ne gebėjimus, ir nė vienas tipas nėra geresnis už kitą.",
+  "types": {
+    "ISTJ": {
+      "name": "Inkaras",
+      "text": "Esate stabilūs, kruopštūs ir labai patikimi. Gerbiate faktus, tesite pažadus ir metodiškai dirbate su užduotimis, kol jos tinkamai atliktos. Žmonės jumis pasikliauja, nes darote tai, ką sakote. Mėgstate aiškius lūkesčius ir patikrintus metodus, pastebite klaidas, kurių kiti nepastebi. Jūsų tyli stiprybė sutelkia komandas ir šeimas. Augimo patarimas: išlikite atviri naujiems požiūriams, net kai senasis būdas vis dar veikia; kartais eksperimentas atneša tikrą pagerėjimą. Garsiai išsakykite, kad vertinate kitus, nes jūsų lojalumas ne visada matomas. Skirkite laiko poilsiui, jo prieš tai neužsitarnavę."
+    },
+    "ISFJ": {
+      "name": "Sergėtojas",
+      "text": "Esate rūpestingi, sąžiningi ir tyliai atsidavę. Prisimenate, kas svarbu žmonėms, pastebite jų poreikius ir padedate praktiškai, dažnai net neprašyti. Vertinate tradicijas, stabilumą ir harmoniją ir labai stengiatės, kad kiti jaustųsi saugūs ir patogiai. Jūsų gerumas yra tas pastovus gerumas, kuriuo žmonės pasikliauja metų metus. Augimo patarimas: jūsų pačių poreikiai nusipelno tokio paties dėmesio, kokį skiriate kitiems, todėl treniruokitės atsisakyti be kaltės. Pasisakykite, kai kas nors jus trikdo, užuot tyliai tai sugėrę. Leidimas kitiems jus palaikyti santykius stiprina, o ne apsunkina."
+    },
+    "INFJ": {
+      "name": "Tylusis vizionierius",
+      "text": "Derinate gilų žmonių supratimą su stipriu tikslo jausmu. Pajuntate povandenines santykių sroves, mąstote ilgalaikėmis kategorijomis ir norite, kad jūsų gyvenimas prisidėtų prie kažko prasmingo. Esate uždari, bet šilti, o žmonės, kuriuos įsileidžiate, jaučiasi iš tiesų matomi. Jūsų idealai suteikia jums krypties ir ryžto. Augimo patarimas: aukšti standartai gali virsti išsekimu ar nusivylimu, kai tikrovė jų nepasiekia, todėl švęskite pažangą, o ne vien tobulumą. Dalinkitės idėjomis anksčiau, nelaukdami, kol jos visiškai susiformuos. Saugokite savo energiją nustatydami ribas prieš pajusdami, kad jus užgriūva, o ne po to."
+    },
+    "INTJ": {
+      "name": "Didysis strategas",
+      "text": "Esate nepriklausomi, analitiški ir susitelkę į ilgalaikius tikslus. Matote, kaip sistemos dera tarpusavyje, greitai pastebite neefektyvumą ir mėgstate kurti geresnius veikimo būdus. Pasitikite savo samprotavimais ir esate pasirengę eiti savo keliu, kad įgyvendintumėte viziją. Jūsų ryžtas gali paversti ambicingas idėjas tikrove. Augimo patarimas: kiti gali nesekti jūsų logikos taip greitai kaip jūs, todėl paaiškinkite savo samprotavimus žingsnis po žingsnio ir kvieskite grįžtamąjį ryšį. Atminkite, kad žmonių jausmai taip pat yra duomenys. Leiskite sau netobulas pirmąsias versijas; pažanga dažnai pranoksta nepriekaištingą planą, kuris laukia."
+    },
+    "ISTP": {
+      "name": "Meistras",
+      "text": "Esate ramūs, praktiški ir smalsūs, kaip viskas veikia. Mėgstate problemas suprasti praktiškai, išardyti daiktus ir rasti efektyvių sprendimų. Krizės metu išliekate šalto proto ir veikiate ryžtingai, kol kiti dar kalbasi. Vertinate laisvę ir nemėgstate nereikalingų taisyklių ar ilgų susirinkimų. Augimo patarimas: dažniau dalinkitės savo mintimis su kitais, nes jūsų tyla gali būti palaikyta nesidomėjimu. Įsipareigokite keliems ilgalaikiams tikslams, kad jūsų daugybė įgūdžių kurtų kažką didesnio. Leiskite artimiems žmonėms žinoti, ką jaučiate; maži įvertinimo žodžiai turi didelį svorį."
+    },
+    "ISFP": {
+      "name": "Švelnusis menininkas",
+      "text": "Esate jautrūs, geranoriški ir imlūs grožiui bei dabarties akimirkai. Save reiškiate labiau veiksmais ir kūryba nei žodžiais, vertinate autentiškumą ir laisvę. Esate tolerantiški, atviri ir lojalūs jums brangiems žmonėms bei idėjoms. Jūsų švelnus buvimas padeda kitiems jaustis priimtiems. Augimo patarimas: galite vengti konfliktų, kol susikaupia nusivylimas, todėl treniruokitės anksti išsakyti nedidelius rūpesčius. Paverskite savo vertybes keliais konkrečiais tikslais, kad suteiktumėte savo talentams kryptį. Pakankamai tikėkite savo darbu, kad parodytumėte jį kitiems; jūsų požiūris nusipelno būti pamatytas."
+    },
+    "INFP": {
+      "name": "Svajotojas",
+      "text": "Esate idealistai, turite turtingą vaizduotę ir vadovaujatės stipriomis vidinėmis vertybėmis. Visame, ką darote, ieškote prasmės ir jums labai rūpi autentiškumas – ir savyje, ir kituose. Gerai suprantate jausmus ir dažnai juos išreiškiate rašydami, kurdami meną ar apgalvotai kalbėdamiesi. Esate švelnūs, atviri ir ištikimi tam, kuo tikite. Augimo patarimas: jūsų idealai yra kompasas, tačiau tikrovė retai būna tobula; ženkite mažus praktinius žingsnius, užuot laukę idealios akimirkos. Būkite sau tokie pat atjaučiantys, kokie esate kitiems. Dalinkitės savo svajonėmis su žmonėmis, kurie gali padėti jas įgyvendinti."
+    },
+    "INTP": {
+      "name": "Galvosūkių sprendėjas",
+      "text": "Esate logiški, išradingi ir be galo smalsūs. Mėgstate analizuoti idėjas, ieškoti nenuoseklumų ir kurti teorijas, kurios paaiškina, kaip viskas iš tiesų veikia. Mąstote savarankiškai ir mėgstate gilius pokalbius sudėtingomis temomis. Jūsų protas gali įžvelgti originalių sprendimų, kurių kiti nepastebi. Augimo patarimas: idėjos atskleidžia savo potencialą, kai jomis dalinamasi ir jos pritaikomos, todėl nusistatykite nedidelius terminus darbui užbaigti ir pristatyti. Atkreipkite dėmesį į praktines detales ir į tai, kaip jaučiasi kiti – tai svarbu net tada, kai atrodo nelogiška. Bendraukite su žmonėmis, turinčiais tų pačių interesų; jie suteiks energijos jūsų mąstymui."
+    },
+    "ESTP": {
+      "name": "Drąsuolis",
+      "text": "Esate energingi, drąsūs ir orientuoti į veiksmą. Gyvenate akimirka, greitai perprantate situacijas ir puikiai jaučiatės, kai viskas vyksta greitai. Mėgstate iššūkius, protingai rizikuojate ir praktines problemas sprendžiate vietoje. Žmones traukia jūsų pasitikėjimas savimi ir humoro jausmas. Augimo patarimas: prieš nerdami į ką nors apgalvokite ilgalaikes pasekmes, ypač finansų ir santykių srityse. Treniruokite kantrybę su lėtesniais procesais ir žmonėmis, kuriems reikia daugiau laiko apsispręsti. Apsvarstykite, kaip jūsų tiesus stilius veikia jautrius žmones; šiek tiek takto jūsų įtaką padaro dar stipresnę."
+    },
+    "ESFP": {
+      "name": "Kibirkštis",
+      "text": "Esate gyvybingi, šilti ir mėgstate linksmybes. Į bet kurią aplinką įnešate energijos, mėgaujatės žmonėmis ir patirtimis, o kasdienes akimirkas paverčiate ypatingomis. Esate praktiški, dosnūs ir greitai skubate padėti tam, kam sunku. Jūsų entuziazmas užkrečiamas, o žmonėms malonu būti šalia jūsų. Augimo patarimas: planavimas į priekį gali atrodyti nuobodus, tačiau šiek tiek struktūros finansuose ir ilgalaikiuose tiksluose vėliau suteikia daugiau laisvės. Susidurkite su sunkiais pokalbiais, užuot blaškęsi. Skirkite ramių akimirkų apmąstyti, ko iš tiesų norite, o ne tik to, kas malonu dabar."
+    },
+    "ENFP": {
+      "name": "Įkvėpėjas",
+      "text": "Esate entuziastingi, kūrybingi ir kupini galimybių. Lengvai užmezgate ryšį su žmonėmis, visur matote potencialą ir labai mėgstate pradėti naujus projektus bei pokalbius. Jūsų šiluma ir vaizduotė skatina kitus svajoti drąsiau. Vertinate laisvę, autentiškumą ir prasmingus santykius. Augimo patarimas: jūsų gausioms idėjoms reikia susitelkimo, kad virstų rezultatais, todėl pasirinkite kelis prioritetus ir įgyvendinkite juos iki galo. Susikurkite paprastas rutinas jums nuobodžioms praktinėms užduotims. Kai po naujos pradžios jaudulio nuotaika nuslūgsta, atminkite, kad didelė dalis tikrojo atlygio slypi nuosekliame užbaigime."
+    },
+    "ENTP": {
+      "name": "Novatorius",
+      "text": "Esate sąmojingi, išradingi ir mėgstate gerus debatus. Matote naujus senų problemų kampus, kvestionuojate prielaidas ir mėgstate eksperimentuoti su idėjomis. Greitai prisitaikote, o energijos jums suteikia sudėtingi iššūkiai ir protingi žmonės. Smalsumas skatina jus tobulinti beveik viską, prie ko prisiliečiate. Augimo patarimas: ne kiekvieną diskusiją reikia laimėti, o kai kurie žmonės debatus išgyvena kaip konfliktą, todėl jauskite aplinką. Įgyvendinkite geriausias savo idėjas, užuot per anksti perėję prie kitos. Bendradarbiaukite su detalėms dėmesingais žmonėmis, kurie padeda koncepcijas paversti tikrove."
+    },
+    "ESTJ": {
+      "name": "Kapitonas",
+      "text": "Esate organizuoti, ryžtingi ir praktiški. Mėgstate aiškius tikslus, efektyvius procesus ir atliktus darbus. Natūraliai prisiimate atsakomybę, keliate aukštus standartus ir pasirūpinate, kad planai būtų įgyvendinti. Žmonės vertina jūsų tiesumą ir patikimumą. Augimo patarimas: jūsų efektyvus stilius kitiems gali atrodyti kontroliuojantis, todėl prieš apsispręsdami pakvieskite išsakyti nuomonę ir paaiškinkite, kodėl. Išlikite atviri naujiems metodams net tada, kai dabartinis veikia. Parodykite, kad vertinate žmonių pastangas, ne tik rezultatus; pripažinimas motyvuoja ne mažiau nei aiškūs nurodymai."
+    },
+    "ESFJ": {
+      "name": "Šeimininkas",
+      "text": "Esate socialūs, rūpestingi ir orientuoti į bendruomenę. Pastebite, ko reikia žmonėms, padedate jiems jaustis laukiamiems ir mėgstate suburti kitus. Vertinate harmoniją, lojalumą ir tradicijas ir įdedate daug pastangų, kad santykiai ir grupės veiktų sklandžiai. Šalia jūsų žmonės jaučiasi globojami. Augimo patarimas: galite kritiką ar konfliktus priimti asmeniškai, todėl priminkite sau, kad nesutarimas nėra atstūmimas. Pasitikrinkite, ar padedate todėl, kad norite, ar todėl, kad jaučiate, jog privalote. Skirkite vietos savo poreikiams ir nuomonei; jie tokie pat svarbūs kaip ir kitų."
+    },
+    "ENFJ": {
+      "name": "Mentorius",
+      "text": "Esate šilti, įkvepiantys ir susitelkę į pagalbą žmonėms augti. Gerai perprantate kitus, išryškinate jų stiprybes ir suburiate grupes bendram tikslui. Bendraujate su entuziazmu ir įsitikinimu, jaučiate atsakomybę už aplinkinių gerovę. Žmonės dažnai ieško jūsų patarimo. Augimo patarimas: negalite nešti visų, todėl leiskite kitiems prisiimti atsakomybę už savo pasirinkimus. Pastebėkite, kada prisiimate per daug ar apleidžiate savo poreikius. Priimkite, kad kai kurie žmonės su jumis nesutiks; jų kitoks kelias neatspindi jūsų vertės."
+    },
+    "ENTJ": {
+      "name": "Vadas",
+      "text": "Esate pasitikintys savimi, strategiški ir siekiate rezultatų. Matote bendrą vaizdą, keliate ambicingus tikslus ir organizuojate žmones bei išteklius jiems pasiekti. Sprendimus priimate greitai, bendraujate aiškiai ir nebijote iššūkių ar atsakomybės. Kiti dažnai tikisi, kad vadovausite jūs. Augimo patarimas: jūsų greitis ir tiesumas gali užgožti žmones, todėl sulėtinkite tempą, kad išklausytumėte ir pripažintumėte jausmus. Atminkite, kad motyvacija auga, kai žmonės jaučiasi išgirsti, o ne tik nurodinėjami. Skirkite vietos poilsiui ir santykiams; ilgalaikė sėkmė priklauso ne vien nuo rezultatų."
+    }
+  }
+}

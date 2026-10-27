@@ -194,7 +194,7 @@
     "unlockText": "Részletes értékelés az összes pontszámmal, személyes értelmezéssel és gyakorlati tippekkel, e-mailben elküldve.",
     "emailLabel": "E-mail-cím",
     "emailPlaceholder": "te@pelda.hu",
-    "consent": "Elfogadom a felhasználási feltételeket és az adatvédelmi tájékoztatót.",
+    "consent": "Elfogadom a felhasználási feltételeket és az adatvédelmi tájékoztatót, és kérem az értékelés azonnali teljesítését. Tudomásul veszem, hogy az értékelés elküldésével elveszítem az elállási jogomat.",
     "buy": "Kérem az értékelést {price} áron",
     "secure": "Biztonságos fizetés a Stripe-on keresztül. Egyszeri fizetés, nincs előfizetés.",
     "invalidEmail": "Adj meg egy érvényes e-mail-címet.",
@@ -235,7 +235,8 @@
     "cookies": "Cookie-szabályzat",
     "refund": "Visszatérítési szabályzat",
     "rights": "© {year} {site}. Minden jog fenntartva.",
-    "disclaimer": "A(z) {site} nem egészségügyi szolgáltatás. Klinikai panaszok esetén fordulj képesített szakemberhez."
+    "disclaimer": "A(z) {site} nem egészségügyi szolgáltatás. Klinikai panaszok esetén fordulj képesített szakemberhez.",
+    "aboutLink": "Rólunk"
   },
   "legal": {
     "privacyTitle": "Adatvédelmi tájékoztató",
@@ -277,5 +278,47 @@
     "sending": "Küldés…",
     "success": "Köszönjük! Az üzenetedet elküldtük. Hamarosan válaszolunk.",
     "error": "Az üzenetet nem sikerült elküldeni. Próbáld újra később."
+  },
+  "about": {
+    "title": "A(z) {site} bemutatása",
+    "intro": "Hiszünk abban, hogy mindenki megérdemel egy világos, őszinte képet önmagáról – szakzsargon, előfizetés és semmit sem magyarázó négybetűs címke nélkül.",
+    "missionTitle": "Küldetésünk",
+    "mission": "A pszichológia hatékony módszereket dolgozott ki a személyiség, a kapcsolatok és a jóllét leírására, ám ennek a tudásnak a nagy része tankönyvekben vagy drága felmérésekben rejtőzik. A(z) {site} elérhetővé teszi: alapos teszteket kínál, amelyeket bárki ingyen kitölthet a saját nyelvén, és személyes értékelést, amely közérthetően elmagyarázza az eredményeidet, és gyakorlati következő lépéseket ad.",
+    "howTitle": "Így készülnek tesztjeink",
+    "how": [
+      {
+        "title": "Elismert modellek",
+        "text": "Minden teszt alaposan kutatott modelleken alapul, például a Big Five-on, a RIASEC-en és a kötődéselméleten. Ahol léteznek szabadon felhasználható klinikai kérdőívek, mint a PHQ-9 és a PCL-5, azokat is beépítjük, hivatalos pontozásukkal."
+      },
+      {
+        "title": "100 kérdés, 5 perc",
+        "text": "Minden teszt 100 rövid állításból áll, amelyek az összes mért dimenziót lefedik. Ez sokkal megbízhatóbb képet ad egy gyors, tízkérdéses kvíznél, mégis csak körülbelül öt percet vesz igénybe."
+      },
+      {
+        "title": "Olvasásra írva",
+        "text": "Értékeléseink elmagyarázzák, mit jelent az egyes pontszám, honnan ered, és mit kezdhetsz vele. Nincs szakzsargon és nincsenek homályos, horoszkópszerű mondatok – csak világos, gyakorlati felismerések."
+      }
+    ],
+    "valuesTitle": "Amire számíthatsz",
+    "values": [
+      {
+        "title": "Nincs fiók, nincs előfizetés",
+        "text": "Egyszer fizetsz {price} összeget azért az értékelésért, amelyre kíváncsi vagy. Semmi nem újul meg, később semmit sem vonunk le."
+      },
+      {
+        "title": "Az adatvédelem az első",
+        "text": "A válaszaidat csak az eredményed kiszámításához használjuk. Nem adunk el adatokat, és nem jelenítünk meg hirdetéseket."
+      },
+      {
+        "title": "Elérhető {languages} nyelven",
+        "text": "Minden teszt és minden értékelés elérhető az összes nagy európai nyelven."
+      },
+      {
+        "title": "Őszintén a korlátokról",
+        "text": "Tesztjeink az önreflexiót segítik. A szűrőtesztek jelezhetik, érdemes-e szakemberhez fordulnod, de soha nem helyettesítik a diagnózist."
+      }
+    ],
+    "ctaTitle": "Kíváncsi vagy, mit árulnak el az eredményeid?",
+    "ctaButton": "Fedezd fel tesztjeinket"
   }
 }

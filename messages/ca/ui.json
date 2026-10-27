@@ -194,7 +194,7 @@
     "unlockText": "El teu informe detallat amb totes les puntuacions, interpretacions personals i consells pràctics, enviat al teu correu.",
     "emailLabel": "Adreça electrònica",
     "emailPlaceholder": "tu@exemple.cat",
-    "consent": "Accepto les condicions i la política de privadesa.",
+    "consent": "Accepto les condicions i la política de privadesa i sol·licito que l'informe se'm lliuri immediatament. Entenc que perdo el dret de desistiment un cop s'hagi enviat l'informe.",
     "buy": "Obtén el meu informe per {price}",
     "secure": "Pagament segur amb Stripe. Pagament únic, sense subscripció.",
     "invalidEmail": "Introdueix una adreça electrònica vàlida.",
@@ -235,7 +235,8 @@
     "cookies": "Política de galetes",
     "refund": "Política de reemborsament",
     "rights": "© {year} {site}. Tots els drets reservats.",
-    "disclaimer": "{site} no és un servei mèdic. Per a qüestions clíniques, consulta un professional acreditat."
+    "disclaimer": "{site} no és un servei mèdic. Per a qüestions clíniques, consulta un professional acreditat.",
+    "aboutLink": "Qui som"
   },
   "legal": {
     "privacyTitle": "Política de privadesa",
@@ -277,5 +278,47 @@
     "sending": "S'està enviant…",
     "success": "Gràcies! El teu missatge s'ha enviat. Et respondrem aviat.",
     "error": "No s'ha pogut enviar el missatge. Torna-ho a provar més tard."
+  },
+  "about": {
+    "title": "Sobre {site}",
+    "intro": "Creiem que tothom mereix una mirada clara i honesta a qui és: sense tecnicismes, sense subscripcions i sense una etiqueta de quatre lletres que no explica res.",
+    "missionTitle": "La nostra missió",
+    "mission": "La psicologia ha desenvolupat maneres molt potents de descriure la personalitat, les relacions i el benestar, però la major part d'aquest coneixement queda tancat en manuals o en avaluacions cares. {site} el fa accessible: tests en profunditat que tothom pot fer gratuïtament, en la seva pròpia llengua, amb un informe personal que t'explica els resultats amb paraules senzilles i et proposa passos pràctics.",
+    "howTitle": "Com creem els nostres tests",
+    "how": [
+      {
+        "title": "Models consolidats",
+        "text": "Cada test es basa en marcs ben investigats com els Cinc Grans (Big Five), RIASEC i la teoria de l'aferrament. Quan existeixen qüestionaris clínics de domini públic, com el PHQ-9 i el PCL-5, els incloem i n'utilitzem la puntuació oficial."
+      },
+      {
+        "title": "100 preguntes, 5 minuts",
+        "text": "Cada test fa servir 100 afirmacions breus repartides entre totes les dimensions que mesura. Això dona una imatge molt més fiable que un qüestionari ràpid de deu preguntes, i tot i així només dura uns cinc minuts."
+      },
+      {
+        "title": "Escrit per ser llegit",
+        "text": "Els nostres informes expliquen què significa cada puntuació, d'on surt i què en pots fer. Sense tecnicismes ni llenguatge vague d'horòscop: només idees clares i pràctiques."
+      }
+    ],
+    "valuesTitle": "En què pots confiar",
+    "values": [
+      {
+        "title": "Sense compte ni subscripció",
+        "text": "Pagues {price} una sola vegada per l'informe que vulguis. Res no es renova, res no es cobra més endavant."
+      },
+      {
+        "title": "La privadesa, primer",
+        "text": "Les teves respostes només s'utilitzen per calcular el resultat. No venem dades ni mostrem anuncis."
+      },
+      {
+        "title": "Disponible en {languages} idiomes",
+        "text": "Tots els tests i tots els informes estan disponibles en les principals llengües europees."
+      },
+      {
+        "title": "Honestos sobre els límits",
+        "text": "Els nostres tests afavoreixen l'autoreflexió. Els tests de cribratge et poden indicar si té sentit parlar amb un professional, però mai no substitueixen un diagnòstic."
+      }
+    ],
+    "ctaTitle": "Tens curiositat per saber què diuen els teus resultats?",
+    "ctaButton": "Descobreix els nostres tests"
   }
 }

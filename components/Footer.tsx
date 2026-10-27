@@ -17,7 +17,7 @@ export async function Footer({ locale, ui }: { locale: Locale; ui: UiMessages })
   const columns: [string, [string, string][]][] = [
     [f.company, [[f.home, `/${locale}`], [f.aboutLink, `/${locale}/about`], [ui.nav.tests, `/${locale}#tests`], [ui.nav.pricing, `/${locale}#pricing`], [ui.nav.faq, `/${locale}#faq`]]],
     [f.help, [[f.contact, `/${locale}/contact`], [f.refund, `/${locale}/refund`]]],
-    [f.legal, [[f.terms, `/${locale}/terms`], [f.privacy, `/${locale}/privacy`], [f.cookies, `/${locale}/cookies`], [f.refund, `/${locale}/refund`]]],
+    [f.legal, [[f.terms, `/${locale}/terms`], [f.privacy, `/${locale}/privacy`], [f.cookies, `/${locale}/cookies`], [f.refund, `/${locale}/refund`], [f.notice, `/${locale}/legal-notice`]]],
   ];
 
   return (

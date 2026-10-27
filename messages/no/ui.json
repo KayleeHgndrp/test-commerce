@@ -194,7 +194,7 @@
     "unlockText": "Den detaljerte rapporten din med alle poengsummer, personlige tolkninger og praktiske tips, sendt til e-posten din.",
     "emailLabel": "E-postadresse",
     "emailPlaceholder": "deg@eksempel.no",
-    "consent": "Jeg godtar vilkårene og personvernerklæringen.",
+    "consent": "Jeg godtar vilkårene og personvernerklæringen og ber om at rapporten leveres umiddelbart. Jeg forstår at jeg mister angreretten når rapporten er sendt.",
     "buy": "Få rapporten min for {price}",
     "secure": "Sikker betaling via Stripe. Engangsbetaling, ingen abonnement.",
     "invalidEmail": "Skriv inn en gyldig e-postadresse.",
@@ -235,7 +235,8 @@
     "cookies": "Informasjonskapsler",
     "refund": "Refusjonsregler",
     "rights": "© {year} {site}. Alle rettigheter forbeholdt.",
-    "disclaimer": "{site} er ikke en helsetjeneste. Ved kliniske bekymringer bør du kontakte autorisert helsepersonell."
+    "disclaimer": "{site} er ikke en helsetjeneste. Ved kliniske bekymringer bør du kontakte autorisert helsepersonell.",
+    "aboutLink": "Om oss"
   },
   "legal": {
     "privacyTitle": "Personvernerklæring",
@@ -277,5 +278,47 @@
     "sending": "Sender…",
     "success": "Takk! Meldingen din er sendt. Vi tar snart kontakt.",
     "error": "Meldingen kunne ikke sendes. Prøv igjen senere."
+  },
+  "about": {
+    "title": "Om {site}",
+    "intro": "Vi mener at alle fortjener et klart og ærlig blikk på hvem de er – uten faguttrykk, uten abonnement og uten en merkelapp på fire bokstaver som ikke forklarer noe.",
+    "missionTitle": "Vårt oppdrag",
+    "mission": "Psykologien har utviklet kraftfulle måter å beskrive personlighet, relasjoner og trivsel på, men mesteparten av denne kunnskapen er låst inne i lærebøker eller dyre utredninger. {site} gjør den tilgjengelig: grundige tester alle kan ta gratis, på sitt eget språk, med en personlig rapport som forklarer resultatene dine med enkle ord og gir deg praktiske neste steg.",
+    "howTitle": "Slik lager vi testene våre",
+    "how": [
+      {
+        "title": "Anerkjente modeller",
+        "text": "Hver test bygger på godt utforskede rammeverk som femfaktormodellen (Big Five), RIASEC og tilknytningsteori. Der det finnes fritt tilgjengelige kliniske spørreskjemaer, som PHQ-9 og PCL-5, tar vi dem med og bruker den offisielle skåringen."
+      },
+      {
+        "title": "100 spørsmål, 5 minutter",
+        "text": "Hver test består av 100 korte påstander fordelt på alle dimensjonene den måler. Det gir et langt mer pålitelig bilde enn en rask quiz med ti spørsmål, og tar likevel bare rundt fem minutter."
+      },
+      {
+        "title": "Skrevet for å bli lest",
+        "text": "Rapportene våre forklarer hva hver poengsum betyr, hvor den kommer fra og hva du kan gjøre med den. Ingen faguttrykk og ikke noe vagt horoskopspråk – bare klar, praktisk innsikt."
+      }
+    ],
+    "valuesTitle": "Dette kan du stole på",
+    "values": [
+      {
+        "title": "Ingen konto, ikke noe abonnement",
+        "text": "Du betaler {price} én gang for en rapport du vil ha. Ingenting fornyes, ingenting trekkes senere."
+      },
+      {
+        "title": "Personvern først",
+        "text": "Svarene dine brukes bare til å beregne resultatet ditt. Vi selger ikke data og viser ikke reklame."
+      },
+      {
+        "title": "Tilgjengelig på {languages} språk",
+        "text": "Alle tester og rapporter er tilgjengelige på alle de store europeiske språkene."
+      },
+      {
+        "title": "Ærlige om begrensningene",
+        "text": "Testene våre er et verktøy for selvrefleksjon. Screeningtester kan vise om det kan være lurt å snakke med en fagperson, men de erstatter aldri en diagnose."
+      }
+    ],
+    "ctaTitle": "Nysgjerrig på hva resultatene dine sier?",
+    "ctaButton": "Utforsk testene våre"
   }
 }

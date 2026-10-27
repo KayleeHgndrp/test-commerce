@@ -194,7 +194,7 @@
     "unlockText": "Do thuarascáil mhionsonraithe le gach scór, léirmhínithe pearsanta agus leideanna praiticiúla, seolta chuig do ríomhphost.",
     "emailLabel": "Seoladh ríomhphoist",
     "emailPlaceholder": "tusa@sampla.ie",
-    "consent": "Aontaím leis na téarmaí agus leis an mbeartas príobháideachais.",
+    "consent": "Aontaím leis na téarmaí agus leis an mbeartas príobháideachais agus iarraim go seachadfar mo thuarascáil láithreach. Tuigim go gcaillfidh mé mo cheart tarraingt siar a luaithe a sheolfar an tuarascáil.",
     "buy": "Faigh mo thuarascáil ar {price}",
     "secure": "Íocaíocht shlán trí Stripe. Íocaíocht aonuaire, gan síntiús.",
     "invalidEmail": "Cuir isteach seoladh ríomhphoist bailí.",
@@ -235,7 +235,8 @@
     "cookies": "Beartas fianán",
     "refund": "Beartas aisíocaíochta",
     "rights": "© {year} {site}. Gach ceart ar cosaint.",
-    "disclaimer": "Ní seirbhís leighis é {site}. Maidir le himní chliniciúil, téigh i gcomhairle le gairmí ceadúnaithe."
+    "disclaimer": "Ní seirbhís leighis é {site}. Maidir le himní chliniciúil, téigh i gcomhairle le gairmí ceadúnaithe.",
+    "aboutLink": "Fúinn"
   },
   "legal": {
     "privacyTitle": "Beartas príobháideachais",
@@ -277,5 +278,47 @@
     "sending": "Á seoladh…",
     "success": "Go raibh maith agat! Seoladh do theachtaireacht. Beimid i dteagmháil leat go luath.",
     "error": "Níorbh fhéidir do theachtaireacht a sheoladh. Bain triail eile as ar ball."
+  },
+  "about": {
+    "title": "Faoi {site}",
+    "intro": "Creidimid go bhfuil sé tuillte ag gach duine léargas soiléir, macánta a fháil ar cé hiad féin — gan bhéarlagair, gan síntiúis agus gan lipéad ceithre litir nach míníonn faic.",
+    "missionTitle": "Ár misean",
+    "mission": "Tá bealaí cumhachtacha forbartha ag an tsíceolaíocht chun pearsantacht, caidrimh agus folláine a chur síos, ach tá formhór an eolais sin faoi ghlas i dtéacsleabhair nó i measúnuithe costasacha. Cuireann {site} ar fáil é: tástálacha mionsonraithe is féidir le duine ar bith a dhéanamh saor in aisce, ina theanga féin, le tuarascáil phearsanta a mhíníonn do thorthaí i bhfocail shimplí agus a thugann na chéad chéimeanna praiticiúla eile duit.",
+    "howTitle": "Conas a chruthaímid ár dtástálacha",
+    "how": [
+      {
+        "title": "Múnlaí aitheanta",
+        "text": "Tá gach tástáil bunaithe ar chreataí a bhfuil taighde maith déanta orthu, ar nós an Big Five, RIASEC agus teoiric an cheangail. Nuair atá ceistneoirí cliniciúla san fhearann poiblí ar fáil, ar nós PHQ-9 agus PCL-5, cuirimid san áireamh iad agus úsáidimid a scóráil oifigiúil."
+      },
+      {
+        "title": "100 ceist, 5 nóiméad",
+        "text": "Úsáideann gach tástáil 100 ráiteas gearr scaipthe ar gach toise a thomhaiseann sí. Tugann sé sin pictiúr i bhfad níos iontaofa ná tráth na gceist tapa le deich gceist, agus ní thógann sé ach timpeall cúig nóiméad fós."
+      },
+      {
+        "title": "Scríofa le léamh",
+        "text": "Míníonn ár dtuarascálacha cad is brí le gach scór, cad as a dtagann sé agus cad is féidir leat a dhéanamh leis. Gan bhéarlagair agus gan teanga doiléir na tuar — léargas soiléir, praiticiúil amháin."
+      }
+    ],
+    "valuesTitle": "Cad air ar féidir leat brath",
+    "values": [
+      {
+        "title": "Gan chuntas, gan síntiús",
+        "text": "Íocann tú {price} uair amháin ar thuarascáil a theastaíonn uait. Ní athnuaitear faic, ní ghearrtar faic níos déanaí."
+      },
+      {
+        "title": "Príobháideachas ar dtús",
+        "text": "Ní úsáidtear do fhreagraí ach chun do thoradh a ríomh. Ní dhíolaimid sonraí agus ní thaispeánaimid fógraí."
+      },
+      {
+        "title": "Ar fáil i {languages} teanga",
+        "text": "Tá gach tástáil agus gach tuarascáil ar fáil i ngach mórtheanga Eorpach."
+      },
+      {
+        "title": "Macánta faoi theorainneacha",
+        "text": "Tacaíonn ár dtástálacha le féinmhachnamh. Is féidir le scagthástálacha a insint duit an fiú labhairt le gairmí, ach ní thagann siad riamh in áit diagnóise."
+      }
+    ],
+    "ctaTitle": "An bhfuil fonn ort a fháil amach cad a deir do thorthaí?",
+    "ctaButton": "Féach ar ár dtástálacha"
   }
 }

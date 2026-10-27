@@ -194,7 +194,7 @@
     "unlockText": "Sinu üksikasjalik raport kõigi tulemuste, isiklike tõlgenduste ja praktiliste nõuannetega, saadetud sinu e-postile.",
     "emailLabel": "E-posti aadress",
     "emailPlaceholder": "sina@naide.ee",
-    "consent": "Nõustun tingimuste ja privaatsuspoliitikaga.",
+    "consent": "Nõustun tingimuste ja privaatsuspoliitikaga ning palun raport mulle kohe edastada. Mõistan, et kaotan taganemisõiguse, kui raport on saadetud.",
     "buy": "Saa minu raport hinnaga {price}",
     "secure": "Turvaline makse Stripe'i kaudu. Ühekordne makse, tellimust pole.",
     "invalidEmail": "Sisesta kehtiv e-posti aadress.",
@@ -235,7 +235,8 @@
     "cookies": "Küpsiste poliitika",
     "refund": "Tagastuspoliitika",
     "rights": "© {year} {site}. Kõik õigused kaitstud.",
-    "disclaimer": "{site} ei ole meditsiiniteenus. Kliiniliste murede korral pöördu litsentseeritud spetsialisti poole."
+    "disclaimer": "{site} ei ole meditsiiniteenus. Kliiniliste murede korral pöördu litsentseeritud spetsialisti poole.",
+    "aboutLink": "Meist"
   },
   "legal": {
     "privacyTitle": "Privaatsuspoliitika",
@@ -277,5 +278,47 @@
     "sending": "Saadan…",
     "success": "Aitäh! Sinu sõnum on saadetud. Võtame peagi ühendust.",
     "error": "Sõnumit ei õnnestunud saata. Proovi hiljem uuesti."
+  },
+  "about": {
+    "title": "{site} lühidalt",
+    "intro": "Usume, et igaüks väärib selget ja ausat pilku iseendale – ilma erialase žargoonita, ilma tellimusteta ja ilma nelja tähega sildita, mis midagi ei selgita.",
+    "missionTitle": "Meie missioon",
+    "mission": "Psühholoogia on välja töötanud võimsaid viise isiksuse, suhete ja heaolu kirjeldamiseks, kuid suur osa sellest teadmisest on peidus õpikutes või kallites hindamistes. {site} teeb selle kättesaadavaks: põhjalikud testid, mida igaüks saab tasuta oma emakeeles teha, ja isiklik raport, mis selgitab sinu tulemusi lihtsate sõnadega ning annab praktilisi järgmisi samme.",
+    "howTitle": "Kuidas me oma teste loome",
+    "how": [
+      {
+        "title": "Tunnustatud mudelid",
+        "text": "Iga test põhineb põhjalikult uuritud mudelitel, nagu viiefaktorimudel (Big Five), RIASEC ja kiindumusteooria. Kui on olemas vabalt kasutatavad kliinilised küsimustikud, nagu PHQ-9 ja PCL-5, lisame need ja kasutame nende ametlikku hindamist."
+      },
+      {
+        "title": "100 küsimust, 5 minutit",
+        "text": "Iga test koosneb 100 lühikesest väitest, mis katavad kõik mõõdetavad dimensioonid. See annab palju usaldusväärsema pildi kui kiire kümne küsimusega viktoriin ja võtab ikkagi vaid umbes viis minutit."
+      },
+      {
+        "title": "Kirjutatud lugemiseks",
+        "text": "Meie raportid selgitavad, mida iga tulemus tähendab, kust see tuleb ja mida sa sellega teha saad. Ei mingit žargooni ega ebamääraseid horoskoobilauseid – ainult selged ja praktilised teadmised."
+      }
+    ],
+    "valuesTitle": "Millele saad loota",
+    "values": [
+      {
+        "title": "Kontot ega tellimust pole",
+        "text": "Maksad soovitud raporti eest ühekordselt {price}. Midagi ei pikene ja hiljem midagi ei võeta."
+      },
+      {
+        "title": "Privaatsus eelkõige",
+        "text": "Sinu vastuseid kasutatakse ainult tulemuse arvutamiseks. Me ei müü andmeid ega näita reklaame."
+      },
+      {
+        "title": "Saadaval {languages} keeles",
+        "text": "Iga test ja iga raport on saadaval kõigis suuremates Euroopa keeltes."
+      },
+      {
+        "title": "Ausalt piirangutest",
+        "text": "Meie testid toetavad eneserefleksiooni. Sõeltestid võivad näidata, kas tasub spetsialistiga rääkida, kuid need ei asenda kunagi diagnoosi."
+      }
+    ],
+    "ctaTitle": "Huvitav, mida sinu tulemused ütlevad?",
+    "ctaButton": "Vaata meie teste"
   }
 }

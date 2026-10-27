@@ -2,6 +2,7 @@ import type { Locale } from "@/lib/i18n/locales";
 import { fmt, getDefinition, getTestText, getUi } from "@/lib/i18n/messages";
 import { site } from "@/lib/site";
 import { scoreTest } from "@/lib/tests/scoring";
+import { renderReportPdf } from "./pdf";
 
 const esc = (s: string) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -98,5 +99,8 @@ ${sections
     .filter(Boolean)
     .join("\n\n");
 
-  return { subject: fmt(r.subject, vars), html, text: plain };
+  const pdf = await renderReportPdf({ ui, text, vars, headline, instrument, sections, crisis }, text.name);
+  const filename = `${text.name.replace(/[^\p{L}\p{N}]+/gu, "-").replace(/^-|-$/g, "")}.pdf`;
+
+  return { subject: fmt(r.subject, vars), html, text: plain, attachments: [{ filename, content: pdf }] };
 }

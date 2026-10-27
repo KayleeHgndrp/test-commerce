@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import { track } from "@/lib/analytics";
 import { fmt } from "@/lib/i18n/fmt";
 import type { UiMessages } from "@/lib/i18n/messages";
 import { decodeAnswers, scoreTest } from "@/lib/tests/scoring";
@@ -57,6 +58,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, ui }: 
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return setError(ui.invalidEmail);
     if (!consent) return setError(ui.consentRequired);
     setBusy(true);
+    track("Checkout Start", { test: def.slug });
     try {
       const res = await fetch("/api/checkout", {
         method: "POST",

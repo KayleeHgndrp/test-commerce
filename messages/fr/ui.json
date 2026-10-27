@@ -194,7 +194,7 @@
     "unlockText": "Votre rapport détaillé avec tous vos scores, des interprétations personnelles et des conseils pratiques, envoyé par e-mail.",
     "emailLabel": "Adresse e-mail",
     "emailPlaceholder": "vous@exemple.fr",
-    "consent": "J'accepte les conditions générales et la politique de confidentialité.",
+    "consent": "J'accepte les conditions générales et la politique de confidentialité, et je demande la livraison immédiate de mon rapport. Je reconnais perdre mon droit de rétractation dès l'envoi du rapport.",
     "buy": "Obtenir mon rapport pour {price}",
     "secure": "Paiement sécurisé via Stripe. Paiement unique, sans abonnement.",
     "invalidEmail": "Veuillez saisir une adresse e-mail valide.",
@@ -235,7 +235,8 @@
     "cookies": "Politique relative aux cookies",
     "refund": "Politique de remboursement",
     "rights": "© {year} {site}. Tous droits réservés.",
-    "disclaimer": "{site} n'est pas un service médical. Pour toute préoccupation clinique, veuillez consulter un professionnel de santé agréé."
+    "disclaimer": "{site} n'est pas un service médical. Pour toute préoccupation clinique, veuillez consulter un professionnel de santé agréé.",
+    "aboutLink": "À propos"
   },
   "legal": {
     "privacyTitle": "Politique de confidentialité",
@@ -277,5 +278,47 @@
     "sending": "Envoi…",
     "success": "Merci ! Votre message a été envoyé. Nous vous répondrons rapidement.",
     "error": "Votre message n'a pas pu être envoyé. Veuillez réessayer plus tard."
+  },
+  "about": {
+    "title": "À propos de {site}",
+    "intro": "Nous pensons que chacun mérite un regard clair et honnête sur qui il est — sans jargon, sans abonnement et sans étiquette en quatre lettres qui n'explique rien.",
+    "missionTitle": "Notre mission",
+    "mission": "La psychologie a développé des outils puissants pour décrire la personnalité, les relations et le bien-être, mais la plupart de ces connaissances restent enfermées dans des manuels ou des évaluations coûteuses. {site} les rend accessibles : des tests approfondis que chacun peut passer gratuitement, dans sa propre langue, avec un rapport personnel qui explique vos résultats en termes simples et vous propose des pistes concrètes.",
+    "howTitle": "Comment nous concevons nos tests",
+    "how": [
+      {
+        "title": "Des modèles reconnus",
+        "text": "Chaque test repose sur des cadres solidement étudiés comme le Big Five, le RIASEC et la théorie de l'attachement. Lorsqu'il existe des questionnaires cliniques libres de droits, comme le PHQ-9 et le PCL-5, nous les intégrons avec leur cotation officielle."
+      },
+      {
+        "title": "100 questions, 5 minutes",
+        "text": "Chaque test comprend 100 affirmations courtes réparties sur toutes les dimensions mesurées. Cela donne une image bien plus fiable qu'un quiz rapide de dix questions, tout en ne prenant qu'environ cinq minutes."
+      },
+      {
+        "title": "Écrits pour être lus",
+        "text": "Nos rapports expliquent ce que signifie chaque score, d'où il vient et ce que vous pouvez en faire. Pas de jargon ni de formules vagues dignes d'un horoscope : seulement des éclairages clairs et pratiques."
+      }
+    ],
+    "valuesTitle": "Ce sur quoi vous pouvez compter",
+    "values": [
+      {
+        "title": "Ni compte ni abonnement",
+        "text": "Vous payez {price} une seule fois pour le rapport qui vous intéresse. Rien ne se renouvelle, rien n'est prélevé plus tard."
+      },
+      {
+        "title": "La confidentialité d'abord",
+        "text": "Vos réponses servent uniquement à calculer votre résultat. Nous ne vendons pas de données et n'affichons pas de publicité."
+      },
+      {
+        "title": "Disponible en {languages} langues",
+        "text": "Chaque test et chaque rapport sont disponibles dans toutes les grandes langues européennes."
+      },
+      {
+        "title": "Honnêtes sur nos limites",
+        "text": "Nos tests accompagnent l'introspection. Les tests de dépistage peuvent indiquer s'il est utile de consulter un professionnel, mais ils ne remplacent jamais un diagnostic."
+      }
+    ],
+    "ctaTitle": "Curieux de savoir ce que disent vos résultats ?",
+    "ctaButton": "Découvrir nos tests"
   }
 }

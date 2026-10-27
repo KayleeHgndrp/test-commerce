@@ -194,7 +194,7 @@
     "unlockText": "Dein ausführlicher Bericht mit allen Werten, persönlichen Deutungen und praktischen Tipps – per E-Mail an dich.",
     "emailLabel": "E-Mail-Adresse",
     "emailPlaceholder": "du@beispiel.de",
-    "consent": "Ich stimme den AGB und der Datenschutzerklärung zu.",
+    "consent": "Ich stimme den AGB und der Datenschutzerklärung zu und verlange ausdrücklich, dass mein Bericht sofort zugestellt wird. Mir ist bekannt, dass ich mein Widerrufsrecht verliere, sobald der Bericht versendet wurde.",
     "buy": "Meinen Bericht für {price} holen",
     "secure": "Sichere Zahlung über Stripe. Einmalzahlung, kein Abo.",
     "invalidEmail": "Bitte gib eine gültige E-Mail-Adresse ein.",
@@ -235,7 +235,8 @@
     "cookies": "Cookie-Richtlinie",
     "refund": "Erstattungsrichtlinie",
     "rights": "© {year} {site}. Alle Rechte vorbehalten.",
-    "disclaimer": "{site} ist kein medizinischer Dienst. Bei klinischen Anliegen wende dich bitte an eine zugelassene Fachperson."
+    "disclaimer": "{site} ist kein medizinischer Dienst. Bei klinischen Anliegen wende dich bitte an eine zugelassene Fachperson.",
+    "aboutLink": "Über uns"
   },
   "legal": {
     "privacyTitle": "Datenschutzerklärung",
@@ -277,5 +278,47 @@
     "sending": "Wird gesendet…",
     "success": "Danke! Deine Nachricht wurde gesendet. Wir melden uns bald bei dir.",
     "error": "Deine Nachricht konnte nicht gesendet werden. Bitte versuche es später erneut."
+  },
+  "about": {
+    "title": "Über {site}",
+    "intro": "Wir finden, dass jeder einen klaren, ehrlichen Blick auf sich selbst verdient – ohne Fachchinesisch, ohne Abo und ohne ein Etikett aus vier Buchstaben, das nichts erklärt.",
+    "missionTitle": "Unsere Mission",
+    "mission": "Die Psychologie hat starke Methoden entwickelt, um Persönlichkeit, Beziehungen und Wohlbefinden zu beschreiben – doch das meiste Wissen steckt in Lehrbüchern oder teuren Diagnostikverfahren. {site} macht es zugänglich: fundierte Tests, die jeder kostenlos und in seiner eigenen Sprache machen kann, mit einem persönlichen Bericht, der deine Ergebnisse verständlich erklärt und dir konkrete nächste Schritte zeigt.",
+    "howTitle": "So entwickeln wir unsere Tests",
+    "how": [
+      {
+        "title": "Anerkannte Modelle",
+        "text": "Jeder Test beruht auf gut erforschten Modellen wie den Big Five, RIASEC und der Bindungstheorie. Wo es frei verfügbare klinische Fragebögen gibt, etwa PHQ-9 und PCL-5, binden wir sie ein und werten sie nach ihren offiziellen Vorgaben aus."
+      },
+      {
+        "title": "100 Fragen, 5 Minuten",
+        "text": "Jeder Test besteht aus 100 kurzen Aussagen, verteilt auf alle Dimensionen, die er misst. Das ergibt ein weit zuverlässigeres Bild als ein schnelles Quiz mit zehn Fragen – und dauert trotzdem nur etwa fünf Minuten."
+      },
+      {
+        "title": "Zum Lesen geschrieben",
+        "text": "Unsere Berichte erklären, was jeder Wert bedeutet, woher er kommt und was du damit anfangen kannst. Kein Fachjargon, keine vagen Horoskop-Floskeln – nur klare, praktische Erkenntnisse."
+      }
+    ],
+    "valuesTitle": "Darauf kannst du dich verlassen",
+    "values": [
+      {
+        "title": "Kein Konto, kein Abo",
+        "text": "Du zahlst einmalig {price} für einen Bericht, den du haben möchtest. Nichts verlängert sich, nichts wird später abgebucht."
+      },
+      {
+        "title": "Datenschutz zuerst",
+        "text": "Deine Antworten werden nur zur Berechnung deines Ergebnisses verwendet. Wir verkaufen keine Daten und zeigen keine Werbung."
+      },
+      {
+        "title": "Verfügbar in {languages} Sprachen",
+        "text": "Jeder Test und jeder Bericht ist in allen großen europäischen Sprachen verfügbar."
+      },
+      {
+        "title": "Ehrlich über Grenzen",
+        "text": "Unsere Tests unterstützen die Selbstreflexion. Screenings können zeigen, ob ein Gespräch mit einer Fachperson sinnvoll ist, ersetzen aber nie eine Diagnose."
+      }
+    ],
+    "ctaTitle": "Neugierig, was deine Ergebnisse verraten?",
+    "ctaButton": "Unsere Tests entdecken"
   }
 }

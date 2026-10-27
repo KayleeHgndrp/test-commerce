@@ -194,7 +194,7 @@
     "unlockText": "Podrobná správa so všetkými skóre, osobným výkladom a praktickými tipmi, zaslaná na váš e-mail.",
     "emailLabel": "E-mailová adresa",
     "emailPlaceholder": "vy@priklad.sk",
-    "consent": "Súhlasím s obchodnými podmienkami a zásadami ochrany osobných údajov.",
+    "consent": "Súhlasím s obchodnými podmienkami a zásadami ochrany osobných údajov a žiadam o okamžité dodanie správy. Beriem na vedomie, že odoslaním správy strácam právo na odstúpenie od zmluvy.",
     "buy": "Získať správu za {price}",
     "secure": "Bezpečná platba cez Stripe. Jednorazová platba, žiadne predplatné.",
     "invalidEmail": "Zadajte platnú e-mailovú adresu.",
@@ -235,7 +235,8 @@
     "cookies": "Zásady používania cookies",
     "refund": "Zásady vrátenia peňazí",
     "rights": "© {year} {site}. Všetky práva vyhradené.",
-    "disclaimer": "{site} nie je zdravotnícka služba. S klinickými ťažkosťami sa, prosím, obráťte na kvalifikovaného odborníka."
+    "disclaimer": "{site} nie je zdravotnícka služba. S klinickými ťažkosťami sa, prosím, obráťte na kvalifikovaného odborníka.",
+    "aboutLink": "O nás"
   },
   "legal": {
     "privacyTitle": "Zásady ochrany osobných údajov",
@@ -277,5 +278,47 @@
     "sending": "Odosiela sa…",
     "success": "Ďakujeme! Vaša správa bola odoslaná. Čoskoro sa vám ozveme.",
     "error": "Správu sa nepodarilo odoslať. Skúste to prosím neskôr."
+  },
+  "about": {
+    "title": "O {site}",
+    "intro": "Veríme, že si každý zaslúži jasný a úprimný pohľad na seba samého – bez odborného žargónu, bez predplatného a bez štvorpísmenovej nálepky, ktorá nič nevysvetľuje.",
+    "missionTitle": "Naše poslanie",
+    "mission": "Psychológia vyvinula účinné spôsoby, ako opísať osobnosť, vzťahy a duševnú pohodu, no väčšina týchto poznatkov zostáva zatvorená v učebniciach alebo drahých vyšetreniach. {site} ich sprístupňuje: podrobné testy, ktoré môže každý vyplniť zadarmo vo svojom jazyku, s osobnou správou, ktorá vám výsledky vysvetlí zrozumiteľne a ponúkne praktické ďalšie kroky.",
+    "howTitle": "Ako vytvárame naše testy",
+    "how": [
+      {
+        "title": "Uznávané modely",
+        "text": "Každý test vychádza z dobre preskúmaných modelov, ako je Veľká päťka, RIASEC a teória citovej väzby. Kde existujú voľne dostupné klinické dotazníky, napríklad PHQ-9 a PCL-5, zaraďujeme ich a používame ich oficiálne vyhodnotenie."
+      },
+      {
+        "title": "100 otázok, 5 minút",
+        "text": "Každý test obsahuje 100 krátkych tvrdení rozložených do všetkých dimenzií, ktoré meria. Výsledný obraz je oveľa spoľahlivejší ako pri rýchlom kvíze s desiatimi otázkami, a predsa to trvá len asi päť minút."
+      },
+      {
+        "title": "Písané tak, aby sa čítali",
+        "text": "Naše správy vysvetľujú, čo každé skóre znamená, odkiaľ pochádza a čo s ním môžete robiť. Žiadny žargón ani hmlisté frázy ako z horoskopu – len jasné a praktické poznatky."
+      }
+    ],
+    "valuesTitle": "Na čo sa môžete spoľahnúť",
+    "values": [
+      {
+        "title": "Bez účtu, bez predplatného",
+        "text": "Za správu, o ktorú máte záujem, zaplatíte jednorazovo {price}. Nič sa neobnovuje a nič sa neskôr neúčtuje."
+      },
+      {
+        "title": "Súkromie na prvom mieste",
+        "text": "Vaše odpovede slúžia len na výpočet výsledku. Nepredávame údaje a nezobrazujeme reklamy."
+      },
+      {
+        "title": "K dispozícii v {languages} jazykoch",
+        "text": "Každý test aj každá správa sú k dispozícii vo všetkých hlavných európskych jazykoch."
+      },
+      {
+        "title": "Úprimne o hraniciach",
+        "text": "Naše testy podporujú sebareflexiu. Skríningové testy vám môžu naznačiť, či má zmysel porozprávať sa s odborníkom, no nikdy nenahradia diagnózu."
+      }
+    ],
+    "ctaTitle": "Zaujíma vás, čo hovoria vaše výsledky?",
+    "ctaButton": "Pozrieť testy"
   }
 }

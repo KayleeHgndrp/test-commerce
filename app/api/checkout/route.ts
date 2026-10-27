@@ -45,6 +45,10 @@ export async function POST(request: Request) {
     "line_items[0][price_data][product_data][name]": `${text.name} – ${site.name}`,
     success_url: `${thanksUrl}?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${origin}/${locale}/${slug}/result`,
+    // The advertised price includes VAT. With Stripe Tax enabled, Stripe works out
+    // the VAT rate of the customer's EU country (OSS) from the billing details.
+    "line_items[0][price_data][tax_behavior]": "inclusive",
+    ...(process.env.STRIPE_AUTOMATIC_TAX === "true" ? { "automatic_tax[enabled]": "true" } : {}),
     "metadata[slug]": slug,
     "metadata[locale]": locale,
     "metadata[answers]": answers,

@@ -194,7 +194,7 @@
     "unlockText": "Tüm puanlarınızı, kişisel yorumları ve pratik önerileri içeren ayrıntılı raporunuz e-posta adresinize gönderilir.",
     "emailLabel": "E-posta adresi",
     "emailPlaceholder": "siz@ornek.com",
-    "consent": "Koşulları ve gizlilik politikasını kabul ediyorum.",
+    "consent": "Koşulları ve gizlilik politikasını kabul ediyor, raporumun hemen teslim edilmesini talep ediyorum. Rapor gönderildikten sonra cayma hakkımı kaybedeceğimi anlıyorum.",
     "buy": "Raporumu {price} karşılığında al",
     "secure": "Stripe ile güvenli ödeme. Tek seferlik ödeme, abonelik yok.",
     "invalidEmail": "Lütfen geçerli bir e-posta adresi girin.",
@@ -235,7 +235,8 @@
     "cookies": "Çerez politikası",
     "refund": "İade politikası",
     "rights": "© {year} {site}. Tüm hakları saklıdır.",
-    "disclaimer": "{site} bir sağlık hizmeti değildir. Klinik endişeleriniz için lütfen lisanslı bir uzmana danışın."
+    "disclaimer": "{site} bir sağlık hizmeti değildir. Klinik endişeleriniz için lütfen lisanslı bir uzmana danışın.",
+    "aboutLink": "Hakkımızda"
   },
   "legal": {
     "privacyTitle": "Gizlilik politikası",
@@ -277,5 +278,47 @@
     "sending": "Gönderiliyor…",
     "success": "Teşekkürler! Mesajın gönderildi. En kısa sürede dönüş yapacağız.",
     "error": "Mesajın gönderilemedi. Lütfen daha sonra tekrar dene."
+  },
+  "about": {
+    "title": "{site} hakkında",
+    "intro": "Herkesin kim olduğuna dair net ve dürüst bir bakışı hak ettiğine inanıyoruz — jargon olmadan, abonelik olmadan ve hiçbir şeyi açıklamayan dört harfli bir etiket olmadan.",
+    "missionTitle": "Misyonumuz",
+    "mission": "Psikoloji; kişiliği, ilişkileri ve iyi oluşu tanımlamak için güçlü yöntemler geliştirdi, ancak bu bilginin büyük kısmı ders kitaplarında ya da pahalı değerlendirmelerde kilitli kalıyor. {site} bu bilgiyi erişilebilir kılıyor: Herkesin kendi dilinde ücretsiz çözebileceği kapsamlı testler ve sonuçlarınızı sade bir dille açıklayıp size atabileceğiniz pratik adımlar sunan kişisel bir rapor.",
+    "howTitle": "Testlerimizi nasıl hazırlıyoruz?",
+    "how": [
+      {
+        "title": "Yerleşik modeller",
+        "text": "Her test, Beş Faktör (Big Five), RIASEC ve bağlanma kuramı gibi iyi araştırılmış çerçevelere dayanır. PHQ-9 ve PCL-5 gibi kamuya açık klinik ölçekler mevcut olduğunda bunları da dahil eder ve resmi puanlamalarını kullanırız."
+      },
+      {
+        "title": "100 soru, 5 dakika",
+        "text": "Her test, ölçtüğü tüm boyutlara dağılmış 100 kısa ifadeden oluşur. Bu, on soruluk hızlı bir quizden çok daha güvenilir bir tablo sunar ve yine de yalnızca yaklaşık beş dakika sürer."
+      },
+      {
+        "title": "Okunmak için yazıldı",
+        "text": "Raporlarımız her puanın ne anlama geldiğini, nereden kaynaklandığını ve onunla neler yapabileceğinizi açıklar. Jargon yok, belirsiz burç yorumu dili yok — yalnızca net ve pratik içgörüler."
+      }
+    ],
+    "valuesTitle": "Güvenebileceğiniz şeyler",
+    "values": [
+      {
+        "title": "Hesap yok, abonelik yok",
+        "text": "İstediğiniz rapor için bir kez {price} ödersiniz. Hiçbir şey yenilenmez, sonradan hiçbir ücret alınmaz."
+      },
+      {
+        "title": "Önce gizlilik",
+        "text": "Yanıtlarınız yalnızca sonucunuzu hesaplamak için kullanılır. Veri satmayız ve reklam göstermeyiz."
+      },
+      {
+        "title": "{languages} dilde kullanılabilir",
+        "text": "Her test ve her rapor, tüm büyük Avrupa dillerinde sunulur."
+      },
+      {
+        "title": "Sınırlar konusunda dürüstüz",
+        "text": "Testlerimiz kendinizi tanımanıza destek olur. Tarama testleri bir uzmanla konuşmanın anlamlı olup olmadığını gösterebilir, ancak hiçbir zaman bir teşhisin yerini tutmaz."
+      }
+    ],
+    "ctaTitle": "Sonuçlarınızın ne söylediğini merak ediyor musunuz?",
+    "ctaButton": "Testlerimizi keşfedin"
   }
 }

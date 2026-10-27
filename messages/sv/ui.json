@@ -194,7 +194,7 @@
     "unlockText": "Din detaljerade rapport med alla resultat, personliga tolkningar och praktiska tips, skickad till din e-post.",
     "emailLabel": "E-postadress",
     "emailPlaceholder": "du@exempel.se",
-    "consent": "Jag godkänner villkoren och integritetspolicyn.",
+    "consent": "Jag godkänner villkoren och integritetspolicyn och begär att min rapport levereras omedelbart. Jag förstår att jag förlorar min ångerrätt när rapporten har skickats.",
     "buy": "Få min rapport för {price}",
     "secure": "Säker betalning via Stripe. Engångsbetalning, ingen prenumeration.",
     "invalidEmail": "Ange en giltig e-postadress.",
@@ -235,7 +235,8 @@
     "cookies": "Cookiepolicy",
     "refund": "Återbetalningspolicy",
     "rights": "© {year} {site}. Alla rättigheter förbehållna.",
-    "disclaimer": "{site} är inte en medicinsk tjänst. Vid kliniska besvär, kontakta legitimerad vårdpersonal."
+    "disclaimer": "{site} är inte en medicinsk tjänst. Vid kliniska besvär, kontakta legitimerad vårdpersonal.",
+    "aboutLink": "Om oss"
   },
   "legal": {
     "privacyTitle": "Integritetspolicy",
@@ -277,5 +278,47 @@
     "sending": "Skickar…",
     "success": "Tack! Ditt meddelande har skickats. Vi återkommer snart.",
     "error": "Meddelandet kunde inte skickas. Försök igen senare."
+  },
+  "about": {
+    "title": "Om {site}",
+    "intro": "Vi tycker att alla förtjänar en tydlig och ärlig bild av vem de är – utan fackjargong, utan prenumerationer och utan en etikett på fyra bokstäver som inte förklarar någonting.",
+    "missionTitle": "Vårt uppdrag",
+    "mission": "Psykologin har tagit fram kraftfulla sätt att beskriva personlighet, relationer och välmående, men det mesta av den kunskapen är inlåst i läroböcker eller dyra bedömningar. {site} gör den tillgänglig: djupgående tester som alla kan göra gratis på sitt eget språk, med en personlig rapport som förklarar dina resultat med enkla ord och ger dig praktiska nästa steg.",
+    "howTitle": "Så bygger vi våra tester",
+    "how": [
+      {
+        "title": "Etablerade modeller",
+        "text": "Varje test bygger på väl beforskade ramverk som femfaktormodellen (Big Five), RIASEC och anknytningsteorin. Där det finns fritt tillgängliga kliniska formulär, som PHQ-9 och PCL-5, tar vi med dem och använder deras officiella poängsättning."
+      },
+      {
+        "title": "100 frågor, 5 minuter",
+        "text": "Varje test består av 100 korta påståenden fördelade över alla dimensioner det mäter. Det ger en mycket mer tillförlitlig bild än ett snabbt quiz med tio frågor, och tar ändå bara runt fem minuter."
+      },
+      {
+        "title": "Skrivna för att läsas",
+        "text": "Våra rapporter förklarar vad varje resultat betyder, var det kommer ifrån och vad du kan göra med det. Ingen jargong och inget luddigt horoskopspråk – bara tydliga, praktiska insikter."
+      }
+    ],
+    "valuesTitle": "Det här kan du lita på",
+    "values": [
+      {
+        "title": "Inget konto, ingen prenumeration",
+        "text": "Du betalar {price} en gång för den rapport du vill ha. Inget förnyas och inget dras senare."
+      },
+      {
+        "title": "Integriteten först",
+        "text": "Dina svar används bara för att räkna ut ditt resultat. Vi säljer inga uppgifter och visar ingen reklam."
+      },
+      {
+        "title": "Finns på {languages} språk",
+        "text": "Alla tester och rapporter finns på alla större europeiska språk."
+      },
+      {
+        "title": "Ärliga om begränsningar",
+        "text": "Våra tester stöder självreflektion. Screeningtester kan visa om det kan vara bra att prata med en professionell, men de ersätter aldrig en diagnos."
+      }
+    ],
+    "ctaTitle": "Nyfiken på vad dina resultat säger?",
+    "ctaButton": "Utforska våra tester"
   }
 }
