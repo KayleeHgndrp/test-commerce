@@ -1,0 +1,206 @@
+{
+  "name": "16 Kişilik Tipi Testi",
+  "tagline": "Dört harfli tipini ve senin hakkında ne söylediğini öğren.",
+  "intro": "Bu test seni dört tercih ölçeğine yerleştirir: enerjini nereden aldığın, bilgiyi nasıl edindiğin, nasıl karar verdiğin ve hayatını nasıl düzenlediğin. Dört tercihin birleşerek 16 kişilik tipinden birini oluşturur. 100 kısa ifadeyi değerlendir; yaklaşık beş dakika sürer.",
+  "seoTitle": "16 Kişilik Tipi Testi – Ücretsiz dört harfli tip",
+  "seoDescription": "5 dakikada dört harfli kişilik tipini keşfet. Her ölçekteki tercihlerini gör ve pratik ipuçlarıyla tipinin portresini oku.",
+  "items": [
+    "En iyi, fikirleri başkalarıyla konuşarak düşünürüm.",
+    "Geleceğin neler getirebileceğini sık sık düşünürüm.",
+    "Kararlarımı önce mantığa dayanarak veririm.",
+    "Seçeneklerimi açık tutmayı severim.",
+    "Sezgilerden çok gerçeklere güvenirim.",
+    "İnsanlarla vakit geçirdikten sonra şarj olmak için yalnız kalmaya ihtiyaç duyarım.",
+    "Günümün planlanmış olmasını severim.",
+    "Seçimlerimin başkalarının duygularını nasıl etkileyeceğini tartarım.",
+    "Yeni insanlarla tanışmak bana enerji verir.",
+    "Gizli örüntüleri ve anlamları bulmaktan keyif alırım.",
+    "Dürüstlüğe incelikten daha çok değer veririm.",
+    "Bir şeylere anlık karar vermekten keyif alırım.",
+    "Başkalarının kaçırdığı küçük ayrıntıları fark ederim.",
+    "Birçok yüzeysel sohbet yerine tek bir derin sohbeti tercih ederim.",
+    "Bir karar verildiğinde rahatlarım.",
+    "Huzuru korumak benim için önemlidir.",
+    "Açık, hareketli bir ortamda çalışmaktan keyif alırım.",
+    "Rutin ayrıntılar beni sıkar.",
+    "Bir çatışmayı çözerken duygusal mesafemi koruyabilirim.",
+    "En iyi son dakika baskısı altında çalışırım.",
+    "Adım adım talimatları tercih ederim.",
+    "Bir şeyi söylemeden önce iyice düşünürüm.",
+    "İşleri teslim tarihinden çok önce bitiririm.",
+    "Kararlarımı aklımdan çok kalbimle veririm.",
+    "Bir sohbete çabucak katılırım.",
+    "Olasılıklar konusunda iç sesime güvenirim.",
+    "Artıları ve eksileri nesnel biçimde analiz etmeyi severim.",
+    "Katı programlar bana kısıtlayıcı gelir.",
+    "Şu anda olup bitene odaklanırım.",
+    "Evde sakin bir akşam benim için idealdir.",
+    "Ne bekleyeceğimi bilmeyi severim.",
+    "Sevdiğim insanları eleştirmekte zorlanırım.",
+    "İnsanların arasında olmak pillerimi doldurur.",
+    "İşlerin nasıl farklı olabileceğini hayal etmeyi severim.",
+    "Kurallar herkese aynı şekilde uygulanmalıdır.",
+    "Çoğu zaman aynı anda birkaç projeyi idare ederim.",
+    "Net bir pratik faydası olan fikirleri severim.",
+    "Düşüncelerim netleşene kadar onları kendime saklarım.",
+    "Listeler yapar ve onlara bağlı kalırım.",
+    "Başka birinin hikâyesinden kolayca etkilenirim.",
+    "Geniş bir arkadaş çevrem olmasını severim.",
+    "Sık sık satır aralarını okurum.",
+    "Planlardaki kusurları tereddüt etmeden belirtirim.",
+    "Günün beni nereye götüreceğini görmeyi severim.",
+    "Belirli gerçekleri ve rakamları iyi hatırlarım.",
+    "Kalabalıklar beni çabucak yorar.",
+    "Planları erkenden netleştirmeyi tercih ederim.",
+    "Zor durumdaki insanlar için istisna yaparım.",
+    "Düşüncelerimi çoğu zaman aklıma geldikleri anda paylaşırım.",
+    "Uygulamalı işler yerine teorileri tercih ederim.",
+    "Beni duygular değil, argümanlar ikna eder.",
+    "Daha iyi bir şey çıktığında planlarımı kolayca değiştiririm.",
+    "En iyi, bir şeyleri bizzat yaparak öğrenirim.",
+    "Ekip halinde çalışmak yerine tek başıma çalışmayı tercih ederim.",
+    "Yarım kalmış işler beni huzursuz eder.",
+    "Herkesin bir karara dahil edildiğini hissetmesini isterim.",
+    "Planlarla dolu hafta sonları beni mutlu eder.",
+    "Metaforlar ve imgelerle konuşmayı severim.",
+    "Sevilmektense haklı olmayı tercih ederim.",
+    "Kararları vermek zorunda kalana kadar ertelerim.",
+    "Denenmemiş yöntemler yerine kanıtlanmış yöntemleri tercih ederim.",
+    "Gruplarda sözü başkalarına bırakırım.",
+    "Takvimimi güncel tutarım.",
+    "Bir gruptaki gerginlik beni derinden etkiler.",
+    "Çok uzun süre yalnız kaldığımda huzursuzlanırım.",
+    "Hızla büyük resme atlarım.",
+    "Benim için adil olmak tutarlı olmak demektir.",
+    "Birçok şeye başlar, onları sonra bitiririm.",
+    "Şeyleri kelimenin tam anlamıyla ve kesin biçimde tarif ederim.",
+    "Telefonla aramaktansa mesaj yazmayı tercih ederim.",
+    "Yeni bir işe başlamadan önce elimdekini bitirmeyi severim.",
+    "Nezaket benim için haklı olmaktan daha önemlidir.",
+    "Etkinliklerde insanlarla kaynaşmaktan keyif alırım.",
+    "Yeni fikirler beni pratik gerçeklerden daha çok heyecanlandırır.",
+    "Eleştirel geri bildirim vermek bana kolay gelir.",
+    "Çantamı en son anda hazırlarım.",
+    "Bir şeye inanmadan önce kanıt görmek isterim.",
+    "Küçük bir yakın arkadaş çevrem var.",
+    "Planlar son dakikada değiştiğinde sinirlenirim.",
+    "İşime yönelik eleştirileri çoğu zaman kişisel algılarım.",
+    "Tanımadığım insanlarla kolayca sohbet başlatırım.",
+    "Çoğu zaman talimatları atlayıp kendim çözerim.",
+    "Fikirleri sınamak için tartışmaktan keyif alırım.",
+    "Planı olmayan günler bana özgürlük hissi verir.",
+    "Somut, görünür sonuçları olan işlerden keyif alırım.",
+    "Toplantılarla dolu uzun bir günün ardından tükenmiş hissederim.",
+    "İşimde net bir yapıyı tercih ederim.",
+    "Seçimlerime yön vermesi için değerlerime güvenirim.",
+    "Tek başıma düşünmek yerine grupla beyin fırtınası yapmayı tercih ederim.",
+    "Yeni ve denenmemiş olana ilgi duyarım.",
+    "Bir çözümü ne kadar iyi işlediğine göre değerlendiririm.",
+    "Planlarımı ruh halime göre uyarlarım.",
+    "Sorunları çözmek için geçmiş deneyimlerime dayanırım.",
+    "İnsanlar bazen ilk başta beni anlamakta zorlanır.",
+    "Tatillerimi çok önceden organize ederim.",
+    "Eleştirmektense cesaretlendirmeyi tercih ederim.",
+    "Genellikle ilk söz alanlardan biri olurum.",
+    "Şimdiye gelecekten daha çok dikkat ederim.",
+    "İşte yetkinliğe güler yüzlülükten daha çok değer veririm.",
+    "Yarım kalan işleri hemen toparlamayı severim."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Dışadönüklük – İçedönüklük",
+      "short": "Enerjini esas olarak insanlar ve eylemden oluşan dış dünyadan mı (E) yoksa düşünceler ve yansımadan oluşan iç dünyandan mı (I) aldığın.",
+      "low": "İçedönüklüğe (I) yatkınsın. Sessizlikte şarj oluyor, konuşmadan önce düşünüyor ve birçok kısa sohbet yerine birkaç derin sohbeti tercih ediyorsun. Fikirleri çoğu zaman içinde işliyor ve tamamen olgunlaştıklarında paylaşıyorsun. Yoğun sosyal günler, keyif almış olsan bile seni yorgun bırakabilir. İpucu: yoğun sosyal etkinliklerden sonra toparlanma zamanı planla ve bunu kaçış değil bakım olarak gör. Grup ortamlarında katkını önceden hazırla ya da sonrasında yazılı olarak paylaş ki fikirlerin duyulsun.",
+      "mid": "Dışadönüklük ile içedönüklük arasında ortaya yakın bir yerdesin; bu yüzden harfin ruh haline ya da duruma göre değişebilir. Başkalarının arkadaşlığından ve hareketten keyif alıyorsun ama şarj olmak için yalnız zamana da ihtiyaç duyuyorsun. İşe göre başkalarıyla sesli düşünebilir ya da sessizce kafa yorabilirsin. İpucu: farklı türde günlerden sonra enerjini gözlemle. Bu bilgiyi, sosyal teması ve sessiz zamanı sana uyan oranlarda karıştıran haftalık bir ritim kurmak için kullan.",
+      "high": "Dışadönüklüğe (E) yatkınsın. Enerjini insanlardan, sohbetten ve hareketten alıyor ve çoğu zaman en iyi bir şeyleri konuşarak düşünüyorsun. Hızlı dahil oluyor, kolay yaklaşılabilir biri oluyor ve gruplarda rahat hissediyorsun. Uzun süre yalnız kalmak seni huzursuz edebilir. İpucu: bir tartışmada tepki vermeden önce kısa bir duraklama yap ve önce bir soru sor; bu, daha sessiz insanlara alan açar ve kendi düşünceni de keskinleştirir. Yaşadıklarını işlemek için kısa düşünme anları planla."
+    },
+    "sensing": {
+      "name": "Duyumsama – Sezgi",
+      "short": "Esas olarak somut gerçeklere, ayrıntılara ve deneyime mi (S) yoksa örüntülere, olasılıklara ve büyük resme mi (N) odaklandığın.",
+      "low": "Sezgiye (N) yatkınsın. Doğal olarak anlam, örüntü ve gelecekteki olasılıklar arıyor; fikirlerden, teorilerden ve neler olabileceğini hayal etmekten keyif alıyorsun. Rutin ayrıntılar seni sıkabilir ve büyük resme ulaşmak için bazen adımları atlayabilirsin. İpucu: bir vizyonu paylaşırken başkalarının takip edebilmesi için somut örnekler ve sonraki adımlar ekle. Bir şeye bağlanmadan önce ayrıntı odaklı bir iş arkadaşından planlarındaki pratik boşlukları kontrol etmesini iste.",
+      "mid": "Duyumsama ile sezgi arasında ortaya yakın bir yerdesin; bu yüzden harfin durumdan duruma değişebilir. Somut gerçekler ve ayrıntılarla çalışabiliyor ama fikirleri ve olasılıkları keşfetmekten de keyif alıyorsun. Bu, pratik insanlarla vizyonerler arasında köprü kurmanı sağlar. İpucu: baskı altında varsayılan olarak hangi moda geçtiğini fark et. Önemli kararlarda bilerek ikisini de kontrol et: gerçekler ne diyor ve hangi yeni seçenekler düşünülmeye değer?",
+      "high": "Duyumsamaya (S) yatkınsın. Gerçeklere, deneyime ve görüp test edebildiğin şeylere güveniyorsun. Ayrıntıları fark ediyor, net talimatları tercih ediyor ve pratik faydası olan fikirleri seviyorsun. İnsanlar gerçekçiliğine ve titizliğine güvenir. İpucu: başkaları soyut fikirler paylaştığında, uygulanabilirliklerini yargılamadan önce onlara biraz zaman tanı; bazıları faydalı bir şeye dönüşebilir. Bakış açını genişletmek için ara sıra bir eğilimin beş yıl içinde nereye varabileceğini hayal etmeyi dene."
+    },
+    "thinking": {
+      "name": "Düşünme – Hissetme",
+      "short": "Kararlarını esas olarak mantık ve nesnel analizle mi (T) yoksa kişisel değerler ve insanlar üzerindeki etkiyle mi (F) verdiğin.",
+      "low": "Hissetmeye (F) yatkınsın. Kararlarını değerleri, ilişkileri ve insanların nasıl etkileneceğini tartarak veriyorsun. Uyuma değer veriyor, nezaketi takdir ediyor ve başkalarının neye ihtiyaç duyduğunu çabucak seziyorsun. İnsanlar çoğu zaman senin tarafından anlaşıldıklarını hissediyor. İpucu: bir karar zor olduğunda nesnel artıları ve eksileri de yaz; bu, seçimini açıklamayı kolaylaştırabilir. Sıcak bir şekilde iletilen dürüst geri bildirimin de bir özen biçimi olduğunu unutma.",
+      "mid": "Düşünme ile hissetme arasında ortaya yakın bir yerdesin; bu yüzden harfin durumdan duruma farklılık gösterebilir. Karar verirken hem mantığı hem de insani etkiyi tartıyorsun; bu da adil ve dengeli çözümler bulmana yardımcı oluyor. İpucu: işte mantığa, evde duygulara mı dayandığını yoksa tam tersini mi yaptığını fark et. Önemli kararlarda bilinçli olarak ikisini de kontrol et: sağlam mı ve ilgili insanlar için adil mi?",
+      "high": "Düşünmeye (T) yatkınsın. Kararlarını mantık, tutarlılık ve nesnel analizle veriyorsun. Adaleti herkese aynı kuralları uygulamak anlamında önemsiyor ve duygulara kapılmadan sert geri bildirim verebiliyorsun. İpucu: eleştirini paylaşmadan önce birinin işinin arkasındaki çabayı ya da niyeti takdir et. Bir kararın etkilenen insanlara nasıl hissettireceğini sor; bu, akıl yürütmeni zayıflatmadan kabulü çoğu zaman artırır."
+    },
+    "judging": {
+      "name": "Yargılama – Algılama",
+      "short": "Planlı, kararlaştırılmış ve yapılandırılmış bir hayatı mı (J) yoksa esnek, açık ve kendiliğinden bir hayatı mı (P) tercih ettiğin.",
+      "low": "Algılamaya (P) yatkınsın. Seçeneklerini açık tutmayı, ilerledikçe uyum sağlamayı ve gerektiğinde karar vermeyi seviyorsun. Çoğu zaman enerji patlamalarıyla çalışıyor ve katı programlar içinde sıkışmış hissediyorsun. Bu, planlar değiştiğinde seni esnek ve becerikli kılar. İpucu: tek bir teslim tarihi hatırlatma sistemi gibi, temel şeyler için hafif bir yapı kullan. Büyük projeleri küçük kilometre taşlarına böl ki son dakika telaşı strese dönüşmesin.",
+      "mid": "Yargılama ile algılama arasında ortaya yakın bir yerdesin; bu yüzden harfin değişebilir. Bir plana sahip olmayı seviyorsun ama daha iyi bir şey çıktığında onu kolayca bırakabiliyorsun. Teslim tarihlerine uyabiliyor ve yine de kendiliğindenlikten keyif alabiliyorsun. İpucu: biraz daha fazla planlamanın stresi nerede azaltacağını, örneğin seyahat ya da para konusunda, ve daha fazla esnekliğin nerede keyif katacağını fark et. Alışkanlıkla değil, bilinçli olarak ayarla.",
+      "high": "Yargılamaya (J) yatkınsın. Önceden plan yapmayı, karar vermeyi ve işleri sonuçlandırmayı seviyorsun. Net programlar, listeler ve teslim tarihleri sana kontrol duygusu veriyor ve işleri genellikle son dakikadan çok önce bitiriyorsun. İpucu: sürprizler seni rayından çıkarmasın diye planlarına biraz boş alan ekle. Başkaları daha gevşek bir şekilde çalıştığında önemli teslim tarihlerinde anlaşın ve oraya nasıl ulaşacaklarını onların seçmesine izin ver."
+    }
+  },
+  "summary": "Tipin dört tercihi birleştirir: Dışadönüklük ya da İçedönüklük (E/I), Duyumsama ya da Sezgi (S/N), Düşünme ya da Hissetme (T/F) ve Yargılama ya da Algılama (J/P). Her ölçek bir tarafa ne kadar güçlü eğilim gösterdiğini gösterir; %50 civarındaki puanlar her iki tarafı da oldukça esnek kullandığın anlamına gelir. Tipler yetenekleri değil tercihleri tanımlar ve hiçbir tip diğerinden daha iyi değildir.",
+  "types": {
+    "ISTJ": {
+      "name": "Çapa",
+      "text": "İstikrarlı, titiz ve son derece güvenilirsin. Gerçeklere saygı duyuyor, sözünü tutuyor ve işleri gerektiği gibi bitene kadar yöntemli bir şekilde yürütüyorsun. İnsanlar sana güvenir çünkü söylediğini yaparsın. Net beklentileri ve kanıtlanmış yöntemleri tercih ediyor, başkalarının gözden kaçırdığı hataları fark ediyorsun. Sessiz gücün ekipleri ve aileleri bir arada tutar. Gelişim ipucu: eski yol hâlâ işe yarasa bile yeni yaklaşımlara açık kal; bazen bir deneme gerçek bir iyileşme getirir. Başkalarına duyduğun takdiri yüksek sesle paylaş, çünkü sadakatin her zaman görünür değildir. Dinlenmeyi önce hak etmen gerekmeden kendine zaman ayır."
+    },
+    "ISFJ": {
+      "name": "Koruyucu",
+      "text": "Şefkatli, vicdanlı ve sessizce bağlısın. İnsanlar için neyin önemli olduğunu hatırlıyor, ihtiyaçlarını fark ediyor ve çoğu zaman istenmeden pratik yollarla yardım ediyorsun. Geleneğe, istikrara ve uyuma değer veriyor, başkalarının kendini güvende ve rahat hissetmesi için çok çalışıyorsun. Nezaketin, insanların yıllarca güvendiği istikrarlı türdendir. Gelişim ipucu: kendi ihtiyaçların da başkalarına gösterdiğin ilgiyi hak ediyor; bu yüzden suçluluk duymadan hayır demeyi dene. Seni rahatsız eden bir şey olduğunda sessizce içine atmak yerine dile getir. Başkalarının sana destek olmasına izin vermek, ilişkileri yük altına sokmaz, güçlendirir."
+    },
+    "INFJ": {
+      "name": "Sessiz Vizyoner",
+      "text": "İnsanlara dair derin bir sezgiyi güçlü bir amaç duygusuyla birleştiriyorsun. İlişkilerdeki alt akıntıları seziyor, uzun vadeli düşünüyor ve hayatının anlamlı bir şeye katkıda bulunmasını istiyorsun. İçine kapanık ama sıcak birisin ve hayatına aldığın insanlar gerçekten görüldüklerini hissediyor. İdeallerin sana yön ve kararlılık veriyor. Gelişim ipucu: yüksek standartların, gerçeklik beklentinin gerisinde kaldığında tükenmişliğe ya da hayal kırıklığına dönüşebilir; bu yüzden sadece mükemmelliği değil ilerlemeyi de kutla. Fikirlerini tamamen olgunlaşmalarını beklemeden daha erken paylaş. Bunalmış hissetmeden önce, sonra değil, sınırlar koyarak enerjini koru."
+    },
+    "INTJ": {
+      "name": "Büyük Stratejist",
+      "text": "Bağımsız, analitik ve uzun vadeli hedeflere odaklısın. Sistemlerin nasıl bir araya geldiğini görüyor, verimsizlikleri çabucak fark ediyor ve işleri yapmanın daha iyi yollarını tasarlamayı seviyorsun. Kendi akıl yürütmene güveniyor ve bir vizyona ulaşmak için kendi yolundan gitmeye hazırsın. Kararlılığın iddialı fikirleri gerçeğe dönüştürebilir. Gelişim ipucu: başkaları mantığını senin kadar hızlı takip edemeyebilir; bu yüzden akıl yürütmeni adım adım açıkla ve geri bildirim iste. İnsanların duygularının da birer veri olduğunu unutma. Kusurlu ilk versiyonlara alan tanı; ilerleme çoğu zaman bekleyen kusursuz bir planı geride bırakır."
+    },
+    "ISTP": {
+      "name": "Tamirci",
+      "text": "Sakin, pratik ve işlerin nasıl yürüdüğünü merak eden birisin. Sorunları uygulamalı olarak anlamayı, bir şeyleri söküp incelemeyi ve verimli çözümler bulmayı seviyorsun. Bir kriz anında başkaları hâlâ konuşurken sen soğukkanlı kalıp kararlılıkla harekete geçiyorsun. Özgürlüğe değer veriyor, gereksiz kurallardan ve uzun toplantılardan hoşlanmıyorsun. Gelişim ipucu: düşüncelerini başkalarıyla daha sık paylaş, çünkü sessizliğin ilgisizlik olarak yanlış anlaşılabilir. Birçok becerin daha büyük bir şeye doğru gelişsin diye birkaç uzun vadeli hedefe bağlan. Yakınlarına ne hissettiğini söyle; küçük takdir sözleri çok şey ifade eder."
+    },
+    "ISFP": {
+      "name": "Nazik Sanatçı",
+      "text": "Duyarlı, nazik ve güzelliğe ve şimdiki ana karşı uyumlusun. Kendini kelimelerden çok eylemlerle ve yaratıcılıkla ifade ediyor, özgünlüğe ve özgürlüğe değer veriyorsun. Hoşgörülü, açık fikirli ve önemsediğin insanlara ve davalara sadıksın. Nazik varlığın başkalarının kabul edildiğini hissetmesini sağlar. Gelişim ipucu: hayal kırıklığı birikene kadar çatışmadan kaçınabilirsin; bu yüzden küçük endişelerini erkenden dile getirmeyi dene. Yeteneklerine yön vermek için değerlerini birkaç somut hedefe dönüştür. İşini başkalarına gösterecek kadar ona inan; bakış açın görülmeyi hak ediyor."
+    },
+    "INFP": {
+      "name": "Hayalperest",
+      "text": "İdealist, hayal gücü kuvvetli ve güçlü iç değerlerin rehberliğinde yaşayan birisin. Yaptığın her şeyde anlam arıyor ve hem kendinde hem başkalarında özgünlüğü derinden önemsiyorsun. Duyguları iyi anlıyor ve onları çoğu zaman yazı, sanat ya da düşünceli sohbetlerle ifade ediyorsun. Nazik, açık fikirli ve inandığın şeylere sadıksın. Gelişim ipucu: idealler bir pusuladır ama gerçeklik nadiren mükemmeldir; ideal anı beklemek yerine küçük pratik adımlar at. Kendine de başkalarına olduğu kadar şefkatli davran. Hayallerini, onları gerçeğe dönüştürmene yardım edebilecek insanlarla paylaş."
+    },
+    "INTP": {
+      "name": "Bulmaca Çözücü",
+      "text": "Mantıklı, yaratıcı ve sonsuz meraklısın. Fikirleri analiz etmeyi, tutarsızlıkları bulmayı ve işlerin gerçekte nasıl yürüdüğünü açıklayan teoriler kurmayı seviyorsun. Bağımsız düşünüyor ve karmaşık konular hakkında derin sohbetlerden keyif alıyorsun. Zihnin başkalarının kaçırdığı özgün çözümleri görebilir. Gelişim ipucu: fikirler paylaşıldıklarında ve uygulandıklarında potansiyellerine ulaşır; bu yüzden işini bitirip sunmak için kendine küçük teslim tarihleri koy. Mantıksız görünseler bile önemli olan pratik ayrıntılara ve başkalarının nasıl hissettiğine dikkat et. İlgi alanlarını paylaşan insanlarla bağ kur; düşüncene enerji katacaklardır."
+    },
+    "ESTP": {
+      "name": "Gözü Kara",
+      "text": "Enerjik, cesur ve eylem odaklısın. Anı yaşıyor, durumları çabucak okuyor ve işler hızlı ilerlediğinde parlıyorsun. Zorluklardan keyif alıyor, akıllıca riskler alıyor ve pratik sorunları anında çözüyorsun. İnsanlar özgüvenine ve eğlence anlayışına çekilir. Gelişim ipucu: özellikle para ve ilişkiler konusunda, atılmadan önce uzun vadeli sonuçları iyice düşün. Daha yavaş süreçlere ve karar vermek için daha fazla zamana ihtiyaç duyan insanlara karşı sabırlı olmayı dene. Dolaysız tarzının hassas insanlarda nasıl bir etki bıraktığını düşün; biraz incelik etkini daha da güçlendirir."
+    },
+    "ESFP": {
+      "name": "Kıvılcım",
+      "text": "Canlı, sıcak ve eğlenceyi seven birisin. Her ortama enerji katıyor, insanlardan ve deneyimlerden keyif alıyor ve gündelik anları özel hissettiriyorsun. Pratik, cömertsin ve zor zamanlar geçiren birine yardım etmekte hızlısın. Coşkun bulaşıcıdır ve insanlar senin yanında olmaktan hoşlanır. Gelişim ipucu: önceden plan yapmak sıkıcı gelebilir ama maddi konularda ve uzun vadeli hedeflerde biraz yapı, sana ileride daha fazla özgürlük kazandırır. Kendini oyalamak yerine zor konuşmalarla yüzleş. Sadece şu an iyi hissettirenleri değil, gerçekten ne istediğini düşünmek için kendine sessiz anlar ayır."
+    },
+    "ENFP": {
+      "name": "İlham Veren",
+      "text": "Coşkulu, yaratıcı ve olasılıklarla dolusun. İnsanlarla kolayca bağ kuruyor, her yerde potansiyel görüyor ve yeni projelere ve sohbetlere başlamaya bayılıyorsun. Sıcaklığın ve hayal gücün başkalarını daha büyük hayaller kurmaya teşvik ediyor. Özgürlüğe, özgünlüğe ve anlamlı ilişkilere değer veriyorsun. Gelişim ipucu: birçok fikrinin sonuca dönüşmesi için odağa ihtiyacı var; bu yüzden birkaç öncelik seç ve onları sonuna kadar götür. Sıkıcı bulduğun pratik işler için basit rutinler oluştur. Yeni bir başlangıcın heyecanından sonra ruh halin düştüğünde, asıl ödülün büyük kısmının istikrarlı takipte yattığını hatırla."
+    },
+    "ENTP": {
+      "name": "Yenilikçi",
+      "text": "Hazırcevap, yaratıcı ve iyi bir tartışmaya bayılan birisin. Eski sorunlara yeni açılardan bakıyor, varsayımları sorguluyor ve fikirlerle denemeler yapmaktan keyif alıyorsun. Hızla uyum sağlıyor ve karmaşık zorluklar ve zeki insanlarla enerji kazanıyorsun. Merakın seni dokunduğun neredeyse her şeyi iyileştirmeye itiyor. Gelişim ipucu: her tartışmanın kazanılması gerekmez ve bazı insanlar tartışmayı çatışma olarak yaşar; bu yüzden ortamı oku. Bir sonrakine çok erken geçmek yerine en iyi fikirlerini sonuna kadar götür. Kavramları gerçeğe dönüştürmene yardımcı olan ayrıntı odaklı insanlarla ekip ol."
+    },
+    "ESTJ": {
+      "name": "Kaptan",
+      "text": "Düzenli, kararlı ve pratiksin. Net hedefleri, verimli süreçleri ve işlerin bitirilmesini seviyorsun. Sorumluluğu doğal olarak üstleniyor, yüksek standartlar koyuyor ve planların uygulanmasını sağlıyorsun. İnsanlar dolaysızlığını ve güvenilirliğini takdir eder. Gelişim ipucu: verimli tarzın başkalarına kontrolcü gelebilir; bu yüzden karar vermeden önce görüş iste ve nedenini açıkla. Mevcut yöntem işe yarasa bile yeni yöntemlere açık kal. İnsanların sadece sonuçlarını değil çabalarını da takdir et; tanınmak, başkalarını net talimatlar kadar motive eder."
+    },
+    "ESFJ": {
+      "name": "Ev Sahibi",
+      "text": "Sosyal, şefkatli ve topluluk odaklısın. İnsanların neye ihtiyaç duyduğunu fark ediyor, onları hoş karşılanmış hissettiriyor ve insanları bir araya getirmeyi seviyorsun. Uyuma, sadakate ve geleneğe değer veriyor, ilişkilerin ve grupların sorunsuz işlemesi için gerçekten çaba gösteriyorsun. İnsanlar senin yanında kendilerini iyi bakılmış hisseder. Gelişim ipucu: eleştiriyi ya da çatışmayı kişisel algılayabilirsin; bu yüzden anlaşmazlığın reddedilme olmadığını kendine hatırlat. Yardım etmeyi istediğin için mi yoksa zorunda hissettiğin için mi yaptığını kontrol et. Kendi ihtiyaçlarına ve fikirlerine de yer aç; onlar da herkesinkiler kadar önemli."
+    },
+    "ENFJ": {
+      "name": "Mentor",
+      "text": "Sıcak, ilham verici ve insanların gelişmesine yardım etmeye odaklısın. Başkalarını iyi okuyor, güçlü yanlarını ortaya çıkarıyor ve grupları ortak bir amaç etrafında topluyorsun. Coşku ve inançla iletişim kuruyor, çevrendekilerin iyi oluşundan sorumlu hissediyorsun. İnsanlar çoğu zaman senin rehberliğini arar. Gelişim ipucu: herkesi taşıyamazsın; bu yüzden başkalarının kendi seçimlerinin sorumluluğunu almasına izin ver. Fazla sorumluluk üstlendiğin ya da kendi ihtiyaçlarını ihmal ettiğin anları fark et. Bazı insanların seninle aynı fikirde olmayacağını kabul et; onların farklı yolu senin değerinin bir yansıması değildir."
+    },
+    "ENTJ": {
+      "name": "Lider",
+      "text": "Kendinden emin, stratejik ve başarmaya odaklısın. Büyük resmi görüyor, iddialı hedefler koyuyor ve onlara ulaşmak için insanları ve kaynakları organize ediyorsun. Hızlı karar veriyor, net iletişim kuruyor ve zorluklardan ya da sorumluluktan korkmuyorsun. Başkaları liderlik için çoğu zaman sana bakar. Gelişim ipucu: hızın ve dolaysızlığın insanları bunaltabilir; bu yüzden dinlemek ve duyguları kabul etmek için yavaşla. İnsanlar sadece yönlendirildiklerinde değil, duyulduklarını hissettiklerinde motivasyonun arttığını unutma. Dinlenmeye ve ilişkilere yer aç; uzun vadeli başarı sadece sonuçlardan fazlasına bağlıdır."
+    }
+  }
+}
