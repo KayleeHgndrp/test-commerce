@@ -1,0 +1,206 @@
+{
+  "name": "Test af de 16 personlighedstyper",
+  "tagline": "Find din type på fire bogstaver, og se, hvad den siger om dig.",
+  "intro": "Testen placerer dig på fire præferenceskalaer: hvor du får din energi fra, hvordan du optager information, hvordan du træffer beslutninger, og hvordan du organiserer dit liv. Dine fire præferencer danner tilsammen én af 16 personlighedstyper. Tag stilling til 100 korte udsagn; det tager omkring fem minutter.",
+  "seoTitle": "16 personlighedstyper – Gratis test af din type",
+  "seoDescription": "Find din personlighedstype på fire bogstaver på 5 minutter. Se dine præferencer på hver skala, og læs et portræt af din type med praktiske tips.",
+  "items": [
+    "Jeg tænker bedst, når jeg taler idéer igennem med andre.",
+    "Jeg tænker ofte over, hvad fremtiden kan bringe.",
+    "Jeg træffer først og fremmest beslutninger ud fra logik.",
+    "Jeg kan lide at holde mine muligheder åbne.",
+    "Jeg stoler mere på fakta end på fornemmelser.",
+    "Jeg har brug for alenetid for at lade op efter samvær med andre.",
+    "Jeg kan lide at have min dag planlagt.",
+    "Jeg overvejer, hvordan mine valg påvirker andres følelser.",
+    "Det giver mig et boost at møde nye mennesker.",
+    "Jeg nyder at finde skjulte mønstre og betydninger.",
+    "Jeg sætter ærlighed højere end takt.",
+    "Jeg kan lide at beslutte ting på stående fod.",
+    "Jeg lægger mærke til små detaljer, som andre overser.",
+    "Jeg foretrækker én dyb samtale frem for mange lette.",
+    "Jeg føler lettelse, når en beslutning er truffet.",
+    "Det er vigtigt for mig at bevare freden.",
+    "Jeg kan lide at arbejde i et åbent, livligt miljø.",
+    "Rutinedetaljer keder mig.",
+    "Jeg kan bevare distancen, når jeg løser en konflikt.",
+    "Jeg arbejder bedst under pres i sidste øjeblik.",
+    "Jeg foretrækker trin-for-trin-instruktioner.",
+    "Jeg tænker tingene igennem, før jeg siger dem.",
+    "Jeg gør opgaver færdige i god tid før deadline.",
+    "Jeg beslutter mere med hjertet end med hovedet.",
+    "Jeg er hurtig til at kaste mig ind i en samtale.",
+    "Jeg stoler på min mavefornemmelse om muligheder.",
+    "Jeg kan lide at analysere fordele og ulemper objektivt.",
+    "Faste skemaer føles begrænsende for mig.",
+    "Jeg fokuserer på det, der sker lige nu.",
+    "En stille aften derhjemme er mit ideal.",
+    "Jeg kan lide at vide, hvad jeg kan forvente.",
+    "Jeg har svært ved at kritisere mennesker, jeg holder af.",
+    "Det lader mine batterier op at være sammen med andre.",
+    "Jeg kan lide at forestille mig, hvordan ting kunne være anderledes.",
+    "Regler bør gælde for alle på samme måde.",
+    "Jeg jonglerer ofte med flere projekter på én gang.",
+    "Jeg kan lide idéer, der har en klar praktisk anvendelse.",
+    "Jeg holder mine tanker for mig selv, til de er klare.",
+    "Jeg laver lister og holder mig til dem.",
+    "Jeg bliver let berørt af andres historier.",
+    "Jeg kan lide at have en bred vennekreds.",
+    "Jeg læser ofte mellem linjerne.",
+    "Jeg påpeger fejl i planer uden tøven.",
+    "Jeg kan lide at se, hvor dagen fører mig hen.",
+    "Jeg husker konkrete fakta og tal godt.",
+    "Menneskemængder slider hurtigt på mig.",
+    "Jeg foretrækker at få planer på plads tidligt.",
+    "Jeg gør undtagelser for mennesker i svære situationer.",
+    "Jeg deler ofte mine tanker, efterhånden som de dukker op.",
+    "Jeg foretrækker teorier frem for praktisk arbejde.",
+    "Jeg bliver overbevist af argumenter, ikke af følelser.",
+    "Jeg ændrer gerne planer, når noget bedre dukker op.",
+    "Jeg lærer bedst ved at prøve tingene i praksis.",
+    "Jeg foretrækker at arbejde alene frem for i et team.",
+    "Uafsluttede ting gør mig urolig.",
+    "Jeg vil have, at alle føler sig inddraget i en beslutning.",
+    "Weekender fyldt med planer gør mig glad.",
+    "Jeg kan lide at tale i metaforer og billeder.",
+    "Jeg vil hellere have ret end være vellidt.",
+    "Jeg udskyder beslutninger, til jeg er nødt til at træffe dem.",
+    "Jeg foretrækker afprøvede metoder frem for uafprøvede.",
+    "Jeg lader andre tage ordet i grupper.",
+    "Jeg holder min kalender opdateret.",
+    "Spændinger i en gruppe påvirker mig dybt.",
+    "Jeg bliver rastløs, når jeg er alene for længe.",
+    "Jeg springer hurtigt frem til det store billede.",
+    "For mig betyder retfærdig det samme som konsekvent.",
+    "Jeg starter mange ting og gør dem færdige senere.",
+    "Jeg beskriver ting bogstaveligt og præcist.",
+    "Jeg vil hellere skrive en besked end ringe.",
+    "Jeg kan lide at gøre én opgave færdig, før jeg starter på en ny.",
+    "Venlighed betyder mere for mig end at have ret.",
+    "Jeg nyder at mingle til arrangementer.",
+    "Nye idéer begejstrer mig mere end praktiske fakta.",
+    "Jeg har let ved at give kritisk feedback.",
+    "Jeg pakker min taske i allersidste øjeblik.",
+    "Jeg vil se beviser, før jeg tror på noget.",
+    "Jeg har en lille kreds af nære venner.",
+    "Det irriterer mig, når planer ændres i sidste øjeblik.",
+    "Jeg tager ofte kritik af mit arbejde personligt.",
+    "Jeg falder let i snak med mennesker, jeg ikke kender.",
+    "Jeg springer ofte instruktionerne over og finder selv ud af det.",
+    "Jeg nyder at debattere for at afprøve idéer.",
+    "Dage uden faste planer føles befriende for mig.",
+    "Jeg nyder opgaver med konkrete, synlige resultater.",
+    "Jeg føler mig drænet efter en lang dag med møder.",
+    "Jeg foretrækker en klar struktur i mit arbejde.",
+    "Jeg stoler på, at mine værdier guider mine valg.",
+    "Jeg foretrækker brainstorm i en gruppe frem for at tænke alene.",
+    "Jeg tiltrækkes af det, der er nyt og uafprøvet.",
+    "Jeg bedømmer en løsning ud fra, hvor godt den virker.",
+    "Jeg tilpasser mine planer efter mit humør.",
+    "Jeg trækker på mine tidligere erfaringer, når jeg løser problemer.",
+    "Folk synes nogle gange, at jeg er svær at læse i starten.",
+    "Jeg planlægger mine ferier i god tid.",
+    "Jeg vil hellere opmuntre end kritisere.",
+    "Jeg er som regel blandt de første til at tage ordet.",
+    "Jeg er mere opmærksom på nutiden end på fremtiden.",
+    "Jeg sætter kompetence højere end venlighed på arbejdet.",
+    "Jeg kan lide at få løse ender samlet op med det samme."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Ekstroversion vs. introversion",
+      "short": "Om du primært henter energi fra den ydre verden med mennesker og handling (E) eller fra din indre verden af tanker og refleksion (I).",
+      "low": "Du hælder mod introversion (I). Du lader op i stilhed, tænker, før du taler, og foretrækker få dybe samtaler frem for mange korte. Du bearbejder ofte idéer indadtil og deler dem, når de er helt færdigtænkte. Travle sociale dage kan gøre dig træt, selv om du nød dem. Tip: Planlæg tid til restitution efter intense sociale begivenheder, og se det som vedligeholdelse, ikke som at undgå noget. I grupper kan du forberede dine input på forhånd eller følge op skriftligt, så dine idéer bliver hørt.",
+      "mid": "Du ligger tæt på midten mellem ekstroversion og introversion, så dit bogstav kan skifte afhængigt af humør eller situation. Du nyder selskab og aktivitet, men har også brug for alenetid for at lade op. Du kan tænke højt sammen med andre eller reflektere i stilhed, alt efter opgaven. Tip: Hold øje med din energi efter forskellige slags dage. Brug den viden til at skabe en ugerytme, der blander social kontakt og stille tid i det forhold, der passer dig.",
+      "high": "Du hælder mod ekstroversion (E). Du får energi fra mennesker, samtaler og aktivitet, og du tænker ofte bedst ved at tale tingene igennem. Du er hurtig til at engagere dig, let at gå til og tryg i grupper. Lange perioder alene kan gøre dig rastløs. Tip: Hold en kort pause, før du reagerer i en diskussion, og stil først ét spørgsmål; det giver de mere stille plads og skærper din egen tænkning. Sæt korte stunder af til refleksion, så du kan bearbejde det, du oplever."
+    },
+    "sensing": {
+      "name": "Sansning vs. intuition",
+      "short": "Om du primært fokuserer på konkrete fakta, detaljer og erfaring (S) eller på mønstre, muligheder og det store billede (N).",
+      "low": "Du hælder mod intuition (N). Du søger naturligt efter mening, mønstre og fremtidige muligheder, og du nyder idéer, teorier og at forestille dig, hvad der kunne være. Rutinedetaljer kan kede dig, og nogle gange springer du trin over for at nå frem til det store billede. Tip: Når du deler en vision, så tilføj konkrete eksempler og næste skridt, så andre kan følge med. Bed en detaljeorienteret kollega om at tjekke dine planer for praktiske huller, før du forpligter dig.",
+      "mid": "Du ligger tæt på midten mellem sansning og intuition, så dit bogstav kan variere fra situation til situation. Du kan arbejde med hårde fakta og detaljer, men nyder også at udforske idéer og muligheder. Det gør dig i stand til at bygge bro mellem praktikere og visionære. Tip: Læg mærke til, hvilken tilstand du falder tilbage på under pres. Ved vigtige beslutninger kan du bevidst tjekke begge dele: Hvad siger fakta, og hvilke nye muligheder kunne være værd at overveje?",
+      "high": "Du hælder mod sansning (S). Du stoler på fakta, erfaring og det, du kan se og afprøve. Du lægger mærke til detaljer, foretrækker klare instruktioner og kan lide idéer med praktisk nytte. Folk regner med din realisme og præcision. Tip: Når andre deler abstrakte idéer, så giv dem et øjeblik, før du vurderer, om de er praktiske; nogle af dem kan vokse sig til noget brugbart. Prøv en gang imellem at forestille dig, hvor en tendens kan føre hen om fem år, så du udvider dit udsyn."
+    },
+    "thinking": {
+      "name": "Tænkning vs. følelse",
+      "short": "Om du primært træffer beslutninger gennem logik og objektiv analyse (T) eller gennem personlige værdier og betydningen for mennesker (F).",
+      "low": "Du hælder mod følelse (F). Du træffer beslutninger ved at afveje værdier, relationer og hvordan mennesker bliver påvirket. Du værdsætter harmoni og venlighed og fornemmer hurtigt, hvad andre har brug for. Folk føler sig ofte forstået af dig. Tip: Når en beslutning er svær, så skriv også de objektive fordele og ulemper ned; det kan gøre dit valg lettere at forklare. Husk, at ærlig feedback givet med varme også er en form for omsorg.",
+      "mid": "Du ligger tæt på midten mellem tænkning og følelse, så dit bogstav kan variere fra situation til situation. Du vejer både logik og den menneskelige betydning, når du beslutter, og det hjælper dig med at finde retfærdige, afbalancerede løsninger. Tip: Læg mærke til, om du læner dig op ad logik på arbejdet og følelser derhjemme eller omvendt. Ved vigtige beslutninger kan du bevidst tjekke begge dele: Er det fornuftigt, og er det fair over for de involverede?",
+      "high": "Du hælder mod tænkning (T). Du beslutter ud fra logik, konsekvens og objektiv analyse. Du værdsætter retfærdighed i betydningen at de samme regler gælder for alle, og du kan give hård feedback uden at lade dig rive med af følelser. Tip: Før du deler kritik, så anerkend indsatsen eller hensigten bag andres arbejde. Spørg dig selv, hvordan en beslutning vil føles for dem, den berører; det øger ofte opbakningen uden at svække din argumentation."
+    },
+    "judging": {
+      "name": "Struktur vs. fleksibilitet",
+      "short": "Om du foretrækker et planlagt, afklaret og struktureret liv (J) eller et fleksibelt, åbent og spontant liv (P).",
+      "low": "Du hælder mod fleksibilitet (P). Du kan lide at holde mulighederne åbne, tilpasse dig undervejs og beslutte, når du er nødt til det. Du arbejder ofte i energiudbrud og føler dig klemt af stive skemaer. Det gør dig fleksibel og opfindsom, når planer ændrer sig. Tip: Brug en let struktur til det vigtigste, for eksempel ét system til påmindelser om deadlines. Del store projekter op i små delmål, så slutspurten ikke bliver stressende.",
+      "mid": "Du ligger tæt på midten mellem struktur og fleksibilitet, så dit bogstav kan variere. Du kan lide at have en plan, men kan let droppe den, når noget bedre dukker op. Du kan overholde deadlines og stadig nyde spontanitet. Tip: Læg mærke til, hvor lidt mere planlægning ville mindske stress, for eksempel ved rejser eller økonomi, og hvor mere fleksibilitet ville gøre tingene sjovere. Justér bevidst i stedet for af vane.",
+      "high": "Du hælder mod struktur (J). Du kan lide at planlægge i forvejen, træffe beslutninger og få afsluttet ting. Klare skemaer, lister og deadlines giver dig en følelse af kontrol, og du gør som regel opgaver færdige i god tid. Tip: Byg lidt luft ind i dine planer, så overraskelser ikke slår dig ud. Når andre arbejder på en løsere måde, så aftal de vigtigste deadlines, og lad dem selv vælge vejen derhen."
+    }
+  },
+  "summary": "Din type kombinerer fire præferencer: ekstroversion eller introversion (E/I), sansning eller intuition (S/N), tænkning eller følelse (T/F) og struktur eller fleksibilitet (J/P). Hver skala viser, hvor stærkt du hælder mod den ene side; scorer omkring 50 % betyder, at du bruger begge sider ret fleksibelt. Typer beskriver præferencer, ikke evner, og ingen type er bedre end en anden.",
+  "types": {
+    "ISTJ": {
+      "name": "Ankeret",
+      "text": "Du er stabil, grundig og dybt pålidelig. Du respekterer fakta, holder dine løfter og arbejder metodisk dig igennem opgaver, til de er gjort ordentligt. Folk regner med dig, fordi du gør, hvad du siger. Du foretrækker klare forventninger og afprøvede metoder, og du opdager fejl, som andre overser. Din stille styrke holder teams og familier sammen. Udviklingstip: Vær åben for nye tilgange, også når den gamle måde stadig virker; nogle gange giver et eksperiment en reel forbedring. Sig din påskønnelse af andre højt, for din loyalitet er ikke altid synlig. Giv dig tid til hvile uden først at skulle gøre dig fortjent til den."
+    },
+    "ISFJ": {
+      "name": "Beskytteren",
+      "text": "Du er omsorgsfuld, samvittighedsfuld og stille hengiven. Du husker, hvad der betyder noget for folk, lægger mærke til deres behov og hjælper på praktiske måder, ofte uden at blive bedt om det. Du værdsætter traditioner, stabilitet og harmoni, og du gør dig umage for, at andre føler sig trygge og godt tilpas. Din venlighed er af den stabile slags, som folk kan regne med i årevis. Udviklingstip: Dine egne behov fortjener samme opmærksomhed, som du giver andre, så øv dig i at sige nej uden dårlig samvittighed. Sig til, når noget generer dig, i stedet for stille at sluge det. At lade andre støtte dig styrker relationer i stedet for at belaste dem."
+    },
+    "INFJ": {
+      "name": "Den stille visionær",
+      "text": "Du kombinerer dyb indsigt i mennesker med en stærk følelse af formål. Du fornemmer understrømme i relationer, tænker langsigtet og ønsker, at dit liv bidrager til noget meningsfuldt. Du er privat, men varm, og de mennesker, du lukker ind, føler sig virkelig set. Dine idealer giver dig retning og beslutsomhed. Udviklingstip: Dine høje standarder kan blive til udmattelse eller skuffelse, når virkeligheden ikke lever op til dem, så fejr fremskridt, ikke kun perfektion. Del dine idéer tidligere i stedet for at vente, til de er helt færdige. Beskyt din energi ved at sætte grænser, før du føler dig overvældet, ikke bagefter."
+    },
+    "INTJ": {
+      "name": "Den store strateg",
+      "text": "Du er selvstændig, analytisk og fokuseret på langsigtede mål. Du ser, hvordan systemer hænger sammen, opdager hurtigt ineffektivitet og kan lide at udtænke bedre måder at gøre tingene på. Du stoler på din egen tænkning og er villig til at gå din egen vej for at nå en vision. Din beslutsomhed kan gøre ambitiøse idéer til virkelighed. Udviklingstip: Andre følger måske ikke din logik lige så hurtigt som du, så forklar din tankegang trin for trin, og bed om feedback. Husk, at folks følelser også er data. Giv plads til ufuldkomne første versioner; fremskridt slår ofte en fejlfri plan, der venter."
+    },
+    "ISTP": {
+      "name": "Mekanikeren",
+      "text": "Du er rolig, praktisk og nysgerrig på, hvordan ting fungerer. Du kan lide at forstå problemer gennem hænderne, skille ting ad og finde effektive løsninger. I en krise bevarer du roen og handler beslutsomt, mens andre stadig snakker. Du værdsætter frihed og bryder dig ikke om unødvendige regler eller lange møder. Udviklingstip: Del oftere dine tanker med andre, for din tavshed kan blive misforstået som manglende interesse. Forpligt dig til nogle få langsigtede mål, så dine mange færdigheder bygger op mod noget større. Lad dine nærmeste vide, hvad du føler; små ord af påskønnelse vejer tungt."
+    },
+    "ISFP": {
+      "name": "Den blide kunstner",
+      "text": "Du er følsom, venlig og har sans for skønhed og nuet. Du udtrykker dig mere gennem handlinger og kreativitet end gennem ord, og du værdsætter ægthed og frihed. Du er tolerant, åben og loyal over for de mennesker og sager, du holder af. Din blide tilstedeværelse får andre til at føle sig accepteret. Udviklingstip: Du undgår måske konflikter, indtil frustrationen hober sig op, så øv dig i at give udtryk for små bekymringer tidligt. Omsæt dine værdier til nogle få konkrete mål, så dine talenter får retning. Tro nok på dit arbejde til at vise det til andre; dit perspektiv fortjener at blive set."
+    },
+    "INFP": {
+      "name": "Drømmeren",
+      "text": "Du er idealistisk, fantasifuld og styret af stærke indre værdier. Du søger mening i alt, hvad du gør, og går meget op i ægthed, både hos dig selv og andre. Du forstår følelser godt og udtrykker dem ofte gennem skrivning, kunst eller eftertænksomme samtaler. Du er blid, åben og loyal over for det, du tror på. Udviklingstip: Dine idealer er et kompas, men virkeligheden er sjældent perfekt; tag små praktiske skridt i stedet for at vente på det ideelle øjeblik. Vær lige så medfølende over for dig selv, som du er over for andre. Del dine drømme med mennesker, der kan hjælpe med at gøre dem virkelige."
+    },
+    "INTP": {
+      "name": "Problemknuseren",
+      "text": "Du er logisk, opfindsom og uendeligt nysgerrig. Du elsker at analysere idéer, finde uoverensstemmelser og bygge teorier, der forklarer, hvordan tingene virkelig hænger sammen. Du tænker selvstændigt og nyder dybe samtaler om komplekse emner. Dit sind kan se originale løsninger, som andre overser. Udviklingstip: Idéer når deres fulde potentiale, når de bliver delt og brugt, så sæt dig små deadlines for at gøre dit arbejde færdigt og præsentere det. Vær opmærksom på praktiske detaljer og på, hvordan andre har det; det betyder noget, også når det virker ulogisk. Søg mennesker med samme interesser som dig; de vil give din tænkning ny energi."
+    },
+    "ESTP": {
+      "name": "Eventyreren",
+      "text": "Du er energisk, modig og handlingsorienteret. Du lever i nuet, læser situationer hurtigt og trives, når tingene går stærkt. Du nyder udfordringer, tager kloge chancer og løser praktiske problemer på stedet. Folk tiltrækkes af din selvtillid og dit gode humør. Udviklingstip: Tænk de langsigtede konsekvenser igennem, før du kaster dig ud i noget, især når det gælder penge og relationer. Øv dig i tålmodighed med langsommere processer og med mennesker, der har brug for mere tid til at beslutte sig. Overvej, hvordan din direkte stil lander hos følsomme mennesker; lidt takt gør din indflydelse endnu stærkere."
+    },
+    "ESFP": {
+      "name": "Gnisten",
+      "text": "Du er livlig, varm og livsglad. Du bringer energi ind i ethvert rum, nyder mennesker og oplevelser og får hverdagsøjeblikke til at føles særlige. Du er praktisk, gavmild og hurtig til at hjælpe en, der har det svært. Din begejstring smitter, og folk nyder at være sammen med dig. Udviklingstip: Det kan føles kedeligt at planlægge, men lidt struktur i økonomien og de langsigtede mål giver dig mere frihed senere. Tag de svære samtaler i stedet for at distrahere dig selv. Tag dig nogle stille stunder til at mærke efter, hvad du virkelig vil, ikke kun hvad der føles godt lige nu."
+    },
+    "ENFP": {
+      "name": "Inspiratoren",
+      "text": "Du er entusiastisk, kreativ og fuld af muligheder. Du får let kontakt med mennesker, ser potentiale overalt og elsker at starte nye projekter og samtaler. Din varme og fantasi opmuntrer andre til at drømme større. Du værdsætter frihed, ægthed og meningsfulde relationer. Udviklingstip: Dine mange idéer har brug for fokus for at blive til resultater, så vælg nogle få prioriteter, og før dem helt igennem. Opbyg enkle rutiner for de praktiske opgaver, du synes er kedelige. Når humøret daler efter begejstringen ved en ny start, så husk, at meget af den virkelige belønning ligger i at holde fast."
+    },
+    "ENTP": {
+      "name": "Innovatøren",
+      "text": "Du er kvik, opfindsom og elsker en god debat. Du ser nye vinkler på gamle problemer, udfordrer antagelser og nyder at eksperimentere med idéer. Du tilpasser dig hurtigt og får energi af komplekse udfordringer og kloge mennesker. Din nysgerrighed driver dig til at forbedre næsten alt, hvad du rører ved. Udviklingstip: Ikke enhver diskussion skal vindes, og nogle oplever debat som konflikt, så læs stemningen. Før dine bedste idéer ud i livet i stedet for at gå videre til den næste for tidligt. Gå sammen med detaljeorienterede mennesker, der kan hjælpe dig med at gøre koncepter til virkelighed."
+    },
+    "ESTJ": {
+      "name": "Kaptajnen",
+      "text": "Du er organiseret, beslutsom og praktisk. Du kan lide klare mål, effektive processer og at få tingene gjort. Du tager naturligt ansvar, sætter høje standarder og sørger for, at planer bliver ført ud i livet. Folk sætter pris på din direkte stil og din pålidelighed. Udviklingstip: Din effektive stil kan opleves som kontrollerende af andre, så bed om input, før du beslutter, og forklar hvorfor. Vær åben for nye metoder, også når den nuværende virker. Vis påskønnelse af folks indsats, ikke kun deres resultater; anerkendelse motiverer lige så meget som klare instruktioner."
+    },
+    "ESFJ": {
+      "name": "Værten",
+      "text": "Du er social, omsorgsfuld og fællesskabsorienteret. Du lægger mærke til, hvad folk har brug for, får dem til at føle sig velkomne og kan lide at samle mennesker. Du værdsætter harmoni, loyalitet og traditioner, og du gør en reel indsats for at få relationer og grupper til at fungere godt. Folk føler sig taget godt af sig i dit selskab. Udviklingstip: Du tager måske kritik eller konflikter personligt, så mind dig selv om, at uenighed ikke er afvisning. Mærk efter, om du hjælper, fordi du har lyst, eller fordi du føler, du skal. Giv plads til dine egne behov og meninger; de betyder lige så meget som alle andres."
+    },
+    "ENFJ": {
+      "name": "Mentoren",
+      "text": "Du er varm, inspirerende og fokuseret på at hjælpe mennesker med at vokse. Du læser andre godt, får det bedste frem i dem og samler grupper om et fælles formål. Du kommunikerer med begejstring og overbevisning og føler ansvar for trivslen hos dem omkring dig. Folk søger ofte dine råd. Udviklingstip: Du kan ikke bære alle, så lad andre tage ansvar for deres egne valg. Læg mærke til, når du påtager dig for meget eller forsømmer dine egne behov. Accepter, at nogle vil være uenige med dig; at de vælger en anden vej, siger intet om dit værd."
+    },
+    "ENTJ": {
+      "name": "Chefen",
+      "text": "Du er selvsikker, strategisk og drevet af at opnå resultater. Du ser det store billede, sætter ambitiøse mål og organiserer mennesker og ressourcer for at nå dem. Du træffer hurtige beslutninger, kommunikerer klart og er ikke bange for udfordringer eller ansvar. Andre ser ofte til dig for at lede. Udviklingstip: Din fart og direkte stil kan overvælde folk, så sæt tempoet ned for at lytte og anerkende følelser. Husk, at motivationen vokser, når folk føler sig hørt, ikke kun instrueret. Giv plads til hvile og relationer; langsigtet succes afhænger af mere end resultater alene."
+    }
+  }
+}

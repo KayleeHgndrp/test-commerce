@@ -1,0 +1,206 @@
+{
+  "name": "16 persoonallisuustyypin testi",
+  "tagline": "Löydä nelikirjaiminen tyyppisi ja se, mitä se kertoo sinusta.",
+  "intro": "Tämä testi sijoittaa sinut neljälle mieltymysasteikolle: mistä saat energiasi, miten otat vastaan tietoa, miten teet päätöksiä ja miten järjestät elämäsi. Neljä mieltymystäsi muodostavat yhden 16 persoonallisuustyypistä. Arvioi 100 lyhyttä väittämää; testi vie noin viisi minuuttia.",
+  "seoTitle": "16 persoonallisuustyyppiä – ilmainen testi",
+  "seoDescription": "Selvitä nelikirjaiminen persoonallisuustyyppisi 5 minuutissa. Näe mieltymyksesi jokaisella asteikolla ja lue tyyppisi kuvaus käytännön vinkkeineen.",
+  "items": [
+    "Ajattelen parhaiten, kun käyn ideoita läpi ääneen muiden kanssa.",
+    "Mietin usein, mitä tulevaisuus voisi tuoda tullessaan.",
+    "Teen päätökset ensisijaisesti logiikan perusteella.",
+    "Haluan pitää vaihtoehdot avoinna.",
+    "Luotan enemmän faktoihin kuin aavistuksiin.",
+    "Tarvitsen omaa aikaa latautuakseni seurustelun jälkeen.",
+    "Haluan, että päiväni on suunniteltu etukäteen.",
+    "Punnitsen, miten valintani vaikuttavat muiden tunteisiin.",
+    "Uusien ihmisten tapaaminen antaa minulle virtaa.",
+    "Nautin piilevien kuvioiden ja merkitysten löytämisestä.",
+    "Arvostan rehellisyyttä enemmän kuin hienotunteisuutta.",
+    "Tykkään päättää asioista hetken mielijohteesta.",
+    "Huomaan pieniä yksityiskohtia, jotka muilta jäävät huomaamatta.",
+    "Käyn mieluummin yhden syvällisen keskustelun kuin monta kevyttä.",
+    "Tunnen helpotusta, kun päätös on tehty.",
+    "Rauhan säilyttäminen on minulle tärkeää.",
+    "Viihdyn työskennellä avoimessa, eloisassa tilassa.",
+    "Rutiininomaiset yksityiskohdat tylsistyttävät minua.",
+    "Pystyn pysymään etäisenä ratkaistessani ristiriitoja.",
+    "Työskentelen parhaiten viime hetken paineessa.",
+    "Pidän vaihe vaiheelta etenevistä ohjeista.",
+    "Mietin asiat loppuun ennen kuin sanon ne ääneen.",
+    "Saan tehtävät valmiiksi hyvissä ajoin ennen määräaikaa.",
+    "Päätän enemmän sydämelläni kuin järjelläni.",
+    "Liityn nopeasti keskusteluun.",
+    "Luotan vaistooni mahdollisuuksien suhteen.",
+    "Tykkään analysoida hyvät ja huonot puolet objektiivisesti.",
+    "Tiukat aikataulut tuntuvat minusta rajoittavilta.",
+    "Keskityn siihen, mitä tapahtuu juuri nyt.",
+    "Rauhallinen ilta kotona on minulle ihanteellinen.",
+    "Haluan tietää, mitä on odotettavissa.",
+    "Minun on vaikea kritisoida ihmisiä, joista pidän.",
+    "Ihmisten seurassa oleminen lataa akkujani.",
+    "Tykkään kuvitella, miten asiat voisivat olla toisin.",
+    "Sääntöjen pitäisi koskea kaikkia samalla tavalla.",
+    "Pyöritän usein useita projekteja yhtä aikaa.",
+    "Pidän ideoista, joilla on selkeä käytännön hyöty.",
+    "Pidän ajatukseni omana tietonani, kunnes ne ovat selkeitä.",
+    "Teen listoja ja pidän niistä kiinni.",
+    "Toisen ihmisen tarina liikuttaa minua helposti.",
+    "Haluan, että minulla on laaja ystäväpiiri.",
+    "Luen usein rivien välistä.",
+    "Tuon epäröimättä esiin suunnitelmien puutteet.",
+    "Annan mielelläni päivän viedä mukanaan.",
+    "Muistan hyvin tarkkoja faktoja ja lukuja.",
+    "Väkijoukot väsyttävät minut nopeasti.",
+    "Lyön suunnitelmat mieluummin lukkoon ajoissa.",
+    "Teen poikkeuksia vaikeissa tilanteissa oleville ihmisille.",
+    "Kerron usein ajatukseni sitä mukaa kuin ne syntyvät.",
+    "Pidän teorioista enemmän kuin käytännön työstä.",
+    "Minut vakuuttavat perustelut, eivät tunteet.",
+    "Muutan suunnitelmia helposti, jos jotain parempaa tulee vastaan.",
+    "Opin parhaiten tekemällä itse.",
+    "Työskentelen mieluummin yksin kuin tiimissä.",
+    "Keskeneräiset asiat tekevät minut levottomaksi.",
+    "Haluan, että kaikki tuntevat olevansa mukana päätöksenteossa.",
+    "Suunnitelmia täynnä olevat viikonloput tekevät minut iloiseksi.",
+    "Puhun mielelläni vertauskuvin ja mielikuvin.",
+    "Olen mieluummin oikeassa kuin pidetty.",
+    "Lykkään päätöksiä, kunnes ne on pakko tehdä.",
+    "Suosin hyviksi havaittuja menetelmiä testaamattomien sijaan.",
+    "Annan ryhmässä muiden ottaa puheenvuoron.",
+    "Pidän kalenterini ajan tasalla.",
+    "Ryhmän jännitteet vaikuttavat minuun syvästi.",
+    "Tulen levottomaksi, jos olen liian pitkään yksin.",
+    "Hyppään nopeasti kokonaiskuvaan.",
+    "Reiluus tarkoittaa minulle johdonmukaisuutta.",
+    "Aloitan monia asioita ja viimeistelen ne myöhemmin.",
+    "Kuvailen asioita kirjaimellisesti ja tarkasti.",
+    "Lähetän mieluummin viestin kuin soitan.",
+    "Haluan saada yhden tehtävän valmiiksi ennen kuin aloitan seuraavan.",
+    "Ystävällisyys on minulle tärkeämpää kuin oikeassa oleminen.",
+    "Nautin seurustelusta tapahtumissa.",
+    "Uudet ideat innostavat minua enemmän kuin käytännön faktat.",
+    "Minun on helppo antaa kriittistä palautetta.",
+    "Pakkaan laukkuni viime tingassa.",
+    "Haluan nähdä todisteita ennen kuin uskon johonkin.",
+    "Minulla on pieni läheisten ystävien piiri.",
+    "Ärsyynnyn, kun suunnitelmat muuttuvat viime hetkellä.",
+    "Otan usein työhöni kohdistuvan kritiikin henkilökohtaisesti.",
+    "Aloitan helposti juttelun tuntemattomien kanssa.",
+    "Ohitan usein ohjeet ja selvitän asian itse.",
+    "Nautin väittelystä ideoiden koettelemiseksi.",
+    "Avoimet, suunnittelemattomat päivät tuntuvat vapauttavilta.",
+    "Nautin tehtävistä, joissa on konkreettisia, näkyviä tuloksia.",
+    "Pitkä palaveripäivä vie minulta voimat.",
+    "Pidän työssäni selkeästä rakenteesta.",
+    "Luotan siihen, että arvoni ohjaavat valintojani.",
+    "Ideoin mieluummin ryhmässä kuin ajattelen yksin.",
+    "Minua vetää puoleensa kaikki uusi ja kokeilematon.",
+    "Arvioin ratkaisua sen mukaan, miten hyvin se toimii.",
+    "Mukautan suunnitelmiani mielialani mukaan.",
+    "Nojaan aiempaan kokemukseeni ongelmia ratkaistessani.",
+    "Ihmisten on joskus aluksi vaikea tulkita minua.",
+    "Järjestän lomani hyvissä ajoin etukäteen.",
+    "Kannustan mieluummin kuin kritisoin.",
+    "Olen yleensä ensimmäisten joukossa äänessä.",
+    "Kiinnitän enemmän huomiota nykyhetkeen kuin tulevaisuuteen.",
+    "Arvostan työssä pätevyyttä enemmän kuin ystävällisyyttä.",
+    "Hoidan mielelläni keskeneräiset asiat pikaisesti pois alta."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Ekstroversio vs. introversio",
+      "short": "Saatko energiasi pääasiassa ulkomaailmasta, ihmisistä ja toiminnasta (E), vai sisäisestä maailmastasi, ajatuksista ja pohdinnasta (I).",
+      "low": "Kallistut introversioon (I). Lataudut hiljaisuudessa, ajattelet ennen kuin puhut ja käyt mieluummin muutaman syvällisen keskustelun kuin monta lyhyttä. Käsittelet ideoita usein mielessäsi ja jaat ne vasta, kun ne ovat valmiita. Kiireiset sosiaaliset päivät voivat väsyttää sinua, vaikka olisit nauttinut niistä. Vinkki: suunnittele palautumisaikaa tiiviiden sosiaalisten tilanteiden jälkeen ja pidä sitä huoltona, et välttelynä. Valmistele ryhmätilanteissa näkemyksesi etukäteen tai täydennä niitä jälkikäteen kirjallisesti, jotta ideasi tulevat kuulluiksi.",
+      "mid": "Sijoitut lähelle ekstroversion ja introversion välistä keskikohtaa, joten kirjaimesi voi vaihdella mielialan tai tilanteen mukaan. Nautit seurasta ja toiminnasta, mutta tarvitset myös omaa aikaa latautuaksesi. Voit ajatella ääneen muiden kanssa tai pohtia hiljaa, tehtävästä riippuen. Vinkki: tarkkaile energiaasi erilaisten päivien jälkeen. Käytä tätä tietoa rakentaaksesi viikkorytmin, jossa sosiaalinen kanssakäyminen ja hiljainen aika vuorottelevat sinulle sopivassa suhteessa.",
+      "high": "Kallistut ekstroversioon (E). Saat energiaa ihmisistä, keskustelusta ja toiminnasta, ja ajattelet usein parhaiten puhumalla asiat läpi. Lähdet nopeasti mukaan, olet helposti lähestyttävä ja viihdyt ryhmissä. Pitkät jaksot yksin voivat tehdä sinut levottomaksi. Vinkki: ennen kuin reagoit keskustelussa, pidä pieni tauko ja esitä ensin yksi kysymys; se antaa tilaa hiljaisemmille ja terävöittää omaa ajatteluasi. Varaa lyhyitä pohdintahetkiä kokemustesi käsittelyyn."
+    },
+    "sensing": {
+      "name": "Aistiminen vs. intuitio",
+      "short": "Keskitytkö pääasiassa konkreettisiin faktoihin, yksityiskohtiin ja kokemukseen (S), vai kuvioihin, mahdollisuuksiin ja kokonaiskuvaan (N).",
+      "low": "Kallistut intuitioon (N). Etsit luontaisesti merkityksiä, kuvioita ja tulevaisuuden mahdollisuuksia, ja nautit ideoista, teorioista ja sen kuvittelemisesta, mitä voisi olla. Rutiininomaiset yksityiskohdat voivat tylsistyttää sinua, ja hyppäät joskus vaiheiden yli päästäksesi kokonaiskuvaan. Vinkki: kun jaat vision, lisää konkreettisia esimerkkejä ja seuraavat askeleet, jotta muut pysyvät mukana. Pyydä yksityiskohtiin keskittyvää kollegaa tarkistamaan suunnitelmasi käytännön aukkojen varalta ennen kuin sitoudut.",
+      "mid": "Sijoitut lähelle aistimisen ja intuition välistä keskikohtaa, joten kirjaimesi voi vaihdella tilanteesta toiseen. Pystyt työskentelemään kovien faktojen ja yksityiskohtien kanssa, mutta nautit myös ideoiden ja mahdollisuuksien tutkimisesta. Tämä auttaa sinua toimimaan siltana käytännön ihmisten ja visionäärien välillä. Vinkki: huomaa, kumpaan tilaan ajaudut paineen alla. Tarkista tärkeissä päätöksissä tietoisesti molemmat: mitä faktat sanovat, ja mitä uusia vaihtoehtoja voisi olla syytä harkita?",
+      "high": "Kallistut aistimiseen (S). Luotat faktoihin, kokemukseen ja siihen, minkä voit nähdä ja testata. Huomaat yksityiskohtia, pidät selkeistä ohjeista ja arvostat ideoita, joilla on käytännön hyötyä. Ihmiset luottavat realismiisi ja tarkkuuteesi. Vinkki: kun muut esittävät abstrakteja ideoita, anna niille hetki ennen kuin arvioit niiden käytännöllisyyttä; jotkin niistä voivat kasvaa hyödyllisiksi. Yritä silloin tällöin kuvitella, mihin jokin trendi voisi johtaa viiden vuoden päästä, laajentaaksesi näkökulmaasi."
+    },
+    "thinking": {
+      "name": "Ajattelu vs. tunne",
+      "short": "Teetkö päätökset pääasiassa logiikan ja objektiivisen analyysin (T) vai henkilökohtaisten arvojen ja ihmisiin kohdistuvien vaikutusten (F) perusteella.",
+      "low": "Kallistut tunteeseen (F). Teet päätöksiä punnitsemalla arvoja, ihmissuhteita ja sitä, miten ihmiset kokevat asian. Arvostat harmoniaa ja ystävällisyyttä, ja aistit nopeasti, mitä muut tarvitsevat. Ihmiset tuntevat usein tulevansa ymmärretyiksi seurassasi. Vinkki: kun päätös on vaikea, kirjoita ylös myös objektiiviset hyvät ja huonot puolet; se voi helpottaa valintasi perustelemista. Muista, että lämpimästi annettu rehellinen palaute on myös välittämistä.",
+      "mid": "Sijoitut lähelle ajattelun ja tunteen välistä keskikohtaa, joten kirjaimesi voi vaihdella tilanteesta toiseen. Punnitset päättäessäsi sekä logiikkaa että vaikutuksia ihmisiin, mikä auttaa sinua löytämään reiluja ja tasapainoisia ratkaisuja. Vinkki: huomaa, nojaatko töissä logiikkaan ja kotona tunteisiin, vai toisin päin. Tarkista tärkeissä päätöksissä tietoisesti molemmat: onko ratkaisu järkevä, ja onko se reilu asianosaisille?",
+      "high": "Kallistut ajatteluun (T). Teet päätökset logiikan, johdonmukaisuuden ja objektiivisen analyysin avulla. Reiluus tarkoittaa sinulle samojen sääntöjen soveltamista kaikkiin, ja pystyt antamaan tiukkaakin palautetta tunteiden horjuttamatta. Vinkki: ennen kuin esität kritiikkiä, tunnusta työn taustalla oleva vaiva tai hyvä tarkoitus. Kysy, miltä päätös tuntuu niistä, joihin se vaikuttaa; se parantaa usein hyväksyntää heikentämättä perustelujasi."
+    },
+    "judging": {
+      "name": "Järjestelmällisyys vs. spontaanius",
+      "short": "Pidätkö suunnitellusta, päätetystä ja jäsennellystä elämästä (J), vai joustavasta, avoimesta ja spontaanista (P).",
+      "low": "Kallistut spontaaniuteen (P). Haluat pitää vaihtoehdot avoinna, sopeutua matkan varrella ja päättää silloin, kun on pakko. Työskentelet usein energiapurskeissa ja tunnet olosi ahdistetuksi jäykissä aikatauluissa. Tämä tekee sinusta joustavan ja kekseliään, kun suunnitelmat muuttuvat. Vinkki: käytä kevyttä rakennetta olennaisimpiin asioihin, kuten yhtä muistutusjärjestelmää määräajoille. Pilko isot projektit pieniin välitavoitteisiin, jotta loppukiri ei muutu stressaavaksi.",
+      "mid": "Sijoitut lähelle järjestelmällisyyden ja spontaaniuden välistä keskikohtaa, joten kirjaimesi voi vaihdella. Pidät siitä, että sinulla on suunnitelma, mutta luovut siitä helposti, kun jotain parempaa tulee vastaan. Pystyt pitämään määräajat ja nauttimaan silti spontaaniudesta. Vinkki: huomaa, missä hieman enemmän suunnittelua vähentäisi stressiä, esimerkiksi matkoissa tai raha-asioissa, ja missä enemmän joustavuutta toisi iloa. Säädä tietoisesti, älä tottumuksesta.",
+      "high": "Kallistut järjestelmällisyyteen (J). Haluat suunnitella etukäteen, tehdä päätöksiä ja saattaa asiat päätökseen. Selkeät aikataulut, listat ja määräajat antavat sinulle hallinnan tunteen, ja saat tehtävät yleensä valmiiksi hyvissä ajoin. Vinkki: jätä suunnitelmiisi hieman väljyyttä, jotta yllätykset eivät suista sinua raiteiltaan. Kun muut työskentelevät vapaammin, sopikaa tärkeimmistä määräajoista ja antakaa heidän valita itse, miten he pääsevät perille."
+    }
+  },
+  "summary": "Tyyppisi yhdistää neljä mieltymystä: ekstroversio tai introversio (E/I), aistiminen tai intuitio (S/N), ajattelu tai tunne (T/F) sekä järjestelmällisyys tai spontaanius (J/P). Jokainen asteikko näyttää, kuinka vahvasti kallistut jompaankumpaan suuntaan; 50 %:n tuntumassa olevat pisteet tarkoittavat, että käytät kumpaakin puolta melko joustavasti. Tyypit kuvaavat mieltymyksiä, eivät kykyjä, eikä mikään tyyppi ole toista parempi.",
+  "types": {
+    "ISTJ": {
+      "name": "Ankkuri",
+      "text": "Olet vakaa, perusteellinen ja erittäin luotettava. Kunnioitat faktoja, pidät lupauksesi ja työstät tehtäviä järjestelmällisesti, kunnes ne on tehty kunnolla. Ihmiset luottavat sinuun, koska teet sen, mitä sanot. Pidät selkeistä odotuksista ja hyviksi havaituista menetelmistä, ja huomaat virheet, jotka muilta jäävät näkemättä. Hiljainen vahvuutesi pitää tiimit ja perheet koossa. Kasvun vinkki: pysy avoimena uusille toimintatavoille, vaikka vanha tapa yhä toimisi; joskus kokeilu tuo todellisen parannuksen. Ilmaise arvostuksesi muita kohtaan ääneen, sillä lojaalisuutesi ei aina näy. Varaa aikaa levolle ilman, että sinun täytyy ensin ansaita se."
+    },
+    "ISFJ": {
+      "name": "Huolehtija",
+      "text": "Olet välittävä, tunnollinen ja hiljaisen omistautunut. Muistat, mikä ihmisille on tärkeää, huomaat heidän tarpeensa ja autat käytännössä, usein pyytämättä. Arvostat perinteitä, vakautta ja harmoniaa, ja teet paljon töitä, jotta muut tuntisivat olonsa turvalliseksi ja mukavaksi. Ystävällisyytesi on sitä vakaata lajia, johon ihmiset voivat luottaa vuosia. Kasvun vinkki: omat tarpeesi ansaitsevat saman huomion kuin muiden, joten harjoittele kieltäytymistä ilman syyllisyyttä. Sano, kun jokin vaivaa sinua, sen sijaan että nielisit sen hiljaa. Kun annat muiden tukea sinua, se vahvistaa suhteita eikä kuormita niitä."
+    },
+    "INFJ": {
+      "name": "Hiljainen visionääri",
+      "text": "Yhdistät syvän ihmistuntemuksen vahvaan tarkoituksen tunteeseen. Aistit ihmissuhteiden pohjavirrat, ajattelet pitkällä tähtäimellä ja haluat elämäsi edistävän jotakin merkityksellistä. Olet yksityinen mutta lämmin, ja ihmiset, jotka päästät lähellesi, tuntevat tulevansa todella nähdyiksi. Ihanteesi antavat sinulle suunnan ja päättäväisyyttä. Kasvun vinkki: korkeat vaatimuksesi voivat muuttua uupumukseksi tai pettymykseksi, kun todellisuus ei yllä niihin, joten juhli edistymistä, älä vain täydellisyyttä. Jaa ideasi aiemmin äläkä odota, että ne ovat täysin valmiita. Suojele energiaasi asettamalla rajoja ennen kuin tunnet olevasi ylikuormittunut, ei vasta sen jälkeen."
+    },
+    "INTJ": {
+      "name": "Suurstrategi",
+      "text": "Olet itsenäinen, analyyttinen ja keskittynyt pitkän aikavälin tavoitteisiin. Näet, miten järjestelmät sopivat yhteen, huomaat tehottomuudet nopeasti ja suunnittelet mielelläsi parempia toimintatapoja. Luotat omaan päättelyysi ja olet valmis kulkemaan omaa tietäsi vision saavuttamiseksi. Päättäväisyytesi voi muuttaa kunnianhimoiset ideat todellisuudeksi. Kasvun vinkki: muut eivät välttämättä seuraa logiikkaasi yhtä nopeasti kuin sinä, joten selitä päättelysi vaihe vaiheelta ja pyydä palautetta. Muista, että ihmisten tunteetkin ovat tietoa. Anna tilaa keskeneräisille ensimmäisille versioille; edistys voittaa usein virheettömän suunnitelman, joka jää odottamaan."
+    },
+    "ISTP": {
+      "name": "Näpertelijä",
+      "text": "Olet rauhallinen, käytännöllinen ja utelias sen suhteen, miten asiat toimivat. Haluat ymmärtää ongelmat käytännössä, purkaa asiat osiin ja löytää tehokkaita ratkaisuja. Kriisissä pysyt viileänä ja toimit päättäväisesti, kun muut vielä puhuvat. Arvostat vapautta etkä pidä turhista säännöistä tai pitkistä palavereista. Kasvun vinkki: kerro ajatuksistasi muille useammin, sillä hiljaisuutesi voidaan tulkita välinpitämättömyydeksi. Sitoudu muutamaan pitkän aikavälin tavoitteeseen, jotta monet taitosi rakentavat jotain suurempaa. Kerro läheisillesi, mitä tunnet; pienetkin arvostuksen sanat painavat paljon."
+    },
+    "ISFP": {
+      "name": "Lempeä taiteilija",
+      "text": "Olet herkkä, ystävällinen ja virittynyt kauneuteen ja nykyhetkeen. Ilmaiset itseäsi enemmän teoilla ja luovuudella kuin sanoilla, ja arvostat aitoutta ja vapautta. Olet suvaitsevainen, avarakatseinen ja uskollinen ihmisille ja asioille, joista välität. Lempeä läsnäolosi saa muut tuntemaan itsensä hyväksytyiksi. Kasvun vinkki: saatat välttää ristiriitoja, kunnes turhautuminen kasautuu, joten harjoittele pienten huolien ilmaisemista ajoissa. Muuta arvosi muutamaksi konkreettiseksi tavoitteeksi, jotta lahjoillasi on suunta. Usko työhösi niin paljon, että näytät sen muille; näkökulmasi ansaitsee tulla nähdyksi."
+    },
+    "INFP": {
+      "name": "Unelmoija",
+      "text": "Olet idealistinen, mielikuvituksellinen ja vahvojen sisäisten arvojen ohjaama. Etsit merkitystä kaikesta, mitä teet, ja välität syvästi aitoudesta, niin itsessäsi kuin muissa. Ymmärrät tunteita hyvin ja ilmaiset niitä usein kirjoittamalla, taiteen kautta tai harkituissa keskusteluissa. Olet lempeä, avarakatseinen ja uskollinen sille, mihin uskot. Kasvun vinkki: ihanteesi ovat kompassi, mutta todellisuus on harvoin täydellinen; ota pieniä käytännön askelia sen sijaan, että odottaisit täydellistä hetkeä. Ole itseäsi kohtaan yhtä myötätuntoinen kuin muita kohtaan. Jaa unelmasi ihmisten kanssa, jotka voivat auttaa toteuttamaan ne."
+    },
+    "INTP": {
+      "name": "Arvoitusten ratkaisija",
+      "text": "Olet looginen, kekseliäs ja loputtoman utelias. Rakastat ideoiden analysointia, epäjohdonmukaisuuksien löytämistä ja sellaisten teorioiden rakentamista, jotka selittävät, miten asiat todella toimivat. Ajattelet itsenäisesti ja nautit syvällisistä keskusteluista monimutkaisista aiheista. Mielesi näkee omaperäisiä ratkaisuja, jotka muilta jäävät huomaamatta. Kasvun vinkki: ideat saavuttavat potentiaalinsa, kun ne jaetaan ja niitä sovelletaan, joten aseta itsellesi pieniä määräaikoja työsi viimeistelyyn ja esittelyyn. Kiinnitä huomiota käytännön yksityiskohtiin ja muiden tunteisiin, jotka ovat tärkeitä silloinkin, kun ne vaikuttavat epäloogisilta. Hakeudu ihmisten seuraan, jotka jakavat kiinnostuksen kohteesi; he antavat ajattelullesi virtaa."
+    },
+    "ESTP": {
+      "name": "Rohkea toimija",
+      "text": "Olet energinen, rohkea ja toimintakeskeinen. Elät hetkessä, luet tilanteita nopeasti ja kukoistat, kun asiat etenevät vauhdilla. Nautit haasteista, otat harkittuja riskejä ja ratkaiset käytännön ongelmia saman tien. Ihmisiä vetää puoleensa itsevarmuutesi ja hauskuutesi. Kasvun vinkki: mieti pidemmän aikavälin seurauksia ennen kuin hyppäät mukaan, erityisesti raha-asioissa ja ihmissuhteissa. Harjoittele kärsivällisyyttä hitaampien prosessien ja sellaisten ihmisten kanssa, jotka tarvitsevat enemmän aikaa päättääkseen. Mieti, miten suora tyylisi vaikuttaa herkkiin ihmisiin; pieni hienotunteisuus tekee vaikutusvallastasi vielä vahvemman."
+    },
+    "ESFP": {
+      "name": "Kipinä",
+      "text": "Olet eloisa, lämmin ja hauskanpitoa rakastava. Tuot energiaa mihin tahansa huoneeseen, nautit ihmisistä ja elämyksistä ja teet arjen hetkistä erityisiä. Olet käytännöllinen, antelias ja autat nopeasti, kun jollakulla on vaikeaa. Innostuksesi tarttuu, ja ihmiset viihtyvät seurassasi. Kasvun vinkki: etukäteen suunnittelu voi tuntua tylsältä, mutta pieni rakenne raha-asioissa ja pitkän aikavälin tavoitteissa antaa sinulle myöhemmin enemmän vapautta. Kohtaa vaikeat keskustelut sen sijaan, että harhauttaisit itseäsi. Ota hiljaisia hetkiä pohtiaksesi, mitä todella haluat, etkä vain sitä, mikä tuntuu hyvältä juuri nyt."
+    },
+    "ENFP": {
+      "name": "Innoittaja",
+      "text": "Olet innostunut, luova ja täynnä mahdollisuuksia. Saat helposti yhteyden ihmisiin, näet potentiaalia kaikkialla ja rakastat uusien projektien ja keskustelujen aloittamista. Lämpösi ja mielikuvituksesi rohkaisevat muita unelmoimaan suuremmin. Arvostat vapautta, aitoutta ja merkityksellisiä ihmissuhteita. Kasvun vinkki: monet ideasi tarvitsevat fokusta muuttuakseen tuloksiksi, joten valitse muutama prioriteetti ja vie ne loppuun. Rakenna yksinkertaisia rutiineja käytännön tehtäviin, jotka tuntuvat tylsiltä. Kun mielialasi laskee uuden alun innostuksen jälkeen, muista, että sinnikäs loppuunvienti on usein juuri se, missä todellinen palkinto piilee."
+    },
+    "ENTP": {
+      "name": "Uudistaja",
+      "text": "Olet nokkela, kekseliäs ja rakastat hyvää väittelyä. Näet uusia näkökulmia vanhoihin ongelmiin, kyseenalaistat oletuksia ja nautit ideoiden kokeilemisesta. Sopeudut nopeasti ja saat energiaa monimutkaisista haasteista ja fiksuista ihmisistä. Uteliaisuutesi saa sinut parantamaan lähes kaikkea, mihin kosket. Kasvun vinkki: kaikkia keskusteluja ei tarvitse voittaa, ja jotkut kokevat väittelyn riitana, joten lue tilannetta. Vie parhaat ideasi loppuun sen sijaan, että siirtyisit liian aikaisin seuraavaan. Tee yhteistyötä yksityiskohtiin keskittyvien ihmisten kanssa, jotka auttavat sinua muuttamaan konseptit todellisuudeksi."
+    },
+    "ESTJ": {
+      "name": "Kapteeni",
+      "text": "Olet järjestelmällinen, päättäväinen ja käytännöllinen. Pidät selkeistä tavoitteista, tehokkaista prosesseista ja asioiden hoitamisesta. Otat luontevasti vastuuta, asetat korkeat vaatimukset ja varmistat, että suunnitelmat toteutetaan. Ihmiset arvostavat suoruuttasi ja luotettavuuttasi. Kasvun vinkki: tehokas tyylisi voi tuntua muista kontrolloivalta, joten pyydä näkemyksiä ennen kuin päätät, ja kerro miksi. Pysy avoimena uusille menetelmille, vaikka nykyinen toimisi. Osoita arvostusta ihmisten vaivannäölle, ei vain tuloksille; tunnustus motivoi muita yhtä paljon kuin selkeät ohjeet."
+    },
+    "ESFJ": {
+      "name": "Isäntä",
+      "text": "Olet sosiaalinen, välittävä ja yhteisöllinen. Huomaat, mitä ihmiset tarvitsevat, saat heidät tuntemaan olonsa tervetulleiksi ja tuot mielelläsi muita yhteen. Arvostat harmoniaa, uskollisuutta ja perinteitä, ja näet todella vaivaa pitääksesi ihmissuhteet ja ryhmät toimivina. Ihmiset tuntevat, että heistä pidetään huolta seurassasi. Kasvun vinkki: saatat ottaa kritiikin tai ristiriidat henkilökohtaisesti, joten muistuta itseäsi, ettei erimielisyys ole torjuntaa. Tarkista, autatko, koska haluat, vai koska tunnet olevasi pakotettu. Anna tilaa omille tarpeillesi ja mielipiteillesi; ne ovat yhtä tärkeitä kuin kenen tahansa muun."
+    },
+    "ENFJ": {
+      "name": "Mentori",
+      "text": "Olet lämmin, innostava ja keskittynyt auttamaan ihmisiä kasvamaan. Luet muita hyvin, tuot esiin heidän vahvuutensa ja kokoat ryhmiä yhteisen tarkoituksen ympärille. Viestit innostuneesti ja vakuuttavasti, ja tunnet olevasi vastuussa ympärilläsi olevien hyvinvoinnista. Ihmiset hakevat usein ohjaustasi. Kasvun vinkki: et voi kantaa kaikkia, joten anna muiden ottaa vastuu omista valinnoistaan. Huomaa, milloin sitoudut liikaa tai laiminlyöt omat tarpeesi. Hyväksy, että jotkut ovat kanssasi eri mieltä; heidän erilainen polkunsa ei kerro mitään sinun arvostasi."
+    },
+    "ENTJ": {
+      "name": "Johtaja",
+      "text": "Olet itsevarma, strateginen ja saavutuksiin pyrkivä. Näet kokonaiskuvan, asetat kunnianhimoisia tavoitteita ja organisoit ihmiset ja resurssit niiden saavuttamiseksi. Teet päätöksiä nopeasti, viestit selkeästi etkä pelkää haasteita tai vastuuta. Muut katsovat usein sinuun johtajana. Kasvun vinkki: vauhtisi ja suoruutesi voivat olla ihmisille liikaa, joten hidasta kuunnellaksesi ja tunnustaaksesi tunteet. Muista, että motivaatio kasvaa, kun ihmiset tuntevat tulevansa kuulluiksi, ei vain ohjatuiksi. Tee tilaa levolle ja ihmissuhteille; pitkän aikavälin menestys riippuu muustakin kuin pelkistä tuloksista."
+    }
+  }
+}

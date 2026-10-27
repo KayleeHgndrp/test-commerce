@@ -1,0 +1,206 @@
+{
+  "name": "Testul celor 16 tipuri de personalitate",
+  "tagline": "Află-ți tipul din patru litere și ce spune el despre tine.",
+  "intro": "Acest test te plasează pe patru scale de preferințe: de unde îți iei energia, cum preiei informațiile, cum iei decizii și cum îți organizezi viața. Cele patru preferințe ale tale se combină într-unul dintre cele 16 tipuri de personalitate. Evaluează 100 de afirmații scurte; durează aproximativ cinci minute.",
+  "seoTitle": "Testul celor 16 tipuri de personalitate – gratuit",
+  "seoDescription": "Descoperă-ți în 5 minute tipul de personalitate din patru litere. Vezi-ți preferințele pe fiecare scală și portretul tipului tău, cu sfaturi practice.",
+  "items": [
+    "Gândesc cel mai bine când discut ideile cu alții.",
+    "Mă gândesc des la ce ar putea aduce viitorul.",
+    "Iau decizii în primul rând pe baza logicii.",
+    "Îmi place să-mi las opțiunile deschise.",
+    "Am mai multă încredere în fapte decât în presimțiri.",
+    "Am nevoie de timp doar cu mine ca să mă reîncarc după ce am stat printre oameni.",
+    "Îmi place să am ziua planificată.",
+    "Cântăresc cum îmi afectează alegerile sentimentele altora.",
+    "Să cunosc oameni noi îmi dă un impuls de energie.",
+    "Îmi place să găsesc tipare și sensuri ascunse.",
+    "Pun onestitatea înaintea tactului.",
+    "Îmi place să decid lucrurile pe loc.",
+    "Observ detalii mici pe care alții le scapă.",
+    "Prefer o discuție profundă multor discuții superficiale.",
+    "Simt ușurare odată ce o decizie a fost luată.",
+    "Păstrarea păcii este importantă pentru mine.",
+    "Îmi place să lucrez într-un spațiu deschis și plin de viață.",
+    "Mă plictisesc detaliile de rutină.",
+    "Îmi pot păstra detașarea când rezolv un conflict.",
+    "Lucrez cel mai bine sub presiunea ultimului moment.",
+    "Prefer instrucțiunile pas cu pas.",
+    "Mă gândesc bine la lucruri înainte să le spun.",
+    "Termin sarcinile cu mult înainte de termen.",
+    "Decid mai mult cu inima decât cu mintea.",
+    "Intru repede într-o conversație.",
+    "Am încredere în instinctul meu în privința posibilităților.",
+    "Îmi place să analizez obiectiv argumentele pro și contra.",
+    "Programele stricte mi se par limitative.",
+    "Mă concentrez pe ce se întâmplă chiar acum.",
+    "O seară liniștită acasă este idealul meu.",
+    "Îmi place să știu la ce să mă aștept.",
+    "Îmi este greu să-i critic pe oamenii care îmi plac.",
+    "Faptul că sunt printre oameni îmi reîncarcă bateriile.",
+    "Îmi place să-mi imaginez cum ar putea fi lucrurile altfel.",
+    "Regulile ar trebui să se aplice tuturor la fel.",
+    "Jonglez des cu mai multe proiecte deodată.",
+    "Îmi plac ideile care au o utilitate practică clară.",
+    "Îmi păstrez gândurile pentru mine până devin clare.",
+    "Fac liste și mă țin de ele.",
+    "Povestea altcuiva mă emoționează ușor.",
+    "Îmi place să am un cerc larg de prieteni.",
+    "Citesc des printre rânduri.",
+    "Semnalez fără ezitare defectele unui plan.",
+    "Îmi place să văd încotro mă poartă ziua.",
+    "Îmi amintesc bine fapte și cifre concrete.",
+    "Mulțimile mă obosesc repede.",
+    "Prefer să stabilesc planurile din timp.",
+    "Fac excepții pentru oamenii aflați în situații dificile.",
+    "Îmi împărtășesc des gândurile pe măsură ce îmi vin.",
+    "Prefer teoriile în locul muncii practice.",
+    "Mă conving argumentele, nu emoțiile.",
+    "Îmi schimb ușor planurile când apare ceva mai bun.",
+    "Învăț cel mai bine făcând lucrurile cu mâna mea.",
+    "Prefer să lucrez independent decât în echipă.",
+    "Lucrurile nerezolvate mă neliniștesc.",
+    "Vreau ca toată lumea să se simtă inclusă într-o decizie.",
+    "Weekendurile pline de planuri mă bucură.",
+    "Îmi place să vorbesc în metafore și imagini.",
+    "Pentru mine, a avea dreptate contează mai mult decât a fi pe placul altora.",
+    "Amân deciziile până când trebuie neapărat să le iau.",
+    "Prefer metodele dovedite celor netestate.",
+    "Îi las pe alții să ia cuvântul în grupuri.",
+    "Îmi țin calendarul la zi.",
+    "Tensiunea dintr-un grup mă afectează profund.",
+    "Mă cuprinde neliniștea când stau prea mult timp doar cu mine.",
+    "Sar repede la imaginea de ansamblu.",
+    "Pentru mine, corect înseamnă consecvent.",
+    "Încep multe lucruri și le termin mai târziu.",
+    "Descriu lucrurile literal și precis.",
+    "Aș prefera să scriu un mesaj decât să dau un telefon.",
+    "Îmi place să termin o sarcină înainte să încep alta.",
+    "Bunătatea contează mai mult pentru mine decât să am dreptate.",
+    "Îmi place să socializez la evenimente.",
+    "Ideile noi mă entuziasmează mai mult decât faptele practice.",
+    "Îmi este ușor să dau feedback critic.",
+    "Îmi fac bagajul în ultimul moment.",
+    "Vreau să văd dovezi înainte să cred ceva.",
+    "Am un cerc mic de prieteni apropiați.",
+    "Mă enervez când planurile se schimbă în ultimul moment.",
+    "Iau des personal critica la adresa muncii mele.",
+    "Încep ușor discuții cu oameni pe care nu-i cunosc.",
+    "Sar adesea peste instrucțiuni și mă descurc pe cont propriu.",
+    "Îmi plac dezbaterile ca mod de a testa ideile.",
+    "Zilele fără program mi se par eliberatoare.",
+    "Îmi plac sarcinile cu rezultate concrete și vizibile.",
+    "O zi lungă de ședințe mă secătuiește.",
+    "Prefer o structură clară în munca mea.",
+    "Las valorile mele să-mi ghideze alegerile.",
+    "Prefer brainstormingul în grup reflecției în liniște, fără alții.",
+    "Mă atrage ce este nou și netestat.",
+    "Judec o soluție după cât de bine funcționează.",
+    "Îmi adaptez planurile după starea mea.",
+    "Mă bazez pe experiența mea anterioară ca să rezolv probleme.",
+    "Oamenilor le este uneori greu să mă citească la început.",
+    "Îmi organizez vacanțele cu mult timp înainte.",
+    "Aș prefera să încurajez decât să critic.",
+    "De obicei iau cuvântul înaintea celor mai mulți.",
+    "Dau mai multă atenție prezentului decât viitorului.",
+    "La muncă pun competența mai presus de amabilitate.",
+    "Îmi place să rezolv prompt lucrurile rămase în urmă."
+  ],
+  "dimensions": {
+    "extraversion": {
+      "name": "Extraversie vs. Introversie",
+      "short": "Dacă îți iei energia în principal din lumea exterioară a oamenilor și acțiunii (E) sau din lumea ta interioară a gândurilor și reflecției (I).",
+      "low": "Înclini spre Introversie (I). Te reîncarci în liniște, te gândești înainte să vorbești și preferi câteva conversații profunde în locul multor discuții scurte. Adesea procesezi ideile în interior și le împărtășești abia când sunt complet formate. Zilele sociale aglomerate te pot lăsa obosit, chiar dacă te-ai bucurat de ele. Sfat: planifică timp de refacere după evenimentele sociale intense și privește-l ca pe o întreținere, nu ca pe o evitare. În grupuri, pregătește-ți contribuția din timp sau revino în scris, ca ideile tale să fie auzite.",
+      "mid": "Te situezi aproape de mijloc între Extraversie și Introversie, așa că litera ta s-ar putea schimba în funcție de dispoziție sau situație. Îți plac compania și activitatea, dar ai nevoie și de timp doar pentru tine ca să te reîncarci. Poți gândi cu voce tare alături de alții sau poți reflecta în liniște, în funcție de sarcină. Sfat: urmărește-ți energia după diferite tipuri de zile. Folosește aceste informații ca să-ți construiești un ritm săptămânal care să îmbine contactul social cu timpul liniștit în proporțiile potrivite pentru tine.",
+      "high": "Înclini spre Extraversie (E). Îți iei energia de la oameni, din conversații și din activitate și adesea gândești cel mai bine vorbind despre lucruri. Te implici repede, ești ușor de abordat și te simți confortabil în grupuri. Perioadele lungi petrecute singur te pot neliniști. Sfat: înainte să reacționezi într-o discuție, fă o scurtă pauză și pune mai întâi o întrebare; asta le lasă loc oamenilor mai tăcuți și îți ascute propria gândire. Programează-ți scurte momente de reflecție ca să procesezi ce trăiești."
+    },
+    "sensing": {
+      "name": "Senzație vs. Intuiție",
+      "short": "Dacă te concentrezi în principal pe fapte concrete, detalii și experiență (S) sau pe tipare, posibilități și imaginea de ansamblu (N).",
+      "low": "Înclini spre Intuiție (N). Cauți în mod natural sensuri, tipare și posibilități viitoare și îți plac ideile, teoriile și imaginarea a ceea ce ar putea fi. Detaliile de rutină te pot plictisi și uneori sari peste pași ca să ajungi la imaginea de ansamblu. Sfat: când îți împărtășești viziunea, adaugă exemple concrete și pașii următori, ca ceilalți să te poată urma. Roagă un coleg atent la detalii să-ți verifice planurile pentru lacune practice înainte să te angajezi.",
+      "mid": "Te situezi aproape de mijloc între Senzație și Intuiție, așa că litera ta poate varia de la o situație la alta. Poți lucra cu fapte concrete și detalii, dar îți place și să explorezi idei și posibilități. Asta îți permite să faci legătura între oamenii practici și vizionari. Sfat: observă spre ce mod te îndrepți implicit sub presiune. În deciziile importante, verifică deliberat ambele: ce spun faptele și ce opțiuni noi ar merita luate în calcul?",
+      "high": "Înclini spre Senzație (S). Ai încredere în fapte, în experiență și în ce poți vedea și testa. Observi detaliile, preferi instrucțiunile clare și îți plac ideile cu utilitate practică. Oamenii se bazează pe realismul și precizia ta. Sfat: când alții împărtășesc idei abstracte, acordă-le un moment înainte să le judeci caracterul practic; unele ar putea deveni ceva util. Din când în când, încearcă să-ți imaginezi unde ar putea duce o tendință peste cinci ani, ca să-ți lărgești perspectiva."
+    },
+    "thinking": {
+      "name": "Gândire vs. Sentiment",
+      "short": "Dacă iei decizii în principal prin logică și analiză obiectivă (T) sau prin valori personale și impactul asupra oamenilor (F).",
+      "low": "Înclini spre Sentiment (F). Iei decizii cântărind valorile, relațiile și felul în care vor fi afectați oamenii. Prețuiești armonia, apreciezi bunătatea și simți repede de ce au nevoie ceilalți. Oamenii se simt adesea înțeleși de tine. Sfat: când o decizie e grea, notează și argumentele obiective pro și contra; asta îți poate face alegerea mai ușor de explicat. Amintește-ți că feedbackul sincer, oferit cu căldură, este și el o formă de grijă.",
+      "mid": "Te situezi aproape de mijloc între Gândire și Sentiment, așa că litera ta poate diferi de la o situație la alta. Când decizi, cântărești atât logica, cât și impactul uman, ceea ce te ajută să găsești soluții corecte și echilibrate. Sfat: observă dacă te sprijini pe logică la muncă și pe sentimente acasă sau invers. În deciziile-cheie, verifică conștient ambele aspecte: este solidă decizia și este corectă față de oamenii implicați?",
+      "high": "Înclini spre Gândire (T). Decizi prin logică, consecvență și analiză obiectivă. Prețuiești corectitudinea în sensul aplicării acelorași reguli pentru toată lumea și poți da un feedback dur fără să te lași influențat de emoții. Sfat: înainte să critici, recunoaște efortul sau intenția din spatele muncii cuiva. Întreabă-te cum vor resimți o decizie oamenii afectați; adesea asta îmbunătățește acceptarea fără să-ți slăbească raționamentul."
+    },
+    "judging": {
+      "name": "Judecată vs. Percepție",
+      "short": "Dacă preferi o viață planificată, decisă și structurată (J) sau una flexibilă, deschisă și spontană (P).",
+      "low": "Înclini spre Percepție (P). Îți place să-ți lași opțiunile deschise, să te adaptezi pe parcurs și să decizi când trebuie. Lucrezi adesea în valuri de energie și te simți îngrădit de programele rigide. Asta te face flexibil și descurcăreț când planurile se schimbă. Sfat: folosește o structură ușoară pentru lucrurile esențiale, cum ar fi un singur sistem de mementouri pentru termene. Împarte proiectele mari în etape mici, ca graba de final să nu devină stresantă.",
+      "mid": "Te situezi aproape de mijloc între Judecată și Percepție, așa că litera ta poate varia. Îți place să ai un plan, dar poți renunța ușor la el când apare ceva mai bun. Poți respecta termenele și te poți bucura totuși de spontaneitate. Sfat: observă unde puțin mai multă planificare ți-ar reduce stresul, de exemplu la călătorii sau bani, și unde mai multă flexibilitate ar aduce mai multă bucurie. Ajustează-te deliberat, nu din reflex.",
+      "high": "Înclini spre Judecată (J). Îți place să planifici din timp, să iei decizii și să duci lucrurile la bun sfârșit. Programele, listele și termenele clare îți dau un sentiment de control și de obicei termini sarcinile cu mult înainte de ultimul moment. Sfat: lasă puțin spațiu liber în planurile tale, ca surprizele să nu te dea peste cap. Când alții lucrează într-un mod mai lejer, stabiliți împreună termenele-cheie și lasă-i să aleagă cum ajung acolo."
+    }
+  },
+  "summary": "Tipul tău combină patru preferințe: Extraversie sau Introversie (E/I), Senzație sau Intuiție (S/N), Gândire sau Sentiment (T/F) și Judecată sau Percepție (J/P). Fiecare scală arată cât de puternic înclini spre una dintre părți; scorurile apropiate de 50 % înseamnă că folosești ambele părți destul de flexibil. Tipurile descriu preferințe, nu abilități, și niciun tip nu este mai bun decât altul.",
+  "types": {
+    "ISTJ": {
+      "name": "Ancora",
+      "text": "Ești o persoană stabilă, minuțioasă și profund de încredere. Respecți faptele, îți ții promisiunile și lucrezi metodic la sarcini până când sunt făcute cum trebuie. Oamenii se bazează pe tine pentru că faci ce spui. Preferi așteptările clare și metodele dovedite și observi greșeli pe care alții le scapă din vedere. Puterea ta discretă ține laolaltă echipe și familii. Sfat de dezvoltare: rămâi deschis la abordări noi, chiar și când vechiul mod încă funcționează; uneori un experiment aduce o îmbunătățire reală. Spune-ți aprecierea pentru ceilalți cu voce tare, pentru că loialitatea ta nu este întotdeauna vizibilă. Fă-ți timp pentru odihnă fără să trebuiască mai întâi s-o meriți."
+    },
+    "ISFJ": {
+      "name": "Ocrotitorul",
+      "text": "Ești o persoană grijulie, conștiincioasă și devotată în liniște. Îți amintești ce contează pentru oameni, le observi nevoile și ajuți în moduri practice, adesea fără să ți se ceară. Prețuiești tradiția, stabilitatea și armonia și muncești din greu ca alții să se simtă în siguranță și confortabil. Bunătatea ta este de tipul constant, pe care oamenii se bazează ani la rând. Sfat de dezvoltare: propriile tale nevoi merită aceeași atenție pe care le-o dai altora, așa că exersează să spui nu fără vinovăție. Spune când ceva te deranjează, în loc să înghiți în tăcere. Să-i lași pe alții să te sprijine întărește relațiile, nu le împovărează."
+    },
+    "INFJ": {
+      "name": "Vizionarul discret",
+      "text": "Îmbini o înțelegere profundă a oamenilor cu un puternic simț al scopului. Simți curenții ascunși din relații, gândești pe termen lung și vrei ca viața ta să contribuie la ceva cu sens. Ești o persoană discretă, dar caldă, iar oamenii pe care îi lași aproape se simt cu adevărat văzuți. Idealurile tale îți dau direcție și determinare. Sfat de dezvoltare: standardele tale înalte se pot transforma în epuizare sau dezamăgire când realitatea nu se ridică la nivelul lor, așa că sărbătorește progresul, nu doar perfecțiunea. Împărtășește-ți ideile mai devreme, în loc să aștepți să fie complet formate. Protejează-ți energia stabilind limite înainte să te simți copleșit, nu după."
+    },
+    "INTJ": {
+      "name": "Marele strateg",
+      "text": "Ești o persoană independentă, analitică și concentrată pe obiective pe termen lung. Vezi cum se îmbină sistemele, identifici repede ineficiențele și îți place să concepi moduri mai bune de a face lucrurile. Ai încredere în propriul raționament și ești dispus să-ți urmezi propriul drum ca să atingi o viziune. Determinarea ta poate transforma ideile ambițioase în realitate. Sfat de dezvoltare: ceilalți s-ar putea să nu-ți urmărească logica la fel de repede ca tine, așa că explică-ți raționamentul pas cu pas și cere feedback. Amintește-ți că sentimentele oamenilor sunt și ele date. Lasă loc pentru primele versiuni imperfecte; progresul bate adesea un plan impecabil care așteaptă."
+    },
+    "ISTP": {
+      "name": "Meșterul",
+      "text": "Ești o persoană calmă, practică și curioasă să afle cum funcționează lucrurile. Îți place să înțelegi problemele concret, să desfaci lucrurile și să găsești soluții eficiente. Într-o criză rămâi calm și acționezi hotărât, în timp ce alții încă vorbesc. Prețuiești libertatea și nu-ți plac regulile inutile sau ședințele lungi. Sfat de dezvoltare: împărtășește-ți mai des gândurile cu ceilalți, pentru că tăcerea ta poate fi interpretată greșit ca dezinteres. Angajează-te față de câteva obiective pe termen lung, ca numeroasele tale abilități să construiască ceva mai mare. Spune-le celor apropiați ce simți; câteva cuvinte de apreciere cântăresc foarte mult."
+    },
+    "ISFP": {
+      "name": "Artistul blând",
+      "text": "Ești o persoană sensibilă, bună și acordată la frumusețe și la momentul prezent. Te exprimi mai mult prin fapte și creativitate decât prin cuvinte și prețuiești autenticitatea și libertatea. Ești tolerant, deschis la minte și loial oamenilor și cauzelor la care ții. Prezența ta blândă îi face pe ceilalți să se simtă acceptați. Sfat de dezvoltare: poate eviți conflictul până când frustrarea se acumulează, așa că exersează să-ți exprimi devreme micile nemulțumiri. Transformă-ți valorile în câteva obiective concrete, ca talentele tale să capete direcție. Crede suficient în munca ta ca s-o arăți altora; perspectiva ta merită să fie văzută."
+    },
+    "INFP": {
+      "name": "Visătorul",
+      "text": "Ești o persoană idealistă, imaginativă și ghidată de valori interioare puternice. Cauți sens în tot ce faci și ții profund la autenticitate, atât la tine, cât și la ceilalți. Înțelegi bine sentimentele și le exprimi adesea prin scris, artă sau conversații profunde. Ești blând, deschis la minte și loial față de ceea ce crezi. Sfat de dezvoltare: idealurile tale sunt o busolă, dar realitatea este rareori perfectă; fă pași practici mici în loc să aștepți momentul ideal. Fii la fel de plin de compasiune față de tine cum ești față de alții. Împărtășește-ți visurile cu oameni care te pot ajuta să le faci reale."
+    },
+    "INTP": {
+      "name": "Dezlegătorul de enigme",
+      "text": "Ești o persoană logică, inventivă și nesfârșit de curioasă. Îți place să analizezi idei, să găsești inconsecvențe și să construiești teorii care explică cum funcționează cu adevărat lucrurile. Gândești independent și îți plac conversațiile profunde despre subiecte complexe. Mintea ta poate vedea soluții originale pe care alții le scapă. Sfat de dezvoltare: ideile își ating potențialul atunci când sunt împărtășite și aplicate, așa că stabilește-ți mici termene pentru a-ți termina și prezenta munca. Fii atent la detaliile practice și la ce simt ceilalți, care contează chiar și când par ilogice. Conectează-te cu oameni care îți împărtășesc interesele; îți vor energiza gândirea."
+    },
+    "ESTP": {
+      "name": "Nonconformistul",
+      "text": "Ești o persoană energică, îndrăzneață și orientată spre acțiune. Trăiești în prezent, citești repede situațiile și înflorești când lucrurile se mișcă rapid. Îți plac provocările, îți asumi riscuri inteligente și rezolvi pe loc probleme practice. Oamenii sunt atrași de încrederea și de simțul tău al distracției. Sfat de dezvoltare: gândește-te la consecințele pe termen lung înainte să te arunci, mai ales în privința banilor și a relațiilor. Exersează răbdarea cu procesele mai lente și cu oamenii care au nevoie de mai mult timp ca să decidă. Gândește-te cum este primit stilul tău direct de oamenii sensibili; puțin tact îți face influența și mai puternică."
+    },
+    "ESFP": {
+      "name": "Scânteia",
+      "text": "Ești o persoană plină de viață, caldă și iubitoare de distracție. Aduci energie în orice încăpere, îți plac oamenii și experiențele și faci ca momentele de zi cu zi să pară speciale. Ești practic, generos și sari repede în ajutorul cuiva care trece printr-o perioadă grea. Entuziasmul tău este molipsitor, iar oamenilor le place să fie în preajma ta. Sfat de dezvoltare: planificarea din timp poate părea plictisitoare, dar puțină structură în finanțe și în obiectivele pe termen lung îți dă mai multă libertate mai târziu. Înfruntă conversațiile dificile în loc să-ți distragi atenția. Acordă-ți câteva momente de liniște ca să reflectezi la ce îți dorești cu adevărat, nu doar la ce îți face plăcere acum."
+    },
+    "ENFP": {
+      "name": "Inspiratorul",
+      "text": "Ești o persoană entuziastă, creativă și plină de posibilități. Te conectezi ușor cu oamenii, vezi potențial peste tot și îți place să începi proiecte și conversații noi. Căldura și imaginația ta îi încurajează pe alții să viseze mai mare. Prețuiești libertatea, autenticitatea și relațiile cu sens. Sfat de dezvoltare: multele tale idei au nevoie de concentrare ca să devină rezultate, așa că alege câteva priorități și du-le la capăt. Construiește-ți rutine simple pentru sarcinile practice pe care le găsești plictisitoare. Când dispoziția îți scade după entuziasmul unui nou început, amintește-ți că o mare parte din adevărata răsplată stă în perseverență."
+    },
+    "ENTP": {
+      "name": "Inovatorul",
+      "text": "Ești o persoană isteață, inventivă și îți plac dezbaterile bune. Vezi unghiuri noi asupra problemelor vechi, pui la îndoială presupunerile și îți place să experimentezi cu idei. Te adaptezi repede și te energizează provocările complexe și oamenii inteligenți. Curiozitatea te împinge să îmbunătățești aproape tot ce atingi. Sfat de dezvoltare: nu orice discuție trebuie câștigată, iar unii oameni trăiesc dezbaterea ca pe un conflict, așa că citește atmosfera. Du la capăt ideile tale cele mai bune în loc să treci prea repede la următoarea. Fă echipă cu oameni atenți la detalii, care te ajută să transformi conceptele în realitate."
+    },
+    "ESTJ": {
+      "name": "Căpitanul",
+      "text": "Ești o persoană organizată, hotărâtă și practică. Îți plac obiectivele clare, procesele eficiente și lucrurile duse la capăt. Îți asumi responsabilitatea în mod natural, stabilești standarde înalte și te asiguri că planurile sunt puse în practică. Oamenii îți apreciază directețea și seriozitatea. Sfat de dezvoltare: stilul tău eficient poate părea controlant pentru alții, așa că cere păreri înainte să decizi și explică de ce. Rămâi deschis la metode noi chiar și când cea actuală funcționează. Arată-ți aprecierea pentru efortul oamenilor, nu doar pentru rezultatele lor; recunoașterea îi motivează pe ceilalți la fel de mult ca instrucțiunile clare."
+    },
+    "ESFJ": {
+      "name": "Gazda",
+      "text": "Ești o persoană sociabilă, grijulie și orientată spre comunitate. Observi de ce au nevoie oamenii, îi faci să se simtă bineveniți și îți place să-i aduni laolaltă. Prețuiești armonia, loialitatea și tradiția și depui un efort real ca relațiile și grupurile să funcționeze bine. Oamenii se simt îngrijiți în prezența ta. Sfat de dezvoltare: s-ar putea să iei personal critica sau conflictul, așa că amintește-ți că un dezacord nu înseamnă respingere. Verifică dacă ajuți pentru că vrei sau pentru că simți că trebuie. Fă loc propriilor nevoi și păreri; contează la fel de mult ca ale oricui."
+    },
+    "ENFJ": {
+      "name": "Mentorul",
+      "text": "Ești o persoană caldă, inspiratoare și concentrată pe a-i ajuta pe oameni să crească. Îi citești bine pe ceilalți, le scoți la iveală punctele forte și aduni grupurile în jurul unui scop comun. Comunici cu entuziasm și convingere și te simți responsabil pentru starea de bine a celor din jur. Oamenii îți cer adesea îndrumarea. Sfat de dezvoltare: nu-i poți purta pe toți în spate, așa că lasă-i pe ceilalți să-și asume responsabilitatea pentru propriile alegeri. Observă când îți asumi prea mult sau îți neglijezi propriile nevoi. Acceptă că unii oameni nu vor fi de acord cu tine; drumul lor diferit nu este o măsură a valorii tale."
+    },
+    "ENTJ": {
+      "name": "Liderul",
+      "text": "Ești o persoană sigură pe sine, strategică și motivată să realizeze. Vezi imaginea de ansamblu, îți stabilești obiective ambițioase și organizezi oameni și resurse ca să le atingi. Iei decizii repede, comunici clar și nu te temi de provocări sau de responsabilitate. Ceilalți se uită adesea la tine să conduci. Sfat de dezvoltare: viteza și directețea ta îi pot copleși pe oameni, așa că încetinește ca să asculți și să recunoști sentimentele. Amintește-ți că motivația crește când oamenii se simt ascultați, nu doar dirijați. Fă loc odihnei și relațiilor; succesul pe termen lung depinde de mai mult decât de rezultate."
+    }
+  }
+}
