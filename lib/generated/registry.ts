@@ -1012,6 +1012,7 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "sq/tests/phone-addiction": () => import("@/messages/sq/tests/phone-addiction.json").then((m) => m.default),
   "sq/tests/money-mindset": () => import("@/messages/sq/tests/money-mindset.json").then((m) => m.default),
   "mk/ui": () => import("@/messages/mk/ui.json").then((m) => m.default),
+  "mk/tests/personality": () => import("@/messages/mk/tests/personality.json").then((m) => m.default),
   "mk/tests/big-five": () => import("@/messages/mk/tests/big-five.json").then((m) => m.default),
   "mk/tests/16-types": () => import("@/messages/mk/tests/16-types.json").then((m) => m.default),
   "mk/tests/enneagram": () => import("@/messages/mk/tests/enneagram.json").then((m) => m.default),
@@ -1053,5 +1054,6 @@ export const messageLoaders: Record<string, () => Promise<unknown>> = {
   "ca/tests/bpd": () => import("@/messages/ca/tests/bpd.json").then((m) => m.default),
   "ca/tests/bipolar": () => import("@/messages/ca/tests/bipolar.json").then((m) => m.default),
   "ca/tests/burnout": () => import("@/messages/ca/tests/burnout.json").then((m) => m.default),
+  "ca/tests/hsp": () => import("@/messages/ca/tests/hsp.json").then((m) => m.default),
   "ca/tests/chronotype": () => import("@/messages/ca/tests/chronotype.json").then((m) => m.default),
 };
