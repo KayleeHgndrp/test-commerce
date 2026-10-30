@@ -55,7 +55,7 @@ export async function renderReport(locale: Locale, slug: string, answers: number
   const { ui, text, vars, headline, instrument, sections, crisis } = await buildReport(locale, slug, answers);
   const r = ui.report;
 
-  const html = `<!doctype html><html lang="${locale}"><body style="margin:0;background:#f4f3fa;font-family:Arial,Helvetica,sans-serif;color:#17152b">
+  const html = `<!doctype html><html lang="${locale}" style="color-scheme:light only"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light only"><meta name="supported-color-schemes" content="light only"><style>:root{color-scheme:light only;supported-color-schemes:light only}</style></head><body style="margin:0;background:#f4f3fa;font-family:Arial,Helvetica,sans-serif;color:#17152b">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr><td align="center" style="padding:24px 12px">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;background:#ffffff;border-radius:16px;overflow:hidden">
 <tr><td style="background:#5b3df5;color:#ffffff;padding:28px 32px">
@@ -72,7 +72,7 @@ ${instrument ? `<div style="border:1px solid #e6e3f0;border-radius:12px;padding:
 ${sections
   .map(
     (s) => `<div style="margin:28px 0 0">
-<table role="presentation" width="100%"><tr><td style="font-size:17px;font-weight:bold">${esc(s.name)}</td><td align="right" style="font-weight:bold;color:#5b3df5">${s.percent}% · ${esc(s.level)}</td></tr></table>
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr><td style="font-size:17px;font-weight:bold;padding-right:12px">${esc(s.name)}</td><td align="right" valign="top" style="font-weight:bold;color:#5b3df5;white-space:nowrap">${s.percent}% · ${esc(s.level)}</td></tr></table>
 <div style="background:#e6e3f0;border-radius:99px;height:10px;margin:8px 0 10px"><div style="background:#5b3df5;border-radius:99px;height:10px;width:${Math.max(s.percent, 2)}%"></div></div>
 <div style="color:#625f7a;font-size:13px;margin-bottom:6px">${esc(s.short)}</div>
 <div>${esc(s.body)}</div></div>`,

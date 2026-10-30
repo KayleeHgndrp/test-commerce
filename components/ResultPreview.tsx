@@ -77,7 +77,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, ui }: 
   return (
     <div className="mx-auto max-w-3xl px-4 pt-12">
       {result.crisis && (
-        <div role="alert" className="mb-8 rounded-2xl border-2 border-rose-400 bg-rose-50 p-6 text-rose-950 dark:bg-rose-950/40 dark:text-rose-100">
+        <div role="alert" className="mb-8 rounded-2xl border-2 border-rose-400 bg-rose-50 p-6 text-rose-950">
           <h2 className="text-lg font-bold">{ui.crisisTitle}</h2>
           <p className="mt-2 leading-relaxed">{ui.crisisText}</p>
           <a href="https://findahelpline.com" target="_blank" rel="noopener noreferrer" className="mt-3 inline-block font-semibold underline">

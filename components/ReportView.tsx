@@ -5,7 +5,7 @@ export function ReportView({ report }: { report: Report }) {
   return (
     <div className="space-y-6 text-left">
       {crisis && (
-        <div role="alert" className="rounded-2xl border-2 border-rose-400 bg-rose-50 p-5 text-rose-950 dark:bg-rose-950/40 dark:text-rose-100">
+        <div role="alert" className="rounded-2xl border-2 border-rose-400 bg-rose-50 p-5 text-rose-950">
           <p className="leading-relaxed">{crisis}</p>
           <a href="https://findahelpline.com" target="_blank" rel="noopener noreferrer" className="mt-2 inline-block font-semibold underline">
             {ui.result.crisisLink} →
@@ -28,9 +28,9 @@ export function ReportView({ report }: { report: Report }) {
       )}
       {sections.map((s) => (
         <section key={s.name} className="rounded-2xl border border-border p-6">
-          <div className="flex items-baseline justify-between gap-4">
-            <h2 className="text-lg font-bold">{s.name}</h2>
-            <span className="shrink-0 text-sm font-bold text-accent">{s.percent}% · {s.level}</span>
+          <div className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
+            <h2 className="min-w-0 break-words text-lg font-bold">{s.name}</h2>
+            <span className="whitespace-nowrap text-sm font-bold text-accent">{s.percent}% · {s.level}</span>
           </div>
           <div className="mt-3 h-2.5 overflow-hidden rounded-full bg-border">
             <div className="h-full rounded-full bg-accent" style={{ width: `${Math.max(s.percent, 2)}%` }} />
