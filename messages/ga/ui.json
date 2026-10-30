@@ -229,7 +229,9 @@
     "crisisTitle": "Níl tú i d'aonar",
     "crisisText": "Thug tú le fios go raibh smaointe agat go mbeadh sé níos fearr duit a bheith marbh nó go ngortófá thú féin. Labhair le duine éigin inniu, le do thoil. Má tá tú i mbaol láithreach, glaoigh ar 112. Is féidir leat teagmháil a dhéanamh freisin le líne ghéarchéime i do thír féin, mar shampla iad siúd atá liostaithe ar findahelpline.com, ag am ar bith den lá.",
     "crisisLink": "Aimsigh líne chabhrach in aice leat",
-    "bundleNote": "Praghas beartáin: {price} in ionad {full}"
+    "bundleNote": "Praghas beartáin: {price} in ionad {full}",
+    "codeApplied": "Tá do chód cóitseála curtha i bhfeidhm: tá an tuarascáil seo saor in aisce.",
+    "codeInvalid": "Níl an cód seo bailí nó úsáideadh cheana é. Is féidir leat an tuarascáil a fháil ar an ngnáthphraghas fós."
   },
   "thanks": {
     "title": "Go raibh maith agat as do cheannach!",

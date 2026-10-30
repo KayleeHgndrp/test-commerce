@@ -229,7 +229,9 @@
     "crisisTitle": "Jūs ne vieni",
     "crisisText": "Nurodėte, kad jums kilo minčių, jog būtų geriau, jei būtumėte mirę, arba minčių susižaloti. Prašome šiandien pasikalbėti su kuo nors. Jei jums gresia tiesioginis pavojus, skambinkite 112. Bet kuriuo paros metu taip pat galite kreiptis į savo šalies krizių liniją, pavyzdžiui, nurodytą svetainėje findahelpline.com.",
     "crisisLink": "Raskite pagalbos liniją netoliese",
-    "bundleNote": "Rinkinio kaina: {price} vietoj {full}"
+    "bundleNote": "Rinkinio kaina: {price} vietoj {full}",
+    "codeApplied": "Jūsų koučo kodas pritaikytas: ši ataskaita nemokama.",
+    "codeInvalid": "Šis kodas negalioja arba jau panaudotas. Ataskaitą vis tiek galite gauti įprasta kaina."
   },
   "thanks": {
     "title": "Ačiū už pirkinį!",

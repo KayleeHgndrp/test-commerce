@@ -1,3 +1,4 @@
+import { deliverPackOnce, paidPack } from "@/lib/coach-pack";
 import { deliverOnce, paidOrder, type CheckoutSession } from "@/lib/delivery";
 import { verifyStripeSignature } from "@/lib/stripe";
 
@@ -12,6 +13,12 @@ export async function POST(request: Request) {
   // Card payments complete immediately; delayed methods (e.g. SEPA) fire async_payment_succeeded later.
   if (event.type !== "checkout.session.completed" && event.type !== "checkout.session.async_payment_succeeded") {
     return new Response("ignored");
+  }
+
+  const pack = paidPack(event.data.object);
+  if (pack) {
+    await deliverPackOnce(pack);
+    return new Response("ok");
   }
 
   const order = paidOrder(event.data.object);

@@ -229,7 +229,9 @@
     "crisisTitle": "Nem vagy egyedül",
     "crisisText": "Azt jelezted, hogy voltak olyan gondolataid, hogy jobb lenne, ha meghalnál, vagy hogy bántanád magad. Kérjük, még ma beszélj erről valakivel. Ha közvetlen veszélyben vagy, hívd a 112-t. A nap bármely szakában fordulhatsz országod egyik lelki elsősegély-vonalához is, például a findahelpline.com oldalon felsoroltakhoz.",
     "crisisLink": "Segélyvonal keresése a közeledben",
-    "bundleNote": "Csomagár: {price} {full} helyett"
+    "bundleNote": "Csomagár: {price} {full} helyett",
+    "codeApplied": "A coach-kódod érvényesítve: ez a jelentés ingyenes.",
+    "codeInvalid": "Ez a kód érvénytelen vagy már felhasználták. A jelentést továbbra is megkaphatod a normál áron."
   },
   "thanks": {
     "title": "Köszönjük a vásárlást!",

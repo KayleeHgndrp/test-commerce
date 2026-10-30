@@ -229,7 +229,9 @@
     "crisisTitle": "Non sei solo",
     "crisisText": "Hai indicato di aver avuto pensieri di essere meglio morto o di farti del male. Ti preghiamo di parlarne con qualcuno oggi stesso. Se sei in pericolo immediato, chiama il 112. Puoi anche contattare a qualsiasi ora una linea di supporto per le crisi nel tuo Paese, come quelle elencate su findahelpline.com.",
     "crisisLink": "Trova una linea di aiuto vicino a te",
-    "bundleNote": "Prezzo pacchetto: {price} invece di {full}"
+    "bundleNote": "Prezzo pacchetto: {price} invece di {full}",
+    "codeApplied": "Il tuo codice coach è applicato: questo report è gratuito.",
+    "codeInvalid": "Questo codice non è valido o è già stato usato. Puoi comunque ottenere il report al prezzo normale."
   },
   "thanks": {
     "title": "Grazie per il tuo acquisto!",

@@ -229,7 +229,9 @@
     "crisisTitle": "Vous n'êtes pas seul(e)",
     "crisisText": "Vous avez indiqué avoir eu des pensées selon lesquelles vous seriez mieux mort(e) ou de vous faire du mal. Parlez-en à quelqu'un dès aujourd'hui. Si vous êtes en danger immédiat, appelez le 112. Vous pouvez aussi contacter à toute heure une ligne d'écoute de votre pays, comme celles répertoriées sur findahelpline.com.",
     "crisisLink": "Trouver une ligne d'écoute près de chez vous",
-    "bundleNote": "Prix groupé : {price} au lieu de {full}"
+    "bundleNote": "Prix groupé : {price} au lieu de {full}",
+    "codeApplied": "Votre code coach est appliqué : ce rapport est gratuit.",
+    "codeInvalid": "Ce code n'est pas valide ou a déjà été utilisé. Vous pouvez toujours obtenir le rapport au prix normal."
   },
   "thanks": {
     "title": "Merci pour votre achat !",

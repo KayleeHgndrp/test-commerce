@@ -229,7 +229,9 @@
     "crisisTitle": "Nu ești singur",
     "crisisText": "Ai indicat că ai avut gânduri că ți-ar fi mai bine dacă ai fi mort sau că ți-ai face rău. Te rugăm să vorbești cu cineva chiar azi. Dacă ești în pericol imediat, sună la 112. Poți contacta oricând, zi și noapte, și o linie de criză din țara ta, de exemplu dintre cele listate pe findahelpline.com.",
     "crisisLink": "Găsește o linie de sprijin aproape de tine",
-    "bundleNote": "Preț pachet: {price} în loc de {full}"
+    "bundleNote": "Preț pachet: {price} în loc de {full}",
+    "codeApplied": "Codul tău de coach a fost aplicat: acest raport este gratuit.",
+    "codeInvalid": "Acest cod nu este valid sau a fost deja folosit. Poți obține în continuare raportul la prețul normal."
   },
   "thanks": {
     "title": "Mulțumim pentru achiziție!",

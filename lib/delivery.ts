@@ -1,3 +1,4 @@
+import { claimCoachCode, releaseCoachCode } from "@/lib/coach-pack";
 import { fromAddress, sendEmail } from "@/lib/email";
 import { hasLocale, type Locale } from "@/lib/i18n/locales";
 import { getDefinition } from "@/lib/i18n/messages";
@@ -21,7 +22,9 @@ export type PaidOrder = { locale: Locale; slug: string; answers: number[]; email
 
 // Validates a Checkout Session and extracts the order it paid for.
 export function paidOrder(session: CheckoutSession): PaidOrder | null {
-  if (session.payment_status !== "paid") return null;
+  // A report redeemed with a coach code is free, so Stripe reports no payment.
+  const free = session.payment_status === "no_payment_required" && !!session.metadata?.coach_code;
+  if (session.payment_status !== "paid" && !free) return null;
   const { slug, locale, answers } = session.metadata ?? {};
   const def = getDefinition(slug);
   const decoded = def ? decodeAnswers(def, answers) : null;
@@ -67,7 +70,11 @@ async function markBundleUsed(order: PaidOrder) {
 // webhook and the thank-you page call this, so a missed webhook still delivers.
 export async function deliverOnce(order: PaidOrder) {
   const intentId = order.session.payment_intent;
-  if (intentId) {
+  const coachCode = order.session.metadata.coach_code;
+  if (coachCode && !intentId) {
+    // The code's slot in the coach pack doubles as the "already sent" marker.
+    if (!(await claimCoachCode(coachCode, order.session.id))) return;
+  } else if (intentId) {
     const intent = await stripeRequest<{ metadata: Record<string, string> }>(`payment_intents/${intentId}`);
     if (intent.metadata.report_sent) return;
     // Mark first so a concurrent webhook/page request does not send twice.
@@ -78,6 +85,7 @@ export async function deliverOnce(order: PaidOrder) {
     await sendEmail(order.email, await renderReport(order.locale, order.slug, order.answers));
   } catch (error) {
     if (intentId) await stripeRequest(`payment_intents/${intentId}`, { "metadata[report_sent]": "" });
+    else if (coachCode) await releaseCoachCode(coachCode);
     await alertDeliveryFailure(order, error);
     throw error;
   }

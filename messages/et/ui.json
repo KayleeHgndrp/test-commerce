@@ -229,7 +229,9 @@
     "crisisTitle": "Sa ei ole üksi",
     "crisisText": "Märkisid, et sul on olnud mõtteid, et oleksid parem surnud, või mõtteid endale haiget teha. Palun räägi kellegagi juba täna. Kui oled vahetus ohus, helista 112. Võid ka igal kellaajal pöörduda oma riigi kriisitelefonile, näiteks nende hulgast, mis on loetletud lehel findahelpline.com.",
     "crisisLink": "Leia lähim abitelefon",
-    "bundleNote": "Paketihind: {price}, mitte {full}"
+    "bundleNote": "Paketihind: {price}, mitte {full}",
+    "codeApplied": "Sinu coachi kood on rakendatud: see raport on tasuta.",
+    "codeInvalid": "See kood ei kehti või on juba kasutatud. Raporti saad endiselt tavahinnaga."
   },
   "thanks": {
     "title": "Aitäh ostu eest!",

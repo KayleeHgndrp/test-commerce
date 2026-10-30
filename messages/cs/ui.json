@@ -229,7 +229,9 @@
     "crisisTitle": "Nejste na to sami",
     "crisisText": "Z vašich odpovědí vyplývá, že vás napadlo, že by bylo lepší nežít, nebo že byste si mohli ublížit. Prosím, promluvte si s někým ještě dnes. Pokud jste v bezprostředním nebezpečí, zavolejte na 112. Kdykoli během dne i noci se můžete obrátit také na krizovou linku ve své zemi, například z přehledu na findahelpline.com.",
     "crisisLink": "Najděte linku pomoci ve svém okolí",
-    "bundleNote": "Cena v balíčku: {price} místo {full}"
+    "bundleNote": "Cena v balíčku: {price} místo {full}",
+    "codeApplied": "Váš kód od kouče je uplatněn: tato zpráva je zdarma.",
+    "codeInvalid": "Tento kód je neplatný nebo už byl použit. Zprávu můžete stále získat za běžnou cenu."
   },
   "thanks": {
     "title": "Děkujeme za nákup!",

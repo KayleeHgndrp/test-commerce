@@ -229,7 +229,9 @@
     "crisisTitle": "Et ole yksin",
     "crisisText": "Kerroit, että sinulla on ollut ajatuksia siitä, että olisit parempi kuolleena, tai ajatuksia itsesi vahingoittamisesta. Puhu jonkun kanssa vielä tänään. Jos olet välittömässä vaarassa, soita 112. Voit myös ottaa mihin vuorokaudenaikaan tahansa yhteyttä oman maasi kriisipuhelimeen, esimerkiksi findahelpline.com-sivustolla lueteltuihin.",
     "crisisLink": "Löydä auttava puhelin läheltäsi",
-    "bundleNote": "Pakettihinta: {price}, normaalisti {full}"
+    "bundleNote": "Pakettihinta: {price}, normaalisti {full}",
+    "codeApplied": "Valmentajakoodisi on käytössä: tämä raportti on maksuton.",
+    "codeInvalid": "Koodi ei ole voimassa tai se on jo käytetty. Voit silti saada raportin normaalihintaan."
   },
   "thanks": {
     "title": "Kiitos ostoksestasi!",

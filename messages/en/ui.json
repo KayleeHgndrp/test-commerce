@@ -229,7 +229,9 @@
     "crisisTitle": "You are not alone",
     "crisisText": "You indicated that you have had thoughts of being better off dead or of hurting yourself. Please talk to someone today. If you are in immediate danger, call 112. You can also contact a crisis line in your country, such as those listed on findahelpline.com, any time of day.",
     "crisisLink": "Find a helpline near you",
-    "bundleNote": "Bundle price: {price} instead of {full}"
+    "bundleNote": "Bundle price: {price} instead of {full}",
+    "codeApplied": "Your coach code is applied: this report is free.",
+    "codeInvalid": "This code is not valid or has already been used. You can still get the report at the normal price."
   },
   "thanks": {
     "title": "Thank you for your purchase!",

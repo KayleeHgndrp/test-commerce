@@ -229,7 +229,9 @@
     "crisisTitle": "Não estás sozinho",
     "crisisText": "Indicaste que tiveste pensamentos de que estarias melhor morto ou de te magoares. Por favor, fala hoje com alguém. Se estiveres em perigo imediato, liga 112. Também podes contactar a qualquer hora uma linha de apoio em crise no teu país, como as que estão listadas em findahelpline.com.",
     "crisisLink": "Encontra uma linha de apoio perto de ti",
-    "bundleNote": "Preço de pacote: {price} em vez de {full}"
+    "bundleNote": "Preço de pacote: {price} em vez de {full}",
+    "codeApplied": "O seu código de coach foi aplicado: este relatório é gratuito.",
+    "codeInvalid": "Este código não é válido ou já foi usado. Pode obter o relatório ao preço normal."
   },
   "thanks": {
     "title": "Obrigado pela tua compra!",
