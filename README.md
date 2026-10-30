@@ -1,4 +1,4 @@
-# Testora – multilingual online tests
+# Personality Reveal – multilingual online tests
 
 Next.js 16 site with 100-question psychological tests in 32 European languages. Taking a test is free;
 the detailed personal report costs €3.95 and is emailed after payment via Stripe.
