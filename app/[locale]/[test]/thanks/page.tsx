@@ -1,10 +1,11 @@
 import Link from "next/link";
 import { Suspense } from "react";
 import { ReportView } from "@/components/ReportView";
+import { TestCard } from "@/components/TestCard";
 import { TrackPurchase } from "@/components/TrackPurchase";
 import { deliverOnce, retrievePaidOrder } from "@/lib/delivery";
 import type { Locale } from "@/lib/i18n/locales";
-import { fmt, getDefinition } from "@/lib/i18n/messages";
+import { allDefinitions, fmt, getDefinition, getTestText } from "@/lib/i18n/messages";
 import { buildReport } from "@/lib/report/render";
 import { site } from "@/lib/site";
 import { loadTestPage, testStaticParams } from "@/lib/tests/params";
@@ -48,6 +49,9 @@ async function PaidReport({ locale, slug, searchParams }: { locale: Locale; slug
 
 export default async function ThanksPage({ params, searchParams }: PageProps<"/[locale]/[test]/thanks">) {
   const { locale, def, ui, text } = await loadTestPage(params);
+  // Buyers are the warmest audience we have, so suggest the next test in the same category.
+  const related = allDefinitions.filter((d) => d.category === def.category && d.slug !== def.slug).slice(0, 4);
+  const relatedTexts = await Promise.all(related.map((d) => getTestText(locale, d.slug)));
   return (
     <div className="mx-auto mt-12 max-w-3xl px-4">
       <div className="rounded-3xl border border-border bg-surface p-8 sm:p-10">
@@ -60,6 +64,26 @@ export default async function ThanksPage({ params, searchParams }: PageProps<"/[
         <Suspense fallback={<div className="mt-10 h-40 animate-pulse rounded-2xl bg-background" />}>
           <PaidReport locale={locale} slug={def.slug} searchParams={searchParams} />
         </Suspense>
+        {related.length > 0 && (
+          <section className="mt-12">
+            <h2 className="mb-4 text-xl font-semibold">{ui.test.otherTests}</h2>
+            <div className="grid gap-4 sm:grid-cols-2">
+              {related.map((d, i) => (
+                <TestCard
+                  key={d.slug}
+                  locale={locale}
+                  cta={ui.test.tryNow}
+                  test={{
+                    slug: d.slug,
+                    name: relatedTexts[i].name,
+                    tagline: relatedTexts[i].tagline,
+                    meta: `${fmt(ui.test.questions, { count: d.items.length })} · ${fmt(ui.test.minutes, { count: d.minutes })}`,
+                  }}
+                />
+              ))}
+            </div>
+          </section>
+        )}
         <div className="mt-10 text-center">
           <Link href={`/${locale}#tests`} className="inline-flex rounded-lg bg-accent px-6 py-3 font-semibold text-white hover:bg-accent-strong">
             {ui.thanks.more}

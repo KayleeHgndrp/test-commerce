@@ -15,12 +15,13 @@ type Props = {
   name: string;
   dimensionNames: string[];
   price: string;
+  includes: string[];
   ui: UiMessages["result"];
 };
 
 type Stored = { answers: string; gender: string };
 
-export function ResultPreview({ locale, def, name, dimensionNames, price, ui }: Props) {
+export function ResultPreview({ locale, def, name, dimensionNames, price, includes, ui }: Props) {
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
   const [email, setEmail] = useState("");
   const [consent, setConsent] = useState(false);
@@ -114,6 +115,14 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, ui }: 
         <form onSubmit={buy} className="rounded-2xl border-2 border-accent bg-surface p-6 md:col-span-2">
           <h2 className="text-lg font-bold">{ui.unlockTitle}</h2>
           <p className="mt-2 text-sm leading-relaxed text-muted">{ui.unlockText}</p>
+          <ul className="mt-4 space-y-2 text-sm leading-relaxed">
+            {includes.map((line) => (
+              <li key={line} className="flex gap-2">
+                <span className="text-accent">✓</span>
+                {line}
+              </li>
+            ))}
+          </ul>
           <label className="mt-5 block text-sm font-medium" htmlFor="email">{ui.emailLabel}</label>
           <input
             id="email"
