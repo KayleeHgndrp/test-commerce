@@ -229,7 +229,9 @@
     "crisisTitle": "Du er ikke alene",
     "crisisText": "Du har oppgitt at du har hatt tanker om at du ville vært bedre tjent med å være død, eller om å skade deg selv. Snakk med noen i dag. Hvis du er i akutt fare, ring 112. Du kan også når som helst på døgnet kontakte en krisetelefon i landet ditt, for eksempel de som er oppført på findahelpline.com.",
     "crisisLink": "Finn en hjelpetelefon i nærheten",
-    "bundleNote": "Pakkepris: {price} i stedet for {full}"
+    "bundleNote": "Pakkepris: {price} i stedet for {full}",
+    "codeApplied": "Coachkoden din er brukt: denne rapporten er gratis.",
+    "codeInvalid": "Denne koden er ugyldig eller allerede brukt. Du kan fortsatt få rapporten til vanlig pris."
   },
   "thanks": {
     "title": "Takk for kjøpet!",

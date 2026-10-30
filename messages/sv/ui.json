@@ -229,7 +229,9 @@
     "crisisTitle": "Du är inte ensam",
     "crisisText": "Du har angett att du har haft tankar på att det vore bättre om du vore död eller på att skada dig själv. Prata med någon redan i dag. Om du är i akut fara, ring 112. Du kan också när som helst på dygnet kontakta en stödlinje i ditt land, till exempel någon av dem som listas på findahelpline.com.",
     "crisisLink": "Hitta en stödlinje nära dig",
-    "bundleNote": "Paketpris: {price} i stället för {full}"
+    "bundleNote": "Paketpris: {price} i stället för {full}",
+    "codeApplied": "Din coachkod är tillämpad: den här rapporten är gratis.",
+    "codeInvalid": "Koden är ogiltig eller redan använd. Du kan fortfarande få rapporten till ordinarie pris."
   },
   "thanks": {
     "title": "Tack för ditt köp!",

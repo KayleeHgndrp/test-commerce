@@ -229,7 +229,9 @@
     "crisisTitle": "Tu neesi viens",
     "crisisText": "Tu norādīji, ka tev ir bijušas domas, ka tev būtu labāk būt mirušam, vai domas par sev nodarītu kaitējumu. Lūdzu, vēl šodien parunā ar kādu. Ja esi tiešās briesmās, zvani 112. Jebkurā diennakts laikā vari sazināties arī ar krīzes tālruni savā valstī, piemēram, kādu no tiem, kas norādīti vietnē findahelpline.com.",
     "crisisLink": "Atrodi palīdzības tālruni savā tuvumā",
-    "bundleNote": "Komplekta cena: {price}, nevis {full}"
+    "bundleNote": "Komplekta cena: {price}, nevis {full}",
+    "codeApplied": "Jūsu koučinga kods ir piemērots: šis pārskats ir bez maksas.",
+    "codeInvalid": "Šis kods nav derīgs vai jau ir izmantots. Pārskatu joprojām varat saņemt par parasto cenu."
   },
   "thanks": {
     "title": "Paldies par pirkumu!",

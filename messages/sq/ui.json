@@ -229,7 +229,9 @@
     "crisisTitle": "Nuk je vetëm",
     "crisisText": "Ke treguar se ke pasur mendime se do të ishte më mirë të ishe i/e vdekur ose për të lënduar veten. Të lutem fol me dikë sot. Nëse je në rrezik të menjëhershëm, telefono 112. Mund të kontaktosh gjithashtu një linjë krize në vendin tënd, si ato të listuara në findahelpline.com, në çdo orë të ditës.",
     "crisisLink": "Gjej një linjë ndihme pranë teje",
-    "bundleNote": "Çmim paketë: {price} në vend të {full}"
+    "bundleNote": "Çmim paketë: {price} në vend të {full}",
+    "codeApplied": "Kodi yt i trajnerit u aplikua: ky raport është falas.",
+    "codeInvalid": "Ky kod nuk është i vlefshëm ose është përdorur tashmë. Mund ta marrësh ende raportin me çmimin normal."
   },
   "thanks": {
     "title": "Faleminderit për blerjen!",

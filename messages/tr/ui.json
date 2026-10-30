@@ -229,7 +229,9 @@
     "crisisTitle": "Yalnız değilsiniz",
     "crisisText": "Ölmüş olmanın daha iyi olacağına dair ya da kendinize zarar vermeye yönelik düşünceleriniz olduğunu belirttiniz. Lütfen bugün biriyle konuşun. Acil bir tehlike altındaysanız 112'yi arayın. Ayrıca günün her saatinde, findahelpline.com'da listelenenler gibi ülkenizdeki bir kriz hattına da ulaşabilirsiniz.",
     "crisisLink": "Yakınınızdaki bir yardım hattını bulun",
-    "bundleNote": "Paket fiyatı: {full} yerine {price}"
+    "bundleNote": "Paket fiyatı: {full} yerine {price}",
+    "codeApplied": "Koç kodun uygulandı: bu rapor ücretsiz.",
+    "codeInvalid": "Bu kod geçersiz veya daha önce kullanılmış. Raporu yine de normal fiyatla alabilirsin."
   },
   "thanks": {
     "title": "Satın aldığınız için teşekkürler!",

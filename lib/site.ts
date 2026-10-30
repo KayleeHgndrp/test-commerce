@@ -15,6 +15,12 @@ export const site = {
   // Price of a second report bought within bundleDays of a paid order.
   bundlePriceCents: Number(process.env.NEXT_PUBLIC_BUNDLE_PRICE_CENTS ?? 195),
   bundleDays: 7,
+  // Coach pack: prepaid report codes a coach hands to clients.
+  coachPackSize: 10,
+  coachPackCents: Number(process.env.NEXT_PUBLIC_COACH_PACK_CENTS ?? 2490),
+  // Affiliate commission on the net revenue (excl. VAT and Stripe fees) of a referred sale.
+  affiliateShare: 0.3,
+  affiliateDays: 60,
   // Google Analytics 4 measurement ID. Public by design; loads only after cookie consent.
   gaId: process.env.NEXT_PUBLIC_GA_ID || "G-Z486VT99NP",
   currency: (process.env.NEXT_PUBLIC_REPORT_CURRENCY ?? "eur").toLowerCase(),

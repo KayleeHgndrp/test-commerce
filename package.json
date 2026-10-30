@@ -11,7 +11,8 @@
     "lint": "eslint",
     "check:content": "node scripts/check-content.mjs",
     "check:blog": "node scripts/check-blog.mjs",
-    "gsc": "node scripts/gsc.mjs"
+    "gsc": "node scripts/gsc.mjs",
+    "partners": "node scripts/partners.mjs"
   },
   "dependencies": {
     "country-flag-icons": "1.5.x",

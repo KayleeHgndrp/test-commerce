@@ -229,7 +229,9 @@
     "crisisTitle": "No estàs sol",
     "crisisText": "Has indicat que has tingut pensaments que estaries millor mort o de fer-te mal. Si us plau, parla avui amb algú. Si et trobes en perill immediat, truca al 112. També pots contactar a qualsevol hora del dia amb una línia d'atenció en crisi del teu país, com les que trobaràs a findahelpline.com.",
     "crisisLink": "Troba una línia d'ajuda a prop teu",
-    "bundleNote": "Preu de paquet: {price} en lloc de {full}"
+    "bundleNote": "Preu de paquet: {price} en lloc de {full}",
+    "codeApplied": "El teu codi de coach s'ha aplicat: aquest informe és gratuït.",
+    "codeInvalid": "Aquest codi no és vàlid o ja s'ha utilitzat. Encara pots obtenir l'informe al preu normal."
   },
   "thanks": {
     "title": "Gràcies per la teva compra!",

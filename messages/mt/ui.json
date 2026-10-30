@@ -229,7 +229,9 @@
     "crisisTitle": "M'intix waħdek",
     "crisisText": "Indikajt li kellek ħsibijiet li jkun aħjar li kont mejjet jew li tweġġa' lilek innifsek. Jekk jogħġbok kellem lil xi ħadd illum. Jekk tinsab f'periklu immedjat, ċempel 112. Tista' wkoll tikkuntattja linja ta' kriżi f'pajjiżek, bħal dawk elenkati fuq findahelpline.com, fi kwalunkwe ħin tal-ġurnata.",
     "crisisLink": "Sib linja ta' għajnuna qrib tiegħek",
-    "bundleNote": "Prezz tal-pakkett: {price} minflok {full}"
+    "bundleNote": "Prezz tal-pakkett: {price} minflok {full}",
+    "codeApplied": "Il-kodiċi tal-coach tiegħek ġie applikat: dan ir-rapport huwa b'xejn.",
+    "codeInvalid": "Dan il-kodiċi mhuwiex validu jew diġà ntuża. Xorta tista' tieħu r-rapport bil-prezz normali."
   },
   "thanks": {
     "title": "Grazzi tax-xiri tiegħek!",

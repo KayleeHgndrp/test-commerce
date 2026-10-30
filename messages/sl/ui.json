@@ -229,7 +229,9 @@
     "crisisTitle": "Niste sami",
     "crisisText": "Navedli ste, da ste imeli misli, da bi bilo bolje, če bi bili mrtvi, ali misli, da bi se poškodovali. Prosimo, da se še danes s kom pogovorite. Če ste v neposredni nevarnosti, pokličite 112. Kadar koli v dnevu se lahko obrnete tudi na krizno linijo v svoji državi, na primer na eno od tistih, navedenih na findahelpline.com.",
     "crisisLink": "Poiščite telefon za pomoč v svoji bližini",
-    "bundleNote": "Paketna cena: {price} namesto {full}"
+    "bundleNote": "Paketna cena: {price} namesto {full}",
+    "codeApplied": "Tvoja koda coacha je uveljavljena: to poročilo je brezplačno.",
+    "codeInvalid": "Ta koda ni veljavna ali je že bila uporabljena. Poročilo lahko še vedno dobiš po običajni ceni."
   },
   "thanks": {
     "title": "Hvala za nakup!",

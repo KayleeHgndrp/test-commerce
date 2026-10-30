@@ -229,7 +229,9 @@
     "crisisTitle": "Þú ert ekki ein(n)",
     "crisisText": "Þú gafst til kynna að þú hafir haft hugsanir um að þú værir betur sett(ur) dáin(n) eða um að skaða sjálfa(n) þig. Talaðu við einhvern í dag. Ef þú ert í bráðri hættu skaltu hringja í 112. Þú getur líka haft samband við hjálparsíma í þínu landi, til dæmis þá sem eru skráðir á findahelpline.com, hvenær sem er sólarhringsins.",
     "crisisLink": "Finndu hjálparsíma nálægt þér",
-    "bundleNote": "Pakkaverð: {price} í stað {full}"
+    "bundleNote": "Pakkaverð: {price} í stað {full}",
+    "codeApplied": "Þjálfarakóðinn þinn er virkur: þessi skýrsla er ókeypis.",
+    "codeInvalid": "Þessi kóði er ógildur eða hefur þegar verið notaður. Þú getur samt fengið skýrsluna á venjulegu verði."
   },
   "thanks": {
     "title": "Takk fyrir kaupin!",

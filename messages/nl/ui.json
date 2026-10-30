@@ -229,7 +229,9 @@
     "crisisTitle": "Je staat er niet alleen voor",
     "crisisText": "Je gaf aan dat je gedachten hebt gehad dat je beter dood zou zijn of dat je jezelf iets wilt aandoen. Praat er alsjeblieft vandaag met iemand over. Ben je in direct gevaar, bel dan 112. Je kunt ook op elk moment van de dag contact opnemen met een crisislijn in je land, zoals die op findahelpline.com.",
     "crisisLink": "Vind een hulplijn bij jou in de buurt",
-    "bundleNote": "Bundelprijs: {price} in plaats van {full}"
+    "bundleNote": "Bundelprijs: {price} in plaats van {full}",
+    "codeApplied": "Je coachcode is toegepast: dit rapport is gratis.",
+    "codeInvalid": "Deze code is ongeldig of al gebruikt. Je kunt het rapport nog steeds voor de normale prijs krijgen."
   },
   "thanks": {
     "title": "Bedankt voor je aankoop!",
