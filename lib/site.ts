@@ -15,6 +15,8 @@ export const site = {
   // Price of a second report bought within bundleDays of a paid order.
   bundlePriceCents: Number(process.env.NEXT_PUBLIC_BUNDLE_PRICE_CENTS ?? 195),
   bundleDays: 7,
+  // Google Analytics 4 measurement ID. Public by design; loads only after cookie consent.
+  gaId: process.env.NEXT_PUBLIC_GA_ID || "G-Z486VT99NP",
   currency: (process.env.NEXT_PUBLIC_REPORT_CURRENCY ?? "eur").toLowerCase(),
 };
 

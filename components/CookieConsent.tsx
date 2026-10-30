@@ -4,8 +4,9 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { loadGoogleAnalytics, readConsent, saveConsent, type Consent } from "@/lib/analytics";
 import type { UiMessages } from "@/lib/i18n/messages";
+import { site } from "@/lib/site";
 
-const gaId = process.env.NEXT_PUBLIC_GA_ID;
+const gaId = site.gaId;
 
 // Asks for permission before Google Analytics sets any cookie (required in the EU).
 export function CookieConsent({ locale, ui, policy }: { locale: string; ui: UiMessages["consent"]; policy: string }) {
