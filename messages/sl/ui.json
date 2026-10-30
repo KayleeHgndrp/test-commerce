@@ -228,13 +228,16 @@
     "takeTest": "Reši test",
     "crisisTitle": "Niste sami",
     "crisisText": "Navedli ste, da ste imeli misli, da bi bilo bolje, če bi bili mrtvi, ali misli, da bi se poškodovali. Prosimo, da se še danes s kom pogovorite. Če ste v neposredni nevarnosti, pokličite 112. Kadar koli v dnevu se lahko obrnete tudi na krizno linijo v svoji državi, na primer na eno od tistih, navedenih na findahelpline.com.",
-    "crisisLink": "Poiščite telefon za pomoč v svoji bližini"
+    "crisisLink": "Poiščite telefon za pomoč v svoji bližini",
+    "bundleNote": "Paketna cena: {price} namesto {full}"
   },
   "thanks": {
     "title": "Hvala za nakup!",
     "text": "Vaše osebno poročilo je na poti v vaš e-poštni predal. Običajno prispe v eni minuti.",
     "spam": "Ga po 10 minutah še niste prejeli? Preverite mapo z neželeno pošto ali promocijami ali nam pišite na {email}.",
-    "more": "Odkrijte več testov"
+    "more": "Odkrijte več testov",
+    "bundleTitle": "Vaše naslednje poročilo za {price}",
+    "bundleText": "Spodaj izberite še en test in ga rešite v {days} dneh. Celotno poročilo bo takrat stalo {price} namesto {full}. Velja za eno dodatno poročilo."
   },
   "report": {
     "subject": "Vaše poročilo: {test}",
@@ -269,6 +272,7 @@
       "Zbiramo le podatke, potrebne za izvajanje naše storitve: vaše odgovore na testu in, če kupite poročilo, vaš e-naslov.",
       "Vaše odgovore obdelamo za izračun vašega rezultata. Ko kupite poročilo, se vaši odgovori in e-naslov posredujejo našemu ponudniku plačilnih storitev Stripe in našemu ponudniku e-poštnih storitev, da se lahko izvede plačilo in dostavi poročilo.",
       "Vaših podatkov ne prodajamo in jih ne uporabljamo za oglaševanje. Kadar koli lahko zahtevate izbris svojih podatkov, tako da nam pišete na {email}.",
+      "Če sprejmete analitične piškotke, z Google Analytics zbiramo statistiko uporabe, na primer katere strani so obiskane. Google lahko te podatke obdeluje zunaj EU na podlagi okvira EU-US Data Privacy Framework.",
       "Plačila obdeluje Stripe. Podatkov vaše kartice nikoli ne vidimo in jih ne hranimo."
     ],
     "termsTitle": "Pogoji uporabe",
@@ -280,7 +284,7 @@
     ],
     "cookiesTitle": "Pravilnik o piškotkih",
     "cookiesBody": [
-      "{site} ne uporablja oglaševalskih piškotkov ali piškotkov za sledenje.",
+      "Z vašim soglasjem {site} uporablja piškotke Google Analytics za merjenje uporabe spletnega mesta. Oglaševalskih piškotkov ne uporabljamo. Svojo izbiro lahko kadar koli spremenite z gumbom spodaj.",
       "V vašem brskalniku shranjujemo le nujno potrebne podatke: izbrani jezik in vaš napredek v testu, da lahko nadaljujete, kjer ste ostali. Ti podatki ostanejo v vaši napravi.",
       "Ko plačate, lahko naš ponudnik plačilnih storitev Stripe namesti piškotke, potrebne za varno obdelavo plačila in preprečevanje goljufij.",
       "Imate vprašanja? Pišite nam na {email}."
@@ -375,5 +379,11 @@
     "title": "Strani ni mogoče najti",
     "text": "Stran, ki jo iščete, ne obstaja ali je bila premaknjena.",
     "home": "Nazaj na začetno stran"
+  },
+  "consent": {
+    "text": "Uporabljamo piškotke Google Analytics, da vidimo, kako obiskovalci uporabljajo spletno mesto, in izboljšamo naše teste. Samo če se strinjate.",
+    "accept": "Sprejmi",
+    "decline": "Zavrni",
+    "settings": "Spremeni nastavitve piškotkov"
   }
 }

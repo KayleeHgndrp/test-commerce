@@ -228,13 +228,16 @@
     "takeTest": "Déan an tástáil",
     "crisisTitle": "Níl tú i d'aonar",
     "crisisText": "Thug tú le fios go raibh smaointe agat go mbeadh sé níos fearr duit a bheith marbh nó go ngortófá thú féin. Labhair le duine éigin inniu, le do thoil. Má tá tú i mbaol láithreach, glaoigh ar 112. Is féidir leat teagmháil a dhéanamh freisin le líne ghéarchéime i do thír féin, mar shampla iad siúd atá liostaithe ar findahelpline.com, ag am ar bith den lá.",
-    "crisisLink": "Aimsigh líne chabhrach in aice leat"
+    "crisisLink": "Aimsigh líne chabhrach in aice leat",
+    "bundleNote": "Praghas beartáin: {price} in ionad {full}"
   },
   "thanks": {
     "title": "Go raibh maith agat as do cheannach!",
     "text": "Tá do thuarascáil phearsanta ar an mbealach chuig do bhosca isteach. Sroicheann sí laistigh de nóiméad de ghnáth.",
     "spam": "Níl sí faighte agat tar éis 10 nóiméad? Seiceáil d'fhillteán turscair nó cur chun cinn, nó déan teagmháil linn ag {email}.",
-    "more": "Faigh amach faoi níos mó tástálacha"
+    "more": "Faigh amach faoi níos mó tástálacha",
+    "bundleTitle": "Do chéad tuarascáil eile ar {price}",
+    "bundleText": "Roghnaigh triail eile thíos agus déan í laistigh de {days} lá. Cosnóidh an tuarascáil iomlán {price} in ionad {full} ansin. Bailí do thuarascáil bhreise amháin."
   },
   "report": {
     "subject": "Do thuarascáil: {test}",
@@ -269,6 +272,7 @@
       "Ní bhailímid ach na sonraí a theastaíonn chun ár seirbhís a sholáthar: do fhreagraí ar an tástáil agus, má cheannaíonn tú tuarascáil, do sheoladh ríomhphoist.",
       "Próiseáiltear do fhreagraí chun do thoradh a ríomh. Nuair a cheannaíonn tú tuarascáil, cuirtear do fhreagraí agus do sheoladh ríomhphoist ar aghaidh chuig ár soláthraí íocaíochta Stripe agus chuig ár soláthraí ríomhphoist chun an íocaíocht a phróiseáil agus an tuarascáil a sheachadadh.",
       "Ní dhíolaimid do shonraí agus ní úsáidimid iad le haghaidh fógraíochta. Is féidir leat iarraidh orainn tráth ar bith do shonraí a scriosadh trí theagmháil a dhéanamh le {email}.",
+      "Má ghlacann tú le fianáin anailíse, úsáidimid Google Analytics chun staitisticí úsáide a bhailiú, mar shampla na leathanaigh a dtugtar cuairt orthu. Féadfaidh Google na sonraí seo a phróiseáil lasmuigh den AE faoin EU-US Data Privacy Framework.",
       "Is é Stripe a láimhseálann íocaíochtaí. Ní fheicimid ná ní stórálaimid sonraí do chárta riamh."
     ],
     "termsTitle": "Téarmaí seirbhíse",
@@ -280,7 +284,7 @@
     ],
     "cookiesTitle": "Beartas fianán",
     "cookiesBody": [
-      "Ní úsáideann {site} fianáin fógraíochta ná rianaithe.",
+      "Le do thoiliú, úsáideann {site} fianáin Google Analytics chun úsáid an tsuímh a thomhas. Ní úsáidimid fianáin fógraíochta. Is féidir leat do rogha a athrú am ar bith leis an gcnaipe thíos.",
       "Ní stórálaimid i do bhrabhsálaí ach sonraí atá fíor-riachtanach: an teanga a roghnaigh tú agus do dhul chun cinn i dtástáil, ionas gur féidir leat leanúint ar aghaidh ón áit ar stop tú. Fanann na sonraí seo ar do ghléas.",
       "Nuair a íocann tú, féadfaidh ár soláthraí íocaíochta Stripe fianáin a chur atá riachtanach chun an íocaíocht a phróiseáil go slán agus chun calaois a chosc.",
       "Ceisteanna? Déan teagmháil linn ag {email}."
@@ -375,5 +379,11 @@
     "title": "Níor aimsíodh an leathanach",
     "text": "Níl an leathanach atá á lorg agat ann nó bogadh é.",
     "home": "Ar ais chuig an mbaile"
+  },
+  "consent": {
+    "text": "Úsáidimid fianáin Google Analytics chun a fheiceáil conas a úsáideann cuairteoirí an suíomh, ionas gur féidir linn ár dtrialacha a fheabhsú. Ach amháin má thoilíonn tú.",
+    "accept": "Glac leo",
+    "decline": "Diúltaigh",
+    "settings": "Athraigh socruithe fianán"
   }
 }

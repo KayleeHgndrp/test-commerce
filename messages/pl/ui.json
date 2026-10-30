@@ -228,13 +228,16 @@
     "takeTest": "Rozwiąż test",
     "crisisTitle": "Nie jesteś sam(a)",
     "crisisText": "Z Twoich odpowiedzi wynika, że miewasz myśli, że lepiej byłoby nie żyć, albo myśli o zrobieniu sobie krzywdy. Proszę, porozmawiaj z kimś jeszcze dziś. Jeśli grozi Ci bezpośrednie niebezpieczeństwo, zadzwoń pod 112. Możesz też o każdej porze skontaktować się z telefonem zaufania w swoim kraju, np. z listy na findahelpline.com.",
-    "crisisLink": "Znajdź telefon zaufania w pobliżu"
+    "crisisLink": "Znajdź telefon zaufania w pobliżu",
+    "bundleNote": "Cena w pakiecie: {price} zamiast {full}"
   },
   "thanks": {
     "title": "Dziękujemy za zakup!",
     "text": "Twój osobisty raport jest już w drodze na Twoją skrzynkę. Zwykle dociera w ciągu minuty.",
     "spam": "Nie dotarł po 10 minutach? Sprawdź folder spam lub oferty albo napisz do nas na {email}.",
-    "more": "Odkryj więcej testów"
+    "more": "Odkryj więcej testów",
+    "bundleTitle": "Twój kolejny raport za {price}",
+    "bundleText": "Wybierz poniżej kolejny test i wykonaj go w ciągu {days} dni. Pełny raport będzie wtedy kosztować {price} zamiast {full}. Dotyczy jednego dodatkowego raportu."
   },
   "report": {
     "subject": "Twój raport: {test}",
@@ -269,6 +272,7 @@
       "Zbieramy wyłącznie dane niezbędne do świadczenia naszej usługi: Twoje odpowiedzi w testach oraz, jeśli kupisz raport, Twój adres e-mail.",
       "Twoje odpowiedzi są przetwarzane w celu obliczenia wyniku. Gdy kupujesz raport, Twoje odpowiedzi i adres e-mail są przekazywane naszemu operatorowi płatności Stripe oraz dostawcy usług e-mail w celu realizacji płatności i dostarczenia raportu.",
       "Nie sprzedajemy Twoich danych i nie wykorzystujemy ich do celów reklamowych. W każdej chwili możesz poprosić o usunięcie swoich danych, pisząc na {email}.",
+      "Jeśli zaakceptujesz analityczne pliki cookie, używamy Google Analytics do zbierania statystyk korzystania, na przykład które strony są odwiedzane. Google może przetwarzać te dane poza UE na podstawie EU-US Data Privacy Framework.",
       "Płatności obsługuje Stripe. Nigdy nie widzimy ani nie przechowujemy danych Twojej karty."
     ],
     "termsTitle": "Warunki korzystania z usługi",
@@ -280,7 +284,7 @@
     ],
     "cookiesTitle": "Polityka cookies",
     "cookiesBody": [
-      "{site} nie używa reklamowych ani śledzących plików cookie.",
+      "Za Twoją zgodą {site} używa plików cookie Google Analytics do mierzenia, jak korzystasz ze strony. Nie używamy reklamowych plików cookie. Swój wybór możesz zmienić w każdej chwili przyciskiem poniżej.",
       "W Twojej przeglądarce przechowujemy tylko niezbędne dane: wybrany język i postęp w teście, abyś mógł kontynuować od miejsca, w którym przerwano. Dane te pozostają na Twoim urządzeniu.",
       "Podczas płatności nasz operator płatności Stripe może zapisywać pliki cookie niezbędne do bezpiecznej realizacji płatności i zapobiegania oszustwom.",
       "Masz pytania? Napisz do nas na {email}."
@@ -375,5 +379,11 @@
     "title": "Nie znaleziono strony",
     "text": "Strona, której szukasz, nie istnieje lub została przeniesiona.",
     "home": "Wróć na stronę główną"
+  },
+  "consent": {
+    "text": "Używamy plików cookie Google Analytics, aby sprawdzić, jak odwiedzający korzystają ze strony, i ulepszać nasze testy. Tylko za Twoją zgodą.",
+    "accept": "Akceptuję",
+    "decline": "Odrzucam",
+    "settings": "Zmień ustawienia plików cookie"
   }
 }

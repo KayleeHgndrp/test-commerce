@@ -228,13 +228,16 @@
     "takeTest": "Ta testen",
     "crisisTitle": "Du er ikke alene",
     "crisisText": "Du har oppgitt at du har hatt tanker om at du ville vært bedre tjent med å være død, eller om å skade deg selv. Snakk med noen i dag. Hvis du er i akutt fare, ring 112. Du kan også når som helst på døgnet kontakte en krisetelefon i landet ditt, for eksempel de som er oppført på findahelpline.com.",
-    "crisisLink": "Finn en hjelpetelefon i nærheten"
+    "crisisLink": "Finn en hjelpetelefon i nærheten",
+    "bundleNote": "Pakkepris: {price} i stedet for {full}"
   },
   "thanks": {
     "title": "Takk for kjøpet!",
     "text": "Den personlige rapporten din er på vei til innboksen. Den kommer vanligvis i løpet av ett minutt.",
     "spam": "Ikke mottatt etter 10 minutter? Sjekk søppelpostmappen eller kampanjemappen, eller kontakt oss på {email}.",
-    "more": "Oppdag flere tester"
+    "more": "Oppdag flere tester",
+    "bundleTitle": "Din neste rapport for {price}",
+    "bundleText": "Velg en test til nedenfor og ta den innen {days} dager. Den fullstendige rapporten koster da {price} i stedet for {full}. Gjelder én ekstra rapport."
   },
   "report": {
     "subject": "Din rapport: {test}",
@@ -269,6 +272,7 @@
       "Vi samler bare inn dataene vi trenger for å levere tjenesten: svarene dine på testen og, hvis du kjøper en rapport, e-postadressen din.",
       "Svarene dine behandles for å beregne resultatet ditt. Når du kjøper en rapport, overføres svarene og e-postadressen din til betalingsleverandøren vår Stripe og e-postleverandøren vår, slik at betalingen kan behandles og rapporten leveres.",
       "Vi selger ikke dataene dine og bruker dem ikke til reklame. Du kan når som helst be oss slette dataene dine ved å kontakte {email}.",
+      "Hvis du godtar analysekapsler, bruker vi Google Analytics til å samle inn bruksstatistikk, for eksempel hvilke sider som besøkes. Google kan behandle disse dataene utenfor EU/EØS under EU-US Data Privacy Framework.",
       "Betalinger håndteres av Stripe. Vi ser eller lagrer aldri kortopplysningene dine."
     ],
     "termsTitle": "Bruksvilkår",
@@ -280,7 +284,7 @@
     ],
     "cookiesTitle": "Informasjonskapsler",
     "cookiesBody": [
-      "{site} bruker ikke informasjonskapsler til reklame eller sporing.",
+      "Med ditt samtykke bruker {site} informasjonskapsler fra Google Analytics for å måle hvordan nettstedet brukes. Vi bruker ikke reklamekapsler. Du kan når som helst endre valget ditt med knappen nedenfor.",
       "Vi lagrer bare strengt nødvendige data i nettleseren din: språket du har valgt og fremgangen din i en test, slik at du kan fortsette der du slapp. Disse dataene blir værende på enheten din.",
       "Når du betaler, kan betalingsleverandøren vår Stripe sette informasjonskapsler som er nødvendige for å behandle betalingen sikkert og forhindre svindel.",
       "Spørsmål? Kontakt oss på {email}."
@@ -375,5 +379,11 @@
     "title": "Fant ikke siden",
     "text": "Siden du leter etter, finnes ikke eller er flyttet.",
     "home": "Tilbake til forsiden"
+  },
+  "consent": {
+    "text": "Vi bruker informasjonskapsler fra Google Analytics for å se hvordan nettstedet brukes, slik at vi kan forbedre testene våre. Bare hvis du godtar det.",
+    "accept": "Godta",
+    "decline": "Avslå",
+    "settings": "Endre innstillinger for informasjonskapsler"
   }
 }

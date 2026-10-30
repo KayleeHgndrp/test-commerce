@@ -228,13 +228,16 @@
     "takeTest": "Fes el test",
     "crisisTitle": "No estàs sol",
     "crisisText": "Has indicat que has tingut pensaments que estaries millor mort o de fer-te mal. Si us plau, parla avui amb algú. Si et trobes en perill immediat, truca al 112. També pots contactar a qualsevol hora del dia amb una línia d'atenció en crisi del teu país, com les que trobaràs a findahelpline.com.",
-    "crisisLink": "Troba una línia d'ajuda a prop teu"
+    "crisisLink": "Troba una línia d'ajuda a prop teu",
+    "bundleNote": "Preu de paquet: {price} en lloc de {full}"
   },
   "thanks": {
     "title": "Gràcies per la teva compra!",
     "text": "El teu informe personal ja és de camí a la teva safata. Normalment arriba en menys d'un minut.",
     "spam": "No l'has rebut al cap de 10 minuts? Revisa la carpeta de correu brossa o de promocions, o escriu-nos a {email}.",
-    "more": "Descobreix més tests"
+    "more": "Descobreix més tests",
+    "bundleTitle": "El teu proper informe per {price}",
+    "bundleText": "Tria un altre test a sota i fes-lo en els propers {days} dies. L'informe complet costarà {price} en lloc de {full}. Vàlid per a un informe addicional."
   },
   "report": {
     "subject": "El teu informe: {test}",
@@ -269,6 +272,7 @@
       "Només recollim les dades necessàries per oferir el nostre servei: les teves respostes al test i, si compres un informe, la teva adreça electrònica.",
       "Les teves respostes es tracten per calcular el teu resultat. Quan compres un informe, les teves respostes i la teva adreça electrònica es comuniquen al nostre proveïdor de pagaments, Stripe, i al nostre proveïdor de correu electrònic per processar el pagament i lliurar l'informe.",
       "No venem les teves dades ni les fem servir per a publicitat. En qualsevol moment pots demanar-nos que les suprimim escrivint a {email}.",
+      "Si acceptes les galetes analítiques, fem servir Google Analytics per recollir estadístiques d'ús, com ara quines pàgines es visiten. Google pot tractar aquestes dades fora de la UE en el marc del Data Privacy Framework UE-EUA.",
       "Els pagaments els gestiona Stripe. Nosaltres no veiem ni desem mai les dades de la teva targeta."
     ],
     "termsTitle": "Condicions del servei",
@@ -280,7 +284,7 @@
     ],
     "cookiesTitle": "Política de galetes",
     "cookiesBody": [
-      "{site} no utilitza galetes publicitàries ni de seguiment.",
+      "Amb el teu consentiment, {site} fa servir galetes de Google Analytics per mesurar com s'utilitza el lloc. No fem servir galetes publicitàries. Pots canviar la teva elecció en qualsevol moment amb el botó de sota.",
       "Només desem al teu navegador les dades estrictament necessàries: l'idioma que has triat i el teu progrés en un test, perquè puguis continuar on ho vas deixar. Aquestes dades es queden al teu dispositiu.",
       "Quan pagues, el nostre proveïdor de pagaments, Stripe, pot instal·lar galetes necessàries per processar el pagament de manera segura i prevenir el frau.",
       "Tens preguntes? Escriu-nos a {email}."
@@ -375,5 +379,11 @@
     "title": "No s'ha trobat la pàgina",
     "text": "La pàgina que cerques no existeix o s'ha mogut.",
     "home": "Torna a l'inici"
+  },
+  "consent": {
+    "text": "Fem servir galetes de Google Analytics per veure com s'utilitza el lloc i millorar els nostres tests. Només si hi estàs d'acord.",
+    "accept": "Acceptar",
+    "decline": "Rebutjar",
+    "settings": "Canviar la configuració de galetes"
   }
 }

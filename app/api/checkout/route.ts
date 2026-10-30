@@ -1,5 +1,6 @@
 import { hasLocale } from "@/lib/i18n/locales";
 import { getDefinition, getTestText } from "@/lib/i18n/messages";
+import { validBundleSource } from "@/lib/delivery";
 import { sendEmail } from "@/lib/email";
 import { renderReport } from "@/lib/report/render";
 import { site } from "@/lib/site";
@@ -13,7 +14,7 @@ const STRIPE_LOCALES = new Set([
 
 export async function POST(request: Request) {
   const body = (await request.json().catch(() => null)) as Record<string, unknown> | null;
-  const { slug, locale, email, answers, gender } = (body ?? {}) as Record<string, string>;
+  const { slug, locale, email, answers, gender, bundleFrom } = (body ?? {}) as Record<string, string>;
 
   const def = typeof slug === "string" ? getDefinition(slug) : undefined;
   const decoded = def && typeof answers === "string" ? decodeAnswers(def, answers) : null;
@@ -35,13 +36,15 @@ export async function POST(request: Request) {
   }
 
   const text = await getTestText(locale, slug);
+  // An invalid or used offer silently falls back to the normal price.
+  const bundle = typeof bundleFrom === "string" && bundleFrom ? await validBundleSource(bundleFrom, slug).catch(() => null) : null;
   const session = await stripeRequest<{ url: string }>("checkout/sessions", {
     mode: "payment",
     customer_email: email,
     locale: STRIPE_LOCALES.has(locale) ? locale : locale === "no" ? "nb" : "auto",
     "line_items[0][quantity]": "1",
     "line_items[0][price_data][currency]": site.currency,
-    "line_items[0][price_data][unit_amount]": String(site.priceCents),
+    "line_items[0][price_data][unit_amount]": String(bundle ? site.bundlePriceCents : site.priceCents),
     "line_items[0][price_data][product_data][name]": `${text.name} – ${site.name}`,
     success_url: `${thanksUrl}?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${origin}/${locale}/${slug}/result`,
@@ -53,6 +56,7 @@ export async function POST(request: Request) {
     "metadata[locale]": locale,
     "metadata[answers]": answers,
     "metadata[gender]": ["male", "female", "other"].includes(gender) ? gender : "other",
+    ...(bundle ? { "metadata[bundle_from]": bundle.id } : {}),
   });
 
   return Response.json({ url: session.url });

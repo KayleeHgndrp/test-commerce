@@ -228,13 +228,16 @@
     "takeTest": "Riješi test",
     "crisisTitle": "Niste sami",
     "crisisText": "Naveli ste da ste imali misli da bi vam bilo bolje da ste mrtvi ili da biste se ozlijedili. Molimo vas da danas razgovarate s nekim. Ako ste u neposrednoj opasnosti, nazovite 112. U bilo koje doba dana možete se obratiti i kriznoj liniji u svojoj zemlji, primjerice nekoj od onih navedenih na findahelpline.com.",
-    "crisisLink": "Pronađite liniju za pomoć u svojoj blizini"
+    "crisisLink": "Pronađite liniju za pomoć u svojoj blizini",
+    "bundleNote": "Paketna cijena: {price} umjesto {full}"
   },
   "thanks": {
     "title": "Hvala na kupnji!",
     "text": "Vaše osobno izvješće stiže u vaš sandučić. Obično stigne u roku od minute.",
     "spam": "Niste ga primili ni nakon 10 minuta? Provjerite mapu neželjene pošte ili promocija ili nam se javite na {email}.",
-    "more": "Otkrijte još testova"
+    "more": "Otkrijte još testova",
+    "bundleTitle": "Vaše sljedeće izvješće za {price}",
+    "bundleText": "Odaberite još jedan test ispod i riješite ga u roku od {days} dana. Cijelo izvješće tada stoji {price} umjesto {full}. Vrijedi za jedno dodatno izvješće."
   },
   "report": {
     "subject": "Vaše izvješće: {test}",
@@ -269,6 +272,7 @@
       "Prikupljamo samo podatke potrebne za pružanje naše usluge: vaše odgovore na testu i, ako kupite izvješće, vašu adresu e-pošte.",
       "Vaši se odgovori obrađuju radi izračuna rezultata. Kada kupite izvješće, vaši odgovori i adresa e-pošte prosljeđuju se našem pružatelju usluga plaćanja Stripeu i našem pružatelju usluga e-pošte radi obrade plaćanja i dostave izvješća.",
       "Vaše podatke ne prodajemo i ne koristimo ih za oglašavanje. U bilo kojem trenutku možete zatražiti brisanje svojih podataka slanjem poruke na {email}.",
+      "Ako prihvatite analitičke kolačiće, koristimo Google Analytics za prikupljanje statistike korištenja, primjerice koje se stranice posjećuju. Google te podatke može obrađivati izvan EU-a na temelju okvira EU-US Data Privacy Framework.",
       "Plaćanja obrađuje Stripe. Podatke vaše kartice nikada ne vidimo niti ih pohranjujemo."
     ],
     "termsTitle": "Uvjeti korištenja",
@@ -280,7 +284,7 @@
     ],
     "cookiesTitle": "Pravila o kolačićima",
     "cookiesBody": [
-      "{site} ne koristi kolačiće za oglašavanje ni praćenje.",
+      "Uz vašu privolu {site} koristi kolačiće Google Analyticsa za mjerenje korištenja stranice. Ne koristimo kolačiće za oglašavanje. Svoj izbor možete promijeniti u bilo kojem trenutku gumbom ispod.",
       "U vašem pregledniku pohranjujemo samo nužno potrebne podatke: odabrani jezik i napredak u testu, kako biste mogli nastaviti ondje gdje ste stali. Ti podaci ostaju na vašem uređaju.",
       "Prilikom plaćanja naš pružatelj usluga plaćanja Stripe može postaviti kolačiće potrebne za sigurnu obradu plaćanja i sprječavanje prijevara.",
       "Imate pitanja? Javite nam se na {email}."
@@ -375,5 +379,11 @@
     "title": "Stranica nije pronađena",
     "text": "Stranica koju tražite ne postoji ili je premještena.",
     "home": "Natrag na početnu"
+  },
+  "consent": {
+    "text": "Koristimo kolačiće Google Analyticsa kako bismo vidjeli kako posjetitelji koriste stranicu i poboljšali naše testove. Samo ako se slažete.",
+    "accept": "Prihvati",
+    "decline": "Odbij",
+    "settings": "Promijeni postavke kolačića"
   }
 }

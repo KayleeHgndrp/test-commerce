@@ -228,13 +228,16 @@
     "takeTest": "Testi çöz",
     "crisisTitle": "Yalnız değilsiniz",
     "crisisText": "Ölmüş olmanın daha iyi olacağına dair ya da kendinize zarar vermeye yönelik düşünceleriniz olduğunu belirttiniz. Lütfen bugün biriyle konuşun. Acil bir tehlike altındaysanız 112'yi arayın. Ayrıca günün her saatinde, findahelpline.com'da listelenenler gibi ülkenizdeki bir kriz hattına da ulaşabilirsiniz.",
-    "crisisLink": "Yakınınızdaki bir yardım hattını bulun"
+    "crisisLink": "Yakınınızdaki bir yardım hattını bulun",
+    "bundleNote": "Paket fiyatı: {full} yerine {price}"
   },
   "thanks": {
     "title": "Satın aldığınız için teşekkürler!",
     "text": "Kişisel raporunuz e-posta kutunuza doğru yola çıktı. Genellikle bir dakika içinde ulaşır.",
     "spam": "10 dakika sonra hâlâ gelmedi mi? Spam veya promosyonlar klasörünüzü kontrol edin ya da {email} adresinden bize ulaşın.",
-    "more": "Daha fazla test keşfedin"
+    "more": "Daha fazla test keşfedin",
+    "bundleTitle": "Sonraki raporun {price}",
+    "bundleText": "Aşağıdan bir test daha seç ve {days} gün içinde tamamla. Tam raporu o zaman {full} yerine {price} olur. Bir ek rapor için geçerlidir."
   },
   "report": {
     "subject": "{test} raporunuz",
@@ -269,6 +272,7 @@
       "Yalnızca hizmetimizi sunmak için gereken verileri topluyoruz: test yanıtlarınız ve rapor satın alırsanız e-posta adresiniz.",
       "Yanıtlarınız sonucunuzu hesaplamak için işlenir. Bir rapor satın aldığınızda, ödemenin işlenmesi ve raporun teslim edilmesi amacıyla yanıtlarınız ve e-posta adresiniz ödeme sağlayıcımız Stripe'a ve e-posta sağlayıcımıza aktarılır.",
       "Verilerinizi satmıyor ve reklam amacıyla kullanmıyoruz. {email} adresinden bize ulaşarak verilerinizin silinmesini istediğiniz zaman talep edebilirsiniz.",
+      "Analiz çerezlerini kabul edersen, hangi sayfaların ziyaret edildiği gibi kullanım istatistiklerini toplamak için Google Analytics kullanırız. Google bu verileri EU-US Data Privacy Framework kapsamında AB dışında işleyebilir.",
       "Ödemeler Stripe tarafından işlenir. Kart bilgilerinizi asla görmez ve saklamayız."
     ],
     "termsTitle": "Hizmet şartları",
@@ -280,7 +284,7 @@
     ],
     "cookiesTitle": "Çerez politikası",
     "cookiesBody": [
-      "{site} reklam veya izleme çerezleri kullanmaz.",
+      "{site}, onayınla sitenin nasıl kullanıldığını ölçmek için Google Analytics çerezlerini kullanır. Reklam çerezi kullanmıyoruz. Seçimini istediğin zaman aşağıdaki düğmeyle değiştirebilirsin.",
       "Tarayıcınızda yalnızca kesinlikle gerekli verileri saklıyoruz: seçtiğiniz dil ve testteki ilerlemeniz; böylece kaldığınız yerden devam edebilirsiniz. Bu veriler cihazınızda kalır.",
       "Ödeme yaptığınızda ödeme sağlayıcımız Stripe, ödemeyi güvenli şekilde işlemek ve dolandırıcılığı önlemek için gerekli çerezleri yerleştirebilir.",
       "Sorularınız mı var? {email} adresinden bize ulaşın."
@@ -375,5 +379,11 @@
     "title": "Sayfa bulunamadı",
     "text": "Aradığınız sayfa mevcut değil veya taşınmış.",
     "home": "Ana sayfaya dön"
+  },
+  "consent": {
+    "text": "Ziyaretçilerin siteyi nasıl kullandığını görmek ve testlerimizi geliştirmek için Google Analytics çerezlerini kullanıyoruz. Yalnızca onay verirsen.",
+    "accept": "Kabul et",
+    "decline": "Reddet",
+    "settings": "Çerez ayarlarını değiştir"
   }
 }

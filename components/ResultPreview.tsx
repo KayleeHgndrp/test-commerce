@@ -15,13 +15,19 @@ type Props = {
   name: string;
   dimensionNames: string[];
   price: string;
+  bundlePrice: string;
+  includes: string[];
   ui: UiMessages["result"];
 };
 
 type Stored = { answers: string; gender: string };
+type Bundle = { session: string; slug: string; until: number };
 
-export function ResultPreview({ locale, def, name, dimensionNames, price, ui }: Props) {
+export const bundleKey = "bundle-offer";
+
+export function ResultPreview({ locale, def, name, dimensionNames, price, bundlePrice, includes, ui }: Props) {
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
+  const [bundle, setBundle] = useState<Bundle | null>(null);
   const [email, setEmail] = useState("");
   const [consent, setConsent] = useState(false);
   const [error, setError] = useState("");
@@ -33,8 +39,14 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, ui }: 
       const parsed = JSON.parse(localStorage.getItem(resultKey(def.slug)) ?? "null") as Stored | null;
       if (parsed && decodeAnswers(def, parsed.answers)) value = parsed;
     } catch {}
+    let offer: Bundle | null = null;
+    try {
+      const parsed = JSON.parse(localStorage.getItem(bundleKey) ?? "null") as Bundle | null;
+      if (parsed && parsed.slug !== def.slug && parsed.until > Date.now()) offer = parsed;
+    } catch {}
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setStored(value);
+    setBundle(offer);
   }, [def]);
 
   if (stored === undefined) return <div className="min-h-[60vh]" />;
@@ -63,7 +75,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, ui }: 
       const res = await fetch("/api/checkout", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ slug: def.slug, locale, email, answers: stored!.answers, gender: stored!.gender }),
+        body: JSON.stringify({ slug: def.slug, locale, email, answers: stored!.answers, gender: stored!.gender, bundleFrom: bundle?.session }),
       });
       const data = (await res.json()) as { url?: string };
       if (!res.ok || !data.url) throw new Error();
@@ -114,6 +126,14 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, ui }: 
         <form onSubmit={buy} className="rounded-2xl border-2 border-accent bg-surface p-6 md:col-span-2">
           <h2 className="text-lg font-bold">{ui.unlockTitle}</h2>
           <p className="mt-2 text-sm leading-relaxed text-muted">{ui.unlockText}</p>
+          <ul className="mt-4 space-y-2 text-sm leading-relaxed">
+            {includes.map((line) => (
+              <li key={line} className="flex gap-2">
+                <span className="text-accent">✓</span>
+                {line}
+              </li>
+            ))}
+          </ul>
           <label className="mt-5 block text-sm font-medium" htmlFor="email">{ui.emailLabel}</label>
           <input
             id="email"
@@ -130,12 +150,13 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, ui }: 
               <Link href={`/${locale}/terms`} className="underline" target="_blank">{ui.consent}</Link>
             </span>
           </label>
+          {bundle && <p className="mt-4 rounded-lg bg-accent/10 px-3 py-2 text-sm font-semibold text-accent">{fmt(ui.bundleNote, { price: bundlePrice, full: price })}</p>}
           {error && <p className="mt-3 text-sm font-medium text-rose-600">{error}</p>}
           <button
             disabled={busy}
             className="mt-5 w-full rounded-lg bg-accent px-5 py-3.5 font-semibold text-white shadow-lg shadow-accent/25 transition hover:bg-accent-strong disabled:opacity-60"
           >
-            {busy ? "…" : fmt(ui.buy, { price })}
+            {busy ? "…" : fmt(ui.buy, { price: bundle ? bundlePrice : price })}
           </button>
           <p className="mt-3 text-center text-xs text-muted">🔒 {ui.secure}</p>
         </form>

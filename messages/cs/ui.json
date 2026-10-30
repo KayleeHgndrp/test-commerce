@@ -228,13 +228,16 @@
     "takeTest": "Vyplnit test",
     "crisisTitle": "Nejste na to sami",
     "crisisText": "Z vašich odpovědí vyplývá, že vás napadlo, že by bylo lepší nežít, nebo že byste si mohli ublížit. Prosím, promluvte si s někým ještě dnes. Pokud jste v bezprostředním nebezpečí, zavolejte na 112. Kdykoli během dne i noci se můžete obrátit také na krizovou linku ve své zemi, například z přehledu na findahelpline.com.",
-    "crisisLink": "Najděte linku pomoci ve svém okolí"
+    "crisisLink": "Najděte linku pomoci ve svém okolí",
+    "bundleNote": "Cena v balíčku: {price} místo {full}"
   },
   "thanks": {
     "title": "Děkujeme za nákup!",
     "text": "Vaše osobní zpráva je na cestě do vaší schránky. Obvykle dorazí do minuty.",
     "spam": "Nedorazila ani po 10 minutách? Zkontrolujte složku se spamem nebo hromadnou poštou, nebo nám napište na {email}.",
-    "more": "Objevit další testy"
+    "more": "Objevit další testy",
+    "bundleTitle": "Vaše další zpráva za {price}",
+    "bundleText": "Vyberte si níže další test a udělejte ho do {days} dnů. Celá zpráva pak stojí {price} místo {full}. Platí pro jednu další zprávu."
   },
   "report": {
     "subject": "Vaše zpráva: {test}",
@@ -269,6 +272,7 @@
       "Shromažďujeme jen údaje nezbytné k poskytování naší služby: vaše odpovědi v testech a, pokud si koupíte zprávu, vaši e-mailovou adresu.",
       "Vaše odpovědi zpracováváme, abychom vypočítali váš výsledek. Když si koupíte zprávu, předáme vaše odpovědi a e-mailovou adresu našemu poskytovateli plateb Stripe a našemu poskytovateli e-mailových služeb, abychom mohli zpracovat platbu a doručit zprávu.",
       "Vaše údaje neprodáváme a nepoužíváme je k reklamě. Kdykoli nás můžete požádat o jejich smazání na adrese {email}.",
+      "Pokud přijmete analytické cookies, používáme Google Analytics ke sběru statistik používání, například které stránky jsou navštíveny. Google může tato data zpracovávat mimo EU na základě rámce EU-US Data Privacy Framework.",
       "Platby zpracovává Stripe. Údaje o vaší kartě nikdy nevidíme ani neukládáme."
     ],
     "termsTitle": "Podmínky služby",
@@ -280,7 +284,7 @@
     ],
     "cookiesTitle": "Zásady používání cookies",
     "cookiesBody": [
-      "{site} nepoužívá reklamní ani sledovací cookies.",
+      "S vaším souhlasem {site} používá soubory cookie Google Analytics k měření, jak se web používá. Reklamní cookies nepoužíváme. Svou volbu můžete kdykoli změnit tlačítkem níže.",
       "Ve vašem prohlížeči ukládáme jen nezbytně nutné údaje: zvolený jazyk a postup v testu, abyste mohli pokračovat tam, kde jste přestali. Tyto údaje zůstávají ve vašem zařízení.",
       "Při platbě může náš poskytovatel plateb Stripe ukládat cookies nutné k bezpečnému zpracování platby a prevenci podvodů.",
       "Máte dotazy? Napište nám na {email}."
@@ -375,5 +379,11 @@
     "title": "Stránka nenalezena",
     "text": "Stránka, kterou hledáte, neexistuje nebo byla přesunuta.",
     "home": "Zpět na úvod"
+  },
+  "consent": {
+    "text": "Používáme soubory cookie Google Analytics, abychom viděli, jak návštěvníci web používají, a mohli zlepšovat naše testy. Jen s vaším souhlasem.",
+    "accept": "Přijmout",
+    "decline": "Odmítnout",
+    "settings": "Změnit nastavení cookies"
   }
 }

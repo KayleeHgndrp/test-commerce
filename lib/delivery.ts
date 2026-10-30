@@ -8,6 +8,8 @@ import { decodeAnswers } from "@/lib/tests/scoring";
 
 export type CheckoutSession = {
   id: string;
+  created: number;
+  amount_total?: number | null;
   payment_status: string;
   payment_intent: string | null;
   customer_email: string | null;
@@ -37,6 +39,30 @@ export async function retrievePaidOrder(sessionId: string) {
   }
 }
 
+// A paid order unlocks one more report at the bundle price within bundleDays,
+// for a different test. Returns the order's session when the offer still applies.
+export async function validBundleSource(sessionId: string, slug: string) {
+  const order = await retrievePaidOrder(sessionId);
+  if (!order || order.slug === slug || order.session.metadata.bundle_from) return null;
+  if (Date.now() / 1000 - order.session.created > site.bundleDays * 86400) return null;
+  const intentId = order.session.payment_intent;
+  if (!intentId) return null;
+  const intent = await stripeRequest<{ metadata: Record<string, string> }>(`payment_intents/${intentId}`);
+  return intent.metadata.bundle_used ? null : order.session;
+}
+
+// Marks the order that unlocked a bundle price as used, so the offer works once.
+async function markBundleUsed(order: PaidOrder) {
+  const from = order.session.metadata.bundle_from;
+  if (!from) return;
+  try {
+    const source = await stripeRequest<CheckoutSession>(`checkout/sessions/${from}`);
+    if (source.payment_intent) await stripeRequest(`payment_intents/${source.payment_intent}`, { "metadata[bundle_used]": order.session.id });
+  } catch (error) {
+    console.error("[bundle] could not mark offer as used", error);
+  }
+}
+
 // Emails the report unless it was already sent for this payment. Both the
 // webhook and the thank-you page call this, so a missed webhook still delivers.
 export async function deliverOnce(order: PaidOrder) {
@@ -47,6 +73,7 @@ export async function deliverOnce(order: PaidOrder) {
     // Mark first so a concurrent webhook/page request does not send twice.
     await stripeRequest(`payment_intents/${intentId}`, { "metadata[report_sent]": "1" });
   }
+  await markBundleUsed(order);
   try {
     await sendEmail(order.email, await renderReport(order.locale, order.slug, order.answers));
   } catch (error) {

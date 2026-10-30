@@ -228,13 +228,16 @@
     "takeTest": "Completează testul",
     "crisisTitle": "Nu ești singur",
     "crisisText": "Ai indicat că ai avut gânduri că ți-ar fi mai bine dacă ai fi mort sau că ți-ai face rău. Te rugăm să vorbești cu cineva chiar azi. Dacă ești în pericol imediat, sună la 112. Poți contacta oricând, zi și noapte, și o linie de criză din țara ta, de exemplu dintre cele listate pe findahelpline.com.",
-    "crisisLink": "Găsește o linie de sprijin aproape de tine"
+    "crisisLink": "Găsește o linie de sprijin aproape de tine",
+    "bundleNote": "Preț pachet: {price} în loc de {full}"
   },
   "thanks": {
     "title": "Mulțumim pentru achiziție!",
     "text": "Raportul tău personal este pe drum spre inbox. De obicei ajunge în mai puțin de un minut.",
     "spam": "Nu l-ai primit după 10 minute? Verifică dosarul de spam sau de promoții ori scrie-ne la {email}.",
-    "more": "Descoperă mai multe teste"
+    "more": "Descoperă mai multe teste",
+    "bundleTitle": "Următorul tău raport la {price}",
+    "bundleText": "Alege mai jos încă un test și fă-l în {days} zile. Raportul complet va costa atunci {price} în loc de {full}. Valabil pentru un raport în plus."
   },
   "report": {
     "subject": "Raportul tău: {test}",
@@ -269,6 +272,7 @@
       "Colectăm doar datele necesare pentru a-ți oferi serviciul: răspunsurile tale la teste și, dacă cumperi un raport, adresa ta de e-mail.",
       "Răspunsurile tale sunt prelucrate pentru a-ți calcula rezultatul. Când cumperi un raport, răspunsurile și adresa ta de e-mail sunt transmise procesatorului nostru de plăți, Stripe, și furnizorului nostru de e-mail, pentru a procesa plata și a livra raportul.",
       "Nu îți vindem datele și nu le folosim în scopuri publicitare. Ne poți cere oricând ștergerea datelor tale scriindu-ne la {email}.",
+      "Dacă accepți cookie-urile de analiză, folosim Google Analytics pentru a colecta statistici de utilizare, de exemplu ce pagini sunt vizitate. Google poate prelucra aceste date în afara UE în baza EU-US Data Privacy Framework.",
       "Plățile sunt procesate de Stripe. Nu vedem și nu stocăm niciodată datele cardului tău."
     ],
     "termsTitle": "Termeni de utilizare",
@@ -280,7 +284,7 @@
     ],
     "cookiesTitle": "Politica privind cookie-urile",
     "cookiesBody": [
-      "{site} nu folosește cookie-uri de publicitate sau de urmărire.",
+      "Cu acordul tău, {site} folosește cookie-uri Google Analytics pentru a măsura cum este folosit site-ul. Nu folosim cookie-uri de publicitate. Îți poți schimba alegerea oricând cu butonul de mai jos.",
       "Stocăm în browserul tău doar datele strict necesare: limba aleasă și progresul tău într-un test, ca să poți continua de unde ai rămas. Aceste date rămân pe dispozitivul tău.",
       "Când plătești, procesatorul nostru de plăți, Stripe, poate plasa cookie-uri necesare pentru procesarea în siguranță a plății și prevenirea fraudelor.",
       "Ai întrebări? Scrie-ne la {email}."
@@ -375,5 +379,11 @@
     "title": "Pagina nu a fost găsită",
     "text": "Pagina pe care o cauți nu există sau a fost mutată.",
     "home": "Înapoi la pagina principală"
+  },
+  "consent": {
+    "text": "Folosim cookie-uri Google Analytics ca să vedem cum este folosit site-ul și să ne îmbunătățim testele. Doar dacă ești de acord.",
+    "accept": "Accept",
+    "decline": "Refuz",
+    "settings": "Modifică setările cookie"
   }
 }

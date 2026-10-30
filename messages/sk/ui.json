@@ -228,13 +228,16 @@
     "takeTest": "Vyplniť test",
     "crisisTitle": "Nie ste na to sami",
     "crisisText": "Z vašich odpovedí vyplýva, že vás napadlo, že by bolo lepšie nežiť, alebo že by ste si mohli ublížiť. Prosím, porozprávajte sa s niekým ešte dnes. Ak ste v bezprostrednom nebezpečenstve, zavolajte na 112. Kedykoľvek cez deň aj v noci sa môžete obrátiť aj na krízovú linku vo svojej krajine, napríklad z prehľadu na findahelpline.com.",
-    "crisisLink": "Nájdite linku pomoci vo svojom okolí"
+    "crisisLink": "Nájdite linku pomoci vo svojom okolí",
+    "bundleNote": "Cena v balíku: {price} namiesto {full}"
   },
   "thanks": {
     "title": "Ďakujeme za nákup!",
     "text": "Vaša osobná správa je na ceste do vašej schránky. Zvyčajne príde do minúty.",
     "spam": "Neprišla ani po 10 minútach? Skontrolujte priečinok so spamom alebo s reklamnou poštou, alebo nám napíšte na {email}.",
-    "more": "Objaviť ďalšie testy"
+    "more": "Objaviť ďalšie testy",
+    "bundleTitle": "Vaša ďalšia správa za {price}",
+    "bundleText": "Vyberte si nižšie ďalší test a urobte ho do {days} dní. Celá správa potom stojí {price} namiesto {full}. Platí pre jednu ďalšiu správu."
   },
   "report": {
     "subject": "Vaša správa: {test}",
@@ -269,6 +272,7 @@
       "Zbierame len údaje nevyhnutné na poskytovanie našej služby: vaše odpovede v testoch a, ak si kúpite správu, vašu e-mailovú adresu.",
       "Vaše odpovede spracúvame, aby sme vypočítali váš výsledok. Keď si kúpite správu, vaše odpovede a e-mailovú adresu odovzdáme nášmu poskytovateľovi platieb Stripe a nášmu poskytovateľovi e-mailových služieb, aby sme mohli spracovať platbu a doručiť správu.",
       "Vaše údaje nepredávame a nepoužívame ich na reklamu. Kedykoľvek nás môžete požiadať o ich vymazanie na adrese {email}.",
+      "Ak prijmete analytické cookies, používame Google Analytics na zber štatistík používania, napríklad ktoré stránky sa navštevujú. Google môže tieto údaje spracúvať mimo EÚ na základe rámca EU-US Data Privacy Framework.",
       "Platby spracúva Stripe. Údaje o vašej karte nikdy nevidíme ani neukladáme."
     ],
     "termsTitle": "Podmienky služby",
@@ -280,7 +284,7 @@
     ],
     "cookiesTitle": "Zásady používania cookies",
     "cookiesBody": [
-      "{site} nepoužíva reklamné ani sledovacie cookies.",
+      "S vaším súhlasom {site} používa súbory cookie Google Analytics na meranie toho, ako sa web používa. Reklamné cookies nepoužívame. Svoju voľbu môžete kedykoľvek zmeniť tlačidlom nižšie.",
       "Vo vašom prehliadači ukladáme len nevyhnutne potrebné údaje: zvolený jazyk a postup v teste, aby ste mohli pokračovať tam, kde ste prestali. Tieto údaje zostávajú vo vašom zariadení.",
       "Pri platbe môže náš poskytovateľ platieb Stripe ukladať cookies potrebné na bezpečné spracovanie platby a prevenciu podvodov.",
       "Máte otázky? Napíšte nám na {email}."
@@ -375,5 +379,11 @@
     "title": "Stránka sa nenašla",
     "text": "Stránka, ktorú hľadáte, neexistuje alebo bola presunutá.",
     "home": "Späť na úvod"
+  },
+  "consent": {
+    "text": "Používame súbory cookie Google Analytics, aby sme videli, ako návštevníci používajú web, a mohli zlepšovať naše testy. Len s vaším súhlasom.",
+    "accept": "Prijať",
+    "decline": "Odmietnuť",
+    "settings": "Zmeniť nastavenia cookies"
   }
 }

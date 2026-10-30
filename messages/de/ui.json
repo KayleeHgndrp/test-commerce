@@ -228,13 +228,16 @@
     "takeTest": "Test machen",
     "crisisTitle": "Du bist nicht allein",
     "crisisText": "Du hast angegeben, dass du Gedanken hattest, dass du lieber tot wärst oder dir etwas antun könntest. Bitte sprich noch heute mit jemandem darüber. Wenn du in akuter Gefahr bist, ruf die 112 an. Du kannst dich auch rund um die Uhr an eine Krisenhotline in deinem Land wenden, zum Beispiel über findahelpline.com.",
-    "crisisLink": "Finde eine Hilfehotline in deiner Nähe"
+    "crisisLink": "Finde eine Hilfehotline in deiner Nähe",
+    "bundleNote": "Paketpreis: {price} statt {full}"
   },
   "thanks": {
     "title": "Danke für deinen Kauf!",
     "text": "Dein persönlicher Bericht ist auf dem Weg in dein Postfach. Er kommt meist innerhalb einer Minute an.",
     "spam": "Nach 10 Minuten noch nichts erhalten? Schau in deinem Spam- oder Werbeordner nach oder schreib uns an {email}.",
-    "more": "Weitere Tests entdecken"
+    "more": "Weitere Tests entdecken",
+    "bundleTitle": "Dein nächster Bericht für {price}",
+    "bundleText": "Wähle unten einen weiteren Test und mach ihn innerhalb von {days} Tagen. Der vollständige Bericht kostet dann {price} statt {full}. Gültig für einen weiteren Bericht."
   },
   "report": {
     "subject": "Dein Bericht: {test}",
@@ -269,6 +272,7 @@
       "Wir erheben nur die Daten, die für unseren Dienst nötig sind: deine Antworten im Test und, wenn du einen Bericht kaufst, deine E-Mail-Adresse.",
       "Deine Antworten werden verarbeitet, um dein Ergebnis zu berechnen. Wenn du einen Bericht kaufst, werden deine Antworten und deine E-Mail-Adresse an unseren Zahlungsdienstleister Stripe und unseren E-Mail-Dienstleister übermittelt, um die Zahlung abzuwickeln und den Bericht zuzustellen.",
       "Wir verkaufen deine Daten nicht und nutzen sie nicht für Werbung. Du kannst jederzeit die Löschung deiner Daten verlangen, indem du uns an {email} schreibst.",
+      "Wenn du Analyse-Cookies akzeptierst, nutzen wir Google Analytics, um Nutzungsstatistiken zu erheben, zum Beispiel welche Seiten besucht werden. Google kann diese Daten auf Grundlage des EU-US Data Privacy Framework außerhalb der EU verarbeiten.",
       "Zahlungen werden von Stripe abgewickelt. Wir sehen oder speichern deine Kartendaten nie."
     ],
     "termsTitle": "Nutzungsbedingungen",
@@ -280,7 +284,7 @@
     ],
     "cookiesTitle": "Cookie-Richtlinie",
     "cookiesBody": [
-      "{site} verwendet keine Werbe- oder Tracking-Cookies.",
+      "Mit deiner Einwilligung verwendet {site} Cookies von Google Analytics, um zu messen, wie Besucher die Website nutzen. Wir verwenden keine Werbe-Cookies. Du kannst deine Wahl jederzeit über die Schaltfläche unten ändern.",
       "Wir speichern nur unbedingt notwendige Daten in deinem Browser: deine gewählte Sprache und deinen Fortschritt in einem Test, damit du dort weitermachen kannst, wo du aufgehört hast. Diese Daten bleiben auf deinem Gerät.",
       "Wenn du bezahlst, kann unser Zahlungsdienstleister Stripe Cookies setzen, die für die sichere Zahlungsabwicklung und zur Betrugsvermeidung nötig sind.",
       "Fragen? Schreib uns an {email}."
@@ -375,5 +379,11 @@
     "title": "Seite nicht gefunden",
     "text": "Die Seite, die du suchst, existiert nicht oder wurde verschoben.",
     "home": "Zur Startseite"
+  },
+  "consent": {
+    "text": "Wir verwenden Cookies von Google Analytics, um zu sehen, wie Besucher die Website nutzen, und unsere Tests zu verbessern. Das tun wir nur mit deiner Zustimmung.",
+    "accept": "Akzeptieren",
+    "decline": "Ablehnen",
+    "settings": "Cookie-Einstellungen ändern"
   }
 }

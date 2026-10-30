@@ -228,13 +228,16 @@
     "takeTest": "Teszt kitöltése",
     "crisisTitle": "Nem vagy egyedül",
     "crisisText": "Azt jelezted, hogy voltak olyan gondolataid, hogy jobb lenne, ha meghalnál, vagy hogy bántanád magad. Kérjük, még ma beszélj erről valakivel. Ha közvetlen veszélyben vagy, hívd a 112-t. A nap bármely szakában fordulhatsz országod egyik lelki elsősegély-vonalához is, például a findahelpline.com oldalon felsoroltakhoz.",
-    "crisisLink": "Segélyvonal keresése a közeledben"
+    "crisisLink": "Segélyvonal keresése a közeledben",
+    "bundleNote": "Csomagár: {price} {full} helyett"
   },
   "thanks": {
     "title": "Köszönjük a vásárlást!",
     "text": "A személyes értékelésed már úton van a postafiókodba. Általában egy percen belül megérkezik.",
     "spam": "10 perc után sem érkezett meg? Nézd meg a spam vagy a promóciók mappát, vagy írj nekünk: {email}.",
-    "more": "További tesztek felfedezése"
+    "more": "További tesztek felfedezése",
+    "bundleTitle": "A következő jelentésed {price}",
+    "bundleText": "Válassz lent még egy tesztet, és töltsd ki {days} napon belül. A teljes jelentés így {price} lesz {full} helyett. Egy további jelentésre érvényes."
   },
   "report": {
     "subject": "Az értékelésed: {test}",
@@ -269,6 +272,7 @@
       "Csak a szolgáltatásunkhoz szükséges adatokat gyűjtjük: a tesztekre adott válaszaidat, valamint – ha értékelést vásárolsz – az e-mail-címedet.",
       "A válaszaidat az eredményed kiszámításához dolgozzuk fel. Ha értékelést vásárolsz, a válaszaidat és az e-mail-címedet továbbítjuk fizetési szolgáltatónknak, a Stripe-nak, valamint e-mail-szolgáltatónknak a fizetés lebonyolítása és az értékelés kézbesítése érdekében.",
       "Az adataidat nem adjuk el, és nem használjuk fel reklámcélokra. Bármikor kérheted adataid törlését a(z) {email} címen.",
+      "Ha elfogadod az analitikai sütiket, a Google Analytics segítségével használati statisztikákat gyűjtünk, például hogy mely oldalakat látogatják. A Google ezeket az adatokat az EU-n kívül is kezelheti az EU-US Data Privacy Framework alapján.",
       "A fizetéseket a Stripe kezeli. A kártyaadataidat soha nem látjuk és nem tároljuk."
     ],
     "termsTitle": "Felhasználási feltételek",
@@ -280,7 +284,7 @@
     ],
     "cookiesTitle": "Cookie-szabályzat",
     "cookiesBody": [
-      "A(z) {site} nem használ reklám- vagy nyomkövető cookie-kat.",
+      "Hozzájárulásoddal a {site} a Google Analytics sütijeit használja annak mérésére, hogyan használják az oldalt. Hirdetési sütiket nem használunk. Döntésedet bármikor módosíthatod az alábbi gombbal.",
       "A böngésződben csak a feltétlenül szükséges adatokat tároljuk: a választott nyelvet és a tesztben elért haladásodat, hogy ott folytathasd, ahol abbahagytad. Ezek az adatok az eszközödön maradnak.",
       "Fizetéskor fizetési szolgáltatónk, a Stripe elhelyezhet olyan cookie-kat, amelyek a fizetés biztonságos lebonyolításához és a csalások megelőzéséhez szükségesek.",
       "Kérdésed van? Írj nekünk: {email}."
@@ -375,5 +379,11 @@
     "title": "Az oldal nem található",
     "text": "A keresett oldal nem létezik, vagy máshová került.",
     "home": "Vissza a főoldalra"
+  },
+  "consent": {
+    "text": "A Google Analytics sütijeit használjuk, hogy lássuk, hogyan használják a látogatók az oldalt, és javíthassuk a tesztjeinket. Csak ha hozzájárulsz.",
+    "accept": "Elfogadom",
+    "decline": "Elutasítom",
+    "settings": "Sütibeállítások módosítása"
   }
 }
