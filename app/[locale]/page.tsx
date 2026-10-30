@@ -11,9 +11,10 @@ import type { Category } from "@/lib/tests/types";
 
 const CATEGORY_ORDER: Category[] = ["personality", "relationships", "work", "screeners", "wellbeing"];
 
-const button =
-  "inline-flex h-12 items-center justify-center rounded-lg px-7 font-semibold transition";
-const primary = `${button} bg-accent text-white shadow-lg shadow-accent/20 hover:bg-accent-strong`;
+const button = "inline-flex items-center justify-center rounded-lg font-semibold transition";
+const accent = "bg-accent text-white shadow-lg shadow-accent/20 hover:bg-accent-strong";
+const primary = `${button} ${accent} h-12 px-7`;
+const primaryLarge = `${button} ${accent} h-14 px-9 text-lg`;
 const card = "rounded-3xl border border-border bg-surface";
 
 function Check() {
@@ -41,16 +42,13 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
     <>
       {/* Hero */}
       <section className="mx-auto max-w-4xl px-4 pb-20 pt-16 text-center sm:pt-24">
-        <span className="inline-flex rounded-full border border-border bg-surface px-3 py-1 text-xs font-semibold text-muted">
-          {fmt(h.badge, vars)}
-        </span>
-        <h1 className="mt-6 text-4xl font-extrabold leading-[1.05] sm:text-6xl">
+        <h1 className="text-4xl font-extrabold leading-[1.05] sm:text-6xl">
           {h.heroTitle}
           <span className="block text-accent">{h.heroHighlight}</span>
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-muted">{h.heroSubtitle}</p>
         <div className="mt-10 flex flex-col justify-center gap-3 sm:flex-row">
-          <Link href="#tests" className={primary}>{h.heroCta} →</Link>
+          <Link href="#tests" className={primaryLarge}>{h.heroCta} →</Link>
         </div>
         <ul className="mt-8 flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm text-muted">
           {[h.trust1, h.trust2, h.trust3].map((t) => (
@@ -143,7 +141,7 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
               </ul>
               <Link
                 href="#tests"
-                className={`${button} mx-auto mt-8 w-full max-w-56 ${plan.highlight ? "bg-accent text-white hover:bg-accent-strong" : "border border-accent text-accent hover:bg-accent-soft"}`}
+                className={`${button} h-12 px-7 mx-auto mt-8 w-full max-w-56 ${plan.highlight ? "bg-accent text-white hover:bg-accent-strong" : "border border-accent text-accent hover:bg-accent-soft"}`}
               >
                 {h.planCta}
               </Link>
