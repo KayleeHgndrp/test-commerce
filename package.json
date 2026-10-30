@@ -9,7 +9,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "check:content": "node scripts/check-content.mjs"
+    "check:content": "node scripts/check-content.mjs",
+    "check:blog": "node scripts/check-blog.mjs"
   },
   "dependencies": {
     "country-flag-icons": "1.5.x",
