@@ -230,7 +230,9 @@
     "takeTest": "Vyplniť test",
     "crisisTitle": "Nie ste na to sami",
     "crisisText": "Z vašich odpovedí vyplýva, že vás napadlo, že by bolo lepšie nežiť, alebo že by ste si mohli ublížiť. Prosím, porozprávajte sa s niekým ešte dnes. Ak ste v bezprostrednom nebezpečenstve, zavolajte na 112. Kedykoľvek cez deň aj v noci sa môžete obrátiť aj na krízovú linku vo svojej krajine, napríklad z prehľadu na findahelpline.com.",
-    "crisisLink": "Nájdite linku pomoci vo svojom okolí"
+    "crisisLink": "Nájdite linku pomoci vo svojom okolí",
+    "codeApplied": "Tvoj kód od kouča je uplatnený: táto správa je zadarmo.",
+    "codeInvalid": "Tento kód je neplatný alebo už bol použitý. Správu môžeš stále získať za bežnú cenu."
   },
   "thanks": {
     "title": "Ďakujeme za nákup!",

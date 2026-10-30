@@ -23,6 +23,12 @@ export const site = {
   // Couple report that compares two people who took the same test.
   couplePriceCents: Number(process.env.NEXT_PUBLIC_COUPLE_PRICE_CENTS ?? 595),
   coupleTests: ["attachment", "love-style", "big-five"],
+  // Coach pack: prepaid report codes a coach hands to clients.
+  coachPackSize: 10,
+  coachPackCents: Number(process.env.NEXT_PUBLIC_COACH_PACK_CENTS ?? 1490),
+  // Affiliate commission on the net revenue (excl. VAT and Stripe fees) of a referred sale.
+  affiliateShare: 0.5,
+  affiliateDays: 60,
   // Google Analytics 4 measurement ID. Public by design; loads only after cookie consent.
   gaId: process.env.NEXT_PUBLIC_GA_ID || "G-Z486VT99NP",
   currency: (process.env.NEXT_PUBLIC_REPORT_CURRENCY ?? "eur").toLowerCase(),
