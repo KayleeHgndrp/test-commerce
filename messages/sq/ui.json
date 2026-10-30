@@ -355,6 +355,22 @@
     "ctaTitle": "Kurioz/e se çfarë thonë rezultatet e tua?",
     "ctaButton": "Shiko testet tona"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Artikuj për personalitetin, marrëdhëniet dhe mirëqenien, të shpjeguar thjesht.",
+    "back": "Kthehu te blogu",
+    "writtenBy": "Shkruar nga",
+    "readTime": "{count} min lexim",
+    "updated": "Përditësuar më {date}",
+    "toc": "Në këtë artikull",
+    "related": "Artikuj të ngjashëm",
+    "tryTest": "Provoje vetë",
+    "empty": "Ende nuk ka artikuj",
+    "emptyText": "Po punojmë për artikujt tanë të parë. Ndërkohë, zbulo testet tona.",
+    "latest": "Artikujt më të rinj",
+    "all": "Të gjithë artikujt",
+    "page": "Faqja {page}"
+  },
   "notFound": {
     "title": "Faqja nuk u gjet",
     "text": "Faqja që po kërkon nuk ekziston ose është zhvendosur.",

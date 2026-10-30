@@ -355,6 +355,22 @@
     "ctaTitle": "Interesē, ko saka tavi rezultāti?",
     "ctaButton": "Apskatīt mūsu testus"
   },
+  "blog": {
+    "title": "Blogs",
+    "subtitle": "Raksti par personību, attiecībām un labsajūtu, skaidroti vienkāršā valodā.",
+    "back": "Atpakaļ uz blogu",
+    "writtenBy": "Autors",
+    "readTime": "{count} min lasīšanai",
+    "updated": "Atjaunināts {date}",
+    "toc": "Šajā rakstā",
+    "related": "Saistītie raksti",
+    "tryTest": "Izmēģini pats",
+    "empty": "Rakstu vēl nav",
+    "emptyText": "Mēs strādājam pie pirmajiem rakstiem. Pa to laiku iepazīsti mūsu testus.",
+    "latest": "Jaunākie raksti",
+    "all": "Visi raksti",
+    "page": "{page}. lapa"
+  },
   "notFound": {
     "title": "Lapa nav atrasta",
     "text": "Meklētā lapa neeksistē vai ir pārvietota.",

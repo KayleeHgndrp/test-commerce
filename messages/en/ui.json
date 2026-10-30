@@ -355,6 +355,22 @@
     "ctaTitle": "Curious what your results say?",
     "ctaButton": "Explore our tests"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Articles about personality, relationships and wellbeing, explained in plain language.",
+    "back": "Back to blog",
+    "writtenBy": "Written by",
+    "readTime": "{count} min read",
+    "updated": "Updated {date}",
+    "toc": "In this article",
+    "related": "Related articles",
+    "tryTest": "Try it yourself",
+    "empty": "No articles yet",
+    "emptyText": "We're working on our first articles. In the meantime, explore our tests.",
+    "latest": "Latest articles",
+    "all": "All articles",
+    "page": "Page {page}"
+  },
   "notFound": {
     "title": "Page not found",
     "text": "The page you are looking for doesn't exist or has moved.",

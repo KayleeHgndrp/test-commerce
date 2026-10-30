@@ -355,6 +355,22 @@
     "ctaTitle": "Curieux de savoir ce que disent vos résultats ?",
     "ctaButton": "Découvrir nos tests"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Des articles sur la personnalité, les relations et le bien-être, expliqués simplement.",
+    "back": "Retour au blog",
+    "writtenBy": "Écrit par",
+    "readTime": "{count} min de lecture",
+    "updated": "Mis à jour le {date}",
+    "toc": "Dans cet article",
+    "related": "Articles similaires",
+    "tryTest": "Essayez vous-même",
+    "empty": "Pas encore d'articles",
+    "emptyText": "Nous préparons nos premiers articles. En attendant, découvrez nos tests.",
+    "latest": "Derniers articles",
+    "all": "Tous les articles",
+    "page": "Page {page}"
+  },
   "notFound": {
     "title": "Page introuvable",
     "text": "La page que vous recherchez n'existe pas ou a été déplacée.",

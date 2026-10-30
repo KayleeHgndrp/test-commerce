@@ -355,6 +355,22 @@
     "ctaTitle": "Sonuçlarınızın ne söylediğini merak ediyor musunuz?",
     "ctaButton": "Testlerimizi keşfedin"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Kişilik, ilişkiler ve iyi oluş üzerine anlaşılır dille yazılmış makaleler.",
+    "back": "Bloga dön",
+    "writtenBy": "Yazar",
+    "readTime": "{count} dk okuma",
+    "updated": "{date} tarihinde güncellendi",
+    "toc": "Bu makalede",
+    "related": "İlgili makaleler",
+    "tryTest": "Kendin dene",
+    "empty": "Henüz makale yok",
+    "emptyText": "İlk makalelerimiz üzerinde çalışıyoruz. Bu arada testlerimizi keşfet.",
+    "latest": "Son makaleler",
+    "all": "Tüm makaleler",
+    "page": "Sayfa {page}"
+  },
   "notFound": {
     "title": "Sayfa bulunamadı",
     "text": "Aradığınız sayfa mevcut değil veya taşınmış.",

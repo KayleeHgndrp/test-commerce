@@ -355,6 +355,22 @@
     "ctaTitle": "Ești curios ce spun rezultatele tale?",
     "ctaButton": "Descoperă testele noastre"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Articole despre personalitate, relații și stare de bine, explicate pe înțeles.",
+    "back": "Înapoi la blog",
+    "writtenBy": "Scris de",
+    "readTime": "{count} min de citit",
+    "updated": "Actualizat la {date}",
+    "toc": "În acest articol",
+    "related": "Articole similare",
+    "tryTest": "Încearcă și tu",
+    "empty": "Încă nu există articole",
+    "emptyText": "Lucrăm la primele noastre articole. Între timp, descoperă testele noastre.",
+    "latest": "Cele mai noi articole",
+    "all": "Toate articolele",
+    "page": "Pagina {page}"
+  },
   "notFound": {
     "title": "Pagina nu a fost găsită",
     "text": "Pagina pe care o cauți nu există sau a fost mutată.",

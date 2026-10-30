@@ -355,6 +355,22 @@
     "ctaTitle": "Ciekawi Cię, co mówią Twoje wyniki?",
     "ctaButton": "Poznaj nasze testy"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Artykuły o osobowości, relacjach i dobrostanie, wyjaśnione prostym językiem.",
+    "back": "Powrót do bloga",
+    "writtenBy": "Autor",
+    "readTime": "{count} min czytania",
+    "updated": "Zaktualizowano {date}",
+    "toc": "W tym artykule",
+    "related": "Powiązane artykuły",
+    "tryTest": "Sprawdź sam",
+    "empty": "Brak artykułów",
+    "emptyText": "Pracujemy nad pierwszymi artykułami. W międzyczasie poznaj nasze testy.",
+    "latest": "Najnowsze artykuły",
+    "all": "Wszystkie artykuły",
+    "page": "Strona {page}"
+  },
   "notFound": {
     "title": "Nie znaleziono strony",
     "text": "Strona, której szukasz, nie istnieje lub została przeniesiona.",

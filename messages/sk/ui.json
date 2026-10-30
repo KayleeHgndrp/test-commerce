@@ -355,6 +355,22 @@
     "ctaTitle": "Zaujíma vás, čo hovoria vaše výsledky?",
     "ctaButton": "Pozrieť testy"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Články o osobnosti, vzťahoch a pohode, vysvetlené zrozumiteľne.",
+    "back": "Späť na blog",
+    "writtenBy": "Autor",
+    "readTime": "{count} min čítania",
+    "updated": "Aktualizované {date}",
+    "toc": "V tomto článku",
+    "related": "Súvisiace články",
+    "tryTest": "Vyskúšajte to sami",
+    "empty": "Zatiaľ žiadne články",
+    "emptyText": "Pracujeme na prvých článkoch. Medzitým objavte naše testy.",
+    "latest": "Najnovšie články",
+    "all": "Všetky články",
+    "page": "Strana {page}"
+  },
   "notFound": {
     "title": "Stránka sa nenašla",
     "text": "Stránka, ktorú hľadáte, neexistuje alebo bola presunutá.",

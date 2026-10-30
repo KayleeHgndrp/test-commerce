@@ -355,6 +355,22 @@
     "ctaTitle": "Kíváncsi vagy, mit árulnak el az eredményeid?",
     "ctaButton": "Fedezd fel tesztjeinket"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Cikkek a személyiségről, a kapcsolatokról és a jóllétről, érthetően elmagyarázva.",
+    "back": "Vissza a bloghoz",
+    "writtenBy": "Írta",
+    "readTime": "{count} perc olvasás",
+    "updated": "Frissítve: {date}",
+    "toc": "Ebben a cikkben",
+    "related": "Kapcsolódó cikkek",
+    "tryTest": "Próbáld ki te is",
+    "empty": "Még nincsenek cikkek",
+    "emptyText": "Dolgozunk az első cikkeinken. Addig is fedezd fel tesztjeinket.",
+    "latest": "Legújabb cikkek",
+    "all": "Összes cikk",
+    "page": "{page}. oldal"
+  },
   "notFound": {
     "title": "Az oldal nem található",
     "text": "A keresett oldal nem létezik, vagy máshová került.",

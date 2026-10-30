@@ -355,6 +355,22 @@
     "ctaTitle": "Forvitin(n) um hvað niðurstöðurnar þínar segja?",
     "ctaButton": "Skoðaðu prófin okkar"
   },
+  "blog": {
+    "title": "Blogg",
+    "subtitle": "Greinar um persónuleika, sambönd og vellíðan, útskýrðar á einföldu máli.",
+    "back": "Aftur á bloggið",
+    "writtenBy": "Höfundur",
+    "readTime": "{count} mín. lestur",
+    "updated": "Uppfært {date}",
+    "toc": "Í þessari grein",
+    "related": "Tengdar greinar",
+    "tryTest": "Prófaðu sjálf/ur",
+    "empty": "Engar greinar enn",
+    "emptyText": "Við vinnum að fyrstu greinunum. Skoðaðu prófin okkar á meðan.",
+    "latest": "Nýjustu greinar",
+    "all": "Allar greinar",
+    "page": "Síða {page}"
+  },
   "notFound": {
     "title": "Síðan fannst ekki",
     "text": "Síðan sem þú leitar að er ekki til eða hefur verið færð.",

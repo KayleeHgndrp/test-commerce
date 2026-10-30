@@ -355,6 +355,22 @@
     "ctaTitle": "An bhfuil fonn ort a fháil amach cad a deir do thorthaí?",
     "ctaButton": "Féach ar ár dtástálacha"
   },
+  "blog": {
+    "title": "Blag",
+    "subtitle": "Ailt faoi phearsantacht, caidrimh agus folláine, mínithe i dteanga shimplí.",
+    "back": "Ar ais chuig an mblag",
+    "writtenBy": "Scríofa ag",
+    "readTime": "{count} nóim. léitheoireachta",
+    "updated": "Nuashonraithe {date}",
+    "toc": "San alt seo",
+    "related": "Ailt ghaolmhara",
+    "tryTest": "Bain triail as",
+    "empty": "Níl aon ailt fós",
+    "emptyText": "Táimid ag obair ar ár gcéad ailt. Idir an dá linn, féach ar ár dtástálacha.",
+    "latest": "Na hailt is déanaí",
+    "all": "Gach alt",
+    "page": "Leathanach {page}"
+  },
   "notFound": {
     "title": "Níor aimsíodh an leathanach",
     "text": "Níl an leathanach atá á lorg agat ann nó bogadh é.",

@@ -1,10 +1,12 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Faq } from "@/components/Faq";
+import { BlogCard } from "@/components/BlogCard";
 import { JsonLd } from "@/components/JsonLd";
 import { TestCarousel } from "@/components/TestCarousel";
 import { hasLocale, locales, toLangTag } from "@/lib/i18n/locales";
 import { fmt, getAllTestTexts, getUi } from "@/lib/i18n/messages";
+import { getPosts } from "@/lib/blog";
 import { pageSeo } from "@/lib/seo";
 import { formatPrice, site } from "@/lib/site";
 import type { Category } from "@/lib/tests/types";
@@ -36,6 +38,7 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
   const ui = await getUi(locale);
   const tests = await getAllTestTexts(locale);
   const h = ui.home;
+  const latestPosts = getPosts(locale).slice(0, 3);
   const vars = { price: formatPrice(locale), count: tests.length, languages: locales.length, site: site.name };
 
   return (
@@ -195,6 +198,21 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
           ],
         }}
       />
+
+      {/* Latest blog posts */}
+      {latestPosts.length > 0 && (
+        <section className="mx-auto max-w-6xl px-4 pt-24">
+          <div className="flex flex-wrap items-end justify-between gap-4">
+            <h2 className="text-3xl font-extrabold sm:text-4xl">{ui.blog.latest}</h2>
+            <Link href={`/${locale}/blog`} className="text-sm font-semibold text-accent hover:text-accent-strong">{ui.blog.all} →</Link>
+          </div>
+          <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {latestPosts.map((post) => (
+              <BlogCard key={post.slug} post={post} readTime={ui.blog.readTime} />
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* FAQ */}
       <section id="faq" className="mx-auto max-w-3xl scroll-mt-20 px-4 pt-24">

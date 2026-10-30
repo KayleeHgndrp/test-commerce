@@ -355,6 +355,22 @@
     "ctaTitle": "Neugierig, was deine Ergebnisse verraten?",
     "ctaButton": "Unsere Tests entdecken"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Artikel über Persönlichkeit, Beziehungen und Wohlbefinden – verständlich erklärt.",
+    "back": "Zurück zum Blog",
+    "writtenBy": "Geschrieben von",
+    "readTime": "{count} Min. Lesezeit",
+    "updated": "Aktualisiert am {date}",
+    "toc": "In diesem Artikel",
+    "related": "Ähnliche Artikel",
+    "tryTest": "Probier es selbst aus",
+    "empty": "Noch keine Artikel",
+    "emptyText": "Wir arbeiten an unseren ersten Artikeln. Entdecke in der Zwischenzeit unsere Tests.",
+    "latest": "Neueste Artikel",
+    "all": "Alle Artikel",
+    "page": "Seite {page}"
+  },
   "notFound": {
     "title": "Seite nicht gefunden",
     "text": "Die Seite, die du suchst, existiert nicht oder wurde verschoben.",

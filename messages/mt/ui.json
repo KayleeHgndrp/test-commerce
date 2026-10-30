@@ -355,6 +355,22 @@
     "ctaTitle": "Kurjuż x'jgħidu r-riżultati tiegħek?",
     "ctaButton": "Esplora t-testijiet tagħna"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Artikli dwar il-personalità, ir-relazzjonijiet u l-benessri, spjegati b'mod sempliċi.",
+    "back": "Lura għall-blog",
+    "writtenBy": "Miktub minn",
+    "readTime": "{count} min qari",
+    "updated": "Aġġornat {date}",
+    "toc": "F'dan l-artiklu",
+    "related": "Artikli relatati",
+    "tryTest": "Ipprova int",
+    "empty": "Għad m'hemmx artikli",
+    "emptyText": "Qed naħdmu fuq l-ewwel artikli tagħna. Sadanittant, skopri t-testijiet tagħna.",
+    "latest": "L-aħħar artikli",
+    "all": "L-artikli kollha",
+    "page": "Paġna {page}"
+  },
   "notFound": {
     "title": "Il-paġna ma nstabitx",
     "text": "Il-paġna li qed tfittex ma teżistix jew ġiet imċaqalqa.",

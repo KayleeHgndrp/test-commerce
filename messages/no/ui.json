@@ -355,6 +355,22 @@
     "ctaTitle": "Nysgjerrig på hva resultatene dine sier?",
     "ctaButton": "Utforsk testene våre"
   },
+  "blog": {
+    "title": "Blogg",
+    "subtitle": "Artikler om personlighet, relasjoner og velvære, forklart på en enkel måte.",
+    "back": "Tilbake til bloggen",
+    "writtenBy": "Skrevet av",
+    "readTime": "{count} min lesing",
+    "updated": "Oppdatert {date}",
+    "toc": "I denne artikkelen",
+    "related": "Relaterte artikler",
+    "tryTest": "Prøv selv",
+    "empty": "Ingen artikler ennå",
+    "emptyText": "Vi jobber med våre første artikler. Utforsk testene våre i mellomtiden.",
+    "latest": "Nyeste artikler",
+    "all": "Alle artikler",
+    "page": "Side {page}"
+  },
   "notFound": {
     "title": "Fant ikke siden",
     "text": "Siden du leter etter, finnes ikke eller er flyttet.",

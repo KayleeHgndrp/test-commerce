@@ -355,6 +355,22 @@
     "ctaTitle": "Zanima vas šta govore vaši rezultati?",
     "ctaButton": "Istražite naše testove"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Članci o ličnosti, odnosima i dobrobiti, objašnjeni jednostavnim jezikom.",
+    "back": "Nazad na blog",
+    "writtenBy": "Autor",
+    "readTime": "{count} min čitanja",
+    "updated": "Ažurirano {date}",
+    "toc": "U ovom članku",
+    "related": "Povezani članci",
+    "tryTest": "Isprobaj sam",
+    "empty": "Još nema članaka",
+    "emptyText": "Radimo na prvim člancima. U međuvremenu istraži naše testove.",
+    "latest": "Najnoviji članci",
+    "all": "Svi članci",
+    "page": "Strana {page}"
+  },
   "notFound": {
     "title": "Stranica nije pronađena",
     "text": "Stranica koju tražite ne postoji ili je premeštena.",

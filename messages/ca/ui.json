@@ -355,6 +355,22 @@
     "ctaTitle": "Tens curiositat per saber què diuen els teus resultats?",
     "ctaButton": "Descobreix els nostres tests"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Articles sobre personalitat, relacions i benestar, explicats amb claredat.",
+    "back": "Torna al blog",
+    "writtenBy": "Escrit per",
+    "readTime": "{count} min de lectura",
+    "updated": "Actualitzat el {date}",
+    "toc": "En aquest article",
+    "related": "Articles relacionats",
+    "tryTest": "Prova-ho tu mateix",
+    "empty": "Encara no hi ha articles",
+    "emptyText": "Estem preparant els nostres primers articles. Mentrestant, descobreix els nostres tests.",
+    "latest": "Últims articles",
+    "all": "Tots els articles",
+    "page": "Pàgina {page}"
+  },
   "notFound": {
     "title": "No s'ha trobat la pàgina",
     "text": "La pàgina que cerques no existeix o s'ha mogut.",

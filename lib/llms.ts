@@ -1,3 +1,4 @@
+import { allPosts, postPath } from "@/lib/blog";
 import { defaultLocale, localeNames, locales } from "@/lib/i18n/locales";
 import { fmt, getAllTestTexts, getUi } from "@/lib/i18n/messages";
 import { formatPrice, site } from "@/lib/site";
@@ -68,6 +69,14 @@ export async function buildLlmsTxt(full: boolean) {
       );
       if (text.instrument) out.push(`${text.instrument.name}: ${text.instrument.description}`);
     }
+  }
+
+  const posts = allPosts().filter((post) => !post.noindex);
+  if (posts.length) {
+    out.push(
+      `## Blog articles`,
+      posts.map((post) => `- [${post.title}](${site.url}${postPath(post)}) (${localeNames[post.locale as keyof typeof localeNames]}): ${post.description}`).join("\n"),
+    );
   }
 
   out.push(

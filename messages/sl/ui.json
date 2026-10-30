@@ -355,6 +355,22 @@
     "ctaTitle": "Vas zanima, kaj povedo vaši rezultati?",
     "ctaButton": "Oglejte si naše teste"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Članki o osebnosti, odnosih in dobrem počutju, razloženi v preprostem jeziku.",
+    "back": "Nazaj na blog",
+    "writtenBy": "Avtor",
+    "readTime": "{count} min branja",
+    "updated": "Posodobljeno {date}",
+    "toc": "V tem članku",
+    "related": "Sorodni članki",
+    "tryTest": "Preizkusi sam",
+    "empty": "Še ni člankov",
+    "emptyText": "Pripravljamo prve članke. Medtem raziskuj naše teste.",
+    "latest": "Najnovejši članki",
+    "all": "Vsi članki",
+    "page": "Stran {page}"
+  },
   "notFound": {
     "title": "Strani ni mogoče najti",
     "text": "Stran, ki jo iščete, ne obstaja ali je bila premaknjena.",

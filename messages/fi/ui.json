@@ -355,6 +355,22 @@
     "ctaTitle": "Kiinnostaako, mitä tuloksesi kertovat?",
     "ctaButton": "Tutustu testeihin"
   },
+  "blog": {
+    "title": "Blogi",
+    "subtitle": "Artikkeleita persoonallisuudesta, ihmissuhteista ja hyvinvoinnista selkeästi selitettynä.",
+    "back": "Takaisin blogiin",
+    "writtenBy": "Kirjoittanut",
+    "readTime": "{count} min lukuaika",
+    "updated": "Päivitetty {date}",
+    "toc": "Tässä artikkelissa",
+    "related": "Aiheeseen liittyvät artikkelit",
+    "tryTest": "Kokeile itse",
+    "empty": "Ei vielä artikkeleita",
+    "emptyText": "Työstämme ensimmäisiä artikkeleitamme. Tutustu sillä välin testeihimme.",
+    "latest": "Uusimmat artikkelit",
+    "all": "Kaikki artikkelit",
+    "page": "Sivu {page}"
+  },
   "notFound": {
     "title": "Sivua ei löytynyt",
     "text": "Etsimääsi sivua ei ole olemassa, tai se on siirretty.",

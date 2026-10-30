@@ -355,6 +355,22 @@
     "ctaTitle": "Benieuwd wat je resultaten zeggen?",
     "ctaButton": "Bekijk onze tests"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Artikelen over persoonlijkheid, relaties en welzijn, uitgelegd in begrijpelijke taal.",
+    "back": "Terug naar blog",
+    "writtenBy": "Geschreven door",
+    "readTime": "{count} min lezen",
+    "updated": "Bijgewerkt op {date}",
+    "toc": "In dit artikel",
+    "related": "Gerelateerde artikelen",
+    "tryTest": "Probeer het zelf",
+    "empty": "Nog geen artikelen",
+    "emptyText": "We werken aan onze eerste artikelen. Ontdek in de tussentijd onze tests.",
+    "latest": "Nieuwste artikelen",
+    "all": "Alle artikelen",
+    "page": "Pagina {page}"
+  },
   "notFound": {
     "title": "Pagina niet gevonden",
     "text": "De pagina die je zoekt bestaat niet of is verplaatst.",

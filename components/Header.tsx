@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { hasPosts } from "@/lib/blog";
 import type { Locale } from "@/lib/i18n/locales";
 import type { UiMessages } from "@/lib/i18n/messages";
 import { LanguageSwitcher } from "./LanguageSwitcher";
@@ -16,6 +17,7 @@ export function Header({ locale, ui }: { locale: Locale; ui: UiMessages }) {
           <Link href={`/${locale}#tests`} className={link}>{ui.nav.tests}</Link>
           <Link href={`/${locale}#pricing`} className={link}>{ui.nav.pricing}</Link>
           <Link href={`/${locale}#faq`} className={link}>{ui.nav.faq}</Link>
+          {hasPosts(locale) && <Link href={`/${locale}/blog`} className={link}>{ui.blog.title}</Link>}
           <Link href={`/${locale}/about`} className={link}>{ui.footer.aboutLink}</Link>
           <LanguageSwitcher locale={locale} label={ui.nav.language} />
           <Link

@@ -355,6 +355,22 @@
     "ctaTitle": "Huvitav, mida sinu tulemused ütlevad?",
     "ctaButton": "Vaata meie teste"
   },
+  "blog": {
+    "title": "Blogi",
+    "subtitle": "Artiklid isiksusest, suhetest ja heaolust, selgitatud lihtsas keeles.",
+    "back": "Tagasi blogisse",
+    "writtenBy": "Autor",
+    "readTime": "{count} min lugemist",
+    "updated": "Uuendatud {date}",
+    "toc": "Selles artiklis",
+    "related": "Seotud artiklid",
+    "tryTest": "Proovi ise",
+    "empty": "Artikleid veel pole",
+    "emptyText": "Töötame oma esimeste artiklite kallal. Seni avasta meie teste.",
+    "latest": "Uusimad artiklid",
+    "all": "Kõik artiklid",
+    "page": "Lehekülg {page}"
+  },
   "notFound": {
     "title": "Lehte ei leitud",
     "text": "Otsitud lehte ei ole olemas või see on teisaldatud.",

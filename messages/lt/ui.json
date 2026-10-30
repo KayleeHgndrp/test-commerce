@@ -355,6 +355,22 @@
     "ctaTitle": "Įdomu, ką rodo jūsų rezultatai?",
     "ctaButton": "Peržiūrėti testus"
   },
+  "blog": {
+    "title": "Tinklaraštis",
+    "subtitle": "Straipsniai apie asmenybę, santykius ir gerovę, paaiškinti paprasta kalba.",
+    "back": "Atgal į tinklaraštį",
+    "writtenBy": "Autorius",
+    "readTime": "{count} min skaitymo",
+    "updated": "Atnaujinta {date}",
+    "toc": "Šiame straipsnyje",
+    "related": "Susiję straipsniai",
+    "tryTest": "Išbandykite patys",
+    "empty": "Straipsnių dar nėra",
+    "emptyText": "Ruošiame pirmuosius straipsnius. Tuo tarpu išbandykite mūsų testus.",
+    "latest": "Naujausi straipsniai",
+    "all": "Visi straipsniai",
+    "page": "{page} puslapis"
+  },
   "notFound": {
     "title": "Puslapis nerastas",
     "text": "Puslapis, kurio ieškote, neegzistuoja arba buvo perkeltas.",

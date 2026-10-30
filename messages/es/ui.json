@@ -355,6 +355,22 @@
     "ctaTitle": "¿Te pica la curiosidad por lo que dicen tus resultados?",
     "ctaButton": "Descubre nuestros tests"
   },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Artículos sobre personalidad, relaciones y bienestar, explicados con claridad.",
+    "back": "Volver al blog",
+    "writtenBy": "Escrito por",
+    "readTime": "{count} min de lectura",
+    "updated": "Actualizado el {date}",
+    "toc": "En este artículo",
+    "related": "Artículos relacionados",
+    "tryTest": "Pruébalo tú mismo",
+    "empty": "Aún no hay artículos",
+    "emptyText": "Estamos preparando nuestros primeros artículos. Mientras tanto, descubre nuestros tests.",
+    "latest": "Últimos artículos",
+    "all": "Todos los artículos",
+    "page": "Página {page}"
+  },
   "notFound": {
     "title": "Página no encontrada",
     "text": "La página que buscas no existe o se ha movido.",
