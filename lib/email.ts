@@ -24,7 +24,12 @@ function getTransport() {
   return transport;
 }
 
-export const fromAddress = () => process.env.CONTACT_FROM_EMAIL || site.contactEmail;
+// Accepts both "user@host" and "Name <user@host>" so a display name in the env
+// var cannot produce a malformed From header (which mail servers reject).
+export const fromAddress = () => {
+  const raw = process.env.CONTACT_FROM_EMAIL || site.contactEmail;
+  return raw.match(/<([^>]+)>/)?.[1].trim() ?? raw.trim();
+};
 
 // Sends an email over SMTP (SMTP_HOST/PORT/USER/PASS). Without SMTP_HOST the
 // message is logged instead, which is convenient during development.

@@ -51,7 +51,6 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
         <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-muted">{h.heroSubtitle}</p>
         <div className="mt-10 flex flex-col justify-center gap-3 sm:flex-row">
           <Link href="#tests" className={primary}>{h.heroCta} →</Link>
-          <Link href="#how" className={`${button} border border-border bg-surface hover:border-accent`}>{h.heroSecondary}</Link>
         </div>
         <ul className="mt-8 flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm text-muted">
           {[h.trust1, h.trust2, h.trust3].map((t) => (

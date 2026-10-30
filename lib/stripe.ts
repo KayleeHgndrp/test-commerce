@@ -6,9 +6,10 @@ export async function stripeRequest<T>(path: string, params?: Record<string, str
     method: params ? "POST" : "GET",
     headers: {
       authorization: `Bearer ${process.env.STRIPE_SECRET_KEY}`,
-      "content-type": "application/x-www-form-urlencoded",
+      // A GET must not carry a body, so the form content-type only applies to POSTs.
+      ...(params ? { "content-type": "application/x-www-form-urlencoded" } : {}),
     },
-    body: new URLSearchParams(params),
+    ...(params ? { body: new URLSearchParams(params) } : {}),
   });
   const data = await res.json();
   if (!res.ok) throw new Error(`Stripe error ${res.status}: ${JSON.stringify(data.error ?? data)}`);
