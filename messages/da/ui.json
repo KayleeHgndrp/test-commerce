@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Gratis psykologiske tests online",
-    "description": "Dybdegående tests om personlighed, relationer, arbejde og trivsel – baseret på anerkendt psykologisk forskning og forklaret i et letforståeligt sprog."
+    "title": "{site}: Gratis psykologiske tests online",
+    "description": "Dybdegående tests om personlighed, relationer, arbejde og trivsel, baseret på anerkendt psykologisk forskning og forklaret i et letforståeligt sprog."
   },
   "nav": {
     "tests": "Tests",
@@ -14,14 +14,14 @@
     "badge": "{count} tests · {languages} sprog",
     "heroTitle": "Testene, der afslører din",
     "heroHighlight": "personlighed",
-    "heroSubtitle": "Dybdegående tests om personlighed, relationer og trivsel – hver især baseret på anerkendt psykologisk forskning og forklaret så letforståeligt, at du faktisk læser helt til slut.",
+    "heroSubtitle": "Dybdegående tests om personlighed, relationer og trivsel, hver især baseret på anerkendt psykologisk forskning og forklaret så letforståeligt, at du faktisk læser helt til slut.",
     "heroCta": "Udforsk vores tests",
     "heroSecondary": "Sådan virker det",
     "trust1": "Ingen konto nødvendig",
     "trust2": "Engangsbetaling, intet abonnement",
     "trust3": "Rapporten direkte i din indbakke",
-    "dimensionsTitle": "Du er mere end én score – se alle dine sider.",
-    "dimensionsSubtitle": "De områder, vores tests oftest måler – fra personlighed til relationer og trivsel.",
+    "dimensionsTitle": "Du er mere end én score. Se alle dine sider.",
+    "dimensionsSubtitle": "De områder, vores tests oftest måler: fra personlighed til relationer og trivsel.",
     "dimensions": [
       "🎯 Fokus",
       "🔋 Social energi",
@@ -47,7 +47,7 @@
       },
       {
         "title": "Læs din rapport",
-        "text": "Få en personlig rapport med dine scorer, hvad de betyder, og praktiske tips – direkte i din indbakke."
+        "text": "Få en personlig rapport med dine scorer, hvad de betyder, og praktiske tips direkte i din indbakke."
       }
     ],
     "pricingTitle": "Enkle priser",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Er testen »{test}« gratis?",
-        "a": "Ja, det er gratis at tage testen. Vil du have din fulde personlige rapport med alle scorer og forklaringer, kan du bestille den for {price} som en engangsbetaling – intet abonnement."
+        "a": "Ja, det er gratis at tage testen. Vil du have din fulde personlige rapport med alle scorer og forklaringer, kan du bestille den for {price} som en engangsbetaling, intet abonnement."
       },
       {
         "q": "Hvor pålidelig er testen »{test}«?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Om {site}",
-    "intro": "Vi mener, at alle fortjener et klart og ærligt blik på, hvem de er – uden fagsprog, uden abonnementer og uden en etiket på fire bogstaver, der intet forklarer.",
+    "intro": "Vi mener, at alle fortjener et klart og ærligt blik på, hvem de er, uden fagsprog, uden abonnementer og uden en etiket på fire bogstaver, der intet forklarer.",
     "missionTitle": "Vores mission",
     "mission": "Psykologien har udviklet stærke måder at beskrive personlighed, relationer og trivsel på, men det meste af den viden er gemt væk i lærebøger eller dyre test. {site} gør den tilgængelig: dybdegående tests, som alle kan tage gratis på deres eget sprog, med en personlig rapport, der forklarer dine resultater i et enkelt sprog og giver dig konkrete næste skridt.",
     "howTitle": "Sådan bygger vi vores tests",
@@ -358,11 +358,11 @@
       },
       {
         "title": "100 spørgsmål, 5 minutter",
-        "text": "Hver test består af 100 korte udsagn fordelt på alle de dimensioner, den måler. Det giver et langt mere pålideligt billede end en hurtig quiz med ti spørgsmål – og tager stadig kun omkring fem minutter."
+        "text": "Hver test består af 100 korte udsagn fordelt på alle de dimensioner, den måler. Det giver et langt mere pålideligt billede end en hurtig quiz med ti spørgsmål, og tager stadig kun omkring fem minutter."
       },
       {
         "title": "Skrevet til at blive læst",
-        "text": "Vores rapporter forklarer, hvad hver score betyder, hvor den kommer fra, og hvad du kan bruge den til. Ingen jargon og intet vagt horoskopsprog – bare klar, praktisk indsigt."
+        "text": "Vores rapporter forklarer, hvad hver score betyder, hvor den kommer fra, og hvad du kan bruge den til. Ingen jargon og intet vagt horoskopsprog. Bare klar, praktisk indsigt."
       }
     ],
     "valuesTitle": "Det kan du regne med",

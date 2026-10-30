@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Psychologické testy online zdarma",
-    "description": "Podrobné testy o osobnosti, vztazích, práci a duševní pohodě – postavené na uznávaném psychologickém výzkumu a vysvětlené srozumitelnou řečí."
+    "title": "{site}: Psychologické testy online zdarma",
+    "description": "Podrobné testy o osobnosti, vztazích, práci a duševní pohodě, postavené na uznávaném psychologickém výzkumu a vysvětlené srozumitelnou řečí."
   },
   "nav": {
     "tests": "Testy",
@@ -14,14 +14,14 @@
     "badge": "Testy: {count} · Jazyky: {languages}",
     "heroTitle": "Testy, které odhalí vaši",
     "heroHighlight": "osobnost",
-    "heroSubtitle": "Podrobné testy o osobnosti, vztazích a duševní pohodě – každý postavený na uznávaném psychologickém výzkumu a vysvětlený tak srozumitelně, že ho opravdu dočtete až do konce.",
+    "heroSubtitle": "Podrobné testy o osobnosti, vztazích a duševní pohodě, každý postavený na uznávaném psychologickém výzkumu a vysvětlený tak srozumitelně, že ho opravdu dočtete až do konce.",
     "heroCta": "Prohlédnout testy",
     "heroSecondary": "Jak to funguje",
     "trust1": "Bez registrace",
     "trust2": "Jednorázová platba, žádné předplatné",
     "trust3": "Zpráva rovnou do vaší schránky",
-    "dimensionsTitle": "Jste víc než jedno skóre – poznejte všechny své stránky.",
-    "dimensionsSubtitle": "Oblasti, které naše testy měří nejčastěji – od osobnosti přes vztahy až po duševní pohodu.",
+    "dimensionsTitle": "Jste víc než jedno skóre. Poznejte všechny své stránky.",
+    "dimensionsSubtitle": "Oblasti, které naše testy měří nejčastěji: od osobnosti přes vztahy až po duševní pohodu.",
     "dimensions": [
       "🎯 Soustředění",
       "🔋 Sociální energie",
@@ -39,7 +39,7 @@
     "steps": [
       {
         "title": "Vyberte si test",
-        "text": "Vyberte si z naší nabídky testů osobnosti, vztahů a screeningových testů – všechny vycházejí z uznávaných psychologických modelů."
+        "text": "Vyberte si z naší nabídky testů osobnosti, vztahů a screeningových testů, všechny vycházejí z uznávaných psychologických modelů."
       },
       {
         "title": "Vyplňte test",
@@ -47,7 +47,7 @@
       },
       {
         "title": "Přečtěte si zprávu",
-        "text": "Získejte osobní zprávu se svými výsledky, jejich významem a praktickými tipy – rovnou do schránky."
+        "text": "Získejte osobní zprávu se svými výsledky, jejich významem a praktickými tipy, rovnou do schránky."
       }
     ],
     "pricingTitle": "Jednoduchý ceník",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Je test „{test}“ zdarma?",
-        "a": "Ano, vyplnění testu je zdarma. Pokud chcete úplnou osobní zprávu se všemi skóre a vysvětleními, můžete si ji objednat za {price} jako jednorázovou platbu – bez předplatného."
+        "a": "Ano, vyplnění testu je zdarma. Pokud chcete úplnou osobní zprávu se všemi skóre a vysvětleními, můžete si ji objednat za {price} jako jednorázovou platbu, bez předplatného."
       },
       {
         "q": "Jak spolehlivý je test „{test}“?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "O {site}",
-    "intro": "Věříme, že si každý zaslouží jasný a upřímný pohled na sebe sama – bez odborného žargonu, bez předplatného a bez čtyřpísmenné nálepky, která nic nevysvětluje.",
+    "intro": "Věříme, že si každý zaslouží jasný a upřímný pohled na sebe sama, bez odborného žargonu, bez předplatného a bez čtyřpísmenné nálepky, která nic nevysvětluje.",
     "missionTitle": "Naše poslání",
     "mission": "Psychologie vyvinula účinné způsoby, jak popsat osobnost, vztahy a duševní pohodu, ale většina těchto znalostí zůstává zavřená v učebnicích nebo drahých vyšetřeních. {site} je zpřístupňuje: podrobné testy, které může každý vyplnit zdarma ve svém jazyce, s osobní zprávou, která vám výsledky vysvětlí srozumitelně a nabídne praktické další kroky.",
     "howTitle": "Jak vytváříme naše testy",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Psané tak, aby se četly",
-        "text": "Naše zprávy vysvětlují, co každé skóre znamená, odkud pochází a co s ním můžete dělat. Žádný žargon ani mlhavé fráze jako z horoskopu – jen jasné a praktické poznatky."
+        "text": "Naše zprávy vysvětlují, co každé skóre znamená, odkud pochází a co s ním můžete dělat. Žádný žargon ani mlhavé fráze jako z horoskopu. Jen jasné a praktické poznatky."
       }
     ],
     "valuesTitle": "Na co se můžete spolehnout",

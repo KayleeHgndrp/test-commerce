@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Kostenlose Psychotests online",
-    "description": "Fundierte Tests zu Persönlichkeit, Beziehungen, Arbeit und Wohlbefinden – gestützt auf anerkannte psychologische Forschung und verständlich erklärt."
+    "title": "{site}: Kostenlose Psychotests online",
+    "description": "Fundierte Tests zu Persönlichkeit, Beziehungen, Arbeit und Wohlbefinden, gestützt auf anerkannte psychologische Forschung und verständlich erklärt."
   },
   "nav": {
     "tests": "Tests",
@@ -14,14 +14,14 @@
     "badge": "{count} Tests · {languages} Sprachen",
     "heroTitle": "Entdecke mit unseren Tests deine",
     "heroHighlight": "Persönlichkeit",
-    "heroSubtitle": "Fundierte Tests zu Persönlichkeit, Beziehungen und Wohlbefinden – jeder gestützt auf anerkannte psychologische Forschung und so verständlich erklärt, dass du ihn wirklich bis zum Ende liest.",
+    "heroSubtitle": "Fundierte Tests zu Persönlichkeit, Beziehungen und Wohlbefinden, jeder gestützt auf anerkannte psychologische Forschung und so verständlich erklärt, dass du ihn wirklich bis zum Ende liest.",
     "heroCta": "Unsere Tests entdecken",
     "heroSecondary": "So funktioniert's",
     "trust1": "Kein Konto nötig",
     "trust2": "Einmalzahlung, kein Abo",
     "trust3": "Bericht direkt in dein Postfach",
-    "dimensionsTitle": "Du bist mehr als ein einzelner Wert – entdecke jede Seite an dir.",
-    "dimensionsSubtitle": "Die Bereiche, die unsere Tests am häufigsten messen – von Persönlichkeit über Beziehungen bis Wohlbefinden.",
+    "dimensionsTitle": "Du bist mehr als ein einzelner Wert. Entdecke jede Seite an dir.",
+    "dimensionsSubtitle": "Die Bereiche, die unsere Tests am häufigsten messen: von Persönlichkeit über Beziehungen bis Wohlbefinden.",
     "dimensions": [
       "🎯 Fokus",
       "🔋 Soziale Energie",
@@ -47,7 +47,7 @@
       },
       {
         "title": "Bericht lesen",
-        "text": "Erhalte einen persönlichen Bericht mit deinen Werten, ihrer Bedeutung und praktischen Tipps – direkt in dein Postfach."
+        "text": "Erhalte einen persönlichen Bericht mit deinen Werten, ihrer Bedeutung und praktischen Tipps, direkt in dein Postfach."
       }
     ],
     "pricingTitle": "Einfache Preise",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Ist „{test}“ kostenlos?",
-        "a": "Ja, der Test selbst ist kostenlos. Wenn du deinen vollständigen persönlichen Bericht mit allen Werten und Erklärungen möchtest, kannst du ihn für {price} bestellen – einmalig bezahlt, ohne Abo."
+        "a": "Ja, der Test selbst ist kostenlos. Wenn du deinen vollständigen persönlichen Bericht mit allen Werten und Erklärungen möchtest, kannst du ihn für {price} bestellen, einmalig bezahlt, ohne Abo."
       },
       {
         "q": "Wie zuverlässig ist „{test}“?",
@@ -215,7 +215,7 @@
     "mainType": "Dein Haupttyp",
     "locked": "Gesperrt",
     "unlockTitle": "Hol dir deinen vollständigen Bericht",
-    "unlockText": "Dein ausführlicher Bericht mit allen Werten, persönlichen Deutungen und praktischen Tipps – per E-Mail an dich.",
+    "unlockText": "Dein ausführlicher Bericht mit allen Werten, persönlichen Deutungen und praktischen Tipps, per E-Mail an dich.",
     "emailLabel": "E-Mail-Adresse",
     "emailPlaceholder": "du@beispiel.de",
     "consent": "Ich stimme den AGB und der Datenschutzerklärung zu und verlange ausdrücklich, dass mein Bericht sofort zugestellt wird. Mir ist bekannt, dass ich mein Widerrufsrecht verliere, sobald der Bericht versendet wurde.",
@@ -307,7 +307,7 @@
     "termsBody": [
       "Alle Tests auf {site} dienen der Selbstreflexion und Unterhaltung. Sie sind keine medizinische, psychologische oder sonstige fachliche Diagnose.",
       "Einen Test zu machen ist kostenlos. Ein persönlicher Bericht kostet {price} pro Test als einmalige Zahlung. Du kannst auch ein Paket mit 3 Berichten kaufen, einen Pass für alle Berichte oder einen Paarbericht, der zwei Personen vergleicht, die denselben Test gemacht haben. Auch das sind einmalige Zahlungen. Berichte werden digital per E-Mail geliefert.",
-      "Da der Bericht ein digitaler Inhalt ist, der unmittelbar nach der Zahlung geliefert wird, stimmst du zu, dass dein Widerrufsrecht erlischt, sobald der Bericht versendet wurde. Wenn du deinen Bericht nicht erhalten hast, schreib an {email} – wir senden ihn erneut oder erstatten dir den Betrag.",
+      "Da der Bericht ein digitaler Inhalt ist, der unmittelbar nach der Zahlung geliefert wird, stimmst du zu, dass dein Widerrufsrecht erlischt, sobald der Bericht versendet wurde. Wenn du deinen Bericht nicht erhalten hast, schreib an {email}, wir senden ihn erneut oder erstatten dir den Betrag.",
       "Wir bemühen uns, die Inhalte korrekt zu halten, können aber nicht garantieren, dass die Ergebnisse für jede Person vollständig oder zutreffend sind."
     ],
     "cookiesTitle": "Cookie-Richtlinie",
@@ -320,7 +320,7 @@
     "refundTitle": "Erstattungsrichtlinie",
     "refundBody": [
       "Ein Bericht kostet {price} pro Test als einmalige Zahlung. Pakete, der Alles-Pass und Paarberichte sind ebenfalls einmalige Zahlungen. Es gibt kein Abo und keine automatische Verlängerung.",
-      "Du hast deinen Bericht nicht erhalten oder etwas ist schiefgelaufen? Schreib innerhalb von 14 Tagen an {email} und nenne die verwendete E-Mail-Adresse – wir senden deinen Bericht erneut oder erstatten deine Zahlung.",
+      "Du hast deinen Bericht nicht erhalten oder etwas ist schiefgelaufen? Schreib innerhalb von 14 Tagen an {email} und nenne die verwendete E-Mail-Adresse, wir senden deinen Bericht erneut oder erstatten deine Zahlung.",
       "Da der Bericht ein digitaler Inhalt ist, der sofort geliefert wird, erlischt das gesetzliche Widerrufsrecht mit dem Versand. Wenn etwas nicht stimmt, helfen wir dir trotzdem immer weiter.",
       "Erstattungen erfolgen innerhalb von 5–10 Werktagen auf das ursprüngliche Zahlungsmittel."
     ],
@@ -336,7 +336,7 @@
   },
   "contact": {
     "title": "Kontakt",
-    "subtitle": "Fragen zu einem Test oder deinem Bericht? Schreib uns eine Nachricht – wir antworten innerhalb von 1–2 Werktagen.",
+    "subtitle": "Fragen zu einem Test oder deinem Bericht? Schreib uns eine Nachricht, wir antworten innerhalb von 1–2 Werktagen.",
     "name": "Name",
     "email": "E-Mail-Adresse",
     "message": "Nachricht",
@@ -347,9 +347,9 @@
   },
   "about": {
     "title": "Über {site}",
-    "intro": "Wir finden, dass jeder einen klaren, ehrlichen Blick auf sich selbst verdient – ohne Fachchinesisch, ohne Abo und ohne ein Etikett aus vier Buchstaben, das nichts erklärt.",
+    "intro": "Wir finden, dass jeder einen klaren, ehrlichen Blick auf sich selbst verdient, ohne Fachchinesisch, ohne Abo und ohne ein Etikett aus vier Buchstaben, das nichts erklärt.",
     "missionTitle": "Unsere Mission",
-    "mission": "Die Psychologie hat starke Methoden entwickelt, um Persönlichkeit, Beziehungen und Wohlbefinden zu beschreiben – doch das meiste Wissen steckt in Lehrbüchern oder teuren Diagnostikverfahren. {site} macht es zugänglich: fundierte Tests, die jeder kostenlos und in seiner eigenen Sprache machen kann, mit einem persönlichen Bericht, der deine Ergebnisse verständlich erklärt und dir konkrete nächste Schritte zeigt.",
+    "mission": "Die Psychologie hat starke Methoden entwickelt, um Persönlichkeit, Beziehungen und Wohlbefinden zu beschreiben, doch das meiste Wissen steckt in Lehrbüchern oder teuren Diagnostikverfahren. {site} macht es zugänglich: fundierte Tests, die jeder kostenlos und in seiner eigenen Sprache machen kann, mit einem persönlichen Bericht, der deine Ergebnisse verständlich erklärt und dir konkrete nächste Schritte zeigt.",
     "howTitle": "So entwickeln wir unsere Tests",
     "how": [
       {
@@ -358,11 +358,11 @@
       },
       {
         "title": "100 Fragen, 5 Minuten",
-        "text": "Jeder Test besteht aus 100 kurzen Aussagen, verteilt auf alle Dimensionen, die er misst. Das ergibt ein weit zuverlässigeres Bild als ein schnelles Quiz mit zehn Fragen – und dauert trotzdem nur etwa fünf Minuten."
+        "text": "Jeder Test besteht aus 100 kurzen Aussagen, verteilt auf alle Dimensionen, die er misst. Das ergibt ein weit zuverlässigeres Bild als ein schnelles Quiz mit zehn Fragen, und dauert trotzdem nur etwa fünf Minuten."
       },
       {
         "title": "Zum Lesen geschrieben",
-        "text": "Unsere Berichte erklären, was jeder Wert bedeutet, woher er kommt und was du damit anfangen kannst. Kein Fachjargon, keine vagen Horoskop-Floskeln – nur klare, praktische Erkenntnisse."
+        "text": "Unsere Berichte erklären, was jeder Wert bedeutet, woher er kommt und was du damit anfangen kannst. Kein Fachjargon, keine vagen Horoskop-Floskeln. Nur klare, praktische Erkenntnisse."
       }
     ],
     "valuesTitle": "Darauf kannst du dich verlassen",
@@ -389,7 +389,7 @@
   },
   "blog": {
     "title": "Blog",
-    "subtitle": "Artikel über Persönlichkeit, Beziehungen und Wohlbefinden – verständlich erklärt.",
+    "subtitle": "Artikel über Persönlichkeit, Beziehungen und Wohlbefinden, verständlich erklärt.",
     "back": "Zurück zum Blog",
     "writtenBy": "Geschrieben von",
     "readTime": "{count} Min. Lesezeit",

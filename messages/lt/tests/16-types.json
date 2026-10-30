@@ -2,7 +2,7 @@
   "name": "16 asmenybės tipų testas",
   "tagline": "Sužinokite savo keturių raidžių tipą ir ką jis apie jus pasako.",
   "intro": "Šis testas jus išdėsto keturiose pasirinkimų skalėse: iš kur semiatės energijos, kaip priimate informaciją, kaip priimate sprendimus ir kaip organizuojate savo gyvenimą. Keturi jūsų pasirinkimai susijungia į vieną iš 16 asmenybės tipų. Įvertinkite 100 trumpų teiginių; tai užtruks apie penkias minutes.",
-  "seoTitle": "16 asmenybės tipų testas – nemokamas keturių raidžių tipas",
+  "seoTitle": "16 asmenybės tipų testas: nemokamas keturių raidžių tipas",
   "seoDescription": "Sužinokite savo keturių raidžių asmenybės tipą per 5 minutes. Pamatykite pasirinkimus kiekvienoje skalėje ir perskaitykite tipo portretą su patarimais.",
   "items": [
     "Geriausiai mąstau, kai idėjas aptariu su kitais.",
@@ -34,7 +34,7 @@
     "Mėgstu objektyviai išanalizuoti privalumus ir trūkumus.",
     "Griežti grafikai mane varžo.",
     "Susitelkiu į tai, kas vyksta dabar.",
-    "Ramus vakaras namuose – mano idealas.",
+    "Ramus vakaras namuose yra mano idealas.",
     "Mėgstu žinoti, ko tikėtis.",
     "Man sunku kritikuoti žmones, kurie man patinka.",
     "Buvimas tarp žmonių man įkrauna baterijas.",
@@ -164,11 +164,11 @@
     },
     "INFP": {
       "name": "Svajotojas",
-      "text": "Esate idealistai, turite turtingą vaizduotę ir vadovaujatės stipriomis vidinėmis vertybėmis. Visame, ką darote, ieškote prasmės ir jums labai rūpi autentiškumas – ir savyje, ir kituose. Gerai suprantate jausmus ir dažnai juos išreiškiate rašydami, kurdami meną ar apgalvotai kalbėdamiesi. Esate švelnūs, atviri ir ištikimi tam, kuo tikite. Augimo patarimas: jūsų idealai yra kompasas, tačiau tikrovė retai būna tobula; ženkite mažus praktinius žingsnius, užuot laukę idealios akimirkos. Būkite sau tokie pat atjaučiantys, kokie esate kitiems. Dalinkitės savo svajonėmis su žmonėmis, kurie gali padėti jas įgyvendinti."
+      "text": "Esate idealistai, turite turtingą vaizduotę ir vadovaujatės stipriomis vidinėmis vertybėmis. Visame, ką darote, ieškote prasmės ir jums labai rūpi autentiškumas, ir savyje, ir kituose. Gerai suprantate jausmus ir dažnai juos išreiškiate rašydami, kurdami meną ar apgalvotai kalbėdamiesi. Esate švelnūs, atviri ir ištikimi tam, kuo tikite. Augimo patarimas: jūsų idealai yra kompasas, tačiau tikrovė retai būna tobula; ženkite mažus praktinius žingsnius, užuot laukę idealios akimirkos. Būkite sau tokie pat atjaučiantys, kokie esate kitiems. Dalinkitės savo svajonėmis su žmonėmis, kurie gali padėti jas įgyvendinti."
     },
     "INTP": {
       "name": "Galvosūkių sprendėjas",
-      "text": "Esate logiški, išradingi ir be galo smalsūs. Mėgstate analizuoti idėjas, ieškoti nenuoseklumų ir kurti teorijas, kurios paaiškina, kaip viskas iš tiesų veikia. Mąstote savarankiškai ir mėgstate gilius pokalbius sudėtingomis temomis. Jūsų protas gali įžvelgti originalių sprendimų, kurių kiti nepastebi. Augimo patarimas: idėjos atskleidžia savo potencialą, kai jomis dalinamasi ir jos pritaikomos, todėl nusistatykite nedidelius terminus darbui užbaigti ir pristatyti. Atkreipkite dėmesį į praktines detales ir į tai, kaip jaučiasi kiti – tai svarbu net tada, kai atrodo nelogiška. Bendraukite su žmonėmis, turinčiais tų pačių interesų; jie suteiks energijos jūsų mąstymui."
+      "text": "Esate logiški, išradingi ir be galo smalsūs. Mėgstate analizuoti idėjas, ieškoti nenuoseklumų ir kurti teorijas, kurios paaiškina, kaip viskas iš tiesų veikia. Mąstote savarankiškai ir mėgstate gilius pokalbius sudėtingomis temomis. Jūsų protas gali įžvelgti originalių sprendimų, kurių kiti nepastebi. Augimo patarimas: idėjos atskleidžia savo potencialą, kai jomis dalinamasi ir jos pritaikomos, todėl nusistatykite nedidelius terminus darbui užbaigti ir pristatyti. Atkreipkite dėmesį į praktines detales ir į tai, kaip jaučiasi kiti, nes tai svarbu net tada, kai atrodo nelogiška. Bendraukite su žmonėmis, turinčiais tų pačių interesų; jie suteiks energijos jūsų mąstymui."
     },
     "ESTP": {
       "name": "Drąsuolis",

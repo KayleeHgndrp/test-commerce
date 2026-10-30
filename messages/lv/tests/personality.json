@@ -2,7 +2,7 @@
   "name": "Personības tests",
   "tagline": "Atklāj piecas pamatiezīmes, kas veido to, kas tu esi.",
   "intro": "Šis tests kartē tavu personību pēc piecām plašajām iezīmēm, ko psihologi izmanto visbiežāk: atvērtība, apzinīgums, ekstraversija, labvēlība un emocionālais jutīgums. Novērtē 100 īsus apgalvojumus pēc tā, cik labi tie tevi raksturo. Tas aizņem apmēram piecas minūtes un parāda, kā tu dabiski domā, jūti un veido attiecības ar citiem.",
-  "seoTitle": "Personības tests – bezmaksas Big Five iezīmju profils",
+  "seoTitle": "Personības tests: bezmaksas Big Five iezīmju profils",
   "seoDescription": "Izpildi bezmaksas 5 minūšu personības testu pēc Big Five modeļa un saņem skaidru profilu par savu atvērtību, apņēmību, sabiedriskumu un jutīgumu.",
   "items": [
     "Man ļoti patīk izpētīt jaunas idejas, pat neparastas.",
@@ -125,7 +125,7 @@
       "name": "Ekstraversija",
       "short": "Cik daudz enerģijas tu smelies no cilvēkiem, aktivitātēm un stimulācijas.",
       "low": "Tu esi atturīgāks un vislabāk atjauno spēkus vienatnē vai ar dažiem tuviem cilvēkiem. Tu padomā, pirms runā, labi uzklausi un tev patīk mierīga vide. Lielas grupas vai nemitīga pļāpāšana var tevi iztukšot. Tas pēc definīcijas nav kautrīgums; tā ir priekšroka dziļumam un klusumam. Padoms: pēc aizņemtām sabiedriskām dienām ieplāno atgūšanās laiku un neatvainojies par to, ka tev tas vajadzīgs. Sanāksmēs, ja izteikties uz vietas šķiet grūti, dalies savās domās rakstiski jau iepriekš.",
-      "mid": "Tu esi kaut kur pa vidu – to dažkārt sauc par ambivertu. Tev patīk sabiedrība un grupā tu vari būt dzīvīgs, bet tu novērtē arī klusu laiku un pēc pārāk daudz saskarsmes vari justies iztukšots. Tu pielāgojies situācijai, tāpēc ar tevi ir viegli strādāt dažādos apstākļos. Padoms: pievērs uzmanību savai enerģijai pēc dažādām nodarbēm. Plāno savu nedēļu tā, lai sabiedriskais un klusais laiks būtu līdzsvarā.",
+      "mid": "Tu esi kaut kur pa vidu, to dažkārt sauc par ambivertu. Tev patīk sabiedrība un grupā tu vari būt dzīvīgs, bet tu novērtē arī klusu laiku un pēc pārāk daudz saskarsmes vari justies iztukšots. Tu pielāgojies situācijai, tāpēc ar tevi ir viegli strādāt dažādos apstākļos. Padoms: pievērs uzmanību savai enerģijai pēc dažādām nodarbēm. Plāno savu nedēļu tā, lai sabiedriskais un klusais laiks būtu līdzsvarā.",
       "high": "Tu esi sabiedrisks, enerģisks un runātīgs. Tu smelies enerģiju no cilvēkiem un aktivitātēm, tev patīk būt tur, kur notiek lietas, un tu viegli uzsāc sarunas. Citi tevi bieži redz kā sirsnīgu un jautru. Slazds ir tas, ka vientulība var šķist nemierīga, tu vari runāt, pirms padomā, vai nepamanīt klusākas balsis. Padoms: trenējies apstāties un uzdot jautājumu, pirms izsaki savu viedokli. Iebūvē īsus klusus brīžus pārdomām, lai tava enerģija būtu vērsta tur, kur tā ir vissvarīgākā."
     },
     "agreeableness": {

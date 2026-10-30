@@ -1,8 +1,8 @@
 {
   "name": "Požiūrio į pinigus testas",
   "tagline": "Atraskite savo finansinę asmenybę ir jai tinkančius įpročius.",
-  "intro": "Šis testas atskleidžia jūsų požiūrį į pinigus: nuostatas ir įpročius, kurie lemia, kaip uždirbate, leidžiate, taupote ir galvojate apie pinigus. Jis lygina penkias finansines asmenybes – Taupytoją, Išlaidautoją, Vengėją, Statuso siekėją ir Saugumo siekėją – ir parodo, kuri jums tinka labiausiai. Atsakykite nuoširdžiai pagal tai, kaip paprastai elgiatės. Testas trunka apie penkias minutes ir pateikia konkrečių jūsų stiliui tinkančių finansinių įpročių.",
-  "seoTitle": "Požiūrio į pinigus testas – atraskite finansinę asmenybę",
+  "intro": "Šis testas atskleidžia jūsų požiūrį į pinigus: nuostatas ir įpročius, kurie lemia, kaip uždirbate, leidžiate, taupote ir galvojate apie pinigus. Jis lygina penkias finansines asmenybes (Taupytoją, Išlaidautoją, Vengėją, Statuso siekėją ir Saugumo siekėją) ir parodo, kuri jums tinka labiausiai. Atsakykite nuoširdžiai pagal tai, kaip paprastai elgiatės. Testas trunka apie penkias minutes ir pateikia konkrečių jūsų stiliui tinkančių finansinių įpročių.",
+  "seoTitle": "Požiūrio į pinigus testas: atraskite finansinę asmenybę",
   "seoDescription": "Taupytojas, išlaidautojas ar vengėjas? Atlikite nemokamą 5 minučių testą, atraskite savo finansinę asmenybę ir gaukite praktinių finansinių įpročių.",
   "items": [
     "Man patinka stebėti, kaip auga mano santaupos.",
@@ -23,7 +23,7 @@
     "Man nesvarbu, ką kiti galvoja apie mano daiktus.",
     "Stabilų darbą vertinu labiau nei didesnį, bet rizikingesnį atlyginimą.",
     "Vos gavus atlyginimą atidedu dalį pinigų.",
-    "Labai mėgstu apsipirkti – internetu ar parduotuvėse.",
+    "Labai mėgstu apsipirkti internetu ar parduotuvėse.",
     "Reguliariai tikrinu savo sąskaitas.",
     "Man nesunku prisiimti didelę finansinę riziką.",
     "Išlaidos ne būtiniausiems dalykams man kelia kaltės jausmą.",
@@ -118,7 +118,7 @@
       "name": "Išlaidautojas",
       "short": "Mėgsta pinigus naudoti malonumams, lepinimuisi, patirtims ir dosnumui.",
       "low": "Išlaidavimas jūsų ypač nejaudina. Mažai tikėtina, kad perkate impulsyviai, ir tikriausiai gerai apgalvojate pirkinius. Tai gerai apsaugo jūsų finansus. Tik pasirūpinkite, kad retkarčiais leistumėte sau ir pasimėgauti pinigais: patirtys, dovanos ir smulkūs malonumai gali suteikti gyvenimui tikros vertės. Apsvarstykite galimybę kas mėnesį suplanuoti vieną sąmoningą malonumą, kurio lauktumėte ir kuriuo mėgautumėtės be abejonių.",
-      "mid": "Mėgstate išlaidauti, tačiau paprastai neperžengiate ribų. Malonumai ir patirtys jums svarbūs, bet kartu stebite bendrą vaizdą. Kad išlaikytumėte pusiausvyrą, taikykite paprastą laukimo taisyklę: ne būtiniausiems pirkiniams, viršijantiems tam tikrą sumą, palaukite 48 valandas. Jei vis dar norite – pirkite. Taip pat kas mėnesį peržiūrėkite banko išrašą, kad pamatytumėte, ar jūsų išlaidos atitinka tai, ką iš tiesų vertinate.",
+      "mid": "Mėgstate išlaidauti, tačiau paprastai neperžengiate ribų. Malonumai ir patirtys jums svarbūs, bet kartu stebite bendrą vaizdą. Kad išlaikytumėte pusiausvyrą, taikykite paprastą laukimo taisyklę: ne būtiniausiems pirkiniams, viršijantiems tam tikrą sumą, palaukite 48 valandas. Jei vis dar norite, pirkite. Taip pat kas mėnesį peržiūrėkite banko išrašą, kad pamatytumėte, ar jūsų išlaidos atitinka tai, ką iš tiesų vertinate.",
       "high": "Jūsų atsakymai rodo, kad Išlaidautojas yra stipri jūsų finansinės asmenybės dalis. Mėgstate apsipirkti, lepintis ir patirtis, o išlaidos gali pakelti jums nuotaiką. Dosnumas ir mokėjimas mėgautis gyvenimu yra tikros stiprybės, tačiau impulsyvūs pirkiniai gali lemti, kad iki mėnesio pabaigos pritrūksite pinigų. Išbandykite atskirą „pramogų“ sąskaitą su fiksuota mėnesio suma ir atsisakykite parduotuvių naujienlaiškių. Jei išlaidas sunku kontroliuoti, jos veda į skolas ar veikia jūsų savijautą, gali padėti kvalifikuotas finansų konsultantas ar kitas specialistas."
     },
     "avoider": {
@@ -139,7 +139,7 @@
       "name": "Saugumo siekėjas",
       "short": "Vertina stabilumą, finansines atsargas ir apsaugą nuo finansinės rizikos.",
       "low": "Finansinis saugumas jums nėra didžiausias rūpestis. Jums priimtina rizika ir netikrumas, o tai gali atverti duris jaudinančioms galimybėms. Trūkumas tas, kad kažkam nutikus galite likti be finansinės atsargos. Prieš imdamiesi didelės rizikos, susikurkite bazinį rezervinį fondą, kurio užtektų bent vieno mėnesio būtiniausioms išlaidoms, ir patikrinkite, ar turite svarbiausius draudimus. Toks pagrindas leidžia rizikuoti saugiau.",
-      "mid": "Vertinate stabilumą, tačiau esate atviri ir tam tikrai rizikai. Ši pusiausvyra padeda apsisaugoti ir kartu augti. Kad ją sustiprintumėte, siekite rezervinio fondo, kurio užtektų trijų–šešių mėnesių būtiniausioms išlaidoms, ir kartą per metus peržiūrėkite savo draudimus. Investuodami apsvarstykite paprastą jūsų laiko horizontą atitinkantį derinį, kad galėtumėte išlikti ramūs per svyravimus ir visiškai neatsisakytumėte augimo.",
+      "mid": "Vertinate stabilumą, tačiau esate atviri ir tam tikrai rizikai. Ši pusiausvyra padeda apsisaugoti ir kartu augti. Kad ją sustiprintumėte, siekite rezervinio fondo, kurio užtektų 3–6 mėnesių būtiniausioms išlaidoms, ir kartą per metus peržiūrėkite savo draudimus. Investuodami apsvarstykite paprastą jūsų laiko horizontą atitinkantį derinį, kad galėtumėte išlikti ramūs per svyravimus ir visiškai neatsisakytumėte augimo.",
       "high": "Jūsų atsakymai rodo, kad Saugumo siekėjas yra stipri jūsų finansinės asmenybės dalis. Finansinės atsargos, stabilios pajamos ir rizikos vengimas jums labai svarbūs. Dėl to esate pasiruošę ir atsparūs. Rizika ta, kad nerimas dėl ateities gali išstumti mėgavimąsi dabartimi, arba per didelis atsargumas gali riboti augimą. Kai rezervinis fondas jau bus sukauptas, apsvarstykite galimybę daugiau sužinoti apie nebrangų, diversifikuotą investavimą. Jei finansiniai rūpesčiai atrodo nuolatiniai ar veikia jūsų miegą ar nuotaiką, gali padėti kvalifikuotas finansų konsultantas ar kitas specialistas."
     }
   },

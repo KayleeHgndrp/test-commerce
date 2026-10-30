@@ -1,8 +1,8 @@
 {
   "name": "Emocinio intelekto testas",
   "tagline": "Įvertinkite, kaip gerai atpažįstate, suprantate ir valdote emocijas.",
-  "intro": "Emocinis intelektas – tai gebėjimas pastebėti emocijas, suprasti, iš kur jos kyla, gerai jas valdyti ir pasitelkti kuriant gerus santykius. Šis testas apima keturias sritis: emocijų atpažinimą, supratimą, reguliavimą ir emocijų valdymą bendraujant su kitais. Atsakykite nuoširdžiai pagal tai, kokie paprastai esate, o ne kokie norėtumėte būti. Testas trunka apie penkias minutes.",
-  "seoTitle": "Emocinio intelekto testas – nemokamas EQ testas",
+  "intro": "Emocinis intelektas yra gebėjimas pastebėti emocijas, suprasti, iš kur jos kyla, gerai jas valdyti ir pasitelkti kuriant gerus santykius. Šis testas apima keturias sritis: emocijų atpažinimą, supratimą, reguliavimą ir emocijų valdymą bendraujant su kitais. Atsakykite nuoširdžiai pagal tai, kokie paprastai esate, o ne kokie norėtumėte būti. Testas trunka apie penkias minutes.",
+  "seoTitle": "Emocinio intelekto testas: nemokamas EQ testas",
   "seoDescription": "Koks jūsų emocinis intelektas? Atlikite nemokamą 5 minučių EQ testą apie emocijų atpažinimą, supratimą ir valdymą ir gaukite praktinių patarimų.",
   "items": [
     "Suprantu, kad po pykčiu dažnai slypi nuoskauda ar baimė.",
@@ -110,15 +110,15 @@
     "perceiving": {
       "name": "Emocijų atpažinimas",
       "short": "Kaip gerai pastebite emocijas savyje ir kituose.",
-      "low": "Jūsų atsakymai rodo, kad emocijos – ir jūsų, ir kitų žmonių – kartais lieka nepastebėtos, kol tampa stiprios. Galbūt labiau susitelkiate į faktus ir užduotis nei į jausmus, o tai turi savų privalumų. Vis dėlto anksti pastebėtos emocijos suteikia daugiau pasirinkimo, kaip reaguoti. Kelis kartus per dieną trumpai pasitikrinkite: ką dabar jaučiu ir kur tai jaučiu kūne? Pokalbiuose skirkite daugiau dėmesio balso tonui ir veido išraiškoms.",
-      "mid": "Emocijas pastebite gana gerai – ir savyje, ir kituose, nors subtilūs signalai kartais gali praslysti, ypač kai esate užsiėmę ar patiriate stresą. Tai tvirtas pagrindas tobulėti. Patarimas: pajutę žmogaus nuotaikos pokytį, švelniai pasitikrinkite, pavyzdžiui, paklauskite, kaip jam iš tiesų sekasi. Savo jausmus pabandykite įvardyti tiksliau nei tiesiog „gerai“ ar „blogai“. Platesnis emocijų žodynas paaštrina suvokimą.",
+      "low": "Jūsų atsakymai rodo, kad emocijos, ir jūsų, ir kitų žmonių, kartais lieka nepastebėtos, kol tampa stiprios. Galbūt labiau susitelkiate į faktus ir užduotis nei į jausmus, o tai turi savų privalumų. Vis dėlto anksti pastebėtos emocijos suteikia daugiau pasirinkimo, kaip reaguoti. Kelis kartus per dieną trumpai pasitikrinkite: ką dabar jaučiu ir kur tai jaučiu kūne? Pokalbiuose skirkite daugiau dėmesio balso tonui ir veido išraiškoms.",
+      "mid": "Emocijas pastebite gana gerai ir savyje, ir kituose, nors subtilūs signalai kartais gali praslysti, ypač kai esate užsiėmę ar patiriate stresą. Tai tvirtas pagrindas tobulėti. Patarimas: pajutę žmogaus nuotaikos pokytį, švelniai pasitikrinkite, pavyzdžiui, paklauskite, kaip jam iš tiesų sekasi. Savo jausmus pabandykite įvardyti tiksliau nei tiesiog „gerai“ ar „blogai“. Platesnis emocijų žodynas paaštrina suvokimą.",
       "high": "Esate labai jautrūs emocijoms. Paprastai anksti pastebite savo jausmus ir pagaunate kitų nuotaikas, įtampą bei neišsakytus signalus. Šis jautrumas padeda reaguoti rūpestingai ir išvengti nesusipratimų. Toliau juo naudokitės, tačiau atminkite, kad viską pastebėti gali ir varginti. Prisiminkite, kad jūsų kitų „skaitymas“ yra hipotezė, o ne faktas, todėl prieš veikdami pasitikrinkite. Po emociškai intensyvių situacijų skirkite sau laiko atsigauti."
     },
     "understanding": {
       "name": "Emocijų supratimas",
       "short": "Kaip gerai suprantate emocijų priežastis ir eigą.",
       "low": "Jūsų atsakymai rodo, kad emocijos kartais gali atrodyti painios, tarsi atsirastų iš niekur ar būtų sunkiai paaiškinamos. Tai dažna patirtis ir įgūdis, kurį galima išsiugdyti. Kelias savaites pabandykite vesti trumpą nuotaikos dienoraštį: užsirašykite, ką jautėte, kas nutiko prieš tai ir kaip jausmas keitėsi. Netrukus išryškės dėsningumai. Romanų skaitymas ar filmų žiūrėjimas atkreipiant dėmesį į veikėjų jausmus taip pat gali pagilinti kitų supratimą.",
-      "mid": "Gana gerai suprantate, kodėl emocijos kyla ir kaip jos vystosi – ir jumyse, ir kituose. Kai kurios reakcijos vis dar gali jus gluminti, ypač mišrios ar intensyvios. Patarimas: kai jausmas jus nustebina, paklauskite savęs, kokį poreikį ar vertybę jis galbūt saugo. Pyktis dažnai rodo į ribą, liūdesys – į netektį. Situacijų aptarimas vėliau su draugu taip pat gali padėti aiškiau pamatyti emocinius dėsningumus.",
+      "mid": "Gana gerai suprantate, kodėl emocijos kyla ir kaip jos vystosi ir jumyse, ir kituose. Kai kurios reakcijos vis dar gali jus gluminti, ypač mišrios ar intensyvios. Patarimas: kai jausmas jus nustebina, paklauskite savęs, kokį poreikį ar vertybę jis galbūt saugo. Pyktis dažnai rodo į ribą, liūdesys rodo į netektį. Situacijų aptarimas vėliau su draugu taip pat gali padėti aiškiau pamatyti emocinius dėsningumus.",
       "high": "Giliai suprantate emocijas. Paprastai galite paaiškinti, kodėl jaučiate tai, ką jaučiate, numatyti, kaip situacijos paveiks žmones, ir atpažinti nuoskaudą ar baimę, kuri gali slypėti už pykčio. Ši įžvalga padeda priimti išmintingesnius sprendimus ir gerai palaikyti kitus. Toliau dosniai ja naudokitės, tačiau atminkite, kad suprasti jausmą nereiškia, kad privalote jį „sutaisyti“. Kartais žmonėms tiesiog reikia būti išklausytiems, o ne analizuojamiems."
     },
     "regulating": {

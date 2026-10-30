@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Ókeypis sálfræðipróf á netinu",
-    "description": "Ítarleg próf um persónuleika, sambönd, vinnu og vellíðan — byggð á sálfræðirannsóknum og útskýrð á skýran hátt."
+    "title": "{site}: Ókeypis sálfræðipróf á netinu",
+    "description": "Ítarleg próf um persónuleika, sambönd, vinnu og vellíðan, byggð á sálfræðirannsóknum og útskýrð á skýran hátt."
   },
   "nav": {
     "tests": "Próf",
@@ -14,13 +14,13 @@
     "badge": "{count} próf · {languages} tungumál",
     "heroTitle": "Prófin sem afhjúpa",
     "heroHighlight": "persónuleika þinn",
-    "heroSubtitle": "Ítarleg próf um persónuleika, sambönd og vellíðan — hvert þeirra byggt á viðurkenndum sálfræðirannsóknum og útskýrt á skýru máli sem þú lest í raun til enda.",
+    "heroSubtitle": "Ítarleg próf um persónuleika, sambönd og vellíðan, hvert þeirra byggt á viðurkenndum sálfræðirannsóknum og útskýrt á skýru máli sem þú lest í raun til enda.",
     "heroCta": "Skoðaðu prófin okkar",
     "heroSecondary": "Svona virkar þetta",
     "trust1": "Enginn aðgangur nauðsynlegur",
     "trust2": "Eingreiðsla, engin áskrift",
     "trust3": "Skýrslan beint í pósthólfið þitt",
-    "dimensionsTitle": "Þú ert meira en ein einkunn — sjáðu allar hliðar þínar.",
+    "dimensionsTitle": "Þú ert meira en ein einkunn. Sjáðu allar hliðar þínar.",
     "dimensionsSubtitle": "Þau svið sem prófin okkar mæla oftast, þvert á persónuleika, sambönd og vellíðan.",
     "dimensions": [
       "🎯 Einbeiting",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Er {test} ókeypis?",
-        "a": "Já, það er ókeypis að taka prófið. Ef þú vilt fá fulla persónulega skýrslu með öllum einkunnum og skýringum geturðu pantað hana fyrir {price}, greitt einu sinni — engin áskrift."
+        "a": "Já, það er ókeypis að taka prófið. Ef þú vilt fá fulla persónulega skýrslu með öllum einkunnum og skýringum geturðu pantað hana fyrir {price}, greitt einu sinni, engin áskrift."
       },
       {
         "q": "Hversu áreiðanlegt er {test}?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Um {site}",
-    "intro": "Við trúum því að allir eigi skilið skýra og heiðarlega sýn á hver þeir eru — án fagmáls, án áskrifta og án fjögurra stafa merkimiða sem útskýrir ekkert.",
+    "intro": "Við trúum því að allir eigi skilið skýra og heiðarlega sýn á hver þeir eru, án fagmáls, án áskrifta og án fjögurra stafa merkimiða sem útskýrir ekkert.",
     "missionTitle": "Markmið okkar",
     "mission": "Sálfræðin hefur þróað öflugar leiðir til að lýsa persónuleika, samböndum og vellíðan, en mest af þeirri þekkingu er lokað inni í kennslubókum eða dýru mati. {site} gerir hana aðgengilega: ítarleg próf sem allir geta tekið ókeypis, á sínu eigin tungumáli, með persónulegri skýrslu sem útskýrir niðurstöðurnar á einföldu máli og gefur þér hagnýt næstu skref.",
     "howTitle": "Hvernig við búum til prófin",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Skrifað til að vera lesið",
-        "text": "Skýrslurnar okkar útskýra hvað hver einkunn þýðir, hvaðan hún kemur og hvað þú getur gert við hana. Ekkert fagmál og ekkert óljóst stjörnuspármál — bara skýr og hagnýt innsýn."
+        "text": "Skýrslurnar okkar útskýra hvað hver einkunn þýðir, hvaðan hún kemur og hvað þú getur gert við hana. Ekkert fagmál og ekkert óljóst stjörnuspármál. Bara skýr og hagnýt innsýn."
       }
     ],
     "valuesTitle": "Það sem þú getur treyst á",

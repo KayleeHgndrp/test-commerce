@@ -2,7 +2,7 @@
   "name": "Test ADHD",
   "tagline": "Sprawdź, w jakim stopniu rozpoznajesz u siebie cechy ADHD dorosłych.",
   "intro": "Ten test przesiewowy obejmuje cztery obszary związane z ADHD u dorosłych: nieuwagę, nadruchliwość, impulsywność oraz funkcje wykonawcze, takie jak planowanie i zarządzanie czasem. Odpowiadaj zgodnie z tym, jak często dane stwierdzenie dotyczyło cię w ciągu ostatnich sześciu miesięcy. Test zajmuje około pięciu minut i nie jest diagnozą, ale może pomóc ci zrozumieć własne wzorce i zdecydować, czy warto zgłosić się na diagnozę.",
-  "seoTitle": "Test ADHD – bezpłatny test przesiewowy dla dorosłych",
+  "seoTitle": "Test ADHD: bezpłatny test przesiewowy dla dorosłych",
   "seoDescription": "Masz kłopot ze skupieniem, niepokojem lub planowaniem? Zrób 5-minutowy test przesiewowy ADHD dla dorosłych i otrzymaj osobisty raport.",
   "items": [
     "Odkładam zadania na ostatnią chwilę.",
@@ -111,7 +111,7 @@
       "name": "Nieuwaga",
       "short": "Jak łatwo rozprasza się twoja uwaga i jak często umykają ci szczegóły lub rzeczy.",
       "low": "Twoje odpowiedzi sugerują, że zwykle potrafisz utrzymać uwagę tam, gdzie chcesz. Bez większego trudu śledzisz rozmowy, zauważasz szczegóły i pilnujesz swoich rzeczy. Każdego czasem coś rozprasza, zwłaszcza w zmęczeniu lub stresie, więc sporadyczne potknięcia są normalne. Dbaj o nawyki, które pomagają ci się skupić, takie jak odpowiednia ilość snu i ograniczanie przerw podczas ważnej pracy. Jeśli twoja koncentracja wyraźnie się zmieni, zastanów się, czy nie stoi za tym stres lub brak snu.",
-      "mid": "Twoje odpowiedzi sugerują, że w niektórych sytuacjach twoja uwaga ucieka częściej, niż jest to dla ciebie wygodne – na przykład na długich spotkaniach, przy nudnych zadaniach albo w gwarnym otoczeniu. Wpływ mają na to stres, sen i ilość obowiązków, a także twój indywidualny styl. Spróbuj pracować w krótkich blokach pełnego skupienia, usuń rozpraszacze, takie jak powiadomienia, i od razu zapisuj ważne rzeczy, by twoja pamięć nie musiała dźwigać wszystkiego.",
+      "mid": "Twoje odpowiedzi sugerują, że w niektórych sytuacjach twoja uwaga ucieka częściej, niż jest to dla ciebie wygodne, na przykład na długich spotkaniach, przy nudnych zadaniach albo w gwarnym otoczeniu. Wpływ mają na to stres, sen i ilość obowiązków, a także twój indywidualny styl. Spróbuj pracować w krótkich blokach pełnego skupienia, usuń rozpraszacze, takie jak powiadomienia, i od razu zapisuj ważne rzeczy, by twoja pamięć nie musiała dźwigać wszystkiego.",
       "high": "Twoje odpowiedzi sugerują, że utrzymanie uwagi na zadaniach, rozmowach i szczegółach często sprawia ci trudność, a zapominanie może wpływać na twoje codzienne życie. To częste objawy ADHD u dorosłych, ale podobne problemy mogą wywoływać także stres, obniżony nastrój, lęk i zły sen. Rozważ rozmowę z lekarzem lub innym wykwalifikowanym specjalistą, który oceni, co się za tym kryje. Do tego czasu odciążą cię zewnętrzne narzędzia, takie jak przypomnienia, listy kontrolne i stałe miejsca na twoje rzeczy."
     },
     "hyperactivity": {
@@ -124,7 +124,7 @@
     "impulsivity": {
       "name": "Impulsywność",
       "short": "Jak często działasz, mówisz lub decydujesz, zanim wszystko przemyślisz.",
-      "low": "Twoje odpowiedzi sugerują, że zazwyczaj zatrzymujesz się na chwilę, zanim coś zrobisz lub powiesz. Wydaje się, że rozważasz decyzje, czekasz na swoją kolej i panujesz nad reakcjami. Takie przemyślane podejście chroni cię przed wieloma rozczarowaniami. Uważaj tylko, by ostrożność nie powstrzymywała cię przed chwytaniem dobrych okazji, gdy się pojawiają. Jeśli zauważasz, że w zmęczeniu lub stresie reagujesz szybciej, to normalne – po prostu zaplanuj sobie więcej odpoczynku w intensywnych okresach.",
+      "low": "Twoje odpowiedzi sugerują, że zazwyczaj zatrzymujesz się na chwilę, zanim coś zrobisz lub powiesz. Wydaje się, że rozważasz decyzje, czekasz na swoją kolej i panujesz nad reakcjami. Takie przemyślane podejście chroni cię przed wieloma rozczarowaniami. Uważaj tylko, by ostrożność nie powstrzymywała cię przed chwytaniem dobrych okazji, gdy się pojawiają. Jeśli zauważasz, że w zmęczeniu lub stresie reagujesz szybciej, to normalne, po prostu zaplanuj sobie więcej odpoczynku w intensywnych okresach.",
       "mid": "Twoje odpowiedzi sugerują, że czasem działasz pod wpływem impulsu, na przykład przerywasz innym, kupujesz coś pod wpływem chwili lub reagujesz gwałtownie, gdy coś cię zirytuje. Odrobina spontaniczności potrafi dodać energii, ale warto wprowadzić małe pauzy. Wypróbuj prostą zasadę, na przykład odczekaj dzień przed większym zakupem albo policz do pięciu, zanim odpowiesz w gorącej chwili.",
       "high": "Twoje odpowiedzi sugerują, że często działasz, mówisz lub decydujesz, zanim wszystko przemyślisz, i że może to prowadzić do żalu w sprawach finansowych, w relacjach lub w pracy. Silna impulsywność to częsta cecha ADHD, ale może mieć też inne przyczyny. Rozważ rozmowę z lekarzem lub innym wykwalifikowanym specjalistą o tym, co zauważasz. Praktyczne strategie, takie jak odraczanie ważnych decyzji i utrudnianie sobie dostępu do pokus, mogą pomóc ci odzyskać poczucie kontroli."
     },

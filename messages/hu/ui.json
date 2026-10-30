@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Ingyenes online pszichológiai tesztek",
-    "description": "Alapos tesztek személyiségről, kapcsolatokról, munkáról és jóllétről – elismert pszichológiai kutatásokra építve, közérthetően elmagyarázva."
+    "title": "{site}: Ingyenes online pszichológiai tesztek",
+    "description": "Alapos tesztek személyiségről, kapcsolatokról, munkáról és jóllétről, elismert pszichológiai kutatásokra építve, közérthetően elmagyarázva."
   },
   "nav": {
     "tests": "Tesztek",
@@ -14,14 +14,14 @@
     "badge": "{count} teszt · {languages} nyelv",
     "heroTitle": "Tesztek, amelyek feltárják a",
     "heroHighlight": "személyiségedet",
-    "heroSubtitle": "Alapos tesztek személyiségről, kapcsolatokról és jóllétről – mindegyik elismert pszichológiai kutatásokon alapul, és olyan közérthetően magyaráz, hogy tényleg a végéig elolvasod.",
+    "heroSubtitle": "Alapos tesztek személyiségről, kapcsolatokról és jóllétről, mindegyik elismert pszichológiai kutatásokon alapul, és olyan közérthetően magyaráz, hogy tényleg a végéig elolvasod.",
     "heroCta": "Fedezd fel tesztjeinket",
     "heroSecondary": "Hogyan működik?",
     "trust1": "Nem kell regisztrálni",
     "trust2": "Egyszeri fizetés, nincs előfizetés",
     "trust3": "Az értékelés egyenesen a postafiókodba",
-    "dimensionsTitle": "Több vagy egyetlen pontszámnál – ismerd meg minden oldalad.",
-    "dimensionsSubtitle": "A területek, amelyeket tesztjeink a leggyakrabban mérnek – a személyiségtől a kapcsolatokon át a jóllétig.",
+    "dimensionsTitle": "Több vagy egyetlen pontszámnál. Ismerd meg minden oldalad.",
+    "dimensionsSubtitle": "A területek, amelyeket tesztjeink a leggyakrabban mérnek: a személyiségtől a kapcsolatokon át a jóllétig.",
     "dimensions": [
       "🎯 Fókusz",
       "🔋 Társas energia",
@@ -39,7 +39,7 @@
     "steps": [
       {
         "title": "Válassz tesztet",
-        "text": "Válogass személyiség-, kapcsolati és szűrőtesztjeink közül – mindegyik elismert pszichológiai modelleken alapul."
+        "text": "Válogass személyiség-, kapcsolati és szűrőtesztjeink közül, mindegyik elismert pszichológiai modelleken alapul."
       },
       {
         "title": "Töltsd ki a tesztet",
@@ -47,7 +47,7 @@
       },
       {
         "title": "Olvasd el az értékelést",
-        "text": "Kapj személyes értékelést a pontszámaiddal, azok jelentésével és gyakorlati tippekkel – egyenesen a postafiókodba."
+        "text": "Kapj személyes értékelést a pontszámaiddal, azok jelentésével és gyakorlati tippekkel, egyenesen a postafiókodba."
       }
     ],
     "pricingTitle": "Egyszerű árak",
@@ -151,7 +151,7 @@
     },
     "unanswered": "A folytatáshoz válaszolj az oldalon lévő összes állításra.",
     "tryNow": "Kipróbálom",
-    "faqTitle": "Gyakori kérdések – „{test}”",
+    "faqTitle": "Gyakori kérdések: „{test}”",
     "faq": [
       {
         "q": "Mit mér a(z) „{test}” teszt?",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Ingyenes a(z) „{test}” teszt?",
-        "a": "Igen, a teszt kitöltése ingyenes. Ha a teljes személyes értékelést szeretnéd az összes pontszámmal és magyarázattal, {price} áron megrendelheted – egyszeri fizetéssel, előfizetés nélkül."
+        "a": "Igen, a teszt kitöltése ingyenes. Ha a teljes személyes értékelést szeretnéd az összes pontszámmal és magyarázattal, {price} áron megrendelheted, egyszeri fizetéssel, előfizetés nélkül."
       },
       {
         "q": "Mennyire megbízható a(z) „{test}” teszt?",
@@ -297,7 +297,7 @@
   "legal": {
     "privacyTitle": "Adatvédelmi tájékoztató",
     "privacyBody": [
-      "Csak a szolgáltatásunkhoz szükséges adatokat gyűjtjük: a tesztekre adott válaszaidat, valamint – ha értékelést vásárolsz – az e-mail-címedet.",
+      "Csak a szolgáltatásunkhoz szükséges adatokat gyűjtjük: a tesztekre adott válaszaidat, valamint, ha értékelést vásárolsz, az e-mail-címedet.",
       "A válaszaidat az eredményed kiszámításához dolgozzuk fel. Ha értékelést vásárolsz, a válaszaidat és az e-mail-címedet továbbítjuk fizetési szolgáltatónknak, a Stripe-nak, valamint e-mail-szolgáltatónknak a fizetés lebonyolítása és az értékelés kézbesítése érdekében.",
       "Az adataidat nem adjuk el, és nem használjuk fel reklámcélokra. Bármikor kérheted adataid törlését a(z) {email} címen.",
       "Ha elfogadod az analitikai sütiket, a Google Analytics segítségével használati statisztikákat gyűjtünk, például hogy mely oldalakat látogatják. A Google ezeket az adatokat az EU-n kívül is kezelheti az EU-US Data Privacy Framework alapján.",
@@ -320,7 +320,7 @@
     "refundTitle": "Visszatérítési szabályzat",
     "refundBody": [
       "Egy értékelés {price} tesztenként, egyszeri fizetéssel. A csomagok, a teljes hozzáférés és a páros értékelések is egyszeri fizetések. Nincs előfizetés és nincs automatikus megújítás.",
-      "Nem kaptad meg az értékelést, vagy valami hiba történt? Írj 14 napon belül a(z) {email} címre, és add meg a használt e-mail-címet – újra elküldjük az értékelést, vagy visszatérítjük a díjat.",
+      "Nem kaptad meg az értékelést, vagy valami hiba történt? Írj 14 napon belül a(z) {email} címre, és add meg a használt e-mail-címet, újra elküldjük az értékelést, vagy visszatérítjük a díjat.",
       "Mivel az értékelés azonnal teljesített digitális tartalom, a törvényes elállási jog az elküldésével megszűnik. Ha valami nincs rendben, természetesen mindig segítünk.",
       "A visszatérítés az eredeti fizetési módra történik, 5–10 munkanapon belül."
     ],
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "A(z) {site} bemutatása",
-    "intro": "Hiszünk abban, hogy mindenki megérdemel egy világos, őszinte képet önmagáról – szakzsargon, előfizetés és semmit sem magyarázó négybetűs címke nélkül.",
+    "intro": "Hiszünk abban, hogy mindenki megérdemel egy világos, őszinte képet önmagáról, szakzsargon, előfizetés és semmit sem magyarázó négybetűs címke nélkül.",
     "missionTitle": "Küldetésünk",
     "mission": "A pszichológia hatékony módszereket dolgozott ki a személyiség, a kapcsolatok és a jóllét leírására, ám ennek a tudásnak a nagy része tankönyvekben vagy drága felmérésekben rejtőzik. A(z) {site} elérhetővé teszi: alapos teszteket kínál, amelyeket bárki ingyen kitölthet a saját nyelvén, és személyes értékelést, amely közérthetően elmagyarázza az eredményeidet, és gyakorlati következő lépéseket ad.",
     "howTitle": "Így készülnek tesztjeink",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Olvasásra írva",
-        "text": "Értékeléseink elmagyarázzák, mit jelent az egyes pontszám, honnan ered, és mit kezdhetsz vele. Nincs szakzsargon és nincsenek homályos, horoszkópszerű mondatok – csak világos, gyakorlati felismerések."
+        "text": "Értékeléseink elmagyarázzák, mit jelent az egyes pontszám, honnan ered, és mit kezdhetsz vele. Nincs szakzsargon és nincsenek homályos, horoszkópszerű mondatok. Csak világos, gyakorlati felismerések."
       }
     ],
     "valuesTitle": "Amire számíthatsz",

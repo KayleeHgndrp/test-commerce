@@ -2,7 +2,7 @@
   "name": "Archetípus teszt",
   "tagline": "Fedezd fel, melyik a 12 klasszikus archetípus közül mozgat téged.",
   "intro": "A világ történetei néhány visszatérő karakterre épülnek: a hősre, a bölcsre, a lázadóra, a gondoskodóra és másokra. Ez a teszt megmutatja, hogy a 12 archetípus közül melyek formálják a gondolkodásodat, az érzéseidet és a cselekedeteidet. Értékelj 100 rövid állítást aszerint, mennyire jellemzőek rád. Körülbelül öt percet vesz igénybe, és feltárja a vezető archetípusodat, valamint a teljes profilodat.",
-  "seoTitle": "Archetípus teszt – Ismerd meg személyiséged archetípusát",
+  "seoTitle": "Archetípus teszt: Ismerd meg személyiséged archetípusát",
   "seoDescription": "Melyik vagy a 12 archetípus közül? Hős, Bölcs, Felfedező, Alkotó vagy Lázadó? Töltsd ki az ingyenes, 5 perces tesztet, és kapj archetípus-profilt.",
   "items": [
     "Hiszem, hogy a legtöbb ember alapvetően jó.",
@@ -138,7 +138,7 @@
     "magician": {
       "name": "A Mágus",
       "short": "A helyzetek átalakítása és az elképzelések valóra váltása iránti vágyad.",
-      "low": "A Mágus nem hangsúlyos a profilodban. Valószínűleg a tényeket, a világos lépéseket és a bevált dolgokat részesíted előnyben a nagyszabású víziókkal szemben. Ettől két lábbal állsz a földön, és realista maradsz. Mégis, a legjobb változások egy része azzal kezdődik, hogy elképzeljük, ami még nem létezik. Időnként kérdezd meg magadtól: hogyan festene ez, ha tökéletesen működne? Ha leírsz egy merész elképzelést – még ha csak egy kis részét valósítod is meg –, új lehetőségek nyílhatnak meg.",
+      "low": "A Mágus nem hangsúlyos a profilodban. Valószínűleg a tényeket, a világos lépéseket és a bevált dolgokat részesíted előnyben a nagyszabású víziókkal szemben. Ettől két lábbal állsz a földön, és realista maradsz. Mégis, a legjobb változások egy része azzal kezdődik, hogy elképzeljük, ami még nem létezik. Időnként kérdezd meg magadtól: hogyan festene ez, ha tökéletesen működne? Ha leírsz egy merész elképzelést, még ha csak egy kis részét valósítod is meg, új lehetőségek nyílhatnak meg.",
       "mid": "Jókora adag Mágust hordozol magadban. El tudod képzelni, hogyan alakulhatnak át a dolgok, és szereted látni, ahogy az ötletek valóra válnak, miközben két lábbal a földön maradsz. Ettől hasznos hidat képezel az álmodozók és a cselekvők között. Erősítsd ezt az oldaladat úgy, hogy kiválasztod az életed egy területét, amelyen változtatni szeretnél, és tisztán elképzeled a végeredményt. Aztán bontsd apró, konkrét lépésekre, hogy az elképzelésed lendületet kapjon.",
       "high": "A Mágus az egyik legerősebb archetípusod. Hiszel az átalakulásban, és tehetséged van ahhoz, hogy a víziókat valóra váltsd, gyakran mások számára meglepő módon. Észreveszed a rejtett összefüggéseket, és változást tudsz inspirálni emberekben és helyzetekben. A kockázat az, hogy többet ígérsz, mint ami reális, vagy nem elég átláthatóan használod a befolyásodat. Oszd meg nyíltan az elképzelésedet, vesd össze kemény tényekkel, és ünnepeld azokat az apró, gyakorlati lépéseket, amelyektől a varázslat ténylegesen megtörténik."
     },

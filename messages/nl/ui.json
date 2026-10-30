@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Gratis online psychologische tests",
-    "description": "Diepgaande tests over persoonlijkheid, relaties, werk en welzijn — gebaseerd op erkend psychologisch onderzoek en uitgelegd in begrijpelijke taal."
+    "title": "{site}: Gratis online psychologische tests",
+    "description": "Diepgaande tests over persoonlijkheid, relaties, werk en welzijn, gebaseerd op erkend psychologisch onderzoek en uitgelegd in begrijpelijke taal."
   },
   "nav": {
     "tests": "Tests",
@@ -14,13 +14,13 @@
     "badge": "{count} tests · {languages} talen",
     "heroTitle": "Ontdek met onze tests jouw",
     "heroHighlight": "persoonlijkheid",
-    "heroSubtitle": "Diepgaande tests over persoonlijkheid, relaties en welzijn — elk gebaseerd op erkend psychologisch onderzoek en uitgelegd in heldere taal die je ook echt tot het einde leest.",
+    "heroSubtitle": "Diepgaande tests over persoonlijkheid, relaties en welzijn, elk gebaseerd op erkend psychologisch onderzoek en uitgelegd in heldere taal die je ook echt tot het einde leest.",
     "heroCta": "Bekijk onze tests",
     "heroSecondary": "Zo werkt het",
     "trust1": "Geen account nodig",
     "trust2": "Eenmalige betaling, geen abonnement",
     "trust3": "Rapport direct in je inbox",
-    "dimensionsTitle": "Je bent meer dan één score — ontdek al je kanten.",
+    "dimensionsTitle": "Je bent meer dan één score. Ontdek al je kanten.",
     "dimensionsSubtitle": "De gebieden die onze tests het vaakst meten, van persoonlijkheid tot relaties en welzijn.",
     "dimensions": [
       "🎯 Focus",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Is de {test} gratis?",
-        "a": "Ja, de test invullen is gratis. Wil je je volledige persoonlijke rapport met alle scores en uitleg? Dan kun je dat bestellen voor {price}, eenmalig betaald — geen abonnement."
+        "a": "Ja, de test invullen is gratis. Wil je je volledige persoonlijke rapport met alle scores en uitleg? Dan kun je dat bestellen voor {price}, eenmalig betaald, geen abonnement."
       },
       {
         "q": "Hoe betrouwbaar is de {test}?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Over {site}",
-    "intro": "Wij vinden dat iedereen een helder, eerlijk beeld van zichzelf verdient — zonder vakjargon, zonder abonnementen en zonder een label van vier letters dat niets uitlegt.",
+    "intro": "Wij vinden dat iedereen een helder, eerlijk beeld van zichzelf verdient, zonder vakjargon, zonder abonnementen en zonder een label van vier letters dat niets uitlegt.",
     "missionTitle": "Onze missie",
     "mission": "De psychologie heeft krachtige manieren ontwikkeld om persoonlijkheid, relaties en welzijn te beschrijven, maar de meeste kennis zit verstopt in studieboeken of dure assessments. {site} maakt die kennis toegankelijk: diepgaande tests die iedereen gratis kan doen, in de eigen taal, met een persoonlijk rapport dat je resultaten in gewone woorden uitlegt en je praktische vervolgstappen geeft.",
     "howTitle": "Zo bouwen we onze tests",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Geschreven om gelezen te worden",
-        "text": "Onze rapporten leggen uit wat elke score betekent, waar die vandaan komt en wat je ermee kunt. Geen jargon en geen vage horoscooptaal — gewoon heldere, praktische inzichten."
+        "text": "Onze rapporten leggen uit wat elke score betekent, waar die vandaan komt en wat je ermee kunt. Geen jargon en geen vage horoscooptaal. Gewoon heldere, praktische inzichten."
       }
     ],
     "valuesTitle": "Waar je op kunt rekenen",

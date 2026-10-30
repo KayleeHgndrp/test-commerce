@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Ilmaiset psykologiset testit verkossa",
-    "description": "Perusteellisia testejä persoonallisuudesta, ihmissuhteista, työstä ja hyvinvoinnista – vakiintuneeseen psykologiseen tutkimukseen perustuvia ja selkokielisesti selitettyjä."
+    "title": "{site}: Ilmaiset psykologiset testit verkossa",
+    "description": "Perusteellisia testejä persoonallisuudesta, ihmissuhteista, työstä ja hyvinvoinnista, vakiintuneeseen psykologiseen tutkimukseen perustuvia ja selkokielisesti selitettyjä."
   },
   "nav": {
     "tests": "Testit",
@@ -14,14 +14,14 @@
     "badge": "Testejä: {count} · Kieliä: {languages}",
     "heroTitle": "Testit, jotka paljastavat",
     "heroHighlight": "persoonallisuutesi",
-    "heroSubtitle": "Perusteellisia testejä persoonallisuudesta, ihmissuhteista ja hyvinvoinnista – jokainen perustuu vakiintuneeseen psykologiseen tutkimukseen ja on selitetty niin selkeästi, että luet sen oikeasti loppuun asti.",
+    "heroSubtitle": "Perusteellisia testejä persoonallisuudesta, ihmissuhteista ja hyvinvoinnista, jokainen perustuu vakiintuneeseen psykologiseen tutkimukseen ja on selitetty niin selkeästi, että luet sen oikeasti loppuun asti.",
     "heroCta": "Tutustu testeihin",
     "heroSecondary": "Näin se toimii",
     "trust1": "Ei tiliä tarvita",
     "trust2": "Kertamaksu, ei tilausta",
     "trust3": "Raportti suoraan sähköpostiisi",
-    "dimensionsTitle": "Olet enemmän kuin yksi pistemäärä – näe kaikki puolesi.",
-    "dimensionsSubtitle": "Alueet, joita testimme mittaavat useimmin – persoonallisuudesta ihmissuhteisiin ja hyvinvointiin.",
+    "dimensionsTitle": "Olet enemmän kuin yksi pistemäärä. Näe kaikki puolesi.",
+    "dimensionsSubtitle": "Alueet, joita testimme mittaavat useimmin: persoonallisuudesta ihmissuhteisiin ja hyvinvointiin.",
     "dimensions": [
       "🎯 Keskittyminen",
       "🔋 Sosiaalinen energia",
@@ -39,7 +39,7 @@
     "steps": [
       {
         "title": "Valitse testi",
-        "text": "Valitse persoonallisuus-, ihmissuhde- ja seulontatesteistämme – kaikki perustuvat vakiintuneisiin psykologisiin malleihin."
+        "text": "Valitse persoonallisuus-, ihmissuhde- ja seulontatesteistämme, kaikki perustuvat vakiintuneisiin psykologisiin malleihin."
       },
       {
         "title": "Tee testi",
@@ -47,7 +47,7 @@
       },
       {
         "title": "Lue raporttisi",
-        "text": "Saat henkilökohtaisen raportin, jossa ovat pisteesi, niiden merkitys ja käytännön vinkkejä – suoraan sähköpostiisi."
+        "text": "Saat henkilökohtaisen raportin, jossa ovat pisteesi, niiden merkitys ja käytännön vinkkejä, suoraan sähköpostiisi."
       }
     ],
     "pricingTitle": "Selkeä hinnoittelu",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Onko testi ”{test}” ilmainen?",
-        "a": "Kyllä, testin tekeminen on ilmaista. Jos haluat koko henkilökohtaisen raporttisi kaikkine pisteineen ja selityksineen, voit tilata sen hintaan {price} kertamaksuna – ilman tilausta."
+        "a": "Kyllä, testin tekeminen on ilmaista. Jos haluat koko henkilökohtaisen raporttisi kaikkine pisteineen ja selityksineen, voit tilata sen hintaan {price} kertamaksuna, ilman tilausta."
       },
       {
         "q": "Kuinka luotettava testi ”{test}” on?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Tietoa {site}-palvelusta",
-    "intro": "Uskomme, että jokainen ansaitsee selkeän ja rehellisen kuvan itsestään – ilman ammattijargonia, ilman tilauksia ja ilman neljän kirjaimen leimaa, joka ei selitä mitään.",
+    "intro": "Uskomme, että jokainen ansaitsee selkeän ja rehellisen kuvan itsestään, ilman ammattijargonia, ilman tilauksia ja ilman neljän kirjaimen leimaa, joka ei selitä mitään.",
     "missionTitle": "Tehtävämme",
     "mission": "Psykologia on kehittänyt tehokkaita tapoja kuvata persoonallisuutta, ihmissuhteita ja hyvinvointia, mutta suurin osa tästä tiedosta on lukittuna oppikirjoihin tai kalliisiin arviointeihin. {site} tuo sen kaikkien ulottuville: perusteellisia testejä, jotka kuka tahansa voi tehdä ilmaiseksi omalla kielellään, ja henkilökohtainen raportti, joka selittää tuloksesi selkokielellä ja antaa käytännön seuraavia askelia.",
     "howTitle": "Näin rakennamme testimme",
@@ -358,11 +358,11 @@
       },
       {
         "title": "100 kysymystä, 5 minuuttia",
-        "text": "Jokaisessa testissä on 100 lyhyttä väittämää, jotka kattavat kaikki sen mittaamat ulottuvuudet. Se antaa paljon luotettavamman kuvan kuin nopea kymmenen kysymyksen visa – ja vie silti vain noin viisi minuuttia."
+        "text": "Jokaisessa testissä on 100 lyhyttä väittämää, jotka kattavat kaikki sen mittaamat ulottuvuudet. Se antaa paljon luotettavamman kuvan kuin nopea kymmenen kysymyksen visa, ja vie silti vain noin viisi minuuttia."
       },
       {
         "title": "Kirjoitettu luettavaksi",
-        "text": "Raporttimme kertovat, mitä kukin tulos tarkoittaa, mistä se johtuu ja mitä voit sillä tehdä. Ei jargonia eikä epämääräisiä horoskooppimaisia lauseita – vain selkeitä ja käytännöllisiä oivalluksia."
+        "text": "Raporttimme kertovat, mitä kukin tulos tarkoittaa, mistä se johtuu ja mitä voit sillä tehdä. Ei jargonia eikä epämääräisiä horoskooppimaisia lauseita. Vain selkeitä ja käytännöllisiä oivalluksia."
       }
     ],
     "valuesTitle": "Mihin voit luottaa",

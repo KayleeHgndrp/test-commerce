@@ -2,7 +2,7 @@
   "name": "Test av emosjonell intelligens",
   "tagline": "Mål hvor godt du gjenkjenner, forstår og håndterer følelser.",
   "intro": "Emosjonell intelligens er evnen til å legge merke til følelser, forstå hvor de kommer fra, håndtere dem godt og bruke dem til å bygge gode relasjoner. Denne testen ser på fire områder: å oppfatte, forstå og regulere følelser, og å håndtere følelser i samspill med andre. Svar ærlig ut fra hvordan du vanligvis er, ikke hvordan du skulle ønske du var. Det tar omtrent fem minutter.",
-  "seoTitle": "Test av emosjonell intelligens – gratis EQ-test",
+  "seoTitle": "Test av emosjonell intelligens: gratis EQ-test",
   "seoDescription": "Hvor emosjonelt intelligent er du? Ta denne gratis 5-minutters EQ-testen om å oppfatte, forstå og håndtere følelser og få praktiske tips.",
   "items": [
     "Jeg forstår at sinne ofte skjuler sårhet eller frykt.",
@@ -110,7 +110,7 @@
     "perceiving": {
       "name": "Å oppfatte følelser",
       "short": "Hvor godt du legger merke til følelser hos deg selv og andre.",
-      "low": "Svarene dine tyder på at følelser – dine egne og andres – noen ganger går upåaktet hen til de blir sterke. Du er kanskje mer opptatt av fakta og oppgaver enn av følelser, noe som har sine fordeler. Likevel gir det deg flere valg i hvordan du reagerer, når du merker følelser tidlig. Prøv en rask sjekk noen ganger om dagen: Hva føler jeg akkurat nå, og hvor kjenner jeg det i kroppen? I samtaler kan du være ekstra oppmerksom på tonefall og ansiktsuttrykk.",
+      "low": "Svarene dine tyder på at følelser, dine egne og andres, noen ganger går upåaktet hen til de blir sterke. Du er kanskje mer opptatt av fakta og oppgaver enn av følelser, noe som har sine fordeler. Likevel gir det deg flere valg i hvordan du reagerer, når du merker følelser tidlig. Prøv en rask sjekk noen ganger om dagen: Hva føler jeg akkurat nå, og hvor kjenner jeg det i kroppen? I samtaler kan du være ekstra oppmerksom på tonefall og ansiktsuttrykk.",
       "mid": "Du legger rimelig godt merke til følelser, hos deg selv og andre, selv om subtile signaler noen ganger kan gå deg hus forbi, særlig når du har det travelt eller er stresset. Dette er et solid grunnlag å bygge videre på. Et tips: Når du merker et skifte i noens humør, sjekk det forsiktig, for eksempel ved å spørre hvordan de egentlig har det. For deg selv kan du prøve å sette mer presise navn på følelsene dine enn bare «bra» eller «dårlig». Et rikere følelsesvokabular skjerper oppfatningsevnen.",
       "high": "Du er svært var for følelser. Du merker gjerne dine egne følelser tidlig og fanger opp stemninger, spenninger og usagte signaler hos andre. Denne sensitiviteten hjelper deg å møte andre med omtanke og unngå misforståelser. Fortsett å bruke den, men vær klar over at det også kan være slitsomt å legge merke til alt. Husk at din tolkning av andre er en hypotese, ikke et faktum, så sjekk den før du handler ut fra den. Gi deg selv tid til å lade opp etter følelsesmessig intense situasjoner."
     },

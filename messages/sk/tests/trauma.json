@@ -2,7 +2,7 @@
   "name": "Test traumy",
   "tagline": "Zistite, ako vás veľmi stresujúci zážitok môže stále ovplyvňovať.",
   "intro": "Myslite na jeden veľmi stresujúci zážitok, ktorý vás stále ovplyvňuje, a majte ho na mysli pri odpovediach. Pri každom probléme ide o otázku: Ako veľmi vás za posledný mesiac trápilo… Tento skríningový test obsahuje PCL-5, široko používaný kontrolný zoznam príznakov posttraumatického stresu, a ďalšie otázky o vtieravých spomienkach, vyhýbaní sa, nálade a pocite neustálej ostražitosti. Zaberie vám to asi päť minút a nie je diagnózou.",
-  "seoTitle": "Test traumy – bezplatný skríning PTSD podľa PCL-5",
+  "seoTitle": "Test traumy: bezplatný skríning PTSD podľa PCL-5",
   "seoDescription": "Ovplyvňuje vás stále stresujúci zážitok? Urobte si 5-minútový skríning traumy s PCL-5 a získajte osobnú správu o štyroch oblastiach príznakov.",
   "items": [
     "Opakované, znepokojujúce a nechcené spomienky na stresujúci zážitok",
@@ -139,7 +139,7 @@
   "summary": "Táto správa spája vaše skóre v PCL-5, široko používanom skríningovom nástroji na posttraumatický stres, so štyrmi oblasťami príznakov. Vyššie skóre znamená, že vás to za posledný mesiac trápilo viac. Nejde o diagnózu; ak je vaše skóre zvýšené, porozprávajte sa, prosím, s lekárom alebo kvalifikovaným odborníkom. Ak máte myšlienky na to, že by ste si ublížili, okamžite kontaktujte miestnu záchrannú službu alebo linku pomoci v kríze.",
   "instrument": {
     "name": "Skóre PCL-5",
-    "description": "PCL-5 je voľne dostupný kontrolný zoznam príznakov posttraumatického stresu, ktorý vyvinulo americké Národné centrum pre PTSD (U.S. National Center for PTSD). Skóre približne 31 – 33 a vyššie naznačuje, že by mohlo byť užitočné odborné vyšetrenie; ide o skríningový nástroj, nie o diagnózu.",
+    "description": "PCL-5 je voľne dostupný kontrolný zoznam príznakov posttraumatického stresu, ktorý vyvinulo americké Národné centrum pre PTSD (U.S. National Center for PTSD). Skóre približne 31–33 a vyššie naznačuje, že by mohlo byť užitočné odborné vyšetrenie; ide o skríningový nástroj, nie o diagnózu.",
     "bands": {
       "below": "Pod skríningovou hranicou",
       "above": "Nad skríningovou hranicou"

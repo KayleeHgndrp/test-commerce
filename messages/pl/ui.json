@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Darmowe testy psychologiczne online",
-    "description": "Rzetelne testy o osobowości, relacjach, pracy i dobrostanie – oparte na uznanych badaniach psychologicznych i wyjaśnione prostym językiem."
+    "title": "{site}: Darmowe testy psychologiczne online",
+    "description": "Rzetelne testy o osobowości, relacjach, pracy i dobrostanie, oparte na uznanych badaniach psychologicznych i wyjaśnione prostym językiem."
   },
   "nav": {
     "tests": "Testy",
@@ -14,14 +14,14 @@
     "badge": "{count} testów · {languages} języków",
     "heroTitle": "Testy, które odkrywają Twoją",
     "heroHighlight": "osobowość",
-    "heroSubtitle": "Rzetelne testy o osobowości, relacjach i dobrostanie – każdy oparty na uznanych badaniach psychologicznych i wyjaśniony tak prostym językiem, że naprawdę przeczytasz go do końca.",
+    "heroSubtitle": "Rzetelne testy o osobowości, relacjach i dobrostanie, każdy oparty na uznanych badaniach psychologicznych i wyjaśniony tak prostym językiem, że naprawdę przeczytasz go do końca.",
     "heroCta": "Poznaj nasze testy",
     "heroSecondary": "Jak to działa",
     "trust1": "Bez zakładania konta",
     "trust2": "Jednorazowa płatność, bez subskrypcji",
     "trust3": "Raport prosto na Twoją skrzynkę",
-    "dimensionsTitle": "Jesteś kimś więcej niż jednym wynikiem – poznaj każdą swoją stronę.",
-    "dimensionsSubtitle": "Obszary, które nasze testy mierzą najczęściej – od osobowości, przez relacje, po dobrostan.",
+    "dimensionsTitle": "Jesteś kimś więcej niż jednym wynikiem. Poznaj każdą swoją stronę.",
+    "dimensionsSubtitle": "Obszary, które nasze testy mierzą najczęściej: od osobowości, przez relacje, po dobrostan.",
     "dimensions": [
       "🎯 Koncentracja",
       "🔋 Energia społeczna",
@@ -39,7 +39,7 @@
     "steps": [
       {
         "title": "Wybierz test",
-        "text": "Wybierz spośród naszych testów osobowości, relacji i testów przesiewowych – wszystkie opierają się na uznanych modelach psychologicznych."
+        "text": "Wybierz spośród naszych testów osobowości, relacji i testów przesiewowych, wszystkie opierają się na uznanych modelach psychologicznych."
       },
       {
         "title": "Rozwiąż test",
@@ -47,7 +47,7 @@
       },
       {
         "title": "Przeczytaj raport",
-        "text": "Otrzymaj osobisty raport z wynikami, ich znaczeniem i praktycznymi wskazówkami – prosto na swoją skrzynkę."
+        "text": "Otrzymaj osobisty raport z wynikami, ich znaczeniem i praktycznymi wskazówkami, prosto na swoją skrzynkę."
       }
     ],
     "pricingTitle": "Prosty cennik",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Czy test „{test}” jest bezpłatny?",
-        "a": "Tak, rozwiązanie testu jest bezpłatne. Jeśli chcesz otrzymać pełny raport osobisty ze wszystkimi wynikami i wyjaśnieniami, możesz go zamówić za {price} – płatność jednorazowa, bez subskrypcji."
+        "a": "Tak, rozwiązanie testu jest bezpłatne. Jeśli chcesz otrzymać pełny raport osobisty ze wszystkimi wynikami i wyjaśnieniami, możesz go zamówić za {price}, płatność jednorazowa, bez subskrypcji."
       },
       {
         "q": "Na ile wiarygodny jest test „{test}”?",
@@ -336,7 +336,7 @@
   },
   "contact": {
     "title": "Kontakt",
-    "subtitle": "Masz pytania dotyczące testu lub raportu? Napisz do nas – odpowiemy w ciągu 1–2 dni roboczych.",
+    "subtitle": "Masz pytania dotyczące testu lub raportu? Napisz do nas: odpowiemy w ciągu 1–2 dni roboczych.",
     "name": "Imię",
     "email": "Adres e-mail",
     "message": "Wiadomość",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "O {site}",
-    "intro": "Wierzymy, że każdy zasługuje na jasne i szczere spojrzenie na siebie – bez żargonu, bez subskrypcji i bez czteroliterowej etykiety, która niczego nie wyjaśnia.",
+    "intro": "Wierzymy, że każdy zasługuje na jasne i szczere spojrzenie na siebie, bez żargonu, bez subskrypcji i bez czteroliterowej etykiety, która niczego nie wyjaśnia.",
     "missionTitle": "Nasza misja",
     "mission": "Psychologia wypracowała skuteczne sposoby opisywania osobowości, relacji i dobrostanu, ale większość tej wiedzy jest zamknięta w podręcznikach lub drogich badaniach. {site} sprawia, że staje się dostępna: rzetelne testy, które każdy może wykonać za darmo, we własnym języku, z osobistym raportem, który prostymi słowami wyjaśnia Twoje wyniki i podsuwa praktyczne kolejne kroki.",
     "howTitle": "Jak tworzymy nasze testy",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Pisane tak, by je czytać",
-        "text": "Nasze raporty wyjaśniają, co oznacza każdy wynik, skąd się bierze i co możesz z nim zrobić. Bez żargonu i bez mglistych horoskopowych sformułowań – tylko jasne, praktyczne wnioski."
+        "text": "Nasze raporty wyjaśniają, co oznacza każdy wynik, skąd się bierze i co możesz z nim zrobić. Bez żargonu i bez mglistych horoskopowych sformułowań. Tylko jasne, praktyczne wnioski."
       }
     ],
     "valuesTitle": "Na co możesz liczyć",

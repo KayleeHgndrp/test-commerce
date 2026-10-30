@@ -2,7 +2,7 @@
   "name": "16 personības tipu tests",
   "tagline": "Atrodi savu četru burtu tipu un uzzini, ko tas par tevi stāsta.",
   "intro": "Šis tests izvieto tevi uz četrām priekšrocību skalām: no kurienes tu smelies enerģiju, kā uztver informāciju, kā pieņem lēmumus un kā organizē savu dzīvi. Tavas četras priekšrocības apvienojas vienā no 16 personības tipiem. Novērtē 100 īsus apgalvojumus; tas aizņem apmēram piecas minūtes.",
-  "seoTitle": "16 personības tipu tests – bezmaksas četru burtu tips",
+  "seoTitle": "16 personības tipu tests: bezmaksas četru burtu tips",
   "seoDescription": "Atklāj savu četru burtu personības tipu 5 minūtēs. Redzi savas priekšrocības katrā skalā un izlasi sava tipa portretu ar praktiskiem padomiem.",
   "items": [
     "Vislabāk domāju, kad izrunāju idejas ar citiem.",
@@ -109,7 +109,7 @@
   "dimensions": {
     "extraversion": {
       "name": "Ekstraversija pret introversiju",
-      "short": "Vai tu enerģiju smelies galvenokārt no ārējās pasaules – cilvēkiem un darbības (E) – vai no savas iekšējās domu un pārdomu pasaules (I).",
+      "short": "Vai tu enerģiju smelies galvenokārt no ārējās pasaules, cilvēkiem un darbības (E), vai no savas iekšējās domu un pārdomu pasaules (I).",
       "low": "Tu sliecies uz introversiju (I). Tu atjauno spēkus klusumā, padomā, pirms runā, un vienu dziļu sarunu vērtē augstāk par daudzām īsām. Bieži tu apstrādā idejas sevī un dalies tajās, kad tās ir pilnībā izveidojušās. Aizņemtas sabiedriskās dienas tevi var nogurdināt, pat ja tās tev patika. Padoms: pēc intensīviem saviesīgiem pasākumiem ieplāno atgūšanās laiku un uztver to kā apkopi, nevis izvairīšanos. Grupās sagatavo savu ieguldījumu iepriekš vai pēc tam papildini rakstiski, lai tavas idejas tiktu sadzirdētas.",
       "mid": "Tu atrodies tuvu vidum starp ekstraversiju un introversiju, tāpēc tavs burts var mainīties atkarībā no noskaņojuma vai situācijas. Tev patīk sabiedrība un aktivitāte, tomēr tev vajag arī laiku vienatnē, lai atjaunotu spēkus. Atkarībā no uzdevuma tu vari domāt skaļi kopā ar citiem vai klusi pārdomāt. Padoms: vēro savu enerģiju pēc dažāda veida dienām. Izmanto šīs zināšanas, lai veidotu nedēļas ritmu, kas apvieno saskarsmi ar klusu laiku tev piemērotās proporcijās.",
       "high": "Tu sliecies uz ekstraversiju (E). Tu smelies enerģiju no cilvēkiem, sarunām un aktivitātēm un bieži vislabāk domā, lietas izrunājot. Tu ātri iesaisties, esi viegli pieejams un grupās jūties ērti. Ilgi periodi vienatnē tevi var padarīt nemierīgu. Padoms: pirms reaģē diskusijā, ietur īsu pauzi un vispirms uzdod vienu jautājumu; tas dod vietu klusākiem cilvēkiem un uzasina tavu domāšanu. Ieplāno īsus pārdomu brīžus, lai apstrādātu piedzīvoto."

@@ -2,7 +2,7 @@
   "name": "Halogatástípus teszt",
   "tagline": "Tudd meg, miért halogatsz, és hogyan kezdhetsz bele.",
   "intro": "Mindenki halogat, de nem ugyanazért. Ez a teszt öt gyakori halogatási stílust hasonlít össze: a perfekcionistát, az elkerülőt, az izgalomkeresőt, a túlterheltet és a szétszórtat. Értékeld, mennyire értesz egyet az egyes állításokkal. Körülbelül öt percet vesz igénybe, és megmutatja a fő stílusodat, a munkamódszeredhez illő konkrét stratégiákkal.",
-  "seoTitle": "Halogatástípus teszt – Ismerd meg a stílusodat",
+  "seoTitle": "Halogatástípus teszt: Ismerd meg a stílusodat",
   "seoDescription": "Miért halogatsz? Töltsd ki ezt az ingyenes, 5 perces tesztet, fedezd fel halogatási típusodat, és kapj a munkamódszeredhez illő konkrét stratégiákat.",
   "items": [
     "Addig halogatom a kezdést, amíg nem tudom, hogy tökéletesen meg tudom csinálni.",
@@ -110,8 +110,8 @@
     "perfectionist": {
       "name": "A perfekcionista",
       "short": "Halogatás, mert az eredménynek hibátlannak kell lennie.",
-      "low": "A válaszaid alapján a perfekcionizmus ritkán tart vissza. Úgy tűnik, képes vagy belekezdeni, mielőtt minden tökéletes lenne, és elfogadod az elég jó eredményt, amikor szorít az idő. Ez a rugalmasság segít befejezni a dolgokat. Az igazán fontos feladatoknál – például egy kulcsfontosságú prezentációnál – azért érdemes lehet egy rövid plusz átnézési kört betervezni, hogy a minőség ne csússzon le ott, ahol számít.",
-      "mid": "A válaszaid alapján a perfekcionizmus néha lelassít, különösen azoknál a feladatoknál, amelyeket mások fognak megítélni. A magas mérce értékes, de nehézzé teheti a kezdést. Próbálj ki egy szándékosan nyers első vázlatot: engedd meg magadnak, hogy húsz percig rosszul írj. Döntsd el előre, mit jelent a kész – például három világos pont vagy egy átnézési kör –, és állj meg, amikor elérted.",
+      "low": "A válaszaid alapján a perfekcionizmus ritkán tart vissza. Úgy tűnik, képes vagy belekezdeni, mielőtt minden tökéletes lenne, és elfogadod az elég jó eredményt, amikor szorít az idő. Ez a rugalmasság segít befejezni a dolgokat. Az igazán fontos feladatoknál, például egy kulcsfontosságú prezentációnál, azért érdemes lehet egy rövid plusz átnézési kört betervezni, hogy a minőség ne csússzon le ott, ahol számít.",
+      "mid": "A válaszaid alapján a perfekcionizmus néha lelassít, különösen azoknál a feladatoknál, amelyeket mások fognak megítélni. A magas mérce értékes, de nehézzé teheti a kezdést. Próbálj ki egy szándékosan nyers első vázlatot: engedd meg magadnak, hogy húsz percig rosszul írj. Döntsd el előre, mit jelent a kész, például három világos pont vagy egy átnézési kör, és állj meg, amikor elérted.",
       "high": "A válaszaid alapján a perfekcionizmus az egyik fő oka annak, hogy halogatsz. Ha egy feladatnak hibátlannak kell lennie, a kezdés kockázatosnak, a befejezés pedig lehetetlennek tűnik, ezért halogatsz vagy folyton csiszolsz. Ezek a stratégiák segítenek: szabj szigorú időkeretet minden fázisnak, első változatra törekedj, ne végleges változatra, és oszd meg a korai vázlatokat egy megbízható emberrel. Kérdezd meg magadtól, mi lenne elég jó az adott célra. Ha a kudarctól való félelem tartós stresszt vagy lehangoltságot okoz, egy képzett szakember segíthet."
     },
     "avoider": {
@@ -119,7 +119,7 @@
       "short": "A kellemetlennek, unalmasnak vagy kényelmetlennek tűnő feladatok halogatása.",
       "low": "A válaszaid alapján általában különösebb halogatás nélkül szembenézel a kellemetlen feladatokkal. A kínos e-mailek, az unalmas papírmunka vagy a nehéz hívások úgy tűnik, nem halmozódnak fel sokáig. Ez megkímél attól a stressztől, hogy a fejed felett lebegjenek. Használd továbbra is azt, ami beválik, például hogy a legrosszabb feladattal kezdesz, vagy valami élvezetessel párosítod, és vedd észre, ha újfajta feladatok kezdenek elcsúszni.",
       "mid": "A válaszaid alapján néha halogatsz feladatokat, mert kellemetlennek vagy kényelmetlennek tűnnek. A halogatás megkönnyebbülése valódi, de rövid életű. Próbáld ki a kétperces kezdést: kötelezd el magad, hogy csak két percig dolgozol a feladaton, aztán döntsd el, folytatod-e. Ha egy unalmas feladatot zenével, egy finom itallal vagy utólagos jutalommal párosítasz, az is megkönnyítheti a kezdést.",
-      "high": "A válaszaid alapján a kellemetlen érzések elkerülése a halogatásod egyik fő mozgatórugója. Az unalmasnak, kínosnak vagy fenyegetőnek tűnő feladatok félretolódnak, ami gyors megkönnyebbülést hoz, de később gyakran több stresszt. Nevezd meg az érzést, amelyet a feladat kivált – például a rettegést vagy az unalmat –, és emlékeztesd magad, hogy általában elmúlik, amint belekezdesz. A kellemetlen feladatokat időzítsd a nap elejére, és tedd az első lépést aprócskává. Ha az elkerülés erős szorongással vagy lehangoltsággal jár, fontold meg, hogy képzett szakemberrel beszélsz."
+      "high": "A válaszaid alapján a kellemetlen érzések elkerülése a halogatásod egyik fő mozgatórugója. Az unalmasnak, kínosnak vagy fenyegetőnek tűnő feladatok félretolódnak, ami gyors megkönnyebbülést hoz, de később gyakran több stresszt. Nevezd meg az érzést, amelyet a feladat kivált, például a rettegést vagy az unalmat, és emlékeztesd magad, hogy általában elmúlik, amint belekezdesz. A kellemetlen feladatokat időzítsd a nap elejére, és tedd az első lépést aprócskává. Ha az elkerülés erős szorongással vagy lehangoltsággal jár, fontold meg, hogy képzett szakemberrel beszélsz."
     },
     "thrill_seeker": {
       "name": "Az izgalomkereső",

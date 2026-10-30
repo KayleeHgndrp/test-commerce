@@ -1,8 +1,8 @@
 {
   "name": "Meilės kalbos testas",
   "tagline": "Sužinokite, kaip labiausiai mėgstate dovanoti ir priimti meilę.",
-  "intro": "Žmonės meilę reiškia ir atpažįsta skirtingai: žodžiais, bendru laiku, dovanomis, praktine pagalba ar fiziniu artumu. Šis testas parodo, kurie iš šių penkių meilės stilių jums artimiausi, o kurie mažiau svarbūs. Atsakydami galvokite apie savo artimiausius santykius – romantinius ar kitokius. Testas trunka apie penkias minutes ir gali padėti geriau suprasti save ir mylimus žmones.",
-  "seoTitle": "Meilės kalbos testas – kaip dovanojate ir priimate meilę?",
+  "intro": "Žmonės meilę reiškia ir atpažįsta skirtingai: žodžiais, bendru laiku, dovanomis, praktine pagalba ar fiziniu artumu. Šis testas parodo, kurie iš šių penkių meilės stilių jums artimiausi, o kurie mažiau svarbūs. Atsakydami galvokite apie savo artimiausius santykius, romantinius ar kitokius. Testas trunka apie penkias minutes ir gali padėti geriau suprasti save ir mylimus žmones.",
+  "seoTitle": "Meilės kalbos testas: kaip dovanojate ir priimate meilę?",
   "seoDescription": "Žodžiai, laikas, dovanos, pagalba ar prisilietimai? Atlikite nemokamą 5 minučių testą ir sužinokite, kaip mėgstate reikšti ir priimti meilę.",
   "items": [
     "Meilę dažniausiai rodau prisilietimais.",
@@ -33,7 +33,7 @@
     "Meilę rodau tuo, kad randu laiko net tada, kai darbų daug.",
     "Ar žmonės man padeda, man mažai svarbu.",
     "Natūraliai paliečiu man artimus žmones.",
-    "Dovanos – vienas mėgstamiausių mano būdų parodyti meilę.",
+    "Dovanos yra vienas mėgstamiausių mano būdų parodyti meilę.",
     "Man reikia išgirsti, kad mane myli, o ne tik tai numanyti.",
     "Man nejauku, kai žmonės mane atsainiai paliečia.",
     "Nuoširdus komplimentas gali pakelti man nuotaiką visai dienai.",
@@ -118,7 +118,7 @@
       "name": "Kokybiškas laikas",
       "short": "Kiek nedalomas dėmesys ir bendros akimirkos leidžia jums jaustis mylimiems.",
       "low": "Daug laiko kartu nėra pagrindinis būdas, kuriuo jaučiate meilę. Galbūt jums patogi nepriklausomybė, o labiau vertinate kitus signalus, pavyzdžiui, pagalbą, dovanas ar gerus žodžius. Tai visiškai normalu. Tik atminkite, kad daugeliui žmonių, ypač partneriams, laikas kartu yra būtinas. Reguliariai suplanuota akimirka be trukdžių, net trumpas pasivaikščiojimas ar bendras valgis, gali sustiprinti jūsų santykius daug iš jūsų nereikalaudama.",
-      "mid": "Mėgaujatės bendromis akimirkomis ir dėmesiu, tačiau kad jaustumėte meilę, jums nereikia būti nuolat kartu. Laikas kartu jums svarbus šalia kitų ryšio būdų. Naudingas patarimas – kas savaitę apsaugoti kelias kokybiškas akimirkas, o ne siekti daug laiko. Padėkite telefonus, pasirinkite abiem patinkančią veiklą ir pastebėkite, kaip tai veikia artumo jausmą. Maži ritualai dažnai svarbesni už didelius planus.",
+      "mid": "Mėgaujatės bendromis akimirkomis ir dėmesiu, tačiau kad jaustumėte meilę, jums nereikia būti nuolat kartu. Laikas kartu jums svarbus šalia kitų ryšio būdų. Naudingas patarimas: kas savaitę apsaugoti kelias kokybiškas akimirkas, o ne siekti daug laiko. Padėkite telefonus, pasirinkite abiem patinkančią veiklą ir pastebėkite, kaip tai veikia artumo jausmą. Maži ritualai dažnai svarbesni už didelius planus.",
       "high": "Nedalomas dėmesys jums yra vienas aiškiausių meilės ženklų. Ilgi pokalbiai, bendra veikla ir tiesiog buvimas kartu leidžia jaustis vertinamiems, o išsiblaškymas ar atšaukti planai gali atrodyti kaip atstūmimas. Pasakykite artimiems žmonėms, kad jų buvimas šalia jums svarbesnis už dovanas ar didelius gestus. Susitarkite dėl reguliaraus, apsaugoto laiko kartu. Kartu stenkitės nematuoti meilės vien valandomis, nes įtemptas laikotarpis ne visada reiškia, kad kam nors mažiau rūpite."
     },
     "gifts": {
@@ -132,7 +132,7 @@
       "name": "Praktinė pagalba",
       "short": "Kiek praktinė pagalba ir parama leidžia jums jaustis mylimiems.",
       "low": "Praktinė pagalba nėra pagrindinis būdas, kuriuo jaučiate meilę. Galbūt mieliau viską darote patys arba labiau vertinate žodžius, laiką ar artumą. Tai visiškai pagrįsta. Vis dėlto daugeliui žmonių pagalba kasdieniuose darbuose yra stiprus rūpesčio ženklas. Pasiūlymas perimti buities darbą, sutvarkyti reikalą ar išspręsti nedidelę problemą jiems gali reikšti kur kas daugiau, nei manote. Paklauskite aplinkinių, kokią pagalbą jie vertintų.",
-      "mid": "Vertinate pagalbą ir praktinę paramą, tačiau tai vienas iš kelių būdų, kuriais jaučiate rūpestį. Kai kas nors palengvina jūsų naštą, tai pastebite ir vertinate, tačiau meilę jaučiate ir per kitus gestus. Naudingas patarimas – aiškiai pasakyti, kokia pagalba jus pradžiugintų, užuot tikėjusis, kad kiti atspės. Taip pat paklauskite artimų žmonių, kokioms užduotims jie mielai priimtų pagalbą.",
+      "mid": "Vertinate pagalbą ir praktinę paramą, tačiau tai vienas iš kelių būdų, kuriais jaučiate rūpestį. Kai kas nors palengvina jūsų naštą, tai pastebite ir vertinate, tačiau meilę jaučiate ir per kitus gestus. Naudingas patarimas: aiškiai pasakyti, kokia pagalba jus pradžiugintų, užuot tikėjusis, kad kiti atspės. Taip pat paklauskite artimų žmonių, kokioms užduotims jie mielai priimtų pagalbą.",
       "high": "Jums veiksmai iš tiesų kalba garsiau nei žodžiai. Kai kas nors nuima nuo jūsų pečių kokį nors darbą, išsprendžia problemą ar palengvina jūsų dieną, jaučiate gilų rūpestį. Sulaužyti pažadai ar būtinybė viską daryti vieniems gali įskaudinti. Praneškite artimiems žmonėms, kokia pagalba jums reiškia daugiausia, nes jie gali to nesuvokti. Taip pat stebėkite, kad neperkrautumėte savęs nuolat padėdami kitiems ir patys nedrįsdami paprašyti pagalbos."
     },
     "touch": {

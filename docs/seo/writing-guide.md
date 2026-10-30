@@ -11,7 +11,7 @@ Deze regels gelden voor elk artikel in elke taal. `npm run check:blog` controlee
 
 ## Verboden
 
-- **Gedachtestreepjes.** Geen `—` en geen `–`, ook niet in titels, lijstjes of getalbereiken. Gebruik een komma, punt, dubbele punt of "tot". Ook geen los streepje ` - ` als leesteken.
+- **Gedachtestreepjes.** Geen `—` en geen `–`, ook niet in titels, lijstjes of getalbereiken. Gebruik een komma, punt, dubbele punt of "tot". Ook geen los streepje ` - ` als leesteken. Dit geldt voor de hele site: `npm run check:dashes` draait voor elke build en laat de build falen zodra er ergens in zichtbare tekst (berichten, tests, blogs, code) een `—` of `–` staat. Alleen getalbereiken zoals 1–2 mogen op de testpagina's.
 - Opvulzinnen en clichés: "duik in", "ontdek", "in de wereld van vandaag", "het is belangrijk om te weten dat", "kortom", "delve", "unlock", "embark", "a testament to", en hun equivalenten in andere talen.
 - Overdreven opsommingen van drie bijvoeglijke naamwoorden, retorische vragen achter elkaar, uitroeptekens.
 - Diagnoses of beloftes. Een test geeft inzicht, geen diagnose. Bij gevoelige onderwerpen een korte zin over professionele hulp.

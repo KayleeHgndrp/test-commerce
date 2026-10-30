@@ -5,7 +5,7 @@ date: 2026-10-30
 author: "Personality Reveal editorial team"
 category: "Personality"
 tags: [big five, personality, ocean]
-seoTitle: "Big Five personality traits explained – the 5 traits"
+seoTitle: "Big Five personality traits explained: the 5 traits"
 metaDescription: "What do the five Big Five traits mean and what do they say about you? A clear explanation with examples, plus a free test to see your own profile."
 translationKey: big-five-explained
 relatedTests: [big-five, personality]
@@ -16,11 +16,11 @@ The **Big Five model**, also called the OCEAN model, is the most widely research
 
 ## The five traits
 
-- **Openness** – curiosity, creativity and appetite for new experiences.
-- **Conscientiousness** – organisation, discipline and goal focus.
-- **Extraversion** – energy from social contact and excitement.
-- **Agreeableness** – compassion, cooperation and politeness.
-- **Emotional sensitivity** – how strongly you react to stress.
+- **Openness**: curiosity, creativity and appetite for new experiences.
+- **Conscientiousness**: organisation, discipline and goal focus.
+- **Extraversion**: energy from social contact and excitement.
+- **Agreeableness**: compassion, cooperation and politeness.
+- **Emotional sensitivity**: how strongly you react to stress.
 
 ## How do you measure your Big Five profile?
 

@@ -2,7 +2,7 @@
   "name": "Enneagrammi test",
   "tagline": "Avasta põhimotivatsioon, mis on sinu mõtlemise ja tegutsemise taga.",
   "intro": "Enneagramm kirjeldab üheksat isiksusetüüpi, millest igaüht juhib erinev põhimotivatsioon ja põhihirm. See test mõõdab, kui tugevalt samastud iga üheksa mustriga, ja toob esile selle, mis sulle kõige paremini sobib. Hinda 100 lühikest väidet; testi tegemine võtab umbes viis minutit.",
-  "seoTitle": "Enneagrammi test – tasuta 9 tüübi isiksusetest",
+  "seoTitle": "Enneagrammi test: tasuta 9 tüübi isiksusetest",
   "seoDescription": "Milline üheksast enneagrammi tüübist oled sina? Tee tasuta 5-minutiline test, vaata tulemusi kõigis tüüpides ja saa arengunõuandeid.",
   "items": [
     "Mul on tugev sisehääl, mis ütleb, mis on õige.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Tüüp 1 – Perfektsionist",
+      "name": "Tüüp 1: Perfektsionist",
       "short": "Juhib soov olla hea ja korrektne ning maailma paremaks muuta; kardab eksida või olla vigane.",
       "low": "Perfektsionisti muster mängib sinu jaoks vaid väikest rolli. Suhtud reeglitesse ja vigadesse pingevabalt ega tunne tugevat sisemist kriitikut, mis sunniks sind kõike õigesti tegema. See lubab sul vooluga kaasa minna ja kergesti andestada. Nõuanne: valdkondades, kus kvaliteet on päriselt oluline, nagu tervis või rahaasjad, võib sulle kasuks tulla natuke rohkem struktuuri ja tähelepanu detailidele. Kontrolli, kas muretus ei tähenda vahel oluliste standardite libisemist.",
       "mid": "Tunned endas ära mõned perfektsionisti jooned. Sulle on oluline asju korralikult teha ja võid olla enesekriitiline, kuid tead ka, millal piisavalt hea on piisav. Su õiglustunne juhib sind, ilma et sind valitseks. Nõuanne: pane tähele, millal su sisemine kriitik valjemaks muutub, sageli stressi all, ja vasta talle lahkelt. Vali teadlikult, kus kõrged standardid lisavad väärtust ja kus paindlikkus teeb elu lihtsamaks.",
       "high": "Perfektsionisti muster on sinus tugev. Oled põhimõttekindel, kohusetundlik ja püüdled enda ning maailma paremaks muutmise poole. Sinu põhihirm on olla vale, halb või vigane, seega hoiab range sisemine kriitik sind sageli rajal. Tood kõigesse, mida teed, ausust ja kvaliteeti. Nõuanne: harjuta ebatäiuslikkuse aktsepteerimist nii endas kui ka teistes; vead on õppimise osa. Luba endale naudingut ja mängu ilma, et peaksid selle enne välja teenima. Areng tuleb siis, kui usaldad, et oled juba piisavalt hea."
     },
     "type2": {
-      "name": "Tüüp 2 – Abistaja",
+      "name": "Tüüp 2: Abistaja",
       "short": "Juhib soov olla armastatud ja vajalik; kardab olla soovimatu või armastust mitte väärida.",
       "low": "Abistaja muster mängib sinu jaoks väikest rolli. Sa ei ehita oma identiteeti vajatud olemise ümber ja tunned end mugavalt oma elule keskendudes. See kaitseb sind liigse andmise eest. Nõuanne: hoolitse, et su lähedased tunneksid endiselt su hoolivust; väikesed žestid, nagu küsimine, kuidas läheb, või abi pakkumine palumata, hoiavad suhted soojana. Pane tähele, millal iseseisvus muutub distantsiks.",
       "mid": "Tunned endas ära mõned abistaja jooned. Sulle meeldib teisi toetada ja hinnatud olla, kuid suudad vajadusel ka ennast esikohale seada. Sinu soojus on tasakaalus enesest lugupidamisega. Nõuanne: pane tähele, kas aitad vahel selleks, et meeldida, mitte sellepärast, et tahad. Harjuta otse küsima seda, mida vajad, selle asemel et loota, et teised märkavad. Inimesed, kes sinust hoolivad, tervitavad tavaliselt võimalust midagi vastu anda.",
       "high": "Abistaja muster on sinus tugev. Oled soe, helde ja tähelepanelik selle suhtes, mida teised vajavad, ning tunned end kõige väärtuslikumana, kui aitad. Sinu põhihirm on olla armastamata või soovimatu. Inimesed kogevad sind hooliva ja toetavana. Nõuanne: sinu enda vajadused on sama õigustatud kui kellegi teise omad, seega nimeta need avatult. Aita sellepärast, et valid nii, mitte selleks, et armastust kindlustada. Areng tuleb siis, kui lased ka teistel enda eest hoolitseda ja usaldad, et oled armastusväärne ka andmata."
     },
     "type3": {
-      "name": "Tüüp 3 – Saavutaja",
+      "name": "Tüüp 3: Saavutaja",
       "short": "Juhib soov olla edukas ja imetletud; kardab olla väärtusetu või läbikukkunu.",
       "low": "Saavutaja muster mängib sinu jaoks vaid väikest rolli. Staatus, kuvand ja väline edu ei ole sinu peamised tõukejõud ning sa ei mõõda oma väärtust saavutustega. See annab sulle vabaduse võrdlemisest. Nõuanne: kui sul on eesmärke, mis sulle korda lähevad, võib natuke ambitsiooni ja nähtavat edenemist aidata sul neid saavutada. Lase teistel oma saavutusi näha; tagasihoidlikkus ei tohiks su tugevusi varjata.",
       "mid": "Tunned endas ära mõned saavutaja jooned. Sulle meeldib hästi hakkama saada ja naudid tunnustust, kuid su väärtustunne ei sõltu täielikult edust. Suudad eesmärkide nimel kõvasti töötada ja samas puhkeaega nautida. Nõuanne: kontrolli, kas eesmärgid, mida taga ajad, on tõeliselt sinu omad või need, mida teised ootavad. Tähista saavutusi ja võta siis ka aega, et nautida elu väljaspool sooritust koos inimestega, kellele meeldid sõltumata tulemustest.",
       "high": "Saavutaja muster on sinus tugev. Oled ambitsioonikas, tõhus ja keskendunud edule ning oskad end hästi esitleda. Sinu põhihirm on olla ilma oma saavutusteta väärtusetu. Motiveerid teisi ja saad asjad tehtud. Nõuanne: pane tähele, millal kohandad oma kuvandit teistele meeldimiseks või töötad, et vältida tühjustunnet. Veeda aega tegevustega, millel pole mingit eesmärki. Areng tuleb siis, kui hindad end selle eest, kes sa oled, mitte selle eest, mida saavutad."
     },
     "type4": {
-      "name": "Tüüp 4 – Individualist",
+      "name": "Tüüp 4: Individualist",
       "short": "Juhib soov olla ainulaadne ja ehe; kardab, et tal pole identiteeti ega tähendust.",
       "low": "Individualisti muster mängib sinu jaoks väikest rolli. Sa ei tunne tugevat vajadust olla teistsugune või uurida iga emotsiooni süvitsi ning tunned end sobitudes mugavalt. See hoiab sind maa peal ja praktilisena. Nõuanne: tee natuke ruumi eneseväljendusele, näiteks loomingulisele hobile või ausatele vestlustele tunnetest. Selle uurimine, mis teeb sind ainulaadseks, võib su elu rikastada.",
       "mid": "Tunned endas ära mõned individualisti jooned. Hindad ehtsust ja sul on rikas sisemaailm, kuid sa ei tunne end teistest põhimõtteliselt erinevana. Suudad emotsioone väljendada ja samas perspektiivi säilitada. Nõuanne: kasuta oma tundlikkust loovalt, näiteks kirjutamise või kunsti kaudu. Kui tunned end valesti mõistetuna, kontrolli, kas oled tegelikult jaganud, mida tunned. Teised hoolivad sageli rohkem, kui ootad, kui nad su sisemaailma mõistavad.",
       "high": "Individualisti muster on sinus tugev. Oled tundlik, väljendusrikas ja sügavas kontaktis oma emotsioonidega ning igatsed olla ehe ja mõistetud. Sinu põhihirm on, et sul pole tõelist identiteeti ega tähendust. Tood sügavust, loovust ja ausust tunnete suhtes. Nõuanne: pane tähele, millal keskendud sellele, mis puudub, mitte sellele, mis sul on. Tänulikkuse harjutused ja praktilised rutiinid aitavad su meeleolusid stabiliseerida. Areng tuleb siis, kui mõistad, et ka tavalised hetked ja sidemed võivad olla tähendusrikkad."
     },
     "type5": {
-      "name": "Tüüp 5 – Uurija",
+      "name": "Tüüp 5: Uurija",
       "short": "Juhib soov mõista ja olla pädev; kardab olla abitu või üle koormatud.",
       "low": "Uurija muster mängib sinu jaoks vaid väikest rolli. Sa ei tunne tugevat vajadust enne tegutsemist eemale tõmbuda ja analüüsida ning jagad oma aega ja energiat kergesti. See teeb sind ligipääsetavaks ja kaasatuks. Nõuanne: keeruliste otsuste ees anna endale enne asjasse sukeldumist natuke vaikset uurimisaega. Teadmiste süvendamine mõnes valdkonnas, mis sulle korda läheb, võib kasvatada enesekindlust ja asjatundlikkust.",
       "mid": "Tunned endas ära mõned uurija jooned. Naudid õppimist ja vajad natuke privaatset aega, kuid suudad ka inimeste ja maailmaga aktiivselt suhelda. Hindad teadmisi, ilma et nende taha peituksid. Nõuanne: pane tähele, millal tõmbud tagasi vaatlema, selle asemel et osaleda, eriti suhetes. Oma teadmiste jagamine isegi enne, kui tunned end täiesti valmis, võib olla rahuldust pakkuv ja tuua sageli kasulikku tagasisidet ja sidet.",
       "high": "Uurija muster on sinus tugev. Oled uudishimulik, tähelepanelik ja iseseisev ning tahad maailma sügavalt mõista. Sinu põhihirm on olla abitu, võimetu või teiste nõudmistest tühjaks pigistatud, seega valvad hoolikalt oma aega ja energiat. Tood arusaamist ja asjatundlikkust. Nõuanne: pane tähele, millal teadmiste kogumine muutub viisiks vältida tegutsemist või tundeid. Astu väikseid samme enne, kui tunned end täiesti valmis. Areng tuleb siis, kui usaldad, et sul on piisavalt, et elus ja inimestega täielikult kaasa lüüa."
     },
     "type6": {
-      "name": "Tüüp 6 – Lojaalne",
+      "name": "Tüüp 6: Lojaalne",
       "short": "Juhib soov turvalisuse ja toetuse järele; kardab jääda ilma juhatuse ja turvatundeta.",
       "low": "Lojaalse muster mängib sinu jaoks väikest rolli. Sa ei muretse eriti selle pärast, mis võiks valesti minna, ja tunned end turvaliselt ilma tugeva juhatuse või kinnituseta. See lubab sul julgelt tegutseda. Nõuanne: enne suuri otsuseid kaalu teadlikult võimalikke riske või küsi ettevaatlikumalt inimeselt tema arvamust. Lojaalsus ja ettevalmistus võivad samuti olla tugevused, mida tasub arendada, eriti meeskondades, kes loodavad, et sa mõtled ette.",
       "mid": "Tunned endas ära mõned lojaalse jooned. Hindad turvalisust ja usaldusväärseid suhteid ning märkad riske, kuid su kahtlused ei hoia sind tavaliselt tagasi. Tasakaalustad ettevaatlikkust enesekindlusega. Nõuanne: kui mure hakkab kasvama, erista realistlikud riskid mis-oleks-kui-stsenaariumidest. Usalda sagedamini oma otsustusvõimet, selle asemel et kinnitust otsida. Iga kord, kui selle järgi tegutsed, kasvab usaldus su enda sisemise kompassi vastu.",
       "high": "Lojaalse muster on sinus tugev. Oled lojaalne, vastutustundlik ja riskide suhtes valvas ning hindad usaldust ja turvalisust kõrgelt. Sinu põhihirm on jääda ohtlikus maailmas ilma toe või juhatuseta. Oled usaldusväärne meeskonnaliige, kes valmistub probleemideks, mida teised ei märka. Nõuanne: pane tähele, millal ärevus paneb sind üle planeerima või kõigis kahtlema, ka iseendas. Harjuta väikeste sammudena oma otsustusvõime järgi tegutsemist. Areng tuleb siis, kui avastad sisemise turvatunde, mida oled otsinud väljastpoolt."
     },
     "type7": {
-      "name": "Tüüp 7 – Entusiast",
+      "name": "Tüüp 7: Entusiast",
       "short": "Juhib soov vabaduse ja lõbu järele; kardab jääda lõksu valusse või puudusesse.",
       "low": "Entusiasti muster mängib sinu jaoks vaid väikest rolli. Sa ei otsi pidevalt uusi kogemusi ja suudad jääda ühe asja juurde ka siis, kui see pole põnev. See annab sulle fookust ja sügavust. Nõuanne: luba endale aeg-ajalt spontaansust, näiteks lühike reis või uus hobi. Natuke mängulisust võib värskendada su energiat ja suhteid.",
       "mid": "Tunned endas ära mõned entusiasti jooned. Naudid lõbu, vaheldust ja uusi plaane, kuid suudad ka pühenduda ja rasked tunded ära kannatada. Tasakaalustad optimismi realismiga ja oskad nautida nii seiklust kui ka vaikust. Nõuanne: pane tähele, millal haarad meelelahutuse järele, et vältida midagi ebamugavat. Ühe projekti lõpetamine enne järgmise alustamist aitab su entusiasmil end ära tasuda ja annab lõpetamise sügavama rahulolu.",
       "high": "Entusiasti muster on sinus tugev. Oled optimistlik, seiklushimuline ja ideid täis ning armastad hoida oma võimalused avatuna. Sinu põhihirm on jääda lõksu valusse, igavusse või piirangutesse, seega liigud sageli kiiresti järgmise põneva asja juurde. Tood kõikjale energiat ja rõõmu. Nõuanne: harjuta rasketes emotsioonides püsimist, selle asemel et neist põgeneda. Vali mõned kohustused ja vii need lõpuni. Areng tuleb siis, kui leiad rahulolu sügavusest, mitte ainult vaheldusest."
     },
     "type8": {
-      "name": "Tüüp 8 – Väljakutsuja",
+      "name": "Tüüp 8: Väljakutsuja",
       "short": "Juhib soov olla tugev ja kontrolli all hoida; kardab olla kontrollitud või haavatav.",
       "low": "Väljakutsuja muster mängib sinu jaoks väikest rolli. Sul pole vaja kontrolli haarata ega oma jõudu tõestada ning otsid harva vastasseisu. See teeb sinuga koostöö lihtsaks. Nõuanne: olukordades, kus sind või teisi koheldakse ebaõiglaselt, harjuta kindlalt sõna võtmist. Enesekehtestamine ei ole agressioon; see on olulise kaitsmine. Alusta väikestest olukordadest, näiteks eelistuse selgest väljaütlemisest koosolekul.",
       "mid": "Tunned endas ära mõned väljakutsuja jooned. Võid olla otsekohene ja kaitsev ning võtad vajadusel juhtimise üle, kuid sul pole vaja domineerida. Näitad jõudu, kaotamata tundlikkust. Nõuanne: pane tähele, millal surud kõvasti peale, et vältida haavatavuse tunnet. Kui lased inimestel näha oma pehmemat poolt, võib see usaldust süvendada. Küsi teistelt, kuidas su otsekohesus neile mõjub; nende vastused võivad aidata sul oma jõudu targemalt kasutada.",
       "high": "Väljakutsuja muster on sinus tugev. Oled enesekindel, otsekohene ja kaitsev ning võtad loomulikult juhtimise üle. Sinu põhihirm on olla kontrollitud, kahjustatud või haavatav, seega hindad jõudu ja iseseisvust. Seisad enda ja teiste eest ega karda konflikti. Nõuanne: sinu intensiivsus võib inimesi üle koormata, seega vähenda helitugevust ja kuula enne tegutsemist lõpuni. Harjuta haavatavuse näitamist inimestega, keda usaldad. Areng tuleb siis, kui näed, et avatus ja leebus on samuti jõu vormid."
     },
     "type9": {
-      "name": "Tüüp 9 – Rahusobitaja",
+      "name": "Tüüp 9: Rahusobitaja",
       "short": "Juhib soov sisemise ja välise rahu järele; kardab konflikti ja sideme katkemist.",
       "low": "Rahusobitaja muster mängib sinu jaoks vaid väikest rolli. Sa ei pelga konflikti ja seisad meelsasti oma prioriteetide eest. See hoiab sind aktiivsena ja selgena selles, mida tahad. Nõuanne: kui pinged tõusevad, harjuta kõigi poolte ärakuulamist, enne kui oma vaadet peale surud. Aeg-ajalt rahulikum tempo võib aidata sul suurt pilti näha.",
       "mid": "Tunned endas ära mõned rahusobitaja jooned. Hindad harmooniat ja näed erinevaid vaatenurki, kuid räägid ka kaasa, kui miski on sulle oluline. Tasakaalustad rahu kaasalöömisega. Nõuanne: pane tähele, millal lähed teistega kaasa, et hõõrumist vältida. Kui ütled, mida tahad, isegi väikestes asjades, hoiab see su suhted ausana ja takistab vaikse pahameele kuhjumist. Sinu vaade lisab midagi, mida teised ei saa lisada.",

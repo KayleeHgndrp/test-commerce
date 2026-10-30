@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Brezplačni psihološki testi na spletu",
-    "description": "Poglobljeni testi o osebnosti, odnosih, delu in dobrem počutju — temeljijo na psiholoških raziskavah in so jasno razloženi."
+    "title": "{site}: Brezplačni psihološki testi na spletu",
+    "description": "Poglobljeni testi o osebnosti, odnosih, delu in dobrem počutju, temeljijo na psiholoških raziskavah in so jasno razloženi."
   },
   "nav": {
     "tests": "Testi",
@@ -14,14 +14,14 @@
     "badge": "Testi: {count} · Jeziki: {languages}",
     "heroTitle": "Testi, ki razkrijejo vašo",
     "heroHighlight": "osebnost",
-    "heroSubtitle": "Poglobljeni testi o osebnosti, odnosih in dobrem počutju — vsak temelji na priznanih psiholoških raziskavah in je razložen v jasnem jeziku, ki ga boste res prebrali do konca.",
+    "heroSubtitle": "Poglobljeni testi o osebnosti, odnosih in dobrem počutju, vsak temelji na priznanih psiholoških raziskavah in je razložen v jasnem jeziku, ki ga boste res prebrali do konca.",
     "heroCta": "Oglejte si naše teste",
     "heroSecondary": "Kako deluje",
     "trust1": "Brez registracije",
     "trust2": "Enkratno plačilo, brez naročnine",
     "trust3": "Poročilo naravnost v vaš e-poštni predal",
-    "dimensionsTitle": "Ste več kot en rezultat – spoznajte vsako svojo plat.",
-    "dimensionsSubtitle": "Področja, ki jih naši testi merijo najpogosteje – osebnost, odnosi in dobro počutje.",
+    "dimensionsTitle": "Ste več kot en rezultat. Spoznajte vsako svojo plat.",
+    "dimensionsSubtitle": "Področja, ki jih naši testi merijo najpogosteje: osebnost, odnosi in dobro počutje.",
     "dimensions": [
       "🎯 Osredotočenost",
       "🔋 Družabna energija",
@@ -47,7 +47,7 @@
       },
       {
         "title": "Preberite poročilo",
-        "text": "Prejmite osebno poročilo z rezultati, njihovim pomenom in praktičnimi nasveti – naravnost v svoj e-poštni predal."
+        "text": "Prejmite osebno poročilo z rezultati, njihovim pomenom in praktičnimi nasveti, naravnost v svoj e-poštni predal."
       }
     ],
     "pricingTitle": "Preproste cene",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Ali je {test} brezplačen?",
-        "a": "Da, reševanje testa je brezplačno. Če želite celotno osebno poročilo z vsemi rezultati in razlagami, ga lahko naročite za {price} z enkratnim plačilom – brez naročnine."
+        "a": "Da, reševanje testa je brezplačno. Če želite celotno osebno poročilo z vsemi rezultati in razlagami, ga lahko naročite za {price} z enkratnim plačilom, brez naročnine."
       },
       {
         "q": "Kako zanesljiv je {test}?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "O {site}",
-    "intro": "Verjamemo, da si vsak zasluži jasen in iskren pogled nase – brez strokovnega žargona, brez naročnin in brez oznake iz štirih črk, ki ničesar ne pojasni.",
+    "intro": "Verjamemo, da si vsak zasluži jasen in iskren pogled nase, brez strokovnega žargona, brez naročnin in brez oznake iz štirih črk, ki ničesar ne pojasni.",
     "missionTitle": "Naše poslanstvo",
     "mission": "Psihologija je razvila zmogljive načine za opisovanje osebnosti, odnosov in dobrega počutja, vendar je večina tega znanja zaklenjena v učbenikih ali dragih ocenjevanjih. {site} ga naredi dostopnega: poglobljeni testi, ki jih lahko vsak reši brezplačno in v svojem jeziku, z osebnim poročilom, ki vaše rezultate pojasni s preprostimi besedami in vam ponudi praktične naslednje korake.",
     "howTitle": "Kako pripravljamo teste",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Napisano, da se bere",
-        "text": "Naša poročila pojasnijo, kaj pomeni vsak rezultat, od kod izvira in kaj lahko z njim naredite. Brez žargona in brez meglenega horoskopskega jezika – le jasni, praktični uvidi."
+        "text": "Naša poročila pojasnijo, kaj pomeni vsak rezultat, od kod izvira in kaj lahko z njim naredite. Brez žargona in brez meglenega horoskopskega jezika. Le jasni, praktični uvidi."
       }
     ],
     "valuesTitle": "Na kaj se lahko zanesete",

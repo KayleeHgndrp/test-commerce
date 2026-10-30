@@ -2,7 +2,7 @@
   "name": "Kiégés teszt",
   "tagline": "Tudd meg, mennyire vagy közel a kiégéshez.",
   "intro": "Ez a teszt a kiégés három klasszikus jelét vizsgálja: a kimerültséget, a munkától való növekvő eltávolodást és a csökkenő teljesítményérzést. Az alapján válaszolj, hogyan érezted magad az elmúlt hónapban. Körülbelül öt percet vesz igénybe, és világos képet ad arról, hová megy el az energiád.",
-  "seoTitle": "Kiégés teszt – Ingyenes online kiégésikockázat-felmérés",
+  "seoTitle": "Kiégés teszt: Ingyenes online kiégésikockázat-felmérés",
   "seoDescription": "A kiégés felé tartasz? Töltsd ki az 5 perces tesztet a kimerültségről, a cinizmusról és a motivációról, és kapj értékelést gyakorlati tanácsokkal.",
   "items": [
     "Érzelmileg kimerít a munkám.",
@@ -110,7 +110,7 @@
     "exhaustion": {
       "name": "Kimerültség",
       "short": "Mennyire érzed magad fizikailag és érzelmileg kimerültnek.",
-      "low": "Az energiaszinted egészségesnek tűnik. Úgy látszik, jól regenerálódsz az erőfeszítések után, és marad energiád a munkán kívüli életedre is. Óvd továbbra is azt, ami működik nálad: a rendszeres alvást, a valódi szüneteket és a feltöltő tevékenységeket. Figyelj a korai figyelmeztető jelekre – például ha egyre gyakrabban hagyod ki az ebédet vagy dolgozol későig –, hogy még azelőtt változtathass, hogy a tartalékaid megfogyatkoznak és a jó szokásaid elcsúsznak.",
+      "low": "Az energiaszinted egészségesnek tűnik. Úgy látszik, jól regenerálódsz az erőfeszítések után, és marad energiád a munkán kívüli életedre is. Óvd továbbra is azt, ami működik nálad: a rendszeres alvást, a valódi szüneteket és a feltöltő tevékenységeket. Figyelj a korai figyelmeztető jelekre, például ha egyre gyakrabban hagyod ki az ebédet vagy dolgozol későig, hogy még azelőtt változtathass, hogy a tartalékaid megfogyatkoznak és a jó szokásaid elcsúsznak.",
       "mid": "Érezhető mértékű fáradtságot tapasztalsz. Még működsz, de a tartalékaid nyomás alatt vannak, és a regenerálódás talán tovább tart, mint régebben. Most van itt a cselekvés ideje. Nézd meg, hová megy el az energiád: mely feladatok vagy helyzetek merítenek ki a leginkább? Tervezz be rövid pihenőket a nap folyamán, és védd meg az estéidet és a hétvégéidet. A most megtett apró szerkezeti változtatások később nagyobb problémákat előzhetnek meg.",
       "high": "A válaszaid komoly kimerültségre utalnak. Lehet, hogy az idő nagy részében lemerültnek érzed magad, rosszul alszol, vagy azt tapasztalod, hogy a pihenés már nem segít. Ezt a jelzést komolyan kell venni. Beszélj az orvosoddal vagy egy képzett szakemberrel arról, hogyan érzed magad, és fontold meg, hogy a munkaterhelésedet is megbeszéled a feletteseddel. Csökkents, amit csak tudsz, kérj segítséget, és a regenerálódásnak adj ugyanakkora prioritást, mint a munkádnak. Az ilyen erős kimerültség ritkán múlik el magától, változtatás nélkül."
     },

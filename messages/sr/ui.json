@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Besplatni psihološki testovi onlajn",
-    "description": "Detaljni testovi o ličnosti, odnosima, poslu i blagostanju — zasnovani na psihološkim istraživanjima i jasno objašnjeni."
+    "title": "{site}: Besplatni psihološki testovi onlajn",
+    "description": "Detaljni testovi o ličnosti, odnosima, poslu i blagostanju, zasnovani na psihološkim istraživanjima i jasno objašnjeni."
   },
   "nav": {
     "tests": "Testovi",
@@ -14,14 +14,14 @@
     "badge": "Testova: {count} · Jezika: {languages}",
     "heroTitle": "Testovi koji otkrivaju vašu",
     "heroHighlight": "ličnost",
-    "heroSubtitle": "Detaljni testovi o ličnosti, odnosima i blagostanju — svaki se zasniva na priznatim psihološkim istraživanjima i objašnjen je jasnim jezikom koji ćete zaista pročitati do kraja.",
+    "heroSubtitle": "Detaljni testovi o ličnosti, odnosima i blagostanju, svaki se zasniva na priznatim psihološkim istraživanjima i objašnjen je jasnim jezikom koji ćete zaista pročitati do kraja.",
     "heroCta": "Istražite naše testove",
     "heroSecondary": "Kako funkcioniše",
     "trust1": "Bez registracije",
     "trust2": "Jednokratno plaćanje, bez pretplate",
     "trust3": "Izveštaj direktno u vaše sanduče",
-    "dimensionsTitle": "Vi ste više od jednog rezultata – upoznajte svaku svoju stranu.",
-    "dimensionsSubtitle": "Oblasti koje naši testovi najčešće mere – ličnost, odnosi i blagostanje.",
+    "dimensionsTitle": "Vi ste više od jednog rezultata. Upoznajte svaku svoju stranu.",
+    "dimensionsSubtitle": "Oblasti koje naši testovi najčešće mere: ličnost, odnosi i blagostanje.",
     "dimensions": [
       "🎯 Fokus",
       "🔋 Društvena energija",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Da li je {test} besplatan?",
-        "a": "Da, rešavanje testa je besplatno. Ako želite kompletan lični izveštaj sa svim rezultatima i objašnjenjima, možete ga naručiti za {price} uz jednokratno plaćanje – bez pretplate."
+        "a": "Da, rešavanje testa je besplatno. Ako želite kompletan lični izveštaj sa svim rezultatima i objašnjenjima, možete ga naručiti za {price} uz jednokratno plaćanje, bez pretplate."
       },
       {
         "q": "Koliko je pouzdan {test}?",
@@ -346,8 +346,8 @@
     "error": "Poruku nije bilo moguće poslati. Pokušajte ponovo kasnije."
   },
   "about": {
-    "title": "O nama – {site}",
-    "intro": "Verujemo da svako zaslužuje jasan i iskren pogled na to ko je – bez žargona, bez pretplata i bez oznake od četiri slova koja ništa ne objašnjava.",
+    "title": "O nama: {site}",
+    "intro": "Verujemo da svako zaslužuje jasan i iskren pogled na to ko je, bez žargona, bez pretplata i bez oznake od četiri slova koja ništa ne objašnjava.",
     "missionTitle": "Naša misija",
     "mission": "Psihologija je razvila moćne načine da opiše ličnost, odnose i blagostanje, ali je većina tog znanja zaključana u udžbenicima ili skupim procenama. {site} ga čini dostupnim: detaljni testovi koje svako može da uradi besplatno, na svom jeziku, uz lični izveštaj koji jednostavnim rečima objašnjava vaše rezultate i daje vam praktične sledeće korake.",
     "howTitle": "Kako pravimo naše testove",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Napisano da se čita",
-        "text": "Naši izveštaji objašnjavaju šta svaki rezultat znači, odakle potiče i šta sa njim možete da uradite. Bez žargona i bez nejasnog horoskopskog jezika – samo jasni, praktični uvidi."
+        "text": "Naši izveštaji objašnjavaju šta svaki rezultat znači, odakle potiče i šta sa njim možete da uradite. Bez žargona i bez nejasnog horoskopskog jezika. Samo jasni, praktični uvidi."
       }
     ],
     "valuesTitle": "Na šta možete da računate",

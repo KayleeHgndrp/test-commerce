@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Testijiet psikoloġiċi online b'xejn",
-    "description": "Testijiet dettaljati dwar il-personalità, ir-relazzjonijiet, ix-xogħol u l-benessri — ibbażati fuq riċerka psikoloġika u spjegati b'mod ċar."
+    "title": "{site}: Testijiet psikoloġiċi online b'xejn",
+    "description": "Testijiet dettaljati dwar il-personalità, ir-relazzjonijiet, ix-xogħol u l-benessri, ibbażati fuq riċerka psikoloġika u spjegati b'mod ċar."
   },
   "nav": {
     "tests": "Testijiet",
@@ -14,13 +14,13 @@
     "badge": "{count} testijiet · {languages} lingwi",
     "heroTitle": "It-testijiet li jiżvelaw il-",
     "heroHighlight": "personalità tiegħek",
-    "heroSubtitle": "Testijiet dettaljati dwar il-personalità, ir-relazzjonijiet u l-benessri — kull wieħed ibbażat fuq riċerka psikoloġika stabbilita u spjegat b'lingwaġġ ċar li verament taqrah sal-aħħar.",
+    "heroSubtitle": "Testijiet dettaljati dwar il-personalità, ir-relazzjonijiet u l-benessri, kull wieħed ibbażat fuq riċerka psikoloġika stabbilita u spjegat b'lingwaġġ ċar li verament taqrah sal-aħħar.",
     "heroCta": "Esplora t-testijiet tagħna",
     "heroSecondary": "Kif jaħdem",
     "trust1": "M'għandekx bżonn kont",
     "trust2": "Ħlas wieħed, l-ebda abbonament",
     "trust3": "Ir-rapport dritt fl-inbox tiegħek",
-    "dimensionsTitle": "Inti aktar minn punteġġ wieħed — ara kull naħa tiegħek.",
+    "dimensionsTitle": "Inti aktar minn punteġġ wieħed. Ara kull naħa tiegħek.",
     "dimensionsSubtitle": "L-oqsma li t-testijiet tagħna jkejlu l-aktar spiss, fil-personalità, ir-relazzjonijiet u l-benesseri.",
     "dimensions": [
       "🎯 Konċentrazzjoni",
@@ -163,7 +163,7 @@
       },
       {
         "q": "{test} huwa b'xejn?",
-        "a": "Iva, li tagħmel it-test huwa b'xejn. Jekk trid ir-rapport personali sħiħ tiegħek bil-punteġġi u l-ispjegazzjonijiet kollha, tista' tordnah għal {price}, imħallas darba biss — mingħajr abbonament."
+        "a": "Iva, li tagħmel it-test huwa b'xejn. Jekk trid ir-rapport personali sħiħ tiegħek bil-punteġġi u l-ispjegazzjonijiet kollha, tista' tordnah għal {price}, imħallas darba biss, mingħajr abbonament."
       },
       {
         "q": "Kemm huwa affidabbli {test}?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Dwar {site}",
-    "intro": "Nemmnu li kulħadd jistħoqqlu ħarsa ċara u onesta lejn min hu — mingħajr ġergu, mingħajr abbonamenti u mingħajr tikketta ta' erba' ittri li ma tispjega xejn.",
+    "intro": "Nemmnu li kulħadd jistħoqqlu ħarsa ċara u onesta lejn min hu, mingħajr ġergu, mingħajr abbonamenti u mingħajr tikketta ta' erba' ittri li ma tispjega xejn.",
     "missionTitle": "Il-missjoni tagħna",
     "mission": "Il-psikoloġija żviluppat modi qawwija biex tiddeskrivi l-personalità, ir-relazzjonijiet u l-benesseri, iżda ħafna minn dan l-għarfien jibqa' magħluq fil-kotba jew f'valutazzjonijiet għaljin. {site} jagħmlu aċċessibbli: testijiet dettaljati li kulħadd jista' jagħmel b'xejn, bil-lingwa tiegħu, b'rapport personali li jispjega r-riżultati tiegħek bi kliem sempliċi u jagħtik passi prattiċi li jmiss.",
     "howTitle": "Kif nibnu t-testijiet tagħna",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Miktub biex jinqara",
-        "text": "Ir-rapporti tagħna jispjegaw xi jfisser kull punteġġ, minn fejn ġej u x'tista' tagħmel bih. L-ebda ġergu u l-ebda lingwaġġ vag ta' oroskopju — biss għarfien ċar u prattiku."
+        "text": "Ir-rapporti tagħna jispjegaw xi jfisser kull punteġġ, minn fejn ġej u x'tista' tagħmel bih. L-ebda ġergu u l-ebda lingwaġġ vag ta' oroskopju. Biss għarfien ċar u prattiku."
       }
     ],
     "valuesTitle": "Fuq xiex tista' toqgħod",

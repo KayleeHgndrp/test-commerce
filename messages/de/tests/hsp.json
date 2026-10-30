@@ -2,8 +2,8 @@
   "name": "Hochsensibilitäts-Test",
   "tagline": "Finde heraus, wie tief du Sinneseindrücke, Gefühle und Schönheit verarbeitest.",
   "intro": "Manche Menschen nehmen die Welt intensiver auf und verarbeiten sie gründlicher als andere. Dieser Test erkundet vier Seiten der Hochsensibilität: wie schnell du reizüberflutet bist, wie tief du fühlst und reflektierst, wie empfindlich deine Sinne sind und wie stark du auf Schönheit reagierst. Hochsensibilität ist ein normales Persönlichkeitsmerkmal, keine Störung. Antworte danach, wie du normalerweise bist. Das dauert etwa fünf Minuten.",
-  "seoTitle": "Hochsensibilitäts-Test – bist du hochsensibel (HSP)?",
-  "seoDescription": "Bist du hochsensibel? Mach den kostenlosen 5-Minuten-HSP-Test zu Reizüberflutung, emotionaler Tiefe, Sinnen und Ästhetik – mit praktischen Tipps.",
+  "seoTitle": "Hochsensibilitäts-Test: bist du hochsensibel (HSP)?",
+  "seoDescription": "Bist du hochsensibel? Mach den kostenlosen 5-Minuten-HSP-Test zu Reizüberflutung, emotionaler Tiefe, Sinnen und Ästhetik, mit praktischen Tipps.",
   "items": [
     "Ich genieße zarte Düfte wie Blumen oder Regen.",
     "Einkaufszentren wirken auf mich chaotisch und anstrengend.",
@@ -118,7 +118,7 @@
       "name": "Emotionale Tiefe",
       "short": "Wie intensiv du fühlst, mitfühlst und über deine Erlebnisse nachdenkst.",
       "low": "Deine Antworten deuten darauf hin, dass du Gefühle recht ausgeglichen erlebst und nicht lange an Dingen hängen bleibst. Die Stimmungen anderer beeinflussen dich nur wenig, und Kritik perlt eher an dir ab. Diese Beständigkeit kann in stressigen Situationen eine Stärke sein. Ein Tipp: Weil du selbst weniger betroffen bist, unterschätzt du vielleicht manchmal, wie tief andere fühlen. Sich einen Moment zu nehmen, um zu fragen, wie es jemandem wirklich geht, kann deine Beziehungen stärken.",
-      "mid": "Du fühlst und reflektierst mit mittlerer Tiefe. Du bist einfühlsam und nachdenklich, wirst aber meist nicht von Gefühlen überwältigt – weder von deinen noch von denen anderer. Diese Balance lässt dich mit Menschen in Verbindung treten und gleichzeitig festen Boden unter den Füßen behalten. Ein Tipp: Achte darauf, welche Situationen dich am tiefsten berühren, und gib dir Raum, sie zu verarbeiten, etwa durch Schreiben oder Gespräche. Deine emotionalen Grenzen früh zu erkennen, hilft dir, fürsorglich zu bleiben, ohne dich auszulaugen.",
+      "mid": "Du fühlst und reflektierst mit mittlerer Tiefe. Du bist einfühlsam und nachdenklich, wirst aber meist nicht von Gefühlen überwältigt, weder von deinen noch von denen anderer. Diese Balance lässt dich mit Menschen in Verbindung treten und gleichzeitig festen Boden unter den Füßen behalten. Ein Tipp: Achte darauf, welche Situationen dich am tiefsten berühren, und gib dir Raum, sie zu verarbeiten, etwa durch Schreiben oder Gespräche. Deine emotionalen Grenzen früh zu erkennen, hilft dir, fürsorglich zu bleiben, ohne dich auszulaugen.",
       "high": "Du erlebst Gefühle intensiv und denkst tief darüber nach, was dir und anderen widerfährt. Wahrscheinlich bist du sehr einfühlsam, gewissenhaft und reflektiert, was dich zu einem geschätzten Freund oder einer geschätzten Freundin und zu einem sorgfältigen Menschen bei Entscheidungen macht. Die Kehrseite: Traurige Nachrichten, Konflikte oder Kritik können dich lange beschäftigen. Gib dir Zeit und Raum zum Verarbeiten und übe, die Gefühle anderer von deinen eigenen zu unterscheiden. Tagebuchschreiben, Natur und vertrauensvolle Gespräche können dir helfen, zur Ruhe zu finden."
     },
     "sensory": {
@@ -131,7 +131,7 @@
     "aesthetic": {
       "name": "Ästhetische Empfänglichkeit",
       "short": "Wie tief dich Kunst, Natur, Musik und Schönheit berühren.",
-      "low": "Kunst, Musik oder Landschaften bewegen dich meist nicht besonders stark. Vielleicht ist dir Funktion wichtiger als Form, oder du findest Sinn in anderen Lebensbereichen – das ist völlig in Ordnung. Wenn du neugierig bist, versuche, Schönheit langsamer und bewusster zu erleben: Hör ein Musikstück ohne Ablenkung oder mach einen kurzen Spaziergang und achte auf Farben und Klänge. Vielleicht entdeckst du Freuden, an denen du bisher vorbeigegangen bist.",
+      "low": "Kunst, Musik oder Landschaften bewegen dich meist nicht besonders stark. Vielleicht ist dir Funktion wichtiger als Form, oder du findest Sinn in anderen Lebensbereichen, das ist völlig in Ordnung. Wenn du neugierig bist, versuche, Schönheit langsamer und bewusster zu erleben: Hör ein Musikstück ohne Ablenkung oder mach einen kurzen Spaziergang und achte auf Farben und Klänge. Vielleicht entdeckst du Freuden, an denen du bisher vorbeigegangen bist.",
       "mid": "Du weißt Schönheit in Kunst, Natur und Design zu schätzen, auch wenn sie dich nicht immer tief berührt. Manche Momente, etwa ein bestimmtes Lied oder eine Aussicht, können dich bewegen, während andere unbemerkt vorbeiziehen. Ein Tipp: Schaff dir kleine Rituale, die dich Schönheit bewusster genießen lassen, etwa einen wöchentlichen Spaziergang in der Natur, einen Galeriebesuch oder einen Moment, um ein Lieblingsmusikstück auszukosten.",
       "high": "Schönheit bewegt dich zutiefst. Musik, Kunst, Natur und gut gemachte Dinge können dich tief berühren, und die Atmosphäre eines Ortes beeinflusst deine Stimmung stark. Diese reiche innere Resonanz ist eine Quelle von Freude, Kreativität und Sinn. Gib ihr Raum: Umgib dich mit Dingen, die du schön findest, und plane Zeit für Natur, Musik oder kreative Arbeit ein. Wenn sich das Leben schwer anfühlt, kann Schönheit einer deiner verlässlichsten Wege sein, neue Kraft zu schöpfen."
     }

@@ -2,7 +2,7 @@
   "name": "Telefonfüggőség teszt",
   "tagline": "Nézd meg, mennyire irányítja az okostelefonod az idődet és a hangulatodat.",
   "intro": "Ez a teszt a problémás telefonhasználat négy oldalát vizsgálja: a kényszeres ellenőrzést, a telefon nélküli nyugtalanságot, az alvásra, a munkára és a kapcsolatokra gyakorolt hatást, valamint azt, hogy a telefonnal menekülsz-e a nehéz érzések elől. Az alapján válaszolj, hogy az elmúlt hónapban milyen gyakran volt igaz rád az adott állítás. Körülbelül öt percet vesz igénybe, és gyakorlati ötleteket ad ahhoz, hogy egészségesebb kapcsolatot alakíts ki a telefonoddal.",
-  "seoTitle": "Telefonfüggőség teszt – Ingyenes okostelefon-teszt",
+  "seoTitle": "Telefonfüggőség teszt: Ingyenes okostelefon-teszt",
   "seoDescription": "Függsz a telefonodtól? Töltsd ki ezt az ingyenes, 5 perces tesztet a kényszeres használatról, a megvonásról, az életre gyakorolt hatásról, tippekkel.",
   "items": [
     "Egyértelmű ok nélkül veszem kézbe a telefonomat.",
@@ -125,7 +125,7 @@
       "name": "Hatás az életedre",
       "short": "Mennyire befolyásolja a telefonhasználatod az alvásodat, a munkádat, az egészségedet és a kapcsolataidat.",
       "low": "Úgy tűnik, a telefonhasználatod nem akadályozza a mindennapjaidat. Alszol, dolgozol és kapcsolódsz másokhoz anélkül, hogy a képernyőd különösebben beleszólna. Ez egészséges egyensúly, amelyet érdemes megóvni. Tartsd szilárdan a hetedben a képernyő nélküli tevékenységeidet, például a testmozgást, a hobbikat és a személyes találkozásokat. Ha időnként megfigyeled, hogyan érzed magad a telefonhasználat után, egyszerűen észreveheted, ha valami változni kezd.",
-      "mid": "A telefonod néha többe kerül neked, mint szeretnéd: egy későbbi lefekvésbe, egy szétszórt beszélgetésbe vagy egy elvégzetlen feladatba. Ezek a hatások mérsékeltek, de érdemes komolyan venni őket. Válaszd ki azt a területet, amely a legfontosabb neked – például az alvást vagy a fókuszt –, és hozz egy világos szabályt, például: 22 óra után nincs telefon, vagy tanulás közben a telefon a fiókban van. Az apró, konkrét szabályok jobban működnek, mint a homályos szándékok.",
+      "mid": "A telefonod néha többe kerül neked, mint szeretnéd: egy későbbi lefekvésbe, egy szétszórt beszélgetésbe vagy egy elvégzetlen feladatba. Ezek a hatások mérsékeltek, de érdemes komolyan venni őket. Válaszd ki azt a területet, amely a legfontosabb neked, például az alvást vagy a fókuszt, és hozz egy világos szabályt, például: 22 óra után nincs telefon, vagy tanulás közben a telefon a fiókban van. Az apró, konkrét szabályok jobban működnek, mint a homályos szándékok.",
       "high": "A válaszaid alapján a telefonhasználatod egyértelműen hatással van olyan területekre, mint az alvás, a munka, az egészség vagy a kapcsolatok. Talán fáradtságot, lemaradást vagy feszültséget veszel észre a hozzád közel állókkal. Ez jelzés arra, hogy változtass. Válassz két konkrét lépést, például töltsd a telefonodat a hálószobán kívül, és állíts be alkalmazáskorlátokat munkaidőben, és kérj meg valakit, akiben megbízol, hogy támogasson. Ha nehéznek tűnik egyedül változtatni, egy képzett szakember segíthet."
     },
     "escapism": {

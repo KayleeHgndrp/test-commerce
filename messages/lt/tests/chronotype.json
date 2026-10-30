@@ -2,7 +2,7 @@
   "name": "Chronotipo testas",
   "tagline": "Vyturys ar pelėda? Atraskite savo natūralų dienos ritmą.",
   "intro": "Šis testas vertina jūsų chronotipą: kuriuo paros metu jaučiatės žvaliausi, kada jūsų kūnas nori užmigti ir pabusti ir kaip lengvai prisitaikote, kai keičiasi dienotvarkė. Atsakykite pagal tai, kas jums atrodo natūralu, ypač tomis dienomis, kai galite patys pasirinkti savo laiką. Testas trunka apie penkias minutes ir pateikia konkrečių patarimų, kada geriausia susikaupti, sportuoti ir miegoti.",
-  "seoTitle": "Chronotipo testas – vyturys ar pelėda?",
+  "seoTitle": "Chronotipo testas: vyturys ar pelėda?",
   "seoDescription": "Vyturys ar pelėda? Atlikite nemokamą 5 minučių chronotipo testą ir gaukite asmeninių patarimų, kada geriausia dirbti, sportuoti ir miegoti.",
   "items": [
     "Netrukus po pabudimo jaučiu žvalumą ir aiškų protą.",
@@ -66,7 +66,7 @@
     "Aiškiai mąstau iškart išlipus iš lovos.",
     "Giliausiai mąstau, kai kiti miega.",
     "Valgymas neįprastu laiku man nekenkia.",
-    "Rytas – stipriausios mano valandos.",
+    "Rytą būna stipriausios mano valandos.",
     "Vakariniai renginiai man suteikia energijos, o ne vargina.",
     "Anksti atsigulus lengvai užmiegu.",
     "Kad smegenys imtų tinkamai veikti, man reikia lėtos pradžios.",
@@ -118,7 +118,7 @@
       "name": "Vakarinis žvalumas",
       "short": "Kaip budriai, susikaupę ir energingai jaučiatės vėliau dieną ir naktį.",
       "low": "Vakarui bėgant jūsų energija paprastai blėsta. Vėlyvos naktys jums daugiau atima nei duoda, o po vakarienės susikaupti sunku. Sudėtingus darbus planuokite anksčiau dieną, o vakarus skirkite ramioms veikloms, pavyzdžiui, skaitymui, lengvam bendravimui ar pasivaikščiojimui. Prieš miegą venkite intensyvių treniruočių ir ekranų, nes jie gali apsunkinti nurimimą. Atsižvelgimas į šį ankstyvą nuosmukį paprastai pagerina ir miegą, ir nuotaiką kitą dieną.",
-      "mid": "Vakare galite būti produktyvūs, tačiau tuo nesiremiate. Jūsų energija gali išlikti stabili iki ankstyvo vakaro, o paskui palaipsniui mažėti. Jums tinkamas ritmas – darbas, reikalaujantis susikaupimo, vėlyvą rytą ar ankstyvą popietę, o lengvesnės užduotys po 18 val. Sportuoti dažnai tinka vėlyvą popietę. Stenkitės nusistatyti pastovią ekranų ir darbo pabaigą, kad malonus antrasis energijos antplūdis nenustumtų jūsų miego laiko vėliau, nei planavote.",
+      "mid": "Vakare galite būti produktyvūs, tačiau tuo nesiremiate. Jūsų energija gali išlikti stabili iki ankstyvo vakaro, o paskui palaipsniui mažėti. Jums tinkamas ritmas: darbas, reikalaujantis susikaupimo, vėlyvą rytą ar ankstyvą popietę, o lengvesnės užduotys po 18 val. Sportuoti dažnai tinka vėlyvą popietę. Stenkitės nusistatyti pastovią ekranų ir darbo pabaigą, kad malonus antrasis energijos antplūdis nenustumtų jūsų miego laiko vėliau, nei planavote.",
       "high": "Jūsų atsakymai rodo ryškius pelėdos bruožus. Atgyjate vėliau dieną ir galbūt geriausiai mąstote vakare. Jei leidžia gyvenimo aplinkybės, darbą, reikalaujantį susikaupimo, planuokite nuo popietės iki vakaro, o sportuokite vėlyvą popietę ar ankstyvą vakarą. Rytus palikite lengvesnius. Kad išvengtumėte lėtinio miego trūkumo, laikykitės pastovaus kėlimosi laiko, anksti pabūkite dienos šviesoje ir valandą prieš miegą pritemdykite šviesas. Jei vėlyvas ritmas nesiderina su darbu ar mokykla ir paveikia jūsų savijautą, gali padėti gydytojas ar kvalifikuotas miego specialistas."
     },
     "sleep_timing": {
@@ -136,5 +136,5 @@
       "high": "Atrodo, kad jūsų kūnas lengvai prisitaiko prie pasislinkusių grafikų, kelionių ir nereguliarių valandų. Tai tikras privalumas dirbant pamainomis, keliaujant ar gyvenant aktyvų socialinį gyvenimą. Vis dėlto lankstumas nereiškia, kad jums apskritai reikia mažiau miego. Stebėkite bendrą miego valandų skaičių ir pasirūpinkite atsigavimo naktimis po trumpų. Protingai naudokitės savo prisitaikymu: treniruotes ar susikaupimo blokus galite perkelti pagal dienos poreikius. Jei nereguliarios valandos ima veikti jūsų nuotaiką ar sveikatą, gydytojas ar kvalifikuotas specialistas gali padėti peržiūrėti jūsų dienotvarkę."
     }
   },
-  "summary": "Jūsų chronotipas – tai natūralus jūsų kūno laiko pasirinkimas. Žemiau matote keturis balus nuo 0 iki 100 %: kaip budriai jaučiatės ryte, kaip budriai jaučiatės vakare, kaip anksti prasideda jūsų natūralus miegas ir kaip lengvai prisitaikote prie pasislinkusių grafikų. Skaitykite juos kartu, kad rastumėte savo idealų dienos ritmą. Ši ataskaita pagrįsta jūsų pačių atsakymais ir nėra medicininis miego įvertinimas."
+  "summary": "Jūsų chronotipas yra natūralus jūsų kūno laiko pasirinkimas. Žemiau matote keturis balus nuo 0 iki 100 %: kaip budriai jaučiatės ryte, kaip budriai jaučiatės vakare, kaip anksti prasideda jūsų natūralus miegas ir kaip lengvai prisitaikote prie pasislinkusių grafikų. Skaitykite juos kartu, kad rastumėte savo idealų dienos ritmą. Ši ataskaita pagrįsta jūsų pačių atsakymais ir nėra medicininis miego įvertinimas."
 }

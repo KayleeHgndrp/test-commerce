@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Ücretsiz online psikoloji testleri",
-    "description": "Kişilik, ilişkiler, iş ve iyi oluş üzerine derinlemesine testler — psikolojik araştırmalara dayanır ve sade bir dille açıklanır."
+    "title": "{site}: Ücretsiz online psikoloji testleri",
+    "description": "Kişilik, ilişkiler, iş ve iyi oluş üzerine derinlemesine testler, psikolojik araştırmalara dayanır ve sade bir dille açıklanır."
   },
   "nav": {
     "tests": "Testler",
@@ -14,13 +14,13 @@
     "badge": "{count} test · {languages} dil",
     "heroTitle": "Testlerle keşfet:",
     "heroHighlight": "kişiliğini",
-    "heroSubtitle": "Kişilik, ilişkiler ve iyi oluş üzerine derinlemesine testler — her biri saygın psikolojik araştırmalara dayanır ve gerçekten sonuna kadar okuyacağın sade bir dille açıklanır.",
+    "heroSubtitle": "Kişilik, ilişkiler ve iyi oluş üzerine derinlemesine testler, her biri saygın psikolojik araştırmalara dayanır ve gerçekten sonuna kadar okuyacağın sade bir dille açıklanır.",
     "heroCta": "Testlerimizi keşfedin",
     "heroSecondary": "Nasıl çalışır?",
     "trust1": "Hesap gerekmez",
     "trust2": "Tek seferlik ödeme, abonelik yok",
     "trust3": "Rapor doğrudan e-posta kutunuza",
-    "dimensionsTitle": "Siz tek bir puandan fazlasısınız — her yönünüzü görün.",
+    "dimensionsTitle": "Siz tek bir puandan fazlasısınız. Her yönünüzü görün.",
     "dimensionsSubtitle": "Testlerimizin kişilik, ilişkiler ve iyi oluş alanlarında en sık ölçtüğü boyutlar.",
     "dimensions": [
       "🎯 Odaklanma",
@@ -163,7 +163,7 @@
       },
       {
         "q": "{test} ücretsiz mi?",
-        "a": "Evet, testi çözmek ücretsizdir. Tüm puanları ve açıklamaları içeren tam kişisel raporunuzu isterseniz, tek seferlik {price} ödemeyle sipariş edebilirsiniz — abonelik yok."
+        "a": "Evet, testi çözmek ücretsizdir. Tüm puanları ve açıklamaları içeren tam kişisel raporunuzu isterseniz, tek seferlik {price} ödemeyle sipariş edebilirsiniz, abonelik yok."
       },
       {
         "q": "{test} ne kadar güvenilir?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "{site} hakkında",
-    "intro": "Herkesin kim olduğuna dair net ve dürüst bir bakışı hak ettiğine inanıyoruz — jargon olmadan, abonelik olmadan ve hiçbir şeyi açıklamayan dört harfli bir etiket olmadan.",
+    "intro": "Herkesin kim olduğuna dair net ve dürüst bir bakışı hak ettiğine inanıyoruz, jargon olmadan, abonelik olmadan ve hiçbir şeyi açıklamayan dört harfli bir etiket olmadan.",
     "missionTitle": "Misyonumuz",
     "mission": "Psikoloji; kişiliği, ilişkileri ve iyi oluşu tanımlamak için güçlü yöntemler geliştirdi, ancak bu bilginin büyük kısmı ders kitaplarında ya da pahalı değerlendirmelerde kilitli kalıyor. {site} bu bilgiyi erişilebilir kılıyor: Herkesin kendi dilinde ücretsiz çözebileceği kapsamlı testler ve sonuçlarınızı sade bir dille açıklayıp size atabileceğiniz pratik adımlar sunan kişisel bir rapor.",
     "howTitle": "Testlerimizi nasıl hazırlıyoruz?",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Okunmak için yazıldı",
-        "text": "Raporlarımız her puanın ne anlama geldiğini, nereden kaynaklandığını ve onunla neler yapabileceğinizi açıklar. Jargon yok, belirsiz burç yorumu dili yok — yalnızca net ve pratik içgörüler."
+        "text": "Raporlarımız her puanın ne anlama geldiğini, nereden kaynaklandığını ve onunla neler yapabileceğinizi açıklar. Jargon yok, belirsiz burç yorumu dili yok. Yalnızca net ve pratik içgörüler."
       }
     ],
     "valuesTitle": "Güvenebileceğiniz şeyler",

@@ -1,8 +1,8 @@
 {
   "name": "Rahapersoonallisuustesti",
   "tagline": "Löydä rahapersoonallisuutesi ja siihen sopivat tavat.",
-  "intro": "Tämä testi paljastaa rahamieltymyksesi: asenteet ja tavat, jotka muovaavat sitä, miten ansaitset, kulutat, säästät ja ajattelet rahasta. Se vertailee viittä rahapersoonallisuutta – Säästäjää, Tuhlaajaa, Välttelijää, Statuksen tavoittelijaa ja Turvallisuuden hakijaa – ja näyttää, mikä niistä sopii sinuun parhaiten. Vastaa rehellisesti sen mukaan, miten yleensä toimit. Testi vie noin viisi minuuttia ja antaa konkreettisia, tyyliisi sopivia rahatapoja.",
-  "seoTitle": "Rahapersoonallisuustesti – millainen rahatyyppi olet?",
+  "intro": "Tämä testi paljastaa rahamieltymyksesi: asenteet ja tavat, jotka muovaavat sitä, miten ansaitset, kulutat, säästät ja ajattelet rahasta. Se vertailee viittä rahapersoonallisuutta (Säästäjää, Tuhlaajaa, Välttelijää, Statuksen tavoittelijaa ja Turvallisuuden hakijaa) ja näyttää, mikä niistä sopii sinuun parhaiten. Vastaa rehellisesti sen mukaan, miten yleensä toimit. Testi vie noin viisi minuuttia ja antaa konkreettisia, tyyliisi sopivia rahatapoja.",
+  "seoTitle": "Rahapersoonallisuustesti: millainen rahatyyppi olet?",
   "seoDescription": "Säästäjä, tuhlaaja vai välttelijä? Tee ilmainen 5 minuutin testi, löydä rahapersoonallisuutesi ja saat käytännön vinkkejä raha-asioihisi.",
   "items": [
     "Nautin siitä, kun näen säästöjeni kasvavan.",
@@ -139,7 +139,7 @@
       "name": "Turvallisuuden hakija",
       "short": "Arvostaa vakautta, turvaverkkoja ja suojaa taloudellisilta riskeiltä.",
       "low": "Taloudellinen turvallisuus ei ole sinulle päällimmäinen huoli. Siedät hyvin riskejä ja epävarmuutta, mikä voi avata ovia jännittäviin mahdollisuuksiin. Kääntöpuolena sinulta voi puuttua turvaverkko, kun asiat menevät pieleen. Kerää ennen suuria riskejä perushätävara, joka kattaa vähintään kuukauden välttämättömät kulut, ja tarkista, että sinulla on tärkeimmät vakuutukset kunnossa. Tämä perusta antaa sinun ottaa riskejä turvallisemmin.",
-      "mid": "Arvostat vakautta, mutta olet myös avoin jonkinasteiselle riskille. Tämä tasapaino auttaa sinua suojaamaan itsesi ja silti kasvamaan. Vahvistaaksesi sitä pyri hätävararahastoon, joka kattaa kolmen–kuuden kuukauden välttämättömät kulut, ja tarkista vakuutuksesi kerran vuodessa. Sijoituksissa harkitse yksinkertaista yhdistelmää, joka vastaa aikajännettäsi, jotta voit pysyä rauhallisena nousujen ja laskujen aikana välttelemättä kasvua kokonaan.",
+      "mid": "Arvostat vakautta, mutta olet myös avoin jonkinasteiselle riskille. Tämä tasapaino auttaa sinua suojaamaan itsesi ja silti kasvamaan. Vahvistaaksesi sitä pyri hätävararahastoon, joka kattaa 3–6 kuukauden välttämättömät kulut, ja tarkista vakuutuksesi kerran vuodessa. Sijoituksissa harkitse yksinkertaista yhdistelmää, joka vastaa aikajännettäsi, jotta voit pysyä rauhallisena nousujen ja laskujen aikana välttelemättä kasvua kokonaan.",
       "high": "Vastaustesi perusteella Turvallisuuden hakija on vahva osa rahapersoonallisuuttasi. Turvaverkot, vakaat tulot ja riskien välttäminen ovat sinulle hyvin tärkeitä. Tämä tekee sinusta varautuneen ja sinnikkään. Riskinä on, että huoli tulevaisuudesta syrjäyttää nykyhetkestä nauttimisen tai että liiallinen varovaisuus rajoittaa kasvua. Kun hätävararahastosi on kunnossa, harkitse perehtymistä edulliseen, hajautettuun sijoittamiseen. Jos rahahuolet tuntuvat jatkuvilta tai vaikuttavat uneesi tai mielialaasi, pätevä talousneuvoja tai muu ammattilainen voi auttaa."
     }
   },

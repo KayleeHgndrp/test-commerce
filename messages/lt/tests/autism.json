@@ -2,7 +2,7 @@
   "name": "Autizmo spektro testas",
   "tagline": "Sužinokite, ar jums būdingi autizmo spektrui įprasti bruožai.",
   "intro": "Šis atrankos testas apima keturias su autistiškais bruožais suaugusiesiems siejamas sritis: socialinę sąveiką, komunikaciją, sensorinį jautrumą ir rutinas ar siaurus pomėgius. Atsakykite pagal tai, kokie paprastai esate, o ne kokie norėtumėte būti. Testas trunka apie penkias minutes ir nėra diagnozė, tačiau gali padėti nuspręsti, ar verta kreiptis dėl specialisto įvertinimo.",
-  "seoTitle": "Autizmo spektro testas – nemokamas testas suaugusiesiems",
+  "seoTitle": "Autizmo spektro testas: nemokamas testas suaugusiesiems",
   "seoDescription": "Ar atpažįstate savyje autistiškų bruožų? Atlikite 5 minučių testą apie socialinius, komunikacijos, sensorinius ir rutinos bruožus ir gaukite ataskaitą.",
   "items": [
     "Tam tikri garsai mane erzina kur kas labiau nei kitus.",
@@ -125,7 +125,7 @@
       "name": "Sensorinis jautrumas",
       "short": "Kaip stipriai reaguojate į garsus, šviesą, prisilietimus, kvapus ir kitus sensorinius dirgiklius.",
       "low": "Jūsų atsakymai rodo, kad kasdieniai sensoriniai dirgikliai jums retai trukdo. Triukšmas, šviesa, tekstūros ir minios, regis, jūsų neužgožia labiau nei daugumos žmonių. Dėl to judrioje aplinkoje jums lengviau. Vis dėlto verta pastebėti, ar kartais nepastebimai neperžengiate savo ribų, ypač kai esate pavargę ar patiriate stresą. Reguliarios ramybės akimirkos padeda tai išlaikyti, net jei perkrovą jaučiate retai.",
-      "mid": "Jūsų atsakymai rodo, kad kai kurie sensoriniai potyriai jums trukdo labiau nei vidutiniškai. Tam tikri garsai, tekstūros ar judrios vietos gali jus išvarginti, ypač sunkiomis dienomis. Maži pakeitimai gali turėti didelį poveikį: triukšmą slopinančios ausinės, patogūs drabužiai, švelnesnis apšvietimas ar suplanuotos ramios pertraukos. Dėmesys savo sensoriniams poreikiams – ne kaprizas, o protingas rūpinimasis savimi. Stebėkite, kurios situacijos jus išsekina labiausiai, kad galėtumėte į tai atsižvelgti planuodami.",
+      "mid": "Jūsų atsakymai rodo, kad kai kurie sensoriniai potyriai jums trukdo labiau nei vidutiniškai. Tam tikri garsai, tekstūros ar judrios vietos gali jus išvarginti, ypač sunkiomis dienomis. Maži pakeitimai gali turėti didelį poveikį: triukšmą slopinančios ausinės, patogūs drabužiai, švelnesnis apšvietimas ar suplanuotos ramios pertraukos. Dėmesys savo sensoriniams poreikiams yra ne kaprizas, o protingas rūpinimasis savimi. Stebėkite, kurios situacijos jus išsekina labiausiai, kad galėtumėte į tai atsižvelgti planuodami.",
       "high": "Jūsų atsakymai rodo, kad esate labai jautrūs sensoriniams dirgikliams ir kad įprasta aplinka jums gali greitai tapti per daug intensyvi. Stiprus sensorinis jautrumas labai dažnas autistiškiems žmonėms, tačiau pasitaiko ir esant nerimui, ADHD ar apskritai dideliam jautrumui. Jei tai riboja jūsų kasdienį gyvenimą, apsvarstykite galimybę tai aptarti su kvalifikuotu specialistu, pavyzdžiui, psichologu ar ergoterapeutu. Apsisaugokite tokiomis priemonėmis kaip ausų kištukai, akiniai nuo saulės ir reguliarus ramus laikas atsigauti."
     },
     "patterns": {

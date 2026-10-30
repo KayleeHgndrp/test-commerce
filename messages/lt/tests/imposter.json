@@ -2,7 +2,7 @@
   "name": "Apsimetėlio sindromo testas",
   "tagline": "Ar jaučiate, kad tik apsimetinėjate, nepaisant savo pasiekimų?",
   "intro": "Šis testas tyrinėja keturias dažnas apsimetėlio jausmo puses: abejones savo gebėjimais, baimę būti demaskuotiems, savo sėkmių nuvertinimą ir perdėtą darbą siekiant tai kompensuoti. Įvertinkite, kiek sutinkate su kiekvienu teiginiu, galvodami apie savo darbą ar studijas. Testas trunka apie penkias minutes ir parodo, kurie apsimetėlio modeliai jums būdingiausi.",
-  "seoTitle": "Apsimetėlio sindromo testas – nemokama savipatikra",
+  "seoTitle": "Apsimetėlio sindromo testas: nemokama savipatikra",
   "seoDescription": "Ar darbe jaučiate, kad tik apsimetinėjate? 5 minučių testas apie abejones savimi, demaskavimo baimę, sėkmių nuvertinimą ir perdirbimą su patarimais.",
   "items": [
     "Abejoju, ar mano gebėjimai atitinka mano pareigų reikalavimus.",
@@ -69,7 +69,7 @@
     "Kai pristatau savo darbą, jaučiu, kad mane mato kiaurai.",
     "Savo laimėjimus greitai pamirštu, o nesėkmes prisimenu.",
     "Ramiai jaučiuosi tik tada, kai pasiruošiu su didžiule atsarga.",
-    "Šalia ekspertų jaučiu, kad mano lygis – tik pradedančiojo.",
+    "Šalia ekspertų jaučiu, kad mano lygis tik pradedančiojo.",
     "Laikausi nuošalyje, kad niekas per daug į mane nesigilintų.",
     "Manau, kad kai kurie geriausi mano rezultatai buvo atsitiktinumas.",
     "Aukoju miegą, kad mano darbas būtų geresnis.",
@@ -111,7 +111,7 @@
       "name": "Abejonės savimi",
       "short": "Kiek abejojate savo įgūdžiais ir kompetencija.",
       "low": "Jūsų atsakymai rodo, kad tvirtai ir realistiškai pasitikite savo gebėjimais. Atrodo, kad jaučiatės savo vietoje ir galite imtis naujų iššūkių be didelių abejonių. Šis pasitikėjimas padeda mokytis ir prisidėti. Išlaikykite jį sveiką būdami smalsūs ir prašydami grįžtamojo ryšio, kad pasitikėjimas savimi išliktų pagrįstas tuo, ką iš tiesų darote gerai, ir tuo, kur dar galite augti.",
-      "mid": "Jūsų atsakymai rodo, kad kartais abejojate savo gebėjimais, ypač naujose ar didelio spaudimo situacijose. Tikriausiai pažįstamose užduotyse jaučiatės užtikrintai, o kai rizika išauga – mažiau. Veskite paprastą įgūdžių, kuriuos panaudojote, ir išspręstų problemų sąrašą. Kai atsiranda abejonių, žiūrėkite į įrodymus, o ne į jausmą. Priminkite sau, kad netikrumas mokantis yra normalus ir nereiškia, kad esate nepajėgūs.",
+      "mid": "Jūsų atsakymai rodo, kad kartais abejojate savo gebėjimais, ypač naujose ar didelio spaudimo situacijose. Tikriausiai pažįstamose užduotyse jaučiatės užtikrintai, o kai rizika išauga, mažiau. Veskite paprastą įgūdžių, kuriuos panaudojote, ir išspręstų problemų sąrašą. Kai atsiranda abejonių, žiūrėkite į įrodymus, o ne į jausmą. Priminkite sau, kad netikrumas mokantis yra normalus ir nereiškia, kad esate nepajėgūs.",
       "high": "Jūsų atsakymai rodo, kad abejonės savimi jums yra stipri tema. Galbūt dažnai jaučiatės mažiau pajėgūs nei aplinkiniai, net kai jūsų rezultatai rodo ką kita. Tai gali sulaikyti jus nuo pasisakymo ar rizikos. Pabandykite užsirašyti konkrečius faktus apie savo darbą, pavyzdžiui, grįžtamąjį ryšį, užbaigtus projektus ir įgūdžius, ir perskaitykite juos, kai užplūsta abejonės. Pasikalbėkite su mentoriumi apie tai, kaip jis jus mato. Jei abejonės savimi slegia jūsų savijautą, gali padėti koučeris ar kvalifikuotas specialistas."
     },
     "fear_of_exposure": {

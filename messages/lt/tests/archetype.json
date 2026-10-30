@@ -2,7 +2,7 @@
   "name": "Archetipų testas",
   "tagline": "Sužinokite, kuris iš 12 klasikinių archetipų jus valdo.",
   "intro": "Viso pasaulio pasakojimai remiasi keliais pasikartojančiais personažais: herojumi, išminčiumi, maištininku, globėju ir kitais. Šis testas parodo, kurie iš šių 12 archetipų formuoja jūsų mąstymą, jausmus ir veiksmus. Įvertinkite 100 trumpų teiginių pagal tai, kiek jie jums tinka. Testas trunka apie penkias minutes ir atskleidžia jūsų pagrindinį archetipą bei visą profilį.",
-  "seoTitle": "Archetipų testas – atraskite savo asmenybės archetipą",
+  "seoTitle": "Archetipų testas: atraskite savo asmenybės archetipą",
   "seoDescription": "Kuris iš 12 archetipų esate jūs? Herojus, Išminčius, Tyrinėtojas, Kūrėjas ar Maištininkas? Atlikite nemokamą 5 minučių testą ir gaukite savo profilį.",
   "items": [
     "Tikiu, kad dauguma žmonių iš esmės geri.",
@@ -112,7 +112,7 @@
       "short": "Jūsų siekis gerumo, pasitikėjimo, paprastumo ir optimizmo.",
       "low": "Nekaltasis jūsų profilyje vaidina nedidelį vaidmenį. Į pasaulį linkę žvelgti sveikai realistiškai ar net šiek tiek skeptiškai, ir jūsų nelengva apgauti tuščiais pažadais. Tai jus apsaugo, bet kartu gali apsunkinti gebėjimą atsipalaiduoti ir mėgautis tuo, kas gera čia ir dabar. Pabandykite kiekvieną dieną užbaigti įvardydami vieną dalyką, kuris pavyko, ir suteikite žmonėms sąžiningą galimybę, prieš nuspręsdami, kad jais negalima pasitikėti.",
       "mid": "Jumyse yra subalansuota Nekaltojo dalis. Galite būti viltingi ir pasitikintys, bet kartu laikote akis atmerktas. Šis derinys leidžia mėgautis paprastais malonumais neignoruojant realios rizikos. Galbūt pastebite, kad jūsų optimizmas blėsta, kai esate pavargę ar patiriate spaudimą. Saugokite jį išlaikydami kasdienius ritualus, kurie teikia ramybės ir gerumo jausmą, ir leiskite laiką su žmonėmis, kurie atskleidžia jūsų lengvesnę, viltingesnę pusę.",
-      "high": "Nekaltasis jumyse stipriai išreikštas. Tikite gerumu, neprarandate vilties dėl geresnės baigties ir aplinkiniams suteikiate gaivaus vilties jausmo. Kiti jūsų draugijoje dažnai jaučiasi saugūs ir pakylėti. Kita medalio pusė – galite nepastebėti įspėjamųjų ženklų arba skaudžiai nusivilti, kai žmonės jus nuvilia. Išlaikykite optimizmą, bet prieš svarbius sprendimus greitai pasitikrinkite realybę ir paprašykite patikimo, praktiško draugo antros nuomonės."
+      "high": "Nekaltasis jumyse stipriai išreikštas. Tikite gerumu, neprarandate vilties dėl geresnės baigties ir aplinkiniams suteikiate gaivaus vilties jausmo. Kiti jūsų draugijoje dažnai jaučiasi saugūs ir pakylėti. Kita medalio pusė: galite nepastebėti įspėjamųjų ženklų arba skaudžiai nusivilti, kai žmonės jus nuvilia. Išlaikykite optimizmą, bet prieš svarbius sprendimus greitai pasitikrinkite realybę ir paprašykite patikimo, praktiško draugo antros nuomonės."
     },
     "sage": {
       "name": "Išminčius",
@@ -124,9 +124,9 @@
     "explorer": {
       "name": "Tyrinėtojas",
       "short": "Jūsų siekis laisvės, atradimų ir naujos patirties.",
-      "low": "Tyrinėtojas jūsų profilyje tylus. Tikriausiai vertinate stabilumą, pažįstamą aplinką ir gerai žinomus žmones bei vietas. Tai suteikia jums šaknis ir daro jus patikimus. Vienintelė rizika – gyvenimas gali tapti siauresnis, nei iš tiesų norėtumėte. Retkarčiais išbandykite mažą nuotykį: naują maršrutą, naują patiekalą ar savaitgalį vietoje, kurioje dar nesate buvę. Maži atradimai gali jus atgaivinti nesutrikdydami jums brangaus saugumo.",
+      "low": "Tyrinėtojas jūsų profilyje tylus. Tikriausiai vertinate stabilumą, pažįstamą aplinką ir gerai žinomus žmones bei vietas. Tai suteikia jums šaknis ir daro jus patikimus. Vienintelė rizika: gyvenimas gali tapti siauresnis, nei iš tiesų norėtumėte. Retkarčiais išbandykite mažą nuotykį: naują maršrutą, naują patiekalą ar savaitgalį vietoje, kurioje dar nesate buvę. Maži atradimai gali jus atgaivinti nesutrikdydami jums brangaus saugumo.",
       "mid": "Jumyse yra sveika Tyrinėtojo dalis. Mėgaujatės nauja patirtimi ir vertinate savo nepriklausomybę, tačiau taip pat brangi jums ir tvirta atrama namuose. Ši pusiausvyra leidžia augti nesijaučiant išblaškytiems. Pasirūpinkite, kad abi pusės gautų vietos: planuokite reguliarias atradimų akimirkas, pavyzdžiui, keliones, kursus ar naujus pomėgius, ir saugokite jus įžeminančius ritualus. Kai jaučiate nerimastingumą, priimkite tai kaip ženklą, kad laikas išbandyti ką nors nauja.",
-      "high": "Tyrinėtojas jumyse yra pagrindinė jėga. Trokštate laisvės, atradimų ir autentiškos patirties, o rutina gali atrodyti kaip narvas. Jūsų smalsumas praturtina gyvenimą ir įkvepia kitus išeiti iš savo komforto zonos. Iššūkis – pakankamai ilgai laikytis įsipareigojimų, kad juos įvykdytumėte. Įneškite įvairovės į savo darbą ir santykius, kad nereikėtų išeiti norint jaustis laisviems, ir pasirinkite kelis ilgalaikius tikslus, dėl kurių verta kartais ir panuobodžiauti."
+      "high": "Tyrinėtojas jumyse yra pagrindinė jėga. Trokštate laisvės, atradimų ir autentiškos patirties, o rutina gali atrodyti kaip narvas. Jūsų smalsumas praturtina gyvenimą ir įkvepia kitus išeiti iš savo komforto zonos. Iššūkis: pakankamai ilgai laikytis įsipareigojimų, kad juos įvykdytumėte. Įneškite įvairovės į savo darbą ir santykius, kad nereikėtų išeiti norint jaustis laisviems, ir pasirinkite kelis ilgalaikius tikslus, dėl kurių verta kartais ir panuobodžiauti."
     },
     "outlaw": {
       "name": "Maištininkas",
@@ -189,7 +189,7 @@
       "short": "Jūsų siekis įsivaizduoti, save išreikšti ir sukurti ką nors nauja.",
       "low": "Kūrėjas jūsų profilyje vaidina kuklų vaidmenį. Galbūt aiškias instrukcijas ir patikrintus metodus vertinate labiau nei naujų dalykų išradinėjimą, todėl esate efektyvūs ir patikimi. Tačiau kūrybiškumas skirtas ne tik menininkams. Išbandykite nedidelį kūrybinį eksperimentą, pavyzdžiui, gaminkite be recepto, paeskizuokite ar pertvarkykite kambarį. Galbūt pastebėsite, kad saviraiška mažais dalykais įneša į jūsų kasdienybę naujos energijos ir idėjų.",
       "mid": "Jumyse nemažai Kūrėjo. Jums patinka kurti ir tobulinti dalykus, kartais jaučiate stiprų poreikį save išreikšti, tačiau vertinate ir praktiškumą. Šis derinys padeda idėjas paversti realistiškais rezultatais. Suteikite savo kūrybinei pusei reguliarią išraišką, pavyzdžiui, pomėgį ar projektą, kuriame nėra spaudimo būti tobuliems. Turėkite užrašų knygelę idėjoms, kad įkvėpimas nepasimestų įtemptomis savaitėmis.",
-      "high": "Kūrėjas jumyse yra pagrindinė jėga. Esate kupini idėjų ir gyviausiai jaučiatės kurdami ką nors originalaus. Jūsų vaizduotė padeda matyti galimybes, kurių kiti nepastebi. Rizika – perfekcionizmas, nebaigti projektai ar nusivylimas, kai nėra erdvės kurti. Užuot pradėję daug, pasirinkite kelis projektus, kuriuos užbaigsite, ir nusistatykite realistiškus terminus. Saugokite laiką kūrybai, nes jums tai ne prabanga, o poreikis."
+      "high": "Kūrėjas jumyse yra pagrindinė jėga. Esate kupini idėjų ir gyviausiai jaučiatės kurdami ką nors originalaus. Jūsų vaizduotė padeda matyti galimybes, kurių kiti nepastebi. Rizika: perfekcionizmas, nebaigti projektai ar nusivylimas, kai nėra erdvės kurti. Užuot pradėję daug, pasirinkite kelis projektus, kuriuos užbaigsite, ir nusistatykite realistiškus terminus. Saugokite laiką kūrybai, nes jums tai ne prabanga, o poreikis."
     }
   },
   "summary": "Kiekvienas žmogus turi kelis archetipus, tačiau dažniausiai vienas ar du būna pagrindiniai. Žemiau matote, kaip stipriai kiekvienas iš 12 archetipų atsiskleidžia jūsų atsakymuose, o stipriausias pažymėtas kaip pagrindinis jūsų archetipas. Naudokite šį profilį kaip veidrodį apmąstymams, o ne kaip nekintamą etiketę."

@@ -1,8 +1,8 @@
 {
   "name": "Traumos testas",
   "tagline": "Patikrinkite, kaip labai stresinė patirtis gali jus vis dar veikti.",
-  "intro": "Prisiminkite vieną labai stresinę patirtį, kuri jus vis dar veikia, ir turėkite ją omenyje atsakydami. Prie kiekvienos problemos klausimas yra toks: kiek per pastarąjį mėnesį jus vargino… Šis atrankos testas apima PCL-5 – plačiai naudojamą potrauminio streso klausimyną – ir papildomus klausimus apie įkyrius prisiminimus, vengimą, nuotaiką ir nuolatinę įtampą. Testas trunka apie penkias minutes ir nėra diagnozė.",
-  "seoTitle": "Traumos testas – nemokama PTSS patikra pagal PCL-5",
+  "intro": "Prisiminkite vieną labai stresinę patirtį, kuri jus vis dar veikia, ir turėkite ją omenyje atsakydami. Prie kiekvienos problemos klausimas yra toks: kiek per pastarąjį mėnesį jus vargino… Šis atrankos testas apima PCL-5 (plačiai naudojamą potrauminio streso klausimyną) ir papildomus klausimus apie įkyrius prisiminimus, vengimą, nuotaiką ir nuolatinę įtampą. Testas trunka apie penkias minutes ir nėra diagnozė.",
+  "seoTitle": "Traumos testas: nemokama PTSS patikra pagal PCL-5",
   "seoDescription": "Ar stresinė patirtis jus vis dar veikia? Atlikite 5 minučių traumos testą su PCL-5 ir gaukite asmeninę ataskaitą apie keturias simptomų sritis.",
   "items": [
     "Pasikartojantys, trikdantys ir nepageidaujami stresinės patirties prisiminimai",
@@ -110,7 +110,7 @@
     "intrusions": {
       "name": "Įkyrūs prisiminimai",
       "short": "Kiek jus vargina nepageidaujami prisiminimai, sapnai ar patirties išgyvenimas iš naujo.",
-      "low": "Jūsų atsakymai rodo, kad šiuo metu stresinės patirties prisiminimai mažai įsiveržia į jūsų kasdienį gyvenimą. Galbūt kartais vis dar apie ją pagalvojate, ir tai natūralu, tačiau, regis, ji jūsų neužgriūva. Toliau rūpinkitės savimi – ilsėkitės, palaikykite ryšius ir užsiimkite veiklomis, kurios padeda jaustis įžemintiems, – ir pastebėkite, jei tai pasikeistų, pavyzdžiui, per metines.",
+      "low": "Jūsų atsakymai rodo, kad šiuo metu stresinės patirties prisiminimai mažai įsiveržia į jūsų kasdienį gyvenimą. Galbūt kartais vis dar apie ją pagalvojate, ir tai natūralu, tačiau, regis, ji jūsų neužgriūva. Toliau rūpinkitės savimi: ilsėkitės, palaikykite ryšius ir užsiimkite veiklomis, kurios padeda jaustis įžemintiems. Taip pat pastebėkite, jei tai pasikeistų, pavyzdžiui, per metines.",
       "mid": "Jūsų atsakymai rodo, kad prisiminimai, sapnai ar patirties priminimai jus vargina vidutiniškai. Tai dažna reakcija po labai stresinio įvykio, ir daugeliui žmonių laikui bėgant bei gavus paramą ji palengvėja. Kai prisiminimas perima kontrolę, gali padėti įžeminimo technikos, pavyzdžiui, įvardyti, ką aplink save matote ir girdite. Pokalbis su žmogumi, kuriuo pasitikite, taip pat gali palengvinti naštą.",
       "high": "Jūsų atsakymai rodo, kad nepageidaujami prisiminimai, košmarai ar patirties išgyvenimo iš naujo jausmas jus labai vargina. Tai gali gąsdinti ir išsekinti, ir tai yra pripažinta reakcija į traumą, o ne silpnumo ženklas. Yra veiksmingų į traumą orientuotų terapijų, todėl prašome apsvarstyti galimybę pasikalbėti su gydytoju ar kvalifikuotu psichikos sveikatos specialistu. Jei jums kyla minčių pakenkti sau, nedelsdami kreipkitės į skubiosios pagalbos tarnybas arba krizių pagalbos liniją. Tuo tarpu šiek tiek palengvėti gali padėti įžeminimo pratimai."
     },
@@ -136,7 +136,7 @@
       "high": "Jūsų atsakymai rodo, kad didžiąją laiko dalį jaučiatės sargyboje, įsitempę, krūpčiojate ar esate irzlūs, o miegas ir susikaupimas gali būti stipriai paveikti. Atrodo, kad jūsų kūnas įstrigo pavojaus režime, o tai išsekina. Tai pripažinta reakcija į traumą, kuri gali pagerėti tinkamai gydant. Prašome apsvarstyti galimybę pasikalbėti su gydytoju ar kvalifikuotu psichikos sveikatos specialistu. Jei jums kyla minčių pakenkti sau, nedelsdami kreipkitės į skubiosios pagalbos tarnybas arba krizių pagalbos liniją."
     }
   },
-  "summary": "Ši ataskaita sujungia jūsų PCL-5 balą – plačiai naudojamą potrauminio streso atrankos įvertinimą – su keturiomis simptomų sritimis. Aukštesni balai reiškia, kad per pastarąjį mėnesį jus vargino labiau. Tai nėra diagnozė; jei jūsų balai padidėję, prašome pasikalbėti su gydytoju ar kvalifikuotu specialistu. Jei jums kyla minčių pakenkti sau, nedelsdami kreipkitės į skubiosios pagalbos tarnybas arba krizių pagalbos liniją.",
+  "summary": "Ši ataskaita sujungia jūsų PCL-5 balą (plačiai naudojamą potrauminio streso atrankos įvertinimą) su keturiomis simptomų sritimis. Aukštesni balai reiškia, kad per pastarąjį mėnesį jus vargino labiau. Tai nėra diagnozė; jei jūsų balai padidėję, prašome pasikalbėti su gydytoju ar kvalifikuotu specialistu. Jei jums kyla minčių pakenkti sau, nedelsdami kreipkitės į skubiosios pagalbos tarnybas arba krizių pagalbos liniją.",
   "instrument": {
     "name": "PCL-5 balas",
     "description": "PCL-5 yra viešai prieinamas potrauminio streso simptomų klausimynas, kurį sukūrė JAV Nacionalinis PTSS centras. Maždaug 31–33 ar didesnis balas rodo, kad specialisto įvertinimas gali būti naudingas; tai atrankos priemonė, o ne diagnozė.",

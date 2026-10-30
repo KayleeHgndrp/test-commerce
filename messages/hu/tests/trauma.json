@@ -2,7 +2,7 @@
   "name": "Trauma teszt",
   "tagline": "Nézd meg, hogyan hathat még rád egy nagyon megterhelő élmény.",
   "intro": "Gondolj egy nagyon megterhelő élményre, amely még mindig hatással van rád, és tartsd észben, miközben válaszolsz. Minden problémánál a kérdés ez: Az elmúlt hónapban mennyire zavart téged… Ez a szűrőteszt tartalmazza a PCL-5-öt, a poszttraumás stressz egyik széles körben használt kérdőívét, valamint további kérdéseket a betolakodó emlékekről, az elkerülésről, a hangulatról és a feszült éberségről. Körülbelül öt percet vesz igénybe, és nem diagnózis.",
-  "seoTitle": "Trauma teszt – Ingyenes, PCL-5 alapú PTSD-szűrés",
+  "seoTitle": "Trauma teszt: Ingyenes, PCL-5 alapú PTSD-szűrés",
   "seoDescription": "Még mindig hat rád egy megterhelő élmény? Töltsd ki ezt az 5 perces, PCL-5 alapú traumaszűrést, és kapj személyes értékelést négy tünetterületről.",
   "items": [
     "Ismétlődő, nyugtalanító és nem kívánt emlékek a megterhelő élményről",
@@ -110,8 +110,8 @@
     "intrusions": {
       "name": "Betolakodó emlékek",
       "short": "Mennyire zavarnak a nem kívánt emlékek, álmok vagy az élmény újraélése.",
-      "low": "A válaszaid alapján a megterhelő élmény emlékei jelenleg nem nagyon törnek be a mindennapjaidba. Időnként talán még gondolsz rá, ami természetes, de úgy tűnik, nem borít el. Gondoskodj továbbra is magadról pihenéssel, kapcsolódással és olyan tevékenységekkel, amelyek segítenek a földön maradni, és figyeld, ha ez változik – például évfordulók környékén.",
-      "mid": "A válaszaid alapján az élmény emlékei, álmai vagy emlékeztetői közepes mértékben zavarnak. Ez gyakori reakció egy nagyon megterhelő esemény után, és sokaknál idővel és támogatással enyhül. A földelő technikák – például ha megnevezed, mit látsz és hallasz magad körül – segíthetnek, amikor egy emlék átveszi az irányítást. Ha beszélsz valakivel, akiben megbízol, az is könnyíthet a terheden.",
+      "low": "A válaszaid alapján a megterhelő élmény emlékei jelenleg nem nagyon törnek be a mindennapjaidba. Időnként talán még gondolsz rá, ami természetes, de úgy tűnik, nem borít el. Gondoskodj továbbra is magadról pihenéssel, kapcsolódással és olyan tevékenységekkel, amelyek segítenek a földön maradni, és figyeld, ha ez változik, például évfordulók környékén.",
+      "mid": "A válaszaid alapján az élmény emlékei, álmai vagy emlékeztetői közepes mértékben zavarnak. Ez gyakori reakció egy nagyon megterhelő esemény után, és sokaknál idővel és támogatással enyhül. A földelő technikák (például ha megnevezed, mit látsz és hallasz magad körül) segíthetnek, amikor egy emlék átveszi az irányítást. Ha beszélsz valakivel, akiben megbízol, az is könnyíthet a terheden.",
       "high": "A válaszaid alapján a nem kívánt emlékek, a rémálmok vagy az élmény újraélésének érzése nagyon zavarnak. Ez ijesztő és kimerítő lehet, és a traumára adott ismert reakció, nem a gyengeség jele. Léteznek hatékony, traumafókuszú terápiák, ezért kérlek, fontold meg, hogy orvoshoz vagy képzett mentálhigiénés szakemberhez fordulsz. Ha önsértés gondolatai foglalkoztatnak, kérlek, azonnal hívd a helyi segélyhívó számot vagy egy lelki elsősegély-vonalat. Addig is a földelő gyakorlatok némi enyhülést hozhatnak."
     },
     "avoidance": {
@@ -119,7 +119,7 @@
       "short": "Mennyire kerülöd az élményhez kötődő gondolatokat, érzéseket, embereket vagy helyeket.",
       "low": "A válaszaid alapján nem kerülöd erősen az élményhez kapcsolódó gondolatokat, érzéseket vagy helyzeteket. Ez a nyitottság általában segít abban, hogy idővel feldolgozd a történteket. Ettől még nyugodtan eldöntheted, mikor és kivel beszélsz róla. Folytasd azokat a dolgokat, amelyek fontosak neked, és amelyek segítenek biztonságban és támogatva érezni magad. Ha stresszes időszakokban erősödik az elkerülés, szelíden vedd észre, és ne ítéld el magad érte.",
       "mid": "A válaszaid alapján kerülsz bizonyos emlékeztetőket, beszélgetéseket vagy érzéseket, amelyek az élményhez kötődnek. Az elkerülés rövid távon megkönnyebbülést hoz, de idővel életben tarthatja a félelmet, és szűkítheti a világodat. Próbáld meg óvatosan, a saját tempódban megközelíteni azokat a helyzeteket, amelyek biztonságosak, de kényelmetlenek, és oszd meg, min mész keresztül, valakivel, akiben megbízol. Elég apró, kezelhető lépéseket tenni; nem kell sietni.",
-      "high": "A válaszaid alapján nagyon sokat teszel azért, hogy elkerülj mindent, ami az élményre emlékeztet – beleértve a saját gondolataidat és érzéseidet is. Ez érthető, de az erős elkerülés fenntarthatja a szenvedést, és beszűkítheti az életedet. A traumafókuszú terápia segíthet abban, hogy biztonságosan és a saját tempódban nézz szembe az emlékekkel, ezért kérlek, fontold meg, hogy képzett mentálhigiénés szakemberhez fordulsz. Ha önsértés gondolatai foglalkoztatnak, kérlek, azonnal hívd a helyi segélyhívó számot vagy egy lelki elsősegély-vonalat."
+      "high": "A válaszaid alapján nagyon sokat teszel azért, hogy elkerülj mindent, ami az élményre emlékeztet, beleértve a saját gondolataidat és érzéseidet is. Ez érthető, de az erős elkerülés fenntarthatja a szenvedést, és beszűkítheti az életedet. A traumafókuszú terápia segíthet abban, hogy biztonságosan és a saját tempódban nézz szembe az emlékekkel, ezért kérlek, fontold meg, hogy képzett mentálhigiénés szakemberhez fordulsz. Ha önsértés gondolatai foglalkoztatnak, kérlek, azonnal hívd a helyi segélyhívó számot vagy egy lelki elsősegély-vonalat."
     },
     "negative_mood": {
       "name": "Negatív gondolatok és hangulat",
@@ -136,7 +136,7 @@
       "high": "A válaszaid alapján az idő nagy részében őrködőnek, feszültnek, ugrásra késznek vagy ingerlékenynek érzed magad, és az alvásodat és a koncentrációdat is erősen érintheti. Úgy tűnik, a tested beragadt a vészüzemmódba, ami kimerítő. Ez a traumára adott ismert reakció, és megfelelő kezeléssel javulhat. Kérlek, fontold meg, hogy orvoshoz vagy képzett mentálhigiénés szakemberhez fordulsz. Ha önsértés gondolatai foglalkoztatnak, kérlek, azonnal hívd a helyi segélyhívó számot vagy egy lelki elsősegély-vonalat."
     }
   },
-  "summary": "Ez az értékelés a PCL-5 pontszámodat – a poszttraumás stressz egyik széles körben használt szűrőmérőszámát – négy tünetterülettel kombinálja. A magasabb pontszám azt jelenti, hogy az elmúlt hónapban jobban zavartak a tünetek. Ez nem diagnózis; ha a pontszámaid emelkedettek, kérlek, beszélj orvossal vagy képzett szakemberrel. Ha önsértés gondolatai foglalkoztatnak, kérlek, azonnal hívd a helyi segélyhívó számot vagy egy lelki elsősegély-vonalat.",
+  "summary": "Ez az értékelés a PCL-5 pontszámodat, a poszttraumás stressz egyik széles körben használt szűrőmérőszámát, négy tünetterülettel kombinálja. A magasabb pontszám azt jelenti, hogy az elmúlt hónapban jobban zavartak a tünetek. Ez nem diagnózis; ha a pontszámaid emelkedettek, kérlek, beszélj orvossal vagy képzett szakemberrel. Ha önsértés gondolatai foglalkoztatnak, kérlek, azonnal hívd a helyi segélyhívó számot vagy egy lelki elsősegély-vonalat.",
   "instrument": {
     "name": "PCL-5 pontszám",
     "description": "A PCL-5 a poszttraumás stressz tüneteinek közkincsnek számító kérdőíve, amelyet az Egyesült Államok Nemzeti PTSD Központja (National Center for PTSD) fejlesztett ki. A nagyjából 31–33 vagy annál magasabb pontszám arra utal, hogy hasznos lehet egy szakmai felmérés; ez szűrőeszköz, nem diagnózis.",

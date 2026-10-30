@@ -1,8 +1,8 @@
 {
   "name": "Politinės tapatybės testas",
   "tagline": "Pažiūrėkite, kur esate ekonominėje ir socialinėje ašyje.",
-  "intro": "Politika yra daugiau nei kairė ir dešinė. Šis testas jūsų pažiūras išdėsto dviejose atskirose ašyse: ekonominėje – nuo valstybės valdomos iki rinkos valdomos ekonomikos – ir socialinėje – nuo asmens laisvės iki tvarkos ir tradicijų. Įvertinkite 100 trumpų politikos teiginių; teisingų ar neteisingų atsakymų nėra. Per maždaug penkias minutes pamatysite, kur esate ir kuri plati politinė pozicija jums tinka labiausiai.",
-  "seoTitle": "Politinės tapatybės testas – raskite savo poziciją",
+  "intro": "Politika yra daugiau nei kairė ir dešinė. Šis testas jūsų pažiūras išdėsto dviejose atskirose ašyse: ekonominėje (nuo valstybės valdomos iki rinkos valdomos ekonomikos) ir socialinėje (nuo asmens laisvės iki tvarkos ir tradicijų). Įvertinkite 100 trumpų politikos teiginių; teisingų ar neteisingų atsakymų nėra. Per maždaug penkias minutes pamatysite, kur esate ir kuri plati politinė pozicija jums tinka labiausiai.",
+  "seoTitle": "Politinės tapatybės testas: raskite savo poziciją",
   "seoDescription": "Kokios jūsų politinės pažiūros? Atlikite nemokamą 5 minučių testą apie ekonomines ir socialines pažiūras ir pamatykite savo vietą dviejų ašių žemėlapyje.",
   "items": [
     "Manau, kad mažesni mokesčiai paprastai naudingi ekonomikai.",
@@ -111,7 +111,7 @@
       "name": "Ekonominė ašis",
       "short": "Ar labiau norite, kad ekonomiką formuotų valstybė, ar laisvoji rinka (aukštesnis balas = labiau orientuota į rinką).",
       "low": "Jūsų atsakymai linksta į ekonominę kairę. Esate linkę matyti aktyvų valstybės vaidmenį mažinant nelygybę, teikiant viešąsias paslaugas ir saugant darbuotojus. Tikriausiai vertinate solidarumą, socialinį saugumą ir pagrindinių paslaugų viešąją nuosavybę. Tokių pažiūrų žmonės dažnai pabrėžia teisingumą ir bendrą atsakomybę. Norėdami išgryninti savo mąstymą, pasidomėkite, kaip finansuojama jūsų remiama politika ir kokių kompromisų ji reikalauja, ir perskaitykite gerai argumentuotą rinkos šalininkų požiūrį, kad patikrintumėte savo argumentus.",
-      "mid": "Jūsų atsakymai jus išdėsto netoli ekonominio centro. Tikriausiai matote vertę ir rinkose, ir valdžioje: laisvą verslą gerovei kurti ir viešąją politiką saugumui bei teisingumui užtikrinti. Jūsų pažiūros gali skirtis priklausomai nuo klausimo, o tai atspindi pragmatišką požiūrį. Kad geriau suprastumėte savo poziciją, pastebėkite, kurios temos jus traukia į kairę, o kurios – į dešinę, ir pasidomėkite skirtingų šalių patirtimi, kas veikia praktiškai.",
+      "mid": "Jūsų atsakymai jus išdėsto netoli ekonominio centro. Tikriausiai matote vertę ir rinkose, ir valdžioje: laisvą verslą gerovei kurti ir viešąją politiką saugumui bei teisingumui užtikrinti. Jūsų pažiūros gali skirtis priklausomai nuo klausimo, o tai atspindi pragmatišką požiūrį. Kad geriau suprastumėte savo poziciją, pastebėkite, kurios temos jus traukia į kairę, o kurios į dešinę, ir pasidomėkite skirtingų šalių patirtimi, kas veikia praktiškai.",
       "high": "Jūsų atsakymai linksta į ekonominę dešinę. Esate linkę palaikyti laisvąsias rinkas, mažesnius mokesčius, privatų verslą ir asmeninę atsakomybę, su ribotu valstybės vaidmeniu ekonomikoje. Tokių pažiūrų žmonės dažnai pabrėžia efektyvumą, pasirinkimo laisvę ir ryšį tarp pastangų bei atlygio. Norėdami išgryninti savo mąstymą, apsvarstykite, kaip rinka grįsta politika veikia mažiau galimybių turinčius žmones, ir perskaitykite gerai argumentuotą valstybės vaidmens šalininkų požiūrį, kad patikrintumėte savo argumentus."
     },
     "social": {

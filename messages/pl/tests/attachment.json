@@ -1,8 +1,8 @@
 {
   "name": "Test stylu przywiązania",
   "tagline": "Odkryj, jak budujesz więź, ufasz i szukasz bliskości w relacjach.",
-  "intro": "Twój styl przywiązania wpływa na to, jak budujesz więzi z partnerem, przyjaciółmi i rodziną: jak bardzo boisz się odrzucenia i jak dobrze czujesz się w bliskości. Ten test mierzy dwa wymiary – lęk przed odrzuceniem i unikanie bliskości – i łączy je w jeden z czterech stylów. Odpowiadaj zgodnie z tym, jak zwykle czujesz się w bliskich relacjach. Zajmie ci to około pięciu minut.",
-  "seoTitle": "Test stylu przywiązania – bezpłatny quiz online",
+  "intro": "Twój styl przywiązania wpływa na to, jak budujesz więzi z partnerem, przyjaciółmi i rodziną: jak bardzo boisz się odrzucenia i jak dobrze czujesz się w bliskości. Ten test mierzy dwa wymiary, lęk przed odrzuceniem i unikanie bliskości, i łączy je w jeden z czterech stylów. Odpowiadaj zgodnie z tym, jak zwykle czujesz się w bliskich relacjach. Zajmie ci to około pięciu minut.",
+  "seoTitle": "Test stylu przywiązania: bezpłatny quiz online",
   "seoDescription": "Bezpieczny, lękowy, unikający czy lękowo-unikający? Zrób 5-minutowy test stylu przywiązania i otrzymaj osobisty raport o tym, jak budujesz więzi.",
   "items": [
     "Unikam rozmów o przyszłości związku.",
@@ -111,7 +111,7 @@
       "name": "Lęk w przywiązaniu",
       "short": "Jak bardzo martwisz się odrzuceniem, porzuceniem i tym, czy masz dość miłości od innych.",
       "low": "Twoje odpowiedzi sugerują, że czujesz się dość pewnie w kwestii bycia kochanym. Nie potrzebujesz wielu zapewnień, potrafisz dać ludziom ich własną przestrzeń, a cichy dzień czy nieodpisana wiadomość rzadko wpędzają cię w zmartwienie. Ten wewnętrzny spokój to prawdziwa siła w relacjach. Korzystaj z niej, by zachować otwartość i hojność. Jedna wskazówka: uważaj, by twoje spokojne podejście nie sprawiło, że przeoczysz osobę partnerską, która potrzebuje więcej zapewnień niż ty. Zapytaj, co pomaga jej poczuć się bezpiecznie.",
-      "mid": "Przez większość czasu czujesz się bezpiecznie, ale niektóre sytuacje mogą wywoływać niepokój o to, na czym stoisz. Niejasne sygnały, dystans po konflikcie czy zmiana planów mogą uruchamiać wątpliwości, które długo się uspokajają. To bardzo częste. Spróbuj zauważać moment, w którym pojawia się niepokój, i sprawdzić fakty, zanim zaczniesz działać. Pomaga też powiedzieć zaufanym osobom w spokojnej chwili, co cię uspokaja – wtedy możesz poprosić o to wprost, zamiast szukać poszlak.",
+      "mid": "Przez większość czasu czujesz się bezpiecznie, ale niektóre sytuacje mogą wywoływać niepokój o to, na czym stoisz. Niejasne sygnały, dystans po konflikcie czy zmiana planów mogą uruchamiać wątpliwości, które długo się uspokajają. To bardzo częste. Spróbuj zauważać moment, w którym pojawia się niepokój, i sprawdzić fakty, zanim zaczniesz działać. Pomaga też powiedzieć zaufanym osobom w spokojnej chwili, co cię uspokaja, wtedy możesz poprosić o to wprost, zamiast szukać poszlak.",
       "high": "Twoje odpowiedzi sugerują, że lęk przed odrzuceniem lub porzuceniem odgrywa dużą rolę w twoich relacjach. Możesz wypatrywać oznak, że ktoś się oddala, potrzebować wielu zapewnień albo czuć, że twój nastrój wznosi się i opada razem z relacją. Ten wzorzec zwykle wyrasta z wcześniejszych doświadczeń i może się zmienić. Ćwicz najpierw samodzielne uspokajanie się, na przykład spacerem lub krótkim ćwiczeniem oddechowym, zanim sięgniesz po kontakt. Pomaga też budowanie życia z własnymi źródłami sensu. Terapeuta może wesprzeć cię w budowaniu większego poczucia bezpieczeństwa."
     },
     "avoidance": {

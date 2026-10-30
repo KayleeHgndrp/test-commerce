@@ -1,8 +1,8 @@
 {
   "name": "Depresijos testas",
   "tagline": "Patikrinkite savo nuotaiką, energiją ir mąstymą per pastarąsias dvi savaites.",
-  "intro": "Kaip dažnai per pastarąsias dvi savaites jus vargino toliau išvardytos problemos? Šis atrankos testas apima PHQ-9 – plačiai naudojamą depresijos klausimyną – ir papildomus klausimus apie nuotaiką, energiją, miegą, mąstymą ir savivaizdį. Testas trunka apie penkias minutes ir nėra diagnozė, tačiau gali padėti suprasti, kaip jums sekasi, ir ar verta ieškoti pagalbos.",
-  "seoTitle": "Depresijos testas – nemokama PHQ-9 patikra",
+  "intro": "Kaip dažnai per pastarąsias dvi savaites jus vargino toliau išvardytos problemos? Šis atrankos testas apima PHQ-9 (plačiai naudojamą depresijos klausimyną) ir papildomus klausimus apie nuotaiką, energiją, miegą, mąstymą ir savivaizdį. Testas trunka apie penkias minutes ir nėra diagnozė, tačiau gali padėti suprasti, kaip jums sekasi, ir ar verta ieškoti pagalbos.",
+  "seoTitle": "Depresijos testas: nemokama PHQ-9 patikra",
   "seoDescription": "Kokia jūsų nuotaika pastaruoju metu? Atlikite 5 minučių depresijos testą su PHQ-9 ir gaukite asmeninę ataskaitą apie nuotaiką, energiją, miegą ir mąstymą.",
   "items": [
     "Menkas susidomėjimas ar malonumas ką nors daryti",
@@ -10,9 +10,9 @@
     "Sunkumai užmigti ar išmiegoti visą naktį arba per ilgas miegas",
     "Nuovargis arba energijos stoka",
     "Prastas apetitas arba persivalgymas",
-    "Blogas savęs vertinimas – jausmas, kad gyvenime patyrėte nesėkmę arba nuvylėte save ar savo šeimą",
+    "Blogas savęs vertinimas arba jausmas, kad gyvenime patyrėte nesėkmę arba nuvylėte save ar savo šeimą",
     "Sunkumai sutelkti dėmesį, pavyzdžiui, skaitant laikraštį ar žiūrint televizorių",
-    "Judėjimas ar kalbėjimas taip lėtai, kad kiti galėjo tai pastebėti, arba priešingai – toks nerimastingumas ar nenustygimas vietoje, kad judate kur kas daugiau nei įprastai",
+    "Judėjimas ar kalbėjimas taip lėtai, kad kiti galėjo tai pastebėti, arba priešingai, toks nerimastingumas ar nenustygimas vietoje, kad judate kur kas daugiau nei įprastai",
     "Mintys, kad jums būtų geriau numirti, arba mintys kaip nors sau pakenkti",
     "Bevertiškumo jausmas",
     "Išsekimas po labai menkų pastangų",
@@ -118,7 +118,7 @@
       "name": "Energija ir motyvacija",
       "short": "Kiek jautėte nuovargį, sulėtėjimą ar motyvacijos stoką.",
       "low": "Jūsų atsakymai rodo, kad pastaruoju metu jūsų energija ir motyvacija buvo gana geros. Atrodo, kad susitvarkote su kasdieniais darbais, ir jums dar lieka šiek tiek energijos. Toliau tai palaikykite reguliariu miegu, judėjimu ir pertraukomis. Nuovargis po įtemptos dienos yra normalus; nerimą jis turėtų kelti daugiausia tada, kai poilsis nebepadeda. Stebėkite savo savijautą įtemptais ar stresiniais laikotarpiais.",
-      "mid": "Jūsų atsakymai rodo, kad nuovargis ar menka motyvacija trukdė nemažai dienų. Kasdieniai darbai gali atrodyti sunkesni nei įprastai. Stenkitės išlaikyti bazinį ritmą su reguliariu maitinimusi, šiek tiek dienos šviesos ir lengvo judėjimo – tai dažnai padeda labiau nei papildomas poilsis. Skaidykite užduotis į mažus žingsnius. Jei nuovargis užsitęsia ar stiprėja, verta pasitarti su gydytoju.",
+      "mid": "Jūsų atsakymai rodo, kad nuovargis ar menka motyvacija trukdė nemažai dienų. Kasdieniai darbai gali atrodyti sunkesni nei įprastai. Stenkitės išlaikyti bazinį ritmą su reguliariu maitinimusi, šiek tiek dienos šviesos ir lengvo judėjimo, nes tai dažnai padeda labiau nei papildomas poilsis. Skaidykite užduotis į mažus žingsnius. Jei nuovargis užsitęsia ar stiprėja, verta pasitarti su gydytoju.",
       "high": "Jūsų atsakymai rodo, kad išsekimas ir menka motyvacija jus veikė daugumą dienų, todėl net paprastos užduotys tapo sunkios. Toks nuovargis gali būti depresijos dalis, tačiau gali turėti ir fizinių priežasčių, todėl prašome pasikalbėti su savo gydytoju ar kvalifikuotu specialistu. Jei jums kyla minčių pakenkti sau, nedelsdami kreipkitės į skubiosios pagalbos tarnybas arba krizių pagalbos liniją. Tuo tarpu būkite sau švelnūs: laikinai sumažinkite lūkesčius ir paprašykite kitų padėti su tuo, ko dabar nepajėgiate."
     },
     "sleep": {
@@ -143,7 +143,7 @@
       "high": "Jūsų atsakymai rodo, kad per pastarąsias dvi savaites dažnai jautėte bevertiškumą, kaltę ar buvote labai kritiški sau. Tokios griežtos mintys yra dažna depresijos dalis ir neatspindi jūsų tikrosios vertės. Prašome pasikalbėti su savo gydytoju ar kvalifikuotu psichikos sveikatos specialistu; terapija čia tikrai gali padėti. Jei jums kyla minčių pakenkti sau, nedelsdami kreipkitės į skubiosios pagalbos tarnybas arba krizių pagalbos liniją. Stenkitės leisti laiką su žmonėmis, kurie su jumis elgiasi geranoriškai."
     }
   },
-  "summary": "Ši ataskaita sujungia jūsų PHQ-9 balą – plačiai naudojamą atrankos įvertinimą – su penkiomis sritimis, parodančiomis, kas jus labiausiai paveikė per pastarąsias dvi savaites. Aukštesni balai reiškia dažnesnes problemas. Tai nėra diagnozė; jei jūsų balai padidėję, prašome pasikalbėti su gydytoju ar kvalifikuotu specialistu. Jei jums kyla minčių pakenkti sau, nedelsdami kreipkitės į skubiosios pagalbos tarnybas arba krizių pagalbos liniją.",
+  "summary": "Ši ataskaita sujungia jūsų PHQ-9 balą (plačiai naudojamą atrankos įvertinimą) su penkiomis sritimis, parodančiomis, kas jus labiausiai paveikė per pastarąsias dvi savaites. Aukštesni balai reiškia dažnesnes problemas. Tai nėra diagnozė; jei jūsų balai padidėję, prašome pasikalbėti su gydytoju ar kvalifikuotu specialistu. Jei jums kyla minčių pakenkti sau, nedelsdami kreipkitės į skubiosios pagalbos tarnybas arba krizių pagalbos liniją.",
   "instrument": {
     "name": "PHQ-9 balas",
     "description": "PHQ-9 yra plačiai naudojamas, viešai prieinamas depresijos atrankos klausimynas, kurį sukūrė dr. Kroenke, dr. Spitzer ir dr. Williams. Jūsų balas nuo 0 iki 27 parodo, kokie sunkūs gali būti jūsų simptomai, tačiau tai atrankos priemonė, o ne diagnozė.",

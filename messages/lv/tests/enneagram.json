@@ -2,7 +2,7 @@
   "name": "Enneagrammas tests",
   "tagline": "Atklāj galveno motivāciju, kas slēpjas aiz tā, kā tu domā un rīkojies.",
   "intro": "Enneagramma apraksta deviņus personības tipus, un katru no tiem vada atšķirīga pamatmotivācija un pamatbailes. Šis tests mēra, cik spēcīgi tu identificējies ar katru no deviņiem modeļiem, un izceļ to, kas tev atbilst vislabāk. Novērtē 100 īsus apgalvojumus; tas aizņem apmēram piecas minūtes.",
-  "seoTitle": "Enneagrammas tests – bezmaksas 9 tipu personības tests",
+  "seoTitle": "Enneagrammas tests: bezmaksas 9 tipu personības tests",
   "seoDescription": "Kurš no deviņiem Enneagrammas tipiem esi tu? Izpildi bezmaksas 5 minūšu testu, redzi savus rezultātus visos deviņos tipos un saņem izaugsmes padomus.",
   "items": [
     "Man ir spēcīga iekšējā balss, kas saka, kas ir pareizi.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "1. tips – Perfekcionists",
+      "name": "1. tips: Perfekcionists",
       "short": "Vada vēlme būt labam, pareizam un uzlabot pasauli; baidās kļūdīties vai būt nepilnīgs.",
       "low": "Perfekcionista modelim tavā dzīvē ir tikai neliela loma. Tu esi nepiespiests attiecībā pret noteikumiem un kļūdām, un tev nav spēcīga iekšējā kritiķa, kas spiestu visu izdarīt pareizi. Tas ļauj tev plūst līdzi un viegli piedot. Padoms: jomās, kur kvalitāte tiešām ir svarīga, piemēram, veselībā vai finansēs, tev var noderēt nedaudz vairāk struktūras un uzmanības detaļām. Pārbaudi, vai nepiespiestība reizēm nenozīmē svarīgu standartu palaišanu vaļā.",
       "mid": "Tu sevī atpazīsti dažas Perfekcionista iezīmes. Tev rūp darīt lietas kārtīgi, un tu vari būt paškritisks, taču zini arī, kad pietiek ar pietiekami labi. Tava izpratne par pareizo un nepareizo tevi vada, bet nedominē. Padoms: pamani, kad tavs iekšējais kritiķis kļūst skaļāks, bieži stresā, un atbildi tam laipni. Apzināti izvēlies, kur augsti standarti dod vērtību un kur elastība atvieglo dzīvi.",
       "high": "Perfekcionista modelis tevī ir spēcīgs. Tu esi principiāls, apzinīgs un tiecies uzlabot sevi un pasauli. Tavas pamatbailes ir būt nepareizam, sliktam vai nepilnīgam, tāpēc stingrs iekšējais kritiķis bieži tevi tur grožos. Tu ienes godaprātu un kvalitāti visā, ko dari. Padoms: trenējies pieņemt nepilnību gan sevī, gan citos; kļūdas ir daļa no mācīšanās. Atļauj sev baudu un rotaļu, tās vispirms nenopelnot. Izaugsme nāk, kad uzticies, ka jau esi pietiekami labs."
     },
     "type2": {
-      "name": "2. tips – Palīgs",
+      "name": "2. tips: Palīgs",
       "short": "Vada vēlme būt mīlētam un vajadzīgam; baidās būt nevēlams vai mīlestības necienīgs.",
       "low": "Palīga modelim tavā dzīvē ir maza loma. Tu neveido savu identitāti ap to, ka esi vajadzīgs, un tev ir ērti koncentrēties uz savu dzīvi. Tas pasargā tevi no pārmērīgas došanas. Padoms: parūpējies, lai tuvi cilvēki joprojām justu tavas rūpes; nelieli žesti, piemēram, painteresēties, kā viņiem klājas, vai piedāvāt palīdzību nelūgtam, uztur attiecības siltas. Pamani, kad neatkarība pārvēršas distancē.",
       "mid": "Tu sevī atpazīsti dažas Palīga iezīmes. Tev patīk atbalstīt citus un patīk, ka tevi novērtē, taču vajadzības gadījumā tu vari likt sevi pirmajā vietā. Tavs siltums ir līdzsvarots ar cieņu pret sevi. Padoms: pamani, vai reizēm nepalīdzi, lai patiktu, nevis tāpēc, ka gribi. Trenējies tieši lūgt to, kas tev vajadzīgs, nevis cerēt, ka citi pamanīs. Cilvēki, kuriem tu rūpi, parasti priecājas par iespēju kaut ko dot pretī.",
       "high": "Palīga modelis tevī ir spēcīgs. Tu esi sirsnīgs, dāsns un uzmanīgs pret to, kas citiem vajadzīgs, un visvērtīgāk jūties, kad palīdzi. Tavas pamatbailes ir būt nemīlētam vai nevēlamam. Cilvēki tevi uztver kā gādīgu un atbalstošu. Padoms: tavas vajadzības ir tikpat pamatotas kā jebkura cita vajadzības, tāpēc nosauc tās atklāti. Palīdzi tāpēc, ka izvēlies, nevis lai nodrošinātu sev mīlestību. Izaugsme nāk, kad ļauj arī citiem rūpēties par tevi un uzticies, ka esi mīlestības vērts, arī neko nedodot."
     },
     "type3": {
-      "name": "3. tips – Sasniedzējs",
+      "name": "3. tips: Sasniedzējs",
       "short": "Vada vēlme gūt panākumus un apbrīnu; baidās būt bezvērtīgs vai neveiksminieks.",
       "low": "Sasniedzēja modelim tavā dzīvē ir tikai neliela loma. Statuss, tēls un ārēji panākumi nav tavi galvenie dzinuļi, un savu vērtību tu nemēri pēc sasniegtā. Tas tevi atbrīvo no salīdzināšanas. Padoms: ja tev ir mērķi, kas tev rūp, nedaudz ambīciju un redzams progress var palīdzēt tos sasniegt. Ļauj citiem redzēt savus sasniegumus; pieticība nedrīkst slēpt tavas stiprās puses.",
       "mid": "Tu sevī atpazīsti dažas Sasniedzēja iezīmes. Tev patīk labi veikties un patīk atzinība, taču tava pašvērtība nav pilnībā atkarīga no panākumiem. Tu vari smagi strādāt mērķu labā un tomēr baudīt atpūtu. Padoms: pārbaudi, vai mērķi, pēc kuriem tiecies, patiešām ir tavi, vai arī tie ir citu gaidas. Atzīmē sasniegumus un tad atvēli laiku arī dzīvei ārpus snieguma, kopā ar cilvēkiem, kuriem patīc neatkarīgi no rezultātiem.",
       "high": "Sasniedzēja modelis tevī ir spēcīgs. Tu esi ambiciozs, efektīvs un vērsts uz panākumiem, un proti sevi labi parādīt. Tavas pamatbailes ir būt bezvērtīgam bez saviem sasniegumiem. Tu motivē citus un paveic lietas. Padoms: pamani, kad pielāgo savu tēlu, lai izpatiktu citiem, vai strādā, lai izvairītos no tukšuma sajūtas. Pavadi laiku nodarbēs bez jebkāda mērķa. Izaugsme nāk, kad novērtē sevi par to, kas tu esi, nevis par to, ko sasniedz."
     },
     "type4": {
-      "name": "4. tips – Individuālists",
+      "name": "4. tips: Individuālists",
       "short": "Vada vēlme būt unikālam un autentiskam; baidās palikt bez identitātes vai nozīmes.",
       "low": "Individuālista modelim tavā dzīvē ir maza loma. Tu nejūti spēcīgu vajadzību atšķirties vai padziļināti izpētīt katru emociju, un tev ir ērti iederēties. Tas tevi tur pie zemes un padara praktisku. Padoms: atvēli nedaudz vietas pašizpausmei, piemēram, radošam vaļaspriekam vai godīgām sarunām par jūtām. Izpētot, kas tevi padara unikālu, tava dzīve var kļūt bagātāka.",
       "mid": "Tu sevī atpazīsti dažas Individuālista iezīmes. Tu novērtē autentiskumu un tev ir bagāta iekšējā pasaule, taču tu nejūties pamatā atšķirīgs no citiem. Tu vari paust emocijas un tomēr saglabāt perspektīvu. Padoms: izmanto savu jutīgumu radoši, piemēram, rakstot vai mākslā. Kad jūties pārprasts, pārbaudi, vai patiešām esi pastāstījis, ko jūti. Citiem bieži rūp vairāk, nekā gaidi, tiklīdz viņi saprot tavu iekšējo pasauli.",
       "high": "Individuālista modelis tevī ir spēcīgs. Tu esi jutīgs, izteiksmīgs un dziļi saskarē ar savām emocijām, un tu ilgojies būt autentisks un saprasts. Tavas pamatbailes ir palikt bez īstas identitātes vai nozīmes. Tu ienes dziļumu, radošumu un godīgumu par jūtām. Padoms: pamani, kad koncentrējies uz to, kā trūkst, nevis uz to, kas tev ir. Pateicības prakses un praktiska rutīna var stabilizēt tavu garastāvokli. Izaugsme nāk, kad saproti, ka arī ikdienišķi brīži un saites var būt jēgpilni."
     },
     "type5": {
-      "name": "5. tips – Pētnieks",
+      "name": "5. tips: Pētnieks",
       "short": "Vada vēlme saprast un būt kompetentam; baidās būt bezpalīdzīgs vai pārslogots.",
       "low": "Pētnieka modelim tavā dzīvē ir tikai neliela loma. Tu nejūti spēcīgu vajadzību atkāpties un analizēt pirms rīcības, un tu viegli dalies savā laikā un enerģijā. Tas tevi padara pieejamu un iesaistītu. Padoms: saskaroties ar sarežģītiem lēmumiem, pirms ienirt, atvēli sev nedaudz klusa izpētes laika. Padziļinot zināšanas vienā jomā, kas tev rūp, vari vairot pārliecību un kompetenci.",
       "mid": "Tu sevī atpazīsti dažas Pētnieka iezīmes. Tev patīk mācīties, un tev vajag nedaudz laika sev, taču tu vari arī aktīvi iesaistīties ar cilvēkiem un pasauli. Tu novērtē zināšanas, neslēpjoties aiz tām. Padoms: pamani, kad atkāpies, lai vērotu, nevis piedalītos, īpaši attiecībās. Dalīšanās savās zināšanās, pat pirms jūties pilnībā gatavs, var būt gandarījuma pilna un bieži nes noderīgu atgriezenisko saiti un saikni.",
       "high": "Pētnieka modelis tevī ir spēcīgs. Tu esi ziņkārīgs, uztverīgs un neatkarīgs, un vēlies pasauli izprast padziļināti. Tavas pamatbailes ir būt bezpalīdzīgam, nespējīgam vai citu prasību iztukšotam, tāpēc tu rūpīgi sargā savu laiku un enerģiju. Tu ienes ieskatu un kompetenci. Padoms: pamani, kad zināšanu vākšana kļūst par veidu, kā izvairīties no rīcības vai jūtām. Sper mazus soļus, pirms jūties pilnībā sagatavots. Izaugsme nāk, kad uzticies, ka tev pietiek, lai pilnībā iesaistītos dzīvē un attiecībās ar cilvēkiem."
     },
     "type6": {
-      "name": "6. tips – Lojālais",
+      "name": "6. tips: Lojālais",
       "short": "Vada vēlme pēc drošības un atbalsta; baidās palikt bez vadības vai drošības.",
       "low": "Lojālā modelim tavā dzīvē ir maza loma. Tu daudz neraizējies par to, kas varētu noiet greizi, un jūties drošs bez spēcīgas vadības vai apliecinājumiem. Tas ļauj tev rīkoties drosmīgi. Padoms: pirms lieliem lēmumiem apzināti apsver iespējamos riskus vai pajautā viedokli kādam piesardzīgākam. Arī lojalitāte un sagatavotība var būt vērts attīstāmas stiprās puses, īpaši komandās, kas paļaujas, ka tu domāsi uz priekšu.",
       "mid": "Tu sevī atpazīsti dažas Lojālā iezīmes. Tu novērtē drošību un uzticamas attiecības un spēj pamanīt riskus, taču tavas šaubas parasti tevi nebremzē. Tu līdzsvaro piesardzību ar pārliecību. Padoms: kad raizes sāk augt, nošķir reālus riskus no scenārijiem 'kas būtu, ja'. Biežāk uzticies savam spriedumam, nevis meklē apliecinājumu. Katru reizi, kad pēc tā rīkojies, aug tava uzticība savam iekšējam kompasam.",
       "high": "Lojālā modelis tevī ir spēcīgs. Tu esi lojāls, atbildīgs un modrs pret riskiem, un ļoti novērtē uzticību un drošību. Tavas pamatbailes ir palikt bez atbalsta vai vadības bīstamā pasaulē. Tu esi uzticams komandas biedrs, kas gatavojas problēmām, kuras citi nepamana. Padoms: pamani, kad trauksme liek tev pārplānot vai šaubīties par visiem, ieskaitot sevi. Trenējies rīkoties pēc sava sprieduma mazos soļos. Izaugsme nāk, kad atklāj iekšējo drošību, ko esi meklējis ārpus sevis."
     },
     "type7": {
-      "name": "7. tips – Entuziasts",
+      "name": "7. tips: Entuziasts",
       "short": "Vada vēlme pēc brīvības un prieka; baidās palikt iesprostots sāpēs vai trūkumā.",
       "low": "Entuziasta modelim tavā dzīvē ir tikai neliela loma. Tu nemitīgi nemeklē jaunu pieredzi un spēj palikt pie vienas lietas, pat ja tā nav aizraujoša. Tas tev dod fokusu un dziļumu. Padoms: laiku pa laikam atļauj sev nedaudz spontanitātes, piemēram, īsu izbraucienu vai jaunu vaļasprieku. Mazliet rotaļības var atsvaidzināt tavu enerģiju un attiecības.",
       "mid": "Tu sevī atpazīsti dažas Entuziasta iezīmes. Tev patīk jautrība, daudzveidība un jauni plāni, taču tu vari arī apņemties un palikt kopā ar grūtām sajūtām. Tu līdzsvaro optimismu ar reālismu un vari baudīt gan piedzīvojumus, gan mieru. Padoms: pamani, kad ķeries pie izklaides, lai izvairītos no kaut kā nepatīkama. Pabeidzot vienu projektu, pirms sāc nākamo, tavs entuziasms atmaksāsies un sniegs dziļāku pabeigšanas gandarījumu.",
       "high": "Entuziasta modelis tevī ir spēcīgs. Tu esi optimistisks, piedzīvojumu kārs un ideju pilns, un tev ļoti patīk atstāt iespējas vaļā. Tavas pamatbailes ir palikt iesprostotam sāpēs, garlaicībā vai ierobežojumos, tāpēc tu bieži ātri pārej pie nākamās aizraujošās lietas. Visur, kur dodies, tu ienes enerģiju un prieku. Padoms: trenējies palikt kopā ar grūtām emocijām, nevis no tām bēgt. Izvēlies dažas saistības un noved tās līdz galam. Izaugsme nāk, kad atrodi gandarījumu dziļumā, ne tikai daudzveidībā."
     },
     "type8": {
-      "name": "8. tips – Izaicinātājs",
+      "name": "8. tips: Izaicinātājs",
       "short": "Vada vēlme būt stipram un kontrolēt; baidās tikt kontrolēts vai būt ievainojams.",
       "low": "Izaicinātāja modelim tavā dzīvē ir maza loma. Tev nav jāpārņem kontrole vai jāpierāda savs spēks, un tu reti meklē konfrontāciju. Tas tevi padara par vieglu sadarbības partneri. Padoms: situācijās, kad pret tevi vai citiem izturas netaisnīgi, trenējies stingri izteikties. Sevis apliecināšana nav agresija; tā ir svarīgā aizsargāšana. Sāc ar nelielām situācijām, piemēram, sanāksmē skaidri paužot savu izvēli.",
       "mid": "Tu sevī atpazīsti dažas Izaicinātāja iezīmes. Tu vari būt tiešs un sargājošs un vajadzības gadījumā uzņemies vadību, taču tev nav jādominē. Tu parādi spēku, nezaudējot jutīgumu. Padoms: pamani, kad spied stipri, lai izvairītos no ievainojamības sajūtas. Ļaujot cilvēkiem redzēt tavu maigāko pusi, uzticēšanās var padziļināties. Pajautā citiem, kā viņi uztver tavu tiešumu; viņu atbildes var palīdzēt tev izmantot savu spēku gudrāk.",
       "high": "Izaicinātāja modelis tevī ir spēcīgs. Tu esi pārliecināts, tiešs un sargājošs, un dabiski uzņemies vadību. Tavas pamatbailes ir tikt kontrolētam, ievainotam vai būt neaizsargātam, tāpēc tu novērtē spēku un neatkarību. Tu iestājies par sevi un citiem un nebaidies no konflikta. Padoms: tava intensitāte var nomākt cilvēkus, tāpēc pieklusini skaļumu un pirms rīcības pilnībā ieklausies. Trenējies parādīt ievainojamību cilvēkiem, kuriem uzticies. Izaugsme nāk, kad saproti, ka atvērtība un maigums arī ir spēka formas."
     },
     "type9": {
-      "name": "9. tips – Miera nesējs",
+      "name": "9. tips: Miera nesējs",
       "short": "Vada vēlme pēc iekšēja un ārēja miera; baidās no konflikta un saiknes zuduma.",
       "low": "Miera nesēja modelim tavā dzīvē ir tikai neliela loma. Tu nekautrējies no konflikta un labprāt iestājies par savām prioritātēm. Tas tevi uztur aktīvu un skaidru par to, ko vēlies. Padoms: kad spriedze pieaug, trenējies uzklausīt visas puses, pirms virzi savu viedokli. Pa laikam mierīgāks temps var palīdzēt saskatīt kopainu.",
       "mid": "Tu sevī atpazīsti dažas Miera nesēja iezīmes. Tu novērtē harmoniju un spēj saskatīt dažādus skatpunktus, taču izsakies, kad kaut kas tev ir svarīgs. Tu līdzsvaro mieru ar iesaisti. Padoms: pamani, kad piekāpies citiem, lai izvairītos no berzes. Pasakot, ko vēlies, pat sīkumos, tavas attiecības paliek godīgas un nekrājas kluss aizvainojums. Tavs skatījums dod kaut ko, ko citi nevar dot.",

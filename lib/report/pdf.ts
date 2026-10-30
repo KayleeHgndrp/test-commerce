@@ -14,7 +14,7 @@ const TRACK = "#ebe8e1";
 // Renders the paid report as an A4 PDF (attached to the report email).
 export function renderReportPdf(report: Report, testName: string): Promise<Buffer> {
   const { ui, text, vars, headline, instrument, sections, crisis } = report;
-  const doc = new PDFDocument({ size: "A4", margin: 50, info: { Title: `${testName} – ${site.name}`, Author: site.name } });
+  const doc = new PDFDocument({ size: "A4", margin: 50, info: { Title: `${testName} | ${site.name}`, Author: site.name } });
   doc.registerFont("regular", path.join(fontDir, "NotoSans-Regular.ttf"));
   doc.registerFont("bold", path.join(fontDir, "NotoSans-Bold.ttf"));
 

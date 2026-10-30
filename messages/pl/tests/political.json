@@ -1,8 +1,8 @@
 {
   "name": "Test poglądów politycznych",
   "tagline": "Sprawdź, gdzie stoisz na osi gospodarczej i społecznej.",
-  "intro": "Polityka to coś więcej niż lewica i prawica. Ten test umieszcza twoje poglądy na dwóch niezależnych osiach: gospodarczej, od państwa do wolnego rynku, oraz społecznej, od wolności osobistej po porządek i tradycję. Oceń 100 krótkich stwierdzeń dotyczących polityki – nie ma odpowiedzi dobrych ani złych. W około pięć minut zobaczysz, gdzie stoisz i które ogólne stanowisko polityczne najlepiej do ciebie pasuje.",
-  "seoTitle": "Test poglądów politycznych – poznaj swoje stanowisko",
+  "intro": "Polityka to coś więcej niż lewica i prawica. Ten test umieszcza twoje poglądy na dwóch niezależnych osiach: gospodarczej, od państwa do wolnego rynku, oraz społecznej, od wolności osobistej po porządek i tradycję. Oceń 100 krótkich stwierdzeń dotyczących polityki, nie ma odpowiedzi dobrych ani złych. W około pięć minut zobaczysz, gdzie stoisz i które ogólne stanowisko polityczne najlepiej do ciebie pasuje.",
+  "seoTitle": "Test poglądów politycznych: poznaj swoje stanowisko",
   "seoDescription": "Gdzie stoisz politycznie? Zrób bezpłatny 5-minutowy test poglądów gospodarczych i społecznych i zobacz swoje miejsce na dwuosiowej mapie politycznej.",
   "items": [
     "Uważam, że niższe podatki są generalnie korzystne dla gospodarki.",
@@ -134,7 +134,7 @@
     },
     "right_libertarian": {
       "name": "Prawica wolnościowa",
-      "text": "Twoje odpowiedzi łączą prorynkowe poglądy gospodarcze z silnym naciskiem na wolność osobistą. Prawdopodobnie opowiadasz się za wolną przedsiębiorczością, niższymi podatkami i ograniczonym państwem – zarówno w gospodarce, jak i w życiu prywatnym. Odpowiedzialność indywidualna, wolność wyboru i samodzielność są dla ciebie zapewne kluczowymi wartościami. W Europie takie połączenie często kojarzy się z myślą klasycznie liberalną. Zwolennicy widzą w nim najbardziej spójną obronę wolności i dobrobytu; krytycy kwestionują to, jak radzi sobie z nierównościami i wspólnymi potrzebami publicznymi. Jak każde stanowisko, wiąże się z kompromisami, które warto zgłębiać z otwartym umysłem."
+      "text": "Twoje odpowiedzi łączą prorynkowe poglądy gospodarcze z silnym naciskiem na wolność osobistą. Prawdopodobnie opowiadasz się za wolną przedsiębiorczością, niższymi podatkami i ograniczonym państwem, zarówno w gospodarce, jak i w życiu prywatnym. Odpowiedzialność indywidualna, wolność wyboru i samodzielność są dla ciebie zapewne kluczowymi wartościami. W Europie takie połączenie często kojarzy się z myślą klasycznie liberalną. Zwolennicy widzą w nim najbardziej spójną obronę wolności i dobrobytu; krytycy kwestionują to, jak radzi sobie z nierównościami i wspólnymi potrzebami publicznymi. Jak każde stanowisko, wiąże się z kompromisami, które warto zgłębiać z otwartym umysłem."
     },
     "right_authoritarian": {
       "name": "Prawica konserwatywna",

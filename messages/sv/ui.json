@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Gratis psykologiska tester online",
-    "description": "Djupgående tester om personlighet, relationer, arbete och välmående – grundade i etablerad psykologisk forskning och förklarade på begriplig svenska."
+    "title": "{site}: Gratis psykologiska tester online",
+    "description": "Djupgående tester om personlighet, relationer, arbete och välmående, grundade i etablerad psykologisk forskning och förklarade på begriplig svenska."
   },
   "nav": {
     "tests": "Tester",
@@ -14,13 +14,13 @@
     "badge": "{count} tester · {languages} språk",
     "heroTitle": "Testerna som avslöjar din",
     "heroHighlight": "personlighet",
-    "heroSubtitle": "Djupgående tester om personlighet, relationer och välmående – alla grundade i etablerad psykologisk forskning och förklarade på ett så enkelt språk att du faktiskt läser till slutet.",
+    "heroSubtitle": "Djupgående tester om personlighet, relationer och välmående, alla grundade i etablerad psykologisk forskning och förklarade på ett så enkelt språk att du faktiskt läser till slutet.",
     "heroCta": "Utforska våra tester",
     "heroSecondary": "Så fungerar det",
     "trust1": "Inget konto behövs",
     "trust2": "Engångsbetalning, ingen prenumeration",
     "trust3": "Rapporten direkt till din inkorg",
-    "dimensionsTitle": "Du är mer än en siffra – se alla dina sidor.",
+    "dimensionsTitle": "Du är mer än en siffra. Se alla dina sidor.",
     "dimensionsSubtitle": "De områden våra tester oftast mäter, från personlighet till relationer och välmående.",
     "dimensions": [
       "🎯 Fokus",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Är testet ”{test}” gratis?",
-        "a": "Ja, det är gratis att göra testet. Vill du ha din fullständiga personliga rapport med alla resultat och förklaringar kan du beställa den för {price}, som en engångsbetalning – ingen prenumeration."
+        "a": "Ja, det är gratis att göra testet. Vill du ha din fullständiga personliga rapport med alla resultat och förklaringar kan du beställa den för {price}, som en engångsbetalning, ingen prenumeration."
       },
       {
         "q": "Hur tillförlitligt är testet ”{test}”?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Om {site}",
-    "intro": "Vi tycker att alla förtjänar en tydlig och ärlig bild av vem de är – utan fackjargong, utan prenumerationer och utan en etikett på fyra bokstäver som inte förklarar någonting.",
+    "intro": "Vi tycker att alla förtjänar en tydlig och ärlig bild av vem de är, utan fackjargong, utan prenumerationer och utan en etikett på fyra bokstäver som inte förklarar någonting.",
     "missionTitle": "Vårt uppdrag",
     "mission": "Psykologin har tagit fram kraftfulla sätt att beskriva personlighet, relationer och välmående, men det mesta av den kunskapen är inlåst i läroböcker eller dyra bedömningar. {site} gör den tillgänglig: djupgående tester som alla kan göra gratis på sitt eget språk, med en personlig rapport som förklarar dina resultat med enkla ord och ger dig praktiska nästa steg.",
     "howTitle": "Så bygger vi våra tester",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Skrivna för att läsas",
-        "text": "Våra rapporter förklarar vad varje resultat betyder, var det kommer ifrån och vad du kan göra med det. Ingen jargong och inget luddigt horoskopspråk – bara tydliga, praktiska insikter."
+        "text": "Våra rapporter förklarar vad varje resultat betyder, var det kommer ifrån och vad du kan göra med det. Ingen jargong och inget luddigt horoskopspråk. Bara tydliga, praktiska insikter."
       }
     ],
     "valuesTitle": "Det här kan du lita på",

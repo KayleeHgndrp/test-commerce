@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Gratis psykologiske tester på nett",
-    "description": "Grundige tester om personlighet, relasjoner, arbeid og trivsel – basert på psykologisk forskning og forklart på et klart språk."
+    "title": "{site}: Gratis psykologiske tester på nett",
+    "description": "Grundige tester om personlighet, relasjoner, arbeid og trivsel, basert på psykologisk forskning og forklart på et klart språk."
   },
   "nav": {
     "tests": "Tester",
@@ -14,13 +14,13 @@
     "badge": "{count} tester · {languages} språk",
     "heroTitle": "Testene som avslører din",
     "heroHighlight": "personlighet",
-    "heroSubtitle": "Grundige tester om personlighet, relasjoner og trivsel – hver av dem bygger på anerkjent psykologisk forskning og er forklart på et klart språk du faktisk leser til slutt.",
+    "heroSubtitle": "Grundige tester om personlighet, relasjoner og trivsel, hver av dem bygger på anerkjent psykologisk forskning og er forklart på et klart språk du faktisk leser til slutt.",
     "heroCta": "Utforsk testene våre",
     "heroSecondary": "Slik fungerer det",
     "trust1": "Ingen konto nødvendig",
     "trust2": "Engangsbetaling, ingen abonnement",
     "trust3": "Rapporten rett i innboksen",
-    "dimensionsTitle": "Du er mer enn én poengsum – se alle sidene dine.",
+    "dimensionsTitle": "Du er mer enn én poengsum. Se alle sidene dine.",
     "dimensionsSubtitle": "Områdene testene våre oftest måler, innen personlighet, relasjoner og trivsel.",
     "dimensions": [
       "🎯 Fokus",
@@ -47,7 +47,7 @@
       },
       {
         "title": "Les rapporten din",
-        "text": "Få en personlig rapport med poengsummene dine, hva de betyr og praktiske tips – rett i innboksen."
+        "text": "Få en personlig rapport med poengsummene dine, hva de betyr og praktiske tips, rett i innboksen."
       }
     ],
     "pricingTitle": "Enkle priser",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Er {test} gratis?",
-        "a": "Ja, det er gratis å ta testen. Vil du ha den fullstendige personlige rapporten med alle poengsummer og forklaringer, kan du bestille den for {price}, betalt én gang – uten abonnement."
+        "a": "Ja, det er gratis å ta testen. Vil du ha den fullstendige personlige rapporten med alle poengsummer og forklaringer, kan du bestille den for {price}, betalt én gang, uten abonnement."
       },
       {
         "q": "Hvor pålitelig er {test}?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Om {site}",
-    "intro": "Vi mener at alle fortjener et klart og ærlig blikk på hvem de er – uten faguttrykk, uten abonnement og uten en merkelapp på fire bokstaver som ikke forklarer noe.",
+    "intro": "Vi mener at alle fortjener et klart og ærlig blikk på hvem de er, uten faguttrykk, uten abonnement og uten en merkelapp på fire bokstaver som ikke forklarer noe.",
     "missionTitle": "Vårt oppdrag",
     "mission": "Psykologien har utviklet kraftfulle måter å beskrive personlighet, relasjoner og trivsel på, men mesteparten av denne kunnskapen er låst inne i lærebøker eller dyre utredninger. {site} gjør den tilgjengelig: grundige tester alle kan ta gratis, på sitt eget språk, med en personlig rapport som forklarer resultatene dine med enkle ord og gir deg praktiske neste steg.",
     "howTitle": "Slik lager vi testene våre",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Skrevet for å bli lest",
-        "text": "Rapportene våre forklarer hva hver poengsum betyr, hvor den kommer fra og hva du kan gjøre med den. Ingen faguttrykk og ikke noe vagt horoskopspråk – bare klar, praktisk innsikt."
+        "text": "Rapportene våre forklarer hva hver poengsum betyr, hvor den kommer fra og hva du kan gjøre med den. Ingen faguttrykk og ikke noe vagt horoskopspråk. Bare klar, praktisk innsikt."
       }
     ],
     "valuesTitle": "Dette kan du stole på",

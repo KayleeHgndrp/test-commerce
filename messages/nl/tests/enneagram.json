@@ -2,7 +2,7 @@
   "name": "Enneagramtest",
   "tagline": "Ontdek de kernmotivatie achter hoe je denkt en handelt.",
   "intro": "Het enneagram beschrijft negen persoonlijkheidstypen, elk gedreven door een andere kernmotivatie en kernangst. Deze test meet hoe sterk je je herkent in elk van de negen patronen en laat zien welk patroon het best bij je past. Beoordeel 100 korte uitspraken; het kost ongeveer vijf minuten.",
-  "seoTitle": "Enneagramtest – Gratis test met 9 persoonlijkheidstypen",
+  "seoTitle": "Enneagramtest: Gratis test met 9 persoonlijkheidstypen",
   "seoDescription": "Welk van de negen enneagramtypen ben jij? Doe deze gratis test van 5 minuten, bekijk je scores op alle negen typen en krijg groeitips voor je hoofdtype.",
   "items": [
     "Ik heb een sterke innerlijke stem die me vertelt wat juist is.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Type 1 – De Perfectionist",
+      "name": "Type 1: De Perfectionist",
       "short": "Gedreven door de wens om goed en correct te zijn en de wereld te verbeteren; bang om fout of gebrekkig te zijn.",
       "low": "Het patroon van de Perfectionist speelt maar een kleine rol bij jou. Je gaat ontspannen om met regels en fouten en voelt geen sterke innerlijke criticus die je dwingt alles goed te doen. Daardoor kun je met de stroom meegaan en makkelijk vergeven. Tip: op gebieden waar kwaliteit er echt toe doet, zoals gezondheid of financiën, kan wat meer structuur en aandacht voor detail je helpen. Check of ontspannen soms betekent dat je belangrijke normen laat verslappen.",
       "mid": "Je herkent een aantal trekken van de Perfectionist. Je vindt het belangrijk om dingen goed te doen en kunt zelfkritisch zijn, maar je weet ook wanneer goed genoeg prima is. Je gevoel voor goed en fout stuurt je zonder je te overheersen. Tip: merk op wanneer je innerlijke criticus luider wordt, vaak onder stress, en antwoord vriendelijk. Kies bewust waar hoge normen iets toevoegen en waar flexibiliteit het leven makkelijker maakt.",
       "high": "Het patroon van de Perfectionist is sterk in je. Je bent principieel, plichtsgetrouw en gedreven om jezelf en de wereld te verbeteren. Je kernangst is fout, slecht of gebrekkig zijn, dus een strenge innerlijke criticus houdt je vaak in het gareel. Je brengt integriteit en kwaliteit in alles wat je doet. Tip: oefen met het accepteren van onvolkomenheid, bij jezelf en bij anderen; fouten horen bij leren. Gun jezelf plezier en spel zonder dat eerst te hoeven verdienen. Groei ontstaat als je erop vertrouwt dat je al goed genoeg bent."
     },
     "type2": {
-      "name": "Type 2 – De Helper",
+      "name": "Type 2: De Helper",
       "short": "Gedreven door de wens om geliefd en nodig te zijn; bang om ongewenst of liefde onwaardig te zijn.",
       "low": "Het patroon van de Helper speelt een kleine rol bij jou. Je bouwt je identiteit niet op rond nodig zijn en voelt je prima als je je op je eigen leven richt. Dat beschermt je tegen te veel geven. Tip: zorg dat de mensen dicht bij je je zorg nog steeds voelen; kleine gebaren, zoals even vragen hoe het gaat of ongevraagd hulp aanbieden, houden relaties warm. Let op wanneer onafhankelijkheid omslaat in afstand.",
       "mid": "Je herkent een aantal trekken van de Helper. Je steunt anderen graag en vindt het fijn om gewaardeerd te worden, maar je kunt ook jezelf op de eerste plaats zetten als dat nodig is. Je warmte is in balans met zelfrespect. Tip: let op of je soms helpt om aardig gevonden te worden in plaats van omdat je het wilt. Oefen met direct vragen wat je nodig hebt, in plaats van te hopen dat anderen het opmerken. Mensen die om je geven, grijpen meestal graag de kans aan om iets terug te doen.",
       "high": "Het patroon van de Helper is sterk in je. Je bent warm, gul en attent op wat anderen nodig hebben, en je voelt je het meest waardevol als je helpt. Je kernangst is niet geliefd of ongewenst zijn. Mensen ervaren je als zorgzaam en steunend. Tip: je eigen behoeften zijn net zo legitiem als die van ieder ander, dus benoem ze openlijk. Help omdat je ervoor kiest, niet om liefde veilig te stellen. Groei ontstaat als je anderen ook voor jou laat zorgen en erop vertrouwt dat je liefde waard bent zonder te geven."
     },
     "type3": {
-      "name": "Type 3 – De Presteerder",
+      "name": "Type 3: De Presteerder",
       "short": "Gedreven door de wens om succesvol te zijn en bewonderd te worden; bang om waardeloos te zijn of te falen.",
       "low": "Het patroon van de Presteerder speelt maar een kleine rol bij jou. Status, imago en uiterlijk succes zijn niet je belangrijkste drijfveren, en je meet je eigenwaarde niet af aan wat je bereikt. Dat geeft je vrijheid van vergelijken. Tip: als je doelen hebt die je belangrijk vindt, kan een beetje ambitie en zichtbare vooruitgang je helpen ze te bereiken. Laat anderen je prestaties zien; bescheidenheid hoeft je sterke kanten niet te verbergen.",
       "mid": "Je herkent een aantal trekken van de Presteerder. Je wilt het graag goed doen en geniet van erkenning, maar je gevoel van eigenwaarde hangt niet helemaal af van succes. Je kunt hard werken aan doelen en toch genieten van vrije tijd. Tip: check of de doelen die je nastreeft echt van jou zijn of wat anderen van je verwachten. Vier je successen, en neem daarna ook tijd om van het leven te genieten buiten het presteren, met mensen die je waarderen ongeacht je resultaten.",
       "high": "Het patroon van de Presteerder is sterk in je. Je bent ambitieus, efficiënt en gericht op succes, en je weet jezelf goed te presenteren. Je kernangst is waardeloos zijn zonder je prestaties. Je motiveert anderen en krijgt dingen gedaan. Tip: let op wanneer je je imago aanpast om anderen te behagen of werkt om een leeg gevoel te vermijden. Besteed tijd aan activiteiten zonder enig doel. Groei ontstaat als je jezelf waardeert om wie je bent, niet om wat je bereikt."
     },
     "type4": {
-      "name": "Type 4 – De Individualist",
+      "name": "Type 4: De Individualist",
       "short": "Gedreven door de wens om uniek en authentiek te zijn; bang om geen identiteit of betekenis te hebben.",
       "low": "Het patroon van de Individualist speelt een kleine rol bij jou. Je voelt geen sterke behoefte om anders te zijn of elke emotie diepgaand te verkennen, en je voelt je prima als je erbij hoort. Dat houdt je met beide benen op de grond en praktisch. Tip: maak wat ruimte voor zelfexpressie, zoals een creatieve hobby of eerlijke gesprekken over gevoelens. Verkennen wat je uniek maakt, kan je leven rijker maken.",
       "mid": "Je herkent een aantal trekken van de Individualist. Je hecht aan authenticiteit en hebt een rijk innerlijk leven, maar je voelt je niet wezenlijk anders dan anderen. Je kunt emoties uiten en toch het overzicht houden. Tip: gebruik je gevoeligheid creatief, bijvoorbeeld door te schrijven of kunst te maken. Voel je je onbegrepen, check dan of je echt hebt gedeeld wat je voelt. Anderen geven vaak meer om je dan je verwacht zodra ze je binnenwereld begrijpen.",
       "high": "Het patroon van de Individualist is sterk in je. Je bent gevoelig, expressief en sterk in contact met je emoties, en je verlangt ernaar authentiek te zijn en begrepen te worden. Je kernangst is geen echte identiteit of betekenis hebben. Je brengt diepgang, creativiteit en eerlijkheid over gevoelens. Tip: let op wanneer je je richt op wat ontbreekt in plaats van op wat je hebt. Dankbaarheidsoefeningen en praktische routines kunnen je stemmingen stabiliseren. Groei ontstaat als je beseft dat gewone momenten en verbindingen ook betekenisvol kunnen zijn."
     },
     "type5": {
-      "name": "Type 5 – De Onderzoeker",
+      "name": "Type 5: De Onderzoeker",
       "short": "Gedreven door de wens om te begrijpen en bekwaam te zijn; bang om hulpeloos of overweldigd te zijn.",
       "low": "Het patroon van de Onderzoeker speelt maar een kleine rol bij jou. Je voelt geen sterke behoefte om je terug te trekken en te analyseren voordat je handelt, en je deelt je tijd en energie makkelijk. Dat maakt je benaderbaar en betrokken. Tip: gun jezelf bij complexe beslissingen wat rustige tijd om uit te zoeken voordat je erin duikt. Je kennis verdiepen op één gebied dat je belangrijk vindt, kan zelfvertrouwen en expertise opbouwen.",
       "mid": "Je herkent een aantal trekken van de Onderzoeker. Je leert graag en hebt wat tijd voor jezelf nodig, maar je kunt ook actief betrokken zijn bij mensen en de wereld. Je waardeert kennis zonder je erachter te verschuilen. Tip: let op wanneer je je terugtrekt om te observeren in plaats van mee te doen, vooral in relaties. Delen wat je weet, ook voordat je je helemaal klaar voelt, kan lonend zijn en levert vaak nuttige feedback en verbinding op.",
       "high": "Het patroon van de Onderzoeker is sterk in je. Je bent nieuwsgierig, scherpzinnig en onafhankelijk, en je wilt de wereld diepgaand begrijpen. Je kernangst is hulpeloos of onbekwaam zijn, of leeggezogen worden door de eisen van anderen, dus je bewaakt je tijd en energie zorgvuldig. Je brengt inzicht en expertise. Tip: let op wanneer kennis verzamelen een manier wordt om actie of gevoelens te vermijden. Zet kleine stappen voordat je je helemaal voorbereid voelt. Groei ontstaat als je erop vertrouwt dat je genoeg hebt om je volledig in te zetten voor het leven en voor mensen."
     },
     "type6": {
-      "name": "Type 6 – De Loyalist",
+      "name": "Type 6: De Loyalist",
       "short": "Gedreven door de wens naar veiligheid en steun; bang om zonder houvast of bescherming te zitten.",
       "low": "Het patroon van de Loyalist speelt een kleine rol bij jou. Je maakt je weinig zorgen over wat er mis kan gaan en voelt je veilig zonder sterke sturing of geruststelling. Daardoor kun je gedurfd handelen. Tip: sta voor grote beslissingen bewust stil bij mogelijke risico's of vraag iemand die voorzichtiger is om een mening. Loyaliteit en voorbereiding kunnen ook sterke punten zijn om te ontwikkelen, vooral in teams die erop rekenen dat jij vooruitdenkt.",
       "mid": "Je herkent een aantal trekken van de Loyalist. Je hecht aan veiligheid en vertrouwde relaties en ziet risico's, maar je twijfels houden je meestal niet tegen. Je balanceert tussen voorzichtigheid en zelfvertrouwen. Tip: als zorgen beginnen te groeien, scheid dan realistische risico's van wat-als-scenario's. Vertrouw vaker op je eigen oordeel in plaats van naar geruststelling te zoeken. Elke keer dat je ernaar handelt, groeit je vertrouwen in je eigen innerlijke kompas.",
       "high": "Het patroon van de Loyalist is sterk in je. Je bent loyaal, verantwoordelijk en alert op risico's, en je hecht veel waarde aan vertrouwen en veiligheid. Je kernangst is zonder steun of houvast te staan in een gevaarlijke wereld. Je bent een betrouwbaar teamlid dat zich voorbereidt op problemen die anderen over het hoofd zien. Tip: let op wanneer angst je ertoe brengt te veel te plannen of aan iedereen te twijfelen, ook aan jezelf. Oefen in kleine stappen met handelen op je eigen oordeel. Groei ontstaat als je de innerlijke zekerheid ontdekt die je buiten jezelf zocht."
     },
     "type7": {
-      "name": "Type 7 – De Avonturier",
+      "name": "Type 7: De Avonturier",
       "short": "Gedreven door de wens naar vrijheid en plezier; bang om vast te zitten in pijn of gemis.",
       "low": "Het patroon van de Avonturier speelt maar een kleine rol bij jou. Je zoekt niet voortdurend nieuwe ervaringen en kunt bij één ding blijven, ook als het niet spannend is. Dat geeft je focus en diepgang. Tip: gun jezelf af en toe wat spontaniteit, zoals een kort tripje of een nieuwe hobby. Een beetje speelsheid kan je energie en relaties opfrissen.",
       "mid": "Je herkent een aantal trekken van de Avonturier. Je houdt van plezier, afwisseling en nieuwe plannen, maar je kunt je ook binden en bij moeilijke gevoelens blijven. Je combineert optimisme met realisme en kunt genieten van zowel avontuur als rust. Tip: let op wanneer je naar afleiding grijpt om iets ongemakkelijks te vermijden. Eén project afmaken voordat je aan het volgende begint, laat je enthousiasme renderen en geeft je de diepere voldoening van iets afronden.",
       "high": "Het patroon van de Avonturier is sterk in je. Je bent optimistisch, avontuurlijk en zit vol ideeën, en je houdt je opties graag open. Je kernangst is vastzitten in pijn, verveling of beperking, dus je gaat vaak snel door naar het volgende spannende ding. Je brengt energie en plezier waar je ook komt. Tip: oefen met bij moeilijke emoties blijven in plaats van ervoor te vluchten. Kies een paar verplichtingen en maak ze af. Groei ontstaat als je voldoening vindt in diepgang, niet alleen in afwisseling."
     },
     "type8": {
-      "name": "Type 8 – De Uitdager",
+      "name": "Type 8: De Uitdager",
       "short": "Gedreven door de wens om sterk te zijn en controle te hebben; bang om gecontroleerd of kwetsbaar te zijn.",
       "low": "Het patroon van de Uitdager speelt een kleine rol bij jou. Je hoeft niet de controle te nemen of je kracht te bewijzen, en je zoekt zelden de confrontatie op. Dat maakt je makkelijk om mee samen te werken. Tip: oefen met stevig je mond opendoen in situaties waarin jij of anderen oneerlijk behandeld worden. Voor jezelf opkomen is geen agressie; het is beschermen wat ertoe doet. Begin met kleine situaties, zoals duidelijk een voorkeur uitspreken in een vergadering.",
       "mid": "Je herkent een aantal trekken van de Uitdager. Je kunt direct en beschermend zijn en neemt de leiding als dat nodig is, maar je hoeft niet te domineren. Je toont kracht zonder je gevoeligheid te verliezen. Tip: let op wanneer je hard doordrukt om je niet kwetsbaar te hoeven voelen. Mensen je zachtere kant laten zien kan het vertrouwen verdiepen. Vraag anderen hoe je directheid overkomt; hun antwoorden kunnen je helpen je kracht wijzer in te zetten.",
       "high": "Het patroon van de Uitdager is sterk in je. Je bent zelfverzekerd, direct en beschermend, en je neemt vanzelf de leiding. Je kernangst is gecontroleerd, beschadigd of kwetsbaar te zijn, dus je hecht aan kracht en onafhankelijkheid. Je komt op voor jezelf en anderen en bent niet bang voor conflict. Tip: je intensiteit kan mensen overweldigen, dus schroef je volume terug en luister volledig voordat je handelt. Oefen met kwetsbaarheid tonen bij mensen die je vertrouwt. Groei ontstaat als je ziet dat openheid en zachtheid ook vormen van kracht zijn."
     },
     "type9": {
-      "name": "Type 9 – De Vredestichter",
+      "name": "Type 9: De Vredestichter",
       "short": "Gedreven door de wens naar innerlijke en uiterlijke rust; bang voor conflict en verwijdering.",
       "low": "Het patroon van de Vredestichter speelt maar een kleine rol bij jou. Je gaat conflicten niet uit de weg en komt makkelijk op voor je eigen prioriteiten. Dat houdt je actief en helder over wat je wilt. Tip: als de spanning oploopt, oefen dan met eerst naar alle kanten te luisteren voordat je je standpunt doordrukt. Af en toe een rustiger tempo kan je helpen het grotere geheel te zien.",
       "mid": "Je herkent een aantal trekken van de Vredestichter. Je hecht aan harmonie en kunt verschillende perspectieven zien, maar je spreekt je ook uit als iets belangrijk voor je is. Je combineert rust met betrokkenheid. Tip: let op wanneer je met anderen meegaat om wrijving te vermijden. Zeggen wat je wilt, ook in kleine dingen, houdt je relaties eerlijk en voorkomt dat stille wrok zich opstapelt. Jouw blik voegt iets toe wat anderen niet kunnen.",

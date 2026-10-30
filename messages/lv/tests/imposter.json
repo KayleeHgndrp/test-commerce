@@ -2,7 +2,7 @@
   "name": "Viltvārža sindroma tests",
   "tagline": "Vai, neskatoties uz saviem sasniegumiem, jūties kā viltvārdis?",
   "intro": "Šis tests izpēta četras izplatītas viltvārža sajūtu puses: šaubas par savām spējām, bailes tikt atmaskotam, savu panākumu mazināšanu un pārstrādāšanos, lai to kompensētu. Novērtē, cik ļoti piekrīti katram apgalvojumam, domājot par savu darbu vai studijām. Tas aizņem apmēram piecas minūtes un parāda, kuri viltvārža modeļi tevī ir visspēcīgākie.",
-  "seoTitle": "Viltvārža sindroma tests – bezmaksas pašpārbaude",
+  "seoTitle": "Viltvārža sindroma tests: bezmaksas pašpārbaude",
   "seoDescription": "Vai darbā jūties kā viltvārdis? Izpildi 5 minūšu testu par šaubām par sevi, bailēm no atmaskošanas, panākumu mazināšanu un pārstrādāšanos.",
   "items": [
     "Šaubos, vai manas spējas atbilst tam, ko prasa mans amats.",
@@ -111,7 +111,7 @@
       "name": "Šaubas par sevi",
       "short": "Cik ļoti tu apšaubi savas prasmes un kompetenci.",
       "low": "Tavas atbildes liecina, ka tev ir stabila, reālistiska uzticēšanās savām spējām. Šķiet, ka tu jūti, ka esi savā vietā, un vari uzņemties jaunus izaicinājumus bez smagām šaubām. Šī pārliecība palīdz tev mācīties un dot savu ieguldījumu. Uzturi to veselīgu, saglabājot ziņkāri un lūdzot atgriezenisko saiti, lai tava uzticēšanās sev joprojām balstītos uz to, kas tev patiesībā padodas un kur vēl vari augt.",
-      "mid": "Tavas atbildes liecina, ka reizēm tu apšaubi savas spējas, īpaši jaunās situācijās vai lielā spiedienā. Iespējams, pazīstamos uzdevumos tu jūties pārliecināts, bet mazāk – kad likmes pieaug. Uzturi vienkāršu pierakstu par prasmēm, ko esi izmantojis, un problēmām, ko esi atrisinājis. Kad parādās šaubas, skaties uz pierādījumiem, nevis uz sajūtu. Atgādini sev, ka nedrošība mācoties ir normāla un nenozīmē, ka neesi spējīgs.",
+      "mid": "Tavas atbildes liecina, ka reizēm tu apšaubi savas spējas, īpaši jaunās situācijās vai lielā spiedienā. Iespējams, pazīstamos uzdevumos tu jūties pārliecināts, bet mazāk, kad likmes pieaug. Uzturi vienkāršu pierakstu par prasmēm, ko esi izmantojis, un problēmām, ko esi atrisinājis. Kad parādās šaubas, skaties uz pierādījumiem, nevis uz sajūtu. Atgādini sev, ka nedrošība mācoties ir normāla un nenozīmē, ka neesi spējīgs.",
       "high": "Tavas atbildes liecina, ka šaubas par sevi tev ir spēcīga tēma. Iespējams, tu bieži jūties mazāk spējīgs nekā apkārtējie, pat ja tavi rezultāti liecina par pretējo. Tas var tevi atturēt no izteikšanās vai iespēju izmantošanas. Pamēģini pierakstīt konkrētus faktus par savu darbu, piemēram, atsauksmes, pabeigtus projektus un prasmes, un pārlasi tos, kad uznāk šaubas. Aprunājies ar mentoru par to, kā viņš tevi redz. Ja šaubas par sevi nomāc tavu labsajūtu, var palīdzēt koučs vai kvalificēts speciālists."
     },
     "fear_of_exposure": {

@@ -2,7 +2,7 @@
   "name": "Archetypen-Test",
   "tagline": "Entdecke, welcher der 12 klassischen Archetypen dich antreibt.",
   "intro": "Geschichten auf der ganzen Welt beruhen auf einer Handvoll wiederkehrender Figuren: dem Helden, dem Weisen, dem Rebellen, dem Fürsorglichen und weiteren. Dieser Test zeigt, welche dieser 12 Archetypen prägen, wie du denkst, fühlst und handelst. Bewerte 100 kurze Aussagen danach, wie gut sie dich beschreiben. Das dauert etwa fünf Minuten und zeigt dir deinen Leit-Archetyp sowie dein vollständiges Profil.",
-  "seoTitle": "Archetypen-Test – finde deinen Persönlichkeitsarchetyp",
+  "seoTitle": "Archetypen-Test: finde deinen Persönlichkeitsarchetyp",
   "seoDescription": "Welcher der 12 Archetypen bist du? Held, Weiser, Entdecker, Schöpfer oder Rebell? Mach den kostenlosen 5-Minuten-Test und erhalte dein Archetypen-Profil.",
   "items": [
     "Ich glaube, dass die meisten Menschen im Grunde gut sind.",
@@ -140,7 +140,7 @@
       "short": "Dein Streben, Situationen zu verwandeln und Visionen Wirklichkeit werden zu lassen.",
       "low": "Der Magier ist in deinem Profil nicht ausgeprägt. Wahrscheinlich bevorzugst du Fakten, klare Schritte und Bewährtes gegenüber großen Visionen. Das hält dich geerdet und realistisch. Doch manche der besten Veränderungen beginnen damit, sich vorzustellen, was es noch nicht gibt. Frag dich ab und zu: Wie sähe das aus, wenn es perfekt funktionieren würde? Eine kühne Vision aufzuschreiben, selbst wenn du nur einen kleinen Teil davon umsetzt, kann neue Möglichkeiten eröffnen.",
       "mid": "Du trägst einen guten Anteil des Magiers in dir. Du kannst dir vorstellen, wie sich Dinge verwandeln ließen, und siehst gern Ideen Wirklichkeit werden, bleibst dabei aber mit beiden Beinen auf dem Boden. Das macht dich zu einer nützlichen Brücke zwischen Träumern und Machern. Stärke diese Seite, indem du einen Lebensbereich wählst, den du verändern möchtest, und dir das Endergebnis klar vorstellst. Zerlege es dann in kleine, konkrete Schritte, damit deine Vision in Fahrt kommt.",
-      "high": "Der Magier gehört zu deinen stärksten Archetypen. Du glaubst an Wandel und hast ein Talent dafür, Visionen Wirklichkeit werden zu lassen – oft auf eine Art, die andere überrascht. Du bemerkst verborgene Zusammenhänge und kannst Veränderung bei Menschen und in Situationen anstoßen. Das Risiko: mehr zu versprechen, als realistisch ist, oder deinen Einfluss ohne genug Transparenz zu nutzen. Teile deine Vision offen, prüfe sie an harten Fakten und feiere die kleinen, praktischen Schritte, die die Magie tatsächlich geschehen lassen."
+      "high": "Der Magier gehört zu deinen stärksten Archetypen. Du glaubst an Wandel und hast ein Talent dafür, Visionen Wirklichkeit werden zu lassen, oft auf eine Art, die andere überrascht. Du bemerkst verborgene Zusammenhänge und kannst Veränderung bei Menschen und in Situationen anstoßen. Das Risiko: mehr zu versprechen, als realistisch ist, oder deinen Einfluss ohne genug Transparenz zu nutzen. Teile deine Vision offen, prüfe sie an harten Fakten und feiere die kleinen, praktischen Schritte, die die Magie tatsächlich geschehen lassen."
     },
     "hero": {
       "name": "Der Held",

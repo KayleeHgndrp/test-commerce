@@ -2,7 +2,7 @@
   "name": "Testi i Eneagramit",
   "tagline": "Zbulo motivimin themelor pas mënyrës si mendon dhe vepron.",
   "intro": "Eneagrami përshkruan nëntë tipe personaliteti, secili i shtyrë nga një motivim themelor dhe një frikë themelore e ndryshme. Ky test mat sa fort identifikohesh me secilin nga nëntë modelet dhe nxjerr në pah atë që të përshtatet më mirë. Vlerëso 100 pohime të shkurtra; zgjat rreth pesë minuta.",
-  "seoTitle": "Testi i Eneagramit – Test falas me 9 tipe",
+  "seoTitle": "Testi i Eneagramit: Test falas me 9 tipe",
   "seoDescription": "Cili nga nëntë tipet e Eneagramit je? Bëj falas këtë test 5-minutësh, shiko rezultatet për të nëntë tipet dhe merr këshilla për tipin tënd kryesor.",
   "items": [
     "Kam një zë të fortë të brendshëm që më thotë çfarë është e drejtë.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Tipi 1 – Perfeksionisti",
+      "name": "Tipi 1: Perfeksionisti",
       "short": "I shtyrë nga dëshira për të qenë i mirë, korrekt dhe për ta përmirësuar botën; ka frikë të jetë i gabuar ose me të meta.",
       "low": "Modeli i Perfeksionistit luan vetëm një rol të vogël për ty. Je i qetë ndaj rregullave dhe gabimeve dhe nuk ndien një kritik të fortë të brendshëm që të shtyn t'i bësh të gjitha siç duhet. Kjo të lejon të shkosh me rrjedhën dhe të falësh lehtë. Këshillë: në fushat ku cilësia ka vërtet rëndësi, si shëndeti ose financat, pak më shumë strukturë dhe vëmendje ndaj detajeve mund të të shërbejnë. Kontrollo nëse qëndrimi i shtruar ndonjëherë do të thotë të lësh të rrëshqasin standarde të rëndësishme.",
       "mid": "I njeh tek vetja disa tipare të Perfeksionistit. Të intereson t'i bësh gjërat si duhet dhe mund të jesh autokritik, por e di edhe kur \"mjaftueshëm mirë\" është në rregull. Ndjenja jote e së drejtës dhe së gabuarës të udhëheq pa të dominuar. Këshillë: vër re kur kritiku yt i brendshëm bëhet më i zhurmshëm, shpesh nën stres, dhe përgjigju me mirësi. Zgjidh me vetëdije ku standardet e larta shtojnë vlerë dhe ku fleksibiliteti e bën jetën më të lehtë.",
       "high": "Modeli i Perfeksionistit është i fortë tek ti. Je parimor, i ndërgjegjshëm dhe i shtyrë për ta përmirësuar veten dhe botën. Frika jote themelore është të jesh i gabuar, i keq ose me të meta, ndaj një kritik i rreptë i brendshëm shpesh të mban në rresht. U sjell integritet dhe cilësi të gjitha atyre që bën. Këshillë: ushtrohu ta pranosh papërsosmërinë, si te vetja, ashtu edhe te të tjerët; gabimet janë pjesë e të mësuarit. Lejoje veten të kënaqesh dhe të luash pa e fituar më parë. Rritja vjen kur beson se je tashmë mjaftueshëm i mirë."
     },
     "type2": {
-      "name": "Tipi 2 – Ndihmuesi",
+      "name": "Tipi 2: Ndihmuesi",
       "short": "I shtyrë nga dëshira për t'u dashur dhe për të qenë i nevojshëm; ka frikë se nuk e duan ose se nuk e meriton dashurinë.",
       "low": "Modeli i Ndihmuesit luan një rol të vogël për ty. Identitetin tënd nuk e ndërton mbi faktin se të tjerët kanë nevojë për ty dhe ndihesh rehat duke u përqendruar te jeta jote. Kjo të mbron nga dhënia e tepërt. Këshillë: sigurohu që njerëzit e afërt ta ndiejnë ende kujdesin tënd; gjestet e vogla, si pyetja si janë ose ofrimi i ndihmës pa ta kërkuar, i mbajnë marrëdhëniet të ngrohta. Vër re kur pavarësia kthehet në distancë.",
       "mid": "I njeh tek vetja disa tipare të Ndihmuesit. Të pëlqen t'i mbështesësh të tjerët dhe të pëlqen të të vlerësojnë, por mund ta vësh edhe veten të parin kur duhet. Ngrohtësia jote është në ekuilibër me respektin për veten. Këshillë: vër re nëse ndonjëherë ndihmon që të të pëlqejnë dhe jo sepse do. Ushtrohu të kërkosh drejtpërdrejt atë që të nevojitet në vend që të shpresosh se të tjerët do ta vënë re. Njerëzit që kujdesen për ty zakonisht e mirëpresin mundësinë për të të kthyer diçka.",
       "high": "Modeli i Ndihmuesit është i fortë tek ti. Je i ngrohtë, bujar dhe i vëmendshëm ndaj asaj që u nevojitet të tjerëve, dhe ndihesh më i vlefshëm kur ndihmon. Frika jote themelore është se nuk të duan ose se nuk je i dëshiruar. Njerëzit të përjetojnë si të kujdesshëm dhe mbështetës. Këshillë: nevojat e tua janë po aq legjitime sa të kujtdo tjetër, ndaj emërtoji hapur. Ndihmo sepse zgjedh ta bësh, jo për ta siguruar dashurinë. Rritja vjen kur i lë edhe të tjerët të kujdesen për ty dhe beson se meriton dashuri edhe pa dhënë."
     },
     "type3": {
-      "name": "Tipi 3 – Arritësi",
+      "name": "Tipi 3: Arritësi",
       "short": "I shtyrë nga dëshira për të pasur sukses dhe për t'u admiruar; ka frikë të jetë pa vlerë ose një dështim.",
       "low": "Modeli i Arritësit luan vetëm një rol të vogël për ty. Statusi, imazhi dhe suksesi i jashtëm nuk janë shtysat e tua kryesore, dhe vlerën tënde nuk e mat me atë që arrin. Kjo të çliron nga krahasimet. Këshillë: nëse ke qëllime që të interesojnë, pak ambicie dhe përparim i dukshëm mund të të ndihmojnë t'i arrish. Lëri të tjerët t'i shohin arritjet e tua; modestia nuk duhet t'i fshehë pikat e tua të forta.",
       "mid": "I njeh tek vetja disa tipare të Arritësit. Të pëlqen t'ia dalësh mirë dhe të pëlqen njohja, por ndjenja jote e vlerës nuk varet plotësisht nga suksesi. Mund të punosh shumë drejt qëllimeve dhe ta shijosh prapë kohën e lirë. Këshillë: kontrollo nëse qëllimet që ndjek janë vërtet të tuat apo ato që presin të tjerët. Festoji arritjet, pastaj merr kohë ta shijosh edhe jetën jashtë performancës, me njerëz që të duan pavarësisht rezultateve.",
       "high": "Modeli i Arritësit është i fortë tek ti. Je ambicioz, efikas dhe i përqendruar te suksesi, dhe di ta paraqesësh mirë veten. Frika jote themelore është të jesh pa vlerë pa arritjet e tua. I motivon të tjerët dhe i kryen gjërat. Këshillë: vër re kur e përshtat imazhin tënd për t'u pëlqyer të tjerëve ose punon për të shmangur ndjenjën e zbrazëtisë. Kalo kohë në aktivitete pa asnjë qëllim. Rritja vjen kur e vlerëson veten për atë që je, jo për atë që arrin."
     },
     "type4": {
-      "name": "Tipi 4 – Individualisti",
+      "name": "Tipi 4: Individualisti",
       "short": "I shtyrë nga dëshira për të qenë unik dhe autentik; ka frikë se nuk ka identitet ose rëndësi.",
       "low": "Modeli i Individualistit luan një rol të vogël për ty. Nuk ndien nevojë të fortë për të qenë ndryshe ose për ta eksploruar në thellësi çdo emocion, dhe ndihesh rehat duke u përshtatur. Kjo të mban me këmbë në tokë dhe praktik. Këshillë: krijo pak hapësirë për vetëshprehje, si një hobi kreativ ose biseda të sinqerta për ndjenjat. Eksplorimi i asaj që të bën unik mund t'i shtojë pasuri jetës sate.",
       "mid": "I njeh tek vetja disa tipare të Individualistit. E vlerëson autenticitetin dhe ke një jetë të pasur të brendshme, por nuk ndihesh thelbësisht ndryshe nga të tjerët. Mund t'i shprehësh emocionet dhe të ruash prapë perspektivën. Këshillë: përdore ndjeshmërinë tënde në mënyrë kreative, për shembull përmes shkrimit ose artit. Kur ndihesh i keqkuptuar, kontrollo nëse e ke ndarë vërtet atë që ndien. Të tjerëve shpesh u intereson më shumë se ç'pret, sapo ta kuptojnë botën tënde të brendshme.",
       "high": "Modeli i Individualistit është i fortë tek ti. Je i ndjeshëm, shprehës dhe në kontakt të thellë me emocionet e tua, dhe dëshiron të jesh autentik dhe i kuptuar. Frika jote themelore është të mos kesh një identitet të vërtetë ose rëndësi. Sjell thellësi, kreativitet dhe sinqeritet për ndjenjat. Këshillë: vër re kur përqendrohesh te ajo që mungon dhe jo te ajo që ke. Praktikat e mirënjohjes dhe rutinat praktike mund ta stabilizojnë humorin tënd. Rritja vjen kur kupton se edhe momentet dhe lidhjet e zakonshme mund të kenë kuptim."
     },
     "type5": {
-      "name": "Tipi 5 – Hulumtuesi",
+      "name": "Tipi 5: Hulumtuesi",
       "short": "I shtyrë nga dëshira për të kuptuar dhe për të qenë kompetent; ka frikë të jetë i pafuqishëm ose i mbingarkuar.",
       "low": "Modeli i Hulumtuesit luan vetëm një rol të vogël për ty. Nuk ndien nevojë të fortë për t'u tërhequr dhe për të analizuar para se të veprosh, dhe e ndan lehtë kohën dhe energjinë tënde. Kjo të bën të afrueshëm dhe të përfshirë. Këshillë: kur përballesh me vendime të ndërlikuara, jepi vetes pak kohë të qetë kërkimi para se të hidhesh. Thellimi i njohurive në një fushë që të intereson mund të ndërtojë vetëbesim dhe ekspertizë.",
       "mid": "I njeh tek vetja disa tipare të Hulumtuesit. Të pëlqen të mësosh dhe ke nevojë për pak kohë private, por mund të përfshihesh edhe në mënyrë aktive me njerëzit dhe botën. E vlerëson dijen pa u fshehur pas saj. Këshillë: vër re kur tërhiqesh për të vëzhguar në vend që të marrësh pjesë, sidomos në marrëdhënie. Të ndash atë që di, edhe para se të ndihesh plotësisht gati, mund të jetë shpërblyese dhe shpesh sjell reagime të dobishme dhe lidhje.",
       "high": "Modeli i Hulumtuesit është i fortë tek ti. Je kureshtar, vëzhgues dhe i pavarur, dhe do ta kuptosh botën në thellësi. Frika jote themelore është të jesh i pafuqishëm, i paaftë ose i shteruar nga kërkesat e të tjerëve, ndaj e ruan me kujdes kohën dhe energjinë tënde. Sjell njohuri dhe ekspertizë. Këshillë: vër re kur mbledhja e dijes bëhet mënyrë për të shmangur veprimin ose ndjenjat. Bëj hapa të vegjël para se të ndihesh plotësisht i përgatitur. Rritja vjen kur beson se ke mjaftueshëm për t'u përfshirë plotësisht në jetë dhe me njerëzit."
     },
     "type6": {
-      "name": "Tipi 6 – Besniku",
+      "name": "Tipi 6: Besniku",
       "short": "I shtyrë nga dëshira për siguri dhe mbështetje; ka frikë se do të mbetet pa udhëzim ose pa siguri.",
       "low": "Modeli i Besnikut luan një rol të vogël për ty. Nuk shqetësohesh shumë për atë që mund të shkojë keq dhe ndihesh i sigurt pa pasur nevojë për udhëzim ose siguri të fortë nga të tjerët. Kjo të lejon të veprosh me guxim. Këshillë: para vendimeve të mëdha, merr parasysh me vetëdije rreziqet e mundshme ose pyet dikë më të kujdesshëm për mendimin e tij. Besnikëria dhe përgatitja mund të jenë gjithashtu pika të forta që ia vlen t'i zhvillosh, sidomos në ekipe që mbështeten te ti për të menduar përpara.",
       "mid": "I njeh tek vetja disa tipare të Besnikut. E vlerëson sigurinë dhe marrëdhëniet e besuara dhe mund t'i dallosh rreziqet, por dyshimet zakonisht nuk të pengojnë. E balancon kujdesin me vetëbesimin. Këshillë: kur shqetësimi fillon të rritet, ndaji rreziqet realiste nga skenarët \"po sikur\". Besoji më shpesh gjykimit tënd në vend që të kërkosh siguri nga të tjerët. Sa herë që vepron sipas tij, besimi te busulla jote e brendshme rritet.",
       "high": "Modeli i Besnikut është i fortë tek ti. Je besnik, i përgjegjshëm dhe vigjilent ndaj rreziqeve, dhe e vlerëson shumë besimin dhe sigurinë. Frika jote themelore është të mbetesh pa mbështetje ose udhëzim në një botë të rrezikshme. Je një anëtar i besueshëm ekipi që përgatitet për problemet që të tjerët i anashkalojnë. Këshillë: vër re kur ankthi të shtyn të planifikosh tepër ose të dyshosh te të gjithë, përfshirë veten. Ushtrohu të veprosh sipas gjykimit tënd me hapa të vegjël. Rritja vjen kur zbulon sigurinë e brendshme që e ke kërkuar jashtë vetes."
     },
     "type7": {
-      "name": "Tipi 7 – Entuziasti",
+      "name": "Tipi 7: Entuziasti",
       "short": "I shtyrë nga dëshira për liri dhe argëtim; ka frikë se do të mbetet i bllokuar në dhimbje ose privim.",
       "low": "Modeli i Entuziastit luan vetëm një rol të vogël për ty. Nuk kërkon vazhdimisht përvoja të reja dhe mund të qëndrosh te një gjë, edhe kur nuk është emocionuese. Kjo të jep përqendrim dhe thellësi. Këshillë: lejoje veten të jesh spontan herë pas here, si me një udhëtim të shkurtër ose një hobi të ri. Pak lojë mund ta freskojë energjinë dhe marrëdhëniet e tua.",
       "mid": "I njeh tek vetja disa tipare të Entuziastit. Të pëlqejnë argëtimi, larmia dhe planet e reja, por mund edhe të angazhohesh dhe të qëndrosh me ndjenjat e vështira. E balancon optimizmin me realizmin dhe mund të shijosh si aventurën, ashtu edhe qetësinë. Këshillë: vër re kur kap shpërqendrimin për të shmangur diçka të sikletshme. Përfundimi i një projekti para se të nisësh tjetrin do ta bëjë entuziazmin tënd të japë fryte dhe të të japë kënaqësinë më të thellë të përfundimit.",
       "high": "Modeli i Entuziastit është i fortë tek ti. Je optimist, aventurier dhe plot ide, dhe të pëlqen shumë t'i mbash opsionet të hapura. Frika jote themelore është të mbetesh i bllokuar në dhimbje, mërzi ose kufizim, ndaj shpesh kalon shpejt te gjëja tjetër emocionuese. Sjell energji dhe gëzim kudo që shkon. Këshillë: ushtrohu të qëndrosh me emocionet e vështira në vend që t'u ikësh. Zgjidh disa angazhime dhe çoji deri në fund. Rritja vjen kur gjen kënaqësi në thellësi, jo vetëm në larmi."
     },
     "type8": {
-      "name": "Tipi 8 – Sfiduesi",
+      "name": "Tipi 8: Sfiduesi",
       "short": "I shtyrë nga dëshira për të qenë i fortë dhe në kontroll; ka frikë të kontrollohet ose të jetë i pambrojtur.",
       "low": "Modeli i Sfiduesit luan një rol të vogël për ty. Nuk ke nevojë ta marrësh kontrollin ose ta provosh forcën tënde, dhe rrallë kërkon përballje. Kjo e bën të lehtë bashkëpunimin me ty. Këshillë: në situata ku ti ose të tjerët trajtoheni padrejtësisht, ushtrohu të flasësh me vendosmëri. Të mbrosh veten nuk është agresion; është mbrojtje e asaj që ka rëndësi. Fillo me situata të vogla, si të shprehësh qartë një preferencë në një mbledhje.",
       "mid": "I njeh tek vetja disa tipare të Sfiduesit. Mund të jesh i drejtpërdrejtë dhe mbrojtës dhe e merr drejtimin kur duhet, por nuk ke nevojë të dominosh. Tregon forcë pa e humbur ndjeshmërinë. Këshillë: vër re kur shtyn fort për të shmangur ndjenjën e brishtësisë. Kur i lë njerëzit ta shohin anën tënde më të butë, besimi thellohet. Pyeti të tjerët si e përjetojnë drejtpërdrejtësinë tënde; përgjigjet e tyre mund të të ndihmojnë ta përdorësh forcën më me mençuri.",
       "high": "Modeli i Sfiduesit është i fortë tek ti. Je i sigurt në vetvete, i drejtpërdrejtë dhe mbrojtës, dhe e merr natyrshëm drejtimin. Frika jote themelore është të të kontrollojnë, të të dëmtojnë ose të jesh i pambrojtur, ndaj e vlerëson forcën dhe pavarësinë. Ngrihesh në mbrojtje të vetes dhe të të tjerëve dhe nuk ke frikë nga konflikti. Këshillë: intensiteti yt mund t'i mbingarkojë njerëzit, ndaj ule zërin dhe dëgjo plotësisht para se të veprosh. Ushtrohu ta tregosh brishtësinë me njerëzit që u beson. Rritja vjen kur sheh se çiltërsia dhe butësia janë gjithashtu forma force."
     },
     "type9": {
-      "name": "Tipi 9 – Paqebërësi",
+      "name": "Tipi 9: Paqebërësi",
       "short": "I shtyrë nga dëshira për paqe të brendshme dhe të jashtme; ka frikë nga konflikti dhe shkëputja.",
       "low": "Modeli i Paqebërësit luan vetëm një rol të vogël për ty. Nuk i shmangesh konfliktit dhe i mbron lehtë prioritetet e tua. Kjo të mban aktiv dhe të qartë për atë që do. Këshillë: kur tensionet rriten, ushtrohu t'i dëgjosh të gjitha palët para se ta shtysh pikëpamjen tënde. Një ritëm më i qetë herë pas here mund të të ndihmojë ta shohësh pamjen e përgjithshme.",
       "mid": "I njeh tek vetja disa tipare të Paqebërësit. E vlerëson harmoninë dhe mund t'i shohësh këndvështrimet e ndryshme, por e thua mendimin edhe kur diçka ka rëndësi për ty. E balancon qetësinë me angazhimin. Këshillë: vër re kur pajtohesh me të tjerët për të shmangur fërkimet. Të thuash çfarë do, edhe për gjëra të vogla, i mban marrëdhëniet e tua të sinqerta dhe e pengon inatin e heshtur të grumbullohet. Pikëpamja jote shton diçka që të tjerët nuk mund ta japin.",

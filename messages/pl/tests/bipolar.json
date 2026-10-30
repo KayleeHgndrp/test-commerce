@@ -2,7 +2,7 @@
   "name": "Test choroby afektywnej dwubiegunowej",
   "tagline": "Przyjrzyj się swoim wzlotom, spadkom i zmianom nastroju w czasie.",
   "intro": "Ten test przesiewowy obejmuje cztery obszary związane z dwubiegunowymi wzorcami nastroju: okresy podwyższonego nastroju, okresy wysokiej energii i aktywności, okresy depresyjne oraz to, jak twój nastrój zmienia się cyklicznie w czasie. Pomyśl o całym swoim życiu, a nie tylko o ostatnich kilku tygodniach. Test zajmuje około pięciu minut i nie jest diagnozą, ale może pomóc ci zdecydować, czy omówić swój nastrój ze specjalistą.",
-  "seoTitle": "Test na dwubiegunowość – bezpłatny test wahań nastroju",
+  "seoTitle": "Test na dwubiegunowość: bezpłatny test wahań nastroju",
   "seoDescription": "Miewasz okresy niezwykłych wzlotów i spadków? Zrób 5-minutowy test przesiewowy: nastrój, energia i cykliczność. Otrzymaj osobisty raport.",
   "items": [
     "Zdarzały mi się całe dni niezwykłego szczęścia.",
@@ -119,7 +119,7 @@
       "short": "Okresy niezwykle wysokiej energii, mniejszej potrzeby snu, gonitwy myśli i podejmowania ryzyka.",
       "low": "Twoje odpowiedzi sugerują, że twój poziom energii i aktywności jest w czasie dość stały. Wydaje się, że nie zdarzały ci się okresy znacznie mniejszej potrzeby snu, gonitwy myśli czy podejmowania nietypowego ryzyka. Stabilny rytm to silny czynnik chroniący twoje samopoczucie. Wspieraj go dalej regularnym snem i zrównoważonym planem tygodnia, w którym jest miejsce zarówno na wysiłek, jak i odpoczynek.",
       "mid": "Twoje odpowiedzi sugerują, że czasem zdarzały ci się przypływy wysokiej energii, mniejsza potrzeba snu lub natłok pomysłów i planów. Takie okresy mogą być produktywne i przyjemne, ale mogą też prowadzić do brania na siebie zbyt wiele lub impulsywnych wyborów. Utrzymuj stałe pory snu, nawet gdy masz dużo energii, i odczekaj dzień lub dwa, zanim podejmiesz ważne decyzje lub zrobisz duże zakupy.",
-      "high": "Twoje odpowiedzi sugerują, że występowały u ciebie wyraźne okresy niezwykle wysokiej energii, niewielkiej potrzeby snu, gonitwy myśli oraz impulsywnych lub ryzykownych zachowań. Razem są to typowe objawy epizodów hipomaniakalnych lub maniakalnych. Rozważ omówienie ich z lekarzem lub psychiatrą – istnieje skuteczne leczenie i wsparcie. Jeśli pojawiają się u ciebie myśli o zrobieniu sobie krzywdy, natychmiast skontaktuj się z lokalnymi służbami ratunkowymi lub telefonem zaufania. Ochrona snu to teraz jeden z najważniejszych kroków, jakie możesz podjąć."
+      "high": "Twoje odpowiedzi sugerują, że występowały u ciebie wyraźne okresy niezwykle wysokiej energii, niewielkiej potrzeby snu, gonitwy myśli oraz impulsywnych lub ryzykownych zachowań. Razem są to typowe objawy epizodów hipomaniakalnych lub maniakalnych. Rozważ omówienie ich z lekarzem lub psychiatrą, istnieje skuteczne leczenie i wsparcie. Jeśli pojawiają się u ciebie myśli o zrobieniu sobie krzywdy, natychmiast skontaktuj się z lokalnymi służbami ratunkowymi lub telefonem zaufania. Ochrona snu to teraz jeden z najważniejszych kroków, jakie możesz podjąć."
     },
     "depressive": {
       "name": "Okresy depresyjne",
@@ -131,7 +131,7 @@
     "cycling": {
       "name": "Cykliczność nastroju",
       "short": "Jak bardzo twój nastrój i energia zmieniają się w czasie między wyraźnymi wzlotami a spadkami.",
-      "low": "Twoje odpowiedzi sugerują, że twój nastrój i energia pozostają w czasie dość stabilne, bez wyraźnych wahań między wzlotami a spadkami. Twój nastrój wydaje się podążać za tym, co dzieje się w twoim życiu – i tak to wygląda u większości ludzi. Wspieraj tę równowagę zdrowymi nawykami i zwróć uwagę, jeśli kiedyś zauważysz zmianę wzorca, na przykład w związku z porami roku.",
+      "low": "Twoje odpowiedzi sugerują, że twój nastrój i energia pozostają w czasie dość stabilne, bez wyraźnych wahań między wzlotami a spadkami. Twój nastrój wydaje się podążać za tym, co dzieje się w twoim życiu, i tak to wygląda u większości ludzi. Wspieraj tę równowagę zdrowymi nawykami i zwróć uwagę, jeśli kiedyś zauważysz zmianę wzorca, na przykład w związku z porami roku.",
       "mid": "Twoje odpowiedzi sugerują, że twój nastrój i energia czasem wyraźnie się zmieniają, na przykład wraz z porami roku, po źle przespanej nocy lub z mniej oczywistych powodów. Wiele osób ma pewną naturalną zmienność, ale warto ją śledzić. Przez kilka miesięcy korzystaj z aplikacji lub dziennika nastroju, by sprawdzić, czy pojawia się wzorzec, i pokaż go lekarzowi, jeśli wahania sprawiają ci problemy.",
       "high": "Twoje odpowiedzi sugerują, że twój nastrój i energia często zmieniają się cyklicznie między wyraźnymi wzlotami a spadkami, które trudno przewidzieć i które wpływają na twoje życie i relacje. Taki wzorzec cykliczności to kluczowa cecha zaburzeń ze spektrum dwubiegunowego. Rozważ wizytę u lekarza lub psychiatry w celu rzetelnej diagnozy. Jeśli pojawiają się u ciebie myśli o zrobieniu sobie krzywdy, natychmiast skontaktuj się z lokalnymi służbami ratunkowymi lub telefonem zaufania. Dziennik nastroju może pomóc tobie i specjaliście zrozumieć ten wzorzec."
     }

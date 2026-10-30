@@ -1,8 +1,8 @@
 {
   "name": "Test podejścia do pieniędzy",
   "tagline": "Odkryj swoją finansową osobowość i nawyki, które do niej pasują.",
-  "intro": "Ten test pokazuje twoje podejście do pieniędzy: postawy i nawyki, które kształtują to, jak zarabiasz, wydajesz, oszczędzasz i myślisz o pieniądzach. Porównuje pięć finansowych osobowości – Oszczędzającego, Wydającego, Unikającego, Łowcę prestiżu i Strażnika bezpieczeństwa – i pokazuje, która najlepiej do ciebie pasuje. Odpowiadaj szczerze, zgodnie z tym, jak zwykle postępujesz. Zajmie ci to około pięciu minut, a w zamian otrzymasz konkretne nawyki finansowe dopasowane do twojego stylu.",
-  "seoTitle": "Test podejścia do pieniędzy – twoja osobowość finansowa",
+  "intro": "Ten test pokazuje twoje podejście do pieniędzy: postawy i nawyki, które kształtują to, jak zarabiasz, wydajesz, oszczędzasz i myślisz o pieniądzach. Porównuje pięć finansowych osobowości (Oszczędzającego, Wydającego, Unikającego, Łowcę prestiżu i Strażnika bezpieczeństwa) i pokazuje, która najlepiej do ciebie pasuje. Odpowiadaj szczerze, zgodnie z tym, jak zwykle postępujesz. Zajmie ci to około pięciu minut, a w zamian otrzymasz konkretne nawyki finansowe dopasowane do twojego stylu.",
+  "seoTitle": "Test podejścia do pieniędzy: twoja osobowość finansowa",
   "seoDescription": "Oszczędzasz, wydajesz czy unikasz tematu? Zrób bezpłatny 5-minutowy test, poznaj swoją osobowość finansową i praktyczne nawyki dla swoich finansów.",
   "items": [
     "Lubię patrzeć, jak rosną moje oszczędności.",
@@ -132,7 +132,7 @@
       "name": "Łowca prestiżu",
       "short": "Postrzega pieniądze jako sposób na pokazanie sukcesu i zdobycie uznania.",
       "low": "Prestiż nie wydaje się kierować twoimi wyborami finansowymi. Niewiele obchodzą cię marki czy to, co inni myślą o twoich rzeczach, i dobrze ci ze skromnym stylem życia. To uwalnia cię od kosztownych porównań. Dalej dopasowuj wydatki do własnych wartości. Uważaj tylko, by nie inwestować za mało w rzeczy, które naprawdę ci pomagają, takie jak dobrej jakości narzędzia czy ubrania do pracy, tylko po to, by nie wyglądać ostentacyjnie.",
-      "mid": "Do pewnego stopnia zależy ci na tym, jak twój styl życia wygląda w oczach innych, ale nie dominuje to twoich wyborów. Fajna marka czy zdjęcie z wakacji udostępnione znajomym mogą sprawiać przyjemność – to normalne. Aby trzymać to w ryzach, przed większymi zakupami zadaj sobie pytanie: czy nadal by mi na tym zależało, gdyby nikt inny tego nie zobaczył? Wyciszenie w mediach społecznościowych kont, przez które masz poczucie, że zostajesz w tyle, również może zmniejszyć presję dotrzymywania kroku innym.",
+      "mid": "Do pewnego stopnia zależy ci na tym, jak twój styl życia wygląda w oczach innych, ale nie dominuje to twoich wyborów. Fajna marka czy zdjęcie z wakacji udostępnione znajomym mogą sprawiać przyjemność, to normalne. Aby trzymać to w ryzach, przed większymi zakupami zadaj sobie pytanie: czy nadal by mi na tym zależało, gdyby nikt inny tego nie zobaczył? Wyciszenie w mediach społecznościowych kont, przez które masz poczucie, że zostajesz w tyle, również może zmniejszyć presję dotrzymywania kroku innym.",
       "high": "Twoje odpowiedzi sugerują, że Łowca prestiżu to silna część twojej finansowej osobowości. Pieniądze i rzeczy mogą wydawać się związane z sukcesem, pewnością siebie i tym, jak postrzegają cię inni. Ambicja może motywować, ale utrzymywanie pozorów bywa kosztowne i może pozostawiać poczucie, że nigdy nie jest się wystarczająco dobrym. Spróbuj 30-dniowej przerwy od zakupów prestiżowych i zauważ, jak się czujesz. Zdefiniuj też sukces na własnych warunkach. Jeśli porównywanie się lub presja wydatków wpływają na twoje samopoczucie, pomocy może udzielić wykwalifikowany doradca finansowy lub inny specjalista."
     },
     "security_seeker": {

@@ -2,7 +2,7 @@
   "name": "Noro įtikti kitiems testas",
   "tagline": "Sužinokite, kiek prisitaikote, kad kiti būtų patenkinti.",
   "intro": "Šis testas apima keturias noro įtikti kitiems puses: pritarimo poreikį, sunkumus nustatant ribas, savo poreikių apleidimą ir konfliktų vengimą. Atsakykite pagal tai, kaip dažnai kiekvienas teiginys jums tinka kasdieniame gyvenime. Testas trunka apie penkias minutes ir padeda pamatyti, kur gerumas kitiems jums patiems gali brangiai kainuoti.",
-  "seoTitle": "Noro įtikti kitiems testas – nemokama savipatikra",
+  "seoTitle": "Noro įtikti kitiems testas: nemokama savipatikra",
   "seoDescription": "Ar visada stengiatės įtikti kitiems? Atlikite 5 minučių testą apie pritarimą, ribas, savęs apleidimą ir konfliktų vengimą ir gaukite praktinių patarimų.",
   "items": [
     "Kad jausčiausi gerai, man reikia kitų pritarimo.",
@@ -124,7 +124,7 @@
     "self_neglect": {
       "name": "Savęs apleidimas",
       "short": "Kaip dažnai savo poreikius, poilsį ir tikslus paliekate paskutinei vietai.",
-      "low": "Jūsų atsakymai rodo, kad gerai rūpinatės savo poreikiais ir kartu rūpinatės kitais. Atrodo, kad randate laiko poilsiui, pomėgiams ir asmeniniams tikslams ir galite priimti pagalbą. Ši pusiausvyra apsaugo nuo perdegimo ir leidžia kitiems duoti iš pilnų atsargų. Taip ir toliau – reguliariai planuokite laiką sau, ypač įtemptais laikotarpiais, kai labiausiai norisi jį praleisti.",
+      "low": "Jūsų atsakymai rodo, kad gerai rūpinatės savo poreikiais ir kartu rūpinatės kitais. Atrodo, kad randate laiko poilsiui, pomėgiams ir asmeniniams tikslams ir galite priimti pagalbą. Ši pusiausvyra apsaugo nuo perdegimo ir leidžia kitiems duoti iš pilnų atsargų. Taip ir toliau: reguliariai planuokite laiką sau, ypač įtemptais laikotarpiais, kai labiausiai norisi jį praleisti.",
       "mid": "Jūsų atsakymai rodo, kad jūsų poreikiai kartais nusmunka sąrašo apačion, ypač kai kitiems jūsų reikia. Galbūt vis dar rūpinatės savimi, bet ne visada nuosekliai. Pabandykite kas savaitę suplanuoti vieną veiklą tik sau ir laikykite ją susitikimu. Kai kas nors pasiūlo pagalbą, treniruokitės tiesiog padėkoti ir ją priimti. Maži rūpinimosi savimi veiksmai laikui bėgant sumuojasi.",
       "high": "Jūsų atsakymai rodo, kad dažnai save paliekate paskutinei vietai: praleidžiate poilsį, slepiate savo problemas ar atidedate savo tikslus. Dėl to galite jaustis pavargę, nepastebėti ir tyliai įsižeidę. Jūsų poreikiai tokie pat svarbūs kaip ir kitų. Pradėkite kasdien pastebėdami vieną poreikį, pavyzdžiui, poilsio, maisto ar draugijos, ir patenkinkite jį prieš padėdami kitiems. Paprašykite vieno žmogaus padėti su kuo nors nedideliu. Jei jaučiatės išsekę ar prislėgti, prašome apsvarstyti galimybę pasikalbėti su gydytoju ar kvalifikuotu specialistu."
     },
@@ -136,5 +136,5 @@
       "high": "Jūsų atsakymai rodo, kad labai stengiatės išvengti konfliktų, net kai tai jums brangiai kainuoja. Galbūt tylite, prisiimate kaltę ar sutinkate vien tam, kad išlaikytumėte ramybę. Ilgainiui tai gali pakenkti ir jūsų savijautai, ir santykiams, nes problemos lieka neišspręstos. Pirmiausia treniruokitės išsakyti nedidelius nesutarimus saugiose situacijose. Atminkite, kad sveikas konfliktas yra normalus. Jei įtampa ar pyktis aplink jus sukelia stiprų nerimą, kvalifikuotas specialistas gali padėti jaustis saugiau pasisakant."
     }
   },
-  "summary": "Noras įtikti kitiems nėra vienas įprotis, o modelių derinys. Žemiau matote, kaip stipriai keturi iš jų pasireiškia jūsų atsakymuose. Aukštesni balai reiškia stipresnį norą įtikti toje srityje. Rūpinimasis kitais yra stiprybė; tikslas – pusiausvyra, o ne tapti mažiau geranoriškiems. Tai savirefleksijos priemonė, o ne diagnozė."
+  "summary": "Noras įtikti kitiems nėra vienas įprotis, o modelių derinys. Žemiau matote, kaip stipriai keturi iš jų pasireiškia jūsų atsakymuose. Aukštesni balai reiškia stipresnį norą įtikti toje srityje. Rūpinimasis kitais yra stiprybė; tikslas yra pusiausvyra, o ne tapti mažiau geranoriškiems. Tai savirefleksijos priemonė, o ne diagnozė."
 }

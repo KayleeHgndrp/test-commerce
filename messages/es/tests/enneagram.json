@@ -2,7 +2,7 @@
   "name": "Test del Eneagrama",
   "tagline": "Descubre la motivación profunda que hay detrás de cómo piensas y actúas.",
   "intro": "El Eneagrama describe nueve tipos de personalidad, cada uno impulsado por una motivación central y un miedo central distintos. Este test mide hasta qué punto te identificas con cada uno de los nueve patrones y destaca el que mejor encaja contigo. Valora 100 afirmaciones breves; tardarás unos cinco minutos.",
-  "seoTitle": "Test del Eneagrama – Test gratuito de los 9 tipos",
+  "seoTitle": "Test del Eneagrama: Test gratuito de los 9 tipos",
   "seoDescription": "¿Cuál de los nueve eneatipos eres? Haz este test gratuito de 5 minutos, mira tus puntuaciones en los nueve tipos y recibe consejos para crecer.",
   "items": [
     "Tengo una voz interior fuerte que me dice lo que está bien.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Tipo 1 – El Perfeccionista",
+      "name": "Tipo 1: El Perfeccionista",
       "short": "Te impulsa el deseo de ser bueno, actuar correctamente y mejorar el mundo; temes equivocarte o ser imperfecto.",
       "low": "El patrón del Perfeccionista tiene un papel pequeño en ti. Te tomas con calma las normas y los errores y no sientes un crítico interior fuerte que te empuje a hacerlo todo bien. Esto te permite dejarte llevar y perdonar con facilidad. Consejo: en las áreas donde la calidad importa de verdad, como la salud o las finanzas, un poco más de estructura y atención al detalle puede venirte bien. Comprueba si tu tranquilidad a veces hace que se te escapen estándares importantes.",
       "mid": "Te reconoces en algunos rasgos del Perfeccionista. Te importa hacer las cosas bien y puedes ser autocrítico, pero también sabes cuándo basta con que algo esté suficientemente bien. Tu sentido del bien y del mal te guía sin dominarte. Consejo: fíjate en cuándo tu crítico interior sube el volumen, a menudo con el estrés, y respóndele con amabilidad. Elige conscientemente dónde los estándares altos aportan valor y dónde la flexibilidad te hace la vida más fácil.",
       "high": "El patrón del Perfeccionista es fuerte en ti. Tienes principios, eres concienzudo y te impulsa mejorar tú y mejorar el mundo. Tu miedo central es equivocarte, ser malo o tener defectos, así que a menudo un crítico interior estricto te mantiene a raya. Aportas integridad y calidad a todo lo que haces. Consejo: practica aceptar la imperfección, en ti y en los demás; los errores forman parte del aprendizaje. Permítete el placer y el juego sin tener que ganártelos antes. Creces cuando confías en que ya eres suficientemente bueno."
     },
     "type2": {
-      "name": "Tipo 2 – El Ayudador",
+      "name": "Tipo 2: El Ayudador",
       "short": "Te impulsa el deseo de que te quieran y te necesiten; temes no ser deseado o no merecer amor.",
       "low": "El patrón del Ayudador tiene un papel menor en ti. No construyes tu identidad en torno a que te necesiten y te sientes a gusto centrándote en tu propia vida. Esto te protege de dar en exceso. Consejo: asegúrate de que las personas cercanas sigan notando que te importan; los pequeños gestos, como preguntar cómo están u ofrecer ayuda sin que te la pidan, mantienen las relaciones cálidas. Fíjate en cuándo la independencia se convierte en distancia.",
       "mid": "Te reconoces en algunos rasgos del Ayudador. Disfrutas apoyando a los demás y te gusta que te valoren, pero también sabes ponerte en primer lugar cuando hace falta. Tu calidez está equilibrada con el respeto por ti. Consejo: fíjate en si a veces ayudas para caer bien más que porque quieres. Practica pedir directamente lo que necesitas en lugar de esperar que los demás se den cuenta. Las personas que te quieren suelen agradecer la oportunidad de devolverte algo.",
       "high": "El patrón del Ayudador es fuerte en ti. Eres cálido, generoso y estás atento a lo que necesitan los demás, y te sientes más valioso cuando ayudas. Tu miedo central es que no te quieran o no te deseen. La gente te percibe como alguien atento y solidario. Consejo: tus propias necesidades son tan legítimas como las de cualquiera, así que nómbralas abiertamente. Ayuda porque lo eliges, no para asegurarte el cariño. Creces cuando dejas que los demás también te cuiden y confías en que mereces amor sin necesidad de dar."
     },
     "type3": {
-      "name": "Tipo 3 – El Triunfador",
+      "name": "Tipo 3: El Triunfador",
       "short": "Te impulsa el deseo de triunfar y ser admirado; temes no valer nada o fracasar.",
       "low": "El patrón del Triunfador tiene un papel pequeño en ti. El estatus, la imagen y el éxito visible no son tu principal motor, y no mides tu valía por lo que consigues. Esto te libera de las comparaciones. Consejo: si tienes objetivos que te importan, un poco de ambición y un progreso visible pueden ayudarte a alcanzarlos. Deja que los demás vean tus logros; la modestia no debería ocultar tus fortalezas.",
       "mid": "Te reconoces en algunos rasgos del Triunfador. Te gusta hacerlo bien y disfrutas del reconocimiento, pero tu valía no depende por completo del éxito. Puedes trabajar duro por tus objetivos y aun así disfrutar del tiempo libre. Consejo: comprueba si los objetivos que persigues son realmente tuyos o lo que otros esperan de ti. Celebra tus logros y luego tómate también tiempo para disfrutar de la vida más allá del rendimiento, con personas que te aprecian sean cuales sean tus resultados.",
       "high": "El patrón del Triunfador es fuerte en ti. Eres ambicioso, eficiente y te centras en el éxito, y sabes presentarte bien. Tu miedo central es no valer nada sin tus logros. Motivas a los demás y sacas las cosas adelante. Consejo: fíjate en cuándo adaptas tu imagen para agradar o trabajas para no sentir el vacío. Dedica tiempo a actividades sin ningún objetivo. Creces cuando te valoras por quien eres, no por lo que consigues."
     },
     "type4": {
-      "name": "Tipo 4 – El Individualista",
+      "name": "Tipo 4: El Individualista",
       "short": "Te impulsa el deseo de ser único y auténtico; temes no tener identidad ni importancia.",
       "low": "El patrón del Individualista tiene un papel menor en ti. No sientes una gran necesidad de ser diferente ni de explorar a fondo cada emoción, y te sientes a gusto encajando. Esto te mantiene con los pies en la tierra y con sentido práctico. Consejo: haz algo de espacio a la expresión personal, como una afición creativa o conversaciones sinceras sobre sentimientos. Explorar lo que te hace único puede enriquecer tu vida.",
       "mid": "Te reconoces en algunos rasgos del Individualista. Valoras la autenticidad y tienes una vida interior rica, pero no te sientes fundamentalmente distinto de los demás. Puedes expresar tus emociones sin perder la perspectiva. Consejo: usa tu sensibilidad de forma creativa, por ejemplo escribiendo o con el arte. Cuando sientas que no te comprenden, comprueba si realmente has compartido lo que sientes. Los demás suelen preocuparse más de lo que esperas cuando entienden tu mundo interior.",
       "high": "El patrón del Individualista es fuerte en ti. Eres sensible, expresivo y estás muy en contacto con tus emociones, y anhelas ser auténtico y que te comprendan. Tu miedo central es no tener una identidad real ni importancia. Aportas profundidad, creatividad y sinceridad sobre los sentimientos. Consejo: fíjate en cuándo te centras en lo que falta en lugar de en lo que tienes. Las prácticas de gratitud y las rutinas prácticas pueden estabilizar tu ánimo. Creces cuando te das cuenta de que los momentos y vínculos corrientes también pueden tener sentido."
     },
     "type5": {
-      "name": "Tipo 5 – El Investigador",
+      "name": "Tipo 5: El Investigador",
       "short": "Te impulsa el deseo de comprender y ser competente; temes la impotencia o sentirte desbordado.",
       "low": "El patrón del Investigador tiene un papel pequeño en ti. No sientes una gran necesidad de retirarte y analizar antes de actuar, y compartes tu tiempo y tu energía con facilidad. Esto te hace una persona accesible e implicada. Consejo: ante decisiones complejas, date un rato tranquilo para investigar antes de lanzarte. Profundizar en un área que te importe puede darte confianza y conocimiento experto.",
       "mid": "Te reconoces en algunos rasgos del Investigador. Disfrutas aprendiendo y necesitas algo de tiempo para ti, pero también puedes implicarte activamente con la gente y con el mundo. Valoras el conocimiento sin esconderte detrás de él. Consejo: fíjate en cuándo te retiras a observar en lugar de participar, sobre todo en las relaciones. Compartir lo que sabes, incluso antes de sentirte del todo preparado, puede ser gratificante y a menudo te aporta comentarios útiles y conexión.",
       "high": "El patrón del Investigador es fuerte en ti. Eres curioso, perspicaz e independiente, y quieres entender el mundo en profundidad. Tu miedo central es la impotencia, la incapacidad o que las exigencias de los demás te agoten, así que proteges con cuidado tu tiempo y tu energía. Aportas lucidez y conocimiento. Consejo: fíjate en cuándo acumular conocimiento se convierte en una forma de evitar la acción o los sentimientos. Da pequeños pasos antes de sentirte completamente preparado. Creces cuando confías en que tienes suficiente para implicarte de lleno en la vida y con las personas."
     },
     "type6": {
-      "name": "Tipo 6 – El Leal",
+      "name": "Tipo 6: El Leal",
       "short": "Te impulsa el deseo de seguridad y apoyo; temes quedarte sin orientación ni protección.",
       "low": "El patrón del Leal tiene un papel menor en ti. No te preocupa mucho lo que podría salir mal y te sientes seguro sin necesitar una orientación fuerte ni que te tranquilicen. Esto te permite actuar con audacia. Consejo: antes de las decisiones importantes, plantéate conscientemente los posibles riesgos o pide su opinión a alguien más prudente. La lealtad y la preparación también pueden ser fortalezas que merece la pena desarrollar, sobre todo en equipos que cuentan contigo para anticiparte.",
       "mid": "Te reconoces en algunos rasgos del Leal. Valoras la seguridad y las relaciones de confianza y sabes detectar riesgos, pero tus dudas no suelen frenarte. Equilibras la prudencia con la confianza. Consejo: cuando la preocupación empiece a crecer, separa los riesgos realistas de los escenarios del tipo «¿y si…?». Confía más a menudo en tu propio criterio en lugar de buscar que te tranquilicen. Cada vez que actúas según él, crece la confianza en tu brújula interior.",
       "high": "El patrón del Leal es fuerte en ti. Eres leal, responsable y estás alerta ante los riesgos, y valoras mucho la confianza y la seguridad. Tu miedo central es quedarte sin apoyo ni orientación en un mundo peligroso. Eres un miembro del equipo fiable que se prepara para problemas que otros pasan por alto. Consejo: fíjate en cuándo la ansiedad te lleva a planificar en exceso o a dudar de todo el mundo, incluido tú. Practica actuar según tu propio criterio con pasos pequeños. Creces cuando descubres la seguridad interior que has estado buscando fuera de ti."
     },
     "type7": {
-      "name": "Tipo 7 – El Entusiasta",
+      "name": "Tipo 7: El Entusiasta",
       "short": "Te impulsa el deseo de libertad y diversión; temes quedar atrapado en el dolor o la privación.",
       "low": "El patrón del Entusiasta tiene un papel pequeño en ti. No buscas constantemente experiencias nuevas y puedes centrarte en una sola cosa, aunque no sea emocionante. Esto te da foco y profundidad. Consejo: permítete algo de espontaneidad de vez en cuando, como una escapada corta o una afición nueva. Un poco de espíritu de juego puede renovar tu energía y tus relaciones.",
       "mid": "Te reconoces en algunos rasgos del Entusiasta. Disfrutas de la diversión, la variedad y los planes nuevos, pero también puedes comprometerte y sostener los sentimientos difíciles. Equilibras el optimismo con el realismo y puedes disfrutar tanto de la aventura como de la calma. Consejo: fíjate en cuándo recurres a las distracciones para evitar algo incómodo. Terminar un proyecto antes de empezar el siguiente hará que tu entusiasmo dé frutos y te dará la satisfacción más profunda de completar las cosas.",
       "high": "El patrón del Entusiasta es fuerte en ti. Eres optimista, aventurero y estás lleno de ideas, y te encanta dejar abiertas tus opciones. Tu miedo central es quedar atrapado en el dolor, el aburrimiento o las limitaciones, así que a menudo pasas rápido a lo siguiente que te ilusiona. Llevas energía y alegría allá donde vas. Consejo: practica quedarte con las emociones difíciles en lugar de huir de ellas. Elige unos pocos compromisos y llévalos hasta el final. Creces cuando encuentras satisfacción en la profundidad, no solo en la variedad."
     },
     "type8": {
-      "name": "Tipo 8 – El Desafiador",
+      "name": "Tipo 8: El Desafiador",
       "short": "Te impulsa el deseo de ser fuerte y tener el control; temes que te controlen o mostrarte vulnerable.",
       "low": "El patrón del Desafiador tiene un papel menor en ti. No necesitas tomar el control ni demostrar tu fuerza, y rara vez buscas la confrontación. Esto hace que sea fácil colaborar contigo. Consejo: en situaciones en las que tú u otras personas recibís un trato injusto, practica hablar con firmeza. Hacerte valer no es agresividad; es proteger lo que importa. Empieza por situaciones pequeñas, como expresar claramente una preferencia en una reunión.",
       "mid": "Te reconoces en algunos rasgos del Desafiador. Puedes ser directo y protector, y tomas las riendas cuando hace falta, pero no necesitas dominar. Muestras fuerza sin perder la sensibilidad. Consejo: fíjate en cuándo presionas con fuerza para no sentirte vulnerable. Dejar que la gente vea tu lado más suave puede reforzar la confianza. Pregunta a los demás cómo les llega tu franqueza; sus respuestas pueden ayudarte a usar tu fuerza con más sabiduría.",
       "high": "El patrón del Desafiador es fuerte en ti. Eres seguro, directo y protector, y tomas las riendas de forma natural. Tu miedo central es que te controlen, te hagan daño o mostrarte vulnerable, así que valoras la fuerza y la independencia. Te defiendes a ti y a los demás y no te asusta el conflicto. Consejo: tu intensidad puede abrumar a la gente, así que baja el volumen y escucha por completo antes de actuar. Practica mostrarte vulnerable con personas de confianza. Creces cuando ves que la apertura y la delicadeza también son formas de fuerza."
     },
     "type9": {
-      "name": "Tipo 9 – El Pacificador",
+      "name": "Tipo 9: El Pacificador",
       "short": "Te impulsa el deseo de paz interior y exterior; temes el conflicto y la desconexión.",
       "low": "El patrón del Pacificador tiene un papel pequeño en ti. No rehúyes el conflicto y defiendes sin problema tus propias prioridades. Esto te mantiene activo y con claridad sobre lo que quieres. Consejo: cuando aumente la tensión, practica escuchar a todas las partes antes de imponer tu punto de vista. Un ritmo más tranquilo de vez en cuando puede ayudarte a ver el panorama general.",
       "mid": "Te reconoces en algunos rasgos del Pacificador. Valoras la armonía y sabes ver distintas perspectivas, pero también hablas cuando algo te importa. Equilibras la calma con la implicación. Consejo: fíjate en cuándo sigues la corriente a los demás para evitar roces. Decir lo que quieres, incluso en cosas pequeñas, mantiene la sinceridad en tus relaciones y evita que se acumule un resentimiento silencioso. Tu punto de vista aporta algo que los demás no pueden aportar.",
