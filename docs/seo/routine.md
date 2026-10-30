@@ -4,7 +4,7 @@ Instellingen en werkwijze voor de geplande taken die de blog en de SEO onderhoud
 
 ## Instellingen
 
-- **Automatisch publiceren:** nee
+- **Automatisch publiceren:** ja
   (ja = de dagelijkse taak merget zijn eigen pull request naar main zodra `npm run build` en `npm run check:blog` slagen;
   nee = de pull request blijft open tot Studio hem merget)
 
