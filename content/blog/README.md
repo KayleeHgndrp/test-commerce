@@ -77,3 +77,9 @@ Gebruik in de tekst geen `#` (H1): de titel is al de H1.
 Link waar het kan naar tests (`/nl/big-five`) en andere artikelen; dat helpt de SEO.
 
 Tijdens het bouwen waarschuwt het script als een SEO-titel of -beschrijving te lang is, een afbeelding geen `imageAlt` heeft of een `relatedTests`-slug niet bestaat.
+
+## Controle voor publicatie
+
+Draai `npm run check:blog` voordat je publiceert. Die faalt als een gepubliceerd artikel gedachtestreepjes (— of –) of
+standaard AI-zinnen bevat, of als een `translationKey` niet in alle 32 talen bestaat. Schrijfregels en de
+onderwerpenlijst staan in `docs/seo/`.
