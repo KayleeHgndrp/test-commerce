@@ -140,5 +140,17 @@
       "name": "Pelokas-välttelevä",
       "text": "Vastaustesi perusteella kiintymystyylisi on pelokas-välttelevä. Saatat kaivata läheisyyttä ja samalla pelätä sitä, joten ihmissuhteet voivat tuntua hämmentäviltä: lähestyt ihmisiä ja vetäydyt sitten, kun tilanne käy intensiiviseksi. Torjunnan pelko ja muista riippuvaisena olemisen epämukavuus voivat esiintyä rinnakkain. Tämä tyyli kehittyy usein kokemuksista, joissa läheisyys ei tuntunut turvalliselta, eikä siinä ole mitään hävettävää. Ole itsellesi lempeä ja hakeudu vakaisiin, ennustettaviin ihmissuhteisiin. Tunteiden huomaamisen ja nimeämisen oppiminen auttaa paljon. Työskentely pätevän terapeutin kanssa voi olla erityisen arvokasta turvallisemman tavan rakentamisessa."
     }
+  },
+  "couple": {
+    "secure+secure": "Kaksi turvallisesti kiintynyttä kumppania antaa toisilleen tilaa ja läheisyyttä ilman suurta vaivaa. Riidat karkaavat harvoin käsistä, koska luotatte molemmat siihen, että suhde kestää.",
+    "anxious+secure": "Turvallinen kumppani tarjoaa sitä vakaata läsnäoloa, jota ahdistunut kumppani kaipaa. Selkeä rauhoittelu ja vakiintuneet rituaalit auttavat ahdistunutta kumppania rentoutumaan ajan myötä.",
+    "avoidant+secure": "Turvallinen kumppani voi antaa välttelevälle kumppanille tilaa tuntematta itseään torjutuksi. Pienet läheisyyden hetket ilman painetta auttavat välttelevää kumppania avautumaan.",
+    "fearful+secure": "Turvallinen kumppani tarjoaa turvallisen perustan, jota pelokas kumppani sekä haluaa että pelkää. Kärsivällisyys ja ennustettavuus merkitsevät enemmän kuin suuret eleet.",
+    "anxious+anxious": "Kaipaatte molemmat läheisyyttä ja ymmärrätte sen tarpeen toisissanne. Stressissä voitte ruokkia toistenne huolia, joten rauhoittakaa toisenne ensin ennen kuin puhutte asiat läpi.",
+    "anxious+avoidant": "Tämä on tunnetuin vetäminen ja työntäminen: toinen hakee läheisyyttä, toinen vetäytyy, jolloin ensimmäinen painaa vielä enemmän. Kaavan tunnistaminen yhdessä on ensimmäinen askel sen katkaisemiseen.",
+    "anxious+fearful": "Tunnette molemmat paljon ja pelkäätte menettävänne toisen. Se voi tuntua hyvin voimakkaalta. Sopikaa selvät merkit sille, kun toinen tarvitsee rauhoittelua tai hetken yksin.",
+    "avoidant+avoidant": "Arvostatte molemmat itsenäisyyttä ettekä juuri tukahduta toisianne. Riskinä on etäisyys: tärkeät tunteet jäävät sanomatta. Varatkaa hetkiä todelliselle puhumiselle.",
+    "avoidant+fearful": "Toinen pitää etäisyyttä, toinen heiluu läheisyyden ja vetäytymisen välillä. Silloin kumpikin voi tuntea jäävänsä näkymättömäksi. Sanokaa ääneen, mitä tarvitsette, vaikka se tuntuisi kiusalliselta.",
+    "fearful+fearful": "Tunnistatte toisissanne kaipuun läheisyyteen ja pelon sitä kohtaan. Se voi luoda syvää ymmärrystä ja myös kaaosta. Vakaa rutiini ja tarvittaessa ulkopuolinen tuki auttavat teitä molempia."
   }
 }

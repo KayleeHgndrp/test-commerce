@@ -140,5 +140,17 @@
       "name": "Lękowo-unikający",
       "text": "Twoje odpowiedzi sugerują lękowo-unikający styl przywiązania. Możesz pragnąć bliskości, a jednocześnie się jej obawiać, przez co relacje bywają dezorientujące: zbliżasz się do ludzi, a potem wycofujesz, gdy robi się intensywnie. Lęk przed odrzuceniem i dyskomfort związany z poleganiem na innych mogą współistnieć. Ten styl często wyrasta z doświadczeń, w których bliskość nie była bezpieczna, i nie ma w nim nic wstydliwego. Traktuj siebie łagodnie i szukaj stabilnych, przewidywalnych relacji. Bardzo pomaga nauka zauważania i nazywania własnych uczuć. Szczególnie cenna może być praca z wykwalifikowanym terapeutą, która pomoże zbudować bezpieczniejszy sposób nawiązywania więzi."
     }
+  },
+  "couple": {
+    "secure+secure": "Dwoje bezpiecznie przywiązanych partnerów bez wysiłku daje sobie przestrzeń i bliskość. Konflikty rzadko wymykają się spod kontroli, bo oboje ufacie, że więź to wytrzyma.",
+    "anxious+secure": "Bezpieczny partner daje stabilną obecność, której pragnie partner lękowy. Jasne zapewnienia i stałe rytuały pomagają partnerowi lękowemu z czasem się rozluźnić.",
+    "avoidant+secure": "Bezpieczny partner potrafi dać partnerowi unikającemu przestrzeń, nie czując się odrzuconym. Małe chwile bliskości bez presji pomagają partnerowi unikającemu się otworzyć.",
+    "fearful+secure": "Bezpieczny partner daje bezpieczną bazę, której partner lękowo unikający jednocześnie chce i się boi. Cierpliwość i przewidywalność liczą się bardziej niż wielkie gesty.",
+    "anxious+anxious": "Oboje pragniecie bliskości i rozumiecie tę potrzebę u siebie nawzajem. W stresie możecie podsycać swoje obawy, więc najpierw się uspokójcie, a potem rozmawiajcie.",
+    "anxious+avoidant": "To najbardziej znane przyciąganie i odpychanie: jedno szuka bliskości, drugie się wycofuje, przez co pierwsze naciska jeszcze mocniej. Wspólne rozpoznanie tego wzorca to pierwszy krok, by go przerwać.",
+    "anxious+fearful": "Oboje dużo czujecie i boicie się utraty drugiej osoby. To może być bardzo intensywne. Ustalcie jasne sygnały na chwile, gdy jedno z Was potrzebuje zapewnienia lub chwili samotności.",
+    "avoidant+avoidant": "Oboje cenicie niezależność i rzadko się sobą przytłaczacie. Ryzykiem jest dystans: ważne uczucia pozostają niewypowiedziane. Planujcie chwile na prawdziwą rozmowę.",
+    "avoidant+fearful": "Jedno trzyma dystans, drugie waha się między bliskością a wycofaniem. Przez to oboje możecie czuć się niezauważeni. Mówcie na głos, czego potrzebujecie, nawet jeśli to niezręczne.",
+    "fearful+fearful": "Rozpoznajecie u siebie tęsknotę za bliskością i lęk przed nią. To może dać głębokie zrozumienie, ale też chaos. Stała rutyna i w razie potrzeby pomoc z zewnątrz pomagają Wam obojgu."
   }
 }

@@ -140,5 +140,17 @@
       "name": "Ängstlich-vermeidend",
       "text": "Deine Antworten deuten auf einen ängstlich-vermeidenden Stil hin. Vielleicht sehnst du dich nach Nähe und fürchtest sie zugleich, sodass sich Beziehungen verwirrend anfühlen können: Du gehst auf Menschen zu und ziehst dich dann zurück, wenn es intensiv wird. Die Sorge vor Zurückweisung und das Unbehagen, dich auf andere zu verlassen, können nebeneinander bestehen. Dieser Stil entsteht oft aus Erfahrungen, in denen sich Nähe nicht sicher anfühlte, und er ist nichts, wofür du dich schämen musst. Sei sanft mit dir und such nach stabilen, verlässlichen Beziehungen. Zu lernen, deine Gefühle wahrzunehmen und zu benennen, hilft sehr. Die Arbeit mit einer qualifizierten Psychotherapeutin oder einem Psychotherapeuten kann besonders wertvoll sein, um eine sicherere Art der Verbindung aufzubauen."
     }
+  },
+  "couple": {
+    "secure+secure": "Zwei sicher gebundene Partner geben sich ohne große Mühe Freiraum und Nähe. Konflikte eskalieren selten, weil ihr beide darauf vertraut, dass die Bindung es aushält.",
+    "anxious+secure": "Der sichere Partner bietet die stabile Präsenz, nach der sich der ängstliche Partner sehnt. Klare Bestätigung und feste Rituale helfen dem ängstlichen Partner, mit der Zeit zu entspannen.",
+    "avoidant+secure": "Der sichere Partner kann dem vermeidenden Partner Raum geben, ohne sich abgelehnt zu fühlen. Kleine Momente der Nähe ohne Druck helfen dem vermeidenden Partner, sich zu öffnen.",
+    "fearful+secure": "Der sichere Partner bietet einen sicheren Hafen, den der ängstlich-vermeidende Partner zugleich will und fürchtet. Geduld und Verlässlichkeit zählen mehr als große Gesten.",
+    "anxious+anxious": "Ihr sehnt euch beide nach Nähe und versteht dieses Bedürfnis beim anderen. Unter Stress könnt ihr eure Sorgen gegenseitig verstärken, also beruhigt euch zuerst, bevor ihr etwas klärt.",
+    "anxious+avoidant": "Das ist das bekannteste Ziehen und Wegstoßen: Einer sucht Nähe, der andere zieht sich zurück, worauf der Erste noch stärker zieht. Dieses Muster gemeinsam zu erkennen ist der erste Schritt, es zu durchbrechen.",
+    "anxious+fearful": "Ihr fühlt beide viel und habt Angst, den anderen zu verlieren. Das kann sehr intensiv sein. Vereinbart klare Signale dafür, wann einer von euch Bestätigung oder kurz Zeit für sich braucht.",
+    "avoidant+avoidant": "Ihr schätzt beide Unabhängigkeit und engt euch selten ein. Das Risiko ist Distanz: Wichtige Gefühle bleiben unausgesprochen. Plant Momente, um wirklich zu reden.",
+    "avoidant+fearful": "Einer hält Abstand, der andere schwankt zwischen Nähe und Rückzug. So könnt ihr euch beide ungesehen fühlen. Sagt laut, was ihr braucht, auch wenn es sich unangenehm anfühlt.",
+    "fearful+fearful": "Ihr erkennt beim anderen die Sehnsucht nach Nähe und die Angst davor. Das kann tiefes Verständnis schaffen und auch Chaos. Eine feste Routine und bei Bedarf Hilfe von außen helfen euch beiden."
   }
 }

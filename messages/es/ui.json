@@ -237,7 +237,11 @@
     "spam": "¿No lo has recibido tras 10 minutos? Revisa la carpeta de spam o de promociones, o escríbenos a {email}.",
     "more": "Descubre más tests",
     "bundleTitle": "Tu próximo informe por {price}",
-    "bundleText": "Elige otro test abajo y hazlo en los próximos {days} días. Su informe completo costará {price} en lugar de {full}. Válido para un informe adicional."
+    "bundleText": "Elige otro test abajo y hazlo en los próximos {days} días. Su informe completo costará {price} en lugar de {full}. Válido para un informe adicional.",
+    "packTitle": "Tu paquete está activo",
+    "packText": "Haz otro test. En la página de resultados tu siguiente informe se desbloquea al momento, sin volver a pagar. Te quedan: {count}.",
+    "allTitle": "Tu pase completo está activo",
+    "allText": "Haz el test que quieras. En la página de resultados cada informe se desbloquea al momento, sin volver a pagar."
   },
   "report": {
     "subject": "Tu informe: {test}",
@@ -247,7 +251,31 @@
     "outro": "Esperamos que este informe te aporte ideas útiles. ¿Te pica la curiosidad por otras facetas de ti? Descubre todos nuestros tests en {url}.",
     "signature": "El equipo de {site}",
     "instrumentLabel": "{name}: {score} de {max}",
-    "typeLabel": "Tu tipo"
+    "typeLabel": "Tu tipo",
+    "coupleSubject": "Vuestro informe de pareja: {test}",
+    "coupleIntro": "Gracias por hacer juntos el {test} en {site}. Aquí tienes el informe de pareja para ti y {name}.",
+    "coupleSummary": "Este informe os compara a ti y a {name} en cada parte del {test}. Una diferencia no es un problema. Muestra dónde necesitáis paciencia mutua y dónde podéis aprender el uno del otro.",
+    "matchLabel": "Vuestra compatibilidad",
+    "matchName": "{score}% de compatibilidad: {band}",
+    "matchText": {
+      "high": "Veis muchas cosas de la misma manera, y eso da calma y confianza. Seguid hablando de los pocos puntos en los que diferís.",
+      "mid": "Tenéis una base sólida y también diferencias claras. Con algo de atención, esas diferencias enriquecen vuestra relación.",
+      "low": "Sois bastante diferentes. Eso puede ser emocionante y también agotador. Este informe muestra dónde prestar más atención."
+    },
+    "typesLine": "Tu tipo: {mine}. {name}: {theirs}.",
+    "scoreLine": "Tú: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Parecidos",
+      "some": "Algo parecidos",
+      "different": "Diferentes"
+    },
+    "closenessText": {
+      "alike": "Aquí puntuáis muy parecido. Eso suele sentirse fácil y natural. El riesgo es reforzar vuestros puntos ciegos, así que de vez en cuando preguntaos qué podríais estar pasando por alto.",
+      "some": "Aquí os diferenciáis un poco. En el día a día apenas lo notaréis, pero con estrés la distancia puede parecer mayor. Decidlo en voz alta cuando aparezca.",
+      "different": "Aquí os diferenciáis mucho. Aquí suelen empezar los roces, y también es donde más podéis aprender el uno del otro. Acordad cómo manejarlo antes de que se convierta en una discusión."
+    },
+    "passLine": "Tu paquete incluye {count} informes más. Haz otro test y el informe se desbloquea en la página de resultados. En otro dispositivo, abre primero este enlace: {link}",
+    "passLineAll": "Tu pase completo desbloquea todos los informes. Haz un test y el informe se desbloquea en la página de resultados. En otro dispositivo, abre primero este enlace: {link}"
   },
   "footer": {
     "tagline": "Conócete mejor",
@@ -278,7 +306,7 @@
     "termsTitle": "Condiciones del servicio",
     "termsBody": [
       "Todos los tests de {site} están pensados para la autorreflexión y el entretenimiento. No constituyen un diagnóstico médico, psicológico ni profesional.",
-      "Hacer un test es gratis. Un informe personal cuesta {price} por test, en un único pago. El informe se entrega en formato digital por correo electrónico.",
+      "Hacer un test es gratis. Un informe personal cuesta {price} por test como pago único. También puedes comprar un paquete de 3 informes, un pase para todos los informes o un informe de pareja que compara a dos personas que hicieron el mismo test. También son pagos únicos. Los informes se entregan en formato digital por correo electrónico.",
       "Como el informe es contenido digital que se entrega inmediatamente después del pago, aceptas que tu derecho de desistimiento se extingue una vez enviado el informe. Si no has recibido tu informe, escribe a {email} y te lo volveremos a enviar o te devolveremos el dinero.",
       "Hacemos lo posible para que el contenido sea exacto, pero no podemos garantizar que los resultados sean completos o correctos para todas las personas."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Política de reembolso",
     "refundBody": [
-      "Un informe cuesta {price} por test, en un único pago. No hay suscripción ni renovación automática.",
+      "Un informe cuesta {price} por test como pago único. Los paquetes, el pase completo y los informes de pareja también son pagos únicos. No hay suscripción ni renovación automática.",
       "¿No has recibido tu informe o ha habido algún problema? Escribe a {email} en un plazo de 14 días indicando la dirección de correo que usaste, y te reenviaremos el informe o te devolveremos el pago.",
       "Como el informe es contenido digital que se entrega de inmediato, el derecho legal de desistimiento se extingue una vez enviado. Aun así, siempre te ayudaremos si algo no va bien.",
       "Los reembolsos se realizan al método de pago original en un plazo de 5 a 10 días hábiles."
@@ -385,5 +413,61 @@
     "accept": "Aceptar",
     "decline": "Rechazar",
     "settings": "Cambiar la configuración de cookies"
+  },
+  "plans": {
+    "title": "Elige tu informe",
+    "single": "Este informe",
+    "pack": "3 informes",
+    "packNote": "Este más 2 tests a tu elección",
+    "all": "Los {count} informes",
+    "allNote": "Todos los tests del sitio, desbloquéalos cuando quieras",
+    "save": "Ahorra {amount}",
+    "passPack": "A tu paquete le quedan {count} informes",
+    "passAll": "Tu pase completo está activo",
+    "passUnlock": "Desbloquear este informe gratis",
+    "passError": "No se pudo usar tu paquete para este informe. Aún puedes comprarlo abajo.",
+    "packProduct": "{test} + {extra} informes más",
+    "allProduct": "Los {count} informes"
+  },
+  "couple": {
+    "inviteTitle": "Haz este test con tu pareja",
+    "inviteText": "Envía un enlace a tu pareja. Hace el mismo test gratis y los dos veis vuestra puntuación de compatibilidad al instante.",
+    "nameLabel": "Tu nombre (opcional)",
+    "createLink": "Invitar a mi pareja",
+    "copy": "Copiar enlace",
+    "copied": "Enlace copiado",
+    "inviteMessage": "Haz el {test} conmigo y veamos lo compatibles que somos",
+    "invitedTitle": "{name} te ha invitado",
+    "invitedTitleAnon": "Te han invitado",
+    "invitedText": "Haz el {test}. Después los dos veréis lo compatibles que sois.",
+    "start": "Empezar el test",
+    "invalid": "Este enlace de invitación no funciona. Pide a tu pareja que lo envíe de nuevo.",
+    "matchTitle": "Vuestra compatibilidad",
+    "matchWith": "Tú y {name}",
+    "partner": "tu pareja",
+    "bands": {
+      "high": "Gran compatibilidad",
+      "mid": "Buena compatibilidad con margen",
+      "low": "Los opuestos se atraen"
+    },
+    "shareScore": "Compartir puntuación",
+    "shareText": "Tenemos un {score}% de compatibilidad en el {test}. ¿Y vosotros?",
+    "sendBackTitle": "Envía la puntuación a {name}",
+    "sendBackText": "Con este enlace tu pareja ve la misma puntuación.",
+    "unlockTitle": "El informe de pareja completo",
+    "unlockText": "Descubre en cada rasgo en qué os parecéis tú y {name}, dónde puede haber roces y qué os ayuda a los dos.",
+    "includes": [
+      "Vuestras puntuaciones juntas para cada rasgo",
+      "En qué os parecéis y en qué os diferenciáis",
+      "Qué significa vuestra combinación y qué ayuda"
+    ],
+    "buy": "Consigue el informe de pareja por {price}",
+    "note": "Un solo pago para los dos. El informe llega a tu correo para que puedas reenviarlo.",
+    "product": "Informe de pareja: {test}"
+  },
+  "passPage": {
+    "title": "Tu paquete",
+    "text": "Tu paquete ya está activo en este dispositivo. Elige un test y tu informe se desbloquea al momento.",
+    "invalid": "Este enlace no funciona. Contáctanos y te ayudaremos."
   }
 }

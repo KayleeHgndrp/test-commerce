@@ -140,5 +140,17 @@
       "name": "Temeroso-evitativo",
       "text": "Tus respuestas apuntan a un estilo temeroso-evitativo. Puede que anheles la cercanía y a la vez la temas, así que las relaciones pueden resultarte confusas: te acercas a las personas y luego te retiras cuando todo se vuelve intenso. La preocupación por el rechazo y la incomodidad de depender de los demás pueden convivir. Este estilo suele nacer de experiencias en las que la cercanía no se sentía segura, y no es nada de lo que avergonzarse. Trátate con suavidad y busca relaciones estables y predecibles. Aprender a detectar y nombrar tus sentimientos ayuda mucho. Trabajar con un terapeuta cualificado puede ser especialmente valioso para construir una forma más segura de vincularte."
     }
+  },
+  "couple": {
+    "secure+secure": "Dos parejas seguras se dan espacio y cercanía sin mucho esfuerzo. Los conflictos rara vez se descontrolan, porque ambos confiáis en que el vínculo lo aguanta.",
+    "anxious+secure": "La persona segura ofrece la presencia estable que la persona ansiosa anhela. Palabras claras de tranquilidad y rituales fijos ayudan a la persona ansiosa a relajarse con el tiempo.",
+    "avoidant+secure": "La persona segura puede dar espacio a la persona evitativa sin sentirse rechazada. Pequeños momentos de cercanía sin presión ayudan a la persona evitativa a abrirse.",
+    "fearful+secure": "La persona segura ofrece una base firme, algo que la persona temerosa desea y teme a la vez. La paciencia y la previsibilidad importan más que los grandes gestos.",
+    "anxious+anxious": "Los dos anheláis cercanía y entendéis esa necesidad en el otro. Con estrés podéis alimentar las preocupaciones del otro, así que calmaos primero antes de hablarlo.",
+    "anxious+avoidant": "Es el tira y afloja más conocido: uno busca cercanía, el otro se aleja, y eso hace que el primero insista más. Reconocer este patrón juntos es el primer paso para romperlo.",
+    "anxious+fearful": "Los dos sentís mucho y teméis perder al otro. Puede resultar muy intenso. Acordad señales claras para cuando uno necesite tranquilidad o un momento a solas.",
+    "avoidant+avoidant": "Los dos valoráis la independencia y rara vez os agobiáis. El riesgo es la distancia: sentimientos importantes quedan sin decir. Planead momentos para hablar de verdad.",
+    "avoidant+fearful": "Uno mantiene la distancia, el otro oscila entre cercanía y retirada. Eso puede hacer que ninguno se sienta visto. Decid en voz alta lo que necesitáis, aunque resulte incómodo.",
+    "fearful+fearful": "Reconocéis en el otro el deseo de cercanía y el miedo a ella. Eso puede crear una comprensión profunda y también caos. Una rutina estable y, si hace falta, ayuda externa os sirven a los dos."
   }
 }

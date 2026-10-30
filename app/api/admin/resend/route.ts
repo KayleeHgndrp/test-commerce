@@ -1,7 +1,6 @@
 import crypto from "node:crypto";
-import { retrievePaidOrder } from "@/lib/delivery";
+import { renderOrder, retrievePaidOrder } from "@/lib/delivery";
 import { sendEmail } from "@/lib/email";
-import { renderReport } from "@/lib/report/render";
 
 // Support tool: resend a paid report, optionally to another address.
 //   curl -X POST https://<domain>/api/admin/resend \
@@ -25,6 +24,6 @@ export async function POST(request: Request) {
   if (!order) return Response.json({ error: "no paid session found" }, { status: 404 });
 
   const to = body?.email && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(body.email) ? body.email : order.email;
-  await sendEmail(to, await renderReport(order.locale, order.slug, order.answers));
+  await sendEmail(to, await renderOrder(order));
   return Response.json({ ok: true, sentTo: to });
 }

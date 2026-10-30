@@ -237,7 +237,11 @@
     "spam": "Rien reçu après 10 minutes ? Vérifiez votre dossier spam ou promotions, ou contactez-nous à {email}.",
     "more": "Découvrir d'autres tests",
     "bundleTitle": "Votre prochain rapport pour {price}",
-    "bundleText": "Choisissez un autre test ci-dessous et faites-le dans les {days} jours. Son rapport complet coûtera alors {price} au lieu de {full}. Valable pour un rapport supplémentaire."
+    "bundleText": "Choisissez un autre test ci-dessous et faites-le dans les {days} jours. Son rapport complet coûtera alors {price} au lieu de {full}. Valable pour un rapport supplémentaire.",
+    "packTitle": "Ton pack est actif",
+    "packText": "Fais un autre test. Sur la page de résultat, ton prochain rapport se débloque tout de suite, sans payer à nouveau. Restant : {count}.",
+    "allTitle": "Ton pass complet est actif",
+    "allText": "Fais le test de ton choix. Sur la page de résultat, chaque rapport se débloque tout de suite, sans payer à nouveau."
   },
   "report": {
     "subject": "Votre rapport : {test}",
@@ -247,7 +251,31 @@
     "outro": "Nous espérons que ce rapport vous apportera des éclairages utiles. Envie d'explorer d'autres facettes de vous-même ? Découvrez tous nos tests sur {url}.",
     "signature": "L'équipe {site}",
     "instrumentLabel": "{name} : {score} sur {max}",
-    "typeLabel": "Votre type"
+    "typeLabel": "Votre type",
+    "coupleSubject": "Votre rapport de couple : {test}",
+    "coupleIntro": "Merci d'avoir fait le {test} ensemble sur {site}. Voici le rapport de couple pour toi et {name}.",
+    "coupleSummary": "Ce rapport compare toi et {name} sur chaque partie du {test}. Une différence n'est pas un problème. Elle montre où vous avez besoin de patience l'un envers l'autre et où vous pouvez apprendre l'un de l'autre.",
+    "matchLabel": "Votre compatibilité",
+    "matchName": "{score}% de compatibilité : {band}",
+    "matchText": {
+      "high": "Vous voyez beaucoup de choses de la même façon, ce qui apporte calme et confiance. Continuez à parler des quelques points où vous différez.",
+      "mid": "Vous avez une base solide et aussi de vraies différences. Avec un peu d'attention, ces différences enrichissent votre relation.",
+      "low": "Vous êtes assez différents. Cela peut être stimulant et aussi fatigant. Ce rapport montre où faire particulièrement attention."
+    },
+    "typesLine": "Ton type : {mine}. {name} : {theirs}.",
+    "scoreLine": "Toi : {mine}% · {name} : {theirs}%",
+    "closeness": {
+      "alike": "Semblables",
+      "some": "En partie semblables",
+      "different": "Différents"
+    },
+    "closenessText": {
+      "alike": "Vos scores sont proches ici. Cela paraît en général facile et naturel. Le risque est de renforcer vos angles morts, alors demandez-vous de temps en temps ce que vous pourriez manquer tous les deux.",
+      "some": "Vous différez un peu ici. Au quotidien, vous le remarquerez à peine, mais sous stress l'écart peut sembler plus grand. Nommez-le à voix haute quand il apparaît.",
+      "different": "Vous différez beaucoup ici. C'est souvent là que commencent les frictions, et aussi là où vous pouvez le plus apprendre l'un de l'autre. Mettez-vous d'accord sur la façon de gérer cela avant que ça devienne une dispute."
+    },
+    "passLine": "Ton pack contient encore {count} rapports. Fais un autre test et le rapport se débloque sur la page de résultat. Sur un autre appareil, ouvre d'abord ce lien : {link}",
+    "passLineAll": "Ton pass complet débloque tous les rapports. Fais un test et le rapport se débloque sur la page de résultat. Sur un autre appareil, ouvre d'abord ce lien : {link}"
   },
   "footer": {
     "tagline": "Mieux vous connaître",
@@ -278,7 +306,7 @@
     "termsTitle": "Conditions d'utilisation",
     "termsBody": [
       "Tous les tests proposés sur {site} sont destinés à l'introspection et au divertissement. Ils ne constituent pas un diagnostic médical, psychologique ou professionnel.",
-      "Passer un test est gratuit. Un rapport personnel coûte {price} par test, en paiement unique. Le rapport est livré sous forme numérique par e-mail.",
+      "Faire un test est gratuit. Un rapport personnel coûte {price} par test en paiement unique. Tu peux aussi acheter un pack de 3 rapports, un pass pour tous les rapports ou un rapport de couple qui compare deux personnes ayant fait le même test. Ce sont aussi des paiements uniques. Les rapports sont livrés en format numérique par e-mail.",
       "Le rapport étant un contenu numérique fourni immédiatement après le paiement, vous acceptez que votre droit de rétractation prenne fin dès l'envoi du rapport. Si vous n'avez pas reçu votre rapport, contactez {email} et nous vous le renverrons ou vous rembourserons.",
       "Nous faisons de notre mieux pour que le contenu soit exact, mais nous ne pouvons pas garantir que les résultats soient complets ou corrects pour chaque personne."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Politique de remboursement",
     "refundBody": [
-      "Un rapport coûte {price} par test, en paiement unique. Il n'y a ni abonnement ni renouvellement automatique.",
+      "Un rapport coûte {price} par test en paiement unique. Les packs, le pass complet et les rapports de couple sont aussi des paiements uniques. Il n'y a pas d'abonnement ni de renouvellement automatique.",
       "Vous n'avez pas reçu votre rapport ou quelque chose s'est mal passé ? Contactez {email} dans les 14 jours en indiquant l'adresse e-mail utilisée, et nous vous renverrons votre rapport ou vous rembourserons.",
       "Le rapport étant un contenu numérique livré immédiatement, le droit légal de rétractation prend fin dès son envoi. Nous vous aiderons néanmoins toujours si quelque chose ne va pas.",
       "Les remboursements sont effectués sur le moyen de paiement d'origine sous 5 à 10 jours ouvrés."
@@ -385,5 +413,61 @@
     "accept": "Accepter",
     "decline": "Refuser",
     "settings": "Modifier les paramètres des cookies"
+  },
+  "plans": {
+    "title": "Choisis ton rapport",
+    "single": "Ce rapport",
+    "pack": "3 rapports",
+    "packNote": "Celui-ci plus 2 autres tests au choix",
+    "all": "Les {count} rapports",
+    "allNote": "Tous les tests du site, à débloquer quand tu veux",
+    "save": "Économise {amount}",
+    "passPack": "Il reste {count} rapports dans ton pack",
+    "passAll": "Ton pass complet est actif",
+    "passUnlock": "Débloquer ce rapport gratuitement",
+    "passError": "Ton pack n'a pas pu être utilisé pour ce rapport. Tu peux toujours l'acheter ci-dessous.",
+    "packProduct": "{test} + {extra} rapports en plus",
+    "allProduct": "Les {count} rapports"
+  },
+  "couple": {
+    "inviteTitle": "Fais ce test avec ton ou ta partenaire",
+    "inviteText": "Envoie un lien à ton ou ta partenaire. Il ou elle fait le même test gratuitement et vous voyez tous les deux votre score de compatibilité tout de suite.",
+    "nameLabel": "Ton prénom (facultatif)",
+    "createLink": "Inviter mon ou ma partenaire",
+    "copy": "Copier le lien",
+    "copied": "Lien copié",
+    "inviteMessage": "Fais le {test} avec moi et voyons à quel point on est compatibles",
+    "invitedTitle": "{name} t'a invité",
+    "invitedTitleAnon": "Tu as été invité",
+    "invitedText": "Fais le {test}. Ensuite vous voyez tous les deux à quel point vous êtes compatibles.",
+    "start": "Commencer le test",
+    "invalid": "Ce lien d'invitation ne fonctionne pas. Demande à ton ou ta partenaire de le renvoyer.",
+    "matchTitle": "Votre score de compatibilité",
+    "matchWith": "Toi et {name}",
+    "partner": "ton ou ta partenaire",
+    "bands": {
+      "high": "Très compatibles",
+      "mid": "Bonne compatibilité avec de la marge",
+      "low": "Les contraires s'attirent"
+    },
+    "shareScore": "Partager votre score",
+    "shareText": "Nous sommes compatibles à {score}% au {test}. Et vous ?",
+    "sendBackTitle": "Envoie le score à {name}",
+    "sendBackText": "Avec ce lien, ton ou ta partenaire voit le même score.",
+    "unlockTitle": "Le rapport de couple complet",
+    "unlockText": "Découvre pour chaque trait où toi et {name} vous ressemblez, où ça peut coincer et ce qui vous aide tous les deux.",
+    "includes": [
+      "Vos deux scores côte à côte pour chaque trait",
+      "Où vous vous ressemblez et où vous différez",
+      "Ce que votre combinaison signifie et ce qui aide"
+    ],
+    "buy": "Obtenir le rapport de couple pour {price}",
+    "note": "Un seul paiement pour vous deux. Le rapport arrive par e-mail, tu peux donc le transférer.",
+    "product": "Rapport de couple : {test}"
+  },
+  "passPage": {
+    "title": "Ton pack",
+    "text": "Ton pack est maintenant actif sur cet appareil. Choisis un test et ton rapport se débloque tout de suite.",
+    "invalid": "Ce lien ne fonctionne pas. Contacte-nous et nous t'aiderons."
   }
 }

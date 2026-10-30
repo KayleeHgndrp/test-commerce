@@ -237,7 +237,11 @@
     "spam": "Níl sí faighte agat tar éis 10 nóiméad? Seiceáil d'fhillteán turscair nó cur chun cinn, nó déan teagmháil linn ag {email}.",
     "more": "Faigh amach faoi níos mó tástálacha",
     "bundleTitle": "Do chéad tuarascáil eile ar {price}",
-    "bundleText": "Roghnaigh triail eile thíos agus déan í laistigh de {days} lá. Cosnóidh an tuarascáil iomlán {price} in ionad {full} ansin. Bailí do thuarascáil bhreise amháin."
+    "bundleText": "Roghnaigh triail eile thíos agus déan í laistigh de {days} lá. Cosnóidh an tuarascáil iomlán {price} in ionad {full} ansin. Bailí do thuarascáil bhreise amháin.",
+    "packTitle": "Tá do phacáiste gníomhach",
+    "packText": "Déan triail eile. Ar an leathanach torthaí díghlasáiltear do chéad tuarascáil eile láithreach, gan íoc arís. Fágtha: {count}.",
+    "allTitle": "Tá do phas iomlán gníomhach",
+    "allText": "Déan aon triail is mian leat. Ar an leathanach torthaí díghlasáiltear gach tuarascáil láithreach, gan íoc arís."
   },
   "report": {
     "subject": "Do thuarascáil: {test}",
@@ -247,7 +251,31 @@
     "outro": "Tá súil againn go dtabharfaidh an tuarascáil seo léargais úsáideacha duit. An bhfuil suim agat i ngnéithe eile díot féin? Faigh amach faoinár dtástálacha go léir ag {url}.",
     "signature": "Foireann {site}",
     "instrumentLabel": "{name}: {score} as {max}",
-    "typeLabel": "Do chineál"
+    "typeLabel": "Do chineál",
+    "coupleSubject": "Bhur dtuarascáil lánúine: {test}",
+    "coupleIntro": "Go raibh maith agaibh as an {test} a dhéanamh le chéile ar {site}. Seo í an tuarascáil lánúine duitse agus do {name}.",
+    "coupleSummary": "Déanann an tuarascáil seo comparáid idir tusa agus {name} i ngach cuid den {test}. Ní fadhb í difríocht. Taispeánann sí cá bhfuil foighne ag teastáil uaibh lena chéile agus cá bhféadfaidh sibh foghlaim óna chéile.",
+    "matchLabel": "Bhur n-oiriúnacht",
+    "matchName": "{score}% oiriúnachta: {band}",
+    "matchText": {
+      "high": "Feiceann sibh go leor rudaí ar an mbealach céanna, rud a thugann suaimhneas agus muinín. Leanaigí oraibh ag caint faoin mbeagán pointí ina bhfuil sibh difriúil.",
+      "mid": "Tá bunús láidir agaibh agus difríochtaí soiléire freisin. Le beagán airde, saibhríonn na difríochtaí sin bhur gcaidreamh.",
+      "low": "Tá sibh sách difriúil óna chéile. Is féidir leis sin a bheith spreagúil agus tuirsiúil freisin. Taispeánann an tuarascáil seo cá háit ar cheart aird bhreise a thabhairt."
+    },
+    "typesLine": "Do chineál: {mine}. {name}: {theirs}.",
+    "scoreLine": "Tusa: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Cosúil",
+      "some": "Cosúil go páirteach",
+      "different": "Difriúil"
+    },
+    "closenessText": {
+      "alike": "Tá bhur scóir gar dá chéile anseo. Is gnách go mbraitheann sé sin éasca agus nádúrtha. Is é an baol go neartaíonn sibh spotaí dalla a chéile, mar sin fiafraígí ó am go ham cad a d'fhéadfadh sibh beirt a bheith ag cailleadh.",
+      "some": "Tá sibh beagán difriúil anseo. Sa saol laethúil is ar éigean a thabharfaidh sibh faoi deara é, ach faoi bhrú is féidir leis an mbearna mothú níos mó. Abraigí os ard é nuair a thagann sé chun cinn.",
+      "different": "Tá sibh an-difriúil anseo. Is minic a thosaíonn coimhlint anseo, agus is anseo freisin is mó is féidir libh foghlaim óna chéile. Socraígí conas a láimhseálfaidh sibh é sula n-éiríonn sé ina argóint."
+    },
+    "passLine": "Tá {count} thuarascáil eile i do phacáiste. Déan triail eile agus díghlasáiltear an tuarascáil ar an leathanach torthaí. Ar ghléas eile, oscail an nasc seo ar dtús: {link}",
+    "passLineAll": "Díghlasálann do phas iomlán gach tuarascáil. Déan triail agus díghlasáiltear an tuarascáil ar an leathanach torthaí. Ar ghléas eile, oscail an nasc seo ar dtús: {link}"
   },
   "footer": {
     "tagline": "Cuir aithne níos fearr ort féin",
@@ -278,7 +306,7 @@
     "termsTitle": "Téarmaí seirbhíse",
     "termsBody": [
       "Tá gach tástáil ar {site} ceaptha le haghaidh féinmhachnaimh agus siamsaíochta. Ní diagnóis leighis, shíceolaíoch ná ghairmiúil iad.",
-      "Tá sé saor in aisce tástáil a dhéanamh. Cosnaíonn tuarascáil phearsanta {price} in aghaidh na tástála mar íocaíocht aonuaire. Seachadtar an tuarascáil go digiteach trí ríomhphost.",
+      "Tá sé saor in aisce triail a dhéanamh. Cosnaíonn tuarascáil phearsanta {price} in aghaidh na trialach mar íocaíocht aonuaire. Is féidir leat pacáiste de 3 thuarascáil, pas do gach tuarascáil nó tuarascáil lánúine a chuireann beirt a rinne an triail chéanna i gcomparáid a cheannach freisin. Is íocaíochtaí aonuaire iad sin freisin. Seachadtar tuarascálacha go digiteach trí ríomhphost.",
       "Ós rud é gur ábhar digiteach í an tuarascáil a sheachadtar díreach tar éis na híocaíochta, aontaíonn tú go dtéann an ceart tarraingt siar in éag a luaithe a sheoltar an tuarascáil. Mura bhfuair tú do thuarascáil, déan teagmháil le {email} agus seolfaimid arís í nó tabharfaimid aisíocaíocht duit.",
       "Déanaimid ár ndícheall an t-ábhar a choinneáil cruinn, ach ní féidir linn a ráthú go bhfuil na torthaí iomlán nó ceart do gach duine."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Beartas aisíocaíochta",
     "refundBody": [
-      "Cosnaíonn tuarascáil {price} in aghaidh na tástála mar íocaíocht aonuaire. Níl aon síntiús ná athnuachan uathoibríoch ann.",
+      "Cosnaíonn tuarascáil {price} in aghaidh na trialach mar íocaíocht aonuaire. Is íocaíochtaí aonuaire iad pacáistí, an pas iomlán agus tuarascálacha lánúine freisin. Níl aon síntiús ann ná athnuachan uathoibríoch.",
       "Nach bhfuair tú do thuarascáil, nó ar chuaigh rud éigin mícheart? Déan teagmháil le {email} laistigh de 14 lá, ag lua an seoladh ríomhphoist a d'úsáid tú, agus seolfaimid do thuarascáil arís nó aisíocfaimid d'íocaíocht.",
       "Ós rud é gur ábhar digiteach í an tuarascáil a sheachadtar láithreach, téann an ceart reachtúil tarraingt siar in éag a luaithe a sheoltar í. Mar sin féin, cabhróimid leat i gcónaí mura bhfuil rud éigin i gceart.",
       "Déantar aisíocaíochtaí ar an modh íocaíochta bunaidh laistigh de 5–10 lá oibre."
@@ -385,5 +413,61 @@
     "accept": "Glac leo",
     "decline": "Diúltaigh",
     "settings": "Athraigh socruithe fianán"
+  },
+  "plans": {
+    "title": "Roghnaigh do thuarascáil",
+    "single": "An tuarascáil seo",
+    "pack": "3 thuarascáil",
+    "packNote": "An ceann seo agus 2 thriail eile de do rogha",
+    "all": "Na {count} tuarascáil ar fad",
+    "allNote": "Gach triail ar an suíomh, díghlasáil iad nuair is mian leat",
+    "save": "Sábháil {amount}",
+    "passPack": "Tá {count} tuarascáil fágtha i do phacáiste",
+    "passAll": "Tá do phas iomlán gníomhach",
+    "passUnlock": "Díghlasáil an tuarascáil seo saor in aisce",
+    "passError": "Níorbh fhéidir do phacáiste a úsáid don tuarascáil seo. Is féidir leat í a cheannach thíos fós.",
+    "packProduct": "{test} + {extra} thuarascáil eile",
+    "allProduct": "Na {count} tuarascáil ar fad"
+  },
+  "couple": {
+    "inviteTitle": "Déan an triail seo le do pháirtí",
+    "inviteText": "Seol nasc chuig do pháirtí. Déanann sé nó sí an triail chéanna saor in aisce agus feiceann sibh beirt bhur scór oiriúnachta láithreach.",
+    "nameLabel": "Do chéadainm (roghnach)",
+    "createLink": "Tabhair cuireadh do mo pháirtí",
+    "copy": "Cóipeáil an nasc",
+    "copied": "Nasc cóipeáilte",
+    "inviteMessage": "Déan an {test} liom agus feicfimid cé chomh maith agus a oireann muid dá chéile",
+    "invitedTitle": "Thug {name} cuireadh duit",
+    "invitedTitleAnon": "Tugadh cuireadh duit",
+    "invitedText": "Déan an {test}. Ina dhiaidh sin feicfidh sibh beirt cé chomh maith agus a oireann sibh dá chéile.",
+    "start": "Tosaigh an triail",
+    "invalid": "Níl an nasc cuiridh seo ag obair. Iarr ar do pháirtí é a sheoladh arís.",
+    "matchTitle": "Bhur scór oiriúnachta",
+    "matchWith": "Tusa agus {name}",
+    "partner": "do pháirtí",
+    "bands": {
+      "high": "Oiriúnacht láidir",
+      "mid": "Oiriúnacht mhaith le spás chun fáis",
+      "low": "Meallann codarsnachtaí a chéile"
+    },
+    "shareScore": "Roinn bhur scór",
+    "shareText": "Fuaireamar {score}% oiriúnachta sa {test}. Cé chomh maith a oireann sibhse?",
+    "sendBackTitle": "Seol an scór chuig {name}",
+    "sendBackText": "Leis an nasc seo feiceann do pháirtí an scór céanna.",
+    "unlockTitle": "An tuarascáil iomlán don lánúin",
+    "unlockText": "Féach i gcás gach tréithe cá bhfuil tusa agus {name} cosúil le chéile, cá bhféadfadh coimhlint teacht chun cinn agus cad a chabhraíonn libh beirt.",
+    "includes": [
+      "Bhur scóir taobh le taobh do gach tréith",
+      "Cá bhfuil sibh cosúil agus cá bhfuil sibh difriúil",
+      "Cad is brí le bhur meascán agus cad a chabhraíonn"
+    ],
+    "buy": "Faigh tuarascáil na lánúine ar {price}",
+    "note": "Íocaíocht amháin don bheirt agaibh. Tagann an tuarascáil chuig do ríomhphost ionas gur féidir leat í a sheoladh ar aghaidh.",
+    "product": "Tuarascáil lánúine: {test}"
+  },
+  "passPage": {
+    "title": "Do phacáiste",
+    "text": "Tá do phacáiste gníomhach ar an ngléas seo anois. Roghnaigh triail agus díghlasáiltear do thuarascáil láithreach.",
+    "invalid": "Níl an nasc seo ag obair. Déan teagmháil linn agus cabhróimid leat."
   }
 }

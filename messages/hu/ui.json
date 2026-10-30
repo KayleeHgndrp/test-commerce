@@ -237,7 +237,11 @@
     "spam": "10 perc után sem érkezett meg? Nézd meg a spam vagy a promóciók mappát, vagy írj nekünk: {email}.",
     "more": "További tesztek felfedezése",
     "bundleTitle": "A következő jelentésed {price}",
-    "bundleText": "Válassz lent még egy tesztet, és töltsd ki {days} napon belül. A teljes jelentés így {price} lesz {full} helyett. Egy további jelentésre érvényes."
+    "bundleText": "Válassz lent még egy tesztet, és töltsd ki {days} napon belül. A teljes jelentés így {price} lesz {full} helyett. Egy további jelentésre érvényes.",
+    "packTitle": "A csomagod aktív",
+    "packText": "Csinálj meg egy másik tesztet. Az eredményoldalon a következő értékelésed azonnal feloldódik, újabb fizetés nélkül. Hátralévő: {count}.",
+    "allTitle": "A teljes hozzáférésed aktív",
+    "allText": "Csinálj meg bármelyik tesztet. Az eredményoldalon minden értékelés azonnal feloldódik, újabb fizetés nélkül."
   },
   "report": {
     "subject": "Az értékelésed: {test}",
@@ -247,7 +251,31 @@
     "outro": "Reméljük, hogy ez az értékelés hasznos felismerésekkel szolgál. Kíváncsi vagy önmagad más oldalaira is? Fedezd fel összes tesztünket itt: {url}.",
     "signature": "A(z) {site} csapata",
     "instrumentLabel": "{name}: {score} / {max}",
-    "typeLabel": "Típusod"
+    "typeLabel": "Típusod",
+    "coupleSubject": "A páros értékelésetek: {test}",
+    "coupleIntro": "Köszönjük, hogy együtt kitöltöttétek a(z) {test} tesztet a(z) {site} oldalon. Íme a páros értékelés neked és neki: {name}.",
+    "coupleSummary": "Ez az értékelés összehasonlít téged és őt ({name}) a(z) {test} minden részében. A különbség nem probléma. Megmutatja, hol van szükségetek türelemre egymással, és hol tanulhattok egymástól.",
+    "matchLabel": "Az összhangotok",
+    "matchName": "{score}% összhang: {band}",
+    "matchText": {
+      "high": "Sok mindent ugyanúgy láttok, ez nyugalmat és bizalmat ad. Beszéljetek továbbra is arról a néhány pontról, ahol különböztök.",
+      "mid": "Szilárd alapotok van, és egyértelmű különbségeitek is. Egy kis odafigyeléssel ezek a különbségek gazdagítják a kapcsolatotokat.",
+      "low": "Elég különbözőek vagytok. Ez izgalmas és fárasztó is lehet. Ez az értékelés megmutatja, mire figyeljetek jobban."
+    },
+    "typesLine": "A te típusod: {mine}. {name}: {theirs}.",
+    "scoreLine": "Te: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Hasonlóak",
+      "some": "Részben hasonlóak",
+      "different": "Különbözőek"
+    },
+    "closenessText": {
+      "alike": "Itt közel vannak a pontszámaitok. Ez általában könnyűnek és természetesnek tűnik. A kockázat az, hogy erősítitek egymás vakfoltjait, ezért időnként kérdezzétek meg, mit hagyhattok figyelmen kívül mindketten.",
+      "some": "Itt kicsit különböztök. A hétköznapokban alig veszitek észre, de stresszben nagyobbnak tűnhet a különbség. Mondjátok ki hangosan, amikor előjön.",
+      "different": "Itt nagyon különböztök. Gyakran itt kezdődik a súrlódás, és itt tanulhattok a legtöbbet egymástól. Beszéljétek meg, hogyan kezelitek, mielőtt veszekedés lesz belőle."
+    },
+    "passLine": "A csomagodban még {count} értékelés van. Csinálj meg egy másik tesztet, és az értékelés az eredményoldalon feloldódik. Másik eszközön előbb nyisd meg ezt a linket: {link}",
+    "passLineAll": "A teljes hozzáférésed minden értékelést felold. Csinálj meg egy tesztet, és az értékelés az eredményoldalon feloldódik. Másik eszközön előbb nyisd meg ezt a linket: {link}"
   },
   "footer": {
     "tagline": "Ismerd meg jobban önmagad",
@@ -278,7 +306,7 @@
     "termsTitle": "Felhasználási feltételek",
     "termsBody": [
       "A(z) {site} összes tesztje önreflexiót és szórakozást szolgál. Nem minősülnek orvosi, pszichológiai vagy egyéb szakmai diagnózisnak.",
-      "A teszt kitöltése ingyenes. A személyes értékelés ára tesztenként {price}, egyszeri fizetéssel. Az értékelést digitálisan, e-mailben kézbesítjük.",
+      "A teszt kitöltése ingyenes. Egy személyes értékelés {price} tesztenként, egyszeri fizetéssel. Vehetsz 3 értékelésből álló csomagot, hozzáférést az összes értékeléshez vagy páros értékelést is, amely két, ugyanazt a tesztet kitöltő embert hasonlít össze. Ezek is egyszeri fizetések. Az értékeléseket digitálisan, e-mailben kézbesítjük.",
       "Mivel az értékelés a fizetés után azonnal teljesített digitális tartalom, elfogadod, hogy elállási jogod az értékelés elküldésével megszűnik. Ha nem kaptad meg az értékelést, írj a(z) {email} címre, és újra elküldjük, vagy visszatérítjük a díjat.",
       "Igyekszünk a tartalmat pontosan tartani, de nem garantálhatjuk, hogy az eredmények mindenki számára teljesek vagy helytállóak."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Visszatérítési szabályzat",
     "refundBody": [
-      "Az értékelés ára tesztenként {price}, egyszeri fizetéssel. Nincs előfizetés és nincs automatikus megújítás.",
+      "Egy értékelés {price} tesztenként, egyszeri fizetéssel. A csomagok, a teljes hozzáférés és a páros értékelések is egyszeri fizetések. Nincs előfizetés és nincs automatikus megújítás.",
       "Nem kaptad meg az értékelést, vagy valami hiba történt? Írj 14 napon belül a(z) {email} címre, és add meg a használt e-mail-címet – újra elküldjük az értékelést, vagy visszatérítjük a díjat.",
       "Mivel az értékelés azonnal teljesített digitális tartalom, a törvényes elállási jog az elküldésével megszűnik. Ha valami nincs rendben, természetesen mindig segítünk.",
       "A visszatérítés az eredeti fizetési módra történik, 5–10 munkanapon belül."
@@ -385,5 +413,61 @@
     "accept": "Elfogadom",
     "decline": "Elutasítom",
     "settings": "Sütibeállítások módosítása"
+  },
+  "plans": {
+    "title": "Válaszd ki az értékelést",
+    "single": "Ez az értékelés",
+    "pack": "3 értékelés",
+    "packNote": "Ez és még 2 általad választott teszt",
+    "all": "Mind a(z) {count} értékelés",
+    "allNote": "Az oldal összes tesztje, akkor oldod fel őket, amikor akarod",
+    "save": "Spórolj {amount}",
+    "passPack": "A csomagodban még {count} értékelés van",
+    "passAll": "A teljes hozzáférésed aktív",
+    "passUnlock": "Értékelés feloldása ingyen",
+    "passError": "A csomagodat nem sikerült felhasználni ehhez az értékeléshez. Lent továbbra is megveheted.",
+    "packProduct": "{test} + még {extra} értékelés",
+    "allProduct": "Mind a(z) {count} értékelés"
+  },
+  "couple": {
+    "inviteTitle": "Csináld meg ezt a tesztet a pároddal",
+    "inviteText": "Küldj egy linket a párodnak. Ingyen kitölti ugyanezt a tesztet, és mindketten azonnal látjátok az összhang pontszámotokat.",
+    "nameLabel": "A keresztneved (nem kötelező)",
+    "createLink": "Meghívom a páromat",
+    "copy": "Link másolása",
+    "copied": "Link kimásolva",
+    "inviteMessage": "Töltsd ki velem a(z) {test} tesztet, és nézzük meg, mennyire illünk össze",
+    "invitedTitle": "{name} meghívott",
+    "invitedTitleAnon": "Meghívást kaptál",
+    "invitedText": "Töltsd ki a(z) {test} tesztet. Utána mindketten látjátok, mennyire illetek össze.",
+    "start": "Teszt indítása",
+    "invalid": "Ez a meghívó link nem működik. Kérd meg a párodat, hogy küldje el újra.",
+    "matchTitle": "Az összhang pontszámotok",
+    "matchWith": "Te és {name}",
+    "partner": "a párod",
+    "bands": {
+      "high": "Erős összhang",
+      "mid": "Jó összhang, van hová fejlődni",
+      "low": "Az ellentétek vonzzák egymást"
+    },
+    "shareScore": "Pontszám megosztása",
+    "shareText": "{score}% összhangunk van a(z) {test} teszten. Nektek mennyi?",
+    "sendBackTitle": "Küldd el a pontszámot neki: {name}",
+    "sendBackText": "Ezzel a linkkel a párod ugyanazt a pontszámot látja.",
+    "unlockTitle": "A teljes páros értékelés",
+    "unlockText": "Nézd meg minden tulajdonságnál, miben hasonlítotok {name} és te, hol lehet súrlódás, és mi segít mindkettőtöknek.",
+    "includes": [
+      "A pontszámaitok egymás mellett minden tulajdonságnál",
+      "Miben hasonlítotok és miben különböztök",
+      "Mit jelent a párosításotok és mi segít"
+    ],
+    "buy": "Páros értékelés {price} áron",
+    "note": "Egy fizetés kettőtöknek. Az értékelés e-mailben érkezik, így továbbküldheted.",
+    "product": "Páros értékelés: {test}"
+  },
+  "passPage": {
+    "title": "A csomagod",
+    "text": "A csomagod most már aktív ezen az eszközön. Válassz egy tesztet, és az értékelésed azonnal feloldódik.",
+    "invalid": "Ez a link nem működik. Írj nekünk, és segítünk."
   }
 }

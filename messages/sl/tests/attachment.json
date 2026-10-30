@@ -140,5 +140,17 @@
       "name": "Boječe-izogibajoč",
       "text": "Vaši odgovori kažejo na boječe-izogibajoč stil. Morda hrepenite po bližini, a se je hkrati bojite, zato so odnosi lahko zmedeni: ljudem se približate, nato pa se umaknete, ko postane intenzivno. Skrb pred zavrnitvijo in nelagodje ob zanašanju na druge lahko obstajata drug ob drugem. Ta stil se pogosto razvije iz izkušenj, v katerih bližina ni bila varna, in se ga ni treba sramovati. Bodite nežni do sebe in iščite stabilne, predvidljive odnose. Zelo pomaga, če se naučite opažati in poimenovati svoja čustva. Delo z usposobljenim terapevtom je lahko še posebej dragoceno za razvoj varnejšega načina povezovanja."
     }
+  },
+  "couple": {
+    "secure+secure": "Dva varno navezana partnerja si brez večjega truda dajeta prostor in bližino. Konflikti le redko uidejo izpod nadzora, ker oba zaupata, da bo vez zdržala.",
+    "anxious+secure": "Varen partner nudi stabilno prisotnost, po kateri hrepeni anksiozen partner. Jasno pomirjanje in stalni rituali anksioznemu partnerju sčasoma pomagajo, da se sprosti.",
+    "avoidant+secure": "Varen partner lahko izogibajočemu partnerju da prostor, ne da bi se počutil zavrnjenega. Majhni trenutki bližine brez pritiska izogibajočemu partnerju pomagajo, da se odpre.",
+    "fearful+secure": "Varen partner nudi varno bazo, ki si jo boječi partner hkrati želi in se je boji. Potrpežljivost in predvidljivost štejeta več kot velike geste.",
+    "anxious+anxious": "Oba hrepenita po bližini in to potrebo razumeta drug pri drugem. Pod stresom lahko hranita skrbi drug drugega, zato se najprej pomirita in se šele nato pogovorita.",
+    "anxious+avoidant": "To je najbolj znano privlačenje in odrivanje: eden išče bližino, drugi se umika, zato prvi pritiska še bolj. Če ta vzorec skupaj prepoznata, je to prvi korak, da ga prekineta.",
+    "anxious+fearful": "Oba veliko čutita in se bojita, da bosta izgubila drugega. To je lahko zelo intenzivno. Dogovorita se za jasne znake, ko eden od vaju potrebuje pomiritev ali nekaj časa zase.",
+    "avoidant+avoidant": "Oba cenita neodvisnost in se redko dušita. Tveganje je razdalja: pomembna čustva ostanejo neizrečena. Načrtujta trenutke za pravi pogovor.",
+    "avoidant+fearful": "Eden drži razdaljo, drugi niha med bližino in umikom. Tako se oba lahko počutita nevidna. Na glas povejta, kaj potrebujeta, tudi ko je to nerodno.",
+    "fearful+fearful": "Drug pri drugem prepoznata hrepenenje po bližini in strah pred njo. To lahko prinese globoko razumevanje in tudi kaos. Stalna rutina in po potrebi zunanja pomoč pomagata obema."
   }
 }

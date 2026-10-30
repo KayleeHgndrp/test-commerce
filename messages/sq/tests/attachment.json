@@ -140,5 +140,17 @@
       "name": "Shmangës i frikësuar",
       "text": "Përgjigjet e tua tregojnë një stil shmangës të frikësuar. Mund ta dëshirosh afërsinë dhe njëkohësisht të kesh frikë prej saj, ndaj marrëdhëniet mund të duken konfuze: u afrohesh njerëzve dhe pastaj tërhiqesh kur bëhet intensive. Shqetësimi për refuzimin dhe parehatia me varësinë nga të tjerët mund të ekzistojnë krah për krah. Ky stil shpesh rritet nga përvoja ku afërsia nuk dukej e sigurt, dhe nuk është diçka për t'u turpëruar. Ji i butë me veten dhe kërko marrëdhënie të qëndrueshme dhe të parashikueshme. Të mësosh t'i vësh re dhe t'i emërtosh ndjenjat ndihmon shumë. Puna me një terapist të kualifikuar mund të jetë veçanërisht e vlefshme për të ndërtuar një mënyrë më të sigurt lidhjeje."
     }
+  },
+  "couple": {
+    "secure+secure": "Dy partnerë të sigurt i japin njëri-tjetrit hapësirë dhe afërsi pa shumë mundim. Konfliktet rrallë dalin jashtë kontrollit, sepse të dy besoni se lidhja e përballon.",
+    "anxious+secure": "Partneri i sigurt ofron praninë e qëndrueshme që partneri i ankthshëm dëshiron. Qetësimi i qartë dhe ritualet e përhershme e ndihmojnë partnerin e ankthshëm të çlirohet me kohën.",
+    "avoidant+secure": "Partneri i sigurt mund t'i japë hapësirë partnerit shmangës pa u ndjerë i refuzuar. Momentet e vogla të afërsisë pa presion e ndihmojnë partnerin shmangës të hapet.",
+    "fearful+secure": "Partneri i sigurt ofron një bazë të sigurt, që partneri i frikësuar njëkohësisht e dëshiron dhe i trembet. Durimi dhe parashikueshmëria vlejnë më shumë se gjestet e mëdha.",
+    "anxious+anxious": "Të dy dëshironi afërsi dhe e kuptoni këtë nevojë te njëri-tjetri. Nën stres mund t'i ushqeni shqetësimet e njëri-tjetrit, ndaj qetësohuni fillimisht para se të flisni.",
+    "anxious+avoidant": "Kjo është tërheqja dhe shtyrja më e njohur: njëri kërkon afërsi, tjetri tërhiqet dhe i pari ngul këmbë edhe më shumë. Ta njihni së bashku këtë model është hapi i parë për ta thyer.",
+    "anxious+fearful": "Të dy ndjeni shumë dhe keni frikë se do ta humbni tjetrin. Kjo mund të jetë shumë intensive. Bini dakord për sinjale të qarta kur njëri prej jush ka nevojë për qetësim ose për pak kohë vetëm.",
+    "avoidant+avoidant": "Të dy e vlerësoni pavarësinë dhe rrallë mbyteni njëri-tjetrin. Rreziku është distanca: ndjenja të rëndësishme mbeten pa u thënë. Planifikoni momente për të folur vërtet.",
+    "avoidant+fearful": "Njëri mban distancë, tjetri lëkundet mes afërsisë dhe tërheqjes. Kështu të dy mund të ndiheni të padukshëm. Thoni me zë çfarë ju nevojitet, edhe kur ndihet e sikletshme.",
+    "fearful+fearful": "E njihni te njëri-tjetri mallin për afërsi dhe frikën prej saj. Kjo mund të sjellë mirëkuptim të thellë dhe gjithashtu kaos. Një rutinë e qëndrueshme dhe, nëse duhet, mbështetje nga jashtë ju ndihmojnë të dyve."
   }
 }

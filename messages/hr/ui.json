@@ -237,7 +237,11 @@
     "spam": "Niste ga primili ni nakon 10 minuta? Provjerite mapu neželjene pošte ili promocija ili nam se javite na {email}.",
     "more": "Otkrijte još testova",
     "bundleTitle": "Vaše sljedeće izvješće za {price}",
-    "bundleText": "Odaberite još jedan test ispod i riješite ga u roku od {days} dana. Cijelo izvješće tada stoji {price} umjesto {full}. Vrijedi za jedno dodatno izvješće."
+    "bundleText": "Odaberite još jedan test ispod i riješite ga u roku od {days} dana. Cijelo izvješće tada stoji {price} umjesto {full}. Vrijedi za jedno dodatno izvješće.",
+    "packTitle": "Vaš paket je aktivan",
+    "packText": "Riješite drugi test. Na stranici s rezultatima vaše sljedeće izvješće otključava se odmah, bez ponovnog plaćanja. Preostalo: {count}.",
+    "allTitle": "Vaš potpuni pristup je aktivan",
+    "allText": "Riješite bilo koji test. Na stranici s rezultatima svako izvješće otključava se odmah, bez ponovnog plaćanja."
   },
   "report": {
     "subject": "Vaše izvješće: {test}",
@@ -247,7 +251,31 @@
     "outro": "Nadamo se da će vam ovo izvješće dati korisne uvide. Zanimaju vas i druge vaše strane? Otkrijte sve naše testove na {url}.",
     "signature": "Tim {site}",
     "instrumentLabel": "{name}: {score} od {max}",
-    "typeLabel": "Vaš tip"
+    "typeLabel": "Vaš tip",
+    "coupleSubject": "Vaše izvješće za par: {test}",
+    "coupleIntro": "Hvala što ste zajedno riješili {test} na {site}. Evo izvješća za par za vas i {name}.",
+    "coupleSummary": "Ovo izvješće uspoređuje vas i {name} u svakom dijelu testa {test}. Razlika nije problem. Pokazuje gdje vam treba strpljenja jedno s drugim i gdje možete učiti jedno od drugoga.",
+    "matchLabel": "Vaša podudarnost",
+    "matchName": "{score}% podudarnosti: {band}",
+    "matchText": {
+      "high": "Mnoge stvari vidite isto, što donosi mir i povjerenje. Nastavite razgovarati o onih nekoliko točaka u kojima se razlikujete.",
+      "mid": "Imate čvrstu osnovu i jasne razlike. Uz malo pažnje te razlike obogaćuju vašu vezu.",
+      "low": "Prilično ste različiti. To može biti uzbudljivo, ali i iscrpljujuće. Ovo izvješće pokazuje na što obratiti više pažnje."
+    },
+    "typesLine": "Vaš tip: {mine}. {name}: {theirs}.",
+    "scoreLine": "Vi: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Slični",
+      "some": "Djelomično slični",
+      "different": "Različiti"
+    },
+    "closenessText": {
+      "alike": "Ovdje su vam rezultati blizu. To se obično čini lako i prirodno. Rizik je da jedno drugome pojačavate slijepe točke, pa se povremeno zapitajte što biste oboje mogli previdjeti.",
+      "some": "Ovdje se malo razlikujete. U svakodnevici to jedva primjećujete, ali pod stresom razlika može djelovati veća. Recite to naglas kad se pojavi.",
+      "different": "Ovdje se jako razlikujete. Upravo tu često počinju trzavice i upravo tu možete najviše naučiti jedno od drugoga. Dogovorite kako ćete se s tim nositi prije nego što postane svađa."
+    },
+    "passLine": "Vaš paket uključuje još {count} izvješća. Riješite drugi test i izvješće se otključava na stranici s rezultatima. Na drugom uređaju najprije otvorite ovu poveznicu: {link}",
+    "passLineAll": "Vaš potpuni pristup otključava svako izvješće. Riješite test i izvješće se otključava na stranici s rezultatima. Na drugom uređaju najprije otvorite ovu poveznicu: {link}"
   },
   "footer": {
     "tagline": "Upoznajte se bolje",
@@ -278,7 +306,7 @@
     "termsTitle": "Uvjeti korištenja",
     "termsBody": [
       "Svi testovi na stranici {site} namijenjeni su samorefleksiji i zabavi. Oni nisu medicinska, psihološka ni stručna dijagnoza.",
-      "Rješavanje testa je besplatno. Osobno izvješće stoji {price} po testu i plaća se jednokratno. Izvješće se dostavlja digitalno e-poštom.",
+      "Rješavanje testa je besplatno. Osobno izvješće stoji {price} po testu kao jednokratno plaćanje. Možete kupiti i paket od 3 izvješća, pristup svim izvješćima ili izvješće za par koje uspoređuje dvije osobe koje su riješile isti test. I to su jednokratna plaćanja. Izvješća se isporučuju digitalno e-mailom.",
       "Budući da je izvješće digitalni sadržaj koji se isporučuje odmah nakon plaćanja, prihvaćate da pravo na jednostrani raskid ugovora prestaje nakon slanja izvješća. Ako niste primili izvješće, javite se na {email} i ponovno ćemo vam ga poslati ili vratiti novac.",
       "Trudimo se da sadržaj bude točan, ali ne možemo jamčiti da su rezultati potpuni ili točni za svaku osobu."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Pravila povrata novca",
     "refundBody": [
-      "Izvješće stoji {price} po testu i plaća se jednokratno. Nema pretplate ni automatske obnove.",
+      "Izvješće stoji {price} po testu kao jednokratno plaćanje. Paketi, potpuni pristup i izvješća za par također su jednokratna plaćanja. Nema pretplate ni automatske obnove.",
       "Niste primili izvješće ili je nešto pošlo po zlu? Javite se na {email} u roku od 14 dana, navedite adresu e-pošte koju ste koristili i ponovno ćemo vam poslati izvješće ili vratiti novac.",
       "Budući da je izvješće digitalni sadržaj koji se odmah isporučuje, zakonsko pravo na jednostrani raskid ugovora prestaje nakon njegova slanja. Ipak, uvijek ćemo vam pomoći ako nešto nije u redu.",
       "Povrat novca provodi se na izvorni način plaćanja u roku od 5 do 10 radnih dana."
@@ -385,5 +413,61 @@
     "accept": "Prihvati",
     "decline": "Odbij",
     "settings": "Promijeni postavke kolačića"
+  },
+  "plans": {
+    "title": "Odaberite svoje izvješće",
+    "single": "Ovo izvješće",
+    "pack": "3 izvješća",
+    "packNote": "Ovo i još 2 testa po vašem izboru",
+    "all": "Sva izvješća ({count})",
+    "allNote": "Svaki test na stranici, otključajte ih kad želite",
+    "save": "Uštedite {amount}",
+    "passPack": "U vašem paketu ostalo je izvješća: {count}",
+    "passAll": "Vaš potpuni pristup je aktivan",
+    "passUnlock": "Otključajte ovo izvješće besplatno",
+    "passError": "Vaš paket nije bilo moguće iskoristiti za ovo izvješće. I dalje ga možete kupiti ispod.",
+    "packProduct": "{test} + još {extra} izvješća",
+    "allProduct": "Sva izvješća ({count})"
+  },
+  "couple": {
+    "inviteTitle": "Riješite ovaj test s partnerom",
+    "inviteText": "Pošaljite partneru poveznicu. Partner besplatno rješava isti test i oboje odmah vidite svoj rezultat podudarnosti.",
+    "nameLabel": "Vaše ime (neobavezno)",
+    "createLink": "Pozovi partnera",
+    "copy": "Kopiraj poveznicu",
+    "copied": "Poveznica kopirana",
+    "inviteMessage": "Riješi sa mnom {test} pa da vidimo koliko se slažemo",
+    "invitedTitle": "{name} vas je pozvao",
+    "invitedTitleAnon": "Pozvani ste",
+    "invitedText": "Riješite {test}. Nakon toga oboje ćete vidjeti koliko se slažete.",
+    "start": "Započni test",
+    "invalid": "Ova poveznica za poziv ne radi. Zamolite partnera da je pošalje ponovno.",
+    "matchTitle": "Vaš rezultat podudarnosti",
+    "matchWith": "Vi i {name}",
+    "partner": "vaš partner",
+    "bands": {
+      "high": "Snažna podudarnost",
+      "mid": "Dobra podudarnost s prostorom za rast",
+      "low": "Suprotnosti se privlače"
+    },
+    "shareScore": "Podijelite rezultat",
+    "shareText": "Imamo {score}% podudarnosti na testu {test}. Koliko se vi slažete?",
+    "sendBackTitle": "Pošaljite rezultat: {name}",
+    "sendBackText": "S ovom poveznicom partner vidi isti rezultat.",
+    "unlockTitle": "Cjelovito izvješće za par",
+    "unlockText": "Pogledajte za svaku osobinu u čemu ste vi i {name} slični, gdje može doći do trzavica i što pomaže vama oboma.",
+    "includes": [
+      "Vaši rezultati jedan uz drugi za svaku osobinu",
+      "U čemu ste slični, a u čemu se razlikujete",
+      "Što znači vaša kombinacija i što pomaže"
+    ],
+    "buy": "Preuzmite izvješće za par za {price}",
+    "note": "Jedno plaćanje za oboje. Izvješće stiže na vaš e-mail pa ga možete proslijediti.",
+    "product": "Izvješće za par: {test}"
+  },
+  "passPage": {
+    "title": "Vaš paket",
+    "text": "Vaš paket je sada aktivan na ovom uređaju. Odaberite test i izvješće se odmah otključava.",
+    "invalid": "Ova poveznica ne radi. Javite nam se i pomoći ćemo vam."
   }
 }

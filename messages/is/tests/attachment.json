@@ -140,5 +140,17 @@
       "name": "Óttasleginn og forðandi",
       "text": "Svörin þín benda til óttaslegins og forðandi tengslastíls. Þú þráir kannski nánd en óttast hana um leið, svo sambönd geta verið ruglingsleg: þú færir þig nær fólki og dregur þig svo í hlé þegar hlutirnir verða ákafir. Ótti við höfnun og óþægindi við að reiða þig á aðra geta verið til staðar samtímis. Þessi stíll á oft rætur í reynslu þar sem nánd var ekki örugg, og það er ekkert til að skammast sín fyrir. Sýndu þér mildi og leitaðu í stöðug og fyrirsjáanleg sambönd. Það hjálpar mikið að læra að taka eftir tilfinningum sínum og nefna þær. Vinna með viðurkenndum meðferðaraðila getur verið sérstaklega dýrmæt til að byggja upp öruggari leið til að tengjast."
     }
+  },
+  "couple": {
+    "secure+secure": "Tveir öruggir makar gefa hvor öðrum rými og nánd án mikillar fyrirhafnar. Ágreiningur fer sjaldan úr böndunum, því þið treystið bæði því að tengslin þoli það.",
+    "anxious+secure": "Öruggi makinn veitir þá stöðugu nærveru sem kvíðni makinn þráir. Skýr fullvissa og fastar venjur hjálpa kvíðna makanum að slaka á með tímanum.",
+    "avoidant+secure": "Öruggi makinn getur gefið forðandi makanum rými án þess að finnast hann hafnaður. Lítil augnablik af nánd án þrýstings hjálpa forðandi makanum að opna sig.",
+    "fearful+secure": "Öruggi makinn býður upp á öruggan grunn, sem óttaslegni makinn bæði þráir og óttast. Þolinmæði og fyrirsjáanleiki skipta meira máli en stórar bendingar.",
+    "anxious+anxious": "Þið þráið bæði nánd og skiljið þá þörf hvort hjá öðru. Undir álagi getið þið kynt undir áhyggjum hvort annars, svo róið hvort annað fyrst áður en þið ræðið málin.",
+    "anxious+avoidant": "Þetta er þekktasta togið og ýtið: annað sækist eftir nánd, hitt dregur sig í hlé, og þá þrýstir það fyrra enn meira. Að þekkja mynstrið saman er fyrsta skrefið til að rjúfa það.",
+    "anxious+fearful": "Þið finnið bæði mikið og óttist að missa hitt. Það getur verið mjög ákaft. Komið ykkur saman um skýr merki fyrir þegar annað ykkar þarf fullvissu eða smá tíma eitt.",
+    "avoidant+avoidant": "Þið metið bæði sjálfstæði og þrengið sjaldan hvort að öðru. Hættan er fjarlægð: mikilvægar tilfinningar eru ósagðar. Skipuleggið stundir til að tala raunverulega saman.",
+    "avoidant+fearful": "Annað heldur fjarlægð, hitt sveiflast á milli nándar og undanhalds. Þá getur ykkur báðum fundist þið ósýnileg. Segið upphátt hvað þið þurfið, jafnvel þegar það er óþægilegt.",
+    "fearful+fearful": "Þið þekkið hvort hjá öðru þrána eftir nánd og óttann við hana. Það getur skapað djúpan skilning og líka óreiðu. Föst rútína og ef þarf stuðningur utan frá hjálpa ykkur báðum."
   }
 }

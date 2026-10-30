@@ -140,5 +140,17 @@
       "name": "Plašljivo-izbjegavajući",
       "text": "Vaši odgovori upućuju na plašljivo-izbjegavajući stil. Možda žudite za bliskošću, a istodobno je se bojite, pa vam odnosi mogu djelovati zbunjujuće: približavate se ljudima, a onda se povlačite kad postane intenzivno. Briga zbog odbacivanja i nelagoda zbog oslanjanja na druge mogu postojati jedna uz drugu. Ovaj stil često proizlazi iz iskustava u kojima bliskost nije bila sigurna i nije nešto čega se treba sramiti. Budite blagi prema sebi i tražite stabilne, predvidljive odnose. Učenje primjećivanja i imenovanja osjećaja mnogo pomaže. Rad s kvalificiranim psihoterapeutom može biti osobito vrijedan za izgradnju sigurnijeg načina povezivanja."
     }
+  },
+  "couple": {
+    "secure+secure": "Dvoje sigurno privrženih partnera bez puno truda daje jedno drugome prostor i bliskost. Sukobi rijetko izmaknu kontroli jer oboje vjerujete da veza to može izdržati.",
+    "anxious+secure": "Siguran partner pruža stabilnu prisutnost za kojom anksiozni partner čezne. Jasna utjeha i stalni rituali pomažu anksioznom partneru da se s vremenom opusti.",
+    "avoidant+secure": "Siguran partner može izbjegavajućem partneru dati prostor bez osjećaja odbačenosti. Mali trenuci bliskosti bez pritiska pomažu izbjegavajućem partneru da se otvori.",
+    "fearful+secure": "Siguran partner nudi sigurnu bazu koju plašljivi partner istodobno želi i od koje strahuje. Strpljenje i predvidljivost znače više od velikih gesti.",
+    "anxious+anxious": "Oboje čeznete za bliskošću i razumijete tu potrebu jedno kod drugoga. Pod stresom možete hraniti brige jedno drugoga, pa se najprije smirite, a onda razgovarajte.",
+    "anxious+avoidant": "Ovo je najpoznatije privlačenje i odguravanje: jedno traži bliskost, drugo se povlači, pa prvo navaljuje još jače. Zajedno prepoznati taj obrazac prvi je korak da ga prekinete.",
+    "anxious+fearful": "Oboje puno osjećate i bojite se da ćete izgubiti drugoga. To može biti vrlo intenzivno. Dogovorite jasne znakove za trenutke kada jednom od vas treba utjeha ili malo vremena nasamo.",
+    "avoidant+avoidant": "Oboje cijenite neovisnost i rijetko se gušite. Rizik je udaljenost: važni osjećaji ostaju neizgovoreni. Planirajte trenutke za pravi razgovor.",
+    "avoidant+fearful": "Jedno drži distancu, drugo se njiše između bliskosti i povlačenja. Tako se oboje možete osjećati neviđeno. Recite naglas što vam treba, čak i kad je neugodno.",
+    "fearful+fearful": "Prepoznajete jedno kod drugoga čežnju za bliskošću i strah od nje. To može donijeti duboko razumijevanje, ali i kaos. Stalna rutina i po potrebi vanjska podrška pomažu vama oboma."
   }
 }

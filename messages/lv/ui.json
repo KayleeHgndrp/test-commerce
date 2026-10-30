@@ -237,7 +237,11 @@
     "spam": "Nav saņemts pēc 10 minūtēm? Pārbaudi surogātpasta vai reklāmu mapi vai raksti mums uz {email}.",
     "more": "Atklāt vairāk testu",
     "bundleTitle": "Tavs nākamais pārskats par {price}",
-    "bundleText": "Izvēlies zemāk vēl vienu testu un izpildi to {days} dienu laikā. Pilns pārskats tad maksās {price}, nevis {full}. Attiecas uz vienu papildu pārskatu."
+    "bundleText": "Izvēlies zemāk vēl vienu testu un izpildi to {days} dienu laikā. Pilns pārskats tad maksās {price}, nevis {full}. Attiecas uz vienu papildu pārskatu.",
+    "packTitle": "Tava pakete ir aktīva",
+    "packText": "Izpildi citu testu. Rezultātu lapā tavs nākamais pārskats atbloķējas uzreiz, bez atkārtota maksājuma. Atlicis: {count}.",
+    "allTitle": "Tava pilnā piekļuve ir aktīva",
+    "allText": "Izpildi jebkuru testu. Rezultātu lapā katrs pārskats atbloķējas uzreiz, bez atkārtota maksājuma."
   },
   "report": {
     "subject": "Tavs pārskats: {test}",
@@ -247,7 +251,31 @@
     "outro": "Ceram, ka šis pārskats tev sniegs noderīgas atziņas. Vēlies iepazīt arī citas savas puses? Atklāj visus mūsu testus vietnē {url}.",
     "signature": "{site} komanda",
     "instrumentLabel": "{name}: {score} no {max}",
-    "typeLabel": "Tavs tips"
+    "typeLabel": "Tavs tips",
+    "coupleSubject": "Jūsu pāra pārskats: {test}",
+    "coupleIntro": "Paldies, ka kopā izpildījāt {test} vietnē {site}. Šeit ir pāra pārskats tev un {name}.",
+    "coupleSummary": "Šis pārskats salīdzina tevi un {name} katrā {test} daļā. Atšķirība nav problēma. Tā parāda, kur jums vajag pacietību vienam pret otru un kur varat mācīties viens no otra.",
+    "matchLabel": "Jūsu saderība",
+    "matchName": "{score}% saderība: {band}",
+    "matchText": {
+      "high": "Jūs daudz ko redzat vienādi, un tas dod mieru un uzticēšanos. Turpiniet runāt par tiem dažiem punktiem, kuros atšķiraties.",
+      "mid": "Jums ir stabils pamats un arī skaidras atšķirības. Ar nelielu uzmanību šīs atšķirības padara jūsu attiecības bagātākas.",
+      "low": "Jūs esat diezgan atšķirīgi. Tas var būt aizraujoši un arī nogurdinoši. Šis pārskats parāda, kam pievērst īpašu uzmanību."
+    },
+    "typesLine": "Tavs tips: {mine}. {name}: {theirs}.",
+    "scoreLine": "Tu: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Līdzīgi",
+      "some": "Daļēji līdzīgi",
+      "different": "Atšķirīgi"
+    },
+    "closenessText": {
+      "alike": "Šeit jūsu rezultāti ir tuvu. Parasti tas šķiet viegli un dabiski. Risks ir, ka jūs pastiprināt viens otra aklās zonas, tāpēc reizēm pajautājiet, ko jūs abi varētu palaist garām.",
+      "some": "Šeit jūs nedaudz atšķiraties. Ikdienā to gandrīz nemanāt, bet stresā atšķirība var šķist lielāka. Pasakiet to skaļi, kad tā parādās.",
+      "different": "Šeit jūs ļoti atšķiraties. Bieži tieši šeit sākas berze, un tieši šeit jūs varat visvairāk mācīties viens no otra. Vienojieties, kā ar to tikt galā, pirms tas pārvēršas strīdā."
+    },
+    "passLine": "Tavā paketē ir vēl {count} pārskati. Izpildi citu testu, un pārskats atbloķēsies rezultātu lapā. Citā ierīcē vispirms atver šo saiti: {link}",
+    "passLineAll": "Tava pilnā piekļuve atbloķē katru pārskatu. Izpildi testu, un pārskats atbloķēsies rezultātu lapā. Citā ierīcē vispirms atver šo saiti: {link}"
   },
   "footer": {
     "tagline": "Iepazīsti sevi labāk",
@@ -278,7 +306,7 @@
     "termsTitle": "Lietošanas noteikumi",
     "termsBody": [
       "Visi {site} testi ir paredzēti pašrefleksijai un izklaidei. Tie nav medicīniska, psiholoģiska vai cita profesionāla diagnoze.",
-      "Testa izpilde ir bez maksas. Personīgais pārskats maksā {price} par testu kā vienreizējs maksājums. Pārskats tiek piegādāts digitāli pa e-pastu.",
+      "Testa pildīšana ir bez maksas. Personīgais pārskats maksā {price} par testu kā vienreizējs maksājums. Tu vari iegādāties arī 3 pārskatu paketi, piekļuvi visiem pārskatiem vai pāra pārskatu, kas salīdzina divus cilvēkus, kuri izpildījuši vienu un to pašu testu. Arī tie ir vienreizēji maksājumi. Pārskati tiek piegādāti digitāli pa e-pastu.",
       "Tā kā pārskats ir digitāls saturs, kas tiek piegādāts tūlīt pēc apmaksas, tu piekrīti, ka tavas atteikuma tiesības izbeidzas, tiklīdz pārskats ir nosūtīts. Ja neesi saņēmis pārskatu, raksti uz {email}, un mēs to nosūtīsim vēlreiz vai atmaksāsim naudu.",
       "Mēs darām visu, lai saturs būtu precīzs, taču nevaram garantēt, ka rezultāti ir pilnīgi vai pareizi ikvienam."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Atmaksas politika",
     "refundBody": [
-      "Pārskats maksā {price} par testu kā vienreizējs maksājums. Nav abonementa un nav automātiskas atjaunošanas.",
+      "Pārskats maksā {price} par testu kā vienreizējs maksājums. Paketes, pilnā piekļuve un pāra pārskati arī ir vienreizēji maksājumi. Nav abonementa un nav automātiskas atjaunošanas.",
       "Neesi saņēmis pārskatu vai kaut kas nogāja greizi? Raksti uz {email} 14 dienu laikā, norādot izmantoto e-pasta adresi, un mēs nosūtīsim pārskatu vēlreiz vai atmaksāsim tavu maksājumu.",
       "Tā kā pārskats ir uzreiz piegādāts digitāls saturs, likumā noteiktās atteikuma tiesības izbeidzas, tiklīdz tas ir nosūtīts. Tomēr, ja kaut kas nav kārtībā, mēs vienmēr palīdzēsim.",
       "Atmaksa tiek veikta uz sākotnējo maksājuma veidu 5–10 darba dienu laikā."
@@ -385,5 +413,61 @@
     "accept": "Piekrītu",
     "decline": "Noraidīt",
     "settings": "Mainīt sīkdatņu iestatījumus"
+  },
+  "plans": {
+    "title": "Izvēlies savu pārskatu",
+    "single": "Šis pārskats",
+    "pack": "3 pārskati",
+    "packNote": "Šis un vēl 2 testi pēc tavas izvēles",
+    "all": "Visi {count} pārskati",
+    "allNote": "Katrs vietnes tests, atbloķē tos, kad vēlies",
+    "save": "Ietaupi {amount}",
+    "passPack": "Tavā paketē palikuši {count} pārskati",
+    "passAll": "Tava pilnā piekļuve ir aktīva",
+    "passUnlock": "Atbloķēt šo pārskatu bez maksas",
+    "passError": "Tavu paketi neizdevās izmantot šim pārskatam. Tu joprojām vari to iegādāties zemāk.",
+    "packProduct": "{test} + vēl {extra} pārskati",
+    "allProduct": "Visi {count} pārskati"
+  },
+  "couple": {
+    "inviteTitle": "Pildi šo testu kopā ar partneri",
+    "inviteText": "Nosūti partnerim saiti. Partneris bez maksas izpilda to pašu testu, un jūs abi uzreiz redzat savu saderības rezultātu.",
+    "nameLabel": "Tavs vārds (nav obligāti)",
+    "createLink": "Uzaicināt partneri",
+    "copy": "Kopēt saiti",
+    "copied": "Saite nokopēta",
+    "inviteMessage": "Izpildi kopā ar mani {test} un paskatīsimies, cik labi mēs saderam",
+    "invitedTitle": "{name} tevi uzaicināja",
+    "invitedTitleAnon": "Tu esi uzaicināts",
+    "invitedText": "Izpildi {test}. Pēc tam jūs abi redzēsiet, cik labi saderat.",
+    "start": "Sākt testu",
+    "invalid": "Šī uzaicinājuma saite nedarbojas. Palūdz partnerim to nosūtīt vēlreiz.",
+    "matchTitle": "Jūsu saderības rezultāts",
+    "matchWith": "Tu un {name}",
+    "partner": "tavs partneris",
+    "bands": {
+      "high": "Spēcīga saderība",
+      "mid": "Laba saderība ar vietu izaugsmei",
+      "low": "Pretstati pievelk"
+    },
+    "shareScore": "Dalīties ar rezultātu",
+    "shareText": "Mums ir {score}% saderība testā {test}. Cik labi saderat jūs?",
+    "sendBackTitle": "Nosūti rezultātu: {name}",
+    "sendBackText": "Ar šo saiti partneris redz to pašu rezultātu.",
+    "unlockTitle": "Pilnais pāra pārskats",
+    "unlockText": "Redzi katrai īpašībai, kur tu un {name} esat līdzīgi, kur var rasties berze un kas palīdz jums abiem.",
+    "includes": [
+      "Jūsu rezultāti blakus katrai īpašībai",
+      "Kur esat līdzīgi un kur atšķiraties",
+      "Ko nozīmē jūsu kombinācija un kas palīdz"
+    ],
+    "buy": "Saņemt pāra pārskatu par {price}",
+    "note": "Viens maksājums jums abiem. Pārskats pienāk tavā e-pastā, lai tu varētu to pārsūtīt.",
+    "product": "Pāra pārskats: {test}"
+  },
+  "passPage": {
+    "title": "Tava pakete",
+    "text": "Tava pakete tagad ir aktīva šajā ierīcē. Izvēlies testu, un tavs pārskats atbloķēsies uzreiz.",
+    "invalid": "Šī saite nedarbojas. Sazinies ar mums, un mēs palīdzēsim."
   }
 }

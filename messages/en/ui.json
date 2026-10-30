@@ -237,7 +237,11 @@
     "spam": "Not received after 10 minutes? Check your spam or promotions folder, or contact us at {email}.",
     "more": "Discover more tests",
     "bundleTitle": "Your next report for {price}",
-    "bundleText": "Choose another test below and take it within {days} days. Its full report then costs {price} instead of {full}. Valid for one extra report."
+    "bundleText": "Choose another test below and take it within {days} days. Its full report then costs {price} instead of {full}. Valid for one extra report.",
+    "packTitle": "Your pack is active",
+    "packText": "Take any other test. On the result page your next report unlocks straight away, without paying again. Reports left: {count}.",
+    "allTitle": "Your all-access pass is active",
+    "allText": "Take any test. On the result page every report unlocks straight away, without paying again."
   },
   "report": {
     "subject": "Your {test} report",
@@ -247,7 +251,31 @@
     "outro": "We hope this report gives you useful insights. Curious about other aspects of yourself? Discover all our tests at {url}.",
     "signature": "The {site} team",
     "instrumentLabel": "{name}: {score} of {max}",
-    "typeLabel": "Your type"
+    "typeLabel": "Your type",
+    "coupleSubject": "Your couple report: {test}",
+    "coupleIntro": "Thank you for taking the {test} together on {site}. Here is the couple report for you and {name}.",
+    "coupleSummary": "This report compares you and {name} on every part of the {test}. A difference is not a problem. It shows where you need patience with each other and where you can learn from each other.",
+    "matchLabel": "Your match",
+    "matchName": "{score}% match: {band}",
+    "matchText": {
+      "high": "You see many things the same way, which gives calm and trust. Keep talking about the few points where you differ.",
+      "mid": "You share a solid base and also have clear differences. With some attention those differences make your relationship richer.",
+      "low": "You are quite different from each other. That can be exciting and also tiring. This report shows where to pay extra attention."
+    },
+    "typesLine": "Your type: {mine}. {name}: {theirs}.",
+    "scoreLine": "You: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Alike",
+      "some": "Partly alike",
+      "different": "Different"
+    },
+    "closenessText": {
+      "alike": "You score close together here. That usually feels easy and natural. The risk is that you strengthen each other's blind spots, so now and then ask what you might both be missing.",
+      "some": "You differ a little here. In daily life you will hardly notice it, but under stress the gap can feel bigger. Name it out loud when it comes up.",
+      "different": "You differ a lot here. This is where friction often starts, and also where you can learn the most from each other. Agree on how you handle it before it turns into an argument."
+    },
+    "passLine": "Your pack includes {count} more reports. Take any other test and the report unlocks on the result page. On another device, open this link first: {link}",
+    "passLineAll": "Your all-access pass unlocks every report. Take any test and the report unlocks on the result page. On another device, open this link first: {link}"
   },
   "footer": {
     "tagline": "Know yourself better",
@@ -278,7 +306,7 @@
     "termsTitle": "Terms of service",
     "termsBody": [
       "All tests on {site} are intended for self-reflection and entertainment. They are not a medical, psychological or professional diagnosis.",
-      "Taking a test is free. A personal report costs {price} per test as a one-time payment. The report is delivered digitally by email.",
+      "Taking a test is free. A personal report costs {price} per test as a one-time payment. You can also buy a pack of 3 reports, a pass for all reports or a couple report that compares two people who took the same test. These are one-time payments too. Reports are delivered digitally by email.",
       "Because the report is digital content delivered immediately after payment, you agree that the right of withdrawal expires once the report has been sent. If you did not receive your report, contact {email} and we will resend it or refund you.",
       "We do our best to keep the content accurate, but we cannot guarantee that the results are complete or correct for every person."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Refund policy",
     "refundBody": [
-      "A report costs {price} per test as a one-time payment. There is no subscription and no automatic renewal.",
+      "A report costs {price} per test as a one-time payment. Packs, the all-access pass and couple reports are one-time payments as well. There is no subscription and no automatic renewal.",
       "Did you not receive your report, or did something go wrong? Contact {email} within 14 days, mentioning the email address you used, and we will resend your report or refund your payment.",
       "Because the report is digital content that is delivered immediately, the statutory right of withdrawal expires once it has been sent. We will still always help you if something is not right.",
       "Refunds are made to the original payment method within 5–10 business days."
@@ -385,5 +413,61 @@
     "accept": "Accept",
     "decline": "Decline",
     "settings": "Change cookie settings"
+  },
+  "plans": {
+    "title": "Choose your report",
+    "single": "This report",
+    "pack": "3 reports",
+    "packNote": "This one plus 2 other tests of your choice",
+    "all": "All {count} reports",
+    "allNote": "Every test on the site, unlock them whenever you like",
+    "save": "Save {amount}",
+    "passPack": "Your pack has {count} reports left",
+    "passAll": "Your all-access pass is active",
+    "passUnlock": "Unlock this report for free",
+    "passError": "Your pack could not be used for this report. You can still buy it below.",
+    "packProduct": "{test} + {extra} more reports",
+    "allProduct": "All {count} reports"
+  },
+  "couple": {
+    "inviteTitle": "Take this test with your partner",
+    "inviteText": "Send your partner a link. They take the same test for free and you both see your match score straight away.",
+    "nameLabel": "Your first name (optional)",
+    "createLink": "Invite my partner",
+    "copy": "Copy link",
+    "copied": "Link copied",
+    "inviteMessage": "Take the {test} with me and let's see how well we match",
+    "invitedTitle": "{name} invited you",
+    "invitedTitleAnon": "You have been invited",
+    "invitedText": "Take the {test}. Afterwards you both see how well you match.",
+    "start": "Start the test",
+    "invalid": "This invite link does not work. Ask your partner to send it again.",
+    "matchTitle": "Your match score",
+    "matchWith": "You and {name}",
+    "partner": "your partner",
+    "bands": {
+      "high": "Strong match",
+      "mid": "Good match with room to grow",
+      "low": "Opposites attract"
+    },
+    "shareScore": "Share your score",
+    "shareText": "We got a {score}% match on the {test}. How well do you match?",
+    "sendBackTitle": "Send the score to {name}",
+    "sendBackText": "With this link your partner sees the same match score.",
+    "unlockTitle": "The full couple report",
+    "unlockText": "See for every trait where you and {name} are alike, where it can clash and what helps you both.",
+    "includes": [
+      "Both scores side by side for every trait",
+      "Where you are alike and where you differ",
+      "What your combination means and what helps"
+    ],
+    "buy": "Get the couple report for {price}",
+    "note": "One payment for the two of you. The report goes to your email so you can forward it.",
+    "product": "Couple report: {test}"
+  },
+  "passPage": {
+    "title": "Your pack",
+    "text": "Your pack is now active on this device. Pick a test and your report unlocks straight away.",
+    "invalid": "This link does not work. Contact us and we will help you."
   }
 }

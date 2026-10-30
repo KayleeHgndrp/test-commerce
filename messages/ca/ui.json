@@ -237,7 +237,11 @@
     "spam": "No l'has rebut al cap de 10 minuts? Revisa la carpeta de correu brossa o de promocions, o escriu-nos a {email}.",
     "more": "Descobreix més tests",
     "bundleTitle": "El teu proper informe per {price}",
-    "bundleText": "Tria un altre test a sota i fes-lo en els propers {days} dies. L'informe complet costarà {price} en lloc de {full}. Vàlid per a un informe addicional."
+    "bundleText": "Tria un altre test a sota i fes-lo en els propers {days} dies. L'informe complet costarà {price} en lloc de {full}. Vàlid per a un informe addicional.",
+    "packTitle": "El teu paquet està actiu",
+    "packText": "Fes un altre test. A la pàgina de resultats el teu següent informe es desbloqueja a l'instant, sense tornar a pagar. Et queden: {count}.",
+    "allTitle": "El teu passi complet està actiu",
+    "allText": "Fes el test que vulguis. A la pàgina de resultats cada informe es desbloqueja a l'instant, sense tornar a pagar."
   },
   "report": {
     "subject": "El teu informe: {test}",
@@ -247,7 +251,31 @@
     "outro": "Esperem que aquest informe t'aporti idees útils. Tens curiositat per altres facetes teves? Descobreix tots els nostres tests a {url}.",
     "signature": "L'equip de {site}",
     "instrumentLabel": "{name}: {score} de {max}",
-    "typeLabel": "El teu tipus"
+    "typeLabel": "El teu tipus",
+    "coupleSubject": "El vostre informe de parella: {test}",
+    "coupleIntro": "Gràcies per fer junts el {test} a {site}. Aquí tens l'informe de parella per a tu i {name}.",
+    "coupleSummary": "Aquest informe us compara a tu i a {name} en cada part del {test}. Una diferència no és un problema. Mostra on necessiteu paciència mútua i on podeu aprendre l'un de l'altre.",
+    "matchLabel": "La vostra compatibilitat",
+    "matchName": "{score}% de compatibilitat: {band}",
+    "matchText": {
+      "high": "Veieu moltes coses de la mateixa manera, i això dona calma i confiança. Continueu parlant dels pocs punts en què diferiu.",
+      "mid": "Teniu una base sòlida i també diferències clares. Amb una mica d'atenció, aquestes diferències enriqueixen la vostra relació.",
+      "low": "Sou força diferents. Això pot ser emocionant i també esgotador. Aquest informe mostra on cal parar més atenció."
+    },
+    "typesLine": "El teu tipus: {mine}. {name}: {theirs}.",
+    "scoreLine": "Tu: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Semblants",
+      "some": "En part semblants",
+      "different": "Diferents"
+    },
+    "closenessText": {
+      "alike": "Aquí puntueu molt a prop. Això sol semblar fàcil i natural. El risc és que reforceu els vostres punts cecs, així que de tant en tant pregunteu-vos què us podria estar passant per alt a tots dos.",
+      "some": "Aquí sou una mica diferents. En el dia a dia gairebé no ho notareu, però amb estrès la distància pot semblar més gran. Digueu-ho en veu alta quan aparegui.",
+      "different": "Aquí sou molt diferents. Sovint és aquí on comencen les friccions, i també on més podeu aprendre l'un de l'altre. Acordeu com ho gestioneu abans que es converteixi en una discussió."
+    },
+    "passLine": "El teu paquet inclou {count} informes més. Fes un altre test i l'informe es desbloqueja a la pàgina de resultats. En un altre dispositiu, obre primer aquest enllaç: {link}",
+    "passLineAll": "El teu passi complet desbloqueja tots els informes. Fes un test i l'informe es desbloqueja a la pàgina de resultats. En un altre dispositiu, obre primer aquest enllaç: {link}"
   },
   "footer": {
     "tagline": "Coneix-te millor",
@@ -278,7 +306,7 @@
     "termsTitle": "Condicions del servei",
     "termsBody": [
       "Tots els tests de {site} estan pensats per a l'autoreflexió i l'entreteniment. No constitueixen cap diagnòstic mèdic, psicològic ni professional.",
-      "Fer un test és gratuït. Un informe personal costa {price} per test, amb un pagament únic. L'informe es lliura en format digital per correu electrònic.",
+      "Fer un test és gratis. Un informe personal costa {price} per test com a pagament únic. També pots comprar un paquet de 3 informes, un passi per a tots els informes o un informe de parella que compara dues persones que han fet el mateix test. També són pagaments únics. Els informes s'entreguen en format digital per correu electrònic.",
       "Com que l'informe és contingut digital lliurat immediatament després del pagament, acceptes que el dret de desistiment s'extingeix un cop s'ha enviat l'informe. Si no has rebut el teu informe, escriu a {email} i te'l tornarem a enviar o et reemborsarem l'import.",
       "Fem tot el possible perquè el contingut sigui precís, però no podem garantir que els resultats siguin complets o correctes per a cada persona."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Política de reemborsament",
     "refundBody": [
-      "Un informe costa {price} per test, amb un pagament únic. No hi ha subscripció ni renovació automàtica.",
+      "Un informe costa {price} per test com a pagament únic. Els paquets, el passi complet i els informes de parella també són pagaments únics. No hi ha cap subscripció ni renovació automàtica.",
       "No has rebut el teu informe o alguna cosa ha anat malament? Escriu a {email} en un termini de 14 dies indicant l'adreça electrònica que vas fer servir, i et tornarem a enviar l'informe o et reemborsarem el pagament.",
       "Com que l'informe és contingut digital que es lliura immediatament, el dret legal de desistiment s'extingeix un cop s'ha enviat. Tot i així, sempre t'ajudarem si alguna cosa no va bé.",
       "Els reemborsaments es fan al mitjà de pagament original en un termini de 5 a 10 dies hàbils."
@@ -385,5 +413,61 @@
     "accept": "Acceptar",
     "decline": "Rebutjar",
     "settings": "Canviar la configuració de galetes"
+  },
+  "plans": {
+    "title": "Tria el teu informe",
+    "single": "Aquest informe",
+    "pack": "3 informes",
+    "packNote": "Aquest més 2 tests a triar",
+    "all": "Tots els {count} informes",
+    "allNote": "Tots els tests del web, desbloqueja'ls quan vulguis",
+    "save": "Estalvia {amount}",
+    "passPack": "Al teu paquet li queden {count} informes",
+    "passAll": "El teu passi complet està actiu",
+    "passUnlock": "Desbloqueja aquest informe gratis",
+    "passError": "No s'ha pogut fer servir el teu paquet per a aquest informe. Encara el pots comprar a sota.",
+    "packProduct": "{test} + {extra} informes més",
+    "allProduct": "Tots els {count} informes"
+  },
+  "couple": {
+    "inviteTitle": "Fes aquest test amb la teva parella",
+    "inviteText": "Envia un enllaç a la teva parella. Fa el mateix test gratis i tots dos veieu de seguida la vostra puntuació de compatibilitat.",
+    "nameLabel": "El teu nom (opcional)",
+    "createLink": "Convida la meva parella",
+    "copy": "Copia l'enllaç",
+    "copied": "Enllaç copiat",
+    "inviteMessage": "Fes el {test} amb mi i mirem com de compatibles som",
+    "invitedTitle": "{name} t'ha convidat",
+    "invitedTitleAnon": "Has estat convidat",
+    "invitedText": "Fes el {test}. Després tots dos veureu com de compatibles sou.",
+    "start": "Comença el test",
+    "invalid": "Aquest enllaç d'invitació no funciona. Demana a la teva parella que te'l torni a enviar.",
+    "matchTitle": "La vostra compatibilitat",
+    "matchWith": "Tu i {name}",
+    "partner": "la teva parella",
+    "bands": {
+      "high": "Gran compatibilitat",
+      "mid": "Bona compatibilitat amb marge per créixer",
+      "low": "Els oposats s'atreuen"
+    },
+    "shareScore": "Comparteix la puntuació",
+    "shareText": "Tenim un {score}% de compatibilitat al {test}. I vosaltres?",
+    "sendBackTitle": "Envia la puntuació a {name}",
+    "sendBackText": "Amb aquest enllaç la teva parella veu la mateixa puntuació.",
+    "unlockTitle": "L'informe de parella complet",
+    "unlockText": "Descobreix en cada tret on tu i {name} us assembleu, on hi pot haver friccions i què us ajuda a tots dos.",
+    "includes": [
+      "Les vostres puntuacions una al costat de l'altra per a cada tret",
+      "On us assembleu i on sou diferents",
+      "Què vol dir la vostra combinació i què ajuda"
+    ],
+    "buy": "Obtén l'informe de parella per {price}",
+    "note": "Un sol pagament per a tots dos. L'informe arriba al teu correu perquè el puguis reenviar.",
+    "product": "Informe de parella: {test}"
+  },
+  "passPage": {
+    "title": "El teu paquet",
+    "text": "El teu paquet ja està actiu en aquest dispositiu. Tria un test i el teu informe es desbloqueja a l'instant.",
+    "invalid": "Aquest enllaç no funciona. Contacta'ns i t'ajudarem."
   }
 }

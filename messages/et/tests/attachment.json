@@ -140,5 +140,17 @@
       "name": "Hirmunud-vältiv",
       "text": "Sinu vastustest nähtub hirmunud-vältiv stiil. Võid igatseda lähedust ja samal ajal seda karta, mistõttu suhted võivad tunduda segadusttekitavad: liigud inimeste poole ja tõmbud siis tagasi, kui asi muutub intensiivseks. Mure tõrjumise pärast ja ebamugavus teistest sõltumisel võivad eksisteerida kõrvuti. See stiil kasvab sageli välja kogemustest, kus lähedus ei tundunud turvaline, ja selles pole midagi häbeneda. Ole enda vastu leebe ning otsi stabiilseid ja etteaimatavaid suhteid. Oma tunnete märkama ja nimetama õppimine aitab palju. Koostöö kvalifitseeritud terapeudiga võib olla eriti väärtuslik turvalisema suhtlemisviisi loomiseks."
     }
+  },
+  "couple": {
+    "secure+secure": "Kaks turvaliselt kiindunud partnerit annavad teineteisele ruumi ja lähedust ilma suurema vaevata. Tülid väljuvad harva kontrolli alt, sest usaldate mõlemad, et side peab vastu.",
+    "anxious+secure": "Turvaline partner pakub stabiilset kohalolu, mida ärevalt kiindunud partner igatseb. Selge rahustamine ja kindlad rituaalid aitavad ärevalt kiindunud partneril aja jooksul lõõgastuda.",
+    "avoidant+secure": "Turvaline partner suudab vältivale partnerile ruumi anda, tundmata end tõrjutuna. Väikesed surveta läheduse hetked aitavad vältival partneril avaneda.",
+    "fearful+secure": "Turvaline partner pakub kindlat baasi, mida hirmunud partner nii soovib kui kardab. Kannatlikkus ja ettearvatavus loevad rohkem kui suured žestid.",
+    "anxious+anxious": "Igatsete mõlemad lähedust ja mõistate seda vajadust teineteises. Stressis võite teineteise muresid toita, nii et rahustage teineteist enne, kui asju arutate.",
+    "anxious+avoidant": "See on kõige tuntum tõmbamine ja tõukamine: üks otsib lähedust, teine tõmbub tagasi, mistõttu esimene surub veelgi rohkem. Mustri koos äratundmine on esimene samm selle murdmiseks.",
+    "anxious+fearful": "Tunnete mõlemad palju ja kardate teist kaotada. See võib tunduda väga intensiivne. Leppige kokku selged märguanded, kui üks teist vajab rahustamist või hetke üksi.",
+    "avoidant+avoidant": "Hindate mõlemad iseseisvust ja lämmatate teineteist harva. Oht on kaugus: olulised tunded jäävad ütlemata. Planeerige aega päris vestlusteks.",
+    "avoidant+fearful": "Üks hoiab distantsi, teine kõigub läheduse ja taandumise vahel. Nii võite mõlemad tunda, et teid ei nähta. Öelge välja, mida vajate, isegi kui see tundub ebamugav.",
+    "fearful+fearful": "Tunnete teineteises ära igatsuse läheduse järele ja hirmu selle ees. See võib luua sügava mõistmise ja ka kaose. Kindel rutiin ja vajadusel väline tugi aitavad teid mõlemaid."
   }
 }

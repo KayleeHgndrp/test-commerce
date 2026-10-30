@@ -140,5 +140,17 @@
       "name": "Bailīgi izvairīgais",
       "text": "Tavas atbildes liecina par bailīgi izvairīgu stilu. Iespējams, tu ilgojies pēc tuvības un vienlaikus no tās baidies, tāpēc attiecības var šķist mulsinošas: tu tuvojies cilvēkiem un tad atkāpies, kad kļūst intensīvi. Raizes par noraidījumu un neērtības, paļaujoties uz citiem, var pastāvēt līdzās. Šis stils bieži veidojas no pieredzes, kurā tuvība nešķita droša, un tajā nav nekā kauna. Esi pret sevi saudzīgs un meklē stabilas, paredzamas attiecības. Ļoti palīdz mācīties pamanīt un nosaukt savas sajūtas. Darbs ar kvalificētu terapeitu var būt īpaši vērtīgs, lai veidotu drošāku saiknes veidu."
     }
+  },
+  "couple": {
+    "secure+secure": "Divi droši piesaistīti partneri bez lielas piepūles dod viens otram telpu un tuvumu. Konflikti reti iziet no kontroles, jo jūs abi uzticaties, ka saikne to izturēs.",
+    "anxious+secure": "Drošais partneris sniedz stabilu klātbūtni, pēc kuras ilgojas trauksmainais partneris. Skaidrs nomierinājums un pastāvīgi rituāli palīdz trauksmainajam partnerim laika gaitā atslābt.",
+    "avoidant+secure": "Drošais partneris var dot izvairīgajam partnerim telpu, nejūtoties atraidīts. Nelieli tuvuma brīži bez spiediena palīdz izvairīgajam partnerim atvērties.",
+    "fearful+secure": "Drošais partneris piedāvā drošu pamatu, ko bailīgais partneris gan vēlas, gan baidās. Pacietība un paredzamība nozīmē vairāk nekā lieli žesti.",
+    "anxious+anxious": "Jūs abi ilgojaties pēc tuvuma un saprotat šo vajadzību viens otrā. Stresā varat barot viens otra raizes, tāpēc vispirms nomieriniet viens otru un tikai tad pārrunājiet lietas.",
+    "anxious+avoidant": "Šī ir pazīstamākā pievilkšana un atgrūšana: viens meklē tuvumu, otrs atkāpjas, un pirmais spiež vēl vairāk. Kopīgi atpazīt šo modeli ir pirmais solis, lai to pārtrauktu.",
+    "anxious+fearful": "Jūs abi daudz jūtat un baidāties zaudēt otru. Tas var būt ļoti intensīvi. Vienojieties par skaidriem signāliem, kad kādam no jums vajag nomierinājumu vai brīdi vienatnē.",
+    "avoidant+avoidant": "Jūs abi novērtējat neatkarību un reti viens otru nomācat. Risks ir attālums: svarīgas jūtas paliek neizteiktas. Plānojiet brīžus īstām sarunām.",
+    "avoidant+fearful": "Viens tur distanci, otrs svārstās starp tuvumu un atkāpšanos. Tā jūs abi varat justies neredzēti. Sakiet skaļi, kas jums vajadzīgs, pat ja tas šķiet neveikli.",
+    "fearful+fearful": "Jūs viens otrā atpazīstat ilgas pēc tuvuma un bailes no tā. Tas var radīt dziļu sapratni un arī haosu. Stabila rutīna un vajadzības gadījumā palīdzība no malas palīdz jums abiem."
   }
 }

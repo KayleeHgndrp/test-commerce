@@ -140,5 +140,17 @@
       "name": "Korkulu-kaçıngan",
       "text": "Yanıtların korkulu-kaçıngan bir stile işaret ediyor. Yakınlığı arzularken ondan korkuyor da olabilirsin; bu yüzden ilişkiler kafa karıştırıcı hissettirebilir: insanlara yaklaşıyor, işler yoğunlaşınca geri çekiliyorsun. Reddedilme endişesi ile başkalarına dayanmaktan duyulan rahatsızlık yan yana var olabilir. Bu stil çoğu zaman yakınlığın güvenli hissettirmediği deneyimlerden doğar ve utanılacak bir şey değildir. Kendine nazik davran ve istikrarlı, öngörülebilir ilişkiler ara. Duygularını fark etmeyi ve adlandırmayı öğrenmek çok yardımcı olur. Alanında yetkin bir terapistle çalışmak, daha güvenli bir bağ kurma biçimi geliştirmek için özellikle değerli olabilir."
     }
+  },
+  "couple": {
+    "secure+secure": "Güvenli bağlanan iki partner, çok çaba harcamadan birbirine hem alan hem yakınlık tanır. Çatışmalar nadiren kontrolden çıkar, çünkü ikiniz de bağın buna dayanabileceğine güvenirsiniz.",
+    "anxious+secure": "Güvenli partner, kaygılı partnerin özlediği istikrarlı varlığı sunar. Net güvenceler ve sabit ritüeller, kaygılı partnerin zamanla rahatlamasına yardımcı olur.",
+    "avoidant+secure": "Güvenli partner, reddedilmiş hissetmeden kaçıngan partnere alan tanıyabilir. Baskısız küçük yakınlık anları, kaçıngan partnerin açılmasına yardımcı olur.",
+    "fearful+secure": "Güvenli partner, korkulu partnerin hem istediği hem de korktuğu güvenli bir zemin sunar. Sabır ve öngörülebilirlik büyük jestlerden daha önemlidir.",
+    "anxious+anxious": "İkiniz de yakınlık özlüyorsunuz ve bu ihtiyacı birbirinizde anlıyorsunuz. Stres altında birbirinizin endişelerini besleyebilirsiniz, bu yüzden konuşmadan önce birbirinizi sakinleştirin.",
+    "anxious+avoidant": "Bu en bilinen çekme itme döngüsüdür: biri yakınlık arar, diğeri geri çekilir ve ilki daha çok üstüne gider. Bu kalıbı birlikte fark etmek, onu kırmanın ilk adımıdır.",
+    "anxious+fearful": "İkiniz de çok yoğun hissediyor ve diğerini kaybetmekten korkuyorsunuz. Bu çok yoğun gelebilir. Birinizin güvenceye ya da biraz yalnız kalmaya ihtiyaç duyduğu anlar için net işaretlerde anlaşın.",
+    "avoidant+avoidant": "İkiniz de bağımsızlığa değer veriyor ve birbirinizi nadiren boğuyorsunuz. Risk mesafedir: önemli duygular söylenmeden kalır. Gerçekten konuşmak için zaman ayırın.",
+    "avoidant+fearful": "Biri mesafe korur, diğeri yakınlık ile geri çekilme arasında gidip gelir. Bu yüzden ikiniz de görülmediğinizi hissedebilirsiniz. Garip gelse bile neye ihtiyacınız olduğunu açıkça söyleyin.",
+    "fearful+fearful": "Birbirinizde yakınlık özlemini ve ondan duyulan korkuyu tanıyorsunuz. Bu derin bir anlayış ama aynı zamanda kaos da yaratabilir. Sabit bir rutin ve gerekirse dışarıdan destek ikinize de iyi gelir."
   }
 }

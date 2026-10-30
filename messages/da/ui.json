@@ -237,7 +237,11 @@
     "spam": "Ikke modtaget efter 10 minutter? Tjek din spam- eller kampagnemappe, eller kontakt os på {email}.",
     "more": "Opdag flere tests",
     "bundleTitle": "Din næste rapport for {price}",
-    "bundleText": "Vælg en test mere nedenfor og tag den inden for {days} dage. Den fulde rapport koster så {price} i stedet for {full}. Gælder for én ekstra rapport."
+    "bundleText": "Vælg en test mere nedenfor og tag den inden for {days} dage. Den fulde rapport koster så {price} i stedet for {full}. Gælder for én ekstra rapport.",
+    "packTitle": "Din pakke er aktiv",
+    "packText": "Tag en anden test. På resultatsiden låses din næste rapport op med det samme, uden at du betaler igen. Tilbage: {count}.",
+    "allTitle": "Dit alt-adgangspas er aktivt",
+    "allText": "Tag den test, du vil. På resultatsiden låses hver rapport op med det samme, uden at du betaler igen."
   },
   "report": {
     "subject": "Din rapport: {test}",
@@ -247,7 +251,31 @@
     "outro": "Vi håber, at rapporten giver dig nyttig indsigt. Nysgerrig efter andre sider af dig selv? Opdag alle vores tests på {url}.",
     "signature": "Holdet bag {site}",
     "instrumentLabel": "{name}: {score} af {max}",
-    "typeLabel": "Din type"
+    "typeLabel": "Din type",
+    "coupleSubject": "Jeres parrapport: {test}",
+    "coupleIntro": "Tak fordi I tog {test} sammen på {site}. Her er parrapporten for dig og {name}.",
+    "coupleSummary": "Denne rapport sammenligner dig og {name} på hver del af {test}. En forskel er ikke et problem. Den viser, hvor I har brug for tålmodighed med hinanden, og hvor I kan lære af hinanden.",
+    "matchLabel": "Jeres match",
+    "matchName": "{score}% match: {band}",
+    "matchText": {
+      "high": "I ser mange ting på samme måde, og det giver ro og tillid. Bliv ved med at tale om de få punkter, hvor I er forskellige.",
+      "mid": "I har et solidt fundament og også tydelige forskelle. Med lidt opmærksomhed gør de forskelle jeres forhold rigere.",
+      "low": "I er ret forskellige. Det kan være spændende og også trættende. Denne rapport viser, hvor I skal være ekstra opmærksomme."
+    },
+    "typesLine": "Din type: {mine}. {name}: {theirs}.",
+    "scoreLine": "Dig: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Ens",
+      "some": "Delvist ens",
+      "different": "Forskellige"
+    },
+    "closenessText": {
+      "alike": "Her ligger I tæt på hinanden. Det føles som regel let og naturligt. Risikoen er, at I forstærker hinandens blinde vinkler, så spørg en gang imellem, hvad I begge måske overser.",
+      "some": "Her er I lidt forskellige. I hverdagen mærker I det knap, men under stress kan forskellen føles større. Sig det højt, når det dukker op.",
+      "different": "Her er I meget forskellige. Det er ofte her, gnidninger starter, og også her I kan lære mest af hinanden. Aftal, hvordan I håndterer det, før det bliver til et skænderi."
+    },
+    "passLine": "Din pakke indeholder {count} rapporter mere. Tag en anden test, så låses rapporten op på resultatsiden. På en anden enhed åbner du først dette link: {link}",
+    "passLineAll": "Dit alt-adgangspas låser hver rapport op. Tag en test, så låses rapporten op på resultatsiden. På en anden enhed åbner du først dette link: {link}"
   },
   "footer": {
     "tagline": "Kend dig selv bedre",
@@ -278,7 +306,7 @@
     "termsTitle": "Servicevilkår",
     "termsBody": [
       "Alle tests på {site} er beregnet til selvrefleksion og underholdning. De udgør ikke en medicinsk, psykologisk eller anden faglig diagnose.",
-      "Det er gratis at tage en test. En personlig rapport koster {price} pr. test som en engangsbetaling. Rapporten leveres digitalt via e-mail.",
+      "Det er gratis at tage en test. En personlig rapport koster {price} pr. test som en engangsbetaling. Du kan også købe en pakke med 3 rapporter, et pas til alle rapporter eller en parrapport, der sammenligner to personer, som har taget den samme test. Det er også engangsbetalinger. Rapporterne leveres digitalt via e-mail.",
       "Da rapporten er digitalt indhold, der leveres straks efter betaling, accepterer du, at din fortrydelsesret bortfalder, når rapporten er sendt. Har du ikke modtaget din rapport, så kontakt {email}, så sender vi den igen eller refunderer beløbet.",
       "Vi gør vores bedste for at holde indholdet korrekt, men vi kan ikke garantere, at resultaterne er fuldstændige eller rigtige for alle."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Refusionspolitik",
     "refundBody": [
-      "En rapport koster {price} pr. test som en engangsbetaling. Der er intet abonnement og ingen automatisk fornyelse.",
+      "En rapport koster {price} pr. test som en engangsbetaling. Pakker, alt-adgangspasset og parrapporter er også engangsbetalinger. Der er intet abonnement og ingen automatisk fornyelse.",
       "Har du ikke modtaget din rapport, eller er noget gået galt? Kontakt {email} inden for 14 dage, og oplys den e-mailadresse, du brugte, så sender vi rapporten igen eller refunderer din betaling.",
       "Da rapporten er digitalt indhold, der leveres med det samme, bortfalder den lovbestemte fortrydelsesret, når den er sendt. Vi hjælper dig dog altid, hvis noget ikke er, som det skal være.",
       "Refusioner sker til den oprindelige betalingsmetode inden for 5–10 hverdage."
@@ -385,5 +413,61 @@
     "accept": "Accepter",
     "decline": "Afvis",
     "settings": "Skift cookieindstillinger"
+  },
+  "plans": {
+    "title": "Vælg din rapport",
+    "single": "Denne rapport",
+    "pack": "3 rapporter",
+    "packNote": "Denne plus 2 andre test efter eget valg",
+    "all": "Alle {count} rapporter",
+    "allNote": "Hver test på siden, lås dem op når du vil",
+    "save": "Spar {amount}",
+    "passPack": "Din pakke har {count} rapporter tilbage",
+    "passAll": "Dit alt-adgangspas er aktivt",
+    "passUnlock": "Lås denne rapport op gratis",
+    "passError": "Din pakke kunne ikke bruges til denne rapport. Du kan stadig købe den nedenfor.",
+    "packProduct": "{test} + {extra} rapporter mere",
+    "allProduct": "Alle {count} rapporter"
+  },
+  "couple": {
+    "inviteTitle": "Tag testen sammen med din partner",
+    "inviteText": "Send din partner et link. Din partner tager den samme test gratis, og I ser begge jeres match med det samme.",
+    "nameLabel": "Dit fornavn (valgfrit)",
+    "createLink": "Inviter min partner",
+    "copy": "Kopiér link",
+    "copied": "Link kopieret",
+    "inviteMessage": "Tag {test} med mig, så ser vi hvor godt vi matcher",
+    "invitedTitle": "{name} har inviteret dig",
+    "invitedTitleAnon": "Du er blevet inviteret",
+    "invitedText": "Tag {test}. Bagefter ser I begge, hvor godt I matcher.",
+    "start": "Start testen",
+    "invalid": "Dette invitationslink virker ikke. Bed din partner om at sende det igen.",
+    "matchTitle": "Jeres match",
+    "matchWith": "Dig og {name}",
+    "partner": "din partner",
+    "bands": {
+      "high": "Stærkt match",
+      "mid": "Godt match med plads til at vokse",
+      "low": "Modsætninger mødes"
+    },
+    "shareScore": "Del jeres score",
+    "shareText": "Vi fik {score}% match i {test}. Hvor godt matcher I?",
+    "sendBackTitle": "Send scoren til {name}",
+    "sendBackText": "Med dette link ser din partner den samme score.",
+    "unlockTitle": "Den fulde parrapport",
+    "unlockText": "Se for hvert træk, hvor du og {name} ligner hinanden, hvor det kan gnide, og hvad der hjælper jer begge.",
+    "includes": [
+      "Jeres scorer side om side for hvert træk",
+      "Hvor I ligner hinanden, og hvor I er forskellige",
+      "Hvad jeres kombination betyder, og hvad der hjælper"
+    ],
+    "buy": "Få parrapporten for {price}",
+    "note": "Én betaling for jer begge. Rapporten kommer på din e-mail, så du kan videresende den.",
+    "product": "Parrapport: {test}"
+  },
+  "passPage": {
+    "title": "Din pakke",
+    "text": "Din pakke er nu aktiv på denne enhed. Vælg en test, så låses din rapport op med det samme.",
+    "invalid": "Dette link virker ikke. Kontakt os, så hjælper vi dig."
   }
 }

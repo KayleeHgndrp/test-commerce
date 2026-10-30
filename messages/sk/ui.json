@@ -237,7 +237,11 @@
     "spam": "Neprišla ani po 10 minútach? Skontrolujte priečinok so spamom alebo s reklamnou poštou, alebo nám napíšte na {email}.",
     "more": "Objaviť ďalšie testy",
     "bundleTitle": "Vaša ďalšia správa za {price}",
-    "bundleText": "Vyberte si nižšie ďalší test a urobte ho do {days} dní. Celá správa potom stojí {price} namiesto {full}. Platí pre jednu ďalšiu správu."
+    "bundleText": "Vyberte si nižšie ďalší test a urobte ho do {days} dní. Celá správa potom stojí {price} namiesto {full}. Platí pre jednu ďalšiu správu.",
+    "packTitle": "Váš balík je aktívny",
+    "packText": "Urobte si iný test. Na stránke s výsledkami sa vaša ďalšia správa hneď odomkne, bez ďalšej platby. Zostáva: {count}.",
+    "allTitle": "Váš plný prístup je aktívny",
+    "allText": "Urobte si akýkoľvek test. Na stránke s výsledkami sa každá správa hneď odomkne, bez ďalšej platby."
   },
   "report": {
     "subject": "Vaša správa: {test}",
@@ -247,7 +251,31 @@
     "outro": "Dúfame, že vám táto správa prinesie užitočné poznatky. Zaujímajú vás aj ďalšie stránky vašej osobnosti? Všetky naše testy nájdete na {url}.",
     "signature": "Tím {site}",
     "instrumentLabel": "{name}: {score} z {max}",
-    "typeLabel": "Váš typ"
+    "typeLabel": "Váš typ",
+    "coupleSubject": "Vaša partnerská správa: {test}",
+    "coupleIntro": "Ďakujeme, že ste si spolu urobili {test} na {site}. Tu je partnerská správa pre vás a {name}.",
+    "coupleSummary": "Táto správa porovnáva vás a {name} v každej časti testu {test}. Rozdiel nie je problém. Ukazuje, kde spolu potrebujete trpezlivosť a kde sa od seba môžete učiť.",
+    "matchLabel": "Vaša zhoda",
+    "matchName": "Zhoda {score} %: {band}",
+    "matchText": {
+      "high": "Veľa vecí vidíte rovnako, a to prináša pokoj a dôveru. Ďalej sa rozprávajte o tých niekoľkých bodoch, v ktorých sa líšite.",
+      "mid": "Máte pevný základ a aj jasné rozdiely. S trochou pozornosti tieto rozdiely váš vzťah obohatia.",
+      "low": "Ste dosť odlišní. To môže byť vzrušujúce a zároveň vyčerpávajúce. Táto správa ukazuje, na čo si dať väčší pozor."
+    },
+    "typesLine": "Váš typ: {mine}. {name}: {theirs}.",
+    "scoreLine": "Vy: {mine} % · {name}: {theirs} %",
+    "closeness": {
+      "alike": "Podobní",
+      "some": "Čiastočne podobní",
+      "different": "Odlišní"
+    },
+    "closenessText": {
+      "alike": "Tu máte skóre blízko seba. Zvyčajne to pôsobí ľahko a prirodzene. Riziko je, že si posilňujete slepé miesta, preto sa občas opýtajte, čo obaja môžete prehliadať.",
+      "some": "Tu sa trochu líšite. V bežnom živote si to takmer nevšimnete, ale v strese sa rozdiel môže zdať väčší. Povedzte to nahlas, keď sa objaví.",
+      "different": "Tu sa veľmi líšite. Práve tu často začínajú trenice a práve tu sa od seba môžete najviac naučiť. Dohodnite sa, ako s tým naložíte, skôr než z toho bude hádka."
+    },
+    "passLine": "Váš balík obsahuje ešte {count} správy. Urobte si iný test a správa sa odomkne na stránke s výsledkami. Na inom zariadení najprv otvorte tento odkaz: {link}",
+    "passLineAll": "Váš plný prístup odomyká každú správu. Urobte si test a správa sa odomkne na stránke s výsledkami. Na inom zariadení najprv otvorte tento odkaz: {link}"
   },
   "footer": {
     "tagline": "Spoznajte sa lepšie",
@@ -278,7 +306,7 @@
     "termsTitle": "Podmienky služby",
     "termsBody": [
       "Všetky testy na {site} slúžia na sebapoznanie a zábavu. Nie sú lekárskou, psychologickou ani inou odbornou diagnózou.",
-      "Vyplnenie testu je zadarmo. Osobná správa stojí {price} za test ako jednorazová platba. Správa sa doručuje digitálne e-mailom.",
+      "Urobiť si test je zadarmo. Osobná správa stojí {price} za test ako jednorazová platba. Môžete si kúpiť aj balík 3 správ, prístup ku všetkým správam alebo partnerskú správu, ktorá porovnáva dvoch ľudí s rovnakým testom. Aj to sú jednorazové platby. Správy sa doručujú digitálne e-mailom.",
       "Keďže správa je digitálny obsah dodaný ihneď po zaplatení, súhlasíte s tým, že právo na odstúpenie od zmluvy zaniká odoslaním správy. Ak vám správa neprišla, napíšte na {email} a pošleme ju znova alebo vám vrátime peniaze.",
       "Snažíme sa, aby bol obsah presný, no nemôžeme zaručiť, že výsledky budú úplné alebo správne pre každého."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Zásady vrátenia peňazí",
     "refundBody": [
-      "Správa stojí {price} za test ako jednorazová platba. Nejde o predplatné a nič sa automaticky neobnovuje.",
+      "Správa stojí {price} za test ako jednorazová platba. Balíky, plný prístup aj partnerské správy sú tiež jednorazové platby. Nie je žiadne predplatné ani automatické obnovenie.",
       "Neprišla vám správa alebo sa niečo pokazilo? Napíšte do 14 dní na {email}, uveďte e-mailovú adresu použitú pri nákupe a správu vám pošleme znova alebo vrátime platbu.",
       "Keďže správa je digitálny obsah dodaný okamžite, zákonné právo na odstúpenie od zmluvy zaniká jej odoslaním. Ak niečo nie je v poriadku, vždy vám radi pomôžeme.",
       "Peniaze vraciame na pôvodný spôsob platby do 5 – 10 pracovných dní."
@@ -385,5 +413,61 @@
     "accept": "Prijať",
     "decline": "Odmietnuť",
     "settings": "Zmeniť nastavenia cookies"
+  },
+  "plans": {
+    "title": "Vyberte si správu",
+    "single": "Táto správa",
+    "pack": "3 správy",
+    "packNote": "Táto plus 2 ďalšie testy podľa vášho výberu",
+    "all": "Všetky správy ({count})",
+    "allNote": "Každý test na stránke, odomknite si ich, kedy chcete",
+    "save": "Ušetríte {amount}",
+    "passPack": "Vo vašom balíku zostáva správ: {count}",
+    "passAll": "Váš plný prístup je aktívny",
+    "passUnlock": "Odomknúť túto správu zadarmo",
+    "passError": "Váš balík sa nepodarilo použiť pre túto správu. Stále si ju môžete kúpiť nižšie.",
+    "packProduct": "{test} + {extra} ďalšie správy",
+    "allProduct": "Všetky správy ({count})"
+  },
+  "couple": {
+    "inviteTitle": "Urobte si tento test s partnerom",
+    "inviteText": "Pošlite partnerovi odkaz. Urobí si rovnaký test zadarmo a obaja hneď uvidíte svoje skóre zhody.",
+    "nameLabel": "Vaše krstné meno (nepovinné)",
+    "createLink": "Pozvať partnera",
+    "copy": "Kopírovať odkaz",
+    "copied": "Odkaz skopírovaný",
+    "inviteMessage": "Urob si so mnou {test} a uvidíme, ako k sebe sedíme",
+    "invitedTitle": "{name} vás pozýva",
+    "invitedTitleAnon": "Máte pozvánku",
+    "invitedText": "Urobte si {test}. Potom obaja uvidíte, ako k sebe sedíte.",
+    "start": "Začať test",
+    "invalid": "Tento odkaz s pozvánkou nefunguje. Požiadajte partnera, aby ho poslal znova.",
+    "matchTitle": "Vaše skóre zhody",
+    "matchWith": "Vy a {name}",
+    "partner": "váš partner",
+    "bands": {
+      "high": "Silná zhoda",
+      "mid": "Dobrá zhoda s priestorom na rast",
+      "low": "Protiklady sa priťahujú"
+    },
+    "shareScore": "Zdieľať skóre",
+    "shareText": "Máme zhodu {score} % v teste {test}. Ako ste na tom vy?",
+    "sendBackTitle": "Pošlite skóre: {name}",
+    "sendBackText": "S týmto odkazom uvidí partner rovnaké skóre.",
+    "unlockTitle": "Úplná partnerská správa",
+    "unlockText": "Pri každej vlastnosti uvidíte, v čom ste si vy a {name} podobní, kde to môže škrípať a čo pomáha vám obom.",
+    "includes": [
+      "Vaše skóre vedľa seba pri každej vlastnosti",
+      "V čom ste si podobní a v čom sa líšite",
+      "Čo znamená vaša kombinácia a čo pomáha"
+    ],
+    "buy": "Získať partnerskú správu za {price}",
+    "note": "Jedna platba pre vás oboch. Správa príde na váš e-mail, takže ju môžete preposlať.",
+    "product": "Partnerská správa: {test}"
+  },
+  "passPage": {
+    "title": "Váš balík",
+    "text": "Váš balík je teraz aktívny na tomto zariadení. Vyberte test a vaša správa sa hneď odomkne.",
+    "invalid": "Tento odkaz nefunguje. Kontaktujte nás a pomôžeme vám."
   }
 }

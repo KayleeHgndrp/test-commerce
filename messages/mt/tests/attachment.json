@@ -140,5 +140,17 @@
       "name": "Biżżiegħi-evitanti",
       "text": "It-tweġibiet tiegħek jissuġġerixxu stil biżżiegħi-evitanti. Tista' tixtieq il-qrubija u fl-istess ħin tibża' minnha, u għalhekk ir-relazzjonijiet jistgħu jkunu konfużi: tersaq lejn in-nies u mbagħad tiġbed lura meta l-affarijiet isiru intensi. L-inkwiet dwar ir-rifjut u l-iskumdità bid-dipendenza fuq l-oħrajn jistgħu jeżistu flimkien. Dan l-istil spiss jikber minn esperjenzi fejn il-qrubija ma kinitx sigura, u m'hemmx għalfejn tistħi minnu. Kun ġentili miegħek innifsek u fittex relazzjonijiet stabbli u prevedibbli. Li titgħallem tinnota u ssemmi s-sentimenti tiegħek jgħin ħafna. Ix-xogħol ma' terapista kwalifikat jista' jkun ta' siwi speċjali biex tibni mod aktar sigur kif tikkonnettja."
     }
+  },
+  "couple": {
+    "secure+secure": "Żewġ sħab siguri jagħtu lil xulxin spazju u qrubija mingħajr ħafna sforz. Il-kunflitti rarament joħorġu minn idejkom, għax it-tnejn tafdaw li r-rabta tiflaħ.",
+    "anxious+secure": "Is-sieħeb sigur joffri l-preżenza stabbli li s-sieħeb ansjuż jixxennaq għaliha. Serħan il-moħħ ċar u ritwali fissi jgħinu lis-sieħeb ansjuż jirrilassa maż-żmien.",
+    "avoidant+secure": "Is-sieħeb sigur jista' jagħti spazju lis-sieħeb li jevita mingħajr ma jħossu miċħud. Mumenti żgħar ta' qrubija mingħajr pressjoni jgħinu lis-sieħeb li jevita jinfetaħ.",
+    "fearful+secure": "Is-sieħeb sigur joffri bażi sigura, li s-sieħeb li jibża' fl-istess ħin jixtieqha u jibża' minnha. Il-paċenzja u l-prevedibbiltà jgħoddu aktar minn ġesti kbar.",
+    "anxious+anxious": "It-tnejn tixxennqu għall-qrubija u tifhmu dan il-bżonn f'xulxin. Taħt stress tistgħu titmgħu l-inkwiet ta' xulxin, għalhekk l-ewwel ikkalmaw lil xulxin qabel ma titkellmu.",
+    "anxious+avoidant": "Din hija l-aktar ġibda u imbuttar magħrufa: wieħed ifittex il-qrubija, l-ieħor jirtira, u l-ewwel wieħed jagħfas aktar. Li tagħrfu dan ix-xejra flimkien huwa l-ewwel pass biex tkissruha.",
+    "anxious+fearful": "It-tnejn tħossu ħafna u tibżgħu li titilfu lil xulxin. Dan jista' jkun intens ħafna. Ftehmu fuq sinjali ċari għal meta wieħed minnkom ikollu bżonn serħan il-moħħ jew ftit ħin waħdu.",
+    "avoidant+avoidant": "It-tnejn tapprezzaw l-indipendenza u rarament toħonqu lil xulxin. Ir-riskju hu d-distanza: sentimenti importanti jibqgħu ma jingħadux. Ippjanaw mumenti biex verament titkellmu.",
+    "avoidant+fearful": "Wieħed iżomm distanza, l-ieħor joxxilla bejn qrubija u rtirar. Hekk it-tnejn tistgħu tħossukom mhux mifhuma. Għidu b'leħen għoli x'għandkom bżonn, anke meta jħossu skomdu.",
+    "fearful+fearful": "Tagħrfu f'xulxin ix-xewqa għall-qrubija u l-biża' minnha. Dan jista' joħloq fehim profond u wkoll kaos. Rutina stabbli u, jekk meħtieġ, għajnuna minn barra jgħinu lit-tnejn li intom."
   }
 }

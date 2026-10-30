@@ -237,7 +237,11 @@
     "spam": "Nie dotarł po 10 minutach? Sprawdź folder spam lub oferty albo napisz do nas na {email}.",
     "more": "Odkryj więcej testów",
     "bundleTitle": "Twój kolejny raport za {price}",
-    "bundleText": "Wybierz poniżej kolejny test i wykonaj go w ciągu {days} dni. Pełny raport będzie wtedy kosztować {price} zamiast {full}. Dotyczy jednego dodatkowego raportu."
+    "bundleText": "Wybierz poniżej kolejny test i wykonaj go w ciągu {days} dni. Pełny raport będzie wtedy kosztować {price} zamiast {full}. Dotyczy jednego dodatkowego raportu.",
+    "packTitle": "Twój pakiet jest aktywny",
+    "packText": "Zrób inny test. Na stronie wyników kolejny raport odblokuje się od razu, bez ponownej płatności. Pozostało: {count}.",
+    "allTitle": "Twój pełny dostęp jest aktywny",
+    "allText": "Zrób dowolny test. Na stronie wyników każdy raport odblokuje się od razu, bez ponownej płatności."
   },
   "report": {
     "subject": "Twój raport: {test}",
@@ -247,7 +251,31 @@
     "outro": "Mamy nadzieję, że ten raport dostarczy Ci cennych spostrzeżeń. Chcesz poznać inne strony siebie? Wszystkie nasze testy znajdziesz na {url}.",
     "signature": "Zespół {site}",
     "instrumentLabel": "{name}: {score} z {max}",
-    "typeLabel": "Twój typ"
+    "typeLabel": "Twój typ",
+    "coupleSubject": "Wasz raport dla pary: {test}",
+    "coupleIntro": "Dziękujemy, że zrobiliście razem {test} na {site}. Oto raport dla pary dla Ciebie i osoby {name}.",
+    "coupleSummary": "Ten raport porównuje Ciebie i {name} w każdej części testu {test}. Różnica nie jest problemem. Pokazuje, gdzie potrzebujecie wzajemnej cierpliwości i gdzie możecie się od siebie uczyć.",
+    "matchLabel": "Wasze dopasowanie",
+    "matchName": "{score}% dopasowania: {band}",
+    "matchText": {
+      "high": "Wiele rzeczy widzicie tak samo, co daje spokój i zaufanie. Rozmawiajcie dalej o tych kilku punktach, w których się różnicie.",
+      "mid": "Macie solidną podstawę i wyraźne różnice. Przy odrobinie uwagi te różnice wzbogacają Wasz związek.",
+      "low": "Jesteście dość różni. To może być ekscytujące i zarazem męczące. Ten raport pokazuje, na co zwrócić szczególną uwagę."
+    },
+    "typesLine": "Twój typ: {mine}. {name}: {theirs}.",
+    "scoreLine": "Ty: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Podobni",
+      "some": "Częściowo podobni",
+      "different": "Różni"
+    },
+    "closenessText": {
+      "alike": "Tutaj Wasze wyniki są blisko siebie. Zwykle przychodzi to łatwo i naturalnie. Ryzyko polega na tym, że wzmacniacie swoje martwe punkty, więc co jakiś czas zapytajcie, co oboje możecie przeoczać.",
+      "some": "Tutaj trochę się różnicie. Na co dzień ledwie to zauważycie, ale w stresie różnica może wydawać się większa. Nazwijcie ją na głos, gdy się pojawi.",
+      "different": "Tutaj bardzo się różnicie. To często tu zaczynają się tarcia i tu możecie się od siebie najwięcej nauczyć. Ustalcie, jak sobie z tym radzić, zanim dojdzie do kłótni."
+    },
+    "passLine": "Twój pakiet zawiera jeszcze {count} raporty. Zrób inny test, a raport odblokuje się na stronie wyników. Na innym urządzeniu najpierw otwórz ten link: {link}",
+    "passLineAll": "Twój pełny dostęp odblokowuje każdy raport. Zrób test, a raport odblokuje się na stronie wyników. Na innym urządzeniu najpierw otwórz ten link: {link}"
   },
   "footer": {
     "tagline": "Poznaj siebie lepiej",
@@ -278,7 +306,7 @@
     "termsTitle": "Warunki korzystania z usługi",
     "termsBody": [
       "Wszystkie testy w serwisie {site} służą autorefleksji i rozrywce. Nie stanowią diagnozy medycznej, psychologicznej ani zawodowej.",
-      "Rozwiązanie testu jest bezpłatne. Osobisty raport kosztuje {price} za test i jest płatny jednorazowo. Raport jest dostarczany w formie cyfrowej e-mailem.",
+      "Wykonanie testu jest bezpłatne. Raport osobisty kosztuje {price} za test jako płatność jednorazowa. Możesz też kupić pakiet 3 raportów, dostęp do wszystkich raportów lub raport dla pary, który porównuje dwie osoby po tym samym teście. To również płatności jednorazowe. Raporty są dostarczane cyfrowo e-mailem.",
       "Ponieważ raport jest treścią cyfrową dostarczaną natychmiast po płatności, zgadzasz się, że prawo do odstąpienia od umowy wygasa z chwilą wysłania raportu. Jeśli nie otrzymałeś raportu, napisz na {email}, a wyślemy go ponownie lub zwrócimy pieniądze.",
       "Dokładamy starań, aby treści były rzetelne, ale nie możemy zagwarantować, że wyniki będą kompletne lub trafne w przypadku każdej osoby."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Zasady zwrotów",
     "refundBody": [
-      "Raport kosztuje {price} za test i jest płatny jednorazowo. Nie ma subskrypcji ani automatycznego odnawiania.",
+      "Raport kosztuje {price} za test jako płatność jednorazowa. Pakiety, pełny dostęp i raporty dla par to również płatności jednorazowe. Nie ma subskrypcji ani automatycznego odnawiania.",
       "Nie otrzymałeś raportu lub coś poszło nie tak? Napisz na {email} w ciągu 14 dni, podając użyty adres e-mail, a wyślemy raport ponownie lub zwrócimy płatność.",
       "Ponieważ raport jest treścią cyfrową dostarczaną natychmiast, ustawowe prawo do odstąpienia od umowy wygasa z chwilą jego wysłania. Mimo to zawsze pomożemy, jeśli coś jest nie tak.",
       "Zwroty są realizowane na pierwotną metodę płatności w ciągu 5–10 dni roboczych."
@@ -385,5 +413,61 @@
     "accept": "Akceptuję",
     "decline": "Odrzucam",
     "settings": "Zmień ustawienia plików cookie"
+  },
+  "plans": {
+    "title": "Wybierz raport",
+    "single": "Ten raport",
+    "pack": "3 raporty",
+    "packNote": "Ten plus 2 inne testy do wyboru",
+    "all": "Wszystkie raporty ({count})",
+    "allNote": "Każdy test na stronie, odblokuj je, kiedy chcesz",
+    "save": "Oszczędzasz {amount}",
+    "passPack": "W Twoim pakiecie zostało raportów: {count}",
+    "passAll": "Twój pełny dostęp jest aktywny",
+    "passUnlock": "Odblokuj ten raport za darmo",
+    "passError": "Nie udało się użyć pakietu dla tego raportu. Nadal możesz go kupić poniżej.",
+    "packProduct": "{test} + {extra} kolejne raporty",
+    "allProduct": "Wszystkie raporty ({count})"
+  },
+  "couple": {
+    "inviteTitle": "Zrób ten test z partnerem",
+    "inviteText": "Wyślij partnerowi link. Zrobi ten sam test za darmo, a oboje od razu zobaczycie swój wynik dopasowania.",
+    "nameLabel": "Twoje imię (opcjonalnie)",
+    "createLink": "Zaproś partnera",
+    "copy": "Kopiuj link",
+    "copied": "Link skopiowany",
+    "inviteMessage": "Zrób ze mną {test} i zobaczmy, jak bardzo do siebie pasujemy",
+    "invitedTitle": "{name} zaprasza Cię",
+    "invitedTitleAnon": "Masz zaproszenie",
+    "invitedText": "Zrób {test}. Potem oboje zobaczycie, jak bardzo do siebie pasujecie.",
+    "start": "Rozpocznij test",
+    "invalid": "Ten link z zaproszeniem nie działa. Poproś partnera, aby wysłał go ponownie.",
+    "matchTitle": "Wasz wynik dopasowania",
+    "matchWith": "Ty i {name}",
+    "partner": "Twój partner",
+    "bands": {
+      "high": "Świetne dopasowanie",
+      "mid": "Dobre dopasowanie z miejscem na rozwój",
+      "low": "Przeciwieństwa się przyciągają"
+    },
+    "shareScore": "Udostępnij wynik",
+    "shareText": "Mamy {score}% dopasowania w teście {test}. A Wy?",
+    "sendBackTitle": "Wyślij wynik do: {name}",
+    "sendBackText": "Dzięki temu linkowi partner zobaczy ten sam wynik.",
+    "unlockTitle": "Pełny raport dla pary",
+    "unlockText": "Zobacz dla każdej cechy, w czym Ty i {name} jesteście podobni, gdzie może iskrzyć i co pomaga Wam obojgu.",
+    "includes": [
+      "Wasze wyniki obok siebie dla każdej cechy",
+      "W czym jesteście podobni, a w czym się różnicie",
+      "Co oznacza Wasze połączenie i co pomaga"
+    ],
+    "buy": "Odbierz raport dla pary za {price}",
+    "note": "Jedna płatność dla Was obojga. Raport trafi na Twój e-mail, więc możesz go przesłać dalej.",
+    "product": "Raport dla pary: {test}"
+  },
+  "passPage": {
+    "title": "Twój pakiet",
+    "text": "Twój pakiet jest teraz aktywny na tym urządzeniu. Wybierz test, a raport odblokuje się od razu.",
+    "invalid": "Ten link nie działa. Skontaktuj się z nami, pomożemy."
   }
 }

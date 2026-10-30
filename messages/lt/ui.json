@@ -237,7 +237,11 @@
     "spam": "Negavote per 10 minučių? Patikrinkite šlamšto arba reklamų aplanką arba susisiekite su mumis adresu {email}.",
     "more": "Atraskite daugiau testų",
     "bundleTitle": "Kita jūsų ataskaita už {price}",
-    "bundleText": "Žemiau pasirinkite dar vieną testą ir atlikite jį per {days} dienų. Visa ataskaita tada kainuos {price}, o ne {full}. Galioja vienai papildomai ataskaitai."
+    "bundleText": "Žemiau pasirinkite dar vieną testą ir atlikite jį per {days} dienų. Visa ataskaita tada kainuos {price}, o ne {full}. Galioja vienai papildomai ataskaitai.",
+    "packTitle": "Jūsų paketas aktyvus",
+    "packText": "Atlikite kitą testą. Rezultatų puslapyje kita ataskaita atsirakins iškart, nemokant dar kartą. Liko: {count}.",
+    "allTitle": "Jūsų pilna prieiga aktyvi",
+    "allText": "Atlikite bet kurį testą. Rezultatų puslapyje kiekviena ataskaita atsirakins iškart, nemokant dar kartą."
   },
   "report": {
     "subject": "Jūsų testo „{test}“ ataskaita",
@@ -247,7 +251,31 @@
     "outro": "Tikimės, kad ši ataskaita suteiks jums naudingų įžvalgų. Įdomu pažinti ir kitas savo puses? Visus mūsų testus rasite adresu {url}.",
     "signature": "{site} komanda",
     "instrumentLabel": "{name}: {score} iš {max}",
-    "typeLabel": "Jūsų tipas"
+    "typeLabel": "Jūsų tipas",
+    "coupleSubject": "Jūsų poros ataskaita: {test}",
+    "coupleIntro": "Ačiū, kad kartu atlikote {test} svetainėje {site}. Štai poros ataskaita jums ir {name}.",
+    "coupleSummary": "Ši ataskaita lygina jus ir {name} kiekvienoje {test} dalyje. Skirtumas nėra problema. Jis parodo, kur jums reikia kantrybės vienas kitam ir kur galite mokytis vienas iš kito.",
+    "matchLabel": "Jūsų suderinamumas",
+    "matchName": "{score}% suderinamumas: {band}",
+    "matchText": {
+      "high": "Daug ką matote vienodai, ir tai suteikia ramybės bei pasitikėjimo. Toliau kalbėkitės apie tuos kelis dalykus, kuriais skiriatės.",
+      "mid": "Turite tvirtą pagrindą ir aiškių skirtumų. Skiriant šiek tiek dėmesio, šie skirtumai praturtina jūsų santykius.",
+      "low": "Esate gana skirtingi. Tai gali būti įdomu ir kartu varginti. Ši ataskaita parodo, kam skirti daugiau dėmesio."
+    },
+    "typesLine": "Jūsų tipas: {mine}. {name}: {theirs}.",
+    "scoreLine": "Jūs: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Panašūs",
+      "some": "Iš dalies panašūs",
+      "different": "Skirtingi"
+    },
+    "closenessText": {
+      "alike": "Čia jūsų rezultatai artimi. Paprastai tai atrodo lengva ir natūralu. Rizika ta, kad sustiprinate vienas kito akląsias zonas, todėl kartais paklauskite, ko abu galite nepastebėti.",
+      "some": "Čia šiek tiek skiriatės. Kasdienybėje to beveik nepastebėsite, bet patiriant stresą skirtumas gali atrodyti didesnis. Pasakykite tai garsiai, kai jis išryškėja.",
+      "different": "Čia labai skiriatės. Būtent čia dažnai prasideda trintis ir būtent čia galite daugiausia išmokti vienas iš kito. Susitarkite, kaip su tuo tvarkysitės, kol tai netapo ginču."
+    },
+    "passLine": "Jūsų pakete dar yra {count} ataskaitos. Atlikite kitą testą, ir ataskaita atsirakins rezultatų puslapyje. Kitame įrenginyje pirmiausia atidarykite šią nuorodą: {link}",
+    "passLineAll": "Jūsų pilna prieiga atrakina kiekvieną ataskaitą. Atlikite testą, ir ataskaita atsirakins rezultatų puslapyje. Kitame įrenginyje pirmiausia atidarykite šią nuorodą: {link}"
   },
   "footer": {
     "tagline": "Pažinkite save geriau",
@@ -278,7 +306,7 @@
     "termsTitle": "Paslaugų teikimo sąlygos",
     "termsBody": [
       "Visi {site} testai skirti savirefleksijai ir pramogai. Jie nėra medicininė, psichologinė ar profesinė diagnozė.",
-      "Atlikti testą nemokama. Asmeninė ataskaita kainuoja {price} už testą, mokama vieną kartą. Ataskaita pristatoma skaitmeniniu būdu el. paštu.",
+      "Atlikti testą nemokama. Asmeninė ataskaita kainuoja {price} už testą, mokant vieną kartą. Taip pat galite įsigyti 3 ataskaitų paketą, prieigą prie visų ataskaitų arba poros ataskaitą, kuri lygina du žmones, atlikusius tą patį testą. Tai taip pat vienkartiniai mokėjimai. Ataskaitos pristatomos skaitmeniniu būdu el. paštu.",
       "Kadangi ataskaita yra skaitmeninis turinys, pateikiamas iškart po apmokėjimo, sutinkate, kad teisė atsisakyti sutarties išnyksta, kai ataskaita išsiunčiama. Jei ataskaitos negavote, susisiekite adresu {email} – išsiųsime ją dar kartą arba grąžinsime pinigus.",
       "Stengiamės, kad turinys būtų tikslus, tačiau negalime garantuoti, kad rezultatai bus išsamūs ar teisingi kiekvienam asmeniui."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Pinigų grąžinimo politika",
     "refundBody": [
-      "Ataskaita kainuoja {price} už testą, mokama vieną kartą. Jokios prenumeratos ir jokio automatinio atnaujinimo.",
+      "Ataskaita kainuoja {price} už testą, mokant vieną kartą. Paketai, pilna prieiga ir poros ataskaitos taip pat yra vienkartiniai mokėjimai. Nėra jokios prenumeratos ir automatinio atnaujinimo.",
       "Negavote ataskaitos arba kažkas nepavyko? Per 14 dienų susisiekite adresu {email}, nurodydami naudotą el. pašto adresą, ir mes išsiųsime ataskaitą dar kartą arba grąžinsime jūsų mokėjimą.",
       "Kadangi ataskaita yra iškart pateikiamas skaitmeninis turinys, įstatymais numatyta teisė atsisakyti sutarties išnyksta, kai ji išsiunčiama. Vis dėlto, jei kas nors ne taip, visada jums padėsime.",
       "Pinigai grąžinami pradiniu mokėjimo būdu per 5–10 darbo dienų."
@@ -385,5 +413,61 @@
     "accept": "Sutinku",
     "decline": "Atsisakau",
     "settings": "Keisti slapukų nustatymus"
+  },
+  "plans": {
+    "title": "Pasirinkite ataskaitą",
+    "single": "Ši ataskaita",
+    "pack": "3 ataskaitos",
+    "packNote": "Ši ir dar 2 jūsų pasirinkti testai",
+    "all": "Visos ataskaitos ({count})",
+    "allNote": "Kiekvienas svetainės testas, atrakinkite juos, kada norite",
+    "save": "Sutaupykite {amount}",
+    "passPack": "Jūsų pakete liko ataskaitų: {count}",
+    "passAll": "Jūsų pilna prieiga aktyvi",
+    "passUnlock": "Atrakinti šią ataskaitą nemokamai",
+    "passError": "Jūsų paketo nepavyko panaudoti šiai ataskaitai. Vis tiek galite ją įsigyti žemiau.",
+    "packProduct": "{test} + dar {extra} ataskaitos",
+    "allProduct": "Visos ataskaitos ({count})"
+  },
+  "couple": {
+    "inviteTitle": "Atlikite šį testą su partneriu",
+    "inviteText": "Nusiųskite partneriui nuorodą. Jis nemokamai atliks tą patį testą, ir abu iškart pamatysite savo suderinamumo rezultatą.",
+    "nameLabel": "Jūsų vardas (neprivaloma)",
+    "createLink": "Pakviesti partnerį",
+    "copy": "Kopijuoti nuorodą",
+    "copied": "Nuoroda nukopijuota",
+    "inviteMessage": "Atlik kartu su manimi {test} ir pažiūrėkime, kaip gerai mes derame",
+    "invitedTitle": "{name} jus pakvietė",
+    "invitedTitleAnon": "Jūs esate pakviesti",
+    "invitedText": "Atlikite {test}. Po to abu pamatysite, kaip gerai derate.",
+    "start": "Pradėti testą",
+    "invalid": "Ši kvietimo nuoroda neveikia. Paprašykite partnerio atsiųsti ją dar kartą.",
+    "matchTitle": "Jūsų suderinamumas",
+    "matchWith": "Jūs ir {name}",
+    "partner": "jūsų partneris",
+    "bands": {
+      "high": "Stiprus suderinamumas",
+      "mid": "Geras suderinamumas su erdve augti",
+      "low": "Priešingybės traukia"
+    },
+    "shareScore": "Dalintis rezultatu",
+    "shareText": "Mūsų suderinamumas teste {test} yra {score}%. O jūsų?",
+    "sendBackTitle": "Nusiųskite rezultatą: {name}",
+    "sendBackText": "Su šia nuoroda partneris matys tą patį rezultatą.",
+    "unlockTitle": "Išsami poros ataskaita",
+    "unlockText": "Pamatykite kiekvienos savybės atveju, kur jūs ir {name} esate panašūs, kur gali kilti trinties ir kas padeda jums abiem.",
+    "includes": [
+      "Jūsų rezultatai greta kiekvienai savybei",
+      "Kur esate panašūs ir kur skiriatės",
+      "Ką reiškia jūsų derinys ir kas padeda"
+    ],
+    "buy": "Gauti poros ataskaitą už {price}",
+    "note": "Vienas mokėjimas jums abiem. Ataskaita ateis į jūsų el. paštą, tad galėsite ją persiųsti.",
+    "product": "Poros ataskaita: {test}"
+  },
+  "passPage": {
+    "title": "Jūsų paketas",
+    "text": "Jūsų paketas dabar aktyvus šiame įrenginyje. Pasirinkite testą, ir ataskaita atsirakins iškart.",
+    "invalid": "Ši nuoroda neveikia. Susisiekite su mumis ir mes padėsime."
   }
 }

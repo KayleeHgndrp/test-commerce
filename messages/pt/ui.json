@@ -237,7 +237,11 @@
     "spam": "Não o recebeste após 10 minutos? Verifica a pasta de spam ou de promoções, ou contacta-nos através de {email}.",
     "more": "Descobrir mais testes",
     "bundleTitle": "O seu próximo relatório por {price}",
-    "bundleText": "Escolha outro teste abaixo e faça-o nos próximos {days} dias. O relatório completo custa então {price} em vez de {full}. Válido para um relatório extra."
+    "bundleText": "Escolha outro teste abaixo e faça-o nos próximos {days} dias. O relatório completo custa então {price} em vez de {full}. Válido para um relatório extra.",
+    "packTitle": "O teu pacote está ativo",
+    "packText": "Faz outro teste. Na página de resultados o teu próximo relatório é desbloqueado de imediato, sem pagar outra vez. Restantes: {count}.",
+    "allTitle": "O teu passe total está ativo",
+    "allText": "Faz o teste que quiseres. Na página de resultados cada relatório é desbloqueado de imediato, sem pagar outra vez."
   },
   "report": {
     "subject": "O teu relatório: {test}",
@@ -247,7 +251,31 @@
     "outro": "Esperamos que este relatório te traga ideias úteis. Tens curiosidade sobre outros aspetos de ti? Descobre todos os nossos testes em {url}.",
     "signature": "A equipa {site}",
     "instrumentLabel": "{name}: {score} de {max}",
-    "typeLabel": "O teu tipo"
+    "typeLabel": "O teu tipo",
+    "coupleSubject": "O vosso relatório de casal: {test}",
+    "coupleIntro": "Obrigado por fazerem juntos o {test} no {site}. Aqui está o relatório de casal para ti e {name}.",
+    "coupleSummary": "Este relatório compara-te com {name} em cada parte do {test}. Uma diferença não é um problema. Mostra onde precisam de paciência um com o outro e onde podem aprender um com o outro.",
+    "matchLabel": "A vossa compatibilidade",
+    "matchName": "{score}% de compatibilidade: {band}",
+    "matchText": {
+      "high": "Veem muitas coisas da mesma forma, o que traz calma e confiança. Continuem a falar sobre os poucos pontos em que diferem.",
+      "mid": "Têm uma base sólida e também diferenças claras. Com alguma atenção, essas diferenças tornam a vossa relação mais rica.",
+      "low": "São bastante diferentes. Isso pode ser emocionante e também cansativo. Este relatório mostra onde prestar mais atenção."
+    },
+    "typesLine": "O teu tipo: {mine}. {name}: {theirs}.",
+    "scoreLine": "Tu: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Parecidos",
+      "some": "Em parte parecidos",
+      "different": "Diferentes"
+    },
+    "closenessText": {
+      "alike": "Aqui as vossas pontuações estão próximas. Isso costuma parecer fácil e natural. O risco é reforçarem os pontos cegos um do outro, por isso perguntem de vez em quando o que podem estar a deixar escapar.",
+      "some": "Aqui são um pouco diferentes. No dia a dia quase não se nota, mas sob stress a distância pode parecer maior. Digam isso em voz alta quando surgir.",
+      "different": "Aqui são muito diferentes. É muitas vezes aqui que começa o atrito, e também onde mais podem aprender um com o outro. Combinem como lidar com isso antes que vire discussão."
+    },
+    "passLine": "O teu pacote inclui mais {count} relatórios. Faz outro teste e o relatório é desbloqueado na página de resultados. Noutro dispositivo, abre primeiro este link: {link}",
+    "passLineAll": "O teu passe total desbloqueia todos os relatórios. Faz um teste e o relatório é desbloqueado na página de resultados. Noutro dispositivo, abre primeiro este link: {link}"
   },
   "footer": {
     "tagline": "Conhece-te melhor",
@@ -278,7 +306,7 @@
     "termsTitle": "Termos de serviço",
     "termsBody": [
       "Todos os testes do {site} destinam-se à autorreflexão e ao entretenimento. Não constituem um diagnóstico médico, psicológico ou profissional.",
-      "Fazer um teste é gratuito. Um relatório pessoal custa {price} por teste, num único pagamento. O relatório é entregue em formato digital por e-mail.",
+      "Fazer um teste é grátis. Um relatório pessoal custa {price} por teste como pagamento único. Também podes comprar um pacote de 3 relatórios, um passe para todos os relatórios ou um relatório de casal que compara duas pessoas que fizeram o mesmo teste. Também são pagamentos únicos. Os relatórios são entregues em formato digital por email.",
       "Uma vez que o relatório é um conteúdo digital fornecido imediatamente após o pagamento, aceitas que o teu direito de livre resolução cessa assim que o relatório for enviado. Se não recebeste o teu relatório, contacta {email} e voltaremos a enviá-lo ou reembolsar-te-emos.",
       "Fazemos o possível para manter o conteúdo correto, mas não podemos garantir que os resultados sejam completos ou corretos para todas as pessoas."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Política de reembolso",
     "refundBody": [
-      "Um relatório custa {price} por teste, num único pagamento. Não há subscrição nem renovação automática.",
+      "Um relatório custa {price} por teste como pagamento único. Os pacotes, o passe total e os relatórios de casal também são pagamentos únicos. Não há subscrição nem renovação automática.",
       "Não recebeste o teu relatório ou algo correu mal? Contacta {email} no prazo de 14 dias, indicando o endereço de e-mail que utilizaste, e voltaremos a enviar o teu relatório ou reembolsaremos o teu pagamento.",
       "Uma vez que o relatório é um conteúdo digital entregue de imediato, o direito legal de livre resolução cessa assim que for enviado. Ainda assim, ajudar-te-emos sempre se algo não estiver bem.",
       "Os reembolsos são feitos para o método de pagamento original no prazo de 5 a 10 dias úteis."
@@ -385,5 +413,61 @@
     "accept": "Aceitar",
     "decline": "Recusar",
     "settings": "Alterar definições de cookies"
+  },
+  "plans": {
+    "title": "Escolhe o teu relatório",
+    "single": "Este relatório",
+    "pack": "3 relatórios",
+    "packNote": "Este mais 2 testes à tua escolha",
+    "all": "Todos os {count} relatórios",
+    "allNote": "Todos os testes do site, desbloqueia quando quiseres",
+    "save": "Poupa {amount}",
+    "passPack": "O teu pacote ainda tem {count} relatórios",
+    "passAll": "O teu passe total está ativo",
+    "passUnlock": "Desbloquear este relatório grátis",
+    "passError": "Não foi possível usar o teu pacote para este relatório. Ainda o podes comprar abaixo.",
+    "packProduct": "{test} + {extra} relatórios extra",
+    "allProduct": "Todos os {count} relatórios"
+  },
+  "couple": {
+    "inviteTitle": "Faz este teste com o teu par",
+    "inviteText": "Envia um link ao teu par. Faz o mesmo teste grátis e ambos veem logo a vossa pontuação de compatibilidade.",
+    "nameLabel": "O teu primeiro nome (opcional)",
+    "createLink": "Convidar o meu par",
+    "copy": "Copiar link",
+    "copied": "Link copiado",
+    "inviteMessage": "Faz o {test} comigo e vamos ver o quão compatíveis somos",
+    "invitedTitle": "{name} convidou-te",
+    "invitedTitleAnon": "Foste convidado",
+    "invitedText": "Faz o {test}. Depois ambos veem o quão compatíveis são.",
+    "start": "Começar o teste",
+    "invalid": "Este link de convite não funciona. Pede ao teu par para o enviar de novo.",
+    "matchTitle": "A vossa compatibilidade",
+    "matchWith": "Tu e {name}",
+    "partner": "o teu par",
+    "bands": {
+      "high": "Grande compatibilidade",
+      "mid": "Boa compatibilidade com margem para crescer",
+      "low": "Os opostos atraem-se"
+    },
+    "shareScore": "Partilhar pontuação",
+    "shareText": "Temos {score}% de compatibilidade no {test}. E vocês?",
+    "sendBackTitle": "Envia a pontuação a {name}",
+    "sendBackText": "Com este link o teu par vê a mesma pontuação.",
+    "unlockTitle": "O relatório de casal completo",
+    "unlockText": "Vê em cada traço onde tu e {name} são parecidos, onde pode haver atrito e o que ajuda os dois.",
+    "includes": [
+      "As vossas pontuações lado a lado em cada traço",
+      "Onde são parecidos e onde são diferentes",
+      "O que a vossa combinação significa e o que ajuda"
+    ],
+    "buy": "Obter o relatório de casal por {price}",
+    "note": "Um só pagamento para os dois. O relatório chega ao teu email para o poderes reencaminhar.",
+    "product": "Relatório de casal: {test}"
+  },
+  "passPage": {
+    "title": "O teu pacote",
+    "text": "O teu pacote está agora ativo neste dispositivo. Escolhe um teste e o teu relatório é desbloqueado de imediato.",
+    "invalid": "Este link não funciona. Contacta-nos e nós ajudamos."
   }
 }

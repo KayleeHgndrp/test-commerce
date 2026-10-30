@@ -140,5 +140,17 @@
       "name": "Eaglach-seachantach",
       "text": "Tugann do fhreagraí le fios go bhfuil stíl eaglach-sheachantach agat. B’fhéidir go mbíonn dúil agat i ngaireacht agus eagla ort roimpi ag an am céanna, mar sin is féidir le caidrimh mothú mearbhallach: druideann tú le daoine agus ansin tarraingíonn tú siar nuair a éiríonn sé dian. Is féidir le himní faoi dhiúltú agus míchompord le brath ar dhaoine eile a bheith ann taobh le taobh. Fásann an stíl seo go minic as eispéiris inar mhothaigh gaireacht neamhshábháilte, agus níl aon náire ag baint léi. Bí cineálta leat féin agus lorg caidrimh sheasmhacha intuartha. Cabhraíonn sé go mór foghlaim conas do mhothúcháin a thabhairt faoi deara agus a ainmniú. Is féidir le hobair le teiripeoir cáilithe a bheith an-luachmhar chun bealach níos sláine ceangail a thógáil."
     }
+  },
+  "couple": {
+    "secure+secure": "Tugann beirt pháirtithe sábháilte spás agus gaireacht dá chéile gan mórán stró. Is annamh a théann coimhlintí as smacht, mar go bhfuil muinín agaibh beirt go seasfaidh an nasc.",
+    "anxious+secure": "Tugann an páirtí sábháilte an láithreacht sheasmhach a bhfuil an páirtí imníoch ag tnúth léi. Cabhraíonn suaimhniú soiléir agus gnásanna seasta leis an bpáirtí imníoch scíth a ligean le himeacht ama.",
+    "avoidant+secure": "Is féidir leis an bpáirtí sábháilte spás a thabhairt don pháirtí seachantach gan mothú diúltaithe. Cabhraíonn chuimhneacháin bheaga ghaireachta gan bhrú leis an bpáirtí seachantach oscailt amach.",
+    "fearful+secure": "Tugann an páirtí sábháilte bonn slán, rud a bhfuil an páirtí faiteach ag iarraidh agus eagla air roimhe san am céanna. Is mó tábhacht le foighne agus intuarthacht ná le gothaí móra.",
+    "anxious+anxious": "Tá sibh beirt ag tnúth le gaireacht agus tuigeann sibh an gá sin ina chéile. Faoi bhrú is féidir libh imní a chéile a bheathú, mar sin socraígí síos ar dtús sula bpléann sibh rudaí.",
+    "anxious+avoidant": "Is é seo an tarraingt agus brú is cáiliúla: lorgaíonn duine amháin gaireacht, tarraingíonn an duine eile siar, agus brúnn an chéad duine níos mó fós. Is é an patrún a aithint le chéile an chéad chéim chun é a bhriseadh.",
+    "anxious+fearful": "Mothaíonn sibh beirt go leor agus tá eagla oraibh an duine eile a chailleadh. Is féidir leis sin a bheith an-dian. Socraígí comharthaí soiléire do nuair a bhíonn suaimhniú nó nóiméad leis féin ag teastáil ó dhuine agaibh.",
+    "avoidant+avoidant": "Is mór libh beirt neamhspleáchas agus is annamh a phlúchann sibh a chéile. Is é an baol an fad: fanann mothúcháin thábhachtacha gan rá. Pleanáil chuimhneacháin le labhairt i ndáiríre.",
+    "avoidant+fearful": "Coinníonn duine amháin fad, luascann an duine eile idir gaireacht agus cúlú. Is féidir libh beirt mothú nach bhfeictear sibh dá bharr. Abraigí os ard cad atá uaibh, fiú nuair a bhraitheann sé amscaí.",
+    "fearful+fearful": "Aithníonn sibh ina chéile an fonn ar ghaireacht agus an eagla roimpi. Is féidir leis sin tuiscint dhomhain a chruthú agus anord freisin. Cabhraíonn gnáthamh seasta agus, más gá, tacaíocht sheachtrach libh beirt."
   }
 }

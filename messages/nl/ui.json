@@ -237,7 +237,11 @@
     "spam": "Na 10 minuten nog niets ontvangen? Kijk in je spam- of reclamemap, of neem contact met ons op via {email}.",
     "more": "Ontdek meer tests",
     "bundleTitle": "Je volgende rapport voor {price}",
-    "bundleText": "Kies hieronder nog een test en maak die binnen {days} dagen. Het volledige rapport kost dan {price} in plaats van {full}. Geldig voor één extra rapport."
+    "bundleText": "Kies hieronder nog een test en maak die binnen {days} dagen. Het volledige rapport kost dan {price} in plaats van {full}. Geldig voor één extra rapport.",
+    "packTitle": "Je pakket is actief",
+    "packText": "Doe een andere test. Op de resultaatpagina wordt je volgende rapport meteen ontgrendeld, zonder opnieuw te betalen. Nog over: {count}.",
+    "allTitle": "Je alles-pas is actief",
+    "allText": "Doe een test naar keuze. Op de resultaatpagina wordt elk rapport meteen ontgrendeld, zonder opnieuw te betalen."
   },
   "report": {
     "subject": "Je rapport voor de {test}",
@@ -247,7 +251,31 @@
     "outro": "We hopen dat dit rapport je nuttige inzichten geeft. Benieuwd naar andere kanten van jezelf? Ontdek al onze tests op {url}.",
     "signature": "Het team van {site}",
     "instrumentLabel": "{name}: {score} van {max}",
-    "typeLabel": "Je type"
+    "typeLabel": "Je type",
+    "coupleSubject": "Jullie relatie-rapport: {test}",
+    "coupleIntro": "Bedankt dat jullie samen de {test} hebben gedaan op {site}. Hier is het relatie-rapport voor jou en {name}.",
+    "coupleSummary": "Dit rapport vergelijkt jou en {name} op elk onderdeel van de {test}. Een verschil is geen probleem. Het laat zien waar jullie geduld met elkaar nodig hebben en waar jullie van elkaar kunnen leren.",
+    "matchLabel": "Jullie match",
+    "matchName": "{score}% match: {band}",
+    "matchText": {
+      "high": "Jullie zien veel dingen op dezelfde manier, en dat geeft rust en vertrouwen. Blijf praten over de paar punten waarop jullie verschillen.",
+      "mid": "Jullie hebben een stevige basis en ook duidelijke verschillen. Met wat aandacht maken die verschillen jullie relatie rijker.",
+      "low": "Jullie zijn behoorlijk verschillend. Dat kan spannend zijn en ook vermoeiend. Dit rapport laat zien waar jullie extra op kunnen letten."
+    },
+    "typesLine": "Jouw type: {mine}. {name}: {theirs}.",
+    "scoreLine": "Jij: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Gelijk",
+      "some": "Deels gelijk",
+      "different": "Verschillend"
+    },
+    "closenessText": {
+      "alike": "Jullie scoren hier dicht bij elkaar. Dat voelt meestal makkelijk en vanzelfsprekend. Het risico is dat jullie elkaars blinde vlekken versterken, dus vraag af en toe wat jullie allebei over het hoofd zien.",
+      "some": "Jullie verschillen hier een beetje. In het dagelijks leven merk je dat nauwelijks, maar onder stress kan het verschil groter voelen. Benoem het hardop als het speelt.",
+      "different": "Jullie verschillen hier flink. Hier begint vaak wrijving, en hier kunnen jullie ook het meest van elkaar leren. Spreek af hoe jullie ermee omgaan voordat het ruzie wordt."
+    },
+    "passLine": "Je pakket bevat nog {count} rapporten. Doe een andere test en het rapport wordt ontgrendeld op de resultaatpagina. Op een ander apparaat open je eerst deze link: {link}",
+    "passLineAll": "Je alles-pas ontgrendelt elk rapport. Doe een test en het rapport wordt ontgrendeld op de resultaatpagina. Op een ander apparaat open je eerst deze link: {link}"
   },
   "footer": {
     "tagline": "Ken jezelf beter",
@@ -278,7 +306,7 @@
     "termsTitle": "Gebruiksvoorwaarden",
     "termsBody": [
       "Alle tests op {site} zijn bedoeld voor zelfreflectie en ontspanning. Ze vormen geen medische, psychologische of professionele diagnose.",
-      "Een test invullen is gratis. Een persoonlijk rapport kost {price} per test, als eenmalige betaling. Het rapport wordt digitaal per e-mail geleverd.",
+      "Een test doen is gratis. Een persoonlijk rapport kost {price} per test als eenmalige betaling. Je kunt ook een pakket van 3 rapporten kopen, een pas voor alle rapporten of een relatie-rapport dat twee mensen vergelijkt die dezelfde test hebben gedaan. Ook dat zijn eenmalige betalingen. Rapporten worden digitaal per e-mail geleverd.",
       "Omdat het rapport digitale inhoud is die direct na betaling wordt geleverd, ga je ermee akkoord dat je herroepingsrecht vervalt zodra het rapport is verstuurd. Heb je je rapport niet ontvangen? Neem dan contact op via {email} en we sturen het opnieuw of betalen je terug.",
       "We doen ons best om de inhoud juist te houden, maar we kunnen niet garanderen dat de resultaten voor iedereen volledig of correct zijn."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Terugbetalingsbeleid",
     "refundBody": [
-      "Een rapport kost {price} per test, als eenmalige betaling. Er is geen abonnement en geen automatische verlenging.",
+      "Een rapport kost {price} per test als eenmalige betaling. Pakketten, de alles-pas en relatie-rapporten zijn ook eenmalige betalingen. Er is geen abonnement en geen automatische verlenging.",
       "Heb je je rapport niet ontvangen of ging er iets mis? Neem binnen 14 dagen contact op via {email}, met vermelding van het e-mailadres dat je hebt gebruikt, en we sturen je rapport opnieuw of betalen je terug.",
       "Omdat het rapport digitale inhoud is die direct wordt geleverd, vervalt het wettelijke herroepingsrecht zodra het is verstuurd. We helpen je natuurlijk altijd als er iets niet klopt.",
       "Terugbetalingen gebeuren via de oorspronkelijke betaalmethode binnen 5–10 werkdagen."
@@ -385,5 +413,61 @@
     "accept": "Accepteren",
     "decline": "Weigeren",
     "settings": "Cookie-instellingen wijzigen"
+  },
+  "plans": {
+    "title": "Kies je rapport",
+    "single": "Dit rapport",
+    "pack": "3 rapporten",
+    "packNote": "Dit rapport plus 2 andere tests naar keuze",
+    "all": "Alle {count} rapporten",
+    "allNote": "Elke test op de site, ontgrendel ze wanneer je wilt",
+    "save": "Bespaar {amount}",
+    "passPack": "Je pakket heeft nog {count} rapporten",
+    "passAll": "Je alles-pas is actief",
+    "passUnlock": "Ontgrendel dit rapport gratis",
+    "passError": "Je pakket kon niet worden gebruikt voor dit rapport. Je kunt het hieronder nog steeds kopen.",
+    "packProduct": "{test} + {extra} extra rapporten",
+    "allProduct": "Alle {count} rapporten"
+  },
+  "couple": {
+    "inviteTitle": "Doe deze test samen met je partner",
+    "inviteText": "Stuur je partner een link. Je partner doet dezelfde test gratis en jullie zien allebei meteen jullie matchscore.",
+    "nameLabel": "Je voornaam (optioneel)",
+    "createLink": "Nodig mijn partner uit",
+    "copy": "Kopieer link",
+    "copied": "Link gekopieerd",
+    "inviteMessage": "Doe de {test} met mij en kijk hoe goed we bij elkaar passen",
+    "invitedTitle": "{name} heeft je uitgenodigd",
+    "invitedTitleAnon": "Je bent uitgenodigd",
+    "invitedText": "Doe de {test}. Daarna zien jullie allebei hoe goed jullie bij elkaar passen.",
+    "start": "Start de test",
+    "invalid": "Deze uitnodiging werkt niet. Vraag je partner om de link opnieuw te sturen.",
+    "matchTitle": "Jullie matchscore",
+    "matchWith": "Jij en {name}",
+    "partner": "je partner",
+    "bands": {
+      "high": "Sterke match",
+      "mid": "Goede match met groeiruimte",
+      "low": "Tegenpolen trekken elkaar aan"
+    },
+    "shareScore": "Deel jullie score",
+    "shareText": "Wij hebben een match van {score}% op de {test}. Hoe goed passen jullie bij elkaar?",
+    "sendBackTitle": "Stuur de score naar {name}",
+    "sendBackText": "Met deze link ziet je partner dezelfde matchscore.",
+    "unlockTitle": "Het volledige relatie-rapport",
+    "unlockText": "Zie per eigenschap waar jij en {name} op elkaar lijken, waar het kan schuren en wat jullie allebei helpt.",
+    "includes": [
+      "Jullie scores naast elkaar voor elke eigenschap",
+      "Waar jullie op elkaar lijken en waar jullie verschillen",
+      "Wat jullie combinatie betekent en wat helpt"
+    ],
+    "buy": "Krijg het relatie-rapport voor {price}",
+    "note": "Eén betaling voor jullie samen. Het rapport komt in je mail, zodat je het kunt doorsturen.",
+    "product": "Relatie-rapport: {test}"
+  },
+  "passPage": {
+    "title": "Je pakket",
+    "text": "Je pakket is nu actief op dit apparaat. Kies een test en je rapport wordt meteen ontgrendeld.",
+    "invalid": "Deze link werkt niet. Neem contact met ons op, dan helpen we je."
   }
 }
