@@ -124,6 +124,7 @@
     "questions": "{count} ερωτήσεις",
     "minutes": "{count} λεπτά",
     "aboutTitle": "Σχετικά με αυτό το τεστ",
+    "measuresTitle": "Τι μετράει αυτό το τεστ",
     "whatYouGet": "Τι περιλαμβάνει η αναφορά σας",
     "whatYouGet1": "Το σκορ σας σε κάθε διάσταση: {dimensions}",
     "whatYouGet2": "Προσωπική ερμηνεία κάθε σκορ",

@@ -124,6 +124,7 @@
     "questions": "{count} vragen",
     "minutes": "{count} min",
     "aboutTitle": "Over deze test",
+    "measuresTitle": "Wat deze test meet",
     "whatYouGet": "Wat je rapport bevat",
     "whatYouGet1": "Je score op elke dimensie: {dimensions}",
     "whatYouGet2": "Een persoonlijke uitleg bij elke score",

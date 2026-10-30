@@ -124,6 +124,7 @@
     "questions": "{count} pyetje",
     "minutes": "{count} min",
     "aboutTitle": "Rreth këtij testi",
+    "measuresTitle": "Çfarë mat ky test",
     "whatYouGet": "Çfarë përfshin raporti yt",
     "whatYouGet1": "Rezultati yt në çdo dimension: {dimensions}",
     "whatYouGet2": "Interpretim personal i çdo rezultati",

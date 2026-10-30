@@ -124,6 +124,7 @@
     "questions": "Запитань: {count}",
     "minutes": "{count} хв",
     "aboutTitle": "Про цей тест",
+    "measuresTitle": "Що вимірює цей тест",
     "whatYouGet": "Що містить ваш звіт",
     "whatYouGet1": "Ваш бал за кожним виміром: {dimensions}",
     "whatYouGet2": "Особиста інтерпретація кожного бала",

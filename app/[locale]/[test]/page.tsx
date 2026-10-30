@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Faq } from "@/components/Faq";
 import { JsonLd } from "@/components/JsonLd";
 import { TestCard } from "@/components/TestCard";
+import { locales, toLangTag } from "@/lib/i18n/locales";
 import { allDefinitions, fmt, getTestText } from "@/lib/i18n/messages";
 import { pageSeo } from "@/lib/seo";
 import { formatPrice, site } from "@/lib/site";
@@ -32,6 +33,7 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
     minutes: def.minutes,
     price: formatPrice(locale),
   };
+  const url = `${site.url}/${locale}/${def.slug}`;
   const faq = ui.test.faq.map(({ q, a }) => ({ q: fmt(q, vars), a: fmt(a, vars) }));
 
   return (
@@ -70,23 +72,69 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
       </div>
 
       <section className="mt-16">
+        <h2 className="text-2xl font-bold">{ui.test.measuresTitle}</h2>
+        <p className="mt-3 leading-relaxed text-muted">{text.summary}</p>
+        <dl className="mt-6 grid gap-4 sm:grid-cols-2">
+          {def.dimensions.map((d) => (
+            <div key={d} className="rounded-2xl border border-border bg-surface p-5">
+              <dt className="font-semibold">{text.dimensions[d]?.name ?? d}</dt>
+              <dd className="mt-1.5 text-sm leading-relaxed text-muted">{text.dimensions[d]?.short}</dd>
+            </div>
+          ))}
+        </dl>
+      </section>
+
+      <section className="mt-16">
         <h2 className="mb-6 text-2xl font-bold">{fmt(ui.test.faqTitle, vars)}</h2>
         <Faq items={faq} />
       </section>
       <JsonLd
         data={{
           "@context": "https://schema.org",
-          "@type": "FAQPage",
-          mainEntity: faq.map(({ q, a }) => ({ "@type": "Question", name: q, acceptedAnswer: { "@type": "Answer", text: a } })),
-        }}
-      />
-      <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          itemListElement: [
-            { "@type": "ListItem", position: 1, name: site.name, item: `${site.url}/${locale}` },
-            { "@type": "ListItem", position: 2, name: text.name, item: `${site.url}/${locale}/${def.slug}` },
+          "@graph": [
+            {
+              "@type": "WebPage",
+              "@id": `${url}#webpage`,
+              url,
+              name: text.seoTitle,
+              description: text.seoDescription,
+              inLanguage: toLangTag(locale),
+              isPartOf: { "@id": `${site.url}/${locale}#website` },
+              publisher: { "@id": `${site.url}/#org` },
+              about: def.dimensions.map((d) => ({
+                "@type": "DefinedTerm",
+                name: text.dimensions[d]?.name ?? d,
+                description: text.dimensions[d]?.short,
+              })),
+              timeRequired: `PT${def.minutes}M`,
+              breadcrumb: { "@id": `${url}#breadcrumb` },
+            },
+            {
+              "@type": "Service",
+              name: text.name,
+              description: text.intro,
+              url,
+              provider: { "@id": `${site.url}/#org` },
+              serviceType: ui.categories[def.category],
+              availableLanguage: locales.map(toLangTag),
+              offers: [
+                { "@type": "Offer", name: ui.home.planFreeName, price: 0, priceCurrency: site.currency.toUpperCase(), url },
+                { "@type": "Offer", name: ui.home.planReportName, price: site.priceCents / 100, priceCurrency: site.currency.toUpperCase(), url },
+              ],
+            },
+            {
+              "@type": "FAQPage",
+              "@id": `${url}#faq`,
+              mainEntity: faq.map(({ q, a }) => ({ "@type": "Question", name: q, acceptedAnswer: { "@type": "Answer", text: a } })),
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": `${url}#breadcrumb`,
+              itemListElement: [
+                { "@type": "ListItem", position: 1, name: site.name, item: `${site.url}/${locale}` },
+                { "@type": "ListItem", position: 2, name: text.name, item: url },
+              ],
+            },
           ],
         }}
       />

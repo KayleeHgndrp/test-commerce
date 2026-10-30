@@ -124,6 +124,7 @@
     "questions": "{count} preguntes",
     "minutes": "{count} min",
     "aboutTitle": "Sobre aquest test",
+    "measuresTitle": "Què mesura aquest test",
     "whatYouGet": "Què inclou el teu informe",
     "whatYouGet1": "La teva puntuació en cada dimensió: {dimensions}",
     "whatYouGet2": "Una interpretació personal de cada puntuació",

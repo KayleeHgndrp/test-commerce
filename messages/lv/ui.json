@@ -124,6 +124,7 @@
     "questions": "Jautājumi: {count}",
     "minutes": "{count} min",
     "aboutTitle": "Par šo testu",
+    "measuresTitle": "Ko šis tests mēra",
     "whatYouGet": "Ko ietver tavs pārskats",
     "whatYouGet1": "Tavs rezultāts katrā dimensijā: {dimensions}",
     "whatYouGet2": "Personīga katra rezultāta interpretācija",

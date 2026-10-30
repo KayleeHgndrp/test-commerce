@@ -124,6 +124,7 @@
     "questions": "{count} kérdés",
     "minutes": "{count} perc",
     "aboutTitle": "A tesztről",
+    "measuresTitle": "Mit mér ez a teszt",
     "whatYouGet": "Mit tartalmaz az értékelésed?",
     "whatYouGet1": "Pontszámod minden dimenzióban: {dimensions}",
     "whatYouGet2": "Minden pontszám személyes értelmezése",

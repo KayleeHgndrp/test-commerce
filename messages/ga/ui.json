@@ -124,6 +124,7 @@
     "questions": "Ceisteanna: {count}",
     "minutes": "{count} nóim.",
     "aboutTitle": "Faoin tástáil seo",
+    "measuresTitle": "Cad a thomhaiseann an tástáil seo",
     "whatYouGet": "Cad atá i do thuarascáil",
     "whatYouGet1": "Do scór ar gach toise: {dimensions}",
     "whatYouGet2": "Léirmhíniú pearsanta ar gach scór",

@@ -124,6 +124,7 @@
     "questions": "{count} questions",
     "minutes": "{count} min",
     "aboutTitle": "About this test",
+    "measuresTitle": "What this test measures",
     "whatYouGet": "What your report includes",
     "whatYouGet1": "Your score on every dimension: {dimensions}",
     "whatYouGet2": "A personal interpretation of each score",

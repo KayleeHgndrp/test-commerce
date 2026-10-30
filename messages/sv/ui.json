@@ -124,6 +124,7 @@
     "questions": "{count} frågor",
     "minutes": "{count} min",
     "aboutTitle": "Om testet",
+    "measuresTitle": "Vad testet mäter",
     "whatYouGet": "Det här ingår i din rapport",
     "whatYouGet1": "Ditt resultat på varje dimension: {dimensions}",
     "whatYouGet2": "En personlig tolkning av varje resultat",

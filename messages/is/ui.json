@@ -124,6 +124,7 @@
     "questions": "{count} spurningar",
     "minutes": "{count} mín.",
     "aboutTitle": "Um þetta próf",
+    "measuresTitle": "Hvað prófið mælir",
     "whatYouGet": "Það sem skýrslan inniheldur",
     "whatYouGet1": "Einkunn þín á hverjum þætti: {dimensions}",
     "whatYouGet2": "Persónuleg túlkun á hverri einkunn",

@@ -161,6 +161,7 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
               url: site.url,
               logo: `${site.url}/icon.png`,
               email: site.contactEmail,
+              description: fmt(ui.about.mission, vars),
             },
             {
               "@type": "WebSite",
@@ -168,7 +169,20 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
               name: site.name,
               url: `${site.url}/${locale}`,
               inLanguage: toLangTag(locale),
+              description: fmt(ui.meta.description, vars),
               publisher: { "@id": `${site.url}/#org` },
+            },
+            {
+              "@type": "ItemList",
+              name: h.testsTitle,
+              numberOfItems: tests.length,
+              itemListElement: tests.map(({ def, text }, i) => ({
+                "@type": "ListItem",
+                position: i + 1,
+                name: text.name,
+                description: text.tagline,
+                url: `${site.url}/${locale}/${def.slug}`,
+              })),
             },
             {
               "@type": "FAQPage",

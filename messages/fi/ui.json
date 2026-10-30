@@ -124,6 +124,7 @@
     "questions": "{count} kysymystä",
     "minutes": "{count} min",
     "aboutTitle": "Tietoa testistä",
+    "measuresTitle": "Mitä testi mittaa",
     "whatYouGet": "Raporttisi sisältää",
     "whatYouGet1": "Pisteesi jokaisella ulottuvuudella: {dimensions}",
     "whatYouGet2": "Henkilökohtaisen tulkinnan jokaisesta tuloksesta",

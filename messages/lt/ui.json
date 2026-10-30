@@ -124,6 +124,7 @@
     "questions": "Klausimų: {count}",
     "minutes": "{count} min.",
     "aboutTitle": "Apie šį testą",
+    "measuresTitle": "Ką matuoja šis testas",
     "whatYouGet": "Ką apima jūsų ataskaita",
     "whatYouGet1": "Jūsų balas kiekvienoje dimensijoje: {dimensions}",
     "whatYouGet2": "Asmeninė kiekvieno balo interpretacija",

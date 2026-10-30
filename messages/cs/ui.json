@@ -124,6 +124,7 @@
     "questions": "Počet otázek: {count}",
     "minutes": "{count} min",
     "aboutTitle": "O tomto testu",
+    "measuresTitle": "Co tento test měří",
     "whatYouGet": "Co obsahuje vaše zpráva",
     "whatYouGet1": "Vaše skóre v každé dimenzi: {dimensions}",
     "whatYouGet2": "Osobní výklad každého skóre",

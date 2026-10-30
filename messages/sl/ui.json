@@ -124,6 +124,7 @@
     "questions": "Vprašanja: {count}",
     "minutes": "{count} min",
     "aboutTitle": "O tem testu",
+    "measuresTitle": "Kaj meri ta test",
     "whatYouGet": "Kaj vključuje vaše poročilo",
     "whatYouGet1": "Vaš rezultat na vsaki dimenziji: {dimensions}",
     "whatYouGet2": "Osebna razlaga vsakega rezultata",

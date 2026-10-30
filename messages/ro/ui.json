@@ -124,6 +124,7 @@
     "questions": "{count} de întrebări",
     "minutes": "{count} min",
     "aboutTitle": "Despre acest test",
+    "measuresTitle": "Ce măsoară acest test",
     "whatYouGet": "Ce conține raportul tău",
     "whatYouGet1": "Scorul tău la fiecare dimensiune: {dimensions}",
     "whatYouGet2": "O interpretare personală a fiecărui scor",

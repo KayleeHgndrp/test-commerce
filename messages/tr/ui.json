@@ -124,6 +124,7 @@
     "questions": "{count} soru",
     "minutes": "{count} dk",
     "aboutTitle": "Bu test hakkında",
+    "measuresTitle": "Bu test neyi ölçer",
     "whatYouGet": "Raporunuzda neler var?",
     "whatYouGet1": "Her boyuttaki puanınız: {dimensions}",
     "whatYouGet2": "Her puanın kişisel yorumu",
