@@ -269,6 +269,7 @@
       "Ní bhailímid ach na sonraí a theastaíonn chun ár seirbhís a sholáthar: do fhreagraí ar an tástáil agus, má cheannaíonn tú tuarascáil, do sheoladh ríomhphoist.",
       "Próiseáiltear do fhreagraí chun do thoradh a ríomh. Nuair a cheannaíonn tú tuarascáil, cuirtear do fhreagraí agus do sheoladh ríomhphoist ar aghaidh chuig ár soláthraí íocaíochta Stripe agus chuig ár soláthraí ríomhphoist chun an íocaíocht a phróiseáil agus an tuarascáil a sheachadadh.",
       "Ní dhíolaimid do shonraí agus ní úsáidimid iad le haghaidh fógraíochta. Is féidir leat iarraidh orainn tráth ar bith do shonraí a scriosadh trí theagmháil a dhéanamh le {email}.",
+      "Má ghlacann tú le fianáin anailíse, úsáidimid Google Analytics chun staitisticí úsáide a bhailiú, mar shampla na leathanaigh a dtugtar cuairt orthu. Féadfaidh Google na sonraí seo a phróiseáil lasmuigh den AE faoin EU-US Data Privacy Framework.",
       "Is é Stripe a láimhseálann íocaíochtaí. Ní fheicimid ná ní stórálaimid sonraí do chárta riamh."
     ],
     "termsTitle": "Téarmaí seirbhíse",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Beartas fianán",
     "cookiesBody": [
-      "Ní úsáideann {site} fianáin fógraíochta ná rianaithe.",
+      "Le do thoiliú, úsáideann {site} fianáin Google Analytics chun úsáid an tsuímh a thomhas. Ní úsáidimid fianáin fógraíochta. Is féidir leat do rogha a athrú am ar bith leis an gcnaipe thíos.",
       "Ní stórálaimid i do bhrabhsálaí ach sonraí atá fíor-riachtanach: an teanga a roghnaigh tú agus do dhul chun cinn i dtástáil, ionas gur féidir leat leanúint ar aghaidh ón áit ar stop tú. Fanann na sonraí seo ar do ghléas.",
       "Nuair a íocann tú, féadfaidh ár soláthraí íocaíochta Stripe fianáin a chur atá riachtanach chun an íocaíocht a phróiseáil go slán agus chun calaois a chosc.",
       "Ceisteanna? Déan teagmháil linn ag {email}."
@@ -375,5 +376,11 @@
     "title": "Níor aimsíodh an leathanach",
     "text": "Níl an leathanach atá á lorg agat ann nó bogadh é.",
     "home": "Ar ais chuig an mbaile"
+  },
+  "consent": {
+    "text": "Úsáidimid fianáin Google Analytics chun a fheiceáil conas a úsáideann cuairteoirí an suíomh, ionas gur féidir linn ár dtrialacha a fheabhsú. Ach amháin má thoilíonn tú.",
+    "accept": "Glac leo",
+    "decline": "Diúltaigh",
+    "settings": "Athraigh socruithe fianán"
   }
 }

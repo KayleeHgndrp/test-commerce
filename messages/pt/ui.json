@@ -269,6 +269,7 @@
       "Recolhemos apenas os dados necessários para prestar o nosso serviço: as tuas respostas aos testes e, se comprares um relatório, o teu endereço de e-mail.",
       "As tuas respostas são tratadas para calcular o teu resultado. Quando compras um relatório, as tuas respostas e o teu endereço de e-mail são transmitidos ao nosso prestador de pagamentos, a Stripe, e ao nosso prestador de e-mail, para processar o pagamento e entregar o relatório.",
       "Não vendemos os teus dados nem os usamos para publicidade. Podes pedir-nos a qualquer momento que eliminemos os teus dados, contactando {email}.",
+      "Se aceitar cookies analíticos, usamos o Google Analytics para recolher estatísticas de utilização, como as páginas visitadas. A Google pode tratar estes dados fora da UE ao abrigo do Data Privacy Framework UE-EUA.",
       "Os pagamentos são processados pela Stripe. Nunca vemos nem guardamos os dados do teu cartão."
     ],
     "termsTitle": "Termos de serviço",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Política de cookies",
     "cookiesBody": [
-      "O {site} não utiliza cookies de publicidade nem de rastreamento.",
+      "Com o seu consentimento, {site} usa cookies do Google Analytics para medir como o site é utilizado. Não usamos cookies de publicidade. Pode alterar a sua escolha a qualquer momento com o botão abaixo.",
       "Guardamos no teu navegador apenas os dados estritamente necessários: o idioma escolhido e o teu progresso num teste, para que possas continuar onde ficaste. Estes dados permanecem no teu dispositivo.",
       "Quando pagas, o nosso prestador de pagamentos, a Stripe, pode instalar cookies necessários para processar o pagamento em segurança e prevenir fraudes.",
       "Dúvidas? Contacta-nos através de {email}."
@@ -375,5 +376,11 @@
     "title": "Página não encontrada",
     "text": "A página que procuras não existe ou foi movida.",
     "home": "Voltar ao início"
+  },
+  "consent": {
+    "text": "Usamos cookies do Google Analytics para perceber como os visitantes usam o site e melhorar os nossos testes. Só o fazemos se concordar.",
+    "accept": "Aceitar",
+    "decline": "Recusar",
+    "settings": "Alterar definições de cookies"
   }
 }

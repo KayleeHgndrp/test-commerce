@@ -269,6 +269,7 @@
       "Mbledhim vetëm të dhënat e nevojshme për të ofruar shërbimin tonë: përgjigjet e tua në test dhe, nëse blen një raport, adresën tënde të emailit.",
       "Përgjigjet e tua përpunohen për të llogaritur rezultatin. Kur blen një raport, përgjigjet dhe adresa jote e emailit u kalohen ofruesit tonë të pagesave Stripe dhe ofruesit tonë të emailit, me qëllim përpunimin e pagesës dhe dërgimin e raportit.",
       "Nuk i shesim të dhënat e tua dhe nuk i përdorim për reklama. Mund të kërkosh në çdo kohë fshirjen e të dhënave duke na kontaktuar në {email}.",
+      "Nëse pranon cookie-t analitike, përdorim Google Analytics për të mbledhur statistika përdorimi, si p.sh. cilat faqe vizitohen. Google mund t'i përpunojë këto të dhëna jashtë BE-së sipas EU-US Data Privacy Framework.",
       "Pagesat përpunohen nga Stripe. Ne nuk i shohim dhe nuk i ruajmë kurrë të dhënat e kartës sate."
     ],
     "termsTitle": "Kushtet e shërbimit",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Politika e cookie-ve",
     "cookiesBody": [
-      "{site} nuk përdor cookie reklamuese ose gjurmuese.",
+      "Me pëlqimin tënd, {site} përdor cookie të Google Analytics për të matur si përdoret faqja. Nuk përdorim cookie reklamuese. Mund ta ndryshosh zgjedhjen në çdo kohë me butonin më poshtë.",
       "Në shfletuesin tënd ruajmë vetëm të dhëna rreptësisht të nevojshme: gjuhën e zgjedhur dhe përparimin tënd në një test, që të mund të vazhdosh nga ku e le. Këto të dhëna mbeten në pajisjen tënde.",
       "Kur paguan, ofruesi ynë i pagesave Stripe mund të vendosë cookie të nevojshme për të përpunuar pagesën në mënyrë të sigurt dhe për të parandaluar mashtrimet.",
       "Ke pyetje? Na kontakto në {email}."
@@ -375,5 +376,11 @@
     "title": "Faqja nuk u gjet",
     "text": "Faqja që po kërkon nuk ekziston ose është zhvendosur.",
     "home": "Kthehu në kryefaqe"
+  },
+  "consent": {
+    "text": "Përdorim cookie të Google Analytics për të parë si e përdorin vizitorët faqen dhe për të përmirësuar testet tona. Vetëm nëse pranon.",
+    "accept": "Pranoj",
+    "decline": "Refuzoj",
+    "settings": "Ndrysho cilësimet e cookie-ve"
   }
 }

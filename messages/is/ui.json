@@ -269,6 +269,7 @@
       "Við söfnum aðeins þeim gögnum sem þarf til að veita þjónustuna: svörum þínum við prófinu og, ef þú kaupir skýrslu, netfanginu þínu.",
       "Svörin þín eru unnin til að reikna út niðurstöðuna. Þegar þú kaupir skýrslu eru svörin þín og netfang send til greiðsluþjónustuaðila okkar, Stripe, og tölvupóstþjónustuaðila okkar til að vinna úr greiðslunni og afhenda skýrsluna.",
       "Við seljum ekki gögnin þín og notum þau ekki í auglýsingaskyni. Þú getur hvenær sem er beðið okkur um að eyða gögnunum þínum með því að hafa samband á {email}.",
+      "Ef þú samþykkir greiningarkökur notum við Google Analytics til að safna notkunartölfræði, til dæmis hvaða síður eru skoðaðar. Google getur unnið þessi gögn utan EES á grundvelli EU-US Data Privacy Framework.",
       "Stripe sér um greiðslur. Við sjáum hvorki né geymum kortaupplýsingarnar þínar."
     ],
     "termsTitle": "Notkunarskilmálar",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Vafrakökustefna",
     "cookiesBody": [
-      "{site} notar hvorki auglýsinga- né rakningarkökur.",
+      "Með þínu samþykki notar {site} vafrakökur frá Google Analytics til að mæla hvernig vefurinn er notaður. Við notum ekki auglýsingakökur. Þú getur alltaf breytt vali þínu með hnappinum hér fyrir neðan.",
       "Við geymum aðeins bráðnauðsynleg gögn í vafranum þínum: tungumálið sem þú valdir og framvindu þína í prófi, svo þú getir haldið áfram þar sem frá var horfið. Þessi gögn haldast á tækinu þínu.",
       "Þegar þú greiðir kann greiðsluþjónustuaðili okkar, Stripe, að vista vafrakökur sem nauðsynlegar eru til að vinna úr greiðslunni á öruggan hátt og koma í veg fyrir svik.",
       "Spurningar? Hafðu samband við okkur á {email}."
@@ -375,5 +376,11 @@
     "title": "Síðan fannst ekki",
     "text": "Síðan sem þú leitar að er ekki til eða hefur verið færð.",
     "home": "Aftur á forsíðu"
+  },
+  "consent": {
+    "text": "Við notum vafrakökur frá Google Analytics til að sjá hvernig vefurinn er notaður og bæta prófin okkar. Aðeins ef þú samþykkir.",
+    "accept": "Samþykkja",
+    "decline": "Hafna",
+    "settings": "Breyta stillingum vafrakaka"
   }
 }

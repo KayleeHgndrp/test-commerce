@@ -269,6 +269,7 @@
       "Vi samler bare inn dataene vi trenger for å levere tjenesten: svarene dine på testen og, hvis du kjøper en rapport, e-postadressen din.",
       "Svarene dine behandles for å beregne resultatet ditt. Når du kjøper en rapport, overføres svarene og e-postadressen din til betalingsleverandøren vår Stripe og e-postleverandøren vår, slik at betalingen kan behandles og rapporten leveres.",
       "Vi selger ikke dataene dine og bruker dem ikke til reklame. Du kan når som helst be oss slette dataene dine ved å kontakte {email}.",
+      "Hvis du godtar analysekapsler, bruker vi Google Analytics til å samle inn bruksstatistikk, for eksempel hvilke sider som besøkes. Google kan behandle disse dataene utenfor EU/EØS under EU-US Data Privacy Framework.",
       "Betalinger håndteres av Stripe. Vi ser eller lagrer aldri kortopplysningene dine."
     ],
     "termsTitle": "Bruksvilkår",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Informasjonskapsler",
     "cookiesBody": [
-      "{site} bruker ikke informasjonskapsler til reklame eller sporing.",
+      "Med ditt samtykke bruker {site} informasjonskapsler fra Google Analytics for å måle hvordan nettstedet brukes. Vi bruker ikke reklamekapsler. Du kan når som helst endre valget ditt med knappen nedenfor.",
       "Vi lagrer bare strengt nødvendige data i nettleseren din: språket du har valgt og fremgangen din i en test, slik at du kan fortsette der du slapp. Disse dataene blir værende på enheten din.",
       "Når du betaler, kan betalingsleverandøren vår Stripe sette informasjonskapsler som er nødvendige for å behandle betalingen sikkert og forhindre svindel.",
       "Spørsmål? Kontakt oss på {email}."
@@ -375,5 +376,11 @@
     "title": "Fant ikke siden",
     "text": "Siden du leter etter, finnes ikke eller er flyttet.",
     "home": "Tilbake til forsiden"
+  },
+  "consent": {
+    "text": "Vi bruker informasjonskapsler fra Google Analytics for å se hvordan nettstedet brukes, slik at vi kan forbedre testene våre. Bare hvis du godtar det.",
+    "accept": "Godta",
+    "decline": "Avslå",
+    "settings": "Endre innstillinger for informasjonskapsler"
   }
 }

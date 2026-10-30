@@ -269,6 +269,7 @@
       "Shromažďujeme jen údaje nezbytné k poskytování naší služby: vaše odpovědi v testech a, pokud si koupíte zprávu, vaši e-mailovou adresu.",
       "Vaše odpovědi zpracováváme, abychom vypočítali váš výsledek. Když si koupíte zprávu, předáme vaše odpovědi a e-mailovou adresu našemu poskytovateli plateb Stripe a našemu poskytovateli e-mailových služeb, abychom mohli zpracovat platbu a doručit zprávu.",
       "Vaše údaje neprodáváme a nepoužíváme je k reklamě. Kdykoli nás můžete požádat o jejich smazání na adrese {email}.",
+      "Pokud přijmete analytické cookies, používáme Google Analytics ke sběru statistik používání, například které stránky jsou navštíveny. Google může tato data zpracovávat mimo EU na základě rámce EU-US Data Privacy Framework.",
       "Platby zpracovává Stripe. Údaje o vaší kartě nikdy nevidíme ani neukládáme."
     ],
     "termsTitle": "Podmínky služby",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Zásady používání cookies",
     "cookiesBody": [
-      "{site} nepoužívá reklamní ani sledovací cookies.",
+      "S vaším souhlasem {site} používá soubory cookie Google Analytics k měření, jak se web používá. Reklamní cookies nepoužíváme. Svou volbu můžete kdykoli změnit tlačítkem níže.",
       "Ve vašem prohlížeči ukládáme jen nezbytně nutné údaje: zvolený jazyk a postup v testu, abyste mohli pokračovat tam, kde jste přestali. Tyto údaje zůstávají ve vašem zařízení.",
       "Při platbě může náš poskytovatel plateb Stripe ukládat cookies nutné k bezpečnému zpracování platby a prevenci podvodů.",
       "Máte dotazy? Napište nám na {email}."
@@ -375,5 +376,11 @@
     "title": "Stránka nenalezena",
     "text": "Stránka, kterou hledáte, neexistuje nebo byla přesunuta.",
     "home": "Zpět na úvod"
+  },
+  "consent": {
+    "text": "Používáme soubory cookie Google Analytics, abychom viděli, jak návštěvníci web používají, a mohli zlepšovat naše testy. Jen s vaším souhlasem.",
+    "accept": "Přijmout",
+    "decline": "Odmítnout",
+    "settings": "Změnit nastavení cookies"
   }
 }

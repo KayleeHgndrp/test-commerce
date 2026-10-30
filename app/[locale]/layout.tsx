@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Inter, Manrope } from "next/font/google";
 import { notFound } from "next/navigation";
 import { Analytics } from "@/components/Analytics";
+import { CookieConsent } from "@/components/CookieConsent";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { hasLocale, locales, toLangTag } from "@/lib/i18n/locales";
@@ -52,6 +53,7 @@ export default async function LocaleLayout({ children, params }: LayoutProps<"/[
         <main className="flex-1">{children}</main>
         <Footer locale={locale} ui={ui} />
         <Analytics />
+        <CookieConsent locale={locale} ui={ui.consent} policy={ui.footer.cookies} />
       </body>
     </html>
   );

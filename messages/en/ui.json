@@ -269,6 +269,7 @@
       "We only collect the data needed to provide our service: your test answers and, if you buy a report, your email address.",
       "Your answers are processed to calculate your result. When you buy a report, your answers and email address are passed to our payment provider Stripe and our email provider in order to process the payment and deliver the report.",
       "We do not sell your data and do not use it for advertising. You can ask us at any time to delete your data by contacting {email}.",
+      "If you accept analytics cookies, we use Google Analytics to collect usage statistics, such as which pages are visited. Google may process this data outside the EU under the EU-US Data Privacy Framework.",
       "Payments are handled by Stripe. We never see or store your card details."
     ],
     "termsTitle": "Terms of service",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Cookie policy",
     "cookiesBody": [
-      "{site} does not use advertising or tracking cookies.",
+      "With your permission, {site} uses Google Analytics cookies to measure how visitors use the site. We do not use advertising cookies. You can change your choice at any time with the button below.",
       "We only store strictly necessary data in your browser: your chosen language and your progress in a test, so you can continue where you left off. This data stays on your device.",
       "When you pay, our payment provider Stripe may place cookies needed to process the payment securely and prevent fraud.",
       "Questions? Contact us at {email}."
@@ -375,5 +376,11 @@
     "title": "Page not found",
     "text": "The page you are looking for doesn't exist or has moved.",
     "home": "Back to home"
+  },
+  "consent": {
+    "text": "We use Google Analytics cookies to see how visitors use the site, so we can improve our tests. We only do this if you agree.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "settings": "Change cookie settings"
   }
 }

@@ -269,6 +269,7 @@
       "Keräämme vain palvelun tarjoamiseen tarvittavat tiedot: vastauksesi testeihin ja, jos ostat raportin, sähköpostiosoitteesi.",
       "Vastauksiasi käsitellään tuloksesi laskemiseksi. Kun ostat raportin, vastauksesi ja sähköpostiosoitteesi välitetään maksupalveluntarjoajallemme Stripelle ja sähköpostipalveluntarjoajallemme maksun käsittelemiseksi ja raportin toimittamiseksi.",
       "Emme myy tietojasi emmekä käytä niitä mainontaan. Voit milloin tahansa pyytää meitä poistamaan tietosi ottamalla yhteyttä osoitteeseen {email}.",
+      "Jos hyväksyt analytiikkaevästeet, käytämme Google Analyticsia käyttötilastojen keräämiseen, esimerkiksi siitä, millä sivuilla käydään. Google voi käsitellä näitä tietoja EU:n ulkopuolella EU:n ja Yhdysvaltojen välisen Data Privacy Frameworkin nojalla.",
       "Maksut käsittelee Stripe. Emme koskaan näe emmekä tallenna korttitietojasi."
     ],
     "termsTitle": "Käyttöehdot",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Evästekäytäntö",
     "cookiesBody": [
-      "{site} ei käytä mainos- tai seurantaevästeitä.",
+      "Suostumuksellasi {site} käyttää Google Analyticsin evästeitä sivuston käytön mittaamiseen. Emme käytä mainosevästeitä. Voit muuttaa valintaasi milloin tahansa alla olevalla painikkeella.",
       "Tallennamme selaimeesi vain ehdottoman välttämättömiä tietoja: valitsemasi kielen ja edistymisesi testissä, jotta voit jatkaa siitä, mihin jäit. Nämä tiedot pysyvät laitteellasi.",
       "Kun maksat, maksupalveluntarjoajamme Stripe voi asettaa evästeitä, joita tarvitaan maksun turvalliseen käsittelyyn ja petosten estämiseen.",
       "Kysyttävää? Ota yhteyttä: {email}."
@@ -375,5 +376,11 @@
     "title": "Sivua ei löytynyt",
     "text": "Etsimääsi sivua ei ole olemassa, tai se on siirretty.",
     "home": "Takaisin etusivulle"
+  },
+  "consent": {
+    "text": "Käytämme Google Analyticsin evästeitä nähdäksemme, miten sivustoa käytetään, ja parantaaksemme testejämme. Vain jos hyväksyt sen.",
+    "accept": "Hyväksy",
+    "decline": "Hylkää",
+    "settings": "Muuta evästeasetuksia"
   }
 }

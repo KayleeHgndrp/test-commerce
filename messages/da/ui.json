@@ -269,6 +269,7 @@
       "Vi indsamler kun de data, der er nødvendige for at levere vores tjeneste: dine svar på testene og, hvis du køber en rapport, din e-mailadresse.",
       "Dine svar behandles for at beregne dit resultat. Når du køber en rapport, videregives dine svar og din e-mailadresse til vores betalingsudbyder Stripe og vores e-mailudbyder for at gennemføre betalingen og levere rapporten.",
       "Vi sælger ikke dine data og bruger dem ikke til annoncering. Du kan til enhver tid bede os om at slette dine data ved at kontakte {email}.",
+      "Hvis du accepterer statistikcookies, bruger vi Google Analytics til at indsamle brugsstatistik, for eksempel hvilke sider der besøges. Google kan behandle disse data uden for EU under EU-US Data Privacy Framework.",
       "Betalinger håndteres af Stripe. Vi ser eller gemmer aldrig dine kortoplysninger."
     ],
     "termsTitle": "Servicevilkår",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Cookiepolitik",
     "cookiesBody": [
-      "{site} bruger ikke annonce- eller sporingscookies.",
+      "Med dit samtykke bruger {site} cookies fra Google Analytics til at måle, hvordan siden bruges. Vi bruger ikke reklamecookies. Du kan altid ændre dit valg med knappen nedenfor.",
       "Vi gemmer kun strengt nødvendige data i din browser: dit valgte sprog og dine fremskridt i en test, så du kan fortsætte, hvor du slap. Disse data bliver på din enhed.",
       "Når du betaler, kan vores betalingsudbyder Stripe sætte cookies, der er nødvendige for at behandle betalingen sikkert og forebygge svindel.",
       "Spørgsmål? Kontakt os på {email}."
@@ -375,5 +376,11 @@
     "title": "Siden blev ikke fundet",
     "text": "Siden, du leder efter, findes ikke eller er flyttet.",
     "home": "Tilbage til forsiden"
+  },
+  "consent": {
+    "text": "Vi bruger cookies fra Google Analytics til at se, hvordan siden bruges, så vi kan forbedre vores tests. Kun hvis du siger ja.",
+    "accept": "Accepter",
+    "decline": "Afvis",
+    "settings": "Skift cookieindstillinger"
   }
 }

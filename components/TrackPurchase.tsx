@@ -11,7 +11,7 @@ export function TrackPurchase({ test, sessionId, amount, currency }: { test: str
       if (sessionStorage.getItem(key)) return;
       sessionStorage.setItem(key, "1");
     } catch {}
-    track("Purchase", { test }, { currency: currency.toUpperCase(), amount });
+    track("Purchase", { test, transaction_id: sessionId }, { currency: currency.toUpperCase(), amount });
   }, [test, sessionId, amount, currency]);
   return null;
 }

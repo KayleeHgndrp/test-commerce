@@ -74,6 +74,8 @@ See `docs/CONTENT_SPEC.md` for the content format.
   (`messages/<locale>/tests/depression.json` items 0–8, `trauma.json` items 0–19).
 
 **6. Monitoring & analytics**
+- Google Analytics 4: create a GA4 property, copy the measurement ID into `NEXT_PUBLIC_GA_ID`. A cookie banner asks for consent
+  first; events `test_start`, `test_complete`, `begin_checkout` and `purchase` are sent once accepted. Mark `purchase` as a key event.
 - Plausible: add the site, set `NEXT_PUBLIC_PLAUSIBLE_DOMAIN`, create goals `Test Start`, `Test Complete`,
   `Checkout Start` and `Purchase` (enable revenue tracking for Purchase).
 - Set `ERROR_WEBHOOK_URL` (Slack/Discord/Teams incoming webhook) to get notified of server errors.

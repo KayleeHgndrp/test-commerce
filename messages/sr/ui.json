@@ -269,6 +269,7 @@
       "Prikupljamo samo podatke potrebne za pružanje naše usluge: vaše odgovore na testu i, ako kupite izveštaj, vašu imejl adresu.",
       "Vaši odgovori se obrađuju radi izračunavanja rezultata. Kada kupite izveštaj, vaši odgovori i imejl adresa prosleđuju se našem pružaocu usluga plaćanja Stripe i našem pružaocu imejl usluga radi obrade plaćanja i dostave izveštaja.",
       "Vaše podatke ne prodajemo i ne koristimo ih za oglašavanje. U bilo kom trenutku možete zatražiti brisanje svojih podataka slanjem poruke na {email}.",
+      "Ako prihvatite analitičke kolačiće, koristimo Google Analytics za prikupljanje statistike korišćenja, na primer koje stranice se posećuju. Google ove podatke može obrađivati van EU na osnovu okvira EU-US Data Privacy Framework.",
       "Plaćanja obrađuje Stripe. Podatke vaše kartice nikada ne vidimo niti ih čuvamo."
     ],
     "termsTitle": "Uslovi korišćenja",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Politika kolačića",
     "cookiesBody": [
-      "{site} ne koristi kolačiće za oglašavanje ni praćenje.",
+      "Uz vaš pristanak {site} koristi kolačiće Google Analytics za merenje korišćenja sajta. Ne koristimo kolačiće za oglašavanje. Svoj izbor možete promeniti u bilo kom trenutku dugmetom ispod.",
       "U vašem pregledaču čuvamo samo neophodne podatke: izabrani jezik i napredak u testu, kako biste mogli da nastavite tamo gde ste stali. Ti podaci ostaju na vašem uređaju.",
       "Prilikom plaćanja naš pružalac usluga plaćanja Stripe može postaviti kolačiće potrebne za bezbednu obradu plaćanja i sprečavanje prevara.",
       "Imate pitanja? Pišite nam na {email}."
@@ -375,5 +376,11 @@
     "title": "Stranica nije pronađena",
     "text": "Stranica koju tražite ne postoji ili je premeštena.",
     "home": "Nazad na početnu"
+  },
+  "consent": {
+    "text": "Koristimo kolačiće Google Analytics da bismo videli kako posetioci koriste sajt i poboljšali naše testove. Samo ako se slažete.",
+    "accept": "Prihvati",
+    "decline": "Odbij",
+    "settings": "Promeni podešavanja kolačića"
   }
 }

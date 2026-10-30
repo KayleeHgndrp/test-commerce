@@ -269,6 +269,7 @@
       "Mēs vācam tikai pakalpojuma sniegšanai nepieciešamos datus: tavas atbildes testos un, ja iegādājies pārskatu, tavu e-pasta adresi.",
       "Tavas atbildes tiek apstrādātas, lai aprēķinātu tavu rezultātu. Kad iegādājies pārskatu, tavas atbildes un e-pasta adrese tiek nodotas mūsu maksājumu pakalpojumu sniedzējam Stripe un mūsu e-pasta pakalpojumu sniedzējam, lai apstrādātu maksājumu un piegādātu pārskatu.",
       "Mēs nepārdodam tavus datus un neizmantojam tos reklāmai. Jebkurā laikā vari lūgt mums dzēst savus datus, rakstot uz {email}.",
+      "Ja piekrītat analītikas sīkdatnēm, mēs ar Google Analytics vācam lietojuma statistiku, piemēram, kuras lapas tiek apmeklētas. Google var apstrādāt šos datus ārpus ES saskaņā ar EU-US Data Privacy Framework.",
       "Maksājumus apstrādā Stripe. Mēs nekad neredzam un neglabājam tavas kartes datus."
     ],
     "termsTitle": "Lietošanas noteikumi",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Sīkdatņu politika",
     "cookiesBody": [
-      "{site} neizmanto reklāmas vai izsekošanas sīkdatnes.",
+      "Ar jūsu piekrišanu {site} izmanto Google Analytics sīkdatnes, lai mērītu vietnes lietojumu. Mēs neizmantojam reklāmas sīkdatnes. Savu izvēli varat jebkurā laikā mainīt ar pogu zemāk.",
       "Tavā pārlūkā mēs glabājam tikai noteikti nepieciešamos datus: izvēlēto valodu un tavu progresu testā, lai tu varētu turpināt no vietas, kur apstājies. Šie dati paliek tavā ierīcē.",
       "Kad tu maksā, mūsu maksājumu pakalpojumu sniedzējs Stripe var izmantot sīkdatnes, kas nepieciešamas drošai maksājuma apstrādei un krāpšanas novēršanai.",
       "Jautājumi? Raksti mums uz {email}."
@@ -375,5 +376,11 @@
     "title": "Lapa nav atrasta",
     "text": "Meklētā lapa neeksistē vai ir pārvietota.",
     "home": "Atpakaļ uz sākumlapu"
+  },
+  "consent": {
+    "text": "Mēs izmantojam Google Analytics sīkdatnes, lai redzētu, kā apmeklētāji izmanto vietni, un uzlabotu mūsu testus. Tikai ar jūsu piekrišanu.",
+    "accept": "Piekrītu",
+    "decline": "Noraidīt",
+    "settings": "Mainīt sīkdatņu iestatījumus"
   }
 }

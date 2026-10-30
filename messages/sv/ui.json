@@ -269,6 +269,7 @@
       "Vi samlar bara in de uppgifter som behövs för att tillhandahålla vår tjänst: dina svar på testerna och, om du köper en rapport, din e-postadress.",
       "Dina svar behandlas för att räkna ut ditt resultat. När du köper en rapport skickas dina svar och din e-postadress till vår betalleverantör Stripe och vår e-postleverantör, för att hantera betalningen och leverera rapporten.",
       "Vi säljer inte dina uppgifter och använder dem inte för reklam. Du kan när som helst be oss radera dina uppgifter genom att kontakta {email}.",
+      "Om du godkänner analyscookies använder vi Google Analytics för att samla in användningsstatistik, till exempel vilka sidor som besöks. Google kan behandla dessa uppgifter utanför EU enligt EU-US Data Privacy Framework.",
       "Betalningar hanteras av Stripe. Vi ser eller lagrar aldrig dina kortuppgifter."
     ],
     "termsTitle": "Användarvillkor",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Cookiepolicy",
     "cookiesBody": [
-      "{site} använder inga reklam- eller spårningscookies.",
+      "Med ditt samtycke använder {site} cookies från Google Analytics för att mäta hur webbplatsen används. Vi använder inga reklamcookies. Du kan när som helst ändra ditt val med knappen nedan.",
       "Vi sparar bara strikt nödvändiga uppgifter i din webbläsare: ditt valda språk och dina framsteg i ett test, så att du kan fortsätta där du slutade. Uppgifterna stannar på din enhet.",
       "När du betalar kan vår betalleverantör Stripe sätta cookies som behövs för att hantera betalningen säkert och förhindra bedrägerier.",
       "Frågor? Kontakta oss på {email}."
@@ -375,5 +376,11 @@
     "title": "Sidan hittades inte",
     "text": "Sidan du letar efter finns inte eller har flyttats.",
     "home": "Tillbaka till startsidan"
+  },
+  "consent": {
+    "text": "Vi använder cookies från Google Analytics för att se hur webbplatsen används och förbättra våra tester. Bara om du godkänner det.",
+    "accept": "Godkänn",
+    "decline": "Avböj",
+    "settings": "Ändra cookieinställningar"
   }
 }

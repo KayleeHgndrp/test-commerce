@@ -269,6 +269,7 @@
       "Niġbru biss id-data meħtieġa biex nipprovdu s-servizz tagħna: it-tweġibiet tiegħek għat-test u, jekk tixtri rapport, l-indirizz tal-email tiegħek.",
       "It-tweġibiet tiegħek jiġu pproċessati biex jiġi kkalkulat ir-riżultat tiegħek. Meta tixtri rapport, it-tweġibiet u l-indirizz tal-email tiegħek jintbagħtu lill-fornitur tal-ħlasijiet tagħna Stripe u lill-fornitur tal-email tagħna sabiex jiġi pproċessat il-ħlas u jintbagħat ir-rapport.",
       "Ma nbigħux id-data tiegħek u ma nużawhiex għar-reklamar. Tista' titlobna f'kull ħin biex inħassru d-data tiegħek billi tikkuntattja lil {email}.",
+      "Jekk taċċetta l-cookies analitiċi, nużaw Google Analytics biex niġbru statistika tal-użu, bħal liema paġni jiġu miżjura. Google jista' jipproċessa din id-data barra l-UE taħt l-EU-US Data Privacy Framework.",
       "Il-ħlasijiet jiġu ġestiti minn Stripe. Qatt ma naraw jew naħżnu d-dettalji tal-karta tiegħek."
     ],
     "termsTitle": "Termini tas-servizz",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Politika dwar il-cookies",
     "cookiesBody": [
-      "{site} ma jużax cookies tar-reklamar jew tat-traċċar.",
+      "Bil-kunsens tiegħek, {site} juża cookies ta' Google Analytics biex ikejjel kif jintuża s-sit. Ma nużawx cookies tar-reklamar. Tista' tibdel l-għażla tiegħek meta trid bil-buttuna hawn taħt.",
       "Naħżnu fil-browser tiegħek biss data strettament meħtieġa: il-lingwa li għażilt u l-progress tiegħek f'test, sabiex tkun tista' tkompli minn fejn ħallejt. Din id-data tibqa' fuq l-apparat tiegħek.",
       "Meta tħallas, il-fornitur tal-ħlasijiet tagħna Stripe jista' jpoġġi cookies meħtieġa biex il-ħlas jiġi pproċessat b'mod sigur u biex tiġi evitata l-frodi.",
       "Għandek mistoqsijiet? Ikkuntattjana fuq {email}."
@@ -375,5 +376,11 @@
     "title": "Il-paġna ma nstabitx",
     "text": "Il-paġna li qed tfittex ma teżistix jew ġiet imċaqalqa.",
     "home": "Lura għall-paġna ewlenija"
+  },
+  "consent": {
+    "text": "Nużaw cookies ta' Google Analytics biex naraw kif il-viżitaturi jużaw is-sit u ntejbu t-testijiet tagħna. Biss jekk taqbel.",
+    "accept": "Aċċetta",
+    "decline": "Irrifjuta",
+    "settings": "Ibdel is-settings tal-cookies"
   }
 }

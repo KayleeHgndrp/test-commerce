@@ -269,6 +269,7 @@
       "Renkame tik paslaugai teikti būtinus duomenis: jūsų testo atsakymus ir, jei perkate ataskaitą, jūsų el. pašto adresą.",
       "Jūsų atsakymai tvarkomi rezultatui apskaičiuoti. Kai perkate ataskaitą, jūsų atsakymai ir el. pašto adresas perduodami mūsų mokėjimų paslaugų teikėjui Stripe ir el. pašto paslaugų teikėjui, kad būtų galima apdoroti mokėjimą ir pristatyti ataskaitą.",
       "Jūsų duomenų neparduodame ir nenaudojame reklamai. Bet kada galite paprašyti ištrinti savo duomenis, susisiekę adresu {email}.",
+      "Jei sutinkate su analitiniais slapukais, Google Analytics renkame naudojimo statistiką, pavyzdžiui, kurie puslapiai lankomi. Google gali tvarkyti šiuos duomenis už ES ribų pagal EU-US Data Privacy Framework.",
       "Mokėjimus tvarko Stripe. Mes niekada nematome ir nesaugome jūsų kortelės duomenų."
     ],
     "termsTitle": "Paslaugų teikimo sąlygos",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Slapukų politika",
     "cookiesBody": [
-      "{site} nenaudoja reklaminių ar sekimo slapukų.",
+      "Jums sutikus, {site} naudoja Google Analytics slapukus svetainės naudojimui matuoti. Reklaminių slapukų nenaudojame. Savo pasirinkimą bet kada galite pakeisti toliau esančiu mygtuku.",
       "Jūsų naršyklėje saugome tik būtinai reikalingus duomenis: pasirinktą kalbą ir testo pažangą, kad galėtumėte tęsti nuo ten, kur sustojote. Šie duomenys lieka jūsų įrenginyje.",
       "Kai mokate, mūsų mokėjimų paslaugų teikėjas Stripe gali įrašyti slapukus, reikalingus saugiai apdoroti mokėjimą ir užkirsti kelią sukčiavimui.",
       "Turite klausimų? Susisiekite su mumis adresu {email}."
@@ -375,5 +376,11 @@
     "title": "Puslapis nerastas",
     "text": "Puslapis, kurio ieškote, neegzistuoja arba buvo perkeltas.",
     "home": "Grįžti į pradžią"
+  },
+  "consent": {
+    "text": "Naudojame Google Analytics slapukus, kad matytume, kaip lankytojai naudojasi svetaine, ir tobulintume savo testus. Tik jums sutikus.",
+    "accept": "Sutinku",
+    "decline": "Atsisakau",
+    "settings": "Keisti slapukų nustatymus"
   }
 }

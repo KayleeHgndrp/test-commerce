@@ -269,6 +269,7 @@
       "Solo recogemos los datos necesarios para prestar nuestro servicio: tus respuestas a los tests y, si compras un informe, tu dirección de correo electrónico.",
       "Tus respuestas se procesan para calcular tu resultado. Cuando compras un informe, tus respuestas y tu dirección de correo se transmiten a nuestro proveedor de pagos Stripe y a nuestro proveedor de correo electrónico para tramitar el pago y entregar el informe.",
       "No vendemos tus datos ni los usamos con fines publicitarios. Puedes pedirnos en cualquier momento que eliminemos tus datos escribiendo a {email}.",
+      "Si aceptas las cookies analíticas, usamos Google Analytics para recopilar estadísticas de uso, como qué páginas se visitan. Google puede tratar estos datos fuera de la UE en el marco del Data Privacy Framework UE-EE. UU.",
       "Los pagos los gestiona Stripe. Nunca vemos ni guardamos los datos de tu tarjeta."
     ],
     "termsTitle": "Condiciones del servicio",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Política de cookies",
     "cookiesBody": [
-      "{site} no utiliza cookies publicitarias ni de seguimiento.",
+      "Con tu consentimiento, {site} usa cookies de Google Analytics para medir cómo se usa el sitio. No usamos cookies publicitarias. Puedes cambiar tu elección en cualquier momento con el botón de abajo.",
       "Solo guardamos en tu navegador los datos estrictamente necesarios: el idioma que has elegido y tu progreso en un test, para que puedas continuar donde lo dejaste. Estos datos se quedan en tu dispositivo.",
       "Cuando pagas, nuestro proveedor de pagos Stripe puede instalar cookies necesarias para procesar el pago de forma segura y prevenir el fraude.",
       "¿Tienes preguntas? Escríbenos a {email}."
@@ -375,5 +376,11 @@
     "title": "Página no encontrada",
     "text": "La página que buscas no existe o se ha movido.",
     "home": "Volver al inicio"
+  },
+  "consent": {
+    "text": "Usamos cookies de Google Analytics para ver cómo se usa el sitio y así mejorar nuestros tests. Solo lo hacemos si nos das tu permiso.",
+    "accept": "Aceptar",
+    "decline": "Rechazar",
+    "settings": "Cambiar la configuración de cookies"
   }
 }

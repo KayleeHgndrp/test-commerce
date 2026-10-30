@@ -269,6 +269,7 @@
       "Zbiramo le podatke, potrebne za izvajanje naše storitve: vaše odgovore na testu in, če kupite poročilo, vaš e-naslov.",
       "Vaše odgovore obdelamo za izračun vašega rezultata. Ko kupite poročilo, se vaši odgovori in e-naslov posredujejo našemu ponudniku plačilnih storitev Stripe in našemu ponudniku e-poštnih storitev, da se lahko izvede plačilo in dostavi poročilo.",
       "Vaših podatkov ne prodajamo in jih ne uporabljamo za oglaševanje. Kadar koli lahko zahtevate izbris svojih podatkov, tako da nam pišete na {email}.",
+      "Če sprejmete analitične piškotke, z Google Analytics zbiramo statistiko uporabe, na primer katere strani so obiskane. Google lahko te podatke obdeluje zunaj EU na podlagi okvira EU-US Data Privacy Framework.",
       "Plačila obdeluje Stripe. Podatkov vaše kartice nikoli ne vidimo in jih ne hranimo."
     ],
     "termsTitle": "Pogoji uporabe",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Pravilnik o piškotkih",
     "cookiesBody": [
-      "{site} ne uporablja oglaševalskih piškotkov ali piškotkov za sledenje.",
+      "Z vašim soglasjem {site} uporablja piškotke Google Analytics za merjenje uporabe spletnega mesta. Oglaševalskih piškotkov ne uporabljamo. Svojo izbiro lahko kadar koli spremenite z gumbom spodaj.",
       "V vašem brskalniku shranjujemo le nujno potrebne podatke: izbrani jezik in vaš napredek v testu, da lahko nadaljujete, kjer ste ostali. Ti podatki ostanejo v vaši napravi.",
       "Ko plačate, lahko naš ponudnik plačilnih storitev Stripe namesti piškotke, potrebne za varno obdelavo plačila in preprečevanje goljufij.",
       "Imate vprašanja? Pišite nam na {email}."
@@ -375,5 +376,11 @@
     "title": "Strani ni mogoče najti",
     "text": "Stran, ki jo iščete, ne obstaja ali je bila premaknjena.",
     "home": "Nazaj na začetno stran"
+  },
+  "consent": {
+    "text": "Uporabljamo piškotke Google Analytics, da vidimo, kako obiskovalci uporabljajo spletno mesto, in izboljšamo naše teste. Samo če se strinjate.",
+    "accept": "Sprejmi",
+    "decline": "Zavrni",
+    "settings": "Spremeni nastavitve piškotkov"
   }
 }

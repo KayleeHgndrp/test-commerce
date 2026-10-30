@@ -269,6 +269,7 @@
       "Kogume ainult teenuse osutamiseks vajalikke andmeid: sinu vastuseid testidele ja raporti ostmisel sinu e-posti aadressi.",
       "Sinu vastuseid töödeldakse tulemuse arvutamiseks. Kui ostad raporti, edastatakse sinu vastused ja e-posti aadress meie makseteenuse pakkujale Stripe'ile ja meie e-posti teenuse pakkujale, et makse töödelda ja raport kätte toimetada.",
       "Me ei müü sinu andmeid ega kasuta neid reklaamiks. Võid igal ajal paluda oma andmed kustutada, kirjutades aadressil {email}.",
+      "Kui nõustud analüütikaküpsistega, kogume Google Analyticsi abil kasutusstatistikat, näiteks milliseid lehti külastatakse. Google võib neid andmeid töödelda väljaspool ELi EU-US Data Privacy Frameworki alusel.",
       "Makseid töötleb Stripe. Me ei näe ega salvesta kunagi sinu kaardiandmeid."
     ],
     "termsTitle": "Kasutustingimused",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Küpsiste poliitika",
     "cookiesBody": [
-      "{site} ei kasuta reklaami- ega jälgimisküpsiseid.",
+      "Sinu nõusolekul kasutab {site} Google Analyticsi küpsiseid, et mõõta saidi kasutamist. Reklaamiküpsiseid me ei kasuta. Saad oma valikut igal ajal muuta alloleva nupuga.",
       "Salvestame sinu brauserisse ainult hädavajalikke andmeid: valitud keele ja edenemise testis, et saaksid jätkata sealt, kus pooleli jäi. Need andmed jäävad sinu seadmesse.",
       "Maksmisel võib meie makseteenuse pakkuja Stripe kasutada küpsiseid, mis on vajalikud makse turvaliseks töötlemiseks ja pettuste ennetamiseks.",
       "Küsimusi? Kirjuta meile aadressil {email}."
@@ -375,5 +376,11 @@
     "title": "Lehte ei leitud",
     "text": "Otsitud lehte ei ole olemas või see on teisaldatud.",
     "home": "Tagasi avalehele"
+  },
+  "consent": {
+    "text": "Kasutame Google Analyticsi küpsiseid, et näha, kuidas külastajad saiti kasutavad, ja oma teste parandada. Ainult sinu nõusolekul.",
+    "accept": "Nõustun",
+    "decline": "Keeldun",
+    "settings": "Muuda küpsiste seadeid"
   }
 }

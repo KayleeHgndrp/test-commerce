@@ -269,6 +269,7 @@
       "We verzamelen alleen de gegevens die nodig zijn om onze dienst te leveren: je antwoorden op de test en, als je een rapport koopt, je e-mailadres.",
       "Je antwoorden worden verwerkt om je resultaat te berekenen. Als je een rapport koopt, worden je antwoorden en e-mailadres doorgegeven aan onze betaalprovider Stripe en onze e-mailprovider, om de betaling te verwerken en het rapport te bezorgen.",
       "We verkopen je gegevens niet en gebruiken ze niet voor advertenties. Je kunt ons op elk moment vragen je gegevens te verwijderen via {email}.",
+      "Als je analytische cookies accepteert, gebruiken we Google Analytics om gebruiksstatistieken te verzamelen, zoals welke pagina's worden bezocht. Google kan deze gegevens buiten de EU verwerken op basis van het EU-VS Data Privacy Framework.",
       "Betalingen worden afgehandeld door Stripe. Wij zien of bewaren je kaartgegevens nooit."
     ],
     "termsTitle": "Gebruiksvoorwaarden",
@@ -280,7 +281,7 @@
     ],
     "cookiesTitle": "Cookiebeleid",
     "cookiesBody": [
-      "{site} gebruikt geen advertentie- of trackingcookies.",
+      "Met jouw toestemming gebruikt {site} cookies van Google Analytics om te meten hoe bezoekers de site gebruiken. We gebruiken geen advertentiecookies. Je kunt je keuze altijd wijzigen met de knop hieronder.",
       "We slaan alleen strikt noodzakelijke gegevens op in je browser: je gekozen taal en je voortgang in een test, zodat je verder kunt gaan waar je gebleven was. Deze gegevens blijven op je apparaat.",
       "Als je betaalt, kan onze betaalprovider Stripe cookies plaatsen die nodig zijn om de betaling veilig te verwerken en fraude te voorkomen.",
       "Vragen? Neem contact met ons op via {email}."
@@ -375,5 +376,11 @@
     "title": "Pagina niet gevonden",
     "text": "De pagina die je zoekt bestaat niet of is verplaatst.",
     "home": "Terug naar home"
+  },
+  "consent": {
+    "text": "We gebruiken cookies van Google Analytics om te zien hoe bezoekers de site gebruiken, zodat we onze tests kunnen verbeteren. Dat doen we alleen als je akkoord gaat.",
+    "accept": "Accepteren",
+    "decline": "Weigeren",
+    "settings": "Cookie-instellingen wijzigen"
   }
 }
