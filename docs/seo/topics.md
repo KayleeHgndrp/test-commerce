@@ -1,6 +1,6 @@
 # Onderwerpenlijst blog
 
-Eén onderwerp per dag, in alle 32 talen. Bovenste open onderwerp is het volgende.
+Drie onderwerpen per week (ma, wo, vr), elk in alle 32 talen. Bovenste open onderwerp is het volgende.
 Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe op basis van Search Console
 (zoekvragen met vertoningen op positie 8 tot 30 krijgen voorrang).
 
