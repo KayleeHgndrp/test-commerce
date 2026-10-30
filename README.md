@@ -66,6 +66,15 @@ See `docs/CONTENT_SPEC.md` for the content format.
 - Fill `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS`, `CONTACT_FROM_EMAIL`.
 - Set up SPF, DKIM and DMARC for the sender domain at your mail provider, otherwise reports land in spam.
 
+**4b. Email flow (Brevo)**
+- After a test, visitors can ask for their result by email (explicit opt-in). They then get: result (day 0), one insight
+  from the report (day 2), a related test (day 5) and a reminder (day 7). Buyers who opt in at checkout get a related
+  test (day 2) and the bundle offer (day 5). Code: `lib/emailFlow.ts`, `lib/brevo.ts`, texts in `messages/<locale>/email.json`.
+- Screeners and the political test are excluded: their answers are special-category data under GDPR art. 9.
+- Set `BREVO_API_KEY` and `CRON_SECRET` in Vercel. In Brevo, turn off Security → Authorised IPs (Vercel has no fixed IP)
+  and authenticate the sender domain (Senders, domains & dedicated IPs → Domains) so the emails do not land in spam.
+- `vercel.json` runs `/api/cron/email-flow` daily at 08:00 UTC. Contacts, steps and unsubscribes live in Brevo (list "Personality Reveal").
+
 **5. Legal (have a lawyer review)**
 - Company details in `COMPANY_*` (legal notice / Impressum, mandatory in DE/AT) and `NEXT_PUBLIC_COMPANY_DETAILS`.
 - Review the privacy policy, terms, cookie and refund texts (`messages/*/ui.json` → `legal`).

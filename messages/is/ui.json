@@ -273,7 +273,8 @@
       "Svörin þín eru unnin til að reikna út niðurstöðuna. Þegar þú kaupir skýrslu eru svörin þín og netfang send til greiðsluþjónustuaðila okkar, Stripe, og tölvupóstþjónustuaðila okkar til að vinna úr greiðslunni og afhenda skýrsluna.",
       "Við seljum ekki gögnin þín og notum þau ekki í auglýsingaskyni. Þú getur hvenær sem er beðið okkur um að eyða gögnunum þínum með því að hafa samband á {email}.",
       "Ef þú samþykkir greiningarkökur notum við Google Analytics til að safna notkunartölfræði, til dæmis hvaða síður eru skoðaðar. Google getur unnið þessi gögn utan EES á grundvelli EU-US Data Privacy Framework.",
-      "Stripe sér um greiðslur. Við sjáum hvorki né geymum kortaupplýsingarnar þínar."
+      "Stripe sér um greiðslur. Við sjáum hvorki né geymum kortaupplýsingarnar þínar.",
+      "Ef þú biður okkur um að senda þér niðurstöðuna í tölvupósti geymum við netfangið þitt, tungumál, svör við prófinu og tímann sem þú gafst samþykki hjá tölvupóstþjónustunni okkar Brevo (netþjónar í ESB). Við notum það eingöngu til að senda þér niðurstöðuna, þrjá stutta framhaldspósta fyrstu vikuna og eftir það í mesta lagi einn póst á viku. Í hverjum pósti er afskráningarhlekkur og eftir afskráningu færðu ekki fleiri pósta frá okkur."
     ],
     "termsTitle": "Notkunarskilmálar",
     "termsBody": [

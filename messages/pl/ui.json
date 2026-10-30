@@ -273,7 +273,8 @@
       "Twoje odpowiedzi są przetwarzane w celu obliczenia wyniku. Gdy kupujesz raport, Twoje odpowiedzi i adres e-mail są przekazywane naszemu operatorowi płatności Stripe oraz dostawcy usług e-mail w celu realizacji płatności i dostarczenia raportu.",
       "Nie sprzedajemy Twoich danych i nie wykorzystujemy ich do celów reklamowych. W każdej chwili możesz poprosić o usunięcie swoich danych, pisząc na {email}.",
       "Jeśli zaakceptujesz analityczne pliki cookie, używamy Google Analytics do zbierania statystyk korzystania, na przykład które strony są odwiedzane. Google może przetwarzać te dane poza UE na podstawie EU-US Data Privacy Framework.",
-      "Płatności obsługuje Stripe. Nigdy nie widzimy ani nie przechowujemy danych Twojej karty."
+      "Płatności obsługuje Stripe. Nigdy nie widzimy ani nie przechowujemy danych Twojej karty.",
+      "Jeśli poprosisz nas o przesłanie wyniku mailem, przechowujemy Twój adres e-mail, język, odpowiedzi z testu i moment udzielenia zgody u naszego dostawcy poczty Brevo (serwery w UE). Używamy ich wyłącznie do wysłania Ci wyniku, trzech krótkich maili w pierwszym tygodniu, a potem najwyżej jednego maila tygodniowo. Każdy mail zawiera link do wypisania się, a po wypisaniu nie dostaniesz od nas więcej maili."
     ],
     "termsTitle": "Warunki korzystania z usługi",
     "termsBody": [

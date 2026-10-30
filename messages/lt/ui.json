@@ -273,7 +273,8 @@
       "Jūsų atsakymai tvarkomi rezultatui apskaičiuoti. Kai perkate ataskaitą, jūsų atsakymai ir el. pašto adresas perduodami mūsų mokėjimų paslaugų teikėjui Stripe ir el. pašto paslaugų teikėjui, kad būtų galima apdoroti mokėjimą ir pristatyti ataskaitą.",
       "Jūsų duomenų neparduodame ir nenaudojame reklamai. Bet kada galite paprašyti ištrinti savo duomenis, susisiekę adresu {email}.",
       "Jei sutinkate su analitiniais slapukais, Google Analytics renkame naudojimo statistiką, pavyzdžiui, kurie puslapiai lankomi. Google gali tvarkyti šiuos duomenis už ES ribų pagal EU-US Data Privacy Framework.",
-      "Mokėjimus tvarko Stripe. Mes niekada nematome ir nesaugome jūsų kortelės duomenų."
+      "Mokėjimus tvarko Stripe. Mes niekada nematome ir nesaugome jūsų kortelės duomenų.",
+      "Jei paprašote atsiųsti rezultatą el. paštu, jūsų el. pašto adresą, kalbą, testo atsakymus ir sutikimo momentą saugome pas savo el. pašto paslaugų teikėją Brevo (serveriai ES). Juos naudojame tik tam, kad atsiųstume jums rezultatą, pirmą savaitę tris trumpus tolesnius laiškus, o vėliau ne daugiau kaip vieną laišką per savaitę. Kiekviename laiške yra atsisakymo nuoroda, o atsisakę daugiau iš mūsų laiškų negausite."
     ],
     "termsTitle": "Paslaugų teikimo sąlygos",
     "termsBody": [

@@ -273,7 +273,8 @@
       "Deine Antworten werden verarbeitet, um dein Ergebnis zu berechnen. Wenn du einen Bericht kaufst, werden deine Antworten und deine E-Mail-Adresse an unseren Zahlungsdienstleister Stripe und unseren E-Mail-Dienstleister übermittelt, um die Zahlung abzuwickeln und den Bericht zuzustellen.",
       "Wir verkaufen deine Daten nicht und nutzen sie nicht für Werbung. Du kannst jederzeit die Löschung deiner Daten verlangen, indem du uns an {email} schreibst.",
       "Wenn du Analyse-Cookies akzeptierst, nutzen wir Google Analytics, um Nutzungsstatistiken zu erheben, zum Beispiel welche Seiten besucht werden. Google kann diese Daten auf Grundlage des EU-US Data Privacy Framework außerhalb der EU verarbeiten.",
-      "Zahlungen werden von Stripe abgewickelt. Wir sehen oder speichern deine Kartendaten nie."
+      "Zahlungen werden von Stripe abgewickelt. Wir sehen oder speichern deine Kartendaten nie.",
+      "Wenn du uns bittest, dir dein Ergebnis zu mailen, speichern wir deine E-Mail-Adresse, Sprache, Testantworten und den Zeitpunkt deiner Einwilligung bei unserem E-Mail-Anbieter Brevo (Server in der EU). Wir nutzen das nur, um dir dein Ergebnis, drei kurze Folge-E-Mails in der ersten Woche und danach höchstens eine E-Mail pro Woche zu schicken. Jede E-Mail enthält einen Abmeldelink, und nach der Abmeldung bekommst du keine E-Mails mehr von uns."
     ],
     "termsTitle": "Nutzungsbedingungen",
     "termsBody": [

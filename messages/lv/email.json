@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Vai vēlies saņemt savu rezultātu e-pastā?",
+    "text": "Mēs uzreiz nosūtīsim īsu tava rezultāta kopsavilkumu. Šonedēļ saņemsi vēl trīs īsus e-pastus ar atziņu no tava ziņojuma un testu, kas tev der. Pēc tam ne vairāk kā vienu e-pastu nedēļā.",
+    "consent": "Jā, sūtiet man manu rezultātu un šos turpmākos e-pastus. Es varu jebkurā laikā atrakstīties ar vienu klikšķi.",
+    "privacy": "Privātuma politika",
+    "button": "Sūtīt manu rezultātu",
+    "done": "Nosūtīts! Pēc minūtes ieskaties iesūtnē un drošības labad arī surogātpasta mapē.",
+    "consentRequired": "Atzīmē rūtiņu, lai mēs drīkstētu tev rakstīt."
+  },
+  "checkoutOptin": "Sūtiet man arī padomus un piedāvājumus, piemēram, otru ziņojumu par {price}. Nav obligāti, vari atrakstīties jebkurā laikā.",
+  "greeting": "Sveiki!",
+  "signoff": "Ar sirsnīgiem sveicieniem",
+  "team": "{site} komanda",
+  "footer": "Tu saņem šo e-pastu, jo lūdzi {site} nosūtīt tev testa “{test}” rezultātu.",
+  "unsubscribe": "Atrakstīties",
+  "unsubscribePage": {
+    "title": "Atrakstīties",
+    "text": "Noklikšķini uz pogas zemāk, un mēs vairs nesūtīsim tev e-pastus.",
+    "button": "Atrakstīt mani",
+    "done": "Tu esi atrakstījies. Tu vairs nesaņemsi no mums e-pastus.",
+    "invalid": "Šī saite vairs nav derīga. Atbildi uz kādu no mūsu e-pastiem, un mēs tevi izņemsim no saraksta manuāli."
+  },
+  "result": {
+    "subject": "Tavs rezultāts: {test}",
+    "intro": "Paldies, ka izpildīji testu “{test}”. Šeit ir tava rezultāta īsā versija.",
+    "label": "Tavs galvenais rezultāts",
+    "outro": "Tavs pilnais ziņojums iet daudz tālāk: visi tavi rādītāji, ko tie par tevi saka, un praktiski padomi, ko vari izmantot uzreiz. Tas maksā {price}, vienreizēji, bez abonementa.",
+    "cta": "Skatīt pilno ziņojumu"
+  },
+  "insight": {
+    "subject": "Viena lieta, ko “{test}” saka par tevi",
+    "intro": "Pilnajā ziņojumā ir sadaļa par katru tava rezultāta daļu. Šī tavās atbildēs izcēlās īpaši.",
+    "label": "{dimension}: {level}",
+    "outro": "Ziņojumā ir šāda sadaļa par katru rādītāju, ar padomiem, kas der tieši tev.",
+    "cta": "Atbloķēt ziņojumu par {price}"
+  },
+  "nextTest": {
+    "subject": "Tests, kas labi papildina “{test}”",
+    "intro": "Tie, kas pilda “{test}”, bieži arī šo testu atzīst par ļoti atklājošu.",
+    "outro": "Tas aizņem apmēram {minutes} minūtes un ir bez maksas.",
+    "cta": "Pildīt testu"
+  },
+  "lastChance": {
+    "subject": "Tavs “{test}” ziņojums joprojām gaida",
+    "intro": "Pirms nedēļas tu izpildīji testu “{test}”. Tavas atbildes ir saglabātas, tāpēc pilnais ziņojums ir gatavs, kad vien vēlies.",
+    "outro": "Vienreizējs maksājums {price}. Bez konta un bez abonementa.",
+    "cta": "Saņemt pilno ziņojumu"
+  },
+  "bundle": {
+    "subject": "Tavs nākamais ziņojums par {price} drīz beigsies",
+    "intro": "Paldies, ka iegādājies “{test}” ziņojumu. Pateicībā tavs nākamais ziņojums maksā {price} {full} vietā.",
+    "outro": "Piedāvājums ir spēkā līdz {date}. Izpildi jebkuru citu testu, un zemākā cena maksājot tiks piemērota automātiski.",
+    "cta": "Izvēlēties nākamo testu"
+  }
+}

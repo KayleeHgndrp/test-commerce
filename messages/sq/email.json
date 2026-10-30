@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Dëshiron ta marrësh rezultatin me email?",
+    "text": "Të dërgojmë menjëherë një përmbledhje të shkurtër të rezultatit tënd. Këtë javë do të marrësh edhe tre email të shkurtër me një vështrim nga raporti yt dhe një test që të përshtatet. Pas kësaj, më së shumti një email në javë.",
+    "consent": "Po, më dërgoni rezultatin tim dhe këto email vijuese. Mund të çregjistrohem në çdo kohë me një klik.",
+    "privacy": "Politika e privatësisë",
+    "button": "Më dërgo rezultatin",
+    "done": "U dërgua! Shiko kutinë postare pas një minute, dhe për siguri edhe dosjen e spamit.",
+    "consentRequired": "Shëno kutinë që të kemi leje të të shkruajmë."
+  },
+  "checkoutOptin": "Më dërgoni edhe këshilla dhe oferta, si një raport të dytë për {price}. Jo e detyrueshme, mund të çregjistrohesh në çdo kohë.",
+  "greeting": "Përshëndetje,",
+  "signoff": "Me të fala të përzemërta,",
+  "team": "Ekipi i {site}",
+  "footer": "E merr këtë email sepse i kërkove {site} të të dërgonte rezultatin e testit \"{test}\".",
+  "unsubscribe": "Çregjistrohu",
+  "unsubscribePage": {
+    "title": "Çregjistrohu",
+    "text": "Kliko butonin më poshtë dhe nuk do të të dërgojmë më email.",
+    "button": "Më çregjistro",
+    "done": "U çregjistrove. Nuk do të marrësh më email nga ne.",
+    "invalid": "Kjo lidhje nuk është më e vlefshme. Përgjigju njërit prej email-eve tona dhe do të të heqim nga lista manualisht."
+  },
+  "result": {
+    "subject": "Rezultati yt: {test}",
+    "intro": "Faleminderit që bëre testin \"{test}\". Ja versioni i shkurtër i rezultatit tënd.",
+    "label": "Rezultati yt kryesor",
+    "outro": "Raporti yt i plotë shkon shumë më tej: të gjitha pikët e tua, çfarë thonë për ty dhe këshilla praktike që mund t'i përdorësh menjëherë. Kushton {price}, një herë, pa abonim.",
+    "cta": "Shiko raportin tim të plotë"
+  },
+  "insight": {
+    "subject": "Një gjë që \"{test}\" thotë për ty",
+    "intro": "Raporti yt i plotë ka një pjesë për çdo element të rezultatit tënd. Kjo u dallua në përgjigjet e tua.",
+    "label": "{dimension}: {level}",
+    "outro": "Në raport ka një pjesë të tillë për çdo pikë, me këshilla që të përshtaten.",
+    "cta": "Zhblloko raportin për {price}"
+  },
+  "nextTest": {
+    "subject": "Një test që shkon mirë me \"{test}\"",
+    "intro": "Ata që bëjnë \"{test}\" shpesh e gjejnë edhe këtë shumë zbulues.",
+    "outro": "Zgjat rreth {minutes} minuta dhe është falas.",
+    "cta": "Bëj testin"
+  },
+  "lastChance": {
+    "subject": "Raporti yt për \"{test}\" ende të pret",
+    "intro": "Një javë më parë bëre testin \"{test}\". Përgjigjet e tua janë ruajtur, ndaj raporti i plotë është gati kur të duash.",
+    "outro": "Një pagesë e vetme prej {price}. Pa llogari dhe pa abonim.",
+    "cta": "Merr raportin tim të plotë"
+  },
+  "bundle": {
+    "subject": "Raporti yt i radhës për {price} skadon së shpejti",
+    "intro": "Faleminderit që bleve raportin për \"{test}\". Si falënderim, raporti yt i radhës kushton {price} në vend të {full}.",
+    "outro": "Oferta vlen deri më {date}. Bëj çdo test tjetër dhe çmimi më i ulët aplikohet automatikisht në pagesë.",
+    "cta": "Zgjidh testin tim të radhës"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Viltu fá niðurstöðuna þína í tölvupósti?",
+    "text": "Við sendum þér strax stutta samantekt á niðurstöðunni þinni. Í þessari viku færðu þrjá stutta pósta til viðbótar með innsýn úr skýrslunni þinni og prófi sem hentar þér. Eftir það í mesta lagi einn póst á viku.",
+    "consent": "Já, sendið mér niðurstöðuna mína og þessa framhaldspósta. Ég get afskráð mig hvenær sem er með einum smelli.",
+    "privacy": "Persónuverndarstefna",
+    "button": "Senda mér niðurstöðuna",
+    "done": "Sent! Kíktu í pósthólfið eftir mínútu og til öryggis líka í ruslpóstinn.",
+    "consentRequired": "Hakaðu í reitinn svo við megum senda þér póst."
+  },
+  "checkoutOptin": "Sendið mér líka ráð og tilboð, til dæmis aðra skýrslu fyrir {price}. Valfrjálst, þú getur afskráð þig hvenær sem er.",
+  "greeting": "Hæ,",
+  "signoff": "Bestu kveðjur,",
+  "team": "Teymið hjá {site}",
+  "footer": "Þú færð þennan póst af því að þú baðst {site} um að senda þér niðurstöðuna úr prófinu „{test}“.",
+  "unsubscribe": "Afskrá",
+  "unsubscribePage": {
+    "title": "Afskrá",
+    "text": "Smelltu á hnappinn hér fyrir neðan og við hættum að senda þér póst.",
+    "button": "Afskrá mig",
+    "done": "Þú hefur verið afskráð(ur). Þú færð ekki fleiri pósta frá okkur.",
+    "invalid": "Þessi hlekkur gildir ekki lengur. Svaraðu einhverjum af póstunum okkar og við fjarlægjum þig handvirkt."
+  },
+  "result": {
+    "subject": "Niðurstaðan þín: {test}",
+    "intro": "Takk fyrir að taka prófið „{test}“. Hér er stutta útgáfan af niðurstöðunni þinni.",
+    "label": "Helsta niðurstaðan þín",
+    "outro": "Heildarskýrslan þín gengur miklu lengra: allar einkunnirnar þínar, hvað þær segja um þig og hagnýt ráð sem þú getur nýtt strax. Hún kostar {price}, eitt skipti, engin áskrift.",
+    "cta": "Sjá heildarskýrsluna mína"
+  },
+  "insight": {
+    "subject": "Eitt sem „{test}“ segir um þig",
+    "intro": "Heildarskýrslan þín er með kafla fyrir hvern hluta niðurstöðunnar. Þessi stóð upp úr í svörunum þínum.",
+    "label": "{dimension}: {level}",
+    "outro": "Í skýrslunni er svona kafli fyrir hverja einkunn, með ráðum sem henta þér.",
+    "cta": "Opna skýrsluna fyrir {price}"
+  },
+  "nextTest": {
+    "subject": "Próf sem passar vel með „{test}“",
+    "intro": "Þeim sem taka „{test}“ finnst þetta próf oft líka mjög upplýsandi.",
+    "outro": "Það tekur um {minutes} mínútur og er ókeypis.",
+    "cta": "Taka prófið"
+  },
+  "lastChance": {
+    "subject": "Skýrslan þín fyrir „{test}“ bíður enn",
+    "intro": "Fyrir viku tókstu prófið „{test}“. Svörin þín eru vistuð, svo heildarskýrslan er tilbúin þegar þér hentar.",
+    "outro": "Ein greiðsla upp á {price}. Enginn aðgangur og engin áskrift.",
+    "cta": "Fá heildarskýrsluna mína"
+  },
+  "bundle": {
+    "subject": "Næsta skýrslan þín á {price} rennur brátt út",
+    "intro": "Takk fyrir að kaupa skýrsluna fyrir „{test}“. Í þakklætisskyni kostar næsta skýrsla {price} í stað {full}.",
+    "outro": "Tilboðið gildir til {date}. Taktu hvaða annað próf sem er og lægra verðið reiknast sjálfkrafa við greiðslu.",
+    "cta": "Velja næsta próf"
+  }
+}

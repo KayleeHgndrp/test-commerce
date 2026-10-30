@@ -273,7 +273,8 @@
       "Próiseáiltear do fhreagraí chun do thoradh a ríomh. Nuair a cheannaíonn tú tuarascáil, cuirtear do fhreagraí agus do sheoladh ríomhphoist ar aghaidh chuig ár soláthraí íocaíochta Stripe agus chuig ár soláthraí ríomhphoist chun an íocaíocht a phróiseáil agus an tuarascáil a sheachadadh.",
       "Ní dhíolaimid do shonraí agus ní úsáidimid iad le haghaidh fógraíochta. Is féidir leat iarraidh orainn tráth ar bith do shonraí a scriosadh trí theagmháil a dhéanamh le {email}.",
       "Má ghlacann tú le fianáin anailíse, úsáidimid Google Analytics chun staitisticí úsáide a bhailiú, mar shampla na leathanaigh a dtugtar cuairt orthu. Féadfaidh Google na sonraí seo a phróiseáil lasmuigh den AE faoin EU-US Data Privacy Framework.",
-      "Is é Stripe a láimhseálann íocaíochtaí. Ní fheicimid ná ní stórálaimid sonraí do chárta riamh."
+      "Is é Stripe a láimhseálann íocaíochtaí. Ní fheicimid ná ní stórálaimid sonraí do chárta riamh.",
+      "Má iarrann tú orainn do thoradh a sheoladh chugat trí ríomhphost, stórálaimid do sheoladh ríomhphoist, do theanga, do fhreagraí ar an tástáil agus am do thoilithe lenár soláthraí ríomhphoist Brevo (freastalaithe san AE). Ní úsáidimid iad ach chun do thoradh a sheoladh chugat, trí ríomhphost gearr leantach sa chéad seachtain agus ina dhiaidh sin ríomhphost amháin sa tseachtain ar a mhéad. Tá nasc díliostála i ngach ríomhphost, agus tar éis duit díliostáil ní bhfaighidh tú ríomhphoist uainn a thuilleadh."
     ],
     "termsTitle": "Téarmaí seirbhíse",
     "termsBody": [

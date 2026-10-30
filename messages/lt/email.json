@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Norite gauti savo rezultatą el. paštu?",
+    "text": "Iš karto atsiųsime trumpą jūsų rezultato santrauką. Šią savaitę gausite dar tris trumpus laiškus su įžvalga iš jūsų ataskaitos ir jums tinkančiu testu. Po to ne daugiau kaip vieną laišką per savaitę.",
+    "consent": "Taip, atsiųskite man rezultatą ir šiuos tolesnius laiškus. Galiu bet kada atsisakyti vienu paspaudimu.",
+    "privacy": "Privatumo politika",
+    "button": "Siųsti mano rezultatą",
+    "done": "Išsiųsta! Po minutės pažiūrėkite į pašto dėžutę ir dėl visa ko į šlamšto aplanką.",
+    "consentRequired": "Pažymėkite langelį, kad galėtume jums rašyti."
+  },
+  "checkoutOptin": "Siųskite man ir patarimų bei pasiūlymų, pavyzdžiui, antrą ataskaitą už {price}. Neprivaloma, atsisakyti galite bet kada.",
+  "greeting": "Sveiki,",
+  "signoff": "Pagarbiai",
+  "team": "{site} komanda",
+  "footer": "Gaunate šį laišką, nes paprašėte {site} atsiųsti jums testo „{test}“ rezultatą.",
+  "unsubscribe": "Atsisakyti",
+  "unsubscribePage": {
+    "title": "Atsisakyti",
+    "text": "Paspauskite mygtuką žemiau ir daugiau nebesiųsime jums laiškų.",
+    "button": "Atsisakyti laiškų",
+    "done": "Jūs atsisakėte laiškų. Daugiau iš mūsų laiškų negausite.",
+    "invalid": "Ši nuoroda nebegalioja. Atsakykite į bet kurį mūsų laišką ir pašalinsime jus iš sąrašo rankiniu būdu."
+  },
+  "result": {
+    "subject": "Jūsų rezultatas: {test}",
+    "intro": "Ačiū, kad atlikote testą „{test}“. Štai trumpoji jūsų rezultato versija.",
+    "label": "Jūsų pagrindinis rezultatas",
+    "outro": "Pilna ataskaita eina daug toliau: visi jūsų balai, ką jie apie jus sako, ir praktiniai patarimai, kuriuos galite pritaikyti iš karto. Ji kainuoja {price}, vienkartinis mokėjimas, be prenumeratos.",
+    "cta": "Peržiūrėti visą ataskaitą"
+  },
+  "insight": {
+    "subject": "Vienas dalykas, kurį „{test}“ sako apie jus",
+    "intro": "Pilnoje ataskaitoje yra skyrius kiekvienai jūsų rezultato daliai. Šis ypač išsiskyrė jūsų atsakymuose.",
+    "label": "{dimension}: {level}",
+    "outro": "Ataskaitoje toks skyrius yra kiekvienam balui, su jums pritaikytais patarimais.",
+    "cta": "Atrakinti ataskaitą už {price}"
+  },
+  "nextTest": {
+    "subject": "Testas, kuris gerai dera su „{test}“",
+    "intro": "Tie, kurie atlieka „{test}“, dažnai ir šį testą laiko labai atskleidžiančiu.",
+    "outro": "Jis trunka apie {minutes} min. ir yra nemokamas.",
+    "cta": "Atlikti testą"
+  },
+  "lastChance": {
+    "subject": "Jūsų „{test}“ ataskaita vis dar laukia",
+    "intro": "Prieš savaitę atlikote testą „{test}“. Jūsų atsakymai išsaugoti, todėl pilna ataskaita paruošta, kai tik panorėsite.",
+    "outro": "Vienkartinis mokėjimas {price}. Jokios paskyros ir jokios prenumeratos.",
+    "cta": "Gauti visą ataskaitą"
+  },
+  "bundle": {
+    "subject": "Jūsų kita ataskaita už {price} netrukus baigsis",
+    "intro": "Ačiū, kad įsigijote „{test}“ ataskaitą. Dėkodami siūlome kitą ataskaitą už {price} vietoj {full}.",
+    "outro": "Pasiūlymas galioja iki {date}. Atlikite bet kurį kitą testą, ir mažesnė kaina bus pritaikyta automatiškai mokant.",
+    "cta": "Pasirinkti kitą testą"
+  }
+}

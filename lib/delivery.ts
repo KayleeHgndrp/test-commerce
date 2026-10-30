@@ -1,4 +1,5 @@
 import { fromAddress, sendEmail } from "@/lib/email";
+import { onPurchase } from "@/lib/emailFlow";
 import { hasLocale, type Locale } from "@/lib/i18n/locales";
 import { getDefinition } from "@/lib/i18n/messages";
 import { renderReport } from "@/lib/report/render";
@@ -81,6 +82,7 @@ export async function deliverOnce(order: PaidOrder) {
     await alertDeliveryFailure(order, error);
     throw error;
   }
+  await onPurchase(order).catch((error) => console.error("[email-flow] could not update contact", error));
 }
 
 // A paid order that never arrives is the worst failure this app has: the customer

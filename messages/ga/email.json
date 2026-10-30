@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Ar mhaith leat do thoradh a fháil trí ríomhphost?",
+    "text": "Seolfaimid achoimre ghearr ar do thoradh chugat láithreach. An tseachtain seo gheobhaidh tú trí ríomhphost gearr eile le léargas ó do thuairisc agus tástáil a oireann duit. Ina dhiaidh sin, ríomhphost amháin sa tseachtain ar a mhéad.",
+    "consent": "Is ea, seol mo thoradh agus na ríomhphoist leantacha seo chugam. Is féidir liom díliostáil am ar bith le cliceáil amháin.",
+    "privacy": "Polasaí príobháideachais",
+    "button": "Seol mo thoradh",
+    "done": "Seolta! Féach ar do bhosca isteach i gceann nóiméid, agus ar an bhfillteán turscair ar eagla na heagla.",
+    "consentRequired": "Cuir tic sa bhosca le go mbeidh cead againn ríomhphost a sheoladh chugat."
+  },
+  "checkoutOptin": "Seol leideanna agus tairiscintí chugam freisin, mar shampla dara tuairisc ar {price}. Roghnach, is féidir díliostáil am ar bith.",
+  "greeting": "Dia duit,",
+  "signoff": "Le dea-mhéin,",
+  "team": "Foireann {site}",
+  "footer": "Tá an ríomhphost seo á fháil agat mar d'iarr tú ar {site} do thoradh sa tástáil \"{test}\" a sheoladh chugat.",
+  "unsubscribe": "Díliostáil",
+  "unsubscribePage": {
+    "title": "Díliostáil",
+    "text": "Cliceáil an cnaipe thíos agus ní sheolfaimid ríomhphoist chugat a thuilleadh.",
+    "button": "Díliostáil mé",
+    "done": "Tá tú díliostáilte. Ní bhfaighidh tú ríomhphoist uainn a thuilleadh.",
+    "invalid": "Níl an nasc seo bailí a thuilleadh. Freagair ceann dár ríomhphoist agus bainfimid den liosta thú de láimh."
+  },
+  "result": {
+    "subject": "Do thoradh: {test}",
+    "intro": "Go raibh maith agat as an tástáil \"{test}\" a dhéanamh. Seo an leagan gearr de do thoradh.",
+    "label": "Do phríomhthoradh",
+    "outro": "Téann do thuairisc iomlán i bhfad níos faide: do scóir go léir, a bhfuil le rá acu fút agus leideanna praiticiúla is féidir leat a úsáid láithreach. Cosnaíonn sé {price}, uair amháin, gan síntiús.",
+    "cta": "Féach ar mo thuairisc iomlán"
+  },
+  "insight": {
+    "subject": "Rud amháin a deir \"{test}\" fút",
+    "intro": "Tá cuid ag do thuairisc iomlán do gach gné de do thoradh. Sheas an ceann seo amach i do fhreagraí.",
+    "label": "{dimension}: {level}",
+    "outro": "Tá cuid mar seo sa tuairisc do gach scór, le leideanna a oireann duitse.",
+    "cta": "Díghlasáil mo thuairisc ar {price}"
+  },
+  "nextTest": {
+    "subject": "Tástáil a théann go maith le \"{test}\"",
+    "intro": "Is minic a mheasann daoine a dhéanann \"{test}\" go bhfuil an ceann seo an-suimiúil freisin.",
+    "outro": "Tógann sé thart ar {minutes} nóiméad agus tá sé saor in aisce.",
+    "cta": "Déan an tástáil"
+  },
+  "lastChance": {
+    "subject": "Tá do thuairisc \"{test}\" fós ag fanacht ort",
+    "intro": "Seachtain ó shin rinne tú an tástáil \"{test}\". Tá do fhreagraí sábháilte, mar sin tá do thuairisc iomlán réidh nuair is mian leat.",
+    "outro": "Íocaíocht amháin de {price}. Gan cuntas agus gan síntiús.",
+    "cta": "Faigh mo thuairisc iomlán"
+  },
+  "bundle": {
+    "subject": "Tá do chéad tuairisc eile ar {price} ag críochnú go luath",
+    "intro": "Go raibh maith agat as do thuairisc \"{test}\" a cheannach. Mar bhuíochas, cosnaíonn do chéad tuairisc eile {price} in ionad {full}.",
+    "outro": "Tá an tairiscint i bhfeidhm go dtí {date}. Déan tástáil ar bith eile agus cuirfear an praghas níos ísle i bhfeidhm go huathoibríoch ag an tseiceáil amach.",
+    "cta": "Roghnaigh mo chéad tástáil eile"
+  }
+}

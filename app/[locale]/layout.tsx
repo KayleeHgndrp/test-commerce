@@ -5,6 +5,7 @@ import { Analytics } from "@/components/Analytics";
 import { CookieConsent } from "@/components/CookieConsent";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
+import { OfferFromLink } from "@/components/OfferFromLink";
 import { hasLocale, locales, toLangTag } from "@/lib/i18n/locales";
 import { fmt, getUi } from "@/lib/i18n/messages";
 import { formatPrice, site } from "@/lib/site";
@@ -53,6 +54,7 @@ export default async function LocaleLayout({ children, params }: LayoutProps<"/[
         <main className="flex-1">{children}</main>
         <Footer locale={locale} ui={ui} />
         <Analytics />
+        <OfferFromLink />
         <CookieConsent locale={locale} ui={ui.consent} policy={ui.footer.cookies} />
       </body>
     </html>

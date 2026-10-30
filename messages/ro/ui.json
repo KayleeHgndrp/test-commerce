@@ -273,7 +273,8 @@
       "Răspunsurile tale sunt prelucrate pentru a-ți calcula rezultatul. Când cumperi un raport, răspunsurile și adresa ta de e-mail sunt transmise procesatorului nostru de plăți, Stripe, și furnizorului nostru de e-mail, pentru a procesa plata și a livra raportul.",
       "Nu îți vindem datele și nu le folosim în scopuri publicitare. Ne poți cere oricând ștergerea datelor tale scriindu-ne la {email}.",
       "Dacă accepți cookie-urile de analiză, folosim Google Analytics pentru a colecta statistici de utilizare, de exemplu ce pagini sunt vizitate. Google poate prelucra aceste date în afara UE în baza EU-US Data Privacy Framework.",
-      "Plățile sunt procesate de Stripe. Nu vedem și nu stocăm niciodată datele cardului tău."
+      "Plățile sunt procesate de Stripe. Nu vedem și nu stocăm niciodată datele cardului tău.",
+      "Dacă ne ceri să-ți trimitem rezultatul pe e-mail, păstrăm adresa ta de e-mail, limba, răspunsurile la test și momentul acordului tău la furnizorul nostru de e-mail Brevo (servere în UE). Le folosim doar ca să-ți trimitem rezultatul, trei e-mailuri scurte în prima săptămână și apoi cel mult un e-mail pe săptămână. Fiecare e-mail are un link de dezabonare, iar după dezabonare nu mai primești e-mailuri de la noi."
     ],
     "termsTitle": "Termeni de utilizare",
     "termsBody": [

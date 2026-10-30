@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Sonucunuzu e-postayla almak ister misiniz?",
+    "text": "Size hemen sonucunuzun kısa bir özetini gönderiyoruz. Bu hafta raporunuzdan bir içgörü ve size uygun bir test içeren üç kısa e-posta daha gelecek. Sonrasında haftada en fazla bir e-posta.",
+    "consent": "Evet, sonucumu ve bu takip e-postalarını bana gönderin. İstediğim zaman tek tıkla abonelikten çıkabilirim.",
+    "privacy": "Gizlilik politikası",
+    "button": "Sonucumu gönder",
+    "done": "Gönderildi! Bir dakika içinde gelen kutunuza, emin olmak için de spam klasörüne bakın.",
+    "consentRequired": "Size e-posta gönderebilmemiz için kutuyu işaretleyin."
+  },
+  "checkoutOptin": "Bana ipuçları ve fırsatlar da gönderin, örneğin {price} fiyatla ikinci bir rapor. İsteğe bağlı, istediğiniz zaman çıkabilirsiniz.",
+  "greeting": "Merhaba,",
+  "signoff": "Sevgiyle,",
+  "team": "{site} ekibi",
+  "footer": "Bu e-postayı, {site} sitesinden \"{test}\" sonucunuzu size göndermesini istediğiniz için alıyorsunuz.",
+  "unsubscribe": "Abonelikten çık",
+  "unsubscribePage": {
+    "title": "Abonelikten çık",
+    "text": "Aşağıdaki düğmeye tıklayın, size artık e-posta göndermeyelim.",
+    "button": "Aboneliğimi iptal et",
+    "done": "Abonelikten çıktınız. Artık bizden e-posta almayacaksınız.",
+    "invalid": "Bu bağlantı artık geçerli değil. E-postalarımızdan birini yanıtlayın, sizi listeden elle çıkaralım."
+  },
+  "result": {
+    "subject": "Sonucunuz: {test}",
+    "intro": "\"{test}\" testini yaptığınız için teşekkürler. İşte sonucunuzun kısa hali.",
+    "label": "Ana sonucunuz",
+    "outro": "Tam raporunuz çok daha ileri gidiyor: tüm puanlarınız, sizin hakkınızda ne söyledikleri ve hemen kullanabileceğiniz pratik ipuçları. Fiyatı {price}, tek seferlik, abonelik yok.",
+    "cta": "Tam raporumu gör"
+  },
+  "insight": {
+    "subject": "\"{test}\" testinin sizin hakkınızda söylediği bir şey",
+    "intro": "Tam raporunuzda sonucunuzun her bölümü için ayrı bir kısım var. Bu kısım cevaplarınızda özellikle öne çıktı.",
+    "label": "{dimension}: {level}",
+    "outro": "Raporda her puan için böyle bir kısım var, size uygun ipuçlarıyla birlikte.",
+    "cta": "Raporumu {price} karşılığında aç"
+  },
+  "nextTest": {
+    "subject": "\"{test}\" ile iyi giden bir test",
+    "intro": "\"{test}\" testini yapanlar bunu da çoğu zaman çok aydınlatıcı buluyor.",
+    "outro": "Yaklaşık {minutes} dakika sürüyor ve ücretsiz.",
+    "cta": "Teste başla"
+  },
+  "lastChance": {
+    "subject": "\"{test}\" raporunuz hâlâ sizi bekliyor",
+    "intro": "Bir hafta önce \"{test}\" testini yaptınız. Cevaplarınız kayıtlı, yani tam raporunuz ne zaman isterseniz hazır.",
+    "outro": "Tek seferlik {price}. Hesap yok, abonelik yok.",
+    "cta": "Tam raporumu al"
+  },
+  "bundle": {
+    "subject": "{price} fiyatlı sonraki raporunuz yakında sona eriyor",
+    "intro": "\"{test}\" raporunuzu aldığınız için teşekkürler. Teşekkür olarak sonraki raporunuz {full} yerine {price}.",
+    "outro": "Teklif {date} tarihine kadar geçerli. Başka herhangi bir testi yapın, düşük fiyat ödeme sırasında otomatik olarak uygulanır.",
+    "cta": "Sonraki testimi seç"
+  }
+}

@@ -273,7 +273,8 @@
       "Vastauksiasi käsitellään tuloksesi laskemiseksi. Kun ostat raportin, vastauksesi ja sähköpostiosoitteesi välitetään maksupalveluntarjoajallemme Stripelle ja sähköpostipalveluntarjoajallemme maksun käsittelemiseksi ja raportin toimittamiseksi.",
       "Emme myy tietojasi emmekä käytä niitä mainontaan. Voit milloin tahansa pyytää meitä poistamaan tietosi ottamalla yhteyttä osoitteeseen {email}.",
       "Jos hyväksyt analytiikkaevästeet, käytämme Google Analyticsia käyttötilastojen keräämiseen, esimerkiksi siitä, millä sivuilla käydään. Google voi käsitellä näitä tietoja EU:n ulkopuolella EU:n ja Yhdysvaltojen välisen Data Privacy Frameworkin nojalla.",
-      "Maksut käsittelee Stripe. Emme koskaan näe emmekä tallenna korttitietojasi."
+      "Maksut käsittelee Stripe. Emme koskaan näe emmekä tallenna korttitietojasi.",
+      "Jos pyydät meitä lähettämään tuloksesi sähköpostilla, tallennamme sähköpostiosoitteesi, kielesi, testivastauksesi ja suostumuksesi ajankohdan sähköpostipalveluumme Brevoon (palvelimet EU:ssa). Käytämme niitä vain tuloksesi lähettämiseen, kolmeen lyhyeen jatkoviestiin ensimmäisellä viikolla ja sen jälkeen korkeintaan yhteen viestiin viikossa. Jokaisessa viestissä on peruutuslinkki, ja peruutuksen jälkeen et saa meiltä enää viestejä."
     ],
     "termsTitle": "Käyttöehdot",
     "termsBody": [
