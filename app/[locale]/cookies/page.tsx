@@ -1,10 +1,7 @@
-import { LegalPage } from "@/components/LegalPage";
-import { hasLocale } from "@/lib/i18n/locales";
-import { getUi } from "@/lib/i18n/messages";
+import { LegalPage, legalMetadata } from "@/components/LegalPage";
 
-export async function generateMetadata({ params }: PageProps<"/[locale]/cookies">) {
-  const { locale } = await params;
-  return hasLocale(locale) ? { title: (await getUi(locale)).legal.cookiesTitle } : {};
+export function generateMetadata({ params }: PageProps<"/[locale]/cookies">) {
+  return legalMetadata(params, "cookies");
 }
 
 export default function Cookies({ params }: PageProps<"/[locale]/cookies">) {

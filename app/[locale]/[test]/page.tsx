@@ -3,7 +3,7 @@ import { Faq } from "@/components/Faq";
 import { JsonLd } from "@/components/JsonLd";
 import { TestCard } from "@/components/TestCard";
 import { allDefinitions, fmt, getTestText } from "@/lib/i18n/messages";
-import { alternates } from "@/lib/seo";
+import { pageSeo } from "@/lib/seo";
 import { formatPrice, site } from "@/lib/site";
 import { loadTestPage, testStaticParams } from "@/lib/tests/params";
 
@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/[test]">
   return {
     title: { absolute: text.seoTitle },
     description: text.seoDescription,
-    alternates: alternates(locale, `/${def.slug}`),
+    ...pageSeo(locale, `/${def.slug}`, `/${def.slug}`),
   };
 }
 

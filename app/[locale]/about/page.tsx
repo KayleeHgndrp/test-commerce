@@ -2,14 +2,14 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { hasLocale, locales } from "@/lib/i18n/locales";
 import { fmt, getUi } from "@/lib/i18n/messages";
-import { alternates } from "@/lib/seo";
+import { pageSeo } from "@/lib/seo";
 import { formatPrice, site } from "@/lib/site";
 
 export async function generateMetadata({ params }: PageProps<"/[locale]/about">) {
   const { locale } = await params;
   if (!hasLocale(locale)) return {};
   const { about } = await getUi(locale);
-  return { title: fmt(about.title, { site: site.name }), description: about.intro, alternates: alternates(locale, "/about") };
+  return { title: { absolute: fmt(about.title, { site: site.name }) }, description: about.intro, ...pageSeo(locale, "/about") };
 }
 
 export default async function About({ params }: PageProps<"/[locale]/about">) {

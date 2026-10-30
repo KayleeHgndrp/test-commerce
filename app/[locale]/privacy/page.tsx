@@ -1,10 +1,7 @@
-import { LegalPage } from "@/components/LegalPage";
-import { hasLocale } from "@/lib/i18n/locales";
-import { getUi } from "@/lib/i18n/messages";
+import { LegalPage, legalMetadata } from "@/components/LegalPage";
 
-export async function generateMetadata({ params }: PageProps<"/[locale]/privacy">) {
-  const { locale } = await params;
-  return hasLocale(locale) ? { title: (await getUi(locale)).legal.privacyTitle } : {};
+export function generateMetadata({ params }: PageProps<"/[locale]/privacy">) {
+  return legalMetadata(params, "privacy");
 }
 
 export default function Privacy({ params }: PageProps<"/[locale]/privacy">) {

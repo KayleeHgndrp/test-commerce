@@ -1,11 +1,18 @@
 import { notFound } from "next/navigation";
 import { hasLocale } from "@/lib/i18n/locales";
 import { getUi } from "@/lib/i18n/messages";
+import { pageSeo } from "@/lib/seo";
 import { site } from "@/lib/site";
 
 export async function generateMetadata({ params }: PageProps<"/[locale]/legal-notice">) {
   const { locale } = await params;
-  return hasLocale(locale) ? { title: (await getUi(locale)).legal.noticeTitle } : {};
+  if (!hasLocale(locale)) return {};
+  const { legal } = await getUi(locale);
+  return {
+    title: legal.noticeTitle,
+    description: `${legal.noticeTitle} – ${site.company.name || site.name}`,
+    ...pageSeo(locale, "/legal-notice"),
+  };
 }
 
 export default async function LegalNotice({ params }: PageProps<"/[locale]/legal-notice">) {

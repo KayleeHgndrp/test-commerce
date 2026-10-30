@@ -3,9 +3,9 @@ import { notFound } from "next/navigation";
 import { Faq } from "@/components/Faq";
 import { JsonLd } from "@/components/JsonLd";
 import { TestCarousel } from "@/components/TestCarousel";
-import { hasLocale, locales } from "@/lib/i18n/locales";
+import { hasLocale, locales, toLangTag } from "@/lib/i18n/locales";
 import { fmt, getAllTestTexts, getUi } from "@/lib/i18n/messages";
-import { alternates } from "@/lib/seo";
+import { pageSeo } from "@/lib/seo";
 import { formatPrice, site } from "@/lib/site";
 import type { Category } from "@/lib/tests/types";
 
@@ -27,7 +27,7 @@ function Check() {
 
 export async function generateMetadata({ params }: PageProps<"/[locale]">) {
   const { locale } = await params;
-  return { alternates: alternates(locale, "") };
+  return hasLocale(locale) ? pageSeo(locale, "") : {};
 }
 
 export default async function Home({ params }: PageProps<"/[locale]">) {
@@ -154,8 +154,22 @@ export default async function Home({ params }: PageProps<"/[locale]">) {
         data={{
           "@context": "https://schema.org",
           "@graph": [
-            { "@type": "Organization", "@id": `${site.url}/#org`, name: site.name, url: site.url, email: site.contactEmail },
-            { "@type": "WebSite", name: site.name, url: `${site.url}/${locale}`, inLanguage: locale, publisher: { "@id": `${site.url}/#org` } },
+            {
+              "@type": "Organization",
+              "@id": `${site.url}/#org`,
+              name: site.name,
+              url: site.url,
+              logo: `${site.url}/icon.png`,
+              email: site.contactEmail,
+            },
+            {
+              "@type": "WebSite",
+              "@id": `${site.url}/${locale}#website`,
+              name: site.name,
+              url: `${site.url}/${locale}`,
+              inLanguage: toLangTag(locale),
+              publisher: { "@id": `${site.url}/#org` },
+            },
             {
               "@type": "FAQPage",
               mainEntity: h.faq.map(({ q, a }) => ({

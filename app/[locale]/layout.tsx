@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter, Manrope } from "next/font/google";
 import { notFound } from "next/navigation";
 import { Analytics } from "@/components/Analytics";
@@ -24,6 +24,8 @@ export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
 
+export const viewport: Viewport = { themeColor: "#f7f6f2", colorScheme: "light" };
+
 export async function generateMetadata({ params }: LayoutProps<"/[locale]">): Promise<Metadata> {
   const { locale } = await params;
   if (!hasLocale(locale)) return {};
@@ -33,6 +35,8 @@ export async function generateMetadata({ params }: LayoutProps<"/[locale]">): Pr
     metadataBase: new URL(site.url),
     title: { default: fmt(ui.meta.title, vars), template: `%s | ${site.name}` },
     description: fmt(ui.meta.description, vars),
+    applicationName: site.name,
+    formatDetection: { telephone: false, email: false, address: false },
   };
 }
 
