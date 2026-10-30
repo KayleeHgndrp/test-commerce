@@ -1,6 +1,7 @@
 import { hasLocale } from "@/lib/i18n/locales";
 import { getDefinition, getTestText } from "@/lib/i18n/messages";
 import { validBundleSource } from "@/lib/delivery";
+import { emailFlowAllowed } from "@/lib/emailFlow";
 import { sendEmail } from "@/lib/email";
 import { renderReport } from "@/lib/report/render";
 import { site } from "@/lib/site";
@@ -15,6 +16,7 @@ const STRIPE_LOCALES = new Set([
 export async function POST(request: Request) {
   const body = (await request.json().catch(() => null)) as Record<string, unknown> | null;
   const { slug, locale, email, answers, gender, bundleFrom } = (body ?? {}) as Record<string, string>;
+  const newsletter = body?.newsletter === true;
 
   const def = typeof slug === "string" ? getDefinition(slug) : undefined;
   const decoded = def && typeof answers === "string" ? decodeAnswers(def, answers) : null;
@@ -57,6 +59,7 @@ export async function POST(request: Request) {
     "metadata[answers]": answers,
     "metadata[gender]": ["male", "female", "other"].includes(gender) ? gender : "other",
     ...(bundle ? { "metadata[bundle_from]": bundle.id } : {}),
+    ...(newsletter && emailFlowAllowed(def) ? { "metadata[newsletter]": "1" } : {}),
   });
 
   return Response.json({ url: session.url });

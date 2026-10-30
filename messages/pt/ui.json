@@ -273,7 +273,8 @@
       "As tuas respostas são tratadas para calcular o teu resultado. Quando compras um relatório, as tuas respostas e o teu endereço de e-mail são transmitidos ao nosso prestador de pagamentos, a Stripe, e ao nosso prestador de e-mail, para processar o pagamento e entregar o relatório.",
       "Não vendemos os teus dados nem os usamos para publicidade. Podes pedir-nos a qualquer momento que eliminemos os teus dados, contactando {email}.",
       "Se aceitar cookies analíticos, usamos o Google Analytics para recolher estatísticas de utilização, como as páginas visitadas. A Google pode tratar estes dados fora da UE ao abrigo do Data Privacy Framework UE-EUA.",
-      "Os pagamentos são processados pela Stripe. Nunca vemos nem guardamos os dados do teu cartão."
+      "Os pagamentos são processados pela Stripe. Nunca vemos nem guardamos os dados do teu cartão.",
+      "Se nos pedires para te enviarmos o resultado por email, guardamos o teu endereço de email, idioma, respostas ao teste e o momento do teu consentimento no nosso fornecedor de email Brevo (servidores na UE). Usamos estes dados apenas para te enviar o resultado, três emails curtos de seguimento na primeira semana e depois no máximo um email por semana. Cada email tem um link para cancelar a subscrição e, depois de cancelares, não recebes mais emails nossos."
     ],
     "termsTitle": "Termos de serviço",
     "termsBody": [

@@ -273,7 +273,8 @@
       "Je antwoorden worden verwerkt om je resultaat te berekenen. Als je een rapport koopt, worden je antwoorden en e-mailadres doorgegeven aan onze betaalprovider Stripe en onze e-mailprovider, om de betaling te verwerken en het rapport te bezorgen.",
       "We verkopen je gegevens niet en gebruiken ze niet voor advertenties. Je kunt ons op elk moment vragen je gegevens te verwijderen via {email}.",
       "Als je analytische cookies accepteert, gebruiken we Google Analytics om gebruiksstatistieken te verzamelen, zoals welke pagina's worden bezocht. Google kan deze gegevens buiten de EU verwerken op basis van het EU-VS Data Privacy Framework.",
-      "Betalingen worden afgehandeld door Stripe. Wij zien of bewaren je kaartgegevens nooit."
+      "Betalingen worden afgehandeld door Stripe. Wij zien of bewaren je kaartgegevens nooit.",
+      "Als je ons vraagt je resultaat te mailen, bewaren we je e-mailadres, taal, antwoorden op de test en het moment van je toestemming bij onze e-mailprovider Brevo (servers in de EU). We gebruiken dit alleen om je je resultaat te sturen, drie korte vervolgmails in de eerste week en daarna hooguit één mail per week. Elke mail heeft een afmeldlink, en na het afmelden krijg je geen mails meer van ons."
     ],
     "termsTitle": "Gebruiksvoorwaarden",
     "termsBody": [

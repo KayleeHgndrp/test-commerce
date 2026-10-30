@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "¿Quieres recibir tu resultado por correo?",
+    "text": "Te enviamos ahora mismo un breve resumen de tu resultado. Esta semana recibirás tres correos cortos más con una idea de tu informe y un test que encaja contigo. Después, como mucho un correo a la semana.",
+    "consent": "Sí, enviadme mi resultado y estos correos de seguimiento. Puedo darme de baja en cualquier momento con un clic.",
+    "privacy": "Política de privacidad",
+    "button": "Enviar mi resultado",
+    "done": "¡Enviado! Mira tu bandeja de entrada en un minuto, y por si acaso también la carpeta de spam.",
+    "consentRequired": "Marca la casilla para que podamos escribirte."
+  },
+  "checkoutOptin": "Enviadme también consejos y ofertas, como un segundo informe por {price}. Opcional, puedes darte de baja cuando quieras.",
+  "greeting": "Hola:",
+  "signoff": "Un saludo cordial,",
+  "team": "El equipo de {site}",
+  "footer": "Recibes este correo porque pediste a {site} que te enviara tu resultado del test «{test}».",
+  "unsubscribe": "Darse de baja",
+  "unsubscribePage": {
+    "title": "Darse de baja",
+    "text": "Pulsa el botón de abajo y dejaremos de enviarte correos.",
+    "button": "Darme de baja",
+    "done": "Te has dado de baja. No recibirás más correos nuestros.",
+    "invalid": "Este enlace ya no es válido. Responde a uno de nuestros correos y te quitaremos de la lista a mano."
+  },
+  "result": {
+    "subject": "Tu resultado: {test}",
+    "intro": "Gracias por hacer el test «{test}». Aquí tienes la versión corta de tu resultado.",
+    "label": "Tu resultado principal",
+    "outro": "Tu informe completo va mucho más allá: todas tus puntuaciones, lo que dicen de ti y consejos prácticos que puedes usar enseguida. Cuesta {price}, un solo pago y sin suscripción.",
+    "cta": "Ver mi informe completo"
+  },
+  "insight": {
+    "subject": "Algo que «{test}» dice de ti",
+    "intro": "Tu informe completo tiene un apartado para cada parte de tu resultado. Este destacó en tus respuestas.",
+    "label": "{dimension}: {level}",
+    "outro": "Tu informe tiene un apartado así para cada puntuación, con consejos pensados para ti.",
+    "cta": "Desbloquear mi informe por {price}"
+  },
+  "nextTest": {
+    "subject": "Un test que combina bien con «{test}»",
+    "intro": "Quienes hacen «{test}» suelen encontrar este igual de revelador.",
+    "outro": "Dura unos {minutes} minutos y es gratis.",
+    "cta": "Hacer el test"
+  },
+  "lastChance": {
+    "subject": "Tu informe de «{test}» sigue esperándote",
+    "intro": "Hace una semana hiciste el test «{test}». Tus respuestas están guardadas, así que tu informe completo está listo cuando quieras.",
+    "outro": "Un solo pago de {price}. Sin cuenta y sin suscripción.",
+    "cta": "Obtener mi informe completo"
+  },
+  "bundle": {
+    "subject": "Tu próximo informe por {price} termina pronto",
+    "intro": "Gracias por comprar tu informe de «{test}». Como agradecimiento, tu próximo informe cuesta {price} en lugar de {full}.",
+    "outro": "La oferta es válida hasta el {date}. Haz cualquier otro test y el precio reducido se aplica automáticamente al pagar.",
+    "cta": "Elegir mi próximo test"
+  }
+}

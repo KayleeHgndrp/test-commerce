@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Szeretnéd e-mailben megkapni az eredményed?",
+    "text": "Azonnal küldünk egy rövid összefoglalót az eredményedről. Ezen a héten még három rövid e-mail érkezik egy érdekességgel a jelentésedből és egy hozzád illő teszttel. Utána legfeljebb heti egy e-mail.",
+    "consent": "Igen, küldjétek el az eredményemet és ezeket a további e-maileket. Bármikor leiratkozhatok egy kattintással.",
+    "privacy": "Adatvédelmi tájékoztató",
+    "button": "Eredményem elküldése",
+    "done": "Elküldtük! Egy perc múlva nézd meg a postafiókod, és biztos, ami biztos, a spam mappát is.",
+    "consentRequired": "Pipáld ki a négyzetet, hogy írhassunk neked."
+  },
+  "checkoutOptin": "Küldjetek nekem tippeket és ajánlatokat is, például egy második jelentést {price} áron. Nem kötelező, bármikor leiratkozhatsz.",
+  "greeting": "Szia!",
+  "signoff": "Üdvözlettel:",
+  "team": "A {site} csapata",
+  "footer": "Azért kapod ezt az e-mailt, mert megkérted a(z) {site} oldalt, hogy küldje el a(z) „{test}” eredményedet.",
+  "unsubscribe": "Leiratkozás",
+  "unsubscribePage": {
+    "title": "Leiratkozás",
+    "text": "Kattints az alábbi gombra, és nem küldünk több e-mailt.",
+    "button": "Leiratkozom",
+    "done": "Leiratkoztál. Több e-mailt nem kapsz tőlünk.",
+    "invalid": "Ez a link már nem érvényes. Válaszolj valamelyik e-mailünkre, és kézzel törlünk a listáról."
+  },
+  "result": {
+    "subject": "Az eredményed: {test}",
+    "intro": "Köszönjük, hogy kitöltötted ezt a tesztet: „{test}”. Íme az eredményed rövid változata.",
+    "label": "A fő eredményed",
+    "outro": "A teljes jelentés sokkal tovább megy: minden pontszámod, hogy mit mondanak rólad, és gyakorlati tippek, amelyeket azonnal használhatsz. Az ára {price}, egyszeri fizetés, előfizetés nélkül.",
+    "cta": "Megnézem a teljes jelentést"
+  },
+  "insight": {
+    "subject": "Egy dolog, amit a(z) „{test}” elárul rólad",
+    "intro": "A teljes jelentésben az eredményed minden részéhez tartozik egy fejezet. Ez kiemelkedett a válaszaidból.",
+    "label": "{dimension}: {level}",
+    "outro": "A jelentésben minden pontszámhoz van egy ilyen fejezet, hozzád illő tippekkel.",
+    "cta": "Jelentés feloldása {price} áron"
+  },
+  "nextTest": {
+    "subject": "Egy teszt, ami jól illik ehhez: „{test}”",
+    "intro": "Akik ezt kitöltik („{test}”), gyakran ezt is nagyon tanulságosnak találják.",
+    "outro": "Körülbelül {minutes} perc, és ingyenes.",
+    "cta": "Kitöltöm a tesztet"
+  },
+  "lastChance": {
+    "subject": "A(z) „{test}” jelentésed még mindig vár rád",
+    "intro": "Egy hete kitöltötted ezt a tesztet: „{test}”. A válaszaidat elmentettük, így a teljes jelentésed bármikor elkészülhet.",
+    "outro": "Egyszeri {price}. Nincs fiók, nincs előfizetés.",
+    "cta": "Kérem a teljes jelentést"
+  },
+  "bundle": {
+    "subject": "Hamarosan lejár a következő jelentésed {price} áron",
+    "intro": "Köszönjük, hogy megvetted a(z) „{test}” jelentésedet. Köszönetképp a következő jelentésed {full} helyett {price}.",
+    "outro": "Az ajánlat {date} napig érvényes. Tölts ki bármelyik másik tesztet, és fizetéskor automatikusan az alacsonyabb árat számoljuk.",
+    "cta": "Kiválasztom a következő tesztet"
+  }
+}

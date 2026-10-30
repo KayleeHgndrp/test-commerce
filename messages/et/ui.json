@@ -273,7 +273,8 @@
       "Sinu vastuseid töödeldakse tulemuse arvutamiseks. Kui ostad raporti, edastatakse sinu vastused ja e-posti aadress meie makseteenuse pakkujale Stripe'ile ja meie e-posti teenuse pakkujale, et makse töödelda ja raport kätte toimetada.",
       "Me ei müü sinu andmeid ega kasuta neid reklaamiks. Võid igal ajal paluda oma andmed kustutada, kirjutades aadressil {email}.",
       "Kui nõustud analüütikaküpsistega, kogume Google Analyticsi abil kasutusstatistikat, näiteks milliseid lehti külastatakse. Google võib neid andmeid töödelda väljaspool ELi EU-US Data Privacy Frameworki alusel.",
-      "Makseid töötleb Stripe. Me ei näe ega salvesta kunagi sinu kaardiandmeid."
+      "Makseid töötleb Stripe. Me ei näe ega salvesta kunagi sinu kaardiandmeid.",
+      "Kui palud meil saata oma tulemuse e-postiga, salvestame sinu e-posti aadressi, keele, testivastused ja nõusoleku andmise aja meie e-posti teenusepakkuja Brevo juures (serverid ELis). Kasutame neid ainult selleks, et saata sulle tulemus, esimesel nädalal kolm lühikest järgkirja ja seejärel kõige rohkem üks kiri nädalas. Igas kirjas on loobumislink ja pärast loobumist sa meilt enam kirju ei saa."
     ],
     "termsTitle": "Kasutustingimused",
     "termsBody": [

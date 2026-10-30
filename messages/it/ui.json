@@ -273,7 +273,8 @@
       "Le tue risposte vengono elaborate per calcolare il risultato. Quando acquisti un report, le tue risposte e il tuo indirizzo email vengono trasmessi al nostro fornitore di pagamenti Stripe e al nostro fornitore di servizi email, per elaborare il pagamento e consegnare il report.",
       "Non vendiamo i tuoi dati e non li usiamo per scopi pubblicitari. Puoi chiederci in qualsiasi momento di cancellare i tuoi dati scrivendo a {email}.",
       "Se accetti i cookie analitici, usiamo Google Analytics per raccogliere statistiche di utilizzo, ad esempio quali pagine vengono visitate. Google può trattare questi dati fuori dall'UE nell'ambito del Data Privacy Framework UE-USA.",
-      "I pagamenti sono gestiti da Stripe. Non vediamo né conserviamo mai i dati della tua carta."
+      "I pagamenti sono gestiti da Stripe. Non vediamo né conserviamo mai i dati della tua carta.",
+      "Se ci chiedi di inviarti il risultato via email, conserviamo il tuo indirizzo email, la lingua, le risposte al test e il momento del tuo consenso presso il nostro fornitore email Brevo (server nell'UE). Li usiamo solo per inviarti il risultato, tre brevi email di follow-up nella prima settimana e poi al massimo una email a settimana. Ogni email contiene un link per disiscriverti, e dopo la disiscrizione non riceverai più email da noi."
     ],
     "termsTitle": "Termini di servizio",
     "termsBody": [

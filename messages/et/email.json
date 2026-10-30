@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Kas soovid oma tulemust e-postiga?",
+    "text": "Saadame sulle kohe lühikese kokkuvõtte sinu tulemusest. Sel nädalal tuleb veel kolm lühikest kirja, milles on üks tähelepanek sinu raportist ja sulle sobiv test. Pärast seda kõige rohkem üks kiri nädalas.",
+    "consent": "Jah, saatke mulle minu tulemus ja need järgkirjad. Saan igal ajal ühe klõpsuga loobuda.",
+    "privacy": "Privaatsuspoliitika",
+    "button": "Saada mu tulemus",
+    "done": "Saadetud! Vaata minuti pärast oma postkasti ja igaks juhuks ka rämpsposti kausta.",
+    "consentRequired": "Märgi kast, et võiksime sulle kirjutada."
+  },
+  "checkoutOptin": "Saatke mulle ka nõuandeid ja pakkumisi, näiteks teine raport hinnaga {price}. Vabatahtlik, saad igal ajal loobuda.",
+  "greeting": "Tere!",
+  "signoff": "Soojade tervitustega",
+  "team": "{site} meeskond",
+  "footer": "Saad selle kirja, sest palusid {site} lehel saata sulle testi „{test}“ tulemuse.",
+  "unsubscribe": "Loobu kirjadest",
+  "unsubscribePage": {
+    "title": "Loobu kirjadest",
+    "text": "Klõpsa allolevat nuppu ja me ei saada sulle enam kirju.",
+    "button": "Loobun kirjadest",
+    "done": "Oled kirjadest loobunud. Sa ei saa meilt enam kirju.",
+    "invalid": "See link ei kehti enam. Vasta mõnele meie kirjale ja eemaldame sind loendist käsitsi."
+  },
+  "result": {
+    "subject": "Sinu tulemus: {test}",
+    "intro": "Aitäh, et tegid testi „{test}“. Siin on sinu tulemuse lühiversioon.",
+    "label": "Sinu peamine tulemus",
+    "outro": "Sinu täielik raport läheb palju kaugemale: kõik sinu skoorid, mida need sinu kohta ütlevad, ja praktilised nõuanded, mida saad kohe kasutada. See maksab {price}, ühekordselt, ilma tellimuseta.",
+    "cta": "Vaata täielikku raportit"
+  },
+  "insight": {
+    "subject": "Üks asi, mida „{test}“ sinu kohta ütleb",
+    "intro": "Täielikus raportis on oma osa iga tulemuse osa kohta. See osa tõusis sinu vastustes eriti esile.",
+    "label": "{dimension}: {level}",
+    "outro": "Raportis on selline osa iga skoori kohta, koos sulle sobivate nõuannetega.",
+    "cta": "Ava raport hinnaga {price}"
+  },
+  "nextTest": {
+    "subject": "Test, mis sobib hästi testiga „{test}“",
+    "intro": "Need, kes teevad testi „{test}“, peavad sageli ka seda väga silmiavavaks.",
+    "outro": "See võtab umbes {minutes} minutit ja on tasuta.",
+    "cta": "Tee test"
+  },
+  "lastChance": {
+    "subject": "Sinu raport testist „{test}“ ootab endiselt",
+    "intro": "Nädal tagasi tegid testi „{test}“. Sinu vastused on salvestatud, nii et täielik raport on valmis siis, kui sulle sobib.",
+    "outro": "Ühekordne makse {price}. Ei kontot ega tellimust.",
+    "cta": "Hangi täielik raport"
+  },
+  "bundle": {
+    "subject": "Sinu järgmine raport hinnaga {price} lõpeb peagi",
+    "intro": "Aitäh, et ostsid raporti testist „{test}“. Tänutäheks maksab sinu järgmine raport {full} asemel {price}.",
+    "outro": "Pakkumine kehtib kuni {date}. Tee ükskõik milline teine test ja madalam hind rakendub maksmisel automaatselt.",
+    "cta": "Vali järgmine test"
+  }
+}

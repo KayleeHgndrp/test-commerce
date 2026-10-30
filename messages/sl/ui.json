@@ -273,7 +273,8 @@
       "Vaše odgovore obdelamo za izračun vašega rezultata. Ko kupite poročilo, se vaši odgovori in e-naslov posredujejo našemu ponudniku plačilnih storitev Stripe in našemu ponudniku e-poštnih storitev, da se lahko izvede plačilo in dostavi poročilo.",
       "Vaših podatkov ne prodajamo in jih ne uporabljamo za oglaševanje. Kadar koli lahko zahtevate izbris svojih podatkov, tako da nam pišete na {email}.",
       "Če sprejmete analitične piškotke, z Google Analytics zbiramo statistiko uporabe, na primer katere strani so obiskane. Google lahko te podatke obdeluje zunaj EU na podlagi okvira EU-US Data Privacy Framework.",
-      "Plačila obdeluje Stripe. Podatkov vaše kartice nikoli ne vidimo in jih ne hranimo."
+      "Plačila obdeluje Stripe. Podatkov vaše kartice nikoli ne vidimo in jih ne hranimo.",
+      "Če nas prosite, da vam rezultat pošljemo po e-pošti, vaš e-poštni naslov, jezik, odgovore v testu in trenutek vaše privolitve hranimo pri našem ponudniku e-pošte Brevo (strežniki v EU). Uporabljamo jih le, da vam pošljemo rezultat, v prvem tednu tri kratka nadaljnja sporočila in nato največ eno sporočilo na teden. Vsako sporočilo ima povezavo za odjavo in po odjavi od nas ne boste več prejemali sporočil."
     ],
     "termsTitle": "Pogoji uporabe",
     "termsBody": [

@@ -273,7 +273,8 @@
       "Vaše odpovede spracúvame, aby sme vypočítali váš výsledok. Keď si kúpite správu, vaše odpovede a e-mailovú adresu odovzdáme nášmu poskytovateľovi platieb Stripe a nášmu poskytovateľovi e-mailových služieb, aby sme mohli spracovať platbu a doručiť správu.",
       "Vaše údaje nepredávame a nepoužívame ich na reklamu. Kedykoľvek nás môžete požiadať o ich vymazanie na adrese {email}.",
       "Ak prijmete analytické cookies, používame Google Analytics na zber štatistík používania, napríklad ktoré stránky sa navštevujú. Google môže tieto údaje spracúvať mimo EÚ na základe rámca EU-US Data Privacy Framework.",
-      "Platby spracúva Stripe. Údaje o vašej karte nikdy nevidíme ani neukladáme."
+      "Platby spracúva Stripe. Údaje o vašej karte nikdy nevidíme ani neukladáme.",
+      "Ak nás požiadate o zaslanie výsledku e-mailom, uložíme vašu e-mailovú adresu, jazyk, odpovede v teste a okamih vášho súhlasu u nášho poskytovateľa e-mailov Brevo (servery v EÚ). Používame ich len na to, aby sme vám poslali výsledok, tri krátke nadväzujúce e-maily v prvom týždni a potom najviac jeden e-mail týždenne. Každý e-mail obsahuje odkaz na odhlásenie a po odhlásení od nás už žiadne e-maily nedostanete."
     ],
     "termsTitle": "Podmienky služby",
     "termsBody": [

@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Želite svoj rezultat po e-pošti?",
+    "text": "Takoj vam pošljemo kratek povzetek vašega rezultata. Ta teden dobite še tri kratka sporočila z vpogledom iz vašega poročila in testom, ki vam ustreza. Potem največ eno sporočilo na teden.",
+    "consent": "Da, pošljite mi moj rezultat in ta nadaljnja sporočila. Odjavim se lahko kadar koli z enim klikom.",
+    "privacy": "Pravilnik o zasebnosti",
+    "button": "Pošljite mi rezultat",
+    "done": "Poslano! Čez minuto poglejte v nabiralnik, za vsak primer pa tudi v mapo z neželeno pošto.",
+    "consentRequired": "Označite polje, da vam smemo pisati."
+  },
+  "checkoutOptin": "Pošiljajte mi tudi nasvete in ponudbe, na primer drugo poročilo za {price}. Neobvezno, odjavite se lahko kadar koli.",
+  "greeting": "Pozdravljeni,",
+  "signoff": "Lep pozdrav,",
+  "team": "Ekipa {site}",
+  "footer": "To sporočilo prejemate, ker ste {site} prosili, naj vam pošlje rezultat testa »{test}«.",
+  "unsubscribe": "Odjava",
+  "unsubscribePage": {
+    "title": "Odjava",
+    "text": "Kliknite spodnji gumb in ne bomo vam več pošiljali sporočil.",
+    "button": "Odjavite me",
+    "done": "Odjavljeni ste. Od nas ne boste več prejemali sporočil.",
+    "invalid": "Ta povezava ne velja več. Odgovorite na katero od naših sporočil in vas bomo ročno odstranili s seznama."
+  },
+  "result": {
+    "subject": "Vaš rezultat: {test}",
+    "intro": "Hvala, ker ste rešili test »{test}«. Tukaj je kratka različica vašega rezultata.",
+    "label": "Vaš glavni rezultat",
+    "outro": "Celotno poročilo gre veliko dlje: vsi vaši rezultati, kaj povedo o vas, in praktični nasveti, ki jih lahko takoj uporabite. Stane {price}, enkratno, brez naročnine.",
+    "cta": "Poglejte celotno poročilo"
+  },
+  "insight": {
+    "subject": "Nekaj, kar »{test}« pove o vas",
+    "intro": "Celotno poročilo ima razdelek za vsak del vašega rezultata. Ta je v vaših odgovorih posebej izstopal.",
+    "label": "{dimension}: {level}",
+    "outro": "V poročilu je tak razdelek za vsak rezultat, z nasveti prav za vas.",
+    "cta": "Odklenite poročilo za {price}"
+  },
+  "nextTest": {
+    "subject": "Test, ki se lepo dopolnjuje s testom »{test}«",
+    "intro": "Tistim, ki rešijo »{test}«, se pogosto tudi ta test zdi zelo razkrivajoč.",
+    "outro": "Traja približno {minutes} minut in je brezplačen.",
+    "cta": "Rešite test"
+  },
+  "lastChance": {
+    "subject": "Vaše poročilo za »{test}« vas še čaka",
+    "intro": "Pred tednom dni ste rešili test »{test}«. Vaši odgovori so shranjeni, zato je celotno poročilo pripravljeno, kadar koli želite.",
+    "outro": "Enkratno plačilo {price}. Brez računa in brez naročnine.",
+    "cta": "Pridobite celotno poročilo"
+  },
+  "bundle": {
+    "subject": "Vaše naslednje poročilo za {price} kmalu poteče",
+    "intro": "Hvala za nakup poročila za »{test}«. V zahvalo vaše naslednje poročilo stane {price} namesto {full}.",
+    "outro": "Ponudba velja do {date}. Rešite katerikoli drug test in nižja cena se pri plačilu upošteva samodejno.",
+    "cta": "Izberite naslednji test"
+  }
+}

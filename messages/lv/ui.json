@@ -273,7 +273,8 @@
       "Tavas atbildes tiek apstrādātas, lai aprēķinātu tavu rezultātu. Kad iegādājies pārskatu, tavas atbildes un e-pasta adrese tiek nodotas mūsu maksājumu pakalpojumu sniedzējam Stripe un mūsu e-pasta pakalpojumu sniedzējam, lai apstrādātu maksājumu un piegādātu pārskatu.",
       "Mēs nepārdodam tavus datus un neizmantojam tos reklāmai. Jebkurā laikā vari lūgt mums dzēst savus datus, rakstot uz {email}.",
       "Ja piekrītat analītikas sīkdatnēm, mēs ar Google Analytics vācam lietojuma statistiku, piemēram, kuras lapas tiek apmeklētas. Google var apstrādāt šos datus ārpus ES saskaņā ar EU-US Data Privacy Framework.",
-      "Maksājumus apstrādā Stripe. Mēs nekad neredzam un neglabājam tavas kartes datus."
+      "Maksājumus apstrādā Stripe. Mēs nekad neredzam un neglabājam tavas kartes datus.",
+      "Ja lūdz mums nosūtīt rezultātu e-pastā, mēs glabājam tavu e-pasta adresi, valodu, testa atbildes un piekrišanas brīdi pie mūsu e-pasta pakalpojumu sniedzēja Brevo (serveri ES). Mēs tos izmantojam tikai, lai nosūtītu tev rezultātu, pirmajā nedēļā trīs īsus turpmākos e-pastus un pēc tam ne vairāk kā vienu e-pastu nedēļā. Katrā e-pastā ir atrakstīšanās saite, un pēc atrakstīšanās tu no mums vairs nesaņemsi e-pastus."
     ],
     "termsTitle": "Lietošanas noteikumi",
     "termsBody": [

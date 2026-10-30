@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Vil du få resultatet ditt på e-post?",
+    "text": "Vi sender deg med en gang en kort oppsummering av resultatet ditt. Denne uken får du tre korte e-poster til med en innsikt fra rapporten din og en test som passer for deg. Etter det høyst én e-post i uken.",
+    "consent": "Ja, send meg resultatet mitt og disse oppfølgingsmeldingene. Jeg kan melde meg av når som helst med ett klikk.",
+    "privacy": "Personvernerklæring",
+    "button": "Send meg resultatet",
+    "done": "Sendt! Sjekk innboksen om et minutt, og for sikkerhets skyld søppelposten også.",
+    "consentRequired": "Kryss av i boksen så vi får lov til å sende deg e-post."
+  },
+  "checkoutOptin": "Send meg også tips og tilbud, for eksempel en ekstra rapport for {price}. Frivillig, du kan melde deg av når som helst.",
+  "greeting": "Hei,",
+  "signoff": "Varm hilsen",
+  "team": "Teamet bak {site}",
+  "footer": "Du får denne e-posten fordi du ba {site} om å sende deg resultatet ditt på testen «{test}».",
+  "unsubscribe": "Meld deg av",
+  "unsubscribePage": {
+    "title": "Meld deg av",
+    "text": "Klikk på knappen nedenfor, så slutter vi å sende deg e-post.",
+    "button": "Meld meg av",
+    "done": "Du er meldt av. Du får ikke flere e-poster fra oss.",
+    "invalid": "Denne lenken gjelder ikke lenger. Svar på en av e-postene våre, så fjerner vi deg manuelt."
+  },
+  "result": {
+    "subject": "Resultatet ditt: {test}",
+    "intro": "Takk for at du tok testen «{test}». Her er kortversjonen av resultatet ditt.",
+    "label": "Hovedresultatet ditt",
+    "outro": "Den fullstendige rapporten går mye lenger: alle poengsummene dine, hva de sier om deg og praktiske tips du kan bruke med en gang. Den koster {price}, én gang, uten abonnement.",
+    "cta": "Se hele rapporten min"
+  },
+  "insight": {
+    "subject": "Én ting «{test}» sier om deg",
+    "intro": "Den fullstendige rapporten har en del for hver side av resultatet ditt. Denne skilte seg ut i svarene dine.",
+    "label": "{dimension}: {level}",
+    "outro": "Rapporten har en slik del for hver poengsum, med tips som passer for deg.",
+    "cta": "Lås opp rapporten for {price}"
+  },
+  "nextTest": {
+    "subject": "En test som passer godt med «{test}»",
+    "intro": "De som tar «{test}», synes ofte at denne også er en øyeåpner.",
+    "outro": "Den tar omtrent {minutes} minutter og er gratis.",
+    "cta": "Ta testen"
+  },
+  "lastChance": {
+    "subject": "Rapporten din for «{test}» venter fortsatt",
+    "intro": "For en uke siden tok du testen «{test}». Svarene dine er lagret, så den fullstendige rapporten er klar når du er.",
+    "outro": "Én betaling på {price}. Ingen konto og ikke noe abonnement.",
+    "cta": "Hent hele rapporten min"
+  },
+  "bundle": {
+    "subject": "Den neste rapporten din for {price} går snart ut",
+    "intro": "Takk for at du kjøpte rapporten for «{test}». Som takk koster neste rapport {price} i stedet for {full}.",
+    "outro": "Tilbudet gjelder til {date}. Ta hvilken som helst annen test, så trekkes den lave prisen automatisk i kassen.",
+    "cta": "Velg neste test"
+  }
+}

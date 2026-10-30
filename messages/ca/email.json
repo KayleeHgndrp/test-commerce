@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Vols rebre el teu resultat per correu?",
+    "text": "T'enviem ara mateix un breu resum del teu resultat. Aquesta setmana rebràs tres correus curts més amb una idea del teu informe i un test que t'encaixa. Després, com a molt un correu a la setmana.",
+    "consent": "Sí, envieu-me el meu resultat i aquests correus de seguiment. Em puc donar de baixa en qualsevol moment amb un clic.",
+    "privacy": "Política de privadesa",
+    "button": "Envia'm el resultat",
+    "done": "Enviat! Mira la safata d'entrada d'aquí a un minut, i per si de cas també la carpeta de correu brossa.",
+    "consentRequired": "Marca la casella perquè et puguem escriure."
+  },
+  "checkoutOptin": "Envieu-me també consells i ofertes, com un segon informe per {price}. Opcional, et pots donar de baixa quan vulguis.",
+  "greeting": "Hola,",
+  "signoff": "Una salutació cordial,",
+  "team": "L'equip de {site}",
+  "footer": "Reps aquest correu perquè vas demanar a {site} que t'enviés el teu resultat del test «{test}».",
+  "unsubscribe": "Donar-se de baixa",
+  "unsubscribePage": {
+    "title": "Donar-se de baixa",
+    "text": "Fes clic al botó de sota i deixarem d'enviar-te correus.",
+    "button": "Dona'm de baixa",
+    "done": "T'has donat de baixa. No rebràs més correus nostres.",
+    "invalid": "Aquest enllaç ja no és vàlid. Respon a un dels nostres correus i et traurem de la llista a mà."
+  },
+  "result": {
+    "subject": "El teu resultat: {test}",
+    "intro": "Gràcies per fer el test «{test}». Aquí tens la versió curta del teu resultat.",
+    "label": "El teu resultat principal",
+    "outro": "El teu informe complet va molt més enllà: totes les teves puntuacions, què diuen de tu i consells pràctics que pots fer servir de seguida. Costa {price}, un sol pagament i sense subscripció.",
+    "cta": "Veure el meu informe complet"
+  },
+  "insight": {
+    "subject": "Una cosa que «{test}» diu de tu",
+    "intro": "El teu informe complet té un apartat per a cada part del teu resultat. Aquest va destacar en les teves respostes.",
+    "label": "{dimension}: {level}",
+    "outro": "L'informe té un apartat com aquest per a cada puntuació, amb consells pensats per a tu.",
+    "cta": "Desbloqueja el meu informe per {price}"
+  },
+  "nextTest": {
+    "subject": "Un test que combina bé amb «{test}»",
+    "intro": "Qui fa «{test}» sovint troba aquest igual de revelador.",
+    "outro": "Dura uns {minutes} minuts i és gratuït.",
+    "cta": "Fer el test"
+  },
+  "lastChance": {
+    "subject": "El teu informe de «{test}» encara t'espera",
+    "intro": "Fa una setmana vas fer el test «{test}». Les teves respostes estan desades, així que el teu informe complet està llest quan vulguis.",
+    "outro": "Un sol pagament de {price}. Sense compte i sense subscripció.",
+    "cta": "Obtenir el meu informe complet"
+  },
+  "bundle": {
+    "subject": "El teu proper informe per {price} s'acaba aviat",
+    "intro": "Gràcies per comprar el teu informe de «{test}». Com a agraïment, el teu proper informe costa {price} en lloc de {full}.",
+    "outro": "L'oferta és vàlida fins al {date}. Fes qualsevol altre test i el preu reduït s'aplica automàticament en pagar.",
+    "cta": "Triar el meu proper test"
+  }
+}

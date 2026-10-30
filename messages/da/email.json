@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Vil du have dit resultat på mail?",
+    "text": "Vi sender dig straks en kort opsummering af dit resultat. I denne uge får du tre korte mails mere med en indsigt fra din rapport og en test, der passer til dig. Derefter højst én mail om ugen.",
+    "consent": "Ja, mail mig mit resultat og disse opfølgende mails. Jeg kan altid afmelde mig med ét klik.",
+    "privacy": "Privatlivspolitik",
+    "button": "Mail mit resultat",
+    "done": "Sendt! Kig i din indbakke om et minut, og for en sikkerheds skyld også i spam.",
+    "consentRequired": "Sæt kryds i feltet, så vi må maile dig."
+  },
+  "checkoutOptin": "Mail mig også tips og tilbud, fx en ekstra rapport til {price}. Frivilligt, du kan altid afmelde dig.",
+  "greeting": "Hej,",
+  "signoff": "Kærlig hilsen",
+  "team": "Holdet bag {site}",
+  "footer": "Du får denne mail, fordi du bad {site} om at maile dig dit resultat af testen \"{test}\".",
+  "unsubscribe": "Afmeld",
+  "unsubscribePage": {
+    "title": "Afmeld",
+    "text": "Klik på knappen herunder, så stopper vi med at sende dig mails.",
+    "button": "Afmeld mig",
+    "done": "Du er afmeldt. Du får ikke flere mails fra os.",
+    "invalid": "Dette link virker ikke længere. Svar på en af vores mails, så fjerner vi dig manuelt."
+  },
+  "result": {
+    "subject": "Dit resultat: {test}",
+    "intro": "Tak, fordi du tog testen \"{test}\". Her er den korte version af dit resultat.",
+    "label": "Dit hovedresultat",
+    "outro": "Din fulde rapport går meget længere: alle dine scorer, hvad de siger om dig, og praktiske tips du kan bruge med det samme. Den koster {price}, én gang, uden abonnement.",
+    "cta": "Se min fulde rapport"
+  },
+  "insight": {
+    "subject": "Én ting, som \"{test}\" siger om dig",
+    "intro": "Din fulde rapport har et afsnit for hver del af dit resultat. Dette her stod frem i dine svar.",
+    "label": "{dimension}: {level}",
+    "outro": "Rapporten har et afsnit som dette for hver score, med tips der passer til dig.",
+    "cta": "Lås min rapport op for {price}"
+  },
+  "nextTest": {
+    "subject": "En test, der passer godt til \"{test}\"",
+    "intro": "Dem, der tager \"{test}\", synes ofte, at denne også er en øjenåbner.",
+    "outro": "Den tager cirka {minutes} minutter og er gratis.",
+    "cta": "Tag testen"
+  },
+  "lastChance": {
+    "subject": "Din rapport for \"{test}\" venter stadig",
+    "intro": "For en uge siden tog du testen \"{test}\". Dine svar er gemt, så din fulde rapport er klar, når du er.",
+    "outro": "Én betaling på {price}. Ingen konto og intet abonnement.",
+    "cta": "Hent min fulde rapport"
+  },
+  "bundle": {
+    "subject": "Din næste rapport til {price} udløber snart",
+    "intro": "Tak, fordi du købte din rapport for \"{test}\". Som tak koster din næste rapport {price} i stedet for {full}.",
+    "outro": "Tilbuddet gælder til {date}. Tag en hvilken som helst anden test, så trækkes den lave pris automatisk ved betalingen.",
+    "cta": "Vælg min næste test"
+  }
+}

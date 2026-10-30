@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Haluatko tuloksesi sähköpostiin?",
+    "text": "Lähetämme heti lyhyen yhteenvedon tuloksestasi. Tällä viikolla tulee vielä kolme lyhyttä viestiä, joissa on havainto raportistasi ja sinulle sopiva testi. Sen jälkeen korkeintaan yksi viesti viikossa.",
+    "consent": "Kyllä, lähettäkää minulle tulokseni ja nämä jatkoviestit. Voin perua tilauksen milloin tahansa yhdellä klikkauksella.",
+    "privacy": "Tietosuojaseloste",
+    "button": "Lähetä tulokseni",
+    "done": "Lähetetty! Katso postilaatikkoasi minuutin päästä ja varmuuden vuoksi myös roskapostikansiota.",
+    "consentRequired": "Rastita ruutu, jotta saamme lähettää sinulle sähköpostia."
+  },
+  "checkoutOptin": "Lähettäkää minulle myös vinkkejä ja tarjouksia, kuten toinen raportti hintaan {price}. Vapaaehtoinen, voit perua milloin tahansa.",
+  "greeting": "Hei,",
+  "signoff": "Lämpimin terveisin",
+  "team": "{site} tiimi",
+  "footer": "Saat tämän viestin, koska pyysit, että {site} lähettää sinulle tuloksesi testistä ”{test}”.",
+  "unsubscribe": "Peru tilaus",
+  "unsubscribePage": {
+    "title": "Peru tilaus",
+    "text": "Klikkaa alla olevaa painiketta, niin emme lähetä sinulle enää viestejä.",
+    "button": "Peru tilaukseni",
+    "done": "Tilauksesi on peruttu. Et saa meiltä enää sähköpostia.",
+    "invalid": "Tämä linkki ei ole enää voimassa. Vastaa johonkin viestiimme, niin poistamme sinut listalta käsin."
+  },
+  "result": {
+    "subject": "Tuloksesi: {test}",
+    "intro": "Kiitos, että teit testin ”{test}”. Tässä on tuloksesi lyhyt versio.",
+    "label": "Päätuloksesi",
+    "outro": "Koko raporttisi menee paljon pidemmälle: kaikki pisteesi, mitä ne kertovat sinusta ja käytännön vinkkejä, joita voit käyttää heti. Se maksaa {price} kertamaksuna, ei tilausta.",
+    "cta": "Katso koko raporttini"
+  },
+  "insight": {
+    "subject": "Yksi asia, jonka ”{test}” kertoo sinusta",
+    "intro": "Koko raportissasi on oma osio tuloksesi jokaiselle osalle. Tämä erottui vastauksistasi selvästi.",
+    "label": "{dimension}: {level}",
+    "outro": "Raportissa on tällainen osio jokaiselle pisteelle, ja mukana on sinulle sopivia vinkkejä.",
+    "cta": "Avaa raporttini hintaan {price}"
+  },
+  "nextTest": {
+    "subject": "Testi, joka sopii hyvin yhteen testin ”{test}” kanssa",
+    "intro": "Testin ”{test}” tehneet pitävät usein myös tätä silmiä avaavana.",
+    "outro": "Se kestää noin {minutes} minuuttia ja on ilmainen.",
+    "cta": "Tee testi"
+  },
+  "lastChance": {
+    "subject": "Raporttisi testistä ”{test}” odottaa yhä",
+    "intro": "Viikko sitten teit testin ”{test}”. Vastauksesi on tallennettu, joten koko raporttisi on valmis silloin, kun sinulle sopii.",
+    "outro": "Kertamaksu {price}. Ei tiliä eikä tilausta.",
+    "cta": "Hae koko raporttini"
+  },
+  "bundle": {
+    "subject": "Seuraava raporttisi hintaan {price} päättyy pian",
+    "intro": "Kiitos, että ostit raporttisi testistä ”{test}”. Kiitokseksi seuraava raporttisi maksaa {price} eikä {full}.",
+    "outro": "Tarjous on voimassa {date} asti. Tee mikä tahansa muu testi, niin edullisempi hinta lasketaan kassalla automaattisesti.",
+    "cta": "Valitse seuraava testini"
+  }
+}

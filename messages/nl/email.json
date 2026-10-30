@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Wil je je resultaat per mail?",
+    "text": "We sturen je meteen een korte samenvatting van je resultaat. Deze week volgen nog drie korte mails met een inzicht uit je rapport en een test die bij je past. Daarna hooguit één mail per week.",
+    "consent": "Ja, mail mij mijn resultaat en deze vervolgmails. Ik kan me altijd met één klik afmelden.",
+    "privacy": "Privacyverklaring",
+    "button": "Mail mijn resultaat",
+    "done": "Verstuurd! Kijk over een minuutje in je inbox, en voor de zekerheid ook in je spammap.",
+    "consentRequired": "Vink het vakje aan, dan mogen we je mailen."
+  },
+  "checkoutOptin": "Mail mij ook tips en aanbiedingen, zoals een tweede rapport voor {price}. Niet verplicht, altijd af te melden.",
+  "greeting": "Hoi,",
+  "signoff": "Hartelijke groet,",
+  "team": "Het team van {site}",
+  "footer": "Je krijgt deze mail omdat je {site} hebt gevraagd je resultaat van de {test} te mailen.",
+  "unsubscribe": "Afmelden",
+  "unsubscribePage": {
+    "title": "Afmelden",
+    "text": "Klik op de knop hieronder en we sturen je geen mails meer.",
+    "button": "Meld mij af",
+    "done": "Je bent afgemeld. Je krijgt geen mails meer van ons.",
+    "invalid": "Deze link werkt niet meer. Beantwoord een van onze mails, dan halen we je met de hand van de lijst."
+  },
+  "result": {
+    "subject": "Je resultaat van de {test}",
+    "intro": "Bedankt voor het doen van de {test}. Hier is de korte versie van je resultaat.",
+    "label": "Je belangrijkste resultaat",
+    "outro": "Je volledige rapport gaat veel verder: al je scores, wat ze over jou zeggen en praktische tips die je meteen kunt gebruiken. Het kost {price}, eenmalig en zonder abonnement.",
+    "cta": "Bekijk mijn volledige rapport"
+  },
+  "insight": {
+    "subject": "Eén ding dat je {test} over jou zegt",
+    "intro": "Je volledige rapport heeft een stuk over elk onderdeel van je resultaat. Dit onderdeel sprong eruit in jouw antwoorden.",
+    "label": "{dimension}: {level}",
+    "outro": "Zo'n stuk staat er in je rapport voor elke score, met tips die bij jou passen.",
+    "cta": "Ontgrendel mijn rapport voor {price}"
+  },
+  "nextTest": {
+    "subject": "Een test die goed past bij je {test}",
+    "intro": "Wie de {test} doet, vindt deze vaak ook een eyeopener.",
+    "outro": "Het duurt ongeveer {minutes} minuten en is gratis.",
+    "cta": "Doe de test"
+  },
+  "lastChance": {
+    "subject": "Je rapport van de {test} ligt nog klaar",
+    "intro": "Een week geleden deed je de {test}. Je antwoorden zijn bewaard, dus je volledige rapport staat klaar wanneer jij wilt.",
+    "outro": "Eenmalig {price}. Geen account en geen abonnement.",
+    "cta": "Haal mijn volledige rapport"
+  },
+  "bundle": {
+    "subject": "Je volgende rapport voor {price} loopt bijna af",
+    "intro": "Bedankt voor je rapport van de {test}. Als bedankje kost je volgende rapport {price} in plaats van {full}.",
+    "outro": "Het aanbod loopt tot {date}. Doe een andere test en de lagere prijs wordt bij het afrekenen vanzelf toegepast.",
+    "cta": "Kies mijn volgende test"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Želite li svoj rezultat e-poštom?",
+    "text": "Odmah vam šaljemo kratak sažetak vašeg rezultata. Ovaj tjedan stižu još tri kratka e-maila s uvidom iz vašeg izvješća i testom koji vam odgovara. Nakon toga najviše jedan e-mail tjedno.",
+    "consent": "Da, pošaljite mi moj rezultat i ove daljnje e-mailove. Mogu se odjaviti bilo kada jednim klikom.",
+    "privacy": "Pravila privatnosti",
+    "button": "Pošaljite mi rezultat",
+    "done": "Poslano! Za minutu pogledajte pretinac, a za svaki slučaj i mapu neželjene pošte.",
+    "consentRequired": "Označite kućicu kako bismo vam smjeli pisati."
+  },
+  "checkoutOptin": "Šaljite mi i savjete i ponude, primjerice drugo izvješće za {price}. Neobavezno, možete se odjaviti bilo kada.",
+  "greeting": "Pozdrav,",
+  "signoff": "Srdačan pozdrav,",
+  "team": "Tim {site}",
+  "footer": "Primate ovaj e-mail jer ste zatražili da vam {site} pošalje rezultat testa „{test}”.",
+  "unsubscribe": "Odjava",
+  "unsubscribePage": {
+    "title": "Odjava",
+    "text": "Kliknite gumb ispod i više vam nećemo slati e-mailove.",
+    "button": "Odjavite me",
+    "done": "Odjavljeni ste. Od nas više nećete primati e-mailove.",
+    "invalid": "Ova poveznica više ne vrijedi. Odgovorite na neki od naših e-mailova i ručno ćemo vas ukloniti s popisa."
+  },
+  "result": {
+    "subject": "Vaš rezultat: {test}",
+    "intro": "Hvala što ste riješili test „{test}”. Evo kratke verzije vašeg rezultata.",
+    "label": "Vaš glavni rezultat",
+    "outro": "Vaše cjelovito izvješće ide puno dalje: svi vaši rezultati, što govore o vama i praktični savjeti koje možete odmah primijeniti. Košta {price}, jednokratno, bez pretplate.",
+    "cta": "Pogledajte moje cjelovito izvješće"
+  },
+  "insight": {
+    "subject": "Jedna stvar koju „{test}” govori o vama",
+    "intro": "Vaše cjelovito izvješće ima dio za svaki dio vašeg rezultata. Ovaj se posebno istaknuo u vašim odgovorima.",
+    "label": "{dimension}: {level}",
+    "outro": "U izvješću postoji takav dio za svaki rezultat, sa savjetima prilagođenima vama.",
+    "cta": "Otključajte izvješće za {price}"
+  },
+  "nextTest": {
+    "subject": "Test koji se dobro slaže s testom „{test}”",
+    "intro": "Oni koji rješavaju „{test}” često i ovaj test smatraju jednako otkrivajućim.",
+    "outro": "Traje oko {minutes} minuta i besplatan je.",
+    "cta": "Riješite test"
+  },
+  "lastChance": {
+    "subject": "Vaše izvješće za „{test}” još vas čeka",
+    "intro": "Prije tjedan dana riješili ste test „{test}”. Vaši odgovori su spremljeni pa je cjelovito izvješće spremno kad god želite.",
+    "outro": "Jednokratno {price}. Bez računa i bez pretplate.",
+    "cta": "Preuzmite cjelovito izvješće"
+  },
+  "bundle": {
+    "subject": "Vaše sljedeće izvješće za {price} uskoro istječe",
+    "intro": "Hvala što ste kupili izvješće za „{test}”. Kao zahvalu, vaše sljedeće izvješće košta {price} umjesto {full}.",
+    "outro": "Ponuda vrijedi do {date}. Riješite bilo koji drugi test i niža cijena automatski se primjenjuje pri plaćanju.",
+    "cta": "Odaberite sljedeći test"
+  }
+}

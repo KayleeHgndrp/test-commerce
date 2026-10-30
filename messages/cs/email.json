@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Chcete svůj výsledek e-mailem?",
+    "text": "Hned vám pošleme krátké shrnutí vašeho výsledku. Tento týden přijdou ještě tři krátké e-maily s postřehem z vaší zprávy a testem, který se k vám hodí. Potom nejvýš jeden e-mail týdně.",
+    "consent": "Ano, pošlete mi můj výsledek a tyto navazující e-maily. Odhlásit se můžu kdykoli jedním kliknutím.",
+    "privacy": "Zásady ochrany soukromí",
+    "button": "Poslat výsledek e-mailem",
+    "done": "Odesláno! Za minutu se podívejte do schránky a pro jistotu i do spamu.",
+    "consentRequired": "Zaškrtněte políčko, abychom vám mohli psát."
+  },
+  "checkoutOptin": "Posílejte mi také tipy a nabídky, třeba druhou zprávu za {price}. Nepovinné, odhlásit se můžete kdykoli.",
+  "greeting": "Dobrý den,",
+  "signoff": "S pozdravem",
+  "team": "Tým {site}",
+  "footer": "Tento e-mail dostáváte, protože jste na {site} požádali o zaslání výsledku testu „{test}“.",
+  "unsubscribe": "Odhlásit se",
+  "unsubscribePage": {
+    "title": "Odhlásit se",
+    "text": "Klikněte na tlačítko níže a přestaneme vám posílat e-maily.",
+    "button": "Odhlásit mě",
+    "done": "Jste odhlášeni. Od nás už žádné e-maily nedostanete.",
+    "invalid": "Tento odkaz už neplatí. Odpovězte na některý z našich e-mailů a ze seznamu vás odebereme ručně."
+  },
+  "result": {
+    "subject": "Váš výsledek: {test}",
+    "intro": "Děkujeme, že jste vyplnili test „{test}“. Tady je krátká verze vašeho výsledku.",
+    "label": "Váš hlavní výsledek",
+    "outro": "Celá zpráva jde mnohem dál: všechna vaše skóre, co o vás říkají, a praktické tipy, které můžete hned využít. Stojí {price}, jednorázově, bez předplatného.",
+    "cta": "Zobrazit celou zprávu"
+  },
+  "insight": {
+    "subject": "Jedna věc, kterou o vás říká „{test}“",
+    "intro": "Celá zpráva má část pro každou složku vašeho výsledku. Tahle ve vašich odpovědích výrazně vystoupila.",
+    "label": "{dimension}: {level}",
+    "outro": "Taková část je ve zprávě pro každé skóre, s tipy přímo pro vás.",
+    "cta": "Odemknout zprávu za {price}"
+  },
+  "nextTest": {
+    "subject": "Test, který se dobře hodí k „{test}“",
+    "intro": "Lidé, kteří vyplní „{test}“, často považují i tento test za velmi objevný.",
+    "outro": "Trvá asi {minutes} minut a je zdarma.",
+    "cta": "Udělat test"
+  },
+  "lastChance": {
+    "subject": "Vaše zpráva k „{test}“ na vás stále čeká",
+    "intro": "Před týdnem jste vyplnili test „{test}“. Vaše odpovědi jsou uložené, takže celá zpráva je připravená, kdykoli budete chtít.",
+    "outro": "Jednorázově {price}. Bez účtu a bez předplatného.",
+    "cta": "Získat celou zprávu"
+  },
+  "bundle": {
+    "subject": "Vaše další zpráva za {price} brzy končí",
+    "intro": "Děkujeme za zakoupení zprávy k „{test}“. Jako poděkování stojí vaše další zpráva {price} místo {full}.",
+    "outro": "Nabídka platí do {date}. Vyplňte jakýkoli jiný test a nižší cena se při platbě použije automaticky.",
+    "cta": "Vybrat další test"
+  }
+}

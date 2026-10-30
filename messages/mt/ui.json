@@ -273,7 +273,8 @@
       "It-tweġibiet tiegħek jiġu pproċessati biex jiġi kkalkulat ir-riżultat tiegħek. Meta tixtri rapport, it-tweġibiet u l-indirizz tal-email tiegħek jintbagħtu lill-fornitur tal-ħlasijiet tagħna Stripe u lill-fornitur tal-email tagħna sabiex jiġi pproċessat il-ħlas u jintbagħat ir-rapport.",
       "Ma nbigħux id-data tiegħek u ma nużawhiex għar-reklamar. Tista' titlobna f'kull ħin biex inħassru d-data tiegħek billi tikkuntattja lil {email}.",
       "Jekk taċċetta l-cookies analitiċi, nużaw Google Analytics biex niġbru statistika tal-użu, bħal liema paġni jiġu miżjura. Google jista' jipproċessa din id-data barra l-UE taħt l-EU-US Data Privacy Framework.",
-      "Il-ħlasijiet jiġu ġestiti minn Stripe. Qatt ma naraw jew naħżnu d-dettalji tal-karta tiegħek."
+      "Il-ħlasijiet jiġu ġestiti minn Stripe. Qatt ma naraw jew naħżnu d-dettalji tal-karta tiegħek.",
+      "Jekk titlobna nibagħtulek ir-riżultat bl-email, inżommu l-indirizz tal-email tiegħek, il-lingwa, it-tweġibiet tat-test u l-mument tal-kunsens tiegħek għand il-fornitur tal-email tagħna Brevo (servers fl-UE). Nużawhom biss biex nibagħtulek ir-riżultat, tliet emails qosra fl-ewwel ġimgħa u wara l-aktar email waħda fil-ġimgħa. Kull email fiha link biex tneħħi l-abbonament, u wara li tneħħih ma tirċievix aktar emails mingħandna."
     ],
     "termsTitle": "Termini tas-servizz",
     "termsBody": [

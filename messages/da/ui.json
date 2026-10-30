@@ -273,7 +273,8 @@
       "Dine svar behandles for at beregne dit resultat. Når du køber en rapport, videregives dine svar og din e-mailadresse til vores betalingsudbyder Stripe og vores e-mailudbyder for at gennemføre betalingen og levere rapporten.",
       "Vi sælger ikke dine data og bruger dem ikke til annoncering. Du kan til enhver tid bede os om at slette dine data ved at kontakte {email}.",
       "Hvis du accepterer statistikcookies, bruger vi Google Analytics til at indsamle brugsstatistik, for eksempel hvilke sider der besøges. Google kan behandle disse data uden for EU under EU-US Data Privacy Framework.",
-      "Betalinger håndteres af Stripe. Vi ser eller gemmer aldrig dine kortoplysninger."
+      "Betalinger håndteres af Stripe. Vi ser eller gemmer aldrig dine kortoplysninger.",
+      "Hvis du beder os om at maile dit resultat, gemmer vi din e-mailadresse, dit sprog, dine testsvar og tidspunktet for dit samtykke hos vores e-mailudbyder Brevo (servere i EU). Vi bruger det kun til at sende dig dit resultat, tre korte opfølgende mails i den første uge og derefter højst én mail om ugen. Hver mail har et afmeldingslink, og når du har afmeldt dig, får du ikke flere mails fra os."
     ],
     "termsTitle": "Servicevilkår",
     "termsBody": [

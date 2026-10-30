@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Want your result by email?",
+    "text": "We send you a short summary of your result right away. This week you get three more short emails with an insight from your report and a test that suits you. After that, at most one email a week.",
+    "consent": "Yes, email me my result and these follow-up emails. I can unsubscribe at any time with one click.",
+    "privacy": "Privacy policy",
+    "button": "Email my result",
+    "done": "Sent! Check your inbox in a minute, and your spam folder just in case.",
+    "consentRequired": "Please tick the box so we are allowed to email you."
+  },
+  "checkoutOptin": "Also email me tips and offers, like a second report for {price}. Optional, unsubscribe at any time.",
+  "greeting": "Hi,",
+  "signoff": "Warm regards,",
+  "team": "The {site} team",
+  "footer": "You get this email because you asked {site} to email you your {test} result.",
+  "unsubscribe": "Unsubscribe",
+  "unsubscribePage": {
+    "title": "Unsubscribe",
+    "text": "Click the button below and we will stop sending you emails.",
+    "button": "Unsubscribe me",
+    "done": "You are unsubscribed. You will not get any more emails from us.",
+    "invalid": "This link is not valid anymore. Reply to one of our emails and we will remove you by hand."
+  },
+  "result": {
+    "subject": "Your {test} result",
+    "intro": "Thanks for taking the {test}. Here is the short version of your result.",
+    "label": "Your main result",
+    "outro": "Your full report goes a lot further: all your scores, what they say about you and practical tips you can use straight away. It costs {price}, once, with no subscription.",
+    "cta": "See my full report"
+  },
+  "insight": {
+    "subject": "One thing your {test} says about you",
+    "intro": "Your full report has a section for every part of your result. This one stood out in your answers.",
+    "label": "{dimension}: {level}",
+    "outro": "There is a section like this for every score in your report, with tips that fit you.",
+    "cta": "Unlock my report for {price}"
+  },
+  "nextTest": {
+    "subject": "A test that goes well with your {test}",
+    "intro": "People who take the {test} often find this one eye-opening too.",
+    "outro": "It takes about {minutes} minutes and it is free.",
+    "cta": "Take the test"
+  },
+  "lastChance": {
+    "subject": "Your {test} report is still waiting",
+    "intro": "A week ago you took the {test}. Your answers are saved, so your full report is ready whenever you are.",
+    "outro": "One payment of {price}. No account and no subscription.",
+    "cta": "Get my full report"
+  },
+  "bundle": {
+    "subject": "Your next report for {price} ends soon",
+    "intro": "Thanks for getting your {test} report. As a thank you, your next report costs {price} instead of {full}.",
+    "outro": "The offer runs until {date}. Take any other test and the lower price is applied automatically at checkout.",
+    "cta": "Choose my next test"
+  }
+}

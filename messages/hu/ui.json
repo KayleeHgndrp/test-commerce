@@ -273,7 +273,8 @@
       "A válaszaidat az eredményed kiszámításához dolgozzuk fel. Ha értékelést vásárolsz, a válaszaidat és az e-mail-címedet továbbítjuk fizetési szolgáltatónknak, a Stripe-nak, valamint e-mail-szolgáltatónknak a fizetés lebonyolítása és az értékelés kézbesítése érdekében.",
       "Az adataidat nem adjuk el, és nem használjuk fel reklámcélokra. Bármikor kérheted adataid törlését a(z) {email} címen.",
       "Ha elfogadod az analitikai sütiket, a Google Analytics segítségével használati statisztikákat gyűjtünk, például hogy mely oldalakat látogatják. A Google ezeket az adatokat az EU-n kívül is kezelheti az EU-US Data Privacy Framework alapján.",
-      "A fizetéseket a Stripe kezeli. A kártyaadataidat soha nem látjuk és nem tároljuk."
+      "A fizetéseket a Stripe kezeli. A kártyaadataidat soha nem látjuk és nem tároljuk.",
+      "Ha azt kéred, hogy e-mailben küldjük el az eredményed, az e-mail-címedet, a nyelvet, a teszten adott válaszaidat és a hozzájárulásod időpontját e-mail-szolgáltatónknál, a Brevónál tároljuk (EU-s szerverek). Ezeket csak arra használjuk, hogy elküldjük az eredményed, az első héten három rövid további e-mailt, utána pedig legfeljebb heti egy e-mailt. Minden e-mailben van leiratkozási link, és leiratkozás után nem kapsz tőlünk több e-mailt."
     ],
     "termsTitle": "Felhasználási feltételek",
     "termsBody": [

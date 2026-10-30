@@ -1,5 +1,6 @@
 import { ResultPreview } from "@/components/ResultPreview";
-import { fmt } from "@/lib/i18n/messages";
+import { emailFlowAllowed } from "@/lib/emailFlow";
+import { fmt, getEmailMessages } from "@/lib/i18n/messages";
 import { formatPrice, site } from "@/lib/site";
 import { loadTestPage, testStaticParams } from "@/lib/tests/params";
 
@@ -15,6 +16,7 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/[test]/r
 export default async function ResultPage({ params }: PageProps<"/[locale]/[test]/result">) {
   const { locale, def, ui, text } = await loadTestPage(params);
   const dimensionNames = def.dimensions.map((d) => text.dimensions[d]?.name ?? d);
+  const email = emailFlowAllowed(def) ? await getEmailMessages(locale) : null;
   return (
     <ResultPreview
       locale={locale}
@@ -25,6 +27,8 @@ export default async function ResultPage({ params }: PageProps<"/[locale]/[test]
       bundlePrice={formatPrice(locale, site.bundlePriceCents)}
       includes={[fmt(ui.test.whatYouGet1, { dimensions: dimensionNames.join(", ") }), ui.test.whatYouGet2, ui.test.whatYouGet3]}
       ui={ui.result}
+      optin={email?.optin ?? null}
+      checkoutOptin={email ? fmt(email.checkoutOptin, { price: formatPrice(locale, site.bundlePriceCents) }) : null}
     />
   );
 }

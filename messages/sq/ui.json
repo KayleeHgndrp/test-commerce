@@ -273,7 +273,8 @@
       "Përgjigjet e tua përpunohen për të llogaritur rezultatin. Kur blen një raport, përgjigjet dhe adresa jote e emailit u kalohen ofruesit tonë të pagesave Stripe dhe ofruesit tonë të emailit, me qëllim përpunimin e pagesës dhe dërgimin e raportit.",
       "Nuk i shesim të dhënat e tua dhe nuk i përdorim për reklama. Mund të kërkosh në çdo kohë fshirjen e të dhënave duke na kontaktuar në {email}.",
       "Nëse pranon cookie-t analitike, përdorim Google Analytics për të mbledhur statistika përdorimi, si p.sh. cilat faqe vizitohen. Google mund t'i përpunojë këto të dhëna jashtë BE-së sipas EU-US Data Privacy Framework.",
-      "Pagesat përpunohen nga Stripe. Ne nuk i shohim dhe nuk i ruajmë kurrë të dhënat e kartës sate."
+      "Pagesat përpunohen nga Stripe. Ne nuk i shohim dhe nuk i ruajmë kurrë të dhënat e kartës sate.",
+      "Nëse na kërkon të të dërgojmë rezultatin me email, ruajmë adresën tënde të email-it, gjuhën, përgjigjet e testit dhe momentin e pëlqimit tënd te ofruesi ynë i email-it Brevo (serverë në BE). I përdorim vetëm për të të dërguar rezultatin, tre email të shkurtër vijues në javën e parë dhe më pas më së shumti një email në javë. Çdo email ka një lidhje çregjistrimi dhe pas çregjistrimit nuk do të marrësh më email nga ne."
     ],
     "termsTitle": "Kushtet e shërbimit",
     "termsBody": [

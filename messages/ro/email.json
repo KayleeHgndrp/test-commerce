@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Vrei să primești rezultatul pe e-mail?",
+    "text": "Îți trimitem imediat un scurt rezumat al rezultatului. Săptămâna aceasta mai primești trei e-mailuri scurte, cu o idee din raportul tău și un test care ți se potrivește. După aceea, cel mult un e-mail pe săptămână.",
+    "consent": "Da, trimiteți-mi rezultatul și aceste e-mailuri. Mă pot dezabona oricând cu un singur clic.",
+    "privacy": "Politica de confidențialitate",
+    "button": "Trimite-mi rezultatul",
+    "done": "Trimis! Verifică-ți inboxul peste un minut și, pentru orice eventualitate, și folderul de spam.",
+    "consentRequired": "Bifează căsuța ca să avem voie să-ți scriem."
+  },
+  "checkoutOptin": "Trimiteți-mi și sfaturi și oferte, de exemplu un al doilea raport la {price}. Opțional, te poți dezabona oricând.",
+  "greeting": "Salut,",
+  "signoff": "Cu drag,",
+  "team": "Echipa {site}",
+  "footer": "Primești acest e-mail pentru că ai cerut ca {site} să-ți trimită rezultatul la testul „{test}”.",
+  "unsubscribe": "Dezabonare",
+  "unsubscribePage": {
+    "title": "Dezabonare",
+    "text": "Apasă butonul de mai jos și nu îți mai trimitem e-mailuri.",
+    "button": "Dezabonează-mă",
+    "done": "Te-ai dezabonat. Nu vei mai primi e-mailuri de la noi.",
+    "invalid": "Acest link nu mai este valabil. Răspunde la unul dintre e-mailurile noastre și te scoatem manual de pe listă."
+  },
+  "result": {
+    "subject": "Rezultatul tău: {test}",
+    "intro": "Mulțumim că ai făcut testul „{test}”. Iată versiunea scurtă a rezultatului tău.",
+    "label": "Rezultatul tău principal",
+    "outro": "Raportul complet merge mult mai departe: toate scorurile tale, ce spun ele despre tine și sfaturi practice pe care le poți folosi imediat. Costă {price}, o singură plată, fără abonament.",
+    "cta": "Vezi raportul meu complet"
+  },
+  "insight": {
+    "subject": "Un lucru pe care „{test}” îl spune despre tine",
+    "intro": "Raportul complet are câte o secțiune pentru fiecare parte a rezultatului. Aceasta a ieșit în evidență în răspunsurile tale.",
+    "label": "{dimension}: {level}",
+    "outro": "În raport există o astfel de secțiune pentru fiecare scor, cu sfaturi potrivite pentru tine.",
+    "cta": "Deblochează raportul pentru {price}"
+  },
+  "nextTest": {
+    "subject": "Un test care se potrivește bine cu „{test}”",
+    "intro": "Cei care fac „{test}” găsesc adesea și acest test foarte revelator.",
+    "outro": "Durează cam {minutes} minute și este gratuit.",
+    "cta": "Fă testul"
+  },
+  "lastChance": {
+    "subject": "Raportul tău pentru „{test}” încă te așteaptă",
+    "intro": "Acum o săptămână ai făcut testul „{test}”. Răspunsurile tale sunt salvate, așa că raportul complet e gata oricând vrei.",
+    "outro": "O singură plată de {price}. Fără cont și fără abonament.",
+    "cta": "Obține raportul complet"
+  },
+  "bundle": {
+    "subject": "Următorul tău raport la {price} expiră în curând",
+    "intro": "Mulțumim că ți-ai luat raportul pentru „{test}”. Ca mulțumire, următorul raport costă {price} în loc de {full}.",
+    "outro": "Oferta este valabilă până pe {date}. Fă orice alt test, iar prețul redus se aplică automat la plată.",
+    "cta": "Alege următorul test"
+  }
+}

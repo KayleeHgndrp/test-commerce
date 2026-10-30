@@ -1,0 +1,56 @@
+{
+  "optin": {
+    "title": "Möchtest du dein Ergebnis per E-Mail?",
+    "text": "Wir schicken dir sofort eine kurze Zusammenfassung deines Ergebnisses. Diese Woche folgen drei weitere kurze E-Mails mit einer Erkenntnis aus deinem Bericht und einem Test, der zu dir passt. Danach höchstens eine E-Mail pro Woche.",
+    "consent": "Ja, schickt mir mein Ergebnis und diese Folge-E-Mails. Ich kann mich jederzeit mit einem Klick abmelden.",
+    "privacy": "Datenschutzerklärung",
+    "button": "Ergebnis per E-Mail senden",
+    "done": "Gesendet! Schau in einer Minute in dein Postfach und sicherheitshalber auch in den Spam-Ordner.",
+    "consentRequired": "Bitte setze das Häkchen, damit wir dir schreiben dürfen."
+  },
+  "checkoutOptin": "Schickt mir auch Tipps und Angebote, zum Beispiel einen zweiten Bericht für {price}. Freiwillig, jederzeit abbestellbar.",
+  "greeting": "Hallo,",
+  "signoff": "Herzliche Grüße",
+  "team": "Dein {site} Team",
+  "footer": "Du bekommst diese E-Mail, weil du {site} gebeten hast, dir dein Ergebnis im Test „{test}“ zu schicken.",
+  "unsubscribe": "Abmelden",
+  "unsubscribePage": {
+    "title": "Abmelden",
+    "text": "Klick auf den Button unten und wir schicken dir keine E-Mails mehr.",
+    "button": "Abmelden",
+    "done": "Du bist abgemeldet. Du bekommst keine E-Mails mehr von uns.",
+    "invalid": "Dieser Link ist nicht mehr gültig. Antworte einfach auf eine unserer E-Mails, dann tragen wir dich von Hand aus."
+  },
+  "result": {
+    "subject": "Dein Ergebnis: {test}",
+    "intro": "Danke, dass du den Test „{test}“ gemacht hast. Hier ist die Kurzfassung deines Ergebnisses.",
+    "label": "Dein Hauptergebnis",
+    "outro": "Dein vollständiger Bericht geht viel weiter: alle deine Werte, was sie über dich aussagen und praktische Tipps, die du sofort nutzen kannst. Er kostet einmalig {price}, ohne Abo.",
+    "cta": "Meinen vollständigen Bericht ansehen"
+  },
+  "insight": {
+    "subject": "Eine Sache, die „{test}“ über dich verrät",
+    "intro": "Dein vollständiger Bericht hat einen Abschnitt zu jedem Teil deines Ergebnisses. Dieser hier ist in deinen Antworten besonders aufgefallen.",
+    "label": "{dimension}: {level}",
+    "outro": "So einen Abschnitt gibt es in deinem Bericht für jeden Wert, mit Tipps, die zu dir passen.",
+    "cta": "Bericht für {price} freischalten"
+  },
+  "nextTest": {
+    "subject": "Ein Test, der gut zu „{test}“ passt",
+    "intro": "Wer „{test}“ macht, findet diesen Test oft ebenfalls sehr aufschlussreich.",
+    "outro": "Er dauert etwa {minutes} Minuten und ist kostenlos.",
+    "cta": "Zum Test"
+  },
+  "lastChance": {
+    "subject": "Dein Bericht zu „{test}“ wartet noch auf dich",
+    "intro": "Vor einer Woche hast du den Test „{test}“ gemacht. Deine Antworten sind gespeichert, dein vollständiger Bericht ist also bereit, wann immer du willst.",
+    "outro": "Einmalig {price}. Kein Konto und kein Abo.",
+    "cta": "Meinen vollständigen Bericht holen"
+  },
+  "bundle": {
+    "subject": "Dein nächster Bericht für {price} läuft bald ab",
+    "intro": "Danke, dass du deinen Bericht zu „{test}“ gekauft hast. Als Dankeschön kostet dein nächster Bericht {price} statt {full}.",
+    "outro": "Das Angebot gilt bis zum {date}. Mach einen anderen Test, der günstigere Preis wird an der Kasse automatisch berechnet.",
+    "cta": "Meinen nächsten Test wählen"
+  }
+}

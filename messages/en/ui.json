@@ -273,7 +273,8 @@
       "Your answers are processed to calculate your result. When you buy a report, your answers and email address are passed to our payment provider Stripe and our email provider in order to process the payment and deliver the report.",
       "We do not sell your data and do not use it for advertising. You can ask us at any time to delete your data by contacting {email}.",
       "If you accept analytics cookies, we use Google Analytics to collect usage statistics, such as which pages are visited. Google may process this data outside the EU under the EU-US Data Privacy Framework.",
-      "Payments are handled by Stripe. We never see or store your card details."
+      "Payments are handled by Stripe. We never see or store your card details.",
+      "If you ask us to email you your result, we store your email address, language, test answers and the moment you gave permission with our email provider Brevo (servers in the EU). We only use this to send you your result, three short follow-up emails in the first week and after that at most one email a week. Every email has an unsubscribe link, and after unsubscribing you will not get any more emails from us."
     ],
     "termsTitle": "Terms of service",
     "termsBody": [
