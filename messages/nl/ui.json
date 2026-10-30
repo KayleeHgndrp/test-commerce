@@ -228,13 +228,16 @@
     "takeTest": "Doe de test",
     "crisisTitle": "Je staat er niet alleen voor",
     "crisisText": "Je gaf aan dat je gedachten hebt gehad dat je beter dood zou zijn of dat je jezelf iets wilt aandoen. Praat er alsjeblieft vandaag met iemand over. Ben je in direct gevaar, bel dan 112. Je kunt ook op elk moment van de dag contact opnemen met een crisislijn in je land, zoals die op findahelpline.com.",
-    "crisisLink": "Vind een hulplijn bij jou in de buurt"
+    "crisisLink": "Vind een hulplijn bij jou in de buurt",
+    "bundleNote": "Bundelprijs: {price} in plaats van {full}"
   },
   "thanks": {
     "title": "Bedankt voor je aankoop!",
     "text": "Je persoonlijke rapport is onderweg naar je inbox. Meestal komt het binnen een minuut aan.",
     "spam": "Na 10 minuten nog niets ontvangen? Kijk in je spam- of reclamemap, of neem contact met ons op via {email}.",
-    "more": "Ontdek meer tests"
+    "more": "Ontdek meer tests",
+    "bundleTitle": "Je volgende rapport voor {price}",
+    "bundleText": "Kies hieronder nog een test en maak die binnen {days} dagen. Het volledige rapport kost dan {price} in plaats van {full}. Geldig voor één extra rapport."
   },
   "report": {
     "subject": "Je rapport voor de {test}",

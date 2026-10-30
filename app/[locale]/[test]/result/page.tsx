@@ -1,6 +1,6 @@
 import { ResultPreview } from "@/components/ResultPreview";
 import { fmt } from "@/lib/i18n/messages";
-import { formatPrice } from "@/lib/site";
+import { formatPrice, site } from "@/lib/site";
 import { loadTestPage, testStaticParams } from "@/lib/tests/params";
 
 export const generateStaticParams = testStaticParams;
@@ -22,6 +22,7 @@ export default async function ResultPage({ params }: PageProps<"/[locale]/[test]
       name={text.name}
       dimensionNames={dimensionNames}
       price={formatPrice(locale)}
+      bundlePrice={formatPrice(locale, site.bundlePriceCents)}
       includes={[fmt(ui.test.whatYouGet1, { dimensions: dimensionNames.join(", ") }), ui.test.whatYouGet2, ui.test.whatYouGet3]}
       ui={ui.result}
     />

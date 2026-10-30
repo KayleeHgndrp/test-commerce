@@ -228,13 +228,16 @@
     "takeTest": "Taka prófið",
     "crisisTitle": "Þú ert ekki ein(n)",
     "crisisText": "Þú gafst til kynna að þú hafir haft hugsanir um að þú værir betur sett(ur) dáin(n) eða um að skaða sjálfa(n) þig. Talaðu við einhvern í dag. Ef þú ert í bráðri hættu skaltu hringja í 112. Þú getur líka haft samband við hjálparsíma í þínu landi, til dæmis þá sem eru skráðir á findahelpline.com, hvenær sem er sólarhringsins.",
-    "crisisLink": "Finndu hjálparsíma nálægt þér"
+    "crisisLink": "Finndu hjálparsíma nálægt þér",
+    "bundleNote": "Pakkaverð: {price} í stað {full}"
   },
   "thanks": {
     "title": "Takk fyrir kaupin!",
     "text": "Persónulega skýrslan þín er á leið í pósthólfið þitt. Hún berst yfirleitt innan mínútu.",
     "spam": "Ekki borist eftir 10 mínútur? Athugaðu ruslpóstsmöppuna eða kynningarmöppuna, eða hafðu samband við okkur á {email}.",
-    "more": "Uppgötvaðu fleiri próf"
+    "more": "Uppgötvaðu fleiri próf",
+    "bundleTitle": "Næsta skýrsla þín á {price}",
+    "bundleText": "Veldu annað próf hér fyrir neðan og taktu það innan {days} daga. Full skýrsla kostar þá {price} í stað {full}. Gildir fyrir eina skýrslu til viðbótar."
   },
   "report": {
     "subject": "Skýrslan þín: {test}",

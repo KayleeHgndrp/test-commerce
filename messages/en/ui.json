@@ -228,13 +228,16 @@
     "takeTest": "Take the test",
     "crisisTitle": "You are not alone",
     "crisisText": "You indicated that you have had thoughts of being better off dead or of hurting yourself. Please talk to someone today. If you are in immediate danger, call 112. You can also contact a crisis line in your country, such as those listed on findahelpline.com, any time of day.",
-    "crisisLink": "Find a helpline near you"
+    "crisisLink": "Find a helpline near you",
+    "bundleNote": "Bundle price: {price} instead of {full}"
   },
   "thanks": {
     "title": "Thank you for your purchase!",
     "text": "Your personal report is on its way to your inbox. It usually arrives within a minute.",
     "spam": "Not received after 10 minutes? Check your spam or promotions folder, or contact us at {email}.",
-    "more": "Discover more tests"
+    "more": "Discover more tests",
+    "bundleTitle": "Your next report for {price}",
+    "bundleText": "Choose another test below and take it within {days} days. Its full report then costs {price} instead of {full}. Valid for one extra report."
   },
   "report": {
     "subject": "Your {test} report",

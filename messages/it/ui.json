@@ -228,13 +228,16 @@
     "takeTest": "Fai il test",
     "crisisTitle": "Non sei solo",
     "crisisText": "Hai indicato di aver avuto pensieri di essere meglio morto o di farti del male. Ti preghiamo di parlarne con qualcuno oggi stesso. Se sei in pericolo immediato, chiama il 112. Puoi anche contattare a qualsiasi ora una linea di supporto per le crisi nel tuo Paese, come quelle elencate su findahelpline.com.",
-    "crisisLink": "Trova una linea di aiuto vicino a te"
+    "crisisLink": "Trova una linea di aiuto vicino a te",
+    "bundleNote": "Prezzo pacchetto: {price} invece di {full}"
   },
   "thanks": {
     "title": "Grazie per il tuo acquisto!",
     "text": "Il tuo report personale sta arrivando nella tua casella email. Di solito arriva entro un minuto.",
     "spam": "Non l'hai ricevuto dopo 10 minuti? Controlla la cartella spam o promozioni, oppure scrivici a {email}.",
-    "more": "Scopri altri test"
+    "more": "Scopri altri test",
+    "bundleTitle": "Il tuo prossimo report a {price}",
+    "bundleText": "Scegli un altro test qui sotto e completalo entro {days} giorni. Il report completo costerà {price} invece di {full}. Valido per un report aggiuntivo."
   },
   "report": {
     "subject": "Il tuo report: {test}",

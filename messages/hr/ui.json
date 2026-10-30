@@ -228,13 +228,16 @@
     "takeTest": "Riješi test",
     "crisisTitle": "Niste sami",
     "crisisText": "Naveli ste da ste imali misli da bi vam bilo bolje da ste mrtvi ili da biste se ozlijedili. Molimo vas da danas razgovarate s nekim. Ako ste u neposrednoj opasnosti, nazovite 112. U bilo koje doba dana možete se obratiti i kriznoj liniji u svojoj zemlji, primjerice nekoj od onih navedenih na findahelpline.com.",
-    "crisisLink": "Pronađite liniju za pomoć u svojoj blizini"
+    "crisisLink": "Pronađite liniju za pomoć u svojoj blizini",
+    "bundleNote": "Paketna cijena: {price} umjesto {full}"
   },
   "thanks": {
     "title": "Hvala na kupnji!",
     "text": "Vaše osobno izvješće stiže u vaš sandučić. Obično stigne u roku od minute.",
     "spam": "Niste ga primili ni nakon 10 minuta? Provjerite mapu neželjene pošte ili promocija ili nam se javite na {email}.",
-    "more": "Otkrijte još testova"
+    "more": "Otkrijte još testova",
+    "bundleTitle": "Vaše sljedeće izvješće za {price}",
+    "bundleText": "Odaberite još jedan test ispod i riješite ga u roku od {days} dana. Cijelo izvješće tada stoji {price} umjesto {full}. Vrijedi za jedno dodatno izvješće."
   },
   "report": {
     "subject": "Vaše izvješće: {test}",

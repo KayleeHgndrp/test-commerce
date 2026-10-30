@@ -228,13 +228,16 @@
     "takeTest": "Izpildīt testu",
     "crisisTitle": "Tu neesi viens",
     "crisisText": "Tu norādīji, ka tev ir bijušas domas, ka tev būtu labāk būt mirušam, vai domas par sev nodarītu kaitējumu. Lūdzu, vēl šodien parunā ar kādu. Ja esi tiešās briesmās, zvani 112. Jebkurā diennakts laikā vari sazināties arī ar krīzes tālruni savā valstī, piemēram, kādu no tiem, kas norādīti vietnē findahelpline.com.",
-    "crisisLink": "Atrodi palīdzības tālruni savā tuvumā"
+    "crisisLink": "Atrodi palīdzības tālruni savā tuvumā",
+    "bundleNote": "Komplekta cena: {price}, nevis {full}"
   },
   "thanks": {
     "title": "Paldies par pirkumu!",
     "text": "Tavs personīgais pārskats jau ir ceļā uz tavu e-pastu. Parasti tas pienāk minūtes laikā.",
     "spam": "Nav saņemts pēc 10 minūtēm? Pārbaudi surogātpasta vai reklāmu mapi vai raksti mums uz {email}.",
-    "more": "Atklāt vairāk testu"
+    "more": "Atklāt vairāk testu",
+    "bundleTitle": "Tavs nākamais pārskats par {price}",
+    "bundleText": "Izvēlies zemāk vēl vienu testu un izpildi to {days} dienu laikā. Pilns pārskats tad maksās {price}, nevis {full}. Attiecas uz vienu papildu pārskatu."
   },
   "report": {
     "subject": "Tavs pārskats: {test}",

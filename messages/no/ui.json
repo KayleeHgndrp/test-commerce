@@ -228,13 +228,16 @@
     "takeTest": "Ta testen",
     "crisisTitle": "Du er ikke alene",
     "crisisText": "Du har oppgitt at du har hatt tanker om at du ville vært bedre tjent med å være død, eller om å skade deg selv. Snakk med noen i dag. Hvis du er i akutt fare, ring 112. Du kan også når som helst på døgnet kontakte en krisetelefon i landet ditt, for eksempel de som er oppført på findahelpline.com.",
-    "crisisLink": "Finn en hjelpetelefon i nærheten"
+    "crisisLink": "Finn en hjelpetelefon i nærheten",
+    "bundleNote": "Pakkepris: {price} i stedet for {full}"
   },
   "thanks": {
     "title": "Takk for kjøpet!",
     "text": "Den personlige rapporten din er på vei til innboksen. Den kommer vanligvis i løpet av ett minutt.",
     "spam": "Ikke mottatt etter 10 minutter? Sjekk søppelpostmappen eller kampanjemappen, eller kontakt oss på {email}.",
-    "more": "Oppdag flere tester"
+    "more": "Oppdag flere tester",
+    "bundleTitle": "Din neste rapport for {price}",
+    "bundleText": "Velg en test til nedenfor og ta den innen {days} dager. Den fullstendige rapporten koster da {price} i stedet for {full}. Gjelder én ekstra rapport."
   },
   "report": {
     "subject": "Din rapport: {test}",

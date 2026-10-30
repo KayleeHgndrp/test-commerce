@@ -228,13 +228,16 @@
     "takeTest": "Plotëso testin",
     "crisisTitle": "Nuk je vetëm",
     "crisisText": "Ke treguar se ke pasur mendime se do të ishte më mirë të ishe i/e vdekur ose për të lënduar veten. Të lutem fol me dikë sot. Nëse je në rrezik të menjëhershëm, telefono 112. Mund të kontaktosh gjithashtu një linjë krize në vendin tënd, si ato të listuara në findahelpline.com, në çdo orë të ditës.",
-    "crisisLink": "Gjej një linjë ndihme pranë teje"
+    "crisisLink": "Gjej një linjë ndihme pranë teje",
+    "bundleNote": "Çmim paketë: {price} në vend të {full}"
   },
   "thanks": {
     "title": "Faleminderit për blerjen!",
     "text": "Raporti yt personal është në rrugë drejt emailit tënd. Zakonisht mbërrin brenda një minute.",
     "spam": "Nuk të ka ardhur pas 10 minutash? Kontrollo dosjen e postës së padëshiruar ose të promocioneve, ose na kontakto në {email}.",
-    "more": "Zbulo më shumë teste"
+    "more": "Zbulo më shumë teste",
+    "bundleTitle": "Raporti yt i radhës për {price}",
+    "bundleText": "Zgjidh një test tjetër më poshtë dhe bëje brenda {days} ditëve. Raporti i plotë do të kushtojë {price} në vend të {full}. Vlen për një raport shtesë."
   },
   "report": {
     "subject": "Raporti yt: {test}",

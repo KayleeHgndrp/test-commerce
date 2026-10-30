@@ -228,13 +228,16 @@
     "takeTest": "Completează testul",
     "crisisTitle": "Nu ești singur",
     "crisisText": "Ai indicat că ai avut gânduri că ți-ar fi mai bine dacă ai fi mort sau că ți-ai face rău. Te rugăm să vorbești cu cineva chiar azi. Dacă ești în pericol imediat, sună la 112. Poți contacta oricând, zi și noapte, și o linie de criză din țara ta, de exemplu dintre cele listate pe findahelpline.com.",
-    "crisisLink": "Găsește o linie de sprijin aproape de tine"
+    "crisisLink": "Găsește o linie de sprijin aproape de tine",
+    "bundleNote": "Preț pachet: {price} în loc de {full}"
   },
   "thanks": {
     "title": "Mulțumim pentru achiziție!",
     "text": "Raportul tău personal este pe drum spre inbox. De obicei ajunge în mai puțin de un minut.",
     "spam": "Nu l-ai primit după 10 minute? Verifică dosarul de spam sau de promoții ori scrie-ne la {email}.",
-    "more": "Descoperă mai multe teste"
+    "more": "Descoperă mai multe teste",
+    "bundleTitle": "Următorul tău raport la {price}",
+    "bundleText": "Alege mai jos încă un test și fă-l în {days} zile. Raportul complet va costa atunci {price} în loc de {full}. Valabil pentru un raport în plus."
   },
   "report": {
     "subject": "Raportul tău: {test}",

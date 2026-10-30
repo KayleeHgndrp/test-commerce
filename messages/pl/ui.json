@@ -228,13 +228,16 @@
     "takeTest": "Rozwiąż test",
     "crisisTitle": "Nie jesteś sam(a)",
     "crisisText": "Z Twoich odpowiedzi wynika, że miewasz myśli, że lepiej byłoby nie żyć, albo myśli o zrobieniu sobie krzywdy. Proszę, porozmawiaj z kimś jeszcze dziś. Jeśli grozi Ci bezpośrednie niebezpieczeństwo, zadzwoń pod 112. Możesz też o każdej porze skontaktować się z telefonem zaufania w swoim kraju, np. z listy na findahelpline.com.",
-    "crisisLink": "Znajdź telefon zaufania w pobliżu"
+    "crisisLink": "Znajdź telefon zaufania w pobliżu",
+    "bundleNote": "Cena w pakiecie: {price} zamiast {full}"
   },
   "thanks": {
     "title": "Dziękujemy za zakup!",
     "text": "Twój osobisty raport jest już w drodze na Twoją skrzynkę. Zwykle dociera w ciągu minuty.",
     "spam": "Nie dotarł po 10 minutach? Sprawdź folder spam lub oferty albo napisz do nas na {email}.",
-    "more": "Odkryj więcej testów"
+    "more": "Odkryj więcej testów",
+    "bundleTitle": "Twój kolejny raport za {price}",
+    "bundleText": "Wybierz poniżej kolejny test i wykonaj go w ciągu {days} dni. Pełny raport będzie wtedy kosztować {price} zamiast {full}. Dotyczy jednego dodatkowego raportu."
   },
   "report": {
     "subject": "Twój raport: {test}",

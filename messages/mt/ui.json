@@ -228,13 +228,16 @@
     "takeTest": "Agħmel it-test",
     "crisisTitle": "M'intix waħdek",
     "crisisText": "Indikajt li kellek ħsibijiet li jkun aħjar li kont mejjet jew li tweġġa' lilek innifsek. Jekk jogħġbok kellem lil xi ħadd illum. Jekk tinsab f'periklu immedjat, ċempel 112. Tista' wkoll tikkuntattja linja ta' kriżi f'pajjiżek, bħal dawk elenkati fuq findahelpline.com, fi kwalunkwe ħin tal-ġurnata.",
-    "crisisLink": "Sib linja ta' għajnuna qrib tiegħek"
+    "crisisLink": "Sib linja ta' għajnuna qrib tiegħek",
+    "bundleNote": "Prezz tal-pakkett: {price} minflok {full}"
   },
   "thanks": {
     "title": "Grazzi tax-xiri tiegħek!",
     "text": "Ir-rapport personali tiegħek qed jasal fl-inbox tiegħek. Normalment jasal fi żmien minuta.",
     "spam": "Ma rċevejtux wara 10 minuti? Iċċekkja l-folder tal-ispam jew tal-promozzjonijiet, jew ikkuntattjana fuq {email}.",
-    "more": "Skopri aktar testijiet"
+    "more": "Skopri aktar testijiet",
+    "bundleTitle": "Ir-rapport li jmiss tiegħek għal {price}",
+    "bundleText": "Agħżel test ieħor hawn taħt u agħmlu fi żmien {days} ijiem. Ir-rapport sħiħ imbagħad jiswa {price} minflok {full}. Validu għal rapport wieħed żejjed."
   },
   "report": {
     "subject": "Ir-rapport tiegħek: {test}",

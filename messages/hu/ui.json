@@ -228,13 +228,16 @@
     "takeTest": "Teszt kitöltése",
     "crisisTitle": "Nem vagy egyedül",
     "crisisText": "Azt jelezted, hogy voltak olyan gondolataid, hogy jobb lenne, ha meghalnál, vagy hogy bántanád magad. Kérjük, még ma beszélj erről valakivel. Ha közvetlen veszélyben vagy, hívd a 112-t. A nap bármely szakában fordulhatsz országod egyik lelki elsősegély-vonalához is, például a findahelpline.com oldalon felsoroltakhoz.",
-    "crisisLink": "Segélyvonal keresése a közeledben"
+    "crisisLink": "Segélyvonal keresése a közeledben",
+    "bundleNote": "Csomagár: {price} {full} helyett"
   },
   "thanks": {
     "title": "Köszönjük a vásárlást!",
     "text": "A személyes értékelésed már úton van a postafiókodba. Általában egy percen belül megérkezik.",
     "spam": "10 perc után sem érkezett meg? Nézd meg a spam vagy a promóciók mappát, vagy írj nekünk: {email}.",
-    "more": "További tesztek felfedezése"
+    "more": "További tesztek felfedezése",
+    "bundleTitle": "A következő jelentésed {price}",
+    "bundleText": "Válassz lent még egy tesztet, és töltsd ki {days} napon belül. A teljes jelentés így {price} lesz {full} helyett. Egy további jelentésre érvényes."
   },
   "report": {
     "subject": "Az értékelésed: {test}",

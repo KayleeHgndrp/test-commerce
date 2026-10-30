@@ -228,13 +228,16 @@
     "takeTest": "Testi çöz",
     "crisisTitle": "Yalnız değilsiniz",
     "crisisText": "Ölmüş olmanın daha iyi olacağına dair ya da kendinize zarar vermeye yönelik düşünceleriniz olduğunu belirttiniz. Lütfen bugün biriyle konuşun. Acil bir tehlike altındaysanız 112'yi arayın. Ayrıca günün her saatinde, findahelpline.com'da listelenenler gibi ülkenizdeki bir kriz hattına da ulaşabilirsiniz.",
-    "crisisLink": "Yakınınızdaki bir yardım hattını bulun"
+    "crisisLink": "Yakınınızdaki bir yardım hattını bulun",
+    "bundleNote": "Paket fiyatı: {full} yerine {price}"
   },
   "thanks": {
     "title": "Satın aldığınız için teşekkürler!",
     "text": "Kişisel raporunuz e-posta kutunuza doğru yola çıktı. Genellikle bir dakika içinde ulaşır.",
     "spam": "10 dakika sonra hâlâ gelmedi mi? Spam veya promosyonlar klasörünüzü kontrol edin ya da {email} adresinden bize ulaşın.",
-    "more": "Daha fazla test keşfedin"
+    "more": "Daha fazla test keşfedin",
+    "bundleTitle": "Sonraki raporun {price}",
+    "bundleText": "Aşağıdan bir test daha seç ve {days} gün içinde tamamla. Tam raporu o zaman {full} yerine {price} olur. Bir ek rapor için geçerlidir."
   },
   "report": {
     "subject": "{test} raporunuz",

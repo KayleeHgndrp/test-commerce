@@ -228,13 +228,16 @@
     "takeTest": "Test machen",
     "crisisTitle": "Du bist nicht allein",
     "crisisText": "Du hast angegeben, dass du Gedanken hattest, dass du lieber tot wärst oder dir etwas antun könntest. Bitte sprich noch heute mit jemandem darüber. Wenn du in akuter Gefahr bist, ruf die 112 an. Du kannst dich auch rund um die Uhr an eine Krisenhotline in deinem Land wenden, zum Beispiel über findahelpline.com.",
-    "crisisLink": "Finde eine Hilfehotline in deiner Nähe"
+    "crisisLink": "Finde eine Hilfehotline in deiner Nähe",
+    "bundleNote": "Paketpreis: {price} statt {full}"
   },
   "thanks": {
     "title": "Danke für deinen Kauf!",
     "text": "Dein persönlicher Bericht ist auf dem Weg in dein Postfach. Er kommt meist innerhalb einer Minute an.",
     "spam": "Nach 10 Minuten noch nichts erhalten? Schau in deinem Spam- oder Werbeordner nach oder schreib uns an {email}.",
-    "more": "Weitere Tests entdecken"
+    "more": "Weitere Tests entdecken",
+    "bundleTitle": "Dein nächster Bericht für {price}",
+    "bundleText": "Wähle unten einen weiteren Test und mach ihn innerhalb von {days} Tagen. Der vollständige Bericht kostet dann {price} statt {full}. Gültig für einen weiteren Bericht."
   },
   "report": {
     "subject": "Dein Bericht: {test}",

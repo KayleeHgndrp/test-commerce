@@ -12,12 +12,15 @@ export const site = {
   },
   // Report price in the smallest currency unit (cents).
   priceCents: Number(process.env.NEXT_PUBLIC_REPORT_PRICE_CENTS ?? 395),
+  // Price of a second report bought within bundleDays of a paid order.
+  bundlePriceCents: Number(process.env.NEXT_PUBLIC_BUNDLE_PRICE_CENTS ?? 195),
+  bundleDays: 7,
   currency: (process.env.NEXT_PUBLIC_REPORT_CURRENCY ?? "eur").toLowerCase(),
 };
 
-export function formatPrice(locale: string) {
+export function formatPrice(locale: string, cents = site.priceCents) {
   const tag = locale === "no" ? "nb" : locale;
   return new Intl.NumberFormat(tag, { style: "currency", currency: site.currency }).format(
-    site.priceCents / 100,
+    cents / 100,
   );
 }

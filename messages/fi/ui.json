@@ -228,13 +228,16 @@
     "takeTest": "Tee testi",
     "crisisTitle": "Et ole yksin",
     "crisisText": "Kerroit, että sinulla on ollut ajatuksia siitä, että olisit parempi kuolleena, tai ajatuksia itsesi vahingoittamisesta. Puhu jonkun kanssa vielä tänään. Jos olet välittömässä vaarassa, soita 112. Voit myös ottaa mihin vuorokaudenaikaan tahansa yhteyttä oman maasi kriisipuhelimeen, esimerkiksi findahelpline.com-sivustolla lueteltuihin.",
-    "crisisLink": "Löydä auttava puhelin läheltäsi"
+    "crisisLink": "Löydä auttava puhelin läheltäsi",
+    "bundleNote": "Pakettihinta: {price}, normaalisti {full}"
   },
   "thanks": {
     "title": "Kiitos ostoksestasi!",
     "text": "Henkilökohtainen raporttisi on matkalla sähköpostiisi. Se saapuu yleensä minuutin kuluessa.",
     "spam": "Eikö raporttia ole kuulunut 10 minuutissa? Tarkista roskaposti- tai mainoskansio tai ota meihin yhteyttä: {email}.",
-    "more": "Tutustu muihin testeihin"
+    "more": "Tutustu muihin testeihin",
+    "bundleTitle": "Seuraava raporttisi hintaan {price}",
+    "bundleText": "Valitse alta toinen testi ja tee se {days} päivän kuluessa. Sen täysi raportti maksaa silloin {price} hinnan {full} sijaan. Koskee yhtä lisäraporttia."
   },
   "report": {
     "subject": "Raporttisi: {test}",

@@ -228,13 +228,16 @@
     "takeTest": "Déan an tástáil",
     "crisisTitle": "Níl tú i d'aonar",
     "crisisText": "Thug tú le fios go raibh smaointe agat go mbeadh sé níos fearr duit a bheith marbh nó go ngortófá thú féin. Labhair le duine éigin inniu, le do thoil. Má tá tú i mbaol láithreach, glaoigh ar 112. Is féidir leat teagmháil a dhéanamh freisin le líne ghéarchéime i do thír féin, mar shampla iad siúd atá liostaithe ar findahelpline.com, ag am ar bith den lá.",
-    "crisisLink": "Aimsigh líne chabhrach in aice leat"
+    "crisisLink": "Aimsigh líne chabhrach in aice leat",
+    "bundleNote": "Praghas beartáin: {price} in ionad {full}"
   },
   "thanks": {
     "title": "Go raibh maith agat as do cheannach!",
     "text": "Tá do thuarascáil phearsanta ar an mbealach chuig do bhosca isteach. Sroicheann sí laistigh de nóiméad de ghnáth.",
     "spam": "Níl sí faighte agat tar éis 10 nóiméad? Seiceáil d'fhillteán turscair nó cur chun cinn, nó déan teagmháil linn ag {email}.",
-    "more": "Faigh amach faoi níos mó tástálacha"
+    "more": "Faigh amach faoi níos mó tástálacha",
+    "bundleTitle": "Do chéad tuarascáil eile ar {price}",
+    "bundleText": "Roghnaigh triail eile thíos agus déan í laistigh de {days} lá. Cosnóidh an tuarascáil iomlán {price} in ionad {full} ansin. Bailí do thuarascáil bhreise amháin."
   },
   "report": {
     "subject": "Do thuarascáil: {test}",

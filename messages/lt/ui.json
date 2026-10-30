@@ -228,13 +228,16 @@
     "takeTest": "Atlikti testą",
     "crisisTitle": "Jūs ne vieni",
     "crisisText": "Nurodėte, kad jums kilo minčių, jog būtų geriau, jei būtumėte mirę, arba minčių susižaloti. Prašome šiandien pasikalbėti su kuo nors. Jei jums gresia tiesioginis pavojus, skambinkite 112. Bet kuriuo paros metu taip pat galite kreiptis į savo šalies krizių liniją, pavyzdžiui, nurodytą svetainėje findahelpline.com.",
-    "crisisLink": "Raskite pagalbos liniją netoliese"
+    "crisisLink": "Raskite pagalbos liniją netoliese",
+    "bundleNote": "Rinkinio kaina: {price} vietoj {full}"
   },
   "thanks": {
     "title": "Ačiū už pirkinį!",
     "text": "Jūsų asmeninė ataskaita jau keliauja į jūsų el. paštą. Paprastai ji atkeliauja per minutę.",
     "spam": "Negavote per 10 minučių? Patikrinkite šlamšto arba reklamų aplanką arba susisiekite su mumis adresu {email}.",
-    "more": "Atraskite daugiau testų"
+    "more": "Atraskite daugiau testų",
+    "bundleTitle": "Kita jūsų ataskaita už {price}",
+    "bundleText": "Žemiau pasirinkite dar vieną testą ir atlikite jį per {days} dienų. Visa ataskaita tada kainuos {price}, o ne {full}. Galioja vienai papildomai ataskaitai."
   },
   "report": {
     "subject": "Jūsų testo „{test}“ ataskaita",

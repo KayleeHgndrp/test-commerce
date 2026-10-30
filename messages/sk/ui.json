@@ -228,13 +228,16 @@
     "takeTest": "Vyplniť test",
     "crisisTitle": "Nie ste na to sami",
     "crisisText": "Z vašich odpovedí vyplýva, že vás napadlo, že by bolo lepšie nežiť, alebo že by ste si mohli ublížiť. Prosím, porozprávajte sa s niekým ešte dnes. Ak ste v bezprostrednom nebezpečenstve, zavolajte na 112. Kedykoľvek cez deň aj v noci sa môžete obrátiť aj na krízovú linku vo svojej krajine, napríklad z prehľadu na findahelpline.com.",
-    "crisisLink": "Nájdite linku pomoci vo svojom okolí"
+    "crisisLink": "Nájdite linku pomoci vo svojom okolí",
+    "bundleNote": "Cena v balíku: {price} namiesto {full}"
   },
   "thanks": {
     "title": "Ďakujeme za nákup!",
     "text": "Vaša osobná správa je na ceste do vašej schránky. Zvyčajne príde do minúty.",
     "spam": "Neprišla ani po 10 minútach? Skontrolujte priečinok so spamom alebo s reklamnou poštou, alebo nám napíšte na {email}.",
-    "more": "Objaviť ďalšie testy"
+    "more": "Objaviť ďalšie testy",
+    "bundleTitle": "Vaša ďalšia správa za {price}",
+    "bundleText": "Vyberte si nižšie ďalší test a urobte ho do {days} dní. Celá správa potom stojí {price} namiesto {full}. Platí pre jednu ďalšiu správu."
   },
   "report": {
     "subject": "Vaša správa: {test}",

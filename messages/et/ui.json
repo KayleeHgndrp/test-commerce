@@ -228,13 +228,16 @@
     "takeTest": "Tee test",
     "crisisTitle": "Sa ei ole üksi",
     "crisisText": "Märkisid, et sul on olnud mõtteid, et oleksid parem surnud, või mõtteid endale haiget teha. Palun räägi kellegagi juba täna. Kui oled vahetus ohus, helista 112. Võid ka igal kellaajal pöörduda oma riigi kriisitelefonile, näiteks nende hulgast, mis on loetletud lehel findahelpline.com.",
-    "crisisLink": "Leia lähim abitelefon"
+    "crisisLink": "Leia lähim abitelefon",
+    "bundleNote": "Paketihind: {price}, mitte {full}"
   },
   "thanks": {
     "title": "Aitäh ostu eest!",
     "text": "Sinu isiklik raport on teel sinu postkasti. Tavaliselt jõuab see kohale minuti jooksul.",
     "spam": "Pole 10 minuti jooksul kätte saanud? Vaata rämpsposti või reklaamide kausta või kirjuta meile aadressil {email}.",
-    "more": "Avasta veel teste"
+    "more": "Avasta veel teste",
+    "bundleTitle": "Sinu järgmine raport hinnaga {price}",
+    "bundleText": "Vali allpool veel üks test ja tee see {days} päeva jooksul. Täielik raport maksab siis {price}, mitte {full}. Kehtib ühe lisaraporti kohta."
   },
   "report": {
     "subject": "Sinu raport: {test}",
