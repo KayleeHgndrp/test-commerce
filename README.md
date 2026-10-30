@@ -1,7 +1,7 @@
 # Testora – multilingual online tests
 
 Next.js 16 site with 100-question psychological tests in 32 European languages. Taking a test is free;
-the detailed personal report costs €1.25 and is emailed after payment via Stripe.
+the detailed personal report costs €3.95 and is emailed after payment via Stripe.
 
 ## Getting started
 
@@ -59,7 +59,7 @@ See `docs/CONTENT_SPEC.md` for the content format.
    `checkout.session.async_payment_succeeded`; copy the signing secret into `STRIPE_WEBHOOK_SECRET`.
 3. Settings → Payment methods: enable cards, iDEAL, Bancontact, etc.
 4. EU VAT: register for the OSS scheme, activate Stripe Tax (Settings → Tax), then set `STRIPE_AUTOMATIC_TAX=true`.
-   The €1.25 price is VAT-inclusive; Stripe applies the customer country's rate.
+   The €3.95 price is VAT-inclusive; Stripe applies the customer country's rate.
 5. Do one real test purchase and refund it.
 
 **4. Email (SMTP)**

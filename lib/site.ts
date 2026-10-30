@@ -11,7 +11,7 @@ export const site = {
     representative: process.env.COMPANY_REPRESENTATIVE ?? "",
   },
   // Report price in the smallest currency unit (cents).
-  priceCents: Number(process.env.NEXT_PUBLIC_REPORT_PRICE_CENTS ?? 125),
+  priceCents: Number(process.env.NEXT_PUBLIC_REPORT_PRICE_CENTS ?? 395),
   currency: (process.env.NEXT_PUBLIC_REPORT_CURRENCY ?? "eur").toLowerCase(),
 };
 
