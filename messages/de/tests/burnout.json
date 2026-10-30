@@ -2,7 +2,7 @@
   "name": "Burnout-Test",
   "tagline": "Finde heraus, wie nah du einem Burnout bist.",
   "intro": "Dieser Test betrachtet die drei klassischen Anzeichen von Burnout: Erschöpfung, wachsende Distanz zur Arbeit und ein schwindendes Gefühl, etwas zu leisten. Antworte danach, wie du dich im letzten Monat gefühlt hast. Das dauert etwa fünf Minuten und gibt dir ein klares Bild davon, wohin deine Energie fließt.",
-  "seoTitle": "Burnout-Test – kostenloser Online-Check",
+  "seoTitle": "Burnout-Test: kostenloser Online-Check",
   "seoDescription": "Steuerst du auf ein Burnout zu? Mach den 5-Minuten-Test zu Erschöpfung, Zynismus und Motivation und erhalte einen Bericht mit praktischen Tipps.",
   "items": [
     "Meine Arbeit laugt mich emotional aus.",
@@ -117,7 +117,7 @@
     "cynicism": {
       "name": "Distanzierung",
       "short": "Wie viel Distanz und Zynismus du gegenüber deiner Arbeit empfindest.",
-      "low": "Du fühlst dich deiner Arbeit und den Menschen um dich herum noch verbunden. Deine Arbeit scheint dir etwas zu bedeuten – das ist einer der stärksten Schutzfaktoren gegen Burnout. Investiere weiter in die Teile deines Jobs, die dir Sinn geben, und in gute Beziehungen im Team. Es hilft auch, darauf zu achten, was dich motiviert hält, damit du es schützen kannst, wenn dein Arbeitspensum wächst oder sich deine Organisation verändert.",
+      "low": "Du fühlst dich deiner Arbeit und den Menschen um dich herum noch verbunden. Deine Arbeit scheint dir etwas zu bedeuten, das ist einer der stärksten Schutzfaktoren gegen Burnout. Investiere weiter in die Teile deines Jobs, die dir Sinn geben, und in gute Beziehungen im Team. Es hilft auch, darauf zu achten, was dich motiviert hält, damit du es schützen kannst, wenn dein Arbeitspensum wächst oder sich deine Organisation verändert.",
       "mid": "In dein Verhältnis zur Arbeit hat sich etwas Distanz eingeschlichen. Vielleicht bemerkst du mehr Gereiztheit, weniger Interesse oder eine Neigung, Dinge einfach abzuarbeiten, ohne dass sie dir viel bedeuten. Das ist oft eine Art, dich vor Überlastung zu schützen. Versuche, dich wieder mit dem zu verbinden, was dich ursprünglich an deiner Arbeit gereizt hat, und sprich Frust offen an, statt ihn sich aufstauen zu lassen.",
       "high": "Du scheinst dich stark von deiner Arbeit zurückgezogen zu haben. Zynismus, Gereiztheit oder Gleichgültigkeit können ein Zeichen dafür sein, dass du schon eine Weile auf Reserve läufst. Das ist keine Charakterschwäche, sondern ein Warnsignal. Denk darüber nach, was sich verändert hat, und besprich es mit einem Menschen, dem du vertraust. Wenn diese Gefühle mit gedrückter Stimmung oder Erschöpfung einhergehen, sprich bitte mit einer Ärztin, einem Arzt oder einer anderen qualifizierten Fachperson."
     },

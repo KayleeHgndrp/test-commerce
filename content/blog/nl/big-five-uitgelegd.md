@@ -11,7 +11,7 @@ tags: [big five, persoonlijkheid, ocean]
 # imageAlt: "Vijf gekleurde blokken die de Big Five-kenmerken voorstellen"
 
 # ── SEO ─────────────────────────────────────────────────
-seoTitle: "Big Five persoonlijkheid uitgelegd – de 5 kenmerken"
+seoTitle: "Big Five persoonlijkheid uitgelegd: de 5 kenmerken"
 metaDescription: "Wat betekenen de vijf Big Five-kenmerken en wat zeggen ze over jou? Heldere uitleg met voorbeelden, plus een gratis test om je eigen profiel te zien."
 keywords: [big five, ocean model, persoonlijkheidskenmerken]
 # canonical: https://example.com/originele-url

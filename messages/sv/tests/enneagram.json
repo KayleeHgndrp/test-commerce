@@ -2,7 +2,7 @@
   "name": "Enneagramtest",
   "tagline": "Upptäck den grundläggande drivkraften bakom hur du tänker och handlar.",
   "intro": "Enneagrammet beskriver nio personlighetstyper, var och en driven av en egen grundläggande motivation och en egen grundrädsla. Det här testet mäter hur starkt du identifierar dig med vart och ett av de nio mönstren och lyfter fram det som passar dig bäst. Ta ställning till 100 korta påståenden; det tar ungefär fem minuter.",
-  "seoTitle": "Enneagramtest – Gratis test med 9 personlighetstyper",
+  "seoTitle": "Enneagramtest: Gratis test med 9 personlighetstyper",
   "seoDescription": "Vilken av enneagrammets nio typer är du? Gör det gratis 5-minuterstestet, se dina resultat för alla nio typer och få utvecklingstips för din huvudtyp.",
   "items": [
     "Jag har en stark inre röst som säger vad som är rätt.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Typ 1 – Perfektionisten",
+      "name": "Typ 1: Perfektionisten",
       "short": "Drivs av en önskan att vara god, göra rätt och förbättra världen; fruktar att ha fel eller vara bristfällig.",
       "low": "Perfektionistmönstret spelar bara en liten roll för dig. Du är avslappnad inför regler och misstag och känner ingen stark inre kritiker som driver dig att få allt rätt. Det låter dig följa med strömmen och förlåta lätt. Tips: inom områden där kvalitet verkligen spelar roll, som hälsa eller ekonomi, kan lite mer struktur och detaljfokus gynna dig. Fundera på om avslappnad ibland innebär att viktiga standarder får glida.",
       "mid": "Du känner igen vissa perfektionistdrag. Du bryr dig om att göra saker ordentligt och kan vara självkritisk, men du vet också när tillräckligt bra räcker. Din känsla för rätt och fel vägleder dig utan att dominera dig. Tips: lägg märke till när din inre kritiker blir högljuddare, ofta under stress, och svara den vänligt. Välj medvetet var höga krav tillför värde och var flexibilitet gör livet lättare.",
       "high": "Perfektionistmönstret är starkt hos dig. Du är principfast, samvetsgrann och driven att förbättra dig själv och världen. Din grundrädsla är att ha fel, vara dålig eller bristfällig, så en sträng inre kritiker håller dig ofta i schack. Du tillför integritet och kvalitet till allt du gör. Tips: öva på att acceptera ofullkomlighet, både hos dig själv och andra; misstag är en del av lärandet. Tillåt dig njutning och lek utan att först förtjäna det. Utveckling sker när du litar på att du redan är tillräckligt bra."
     },
     "type2": {
-      "name": "Typ 2 – Hjälparen",
+      "name": "Typ 2: Hjälparen",
       "short": "Drivs av en önskan att vara älskad och behövd; fruktar att vara oönskad eller ovärdig kärlek.",
       "low": "Hjälparmönstret spelar en mindre roll för dig. Du bygger inte din identitet kring att vara behövd och är bekväm med att fokusera på ditt eget liv. Det skyddar dig från att ge för mycket. Tips: se till att dina närmaste ändå känner din omtanke; små gester, som att höra av dig eller erbjuda hjälp utan att bli tillfrågad, håller relationerna varma. Lägg märke till när självständighet blir till distans.",
       "mid": "Du känner igen vissa hjälpardrag. Du tycker om att stötta andra och gillar att bli uppskattad, men du kan också sätta dig själv först när det behövs. Din värme balanseras av självrespekt. Tips: lägg märke till om du ibland hjälper till för att bli omtyckt snarare än för att du vill. Öva på att be direkt om det du behöver i stället för att hoppas att andra ska märka det. Människor som bryr sig om dig välkomnar oftast chansen att ge något tillbaka.",
       "high": "Hjälparmönstret är starkt hos dig. Du är varm, generös och lyhörd för vad andra behöver, och du känner dig mest värdefull när du hjälper till. Din grundrädsla är att vara oälskad eller oönskad. Människor upplever dig som omtänksam och stöttande. Tips: dina egna behov är lika legitima som alla andras, så sätt ord på dem öppet. Hjälp för att du väljer det, inte för att säkra kärlek. Utveckling sker när du låter andra ta hand om dig också och litar på att du är älskvärd utan att ge."
     },
     "type3": {
-      "name": "Typ 3 – Presteraren",
+      "name": "Typ 3: Presteraren",
       "short": "Drivs av en önskan att lyckas och bli beundrad; fruktar att vara värdelös eller misslyckad.",
       "low": "Presterarmönstret spelar bara en liten roll för dig. Status, image och yttre framgång är inte dina främsta drivkrafter, och du mäter inte ditt värde efter vad du åstadkommer. Det ger dig frihet från jämförelser. Tips: om du har mål som du bryr dig om kan lite ambition och synliga framsteg hjälpa dig att nå dem. Låt andra se dina prestationer; blygsamhet ska inte dölja dina styrkor.",
       "mid": "Du känner igen vissa presterardrag. Du vill gärna lyckas och uppskattar erkännande, men din känsla av värde hänger inte helt på framgång. Du kan arbeta hårt mot mål och ändå njuta av ledig tid. Tips: fundera på om målen du jagar verkligen är dina egna eller vad andra förväntar sig. Fira framgångar, och ta sedan också tid att njuta av livet utanför prestationerna, med människor som tycker om dig oavsett dina resultat.",
       "high": "Presterarmönstret är starkt hos dig. Du är ambitiös, effektiv och fokuserad på framgång, och du vet hur du presenterar dig väl. Din grundrädsla är att vara värdelös utan dina prestationer. Du motiverar andra och får saker gjorda. Tips: lägg märke till när du anpassar din image för att behaga andra eller arbetar för att slippa känna dig tom. Ägna tid åt aktiviteter helt utan mål. Utveckling sker när du värdesätter dig själv för den du är, inte för vad du uppnår."
     },
     "type4": {
-      "name": "Typ 4 – Individualisten",
+      "name": "Typ 4: Individualisten",
       "short": "Drivs av en önskan att vara unik och äkta; fruktar att sakna identitet eller betydelse.",
       "low": "Individualistmönstret spelar en mindre roll för dig. Du känner inget starkt behov av att vara annorlunda eller utforska varje känsla på djupet, och du är bekväm med att passa in. Det håller dig jordnära och praktisk. Tips: ge lite utrymme åt självuttryck, som en kreativ hobby eller ärliga samtal om känslor. Att utforska vad som gör dig unik kan ge ditt liv mer rikedom.",
       "mid": "Du känner igen vissa individualistdrag. Du värdesätter äkthet och har ett rikt inre liv, men du känner dig inte i grunden annorlunda än andra. Du kan uttrycka känslor och ändå behålla perspektivet. Tips: använd din känslighet kreativt, till exempel genom skrivande eller konst. När du känner dig missförstådd, fundera på om du faktiskt har berättat vad du känner. Andra bryr sig ofta mer än du tror när de väl förstår din inre värld.",
       "high": "Individualistmönstret är starkt hos dig. Du är känslig, uttrycksfull och har djup kontakt med dina känslor, och du längtar efter att vara äkta och förstådd. Din grundrädsla är att sakna verklig identitet eller betydelse. Du tillför djup, kreativitet och ärlighet kring känslor. Tips: lägg märke till när du fokuserar på det som saknas snarare än det du har. Tacksamhetsövningar och praktiska rutiner kan stabilisera ditt humör. Utveckling sker när du inser att vardagliga stunder och relationer också kan vara meningsfulla."
     },
     "type5": {
-      "name": "Typ 5 – Utforskaren",
+      "name": "Typ 5: Utforskaren",
       "short": "Drivs av en önskan att förstå och vara kompetent; fruktar att vara hjälplös eller överväldigad.",
       "low": "Utforskarmönstret spelar bara en liten roll för dig. Du känner inget starkt behov av att dra dig tillbaka och analysera innan du handlar, och du delar lätt med dig av din tid och energi. Det gör dig tillgänglig och engagerad. Tips: inför komplexa beslut, ge dig själv lite lugn tid att undersöka innan du kastar dig in. Att fördjupa dina kunskaper inom ett område du bryr dig om kan bygga självförtroende och expertis.",
       "mid": "Du känner igen vissa utforskardrag. Du tycker om att lära dig och behöver lite egentid, men du kan också engagera dig aktivt i människor och världen. Du värdesätter kunskap utan att gömma dig bakom den. Tips: lägg märke till när du drar dig tillbaka för att iaktta i stället för att delta, särskilt i relationer. Att dela med dig av det du vet, även innan du känner dig helt redo, kan vara givande och ger ofta användbar återkoppling och kontakt.",
       "high": "Utforskarmönstret är starkt hos dig. Du är nyfiken, skarpsynt och självständig, och du vill förstå världen på djupet. Din grundrädsla är att vara hjälplös, oförmögen eller dränerad av andras krav, så du vaktar noga din tid och energi. Du tillför insikt och expertis. Tips: lägg märke till när kunskapsinsamling blir ett sätt att undvika handling eller känslor. Ta små steg innan du känner dig helt förberedd. Utveckling sker när du litar på att du har tillräckligt för att engagera dig fullt ut i livet och i människor."
     },
     "type6": {
-      "name": "Typ 6 – Den lojala",
+      "name": "Typ 6: Den lojala",
       "short": "Drivs av en önskan om trygghet och stöd; fruktar att stå utan vägledning eller säkerhet.",
       "low": "Det lojala mönstret spelar en mindre roll för dig. Du oroar dig inte särskilt mycket för vad som kan gå fel och känner dig trygg utan att behöva stark vägledning eller bekräftelse. Det låter dig handla djärvt. Tips: inför stora beslut, överväg medvetet möjliga risker eller fråga någon mer försiktig om deras syn. Lojalitet och förberedelse kan också vara styrkor värda att utveckla, särskilt i team som förlitar sig på att du tänker framåt.",
       "mid": "Du känner igen vissa lojala drag. Du värdesätter trygghet och pålitliga relationer och kan upptäcka risker, men dina tvivel håller dig sällan tillbaka. Du balanserar försiktighet med självförtroende. Tips: när oron börjar växa, skilj realistiska risker från tänk om-scenarier. Lita oftare på ditt eget omdöme i stället för att söka bekräftelse. Varje gång du agerar på det växer tilliten till din egen inre kompass.",
       "high": "Det lojala mönstret är starkt hos dig. Du är lojal, ansvarstagande och vaksam på risker, och du värdesätter tillit och trygghet högt. Din grundrädsla är att stå utan stöd eller vägledning i en farlig värld. Du är en pålitlig lagmedlem som förbereder dig på problem som andra förbiser. Tips: lägg märke till när oro får dig att överplanera eller tvivla på alla, även dig själv. Öva på att agera på ditt eget omdöme i små steg. Utveckling sker när du upptäcker den inre trygghet du har sökt utanför dig själv."
     },
     "type7": {
-      "name": "Typ 7 – Entusiasten",
+      "name": "Typ 7: Entusiasten",
       "short": "Drivs av en önskan om frihet och glädje; fruktar att fastna i smärta eller umbäranden.",
       "low": "Entusiastmönstret spelar bara en liten roll för dig. Du söker inte ständigt nya upplevelser och kan stanna kvar vid en sak, även när den inte är spännande. Det ger dig fokus och djup. Tips: tillåt dig lite spontanitet då och då, som en kort resa eller en ny hobby. Lite lekfullhet kan ge ny energi åt dig och dina relationer.",
       "mid": "Du känner igen vissa entusiastdrag. Du tycker om skoj, variation och nya planer, men du kan också förbinda dig och stanna kvar i svåra känslor. Du balanserar optimism med realism och kan njuta av både äventyr och lugn. Tips: lägg märke till när du tar till distraktioner för att undvika något obekvämt. Att avsluta ett projekt innan du påbörjar nästa gör att din entusiasm lönar sig och ger dig den djupare tillfredsställelsen av att bli klar.",
       "high": "Entusiastmönstret är starkt hos dig. Du är optimistisk, äventyrlig och full av idéer, och du älskar att hålla alternativen öppna. Din grundrädsla är att fastna i smärta, tristess eller begränsningar, så du går ofta snabbt vidare till nästa spännande sak. Du sprider energi och glädje vart du än går. Tips: öva på att stanna kvar i svåra känslor i stället för att fly från dem. Välj ut några åtaganden och fullfölj dem. Utveckling sker när du hittar tillfredsställelse i djup, inte bara i variation."
     },
     "type8": {
-      "name": "Typ 8 – Utmanaren",
+      "name": "Typ 8: Utmanaren",
       "short": "Drivs av en önskan att vara stark och ha kontroll; fruktar att bli kontrollerad eller sårbar.",
       "low": "Utmanarmönstret spelar en mindre roll för dig. Du behöver inte ta kontroll eller bevisa din styrka, och du söker sällan konfrontation. Det gör dig lätt att samarbeta med. Tips: i situationer där du eller andra behandlas orättvist, öva på att säga ifrån bestämt. Att hävda dig är inte aggression; det är att skydda det som är viktigt. Börja i små situationer, som att tydligt uttrycka en preferens på ett möte.",
       "mid": "Du känner igen vissa utmanardrag. Du kan vara rak och beskyddande och tar befälet när det behövs, men du behöver inte dominera. Du visar styrka utan att förlora din lyhördhet. Tips: lägg märke till när du trycker på hårt för att slippa känna dig sårbar. Att låta människor se din mjukare sida kan fördjupa tilliten. Fråga andra hur din rakhet tas emot; deras svar kan hjälpa dig att använda din styrka klokare.",
       "high": "Utmanarmönstret är starkt hos dig. Du är självsäker, rak och beskyddande, och du tar naturligt befälet. Din grundrädsla är att bli kontrollerad, skadad eller sårbar, så du värdesätter styrka och oberoende. Du står upp för dig själv och andra och är inte rädd för konflikter. Tips: din intensitet kan överväldiga människor, så sänk volymen och lyssna färdigt innan du agerar. Öva på att visa sårbarhet för människor du litar på. Utveckling sker när du ser att öppenhet och mildhet också är former av styrka."
     },
     "type9": {
-      "name": "Typ 9 – Fredsmäklaren",
+      "name": "Typ 9: Fredsmäklaren",
       "short": "Drivs av en önskan om inre och yttre frid; fruktar konflikt och splittring.",
       "low": "Fredsmäklarmönstret spelar bara en liten roll för dig. Du drar dig inte för konflikter och står gärna upp för dina egna prioriteringar. Det håller dig aktiv och tydlig med vad du vill. Tips: när spänningarna stiger, öva på att lyssna på alla sidor innan du driver din egen linje. Ett lugnare tempo då och då kan hjälpa dig att se helheten.",
       "mid": "Du känner igen vissa fredsmäklardrag. Du värdesätter harmoni och kan se olika perspektiv, men du säger också ifrån när något är viktigt för dig. Du balanserar lugn med engagemang. Tips: lägg märke till när du följer med andra för att undvika friktion. Att säga vad du vill, även i små saker, håller dina relationer ärliga och hindrar tyst bitterhet från att byggas upp. Din syn tillför något som andra inte kan.",

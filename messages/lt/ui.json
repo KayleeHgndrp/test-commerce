@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – nemokami psichologiniai testai internete",
-    "description": "Išsamūs asmenybės, santykių, darbo ir gerovės testai — paremti psichologiniais tyrimais ir aiškiai paaiškinti."
+    "title": "{site}: nemokami psichologiniai testai internete",
+    "description": "Išsamūs asmenybės, santykių, darbo ir gerovės testai, paremti psichologiniais tyrimais ir aiškiai paaiškinti."
   },
   "nav": {
     "tests": "Testai",
@@ -14,13 +14,13 @@
     "badge": "Testų: {count} · Kalbų: {languages}",
     "heroTitle": "Testai, atskleidžiantys jūsų",
     "heroHighlight": "asmenybę",
-    "heroSubtitle": "Išsamūs asmenybės, santykių ir gerovės testai — kiekvienas paremtas pripažintais psichologiniais tyrimais ir paaiškintas aiškia kalba, kurią tikrai perskaitysite iki galo.",
+    "heroSubtitle": "Išsamūs asmenybės, santykių ir gerovės testai, kiekvienas paremtas pripažintais psichologiniais tyrimais ir paaiškintas aiškia kalba, kurią tikrai perskaitysite iki galo.",
     "heroCta": "Peržiūrėti testus",
     "heroSecondary": "Kaip tai veikia",
     "trust1": "Paskyros nereikia",
     "trust2": "Vienkartinis mokėjimas, jokios prenumeratos",
     "trust3": "Ataskaita tiesiai į jūsų el. paštą",
-    "dimensionsTitle": "Esate daugiau nei vienas balas – pažinkite visas savo puses.",
+    "dimensionsTitle": "Esate daugiau nei vienas balas. Pažinkite visas savo puses.",
     "dimensionsSubtitle": "Sritys, kurias mūsų testai matuoja dažniausiai: asmenybė, santykiai ir savijauta.",
     "dimensions": [
       "🎯 Dėmesio sutelkimas",
@@ -35,11 +35,11 @@
     ],
     "testsTitle": "Pasirinkite testą",
     "testsSubtitle": "Kiekvieną testą galite atlikti nemokamai. Rinkitės tą, kuris jums artimiausias.",
-    "howTitle": "Nuo pirmo klausimo iki išsamios ataskaitos – trys žingsniai",
+    "howTitle": "Nuo pirmo klausimo iki išsamios ataskaitos: trys žingsniai",
     "steps": [
       {
         "title": "Pasirinkite testą",
-        "text": "Rinkitės iš mūsų asmenybės, santykių ir patikros testų bibliotekos – kiekvienas paremtas pripažintais psichologiniais modeliais."
+        "text": "Rinkitės iš mūsų asmenybės, santykių ir patikros testų bibliotekos, kiekvienas paremtas pripažintais psichologiniais modeliais."
       },
       {
         "title": "Atlikite testą",
@@ -47,7 +47,7 @@
       },
       {
         "title": "Skaitykite ataskaitą",
-        "text": "Gaukite asmeninę ataskaitą su savo balais, jų reikšme ir praktiniais patarimais – tiesiai į el. paštą."
+        "text": "Gaukite asmeninę ataskaitą su savo balais, jų reikšme ir praktiniais patarimais, tiesiai į el. paštą."
       }
     ],
     "pricingTitle": "Paprastos kainos",
@@ -55,7 +55,7 @@
     "planFreeName": "Testo atlikimas",
     "planFreePrice": "Nemokamai",
     "planFreeFeatures": [
-      "Visi {count} testai – nemokamai",
+      "Visi {count} testai nemokami",
       "100 klausimų, apie 5 minutes",
       "Pažanga išsaugoma automatiškai",
       "Iškart matomos jūsų rezultatų sritys"
@@ -75,11 +75,11 @@
     "faq": [
       {
         "q": "Kas yra {site}?",
-        "a": "{site} – tai internetinė platforma su išsamiais savęs pažinimo testais apie asmenybę, santykius, darbą ir savijautą. Kiekvieną testą galite atlikti nemokamai, o norėdami sužinoti daugiau – užsisakyti išsamią asmeninę ataskaitą."
+        "a": "{site} yra internetinė platforma su išsamiais savęs pažinimo testais apie asmenybę, santykius, darbą ir savijautą. Kiekvieną testą galite atlikti nemokamai, o norėdami sužinoti daugiau, užsisakyti išsamią asmeninę ataskaitą."
       },
       {
         "q": "Kiek kainuoja testas?",
-        "a": "Atlikti testą nemokama. Išsami asmeninė ataskaita kainuoja {price}, mokama vieną kartą. Jokios prenumeratos – daugiau niekada nebus nuskaičiuota automatiškai."
+        "a": "Atlikti testą nemokama. Išsami asmeninė ataskaita kainuoja {price}, mokama vieną kartą. Jokios prenumeratos, todėl daugiau niekada nebus nuskaičiuota automatiškai."
       },
       {
         "q": "Kaip gausiu ataskaitą?",
@@ -87,7 +87,7 @@
       },
       {
         "q": "Ar galiu testą atlikti dar kartą?",
-        "a": "Taip, kiek tik norite. Pakartoti testą po kelių savaičių – puikus būdas pamatyti, kas pasikeitė. Kiekviena ataskaita yra atskiras vienkartinis pirkinys."
+        "a": "Taip, kiek tik norite. Pakartoti testą po kelių savaičių yra puikus būdas pamatyti, kas pasikeitė. Kiekviena ataskaita yra atskiras vienkartinis pirkinys."
       },
       {
         "q": "Ar tai medicininė diagnozė?",
@@ -136,7 +136,7 @@
     "resume": "Turite nebaigtą testą. Tęsti nuo ten, kur sustojote?",
     "resumeYes": "Tęsti",
     "resumeNo": "Pradėti iš naujo",
-    "genderTitle": "Pirmiausia – trumpas klausimas",
+    "genderTitle": "Pirmiausia trumpas klausimas",
     "genderQuestion": "Kokia jūsų lytis?",
     "genderMale": "Vyras",
     "genderFemale": "Moteris",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Ar {test} yra nemokamas?",
-        "a": "Taip, atlikti testą nemokama. Jei norite išsamios asmeninės ataskaitos su visais balais ir paaiškinimais, galite ją užsisakyti už {price}, mokant vieną kartą – jokios prenumeratos."
+        "a": "Taip, atlikti testą nemokama. Jei norite išsamios asmeninės ataskaitos su visais balais ir paaiškinimais, galite ją užsisakyti už {price}, mokant vieną kartą, be jokios prenumeratos."
       },
       {
         "q": "Kiek patikimas yra {test}?",
@@ -215,7 +215,7 @@
     "mainType": "Jūsų pagrindinis tipas",
     "locked": "Užrakinta",
     "unlockTitle": "Gaukite išsamią ataskaitą",
-    "unlockText": "Išsami ataskaita su visais balais, asmeninėmis interpretacijomis ir praktiniais patarimais – į jūsų el. paštą.",
+    "unlockText": "Išsami ataskaita su visais balais, asmeninėmis interpretacijomis ir praktiniais patarimais, į jūsų el. paštą.",
     "emailLabel": "El. pašto adresas",
     "emailPlaceholder": "jusu@pavyzdys.lt",
     "consent": "Sutinku su taisyklėmis ir privatumo politika ir prašau ataskaitą pateikti nedelsiant. Suprantu, kad išsiuntus ataskaitą prarandu teisę atsisakyti sutarties.",
@@ -307,7 +307,7 @@
     "termsBody": [
       "Visi {site} testai skirti savirefleksijai ir pramogai. Jie nėra medicininė, psichologinė ar profesinė diagnozė.",
       "Atlikti testą nemokama. Asmeninė ataskaita kainuoja {price} už testą, mokant vieną kartą. Taip pat galite įsigyti 3 ataskaitų paketą, prieigą prie visų ataskaitų arba poros ataskaitą, kuri lygina du žmones, atlikusius tą patį testą. Tai taip pat vienkartiniai mokėjimai. Ataskaitos pristatomos skaitmeniniu būdu el. paštu.",
-      "Kadangi ataskaita yra skaitmeninis turinys, pateikiamas iškart po apmokėjimo, sutinkate, kad teisė atsisakyti sutarties išnyksta, kai ataskaita išsiunčiama. Jei ataskaitos negavote, susisiekite adresu {email} – išsiųsime ją dar kartą arba grąžinsime pinigus.",
+      "Kadangi ataskaita yra skaitmeninis turinys, pateikiamas iškart po apmokėjimo, sutinkate, kad teisė atsisakyti sutarties išnyksta, kai ataskaita išsiunčiama. Jei ataskaitos negavote, susisiekite adresu {email}, ir mes išsiųsime ją dar kartą arba grąžinsime pinigus.",
       "Stengiamės, kad turinys būtų tikslus, tačiau negalime garantuoti, kad rezultatai bus išsamūs ar teisingi kiekvienam asmeniui."
     ],
     "cookiesTitle": "Slapukų politika",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Apie {site}",
-    "intro": "Tikime, kad kiekvienas nusipelno aiškaus ir sąžiningo žvilgsnio į save – be žargono, be prenumeratų ir be keturių raidžių etiketės, kuri nieko nepaaiškina.",
+    "intro": "Tikime, kad kiekvienas nusipelno aiškaus ir sąžiningo žvilgsnio į save, be žargono, be prenumeratų ir be keturių raidžių etiketės, kuri nieko nepaaiškina.",
     "missionTitle": "Mūsų misija",
     "mission": "Psichologija sukūrė galingų būdų apibūdinti asmenybę, santykius ir savijautą, tačiau dauguma šių žinių lieka užrakintos vadovėliuose arba brangiuose vertinimuose. {site} jas padaro prieinamas: išsamūs testai, kuriuos kiekvienas gali atlikti nemokamai ir savo kalba, su asmenine ataskaita, kuri paprastais žodžiais paaiškina jūsų rezultatus ir pasiūlo praktinių tolesnių žingsnių.",
     "howTitle": "Kaip kuriame savo testus",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Parašyta tam, kad būtų skaitoma",
-        "text": "Mūsų ataskaitos paaiškina, ką reiškia kiekvienas balas, iš kur jis kyla ir ką su juo galite daryti. Jokio žargono ir jokių miglotų horoskopo frazių – tik aiškios, praktiškos įžvalgos."
+        "text": "Mūsų ataskaitos paaiškina, ką reiškia kiekvienas balas, iš kur jis kyla ir ką su juo galite daryti. Jokio žargono ir jokių miglotų horoskopo frazių. Tik aiškios, praktiškos įžvalgos."
       }
     ],
     "valuesTitle": "Kuo galite pasikliauti",
@@ -372,7 +372,7 @@
         "text": "Už norimą ataskaitą vieną kartą sumokate {price}. Niekas neatsinaujina, vėliau nieko nenuskaičiuojama."
       },
       {
-        "title": "Privatumas – svarbiausia",
+        "title": "Privatumas svarbiausia",
         "text": "Jūsų atsakymai naudojami tik rezultatui apskaičiuoti. Duomenų neparduodame ir reklamų nerodome."
       },
       {

@@ -2,7 +2,7 @@
   "name": "Autizmus spektrum teszt",
   "tagline": "Nézd meg, jellemzőek-e rád az autizmus spektrumon gyakori vonások.",
   "intro": "Ez a szűrőteszt a felnőttkori autisztikus vonásokhoz kapcsolódó négy területet vizsgál: a társas interakciót, a kommunikációt, az érzékszervi érzékenységet, valamint a rutinokat és a fókuszált érdeklődési köröket. Az alapján válaszolj, amilyen általában vagy, nem pedig az alapján, amilyen szeretnél lenni. Körülbelül öt percet vesz igénybe, és nem diagnózis, de segíthet eldönteni, érdemes-e szakmai kivizsgálást kérned.",
-  "seoTitle": "Autizmus spektrum teszt – Ingyenes felnőtt autizmusszűrés",
+  "seoTitle": "Autizmus spektrum teszt: Ingyenes felnőtt autizmusszűrés",
   "seoDescription": "Felismersz magadon autisztikus vonásokat? Töltsd ki az 5 perces felnőtt szűrést a társas, kommunikációs, érzékszervi és rutinvonásokról.",
   "items": [
     "Bizonyos hangok sokkal jobban zavarnak, mint másokat.",
@@ -118,7 +118,7 @@
       "name": "Kommunikáció",
       "short": "Hogyan dolgozod fel és használod a nyelvet, a hangnemet, a célzásokat és a nonverbális jelzéseket.",
       "low": "A válaszaid alapján viszonylag könnyedén kommunikálsz. Úgy tűnik, különösebb erőfeszítés nélkül veszed a célzásokat, a hangnemet és a humort, és a különböző emberekhez igazítod a stílusodat. Félreértések mindenkivel előfordulnak, de nálad ez nem tűnik visszatérő mintának. A rugalmas kommunikációs stílusod valódi erősség a munkában és a kapcsolatokban. Ha valaha félreértve érzed magad, egy tisztázó kérdés általában gyorsan rendezi a helyzetet.",
-      "mid": "A válaszaid vegyes képet mutatnak. A kommunikáció bizonyos aspektusai – például a homályos utasítások, a pörgős csoportos beszélgetések vagy az érzések kifejezése – több erőfeszítést igényelhetnek, mint mások. Segíthet, ha közvetlenül kérsz pontosítást, és elmondod az embereknek, hogy a világos, konkrét információt kedveled. Ha egy fontos beszélgetés előtt leírod a gondolataidat, az is könnyebbé és kevésbé fárasztóvá teheti. Figyeld meg, mely helyzetek működnek számodra a legjobban, és keresd őket.",
+      "mid": "A válaszaid vegyes képet mutatnak. A kommunikáció bizonyos aspektusai (például a homályos utasítások, a pörgős csoportos beszélgetések vagy az érzések kifejezése) több erőfeszítést igényelhetnek, mint mások. Segíthet, ha közvetlenül kérsz pontosítást, és elmondod az embereknek, hogy a világos, konkrét információt kedveled. Ha egy fontos beszélgetés előtt leírod a gondolataidat, az is könnyebbé és kevésbé fárasztóvá teheti. Figyeld meg, mely helyzetek működnek számodra a legjobban, és keresd őket.",
       "high": "A válaszaid alapján gyakran másként dolgozod fel a kommunikációt, mint a körülötted lévők: lehet, hogy szó szerint érted a szavakat, az egyenességet kedveled, vagy nehezen olvasod le a hangnemet és a célzásokat. Ez jól ismert minta az autizmus spektrumon, és nem hiba, csupán más stílus. Ha gyakori félreértéseket vagy stresszt okoz, fontold meg, hogy beszélsz egy képzett szakemberrel. Ha elmagyarázod a hozzád közel állóknak a kommunikációs preferenciáidat, az is sok konfliktust előzhet meg."
     },
     "sensory": {

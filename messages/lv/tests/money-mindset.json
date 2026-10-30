@@ -1,8 +1,8 @@
 {
   "name": "Naudas domāšanas tests",
   "tagline": "Atklāj savu naudas personību un tai piemērotus ieradumus.",
-  "intro": "Šis tests atklāj tavu naudas domāšanu: attieksmi un ieradumus, kas nosaka, kā tu pelni, tērē, krāj un domā par naudu. Tas salīdzina piecas naudas personības – Taupītāju, Tērētāju, Izvairītāju, Statusa meklētāju un Drošības meklētāju – un parāda, kura tev atbilst vislabāk. Atbildi godīgi, balstoties uz to, kā parasti rīkojies. Tas aizņem apmēram piecas minūtes un sniedz konkrētus naudas ieradumus, kas atbilst tavam stilam.",
-  "seoTitle": "Naudas domāšanas tests – atklāj savu naudas personību",
+  "intro": "Šis tests atklāj tavu naudas domāšanu: attieksmi un ieradumus, kas nosaka, kā tu pelni, tērē, krāj un domā par naudu. Tas salīdzina piecas naudas personības (Taupītāju, Tērētāju, Izvairītāju, Statusa meklētāju un Drošības meklētāju) un parāda, kura tev atbilst vislabāk. Atbildi godīgi, balstoties uz to, kā parasti rīkojies. Tas aizņem apmēram piecas minūtes un sniedz konkrētus naudas ieradumus, kas atbilst tavam stilam.",
+  "seoTitle": "Naudas domāšanas tests: atklāj savu naudas personību",
   "seoDescription": "Taupītājs, tērētājs vai izvairītājs? Izpildi bezmaksas 5 minūšu naudas domāšanas testu, atklāj savu naudas personību un saņem praktiskus finanšu ieradumus.",
   "items": [
     "Man patīk vērot, kā aug mani uzkrājumi.",
@@ -23,7 +23,7 @@
     "Man ir vienalga, ko citi domā par manām mantām.",
     "Stabilu darbu vērtēju augstāk par lielāku, bet riskantāku algu.",
     "Atlieku naudu malā, tiklīdz saņemu algu.",
-    "Man ļoti patīk iepirkties – tiešsaistē vai veikalos.",
+    "Man ļoti patīk iepirkties, tiešsaistē vai veikalos.",
     "Regulāri pārbaudu savus kontus.",
     "Man ir ērti uzņemties lielus finansiālus riskus.",
     "Tēriņi nebūtiskām lietām man rada vainas sajūtu.",
@@ -118,7 +118,7 @@
       "name": "Tērētājs",
       "short": "Patīk izmantot naudu priekiem, lutināšanai, piedzīvojumiem un devīgumam.",
       "low": "Tērēšana tevi īpaši neaizrauj. Tu diez vai pērc impulsīvi un, visticamāk, rūpīgi apdomā pirkumus. Tas labi sargā tavas finanses. Tikai parūpējies, lai reizēm atļautos arī baudīt savu naudu: piedzīvojumi, dāvanas un mazi prieki var piešķirt dzīvei īstu vērtību. Apsver iespēju katru mēnesi ieplānot vienu apzinātu prieku, ko gaidi ar nepacietību un baudi bez šaubām.",
-      "mid": "Tev patīk tērēt, bet parasti tu to dari robežās. Prieki un piedzīvojumi tev ir svarīgi, tomēr tu seko līdzi arī kopainai. Lai saglabātu līdzsvaru, izmanto vienkāršu gaidīšanas noteikumu: nebūtiskiem pirkumiem virs noteiktas summas pirms pirkšanas nogaidi 48 stundas. Ja joprojām to gribi – pērc. Katru mēnesi pārbaudi arī bankas izrakstu, lai redzētu, vai tavi tēriņi atbilst tam, ko patiesi vērtē.",
+      "mid": "Tev patīk tērēt, bet parasti tu to dari robežās. Prieki un piedzīvojumi tev ir svarīgi, tomēr tu seko līdzi arī kopainai. Lai saglabātu līdzsvaru, izmanto vienkāršu gaidīšanas noteikumu: nebūtiskiem pirkumiem virs noteiktas summas pirms pirkšanas nogaidi 48 stundas. Ja joprojām to gribi, pērc. Katru mēnesi pārbaudi arī bankas izrakstu, lai redzētu, vai tavi tēriņi atbilst tam, ko patiesi vērtē.",
       "high": "Tavas atbildes liecina, ka Tērētājs ir spēcīga tavas naudas personības daļa. Tev patīk iepirkties, lutināt sevi un piedzīvot, un tērēšana var uzlabot tavu garastāvokli. Devīgums un prieks par dzīvi ir īstas stiprās puses, taču impulsīvi pirkumi var atstāt tevi bez naudas pirms mēneša beigām. Pamēģini atsevišķu 'izklaides naudas' kontu ar noteiktu ikmēneša summu un atsakies no veikalu jaunumu vēstulēm. Ja tēriņus ir grūti kontrolēt, tie noved pie parādiem vai ietekmē tavu labsajūtu, var palīdzēt kvalificēts finanšu konsultants vai cits speciālists."
     },
     "avoider": {
@@ -143,5 +143,5 @@
       "high": "Tavas atbildes liecina, ka Drošības meklētājs ir spēcīga tavas naudas personības daļa. Drošības spilveni, stabili ienākumi un izvairīšanās no riska tev ir ļoti svarīgi. Tas padara tevi sagatavotu un noturīgu. Risks ir tas, ka raizes par nākotni izspiež prieku par tagadni vai ka pārmērīga piesardzība ierobežo izaugsmi. Kad tavs ārkārtas fonds ir izveidots, apsver iespēju uzzināt par zemu izmaksu, diversificētu ieguldīšanu. Ja finansiālas raizes šķiet nemitīgas vai ietekmē tavu miegu vai garastāvokli, var palīdzēt kvalificēts finanšu konsultants vai cits speciālists."
     }
   },
-  "summary": "Ikvienam ir dažādu naudas attieksmju sajaukums. Zemāk redzams, cik spēcīgi katra no piecām naudas personībām izpaužas tavās atbildēs – no 0 līdz 100 %. Tavs augstākais rezultāts ir tavs galvenais naudas tips, taču svarīgi ir arī pārējie rezultāti. Neviens tips nav labs vai slikts; katram ir savas stiprās puses un aklās zonas. Šis pārskats nav finanšu konsultācija."
+  "summary": "Ikvienam ir dažādu naudas attieksmju sajaukums. Zemāk redzams, cik spēcīgi katra no piecām naudas personībām izpaužas tavās atbildēs, no 0 līdz 100 %. Tavs augstākais rezultāts ir tavs galvenais naudas tips, taču svarīgi ir arī pārējie rezultāti. Neviens tips nav labs vai slikts; katram ir savas stiprās puses un aklās zonas. Šis pārskats nav finanšu konsultācija."
 }

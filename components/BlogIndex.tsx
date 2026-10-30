@@ -12,7 +12,7 @@ import { site } from "@/lib/site";
 export async function blogIndexMetadata(locale: string, page: number): Promise<Metadata> {
   if (!hasLocale(locale)) return {};
   const { blog } = await getUi(locale);
-  const title = page > 1 ? `${blog.title} – ${fmt(blog.page, { page })}` : blog.title;
+  const title = page > 1 ? `${blog.title}: ${fmt(blog.page, { page })}` : blog.title;
   const url = `${site.url}${blogPageHref(locale, page)}`;
   const withPosts = locales.filter(hasPosts);
   return {

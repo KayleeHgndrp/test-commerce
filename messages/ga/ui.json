@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Tástálacha síceolaíochta saor in aisce ar líne",
-    "description": "Trialacha domhain ar phearsantacht, ar chaidrimh, ar obair agus ar fholláine — bunaithe ar thaighde síceolaíochta agus mínithe go soiléir."
+    "title": "{site}: Tástálacha síceolaíochta saor in aisce ar líne",
+    "description": "Trialacha domhain ar phearsantacht, ar chaidrimh, ar obair agus ar fholláine, bunaithe ar thaighde síceolaíochta agus mínithe go soiléir."
   },
   "nav": {
     "tests": "Tástálacha",
@@ -14,13 +14,13 @@
     "badge": "Tástálacha: {count} · Teangacha: {languages}",
     "heroTitle": "Na trialacha a nochtann do",
     "heroHighlight": "phearsantacht",
-    "heroSubtitle": "Trialacha domhain ar phearsantacht, ar chaidrimh agus ar fholláine — gach ceann bunaithe ar thaighde síceolaíochta aitheanta agus mínithe i dteanga shoiléir a léifidh tú go deireadh.",
+    "heroSubtitle": "Trialacha domhain ar phearsantacht, ar chaidrimh agus ar fholláine, gach ceann bunaithe ar thaighde síceolaíochta aitheanta agus mínithe i dteanga shoiléir a léifidh tú go deireadh.",
     "heroCta": "Féach ar ár dtástálacha",
     "heroSecondary": "Conas a oibríonn sé",
     "trust1": "Níl cuntas ag teastáil",
     "trust2": "Íocaíocht aonuaire, gan síntiús",
     "trust3": "Tuarascáil díreach chuig do bhosca isteach",
-    "dimensionsTitle": "Is mó thú ná scór amháin — feic gach gné díot.",
+    "dimensionsTitle": "Is mó thú ná scór amháin. Feic gach gné díot.",
     "dimensionsSubtitle": "Na réimsí a thomhaiseann ár dtástálacha is minice, idir phearsantacht, chaidrimh agus fholláine.",
     "dimensions": [
       "🎯 Fócas",
@@ -163,7 +163,7 @@
       },
       {
         "q": "An bhfuil {test} saor in aisce?",
-        "a": "Tá, tá sé saor in aisce an tástáil a dhéanamh. Más mian leat do thuarascáil phearsanta iomlán le gach scór agus míniú, is féidir leat í a ordú ar {price}, íoctha uair amháin — gan síntiús."
+        "a": "Tá, tá sé saor in aisce an tástáil a dhéanamh. Más mian leat do thuarascáil phearsanta iomlán le gach scór agus míniú, is féidir leat í a ordú ar {price}, íoctha uair amháin, gan síntiús."
       },
       {
         "q": "Cé chomh hiontaofa is atá {test}?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Faoi {site}",
-    "intro": "Creidimid go bhfuil sé tuillte ag gach duine léargas soiléir, macánta a fháil ar cé hiad féin — gan bhéarlagair, gan síntiúis agus gan lipéad ceithre litir nach míníonn faic.",
+    "intro": "Creidimid go bhfuil sé tuillte ag gach duine léargas soiléir, macánta a fháil ar cé hiad féin, gan bhéarlagair, gan síntiúis agus gan lipéad ceithre litir nach míníonn faic.",
     "missionTitle": "Ár misean",
     "mission": "Tá bealaí cumhachtacha forbartha ag an tsíceolaíocht chun pearsantacht, caidrimh agus folláine a chur síos, ach tá formhór an eolais sin faoi ghlas i dtéacsleabhair nó i measúnuithe costasacha. Cuireann {site} ar fáil é: tástálacha mionsonraithe is féidir le duine ar bith a dhéanamh saor in aisce, ina theanga féin, le tuarascáil phearsanta a mhíníonn do thorthaí i bhfocail shimplí agus a thugann na chéad chéimeanna praiticiúla eile duit.",
     "howTitle": "Conas a chruthaímid ár dtástálacha",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Scríofa le léamh",
-        "text": "Míníonn ár dtuarascálacha cad is brí le gach scór, cad as a dtagann sé agus cad is féidir leat a dhéanamh leis. Gan bhéarlagair agus gan teanga doiléir na tuar — léargas soiléir, praiticiúil amháin."
+        "text": "Míníonn ár dtuarascálacha cad is brí le gach scór, cad as a dtagann sé agus cad is féidir leat a dhéanamh leis. Gan bhéarlagair agus gan teanga doiléir na tuar. Léargas soiléir, praiticiúil amháin."
       }
     ],
     "valuesTitle": "Cad air ar féidir leat brath",

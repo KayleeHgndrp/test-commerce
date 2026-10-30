@@ -1,8 +1,8 @@
 {
   "name": "Prieraišumo stiliaus testas",
   "tagline": "Sužinokite, kaip kuriate ryšį, pasitikite ir siekiate artumo santykiuose.",
-  "intro": "Jūsų prieraišumo stilius lemia, kaip bendraujate su partneriais, draugais ir šeima: kiek nerimaujate, kad būsite palikti, ir kaip jaučiatės artumo akivaizdoje. Šis testas matuoja dvi dimensijas – prieraišumo nerimą ir prieraišumo vengimą – ir sujungia jas į vieną iš keturių stilių. Atsakykite pagal tai, kaip paprastai jaučiatės artimuose santykiuose. Testas trunka apie penkias minutes.",
-  "seoTitle": "Prieraišumo stiliaus testas – nemokamas internetu",
+  "intro": "Jūsų prieraišumo stilius lemia, kaip bendraujate su partneriais, draugais ir šeima: kiek nerimaujate, kad būsite palikti, ir kaip jaučiatės artumo akivaizdoje. Šis testas matuoja dvi dimensijas (prieraišumo nerimą ir prieraišumo vengimą) ir sujungia jas į vieną iš keturių stilių. Atsakykite pagal tai, kaip paprastai jaučiatės artimuose santykiuose. Testas trunka apie penkias minutes.",
+  "seoTitle": "Prieraišumo stiliaus testas: nemokamas internetu",
   "seoDescription": "Jūsų prieraišumas saugus, nerimastingas, vengiantis ar baimingas? Atlikite 5 minučių testą ir gaukite asmeninę ataskaitą apie savo ryšius ir pasitikėjimą.",
   "items": [
     "Vengiu pokalbių apie santykių ateitį.",
@@ -130,7 +130,7 @@
     },
     "anxious": {
       "name": "Nerimastingas",
-      "text": "Jūsų atsakymai rodo nerimastingą prieraišumo stilių. Labai vertinate artumą ir esate jautriai įsiklausę į mylimus žmones, tačiau galite ir nerimauti, kad juos prarasite. Vėluojantys atsakymai, atstumas ar konfliktas gali sukelti stiprius jausmus ir patvirtinimo poreikį. Jūsų šiluma ir lojalumas yra tikros stiprybės. Iššūkis – jaustis saugiai iš vidaus, o ne priklausyti nuo nuolatinių kitų ženklų. Mokykitės nusiraminti prieš reaguodami, aiškiai išsakykite savo poreikius, užuot išbandę žmones, ir investuokite į draugystes bei veiklas, stiprinančias jūsų savivertę. Šiam stiliui jaustis saugiau padeda nuoseklūs ir atviri partneriai."
+      "text": "Jūsų atsakymai rodo nerimastingą prieraišumo stilių. Labai vertinate artumą ir esate jautriai įsiklausę į mylimus žmones, tačiau galite ir nerimauti, kad juos prarasite. Vėluojantys atsakymai, atstumas ar konfliktas gali sukelti stiprius jausmus ir patvirtinimo poreikį. Jūsų šiluma ir lojalumas yra tikros stiprybės. Iššūkis: jaustis saugiai iš vidaus, o ne priklausyti nuo nuolatinių kitų ženklų. Mokykitės nusiraminti prieš reaguodami, aiškiai išsakykite savo poreikius, užuot išbandę žmones, ir investuokite į draugystes bei veiklas, stiprinančias jūsų savivertę. Šiam stiliui jaustis saugiau padeda nuoseklūs ir atviri partneriai."
     },
     "avoidant": {
       "name": "Atmetantis-vengiantis",

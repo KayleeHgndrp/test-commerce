@@ -2,7 +2,7 @@
   "name": "Depresszió teszt",
   "tagline": "Nézd meg, milyen volt a hangulatod, az energiád és a gondolkodásod az elmúlt két hétben.",
   "intro": "Az elmúlt két hétben milyen gyakran zavartak a következő problémák? Ez a szűrőteszt tartalmazza a PHQ-9-et, egy széles körben használt depresszió-kérdőívet, valamint további kérdéseket a hangulatról, az energiáról, az alvásról, a gondolkodásról és az önképről. Körülbelül öt percet vesz igénybe, és nem diagnózis, de segíthet megérteni, hogyan vagy, és érdemes-e támogatást kérned.",
-  "seoTitle": "Depresszió teszt – Ingyenes, PHQ-9 alapú szűrés",
+  "seoTitle": "Depresszió teszt: Ingyenes, PHQ-9 alapú szűrés",
   "seoDescription": "Milyen volt mostanában a hangulatod? Töltsd ki az 5 perces, PHQ-9 alapú depressziószűrést, és kapj értékelést hangulatról, energiáról, alvásról.",
   "items": [
     "Kevés érdeklődés vagy öröm a dolgok végzésében",
@@ -10,9 +10,9 @@
     "Elalvási vagy átalvási nehézségek, vagy túl sok alvás",
     "Fáradtság vagy energiahiány",
     "Étvágytalanság vagy túlevés",
-    "Rossz érzés önmagaddal kapcsolatban – vagy az érzés, hogy kudarcot vallottál, vagy cserben hagytad önmagadat vagy a családodat",
+    "Rossz érzés önmagaddal kapcsolatban vagy az érzés, hogy kudarcot vallottál, vagy cserben hagytad önmagadat vagy a családodat",
     "Nehézség a dolgokra való összpontosításban, például újságolvasás vagy tévénézés közben",
-    "Olyan lassú mozgás vagy beszéd, hogy mások is észrevehették – vagy épp ellenkezőleg: olyan izgatottság vagy nyugtalanság, hogy a szokásosnál sokkal többet mozogtál",
+    "Olyan lassú mozgás vagy beszéd, hogy mások is észrevehették, vagy épp ellenkezőleg: olyan izgatottság vagy nyugtalanság, hogy a szokásosnál sokkal többet mozogtál",
     "Az a gondolat, hogy jobb lenne, ha meghalnál, vagy hogy valamilyen módon kárt tegyél magadban",
     "Értéktelenség érzése",
     "Kimerültség már nagyon kevés erőfeszítés után is",
@@ -118,7 +118,7 @@
       "name": "Energia és lendület",
       "short": "Mennyire érezted magad fáradtnak, lelassultnak vagy motiválatlannak.",
       "low": "A válaszaid alapján az energiád és a lendületed mostanában elég jó volt. Úgy tűnik, el tudod végezni a napi teendőidet, és még marad is valamennyi energiád. Támogasd ezt továbbra is rendszeres alvással, mozgással és szünetekkel. Egy mozgalmas nap után fáradtnak lenni normális; főleg akkor válik aggasztóvá, ha a pihenés már nem segít. Figyeld, hogyan érzed magad a sűrű vagy stresszes időszakokban.",
-      "mid": "A válaszaid alapján a fáradtság vagy a csekély lendület elég sok napon akadályozott. A napi teendők a szokásosnál nehezebbnek tűnhetnek. Próbálj tartani egy alapritmust rendszeres étkezéssel, egy kis napfénnyel és kíméletes mozgással – ez gyakran többet segít, mint a plusz pihenés. Bontsd a feladatokat apró lépésekre. Ha a fáradtság tartós vagy rosszabbodik, érdemes felkeresned az orvosodat.",
+      "mid": "A válaszaid alapján a fáradtság vagy a csekély lendület elég sok napon akadályozott. A napi teendők a szokásosnál nehezebbnek tűnhetnek. Próbálj tartani egy alapritmust rendszeres étkezéssel, egy kis napfénnyel és kíméletes mozgással, ez gyakran többet segít, mint a plusz pihenés. Bontsd a feladatokat apró lépésekre. Ha a fáradtság tartós vagy rosszabbodik, érdemes felkeresned az orvosodat.",
       "high": "A válaszaid alapján a kimerültség és a lendülethiány a legtöbb napon hatással volt rád, így még az egyszerű feladatok is nehezek. Az ilyen fáradtság a depresszió része lehet, de testi okai is lehetnek, ezért kérlek, beszélj az orvosoddal vagy egy képzett szakemberrel. Ha önsértés gondolatai foglalkoztatnak, kérlek, azonnal hívd a helyi segélyhívó számot vagy egy lelki elsősegély-vonalat. Addig is légy kíméletes magadhoz: ideiglenesen csökkentsd az elvárásaidat, és kérj segítséget abban, amivel most nem boldogulsz."
     },
     "sleep": {
@@ -143,7 +143,7 @@
       "high": "A válaszaid alapján az elmúlt két hétben gyakran érezted magad értéktelennek, bűnösnek, vagy voltál nagyon kritikus önmagaddal. Az ilyen kemény gondolatok a depresszió gyakori részei, és nem tükrözik a valódi értékedet. Kérlek, beszélj az orvosoddal vagy egy képzett mentálhigiénés szakemberrel; a terápia ebben valóban sokat segíthet. Ha önsértés gondolatai foglalkoztatnak, kérlek, azonnal hívd a helyi segélyhívó számot vagy egy lelki elsősegély-vonalat. Próbálj olyan emberekkel időt tölteni, akik kedvesen bánnak veled."
     }
   },
-  "summary": "Ez az értékelés a PHQ-9 pontszámodat – egy széles körben használt szűrőmérőszámot – öt olyan területtel kombinálja, amelyek megmutatják, mi érintett leginkább az elmúlt két hétben. A magasabb pontszám gyakoribb problémákat jelent. Ez nem diagnózis; ha a pontszámaid emelkedettek, kérlek, beszélj orvossal vagy képzett szakemberrel. Ha önsértés gondolatai foglalkoztatnak, kérlek, azonnal hívd a helyi segélyhívó számot vagy egy lelki elsősegély-vonalat.",
+  "summary": "Ez az értékelés a PHQ-9 pontszámodat, egy széles körben használt szűrőmérőszámot, öt olyan területtel kombinálja, amelyek megmutatják, mi érintett leginkább az elmúlt két hétben. A magasabb pontszám gyakoribb problémákat jelent. Ez nem diagnózis; ha a pontszámaid emelkedettek, kérlek, beszélj orvossal vagy képzett szakemberrel. Ha önsértés gondolatai foglalkoztatnak, kérlek, azonnal hívd a helyi segélyhívó számot vagy egy lelki elsősegély-vonalat.",
   "instrument": {
     "name": "PHQ-9 pontszám",
     "description": "A PHQ-9 egy széles körben használt, közkincsnek számító depresszió-szűrő kérdőív, amelyet Dr. Kroenke, Dr. Spitzer és Dr. Williams fejlesztett ki. A 0 és 27 közötti pontszámod jelzi, mennyire lehetnek súlyosak a tüneteid, de ez szűrőeszköz, nem diagnózis.",

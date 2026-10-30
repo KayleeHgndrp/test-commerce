@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Tasuta psühholoogilised testid veebis",
-    "description": "Põhjalikud testid isiksuse, suhete, töö ja heaolu kohta — põhinevad psühholoogilisel uurimistööl ja on selgelt lahti seletatud."
+    "title": "{site}: Tasuta psühholoogilised testid veebis",
+    "description": "Põhjalikud testid isiksuse, suhete, töö ja heaolu kohta, põhinevad psühholoogilisel uurimistööl ja on selgelt lahti seletatud."
   },
   "nav": {
     "tests": "Testid",
@@ -14,14 +14,14 @@
     "badge": "Teste: {count} · Keeli: {languages}",
     "heroTitle": "Testid, mis avavad sinu",
     "heroHighlight": "isiksuse",
-    "heroSubtitle": "Põhjalikud testid isiksuse, suhete ja heaolu kohta — iga test põhineb tunnustatud psühholoogilisel uurimistööl ja on selgitatud selges keeles, mille sa ka päriselt lõpuni loed.",
+    "heroSubtitle": "Põhjalikud testid isiksuse, suhete ja heaolu kohta, iga test põhineb tunnustatud psühholoogilisel uurimistööl ja on selgitatud selges keeles, mille sa ka päriselt lõpuni loed.",
     "heroCta": "Vaata meie teste",
     "heroSecondary": "Kuidas see toimib",
     "trust1": "Kontot pole vaja",
     "trust2": "Ühekordne makse, tellimust pole",
     "trust3": "Raport otse sinu postkasti",
-    "dimensionsTitle": "Sa oled rohkem kui üks tulemus – näe kõiki oma külgi.",
-    "dimensionsSubtitle": "Valdkonnad, mida meie testid kõige sagedamini mõõdavad – isiksusest suhete ja heaoluni.",
+    "dimensionsTitle": "Sa oled rohkem kui üks tulemus. Näe kõiki oma külgi.",
+    "dimensionsSubtitle": "Valdkonnad, mida meie testid kõige sagedamini mõõdavad: isiksusest suhete ja heaoluni.",
     "dimensions": [
       "🎯 Keskendumine",
       "🔋 Sotsiaalne energia",
@@ -39,7 +39,7 @@
     "steps": [
       {
         "title": "Vali test",
-        "text": "Vali meie isiksuse-, suhte- ja sõeltestide hulgast – kõik põhinevad tunnustatud psühholoogilistel mudelitel."
+        "text": "Vali meie isiksuse-, suhte- ja sõeltestide hulgast, kõik põhinevad tunnustatud psühholoogilistel mudelitel."
       },
       {
         "title": "Tee test",
@@ -47,7 +47,7 @@
       },
       {
         "title": "Loe oma raportit",
-        "text": "Saad isikliku raporti oma tulemuste, nende tähenduse ja praktiliste nõuannetega – otse oma postkasti."
+        "text": "Saad isikliku raporti oma tulemuste, nende tähenduse ja praktiliste nõuannetega, otse oma postkasti."
       }
     ],
     "pricingTitle": "Lihtne hinnastus",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Kas test „{test}“ on tasuta?",
-        "a": "Jah, testi tegemine on tasuta. Kui soovid täielikku isiklikku raportit kõigi tulemuste ja selgitustega, saad selle tellida hinnaga {price} ühekordse maksena – ilma tellimuseta."
+        "a": "Jah, testi tegemine on tasuta. Kui soovid täielikku isiklikku raportit kõigi tulemuste ja selgitustega, saad selle tellida hinnaga {price} ühekordse maksena, ilma tellimuseta."
       },
       {
         "q": "Kui usaldusväärne on test „{test}“?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "{site} lühidalt",
-    "intro": "Usume, et igaüks väärib selget ja ausat pilku iseendale – ilma erialase žargoonita, ilma tellimusteta ja ilma nelja tähega sildita, mis midagi ei selgita.",
+    "intro": "Usume, et igaüks väärib selget ja ausat pilku iseendale, ilma erialase žargoonita, ilma tellimusteta ja ilma nelja tähega sildita, mis midagi ei selgita.",
     "missionTitle": "Meie missioon",
     "mission": "Psühholoogia on välja töötanud võimsaid viise isiksuse, suhete ja heaolu kirjeldamiseks, kuid suur osa sellest teadmisest on peidus õpikutes või kallites hindamistes. {site} teeb selle kättesaadavaks: põhjalikud testid, mida igaüks saab tasuta oma emakeeles teha, ja isiklik raport, mis selgitab sinu tulemusi lihtsate sõnadega ning annab praktilisi järgmisi samme.",
     "howTitle": "Kuidas me oma teste loome",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Kirjutatud lugemiseks",
-        "text": "Meie raportid selgitavad, mida iga tulemus tähendab, kust see tuleb ja mida sa sellega teha saad. Ei mingit žargooni ega ebamääraseid horoskoobilauseid – ainult selged ja praktilised teadmised."
+        "text": "Meie raportid selgitavad, mida iga tulemus tähendab, kust see tuleb ja mida sa sellega teha saad. Ei mingit žargooni ega ebamääraseid horoskoobilauseid. Ainult selged ja praktilised teadmised."
       }
     ],
     "valuesTitle": "Millele saad loota",

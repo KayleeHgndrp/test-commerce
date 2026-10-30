@@ -2,7 +2,7 @@
   "name": "Enneagram Testi",
   "tagline": "Düşünme ve davranma biçiminin ardındaki temel motivasyonu keşfet.",
   "intro": "Enneagram, her biri farklı bir temel motivasyon ve temel korkuyla yönlendirilen dokuz kişilik tipini tanımlar. Bu test, dokuz örüntünün her biriyle ne kadar güçlü özdeşleştiğini ölçer ve sana en çok uyanı öne çıkarır. 100 kısa ifadeyi değerlendir; yaklaşık beş dakika sürer.",
-  "seoTitle": "Enneagram Testi – Ücretsiz 9 tipli kişilik testi",
+  "seoTitle": "Enneagram Testi: Ücretsiz 9 tipli kişilik testi",
   "seoDescription": "Dokuz Enneagram tipinden hangisisin? Ücretsiz 5 dakikalık testi çöz, dokuz tipteki puanlarını gör ve ana tipin için gelişim ipuçları al.",
   "items": [
     "İçimde neyin doğru olduğunu söyleyen güçlü bir ses var.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Tip 1 – Mükemmeliyetçi",
+      "name": "Tip 1: Mükemmeliyetçi",
       "short": "İyi ve doğru olma ve dünyayı iyileştirme isteğiyle hareket eder; yanlış ya da kusurlu olmaktan korkar.",
       "low": "Mükemmeliyetçi örüntü senin için yalnızca küçük bir rol oynuyor. Kurallar ve hatalar konusunda rahatsın ve seni her şeyi doğru yapmaya iten güçlü bir iç eleştirmen hissetmiyorsun. Bu, akışına bırakmanı ve kolayca affetmeni sağlar. İpucu: sağlık ya da para gibi kalitenin gerçekten önemli olduğu alanlarda biraz daha fazla yapı ve ayrıntıya dikkat işine yarayabilir. Rahatlığının bazen önemli standartların kaymasına yol açıp açmadığını kontrol et.",
       "mid": "Bazı Mükemmeliyetçi özellikleri kendinde tanıyorsun. İşleri gerektiği gibi yapmayı önemsiyor ve kendine karşı eleştirel olabiliyorsun ama yeterince iyinin ne zaman yeterli olduğunu da biliyorsun. Doğru ve yanlış duygun sana yön veriyor ama sana hükmetmiyor. İpucu: iç eleştirmeninin sesinin ne zaman yükseldiğini, çoğu zaman stres altında, fark et ve ona nazikçe yanıt ver. Yüksek standartların nerede değer kattığını ve esnekliğin nerede hayatı kolaylaştırdığını bilinçli olarak seç.",
       "high": "Mükemmeliyetçi örüntü sende güçlü. İlkeli, vicdanlısın ve kendini ve dünyayı iyileştirmeye yöneliyorsun. Temel korkun yanlış, kötü ya da kusurlu olmaktır; bu yüzden katı bir iç eleştirmen çoğu zaman seni hizada tutar. Yaptığın her şeye dürüstlük ve kalite katıyorsun. İpucu: hem kendinde hem başkalarında kusuru kabul etmeyi dene; hatalar öğrenmenin bir parçasıdır. Önce hak etmek zorunda kalmadan kendine keyif ve oyun izni ver. Gelişim, zaten yeterince iyi olduğuna güvendiğinde gelir."
     },
     "type2": {
-      "name": "Tip 2 – Yardımsever",
+      "name": "Tip 2: Yardımsever",
       "short": "Sevilme ve ihtiyaç duyulma isteğiyle hareket eder; istenmemekten ya da sevgiye layık olmamaktan korkar.",
       "low": "Yardımsever örüntü senin için küçük bir rol oynuyor. Kimliğini ihtiyaç duyulmak üzerine kurmuyorsun ve kendi hayatına odaklanmakta rahatsın. Bu seni aşırı vermekten korur. İpucu: yakınlarının özenini hâlâ hissettiğinden emin ol; hal hatır sormak ya da istenmeden yardım teklif etmek gibi küçük jestler ilişkileri sıcak tutar. Bağımsızlığın mesafeye dönüştüğü anları fark et.",
       "mid": "Bazı Yardımsever özellikleri kendinde tanıyorsun. Başkalarını desteklemekten keyif alıyor ve takdir edilmeyi seviyorsun ama gerektiğinde kendini de öne koyabiliyorsun. Sıcaklığın öz saygıyla dengelenmiş. İpucu: bazen istediğin için değil, sevilmek için yardım edip etmediğini fark et. Başkalarının fark etmesini ummak yerine neye ihtiyacın olduğunu doğrudan istemeyi dene. Seni önemseyen insanlar genellikle bir şeyler geri verme fırsatını memnuniyetle karşılar.",
       "high": "Yardımsever örüntü sende güçlü. Sıcak, cömertsin ve başkalarının ihtiyaçlarına dikkat ediyorsun; kendini en değerli yardım ederken hissediyorsun. Temel korkun sevilmemek ya da istenmemektir. İnsanlar seni şefkatli ve destekleyici biri olarak görür. İpucu: senin ihtiyaçların da herkesinkiler kadar meşrudur; bu yüzden onları açıkça dile getir. Sevgiyi garantilemek için değil, seçtiğin için yardım et. Gelişim, başkalarının da seninle ilgilenmesine izin verdiğinde ve vermeden de sevilebilir olduğuna güvendiğinde gelir."
     },
     "type3": {
-      "name": "Tip 3 – Başarı Odaklı",
+      "name": "Tip 3: Başarı Odaklı",
       "short": "Başarılı olma ve hayranlık görme isteğiyle hareket eder; değersiz ya da başarısız olmaktan korkar.",
       "low": "Başarı Odaklı örüntü senin için yalnızca küçük bir rol oynuyor. Statü, imaj ve dış başarı ana itici güçlerin değil ve değerini başardıklarınla ölçmüyorsun. Bu seni kıyaslamadan özgür kılar. İpucu: önemsediğin hedeflerin varsa, biraz hırs ve görünür ilerleme onlara ulaşmana yardımcı olabilir. Başarılarını başkalarının görmesine izin ver; alçakgönüllülük güçlü yanlarını gizlememeli.",
       "mid": "Bazı Başarı Odaklı özellikleri kendinde tanıyorsun. İyi iş çıkarmayı seviyor ve takdir edilmekten keyif alıyorsun ama değer duygun tamamen başarıya bağlı değil. Hedeflere doğru sıkı çalışabiliyor ve yine de boş zamanın tadını çıkarabiliyorsun. İpucu: peşinden koştuğun hedeflerin gerçekten senin mi yoksa başkalarının beklentileri mi olduğunu kontrol et. Başarıları kutla, sonra sonuçların ne olursa olsun seni seven insanlarla, performans dışındaki hayatın da tadını çıkarmaya zaman ayır.",
       "high": "Başarı Odaklı örüntü sende güçlü. Hırslı, verimlisin ve başarıya odaklanıyorsun; kendini iyi sunmayı biliyorsun. Temel korkun, başarıların olmadan değersiz olmaktır. Başkalarını motive ediyor ve işleri bitiriyorsun. İpucu: imajını başkalarını memnun etmek için uyarladığın ya da boşluk hissinden kaçmak için çalıştığın anları fark et. Hiçbir hedefi olmayan etkinliklere zaman ayır. Gelişim, kendine başardıkların için değil, kim olduğun için değer verdiğinde gelir."
     },
     "type4": {
-      "name": "Tip 4 – Bireyci",
+      "name": "Tip 4: Bireyci",
       "short": "Eşsiz ve özgün olma isteğiyle hareket eder; kimliksiz ya da önemsiz olmaktan korkar.",
       "low": "Bireyci örüntü senin için küçük bir rol oynuyor. Farklı olmaya ya da her duyguyu derinlemesine keşfetmeye güçlü bir ihtiyaç hissetmiyorsun ve uyum sağlamakta rahatsın. Bu seni ayakları yere basan ve pratik biri yapar. İpucu: yaratıcı bir hobi ya da duygular hakkında dürüst sohbetler gibi kendini ifade etmeye biraz alan aç. Seni neyin eşsiz kıldığını keşfetmek hayatına zenginlik katabilir.",
       "mid": "Bazı Bireyci özellikleri kendinde tanıyorsun. Özgünlüğe değer veriyor ve zengin bir iç dünyaya sahipsin ama kendini başkalarından temelde farklı hissetmiyorsun. Duygularını ifade edebiliyor ve yine de bakış açını koruyabiliyorsun. İpucu: hassasiyetini örneğin yazı ya da sanat yoluyla yaratıcı bir şekilde kullan. Yanlış anlaşıldığını hissettiğinde, ne hissettiğini gerçekten paylaşıp paylaşmadığını kontrol et. İç dünyanı anladıklarında başkaları çoğu zaman beklediğinden daha fazla önemser.",
       "high": "Bireyci örüntü sende güçlü. Hassas, anlatımcısın ve duygularınla derin bir temas içindesin; özgün olmayı ve anlaşılmayı arzuluyorsun. Temel korkun gerçek bir kimliğin ya da önemin olmamasıdır. Derinlik, yaratıcılık ve duygular konusunda dürüstlük getiriyorsun. İpucu: sahip olduklarına değil eksik olana odaklandığın anları fark et. Şükran pratikleri ve pratik rutinler ruh hallerini dengeleyebilir. Gelişim, sıradan anların ve bağların da anlamlı olabileceğini fark ettiğinde gelir."
     },
     "type5": {
-      "name": "Tip 5 – Araştırmacı",
+      "name": "Tip 5: Araştırmacı",
       "short": "Anlama ve yetkin olma isteğiyle hareket eder; çaresiz kalmaktan ya da bunalmaktan korkar.",
       "low": "Araştırmacı örüntü senin için yalnızca küçük bir rol oynuyor. Harekete geçmeden önce geri çekilip analiz etmeye güçlü bir ihtiyaç hissetmiyorsun ve zamanını ve enerjini kolayca paylaşıyorsun. Bu seni yaklaşılabilir ve ilgili biri yapar. İpucu: karmaşık kararlarla karşılaştığında, işe dalmadan önce kendine biraz sessiz araştırma zamanı tanı. Önemsediğin bir alanda bilgini derinleştirmek özgüven ve uzmanlık kazandırabilir.",
       "mid": "Bazı Araştırmacı özellikleri kendinde tanıyorsun. Öğrenmekten keyif alıyor ve biraz özel zamana ihtiyaç duyuyorsun ama insanlarla ve dünyayla aktif olarak da ilgilenebiliyorsun. Bilginin arkasına saklanmadan ona değer veriyorsun. İpucu: özellikle ilişkilerde, katılmak yerine geri çekilip gözlemlediğin anları fark et. Tamamen hazır hissetmeden önce bile bildiklerini paylaşmak tatmin edici olabilir ve çoğu zaman faydalı geri bildirim ve bağ getirir.",
       "high": "Araştırmacı örüntü sende güçlü. Meraklı, sezgili ve bağımsızsın; dünyayı derinlemesine anlamak istiyorsun. Temel korkun çaresiz, yetersiz olmak ya da başkalarının talepleriyle tükenmektir; bu yüzden zamanını ve enerjini özenle koruyorsun. İçgörü ve uzmanlık getiriyorsun. İpucu: bilgi toplamanın eylemden ya da duygulardan kaçmanın bir yoluna dönüştüğü anları fark et. Tamamen hazır hissetmeden küçük adımlar at. Gelişim, hayata ve insanlara tam olarak katılmak için yeterli olana sahip olduğuna güvendiğinde gelir."
     },
     "type6": {
-      "name": "Tip 6 – Sadık",
+      "name": "Tip 6: Sadık",
       "short": "Güvenlik ve destek isteğiyle hareket eder; rehbersiz ya da güvencesiz kalmaktan korkar.",
       "low": "Sadık örüntü senin için küçük bir rol oynuyor. Neyin ters gidebileceği konusunda pek endişelenmiyor ve güçlü bir rehberliğe ya da güvenceye ihtiyaç duymadan kendini güvende hissediyorsun. Bu, cesurca hareket etmeni sağlar. İpucu: büyük kararlardan önce olası riskleri bilinçli olarak değerlendir ya da daha temkinli birinden görüşünü iste. Sadakat ve hazırlık da, özellikle ileriyi düşünmen için sana güvenen ekiplerde, geliştirmeye değer güçlü yanlar olabilir.",
       "mid": "Bazı Sadık özellikleri kendinde tanıyorsun. Güvenliğe ve güvenilir ilişkilere değer veriyor ve riskleri fark edebiliyorsun ama şüphelerin genellikle seni geri tutmuyor. Temkini özgüvenle dengeliyorsun. İpucu: endişe büyümeye başladığında gerçekçi riskleri ya-olursa senaryolarından ayır. Güvence aramak yerine daha sık kendi muhakemene güven. Ona göre her hareket ettiğinde kendi iç pusulana olan güvenin artar.",
       "high": "Sadık örüntü sende güçlü. Sadık, sorumluluk sahibisin ve risklere karşı tetiktesin; güvene ve güvenliğe büyük değer veriyorsun. Temel korkun, tehlikeli bir dünyada destek ya da rehberlik olmadan kalmaktır. Başkalarının gözden kaçırdığı sorunlara hazırlanan güvenilir bir ekip üyesisin. İpucu: kaygının seni aşırı planlamaya ya da kendin dahil herkesten şüphe etmeye ittiği anları fark et. Küçük adımlarla kendi muhakemene göre hareket etmeyi dene. Gelişim, kendi dışında aradığın iç güvenliği keşfettiğinde gelir."
     },
     "type7": {
-      "name": "Tip 7 – Hevesli",
+      "name": "Tip 7: Hevesli",
       "short": "Özgürlük ve eğlence isteğiyle hareket eder; acıya ya da yoksunluğa hapsolmaktan korkar.",
       "low": "Hevesli örüntü senin için yalnızca küçük bir rol oynuyor. Sürekli yeni deneyimler aramıyorsun ve heyecan verici olmasa bile tek bir şeyle kalabiliyorsun. Bu sana odak ve derinlik verir. İpucu: kısa bir gezi ya da yeni bir hobi gibi, ara sıra biraz kendiliğindenliğe izin ver. Biraz oyunbazlık enerjini ve ilişkilerini tazeleyebilir.",
       "mid": "Bazı Hevesli özellikleri kendinde tanıyorsun. Eğlenceden, çeşitlilikten ve yeni planlardan keyif alıyorsun ama bağlanabiliyor ve zor duygularla da kalabiliyorsun. İyimserliği gerçekçilikle dengeliyor ve hem maceranın hem de sessizliğin tadını çıkarabiliyorsun. İpucu: rahatsız edici bir şeyden kaçınmak için dikkat dağıtıcılara uzandığın anları fark et. Bir sonrakine başlamadan önce bir projeyi bitirmek coşkunun karşılığını almanı sağlar ve sana tamamlamanın daha derin tatminini verir.",
       "high": "Hevesli örüntü sende güçlü. İyimser, maceraperest ve fikir doluyusun; seçeneklerini açık tutmayı seviyorsun. Temel korkun acıya, sıkıntıya ya da kısıtlamaya hapsolmaktır; bu yüzden çoğu zaman hızla bir sonraki heyecan verici şeye geçiyorsun. Gittiğin her yere enerji ve neşe getiriyorsun. İpucu: zor duygulardan kaçmak yerine onlarla kalmayı dene. Birkaç taahhüt seç ve onları sonuna kadar götür. Gelişim, tatmini sadece çeşitlilikte değil, derinlikte de bulduğunda gelir."
     },
     "type8": {
-      "name": "Tip 8 – Meydan Okuyan",
+      "name": "Tip 8: Meydan Okuyan",
       "short": "Güçlü olma ve kontrolü elinde tutma isteğiyle hareket eder; kontrol edilmekten ya da savunmasız kalmaktan korkar.",
       "low": "Meydan Okuyan örüntü senin için küçük bir rol oynuyor. Kontrolü ele almaya ya da gücünü kanıtlamaya ihtiyaç duymuyor ve nadiren yüzleşme arıyorsun. Bu seni iş birliği yapması kolay biri yapar. İpucu: sana ya da başkalarına haksızlık yapıldığı durumlarda kararlı bir şekilde konuşmayı dene. Kendini ortaya koymak saldırganlık değil, önemli olanı korumaktır. Bir toplantıda bir tercihi net olarak belirtmek gibi küçük durumlarla başla.",
       "mid": "Bazı Meydan Okuyan özellikleri kendinde tanıyorsun. Doğrudan ve koruyucu olabiliyor ve gerektiğinde yönetimi üstlenebiliyorsun ama hükmetmeye ihtiyaç duymuyorsun. Hassasiyetini kaybetmeden güç gösteriyorsun. İpucu: savunmasız hissetmemek için sert bir şekilde bastırdığın anları fark et. İnsanların yumuşak yanını görmesine izin vermek güveni derinleştirebilir. Başkalarına dolaysızlığının onlarda nasıl bir etki bıraktığını sor; cevapları gücünü daha akıllıca kullanmana yardımcı olabilir.",
       "high": "Meydan Okuyan örüntü sende güçlü. Kendinden emin, doğrudan ve koruyucusun; yönetimi doğal olarak üstleniyorsun. Temel korkun kontrol edilmek, zarar görmek ya da savunmasız kalmaktır; bu yüzden güce ve bağımsızlığa değer veriyorsun. Kendini ve başkalarını savunuyor ve çatışmadan korkmuyorsun. İpucu: yoğunluğun insanları bunaltabilir; bu yüzden sesini alçalt ve harekete geçmeden önce tam olarak dinle. Güvendiğin insanlarla kırılganlığını göstermeyi dene. Gelişim, açıklığın ve yumuşaklığın da birer güç biçimi olduğunu gördüğünde gelir."
     },
     "type9": {
-      "name": "Tip 9 – Barışçı",
+      "name": "Tip 9: Barışçı",
       "short": "İç ve dış huzur isteğiyle hareket eder; çatışmadan ve kopukluktan korkar.",
       "low": "Barışçı örüntü senin için yalnızca küçük bir rol oynuyor. Çatışmadan çekinmiyor ve kendi önceliklerini kolayca savunuyorsun. Bu seni aktif ve ne istediğin konusunda net tutar. İpucu: gerginlikler arttığında, kendi görüşünü öne sürmeden önce tüm tarafları dinlemeyi dene. Arada bir daha sakin bir tempo büyük resmi görmene yardımcı olabilir.",
       "mid": "Bazı Barışçı özellikleri kendinde tanıyorsun. Uyuma değer veriyor ve farklı bakış açılarını görebiliyorsun ama bir şey senin için önemli olduğunda sesini de çıkarıyorsun. Sakinliği katılımla dengeliyorsun. İpucu: sürtüşmeden kaçınmak için başkalarına uyduğun anları fark et. Küçük şeylerde bile ne istediğini söylemek ilişkilerini dürüst tutar ve sessiz kırgınlıkların birikmesini önler. Senin bakış açın başkalarının katamayacağı bir şey katar.",

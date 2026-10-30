@@ -2,7 +2,7 @@
   "name": "Test enneagramu",
   "tagline": "Objavte hlavnú motiváciu, ktorá stojí za tým, ako myslíte a konáte.",
   "intro": "Enneagram opisuje deväť typov osobnosti, z ktorých každý poháňa iná hlavná motivácia a iný hlavný strach. Tento test meria, nakoľko sa stotožňujete s každým z deviatich vzorcov, a zvýrazní ten, ktorý vám sedí najviac. Ohodnoťte 100 krátkych tvrdení; zaberie vám to asi päť minút.",
-  "seoTitle": "Test enneagramu – bezplatný test 9 typov osobnosti",
+  "seoTitle": "Test enneagramu: bezplatný test 9 typov osobnosti",
   "seoDescription": "Ktorý z deviatich typov enneagramu ste vy? Urobte si bezplatný 5-minútový test, pozrite si skóre vo všetkých typoch a tipy na rast pre váš hlavný typ.",
   "items": [
     "Mám silný vnútorný hlas, ktorý mi hovorí, čo je správne.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Typ 1 – Perfekcionista",
+      "name": "Typ 1: Perfekcionista",
       "short": "Poháňa ho túžba byť dobrý, správny a zlepšovať svet; bojí sa, že sa mýli alebo je chybný.",
       "low": "Vzorec perfekcionistu u vás hrá len malú úlohu. K pravidlám a chybám pristupujete uvoľnene a necítite silného vnútorného kritika, ktorý by vás nútil mať všetko správne. Vďaka tomu sa dokážete nechať unášať a ľahko odpúšťate. Tip: v oblastiach, kde na kvalite naozaj záleží, napríklad pri zdraví či financiách, vám môže pomôcť trocha viac štruktúry a pozornosti k detailom. Overte si, či uvoľnenosť niekedy neznamená, že necháte skĺznuť dôležité štandardy.",
       "mid": "Spoznávate v sebe niektoré črty perfekcionistu. Záleží vám na tom, aby boli veci urobené poriadne, a dokážete byť k sebe kritickí, no viete aj to, kedy stačí dostatočne dobré. Váš zmysel pre správne a nesprávne vás vedie, no neovláda. Tip: všímajte si, kedy váš vnútorný kritik zosilnie, často v strese, a odpovedzte mu láskavo. Vedome si vyberajte, kde vysoké štandardy prinášajú hodnotu a kde život uľahčí flexibilita.",
       "high": "Vzorec perfekcionistu je u vás silný. Ste zásadoví, svedomití a poháňa vás túžba zlepšovať seba aj svet. Vaším hlavným strachom je byť nesprávny, zlý alebo chybný, preto vás prísny vnútorný kritik často drží v medziach. Do všetkého, čo robíte, vnášate integritu a kvalitu. Tip: precvičujte si prijímanie nedokonalosti u seba aj u iných; chyby sú súčasťou učenia. Doprajte si radosť a hru bez toho, aby ste si ich museli najprv zaslúžiť. Rast prichádza, keď uveríte, že ste už dosť dobrí."
     },
     "type2": {
-      "name": "Typ 2 – Pomocník",
+      "name": "Typ 2: Pomocník",
       "short": "Poháňa ho túžba byť milovaný a potrebný; bojí sa, že je nechcený alebo nehodný lásky.",
       "low": "Vzorec pomocníka u vás hrá vedľajšiu úlohu. Svoju identitu nestaviate na tom, že vás niekto potrebuje, a nerobí vám problém sústrediť sa na vlastný život. To vás chráni pred prílišným rozdávaním sa. Tip: dbajte, aby vaši blízki stále cítili vašu starostlivosť; drobné prejavy, napríklad otázka, ako sa majú, alebo nevyžiadaná pomoc, udržiavajú vzťahy vrúcne. Všímajte si, kedy sa nezávislosť mení na odstup.",
       "mid": "Spoznávate v sebe niektoré črty pomocníka. Radi podporujete iných a teší vás uznanie, no keď treba, dokážete dať na prvé miesto aj seba. Vaša vrúcnosť je vyvážená sebaúctou. Tip: všímajte si, či niekedy nepomáhate preto, aby vás mali radi, a nie preto, že chcete. Precvičujte si priamo žiadať o to, čo potrebujete, namiesto dúfania, že si to iní všimnú. Ľudia, ktorým na vás záleží, zvyčajne radi využijú príležitosť niečo vám vrátiť.",
       "high": "Vzorec pomocníka je u vás silný. Ste vrúcni, štedrí a pozorní k tomu, čo iní potrebujú, a najcennejšie sa cítite, keď pomáhate. Vaším hlavným strachom je, že vás nikto nebude milovať ani chcieť. Ľudia vás vnímajú ako starostlivých a oporných. Tip: vaše vlastné potreby sú rovnako oprávnené ako potreby kohokoľvek iného, preto ich otvorene pomenujte. Pomáhajte preto, že sa tak rozhodnete, nie preto, aby ste si zaistili lásku. Rast prichádza, keď dovolíte aj iným, aby sa postarali o vás, a uveríte, že si zaslúžite lásku aj bez dávania."
     },
     "type3": {
-      "name": "Typ 3 – Výkonný typ",
+      "name": "Typ 3: Výkonný typ",
       "short": "Poháňa ho túžba uspieť a byť obdivovaný; bojí sa, že je bezcenný alebo zlyhá.",
       "low": "Vzorec výkonného typu u vás hrá len malú úlohu. Postavenie, imidž a vonkajší úspech nie sú vaším hlavným motorom a svoju hodnotu nemeriate tým, čo dosiahnete. To vám dáva slobodu od porovnávania. Tip: ak máte ciele, na ktorých vám záleží, trocha ambícií a viditeľný pokrok vám ich pomôžu dosiahnuť. Nechajte ostatných vidieť vaše úspechy; skromnosť by nemala zakrývať vaše silné stránky.",
       "mid": "Spoznávate v sebe niektoré črty výkonného typu. Radi robíte veci dobre a teší vás uznanie, no váš pocit hodnoty nezávisí úplne od úspechu. Dokážete tvrdo pracovať na cieľoch a stále si užívať voľno. Tip: overte si, či ciele, za ktorými idete, sú naozaj vaše, alebo ide o očakávania iných. Oslavujte úspechy a potom si nájdite čas aj na život mimo výkonu, s ľuďmi, ktorí vás majú radi bez ohľadu na vaše výsledky.",
       "high": "Vzorec výkonného typu je u vás silný. Ste ambiciózni, efektívni a zameraní na úspech a viete sa dobre prezentovať. Vaším hlavným strachom je, že bez svojich úspechov nemáte hodnotu. Motivujete iných a dotiahnete veci do konca. Tip: všímajte si, kedy prispôsobujete svoj imidž, aby ste sa zapáčili iným, alebo pracujete preto, aby ste necítili prázdnotu. Venujte čas aj činnostiam úplne bez cieľa. Rast prichádza, keď si budete ceniť seba za to, kým ste, nie za to, čo dosiahnete."
     },
     "type4": {
-      "name": "Typ 4 – Individualista",
+      "name": "Typ 4: Individualista",
       "short": "Poháňa ho túžba byť jedinečný a autentický; bojí sa, že nemá identitu ani význam.",
       "low": "Vzorec individualistu u vás hrá vedľajšiu úlohu. Necítite silnú potrebu odlišovať sa ani do hĺbky skúmať každú emóciu a zapadnúť vám nerobí problém. Vďaka tomu stojíte pevne na zemi a ste praktickí. Tip: vyhraďte si trochu priestoru na sebavyjadrenie, napríklad tvorivú záľubu alebo úprimné rozhovory o pocitoch. Skúmanie toho, čo vás robí jedinečnými, môže váš život obohatiť.",
       "mid": "Spoznávate v sebe niektoré črty individualistu. Ceníte si autentickosť a máte bohatý vnútorný život, no necítite sa od ostatných zásadne odlišní. Dokážete vyjadriť emócie a zároveň si zachovať nadhľad. Tip: využite svoju citlivosť tvorivo, napríklad pri písaní alebo umení. Keď sa cítite nepochopení, overte si, či ste sa o svoje pocity naozaj podelili. Keď ostatní pochopia váš vnútorný svet, často im na vás záleží viac, než čakáte.",
       "high": "Vzorec individualistu je u vás silný. Ste citliví, expresívni a hlboko v kontakte so svojimi emóciami a túžite byť autentickí a pochopení. Vaším hlavným strachom je, že nemáte skutočnú identitu ani význam. Prinášate hĺbku, tvorivosť a úprimnosť v pocitoch. Tip: všímajte si, kedy sa sústredíte na to, čo chýba, namiesto toho, čo máte. Praktizovanie vďačnosti a praktické rutiny môžu vaše nálady vyrovnať. Rast prichádza, keď si uvedomíte, že aj obyčajné chvíle a vzťahy môžu mať hlboký zmysel."
     },
     "type5": {
-      "name": "Typ 5 – Skúmateľ",
+      "name": "Typ 5: Skúmateľ",
       "short": "Poháňa ho túžba porozumieť a byť kompetentný; bojí sa bezmocnosti alebo zahltenia.",
       "low": "Vzorec skúmateľa u vás hrá len malú úlohu. Necítite silnú potrebu stiahnuť sa a pred konaním všetko analyzovať a svoj čas aj energiu ľahko zdieľate. Vďaka tomu ste prístupní a zapojení. Tip: keď stojíte pred zložitými rozhodnutiami, doprajte si pred ponorením sa do nich trochu tichého času na preskúmanie. Prehĺbenie znalostí v jednej oblasti, na ktorej vám záleží, môže vybudovať sebadôveru a odbornosť.",
       "mid": "Spoznávate v sebe niektoré črty skúmateľa. Baví vás učiť sa a potrebujete trochu súkromia, no dokážete sa aj aktívne zapájať medzi ľudí a do sveta. Ceníte si vedomosti bez toho, aby ste sa za nimi skrývali. Tip: všímajte si, kedy sa stiahnete do úlohy pozorovateľa namiesto toho, aby ste sa zapojili, najmä vo vzťahoch. Podeliť sa o to, čo viete, ešte skôr, než sa cítite úplne pripravení, môže byť obohacujúce a často prináša užitočnú spätnú väzbu aj blízkosť.",
       "high": "Vzorec skúmateľa je u vás silný. Ste zvedaví, všímaví a nezávislí a chcete svetu porozumieť do hĺbky. Vaším hlavným strachom je bezmocnosť, neschopnosť alebo vyčerpanie nárokmi iných, preto si starostlivo strážite čas a energiu. Prinášate vhľad a odbornosť. Tip: všímajte si, kedy sa zhromažďovanie vedomostí stáva spôsobom, ako sa vyhnúť konaniu alebo pocitom. Robte malé kroky skôr, než sa budete cítiť úplne pripravení. Rast prichádza, keď uveríte, že máte dosť na to, aby ste sa naplno zapojili do života aj do vzťahov."
     },
     "type6": {
-      "name": "Typ 6 – Lojalista",
+      "name": "Typ 6: Lojalista",
       "short": "Poháňa ho túžba po istote a podpore; bojí sa, že zostane bez vedenia a bezpečia.",
       "low": "Vzorec lojalistu u vás hrá vedľajšiu úlohu. Príliš sa netrápite tým, čo by sa mohlo pokaziť, a cítite sa bezpečne aj bez silného vedenia či uisťovania. Vďaka tomu konáte odvážne. Tip: pred veľkými rozhodnutiami vedome zvážte možné riziká alebo sa spýtajte na názor niekoho opatrnejšieho. Lojalita a príprava môžu byť tiež silnými stránkami, ktoré sa oplatí rozvíjať, najmä v tímoch, ktoré sa spoliehajú na to, že myslíte dopredu.",
       "mid": "Spoznávate v sebe niektoré črty lojalistu. Ceníte si istotu a dôveryhodné vzťahy a dokážete odhaliť riziká, no vaše pochybnosti vás zvyčajne nebrzdia. Vyvažujete opatrnosť so sebadôverou. Tip: keď obavy začnú narastať, oddeľte realistické riziká od scenárov typu „čo ak“. Častejšie dôverujte vlastnému úsudku, namiesto hľadania uistenia. Zakaždým, keď podľa neho konáte, rastie vaša dôvera vo vlastný vnútorný kompas.",
       "high": "Vzorec lojalistu je u vás silný. Ste lojálni, zodpovední a citliví na riziká a dôveru a istotu si veľmi ceníte. Vaším hlavným strachom je zostať bez podpory či vedenia v nebezpečnom svete. Ste spoľahlivým členom tímu, ktorý sa pripraví na problémy, ktoré iní prehliadnu. Tip: všímajte si, kedy vás úzkosť vedie k prílišnému plánovaniu alebo k pochybnostiam o všetkých, vrátane seba. Precvičujte si konanie podľa vlastného úsudku po malých krokoch. Rast prichádza, keď v sebe objavíte vnútornú istotu, ktorú ste hľadali mimo seba."
     },
     "type7": {
-      "name": "Typ 7 – Nadšenec",
+      "name": "Typ 7: Nadšenec",
       "short": "Poháňa ho túžba po slobode a zábave; bojí sa, že uviazne v bolesti alebo strádaní.",
       "low": "Vzorec nadšenca u vás hrá len malú úlohu. Neustále nevyhľadávate nové zážitky a dokážete zostať pri jednej veci, aj keď nie je vzrušujúca. To vám dáva sústredenie a hĺbku. Tip: občas si doprajte trochu spontánnosti, napríklad krátky výlet alebo novú záľubu. Trocha hravosti môže osviežiť vašu energiu aj vzťahy.",
       "mid": "Spoznávate v sebe niektoré črty nadšenca. Baví vás zábava, rozmanitosť a nové plány, no dokážete sa aj zaviazať a zostať s ťažkými pocitmi. Vyvažujete optimizmus s realizmom a dokážete si užiť dobrodružstvo aj pokoj. Tip: všímajte si, kedy siahate po rozptýlení, aby ste sa vyhli niečomu nepríjemnému. Ak dokončíte jeden projekt skôr, než začnete ďalší, vaše nadšenie sa vám vráti a prinesie hlbšie uspokojenie z dokončenej práce.",
       "high": "Vzorec nadšenca je u vás silný. Ste optimistickí, dobrodružní a plní nápadov a radi si nechávate otvorené možnosti. Vaším hlavným strachom je uviaznuť v bolesti, nude alebo obmedzení, preto často rýchlo prechádzate k ďalšej vzrušujúcej veci. Kamkoľvek prídete, prinášate energiu a radosť. Tip: precvičujte si zostať s ťažkými emóciami, namiesto úteku pred nimi. Vyberte si niekoľko záväzkov a doveďte ich do konca. Rast prichádza, keď nájdete uspokojenie v hĺbke, nielen v rozmanitosti."
     },
     "type8": {
-      "name": "Typ 8 – Vyzývateľ",
+      "name": "Typ 8: Vyzývateľ",
       "short": "Poháňa ho túžba byť silný a mať kontrolu; bojí sa, že ho niekto ovládne alebo bude zraniteľný.",
       "low": "Vzorec vyzývateľa u vás hrá vedľajšiu úlohu. Nepotrebujete preberať kontrolu ani dokazovať svoju silu a konfrontáciu vyhľadávate len zriedka. Vďaka tomu sa s vami ľahko spolupracuje. Tip: v situáciách, keď sa s vami alebo s inými zaobchádza nespravodlivo, si precvičujte pevne sa ozvať. Presadiť sa nie je agresia; je to ochrana toho, na čom záleží. Začnite v malých situáciách, napríklad jasným vyjadrením svojej preferencie na porade.",
       "mid": "Spoznávate v sebe niektoré črty vyzývateľa. Dokážete byť priami a ochraňujúci a keď treba, preberiete vedenie, no nepotrebujete dominovať. Prejavujete silu bez straty citlivosti. Tip: všímajte si, kedy silno tlačíte, aby ste sa nemuseli cítiť zraniteľní. Ak ľuďom dovolíte vidieť aj vašu jemnejšiu stránku, môže to prehĺbiť dôveru. Spýtajte sa iných, ako na nich vaša priamosť pôsobí; ich odpovede vám môžu pomôcť využívať vašu silu múdrejšie.",
       "high": "Vzorec vyzývateľa je u vás silný. Ste sebavedomí, priami a ochraňujúci a prirodzene preberáte vedenie. Vaším hlavným strachom je, že vás niekto ovládne, ublíži vám alebo budete zraniteľní, preto si ceníte silu a nezávislosť. Zastanete sa seba aj iných a nebojíte sa konfliktu. Tip: vaša intenzita môže ľudí zahltiť, preto stíšte hlas a pred konaním naplno počúvajte. Precvičujte si prejavovanie zraniteľnosti pred ľuďmi, ktorým dôverujete. Rast prichádza, keď uvidíte, že otvorenosť a jemnosť sú tiež formami sily."
     },
     "type9": {
-      "name": "Typ 9 – Mierotvorca",
+      "name": "Typ 9: Mierotvorca",
       "short": "Poháňa ho túžba po vnútornom aj vonkajšom pokoji; bojí sa konfliktu a odlúčenia.",
       "low": "Vzorec mierotvorcu u vás hrá len malú úlohu. Konfliktom sa nevyhýbate a ochotne sa postavíte za vlastné priority. Vďaka tomu ste aktívni a máte jasno v tom, čo chcete. Tip: keď napätie stúpa, precvičujte si vypočuť všetky strany skôr, než budete presadzovať svoj pohľad. Občasné pokojnejšie tempo vám môže pomôcť vidieť širšie súvislosti.",
       "mid": "Spoznávate v sebe niektoré črty mierotvorcu. Ceníte si harmóniu a dokážete vidieť rôzne pohľady, no ozvete sa, keď vám na niečom záleží. Vyvažujete pokoj so zapojením. Tip: všímajte si, kedy sa prispôsobujete iným, aby ste sa vyhli treniciam. Ak poviete, čo chcete, aj v maličkostiach, vaše vzťahy zostanú úprimné a nebude sa v nich potichu hromadiť krivda. Váš pohľad prináša niečo, čo iní nedokážu.",

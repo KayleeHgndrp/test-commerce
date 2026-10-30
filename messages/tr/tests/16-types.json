@@ -2,7 +2,7 @@
   "name": "16 Kişilik Tipi Testi",
   "tagline": "Dört harfli tipini ve senin hakkında ne söylediğini öğren.",
   "intro": "Bu test seni dört tercih ölçeğine yerleştirir: enerjini nereden aldığın, bilgiyi nasıl edindiğin, nasıl karar verdiğin ve hayatını nasıl düzenlediğin. Dört tercihin birleşerek 16 kişilik tipinden birini oluşturur. 100 kısa ifadeyi değerlendir; yaklaşık beş dakika sürer.",
-  "seoTitle": "16 Kişilik Tipi Testi – Ücretsiz dört harfli tip",
+  "seoTitle": "16 Kişilik Tipi Testi: Ücretsiz dört harfli tip",
   "seoDescription": "5 dakikada dört harfli kişilik tipini keşfet. Her ölçekteki tercihlerini gör ve pratik ipuçlarıyla tipinin portresini oku.",
   "items": [
     "En iyi, fikirleri başkalarıyla konuşarak düşünürüm.",
@@ -108,28 +108,28 @@
   ],
   "dimensions": {
     "extraversion": {
-      "name": "Dışadönüklük – İçedönüklük",
+      "name": "Dışadönüklük / İçedönüklük",
       "short": "Enerjini esas olarak insanlar ve eylemden oluşan dış dünyadan mı (E) yoksa düşünceler ve yansımadan oluşan iç dünyandan mı (I) aldığın.",
       "low": "İçedönüklüğe (I) yatkınsın. Sessizlikte şarj oluyor, konuşmadan önce düşünüyor ve birçok kısa sohbet yerine birkaç derin sohbeti tercih ediyorsun. Fikirleri çoğu zaman içinde işliyor ve tamamen olgunlaştıklarında paylaşıyorsun. Yoğun sosyal günler, keyif almış olsan bile seni yorgun bırakabilir. İpucu: yoğun sosyal etkinliklerden sonra toparlanma zamanı planla ve bunu kaçış değil bakım olarak gör. Grup ortamlarında katkını önceden hazırla ya da sonrasında yazılı olarak paylaş ki fikirlerin duyulsun.",
       "mid": "Dışadönüklük ile içedönüklük arasında ortaya yakın bir yerdesin; bu yüzden harfin ruh haline ya da duruma göre değişebilir. Başkalarının arkadaşlığından ve hareketten keyif alıyorsun ama şarj olmak için yalnız zamana da ihtiyaç duyuyorsun. İşe göre başkalarıyla sesli düşünebilir ya da sessizce kafa yorabilirsin. İpucu: farklı türde günlerden sonra enerjini gözlemle. Bu bilgiyi, sosyal teması ve sessiz zamanı sana uyan oranlarda karıştıran haftalık bir ritim kurmak için kullan.",
       "high": "Dışadönüklüğe (E) yatkınsın. Enerjini insanlardan, sohbetten ve hareketten alıyor ve çoğu zaman en iyi bir şeyleri konuşarak düşünüyorsun. Hızlı dahil oluyor, kolay yaklaşılabilir biri oluyor ve gruplarda rahat hissediyorsun. Uzun süre yalnız kalmak seni huzursuz edebilir. İpucu: bir tartışmada tepki vermeden önce kısa bir duraklama yap ve önce bir soru sor; bu, daha sessiz insanlara alan açar ve kendi düşünceni de keskinleştirir. Yaşadıklarını işlemek için kısa düşünme anları planla."
     },
     "sensing": {
-      "name": "Duyumsama – Sezgi",
+      "name": "Duyumsama / Sezgi",
       "short": "Esas olarak somut gerçeklere, ayrıntılara ve deneyime mi (S) yoksa örüntülere, olasılıklara ve büyük resme mi (N) odaklandığın.",
       "low": "Sezgiye (N) yatkınsın. Doğal olarak anlam, örüntü ve gelecekteki olasılıklar arıyor; fikirlerden, teorilerden ve neler olabileceğini hayal etmekten keyif alıyorsun. Rutin ayrıntılar seni sıkabilir ve büyük resme ulaşmak için bazen adımları atlayabilirsin. İpucu: bir vizyonu paylaşırken başkalarının takip edebilmesi için somut örnekler ve sonraki adımlar ekle. Bir şeye bağlanmadan önce ayrıntı odaklı bir iş arkadaşından planlarındaki pratik boşlukları kontrol etmesini iste.",
       "mid": "Duyumsama ile sezgi arasında ortaya yakın bir yerdesin; bu yüzden harfin durumdan duruma değişebilir. Somut gerçekler ve ayrıntılarla çalışabiliyor ama fikirleri ve olasılıkları keşfetmekten de keyif alıyorsun. Bu, pratik insanlarla vizyonerler arasında köprü kurmanı sağlar. İpucu: baskı altında varsayılan olarak hangi moda geçtiğini fark et. Önemli kararlarda bilerek ikisini de kontrol et: gerçekler ne diyor ve hangi yeni seçenekler düşünülmeye değer?",
       "high": "Duyumsamaya (S) yatkınsın. Gerçeklere, deneyime ve görüp test edebildiğin şeylere güveniyorsun. Ayrıntıları fark ediyor, net talimatları tercih ediyor ve pratik faydası olan fikirleri seviyorsun. İnsanlar gerçekçiliğine ve titizliğine güvenir. İpucu: başkaları soyut fikirler paylaştığında, uygulanabilirliklerini yargılamadan önce onlara biraz zaman tanı; bazıları faydalı bir şeye dönüşebilir. Bakış açını genişletmek için ara sıra bir eğilimin beş yıl içinde nereye varabileceğini hayal etmeyi dene."
     },
     "thinking": {
-      "name": "Düşünme – Hissetme",
+      "name": "Düşünme / Hissetme",
       "short": "Kararlarını esas olarak mantık ve nesnel analizle mi (T) yoksa kişisel değerler ve insanlar üzerindeki etkiyle mi (F) verdiğin.",
       "low": "Hissetmeye (F) yatkınsın. Kararlarını değerleri, ilişkileri ve insanların nasıl etkileneceğini tartarak veriyorsun. Uyuma değer veriyor, nezaketi takdir ediyor ve başkalarının neye ihtiyaç duyduğunu çabucak seziyorsun. İnsanlar çoğu zaman senin tarafından anlaşıldıklarını hissediyor. İpucu: bir karar zor olduğunda nesnel artıları ve eksileri de yaz; bu, seçimini açıklamayı kolaylaştırabilir. Sıcak bir şekilde iletilen dürüst geri bildirimin de bir özen biçimi olduğunu unutma.",
       "mid": "Düşünme ile hissetme arasında ortaya yakın bir yerdesin; bu yüzden harfin durumdan duruma farklılık gösterebilir. Karar verirken hem mantığı hem de insani etkiyi tartıyorsun; bu da adil ve dengeli çözümler bulmana yardımcı oluyor. İpucu: işte mantığa, evde duygulara mı dayandığını yoksa tam tersini mi yaptığını fark et. Önemli kararlarda bilinçli olarak ikisini de kontrol et: sağlam mı ve ilgili insanlar için adil mi?",
       "high": "Düşünmeye (T) yatkınsın. Kararlarını mantık, tutarlılık ve nesnel analizle veriyorsun. Adaleti herkese aynı kuralları uygulamak anlamında önemsiyor ve duygulara kapılmadan sert geri bildirim verebiliyorsun. İpucu: eleştirini paylaşmadan önce birinin işinin arkasındaki çabayı ya da niyeti takdir et. Bir kararın etkilenen insanlara nasıl hissettireceğini sor; bu, akıl yürütmeni zayıflatmadan kabulü çoğu zaman artırır."
     },
     "judging": {
-      "name": "Yargılama – Algılama",
+      "name": "Yargılama / Algılama",
       "short": "Planlı, kararlaştırılmış ve yapılandırılmış bir hayatı mı (J) yoksa esnek, açık ve kendiliğinden bir hayatı mı (P) tercih ettiğin.",
       "low": "Algılamaya (P) yatkınsın. Seçeneklerini açık tutmayı, ilerledikçe uyum sağlamayı ve gerektiğinde karar vermeyi seviyorsun. Çoğu zaman enerji patlamalarıyla çalışıyor ve katı programlar içinde sıkışmış hissediyorsun. Bu, planlar değiştiğinde seni esnek ve becerikli kılar. İpucu: tek bir teslim tarihi hatırlatma sistemi gibi, temel şeyler için hafif bir yapı kullan. Büyük projeleri küçük kilometre taşlarına böl ki son dakika telaşı strese dönüşmesin.",
       "mid": "Yargılama ile algılama arasında ortaya yakın bir yerdesin; bu yüzden harfin değişebilir. Bir plana sahip olmayı seviyorsun ama daha iyi bir şey çıktığında onu kolayca bırakabiliyorsun. Teslim tarihlerine uyabiliyor ve yine de kendiliğindenlikten keyif alabiliyorsun. İpucu: biraz daha fazla planlamanın stresi nerede azaltacağını, örneğin seyahat ya da para konusunda, ve daha fazla esnekliğin nerede keyif katacağını fark et. Alışkanlıkla değil, bilinçli olarak ayarla.",

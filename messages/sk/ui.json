@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Psychologické testy online zadarmo",
-    "description": "Podrobné testy o osobnosti, vzťahoch, práci a duševnej pohode – postavené na uznávanom psychologickom výskume a vysvetlené zrozumiteľnou rečou."
+    "title": "{site}: Psychologické testy online zadarmo",
+    "description": "Podrobné testy o osobnosti, vzťahoch, práci a duševnej pohode, postavené na uznávanom psychologickom výskume a vysvetlené zrozumiteľnou rečou."
   },
   "nav": {
     "tests": "Testy",
@@ -14,14 +14,14 @@
     "badge": "Testy: {count} · Jazyky: {languages}",
     "heroTitle": "Testy, ktoré odhalia vašu",
     "heroHighlight": "osobnosť",
-    "heroSubtitle": "Podrobné testy o osobnosti, vzťahoch a duševnej pohode – každý postavený na uznávanom psychologickom výskume a vysvetlený tak zrozumiteľne, že ho naozaj dočítate až do konca.",
+    "heroSubtitle": "Podrobné testy o osobnosti, vzťahoch a duševnej pohode, každý postavený na uznávanom psychologickom výskume a vysvetlený tak zrozumiteľne, že ho naozaj dočítate až do konca.",
     "heroCta": "Pozrieť testy",
     "heroSecondary": "Ako to funguje",
     "trust1": "Bez registrácie",
     "trust2": "Jednorazová platba, žiadne predplatné",
     "trust3": "Správa priamo do vašej schránky",
-    "dimensionsTitle": "Ste viac než jedno skóre – spoznajte všetky svoje stránky.",
-    "dimensionsSubtitle": "Oblasti, ktoré naše testy merajú najčastejšie – od osobnosti cez vzťahy až po duševnú pohodu.",
+    "dimensionsTitle": "Ste viac než jedno skóre. Spoznajte všetky svoje stránky.",
+    "dimensionsSubtitle": "Oblasti, ktoré naše testy merajú najčastejšie: od osobnosti cez vzťahy až po duševnú pohodu.",
     "dimensions": [
       "🎯 Sústredenie",
       "🔋 Sociálna energia",
@@ -39,7 +39,7 @@
     "steps": [
       {
         "title": "Vyberte si test",
-        "text": "Vyberte si z našej ponuky testov osobnosti, vzťahov a skríningových testov – všetky vychádzajú z uznávaných psychologických modelov."
+        "text": "Vyberte si z našej ponuky testov osobnosti, vzťahov a skríningových testov, všetky vychádzajú z uznávaných psychologických modelov."
       },
       {
         "title": "Vyplňte test",
@@ -47,7 +47,7 @@
       },
       {
         "title": "Prečítajte si správu",
-        "text": "Získajte osobnú správu so svojimi výsledkami, ich významom a praktickými tipmi – priamo do schránky."
+        "text": "Získajte osobnú správu so svojimi výsledkami, ich významom a praktickými tipmi, priamo do schránky."
       }
     ],
     "pricingTitle": "Jednoduchý cenník",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Je test „{test}“ zadarmo?",
-        "a": "Áno, vyplnenie testu je zadarmo. Ak chcete úplnú osobnú správu so všetkými skóre a vysvetleniami, môžete si ju objednať za {price} ako jednorazovú platbu – bez predplatného."
+        "a": "Áno, vyplnenie testu je zadarmo. Ak chcete úplnú osobnú správu so všetkými skóre a vysvetleniami, môžete si ju objednať za {price} ako jednorazovú platbu, bez predplatného."
       },
       {
         "q": "Aký spoľahlivý je test „{test}“?",
@@ -322,7 +322,7 @@
       "Správa stojí {price} za test ako jednorazová platba. Balíky, plný prístup aj partnerské správy sú tiež jednorazové platby. Nie je žiadne predplatné ani automatické obnovenie.",
       "Neprišla vám správa alebo sa niečo pokazilo? Napíšte do 14 dní na {email}, uveďte e-mailovú adresu použitú pri nákupe a správu vám pošleme znova alebo vrátime platbu.",
       "Keďže správa je digitálny obsah dodaný okamžite, zákonné právo na odstúpenie od zmluvy zaniká jej odoslaním. Ak niečo nie je v poriadku, vždy vám radi pomôžeme.",
-      "Peniaze vraciame na pôvodný spôsob platby do 5 – 10 pracovných dní."
+      "Peniaze vraciame na pôvodný spôsob platby do 5–10 pracovných dní."
     ],
     "noticeTitle": "Právne informácie",
     "notice": {
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "O {site}",
-    "intro": "Veríme, že si každý zaslúži jasný a úprimný pohľad na seba samého – bez odborného žargónu, bez predplatného a bez štvorpísmenovej nálepky, ktorá nič nevysvetľuje.",
+    "intro": "Veríme, že si každý zaslúži jasný a úprimný pohľad na seba samého, bez odborného žargónu, bez predplatného a bez štvorpísmenovej nálepky, ktorá nič nevysvetľuje.",
     "missionTitle": "Naše poslanie",
     "mission": "Psychológia vyvinula účinné spôsoby, ako opísať osobnosť, vzťahy a duševnú pohodu, no väčšina týchto poznatkov zostáva zatvorená v učebniciach alebo drahých vyšetreniach. {site} ich sprístupňuje: podrobné testy, ktoré môže každý vyplniť zadarmo vo svojom jazyku, s osobnou správou, ktorá vám výsledky vysvetlí zrozumiteľne a ponúkne praktické ďalšie kroky.",
     "howTitle": "Ako vytvárame naše testy",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Písané tak, aby sa čítali",
-        "text": "Naše správy vysvetľujú, čo každé skóre znamená, odkiaľ pochádza a čo s ním môžete robiť. Žiadny žargón ani hmlisté frázy ako z horoskopu – len jasné a praktické poznatky."
+        "text": "Naše správy vysvetľujú, čo každé skóre znamená, odkiaľ pochádza a čo s ním môžete robiť. Žiadny žargón ani hmlisté frázy ako z horoskopu. Len jasné a praktické poznatky."
       }
     ],
     "valuesTitle": "Na čo sa môžete spoľahnúť",

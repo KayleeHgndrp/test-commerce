@@ -2,7 +2,7 @@
   "name": "Imposztor-szindróma teszt",
   "tagline": "Csalónak érzed magad az eredményeid ellenére is?",
   "intro": "Ez a teszt az imposztorérzés négy gyakori oldalát vizsgálja: a képességeidben való kételkedést, a lelepleződéstől való félelmet, a sikereid lekicsinylését és a kompenzáló túlhajszoltságot. Értékeld, mennyire értesz egyet az egyes állításokkal, a munkádra vagy a tanulmányaidra gondolva. Körülbelül öt percet vesz igénybe, és megmutatja, mely imposztormintázatok a legerősebbek nálad.",
-  "seoTitle": "Imposztor-szindróma teszt – Ingyenes online önellenőrzés",
+  "seoTitle": "Imposztor-szindróma teszt: Ingyenes online önellenőrzés",
   "seoDescription": "Csalónak érzed magad a munkahelyeden? Töltsd ki ezt az 5 perces tesztet az önbizalomhiányról, a lelepleződéstől való félelemről és a túlhajszoltságról.",
   "items": [
     "Kételkedem abban, hogy olyan rátermett vagyok, amilyennek a pozícióm megkívánja.",
@@ -112,7 +112,7 @@
       "short": "Mennyire kérdőjelezed meg a saját készségeidet és hozzáértésedet.",
       "low": "A válaszaid alapján szilárd, reális bizalmad van a képességeidben. Úgy tűnik, érzed, hogy a helyeden vagy a pozíciódban, és erős kételyek nélkül tudsz új kihívásokat vállalni. Ez a magabiztosság segít tanulni és hozzájárulni. Tartsd egészségesen azzal, hogy kíváncsi maradsz, és visszajelzést kérsz, hogy az önbizalmad továbbra is azon alapuljon, amiben ténylegesen jó vagy, és ahol még fejlődhetsz.",
       "mid": "A válaszaid alapján néha megkérdőjelezed a képességeidet, különösen új vagy nagy nyomással járó helyzetekben. Valószínűleg magabiztos vagy az ismerős feladatokban, de kevésbé, amikor nő a tét. Vezess egyszerű listát azokról a készségekről, amelyeket használtál, és azokról a problémákról, amelyeket megoldottál. Amikor felbukkan a kétely, a bizonyítékokat nézd, ne az érzést. Emlékeztesd magad, hogy tanulás közben bizonytalannak lenni normális, és nem jelenti azt, hogy nem vagy rátermett.",
-      "high": "A válaszaid alapján az önbizalomhiány hangsúlyos téma nálad. Gyakran érezheted magad kevésbé rátermettnek, mint a körülötted lévők, még akkor is, ha az eredményeid mást mutatnak. Ez visszatarthat attól, hogy megszólalj vagy esélyt vállalj. Próbáld meg leírni a munkáddal kapcsolatos konkrét tényeket – a visszajelzéseket, az elvégzett projekteket és a készségeidet –, és olvasd el őket, amikor rád tör a kétely. Beszélj egy mentorral arról, ő hogyan lát téged. Ha az önbizalomhiány megterheli a jóllétedet, egy coach vagy képzett szakember segíthet."
+      "high": "A válaszaid alapján az önbizalomhiány hangsúlyos téma nálad. Gyakran érezheted magad kevésbé rátermettnek, mint a körülötted lévők, még akkor is, ha az eredményeid mást mutatnak. Ez visszatarthat attól, hogy megszólalj vagy esélyt vállalj. Próbáld meg leírni a munkáddal kapcsolatos konkrét tényeket (a visszajelzéseket, az elvégzett projekteket és a készségeidet), és olvasd el őket, amikor rád tör a kétely. Beszélj egy mentorral arról, ő hogyan lát téged. Ha az önbizalomhiány megterheli a jóllétedet, egy coach vagy képzett szakember segíthet."
     },
     "fear_of_exposure": {
       "name": "Lelepleződéstől való félelem",

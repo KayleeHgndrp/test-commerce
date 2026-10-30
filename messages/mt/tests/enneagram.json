@@ -2,7 +2,7 @@
   "name": "Test tal-Enneagram",
   "tagline": "Skopri l-motivazzjoni ewlenija wara kif taħseb u kif taġixxi.",
   "intro": "L-Enneagram jiddeskrivi disa' tipi ta' personalità, kull wieħed immexxi minn motivazzjoni ewlenija u minn biża' ewlieni differenti. Dan it-test ikejjel kemm tidentifika ruħek ma' kull wieħed mid-disa' mudelli u jenfasizza dak li l-aktar jaqbel miegħek. Ivvaluta 100 stqarrija qasira; jieħu madwar ħames minuti.",
-  "seoTitle": "Test tal-Enneagram – Test b'xejn tad-9 tipi",
+  "seoTitle": "Test tal-Enneagram: Test b'xejn tad-9 tipi",
   "seoDescription": "Liema tip tal-Enneagram int? Agħmel dan it-test b'xejn ta' 5 minuti, ara l-punteġġi tiegħek u ikseb pariri ta' tkabbir għat-tip ewlieni tiegħek.",
   "items": [
     "Għandi leħen intern qawwi li jgħidli x'inhu sewwa.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Tip 1 – Il-Perfezzjonist",
+      "name": "Tip 1: Il-Perfezzjonist",
       "short": "Immexxi mix-xewqa li jkun tajjeb, korrett u li jtejjeb id-dinja; jibża' li jkun żbaljat jew difettuż.",
       "low": "Il-mudell tal-Perfezzjonist għandu rwol żgħir biss għalik. Int rilassat dwar ir-regoli u l-iżbalji u ma tħossx kritiku intern qawwi jimbottak biex kollox ikun eżatt. Dan iħallik timxi mal-kurrent u taħfer faċilment. Parir: f'oqsma fejn il-kwalità verament tgħodd, bħas-saħħa jew il-finanzi, ftit aktar struttura u attenzjoni għad-dettall jistgħu jservuk. Iċċekkja jekk ir-rilassament kultant ifissirx li tħalli standards importanti jiżolqu.",
       "mid": "Tagħraf fik xi karatteristiċi tal-Perfezzjonist. Jimpurtak tagħmel l-affarijiet sew u tista' tkun kritiku ta' lilek innifsek, iżda taf ukoll meta tajjeb biżżejjed huwa biżżejjed. Is-sens tiegħek ta' x'inhu sewwa u x'inhu ħażin jiggwidak mingħajr ma jiddominak. Parir: innota meta l-kritiku intern tiegħek jgħolli leħnu, ħafna drabi taħt stress, u wieġbu bil-ġentilezza. Agħżel b'mod konxju fejn standards għoljin iżidu l-valur u fejn il-flessibbiltà tagħmel il-ħajja aktar faċli.",
       "high": "Il-mudell tal-Perfezzjonist huwa qawwi fik. Int persuna ta' prinċipji, koxjenzjuża u mmexxija biex ittejjeb lilek innifsek u lid-dinja. Il-biża' ewlieni tiegħek huwa li tkun żbaljat, ħażin jew difettuż, għalhekk kritiku intern strett ħafna drabi jżommok fil-linja. Iġġib l-integrità u l-kwalità f'dak kollu li tagħmel. Parir: ipprattika li taċċetta l-imperfezzjoni, kemm fik kif ukoll fl-oħrajn; l-iżbalji huma parti mit-tagħlim. Ippermetti lilek innifsek il-pjaċir u l-logħob mingħajr ma l-ewwel tistħoqqhom. It-tkabbir jiġi meta tafda li diġà int tajjeb biżżejjed."
     },
     "type2": {
-      "name": "Tip 2 – Min Jgħin",
+      "name": "Tip 2: Min Jgħin",
       "short": "Immexxi mix-xewqa li jkun maħbub u meħtieġ; jibża' li ma jkunx mixtieq jew li ma jistħoqqlux l-imħabba.",
       "low": "Il-mudell ta' Min Jgħin għandu rwol minuri għalik. Ma tibnix l-identità tiegħek fuq li jkollhom bżonnok u tħossok komdu tiffoka fuq ħajtek. Dan jipproteġik milli tagħti żżejjed. Parir: kun żgur li n-nies qrib tiegħek xorta jħossu l-kura tiegħek; ġesti żgħar, bħal li tistaqsi kif inhuma jew toffri l-għajnuna mingħajr ma jitolbuk, iżommu r-relazzjonijiet sħan. Innota meta l-indipendenza tinbidel f'distanza.",
       "mid": "Tagħraf fik xi karatteristiċi ta' Min Jgħin. Tieħu pjaċir tappoġġja lill-oħrajn u tħobb tkun apprezzat, iżda tista' wkoll tqiegħed lilek innifsek l-ewwel meta jkun meħtieġ. Is-sħana tiegħek hija bilanċjata mar-rispett lejk innifsek. Parir: innota jekk kultant tgħin biex tkun maħbub aktar milli għax trid. Ipprattika li titlob direttament dak li għandek bżonn minflok ma tittama li l-oħrajn jindunaw. In-nies li jimpurtahom minnek normalment jilqgħu ċ-ċans li jagħtu xi ħaġa lura.",
       "high": "Il-mudell ta' Min Jgħin huwa qawwi fik. Int sħun, ġeneruż u attent għal dak li għandhom bżonn l-oħrajn, u tħossok l-aktar siewi meta tkun qed tgħin. Il-biża' ewlieni tiegħek huwa li ma tkunx maħbub jew mixtieq. In-nies jesperjenzawk bħala xi ħadd li jieħu ħsieb u jappoġġja. Parir: il-bżonnijiet tiegħek huma leġittimi daqs ta' kulħadd, għalhekk semmihom b'mod miftuħ. Għin għax tagħżel li tagħmel hekk, mhux biex tiżgura l-imħabba. It-tkabbir jiġi meta tħalli lill-oħrajn jieħdu ħsiebek ukoll u tafda li int ta' min iħobbok anke mingħajr ma tagħti."
     },
     "type3": {
-      "name": "Tip 3 – Min Jirnexxi",
+      "name": "Tip 3: Min Jirnexxi",
       "short": "Immexxi mix-xewqa li jirnexxi u jkun ammirat; jibża' li ma jiswa xejn jew li jkun falliment.",
       "low": "Il-mudell ta' Min Jirnexxi għandu rwol żgħir biss għalik. L-istatus, l-immaġni u s-suċċess estern mhumiex il-muturi ewlenin tiegħek, u ma tkejjilx il-valur tiegħek b'dak li tikseb. Dan jagħtik libertà mill-paragun. Parir: jekk għandek miri li jimpurtak minnhom, ftit ambizzjoni u progress viżibbli jistgħu jgħinuk tilħaqhom. Ħalli lill-oħrajn jaraw il-kisbiet tiegħek; l-umiltà m'għandhiex taħbi l-punti qawwija tiegħek.",
       "mid": "Tagħraf fik xi karatteristiċi ta' Min Jirnexxi. Tħobb tmur tajjeb u tieħu pjaċir bir-rikonoxximent, iżda s-sens tal-valur tiegħek ma jiddependix għal kollox fuq is-suċċess. Tista' taħdem iebes lejn il-miri u xorta tgawdi l-ħin liberu. Parir: iċċekkja jekk il-miri li qed issegwi humiex verament tiegħek jew dak li jistennew l-oħrajn. Iċċelebra l-kisbiet, imbagħad ħu wkoll ħin biex tgawdi l-ħajja barra mill-prestazzjoni, ma' nies li jħobbuk irrispettivament mir-riżultati tiegħek.",
       "high": "Il-mudell ta' Min Jirnexxi huwa qawwi fik. Int ambizzjuż, effiċjenti u ffukat fuq is-suċċess, u taf kif tippreżenta lilek innifsek tajjeb. Il-biża' ewlieni tiegħek huwa li ma tiswa xejn mingħajr il-kisbiet tiegħek. Timmotiva lill-oħrajn u twettaq l-affarijiet. Parir: innota meta tadatta l-immaġni tiegħek biex togħġob lill-oħrajn jew taħdem biex tevita sens ta' vojt. Qatta' ħin f'attivitajiet mingħajr ebda għan. It-tkabbir jiġi meta tagħti valur lilek innifsek għal min int, mhux għal dak li tikseb."
     },
     "type4": {
-      "name": "Tip 4 – L-Individwalista",
+      "name": "Tip 4: L-Individwalista",
       "short": "Immexxi mix-xewqa li jkun uniku u awtentiku; jibża' li ma jkollux identità jew sinifikat.",
       "low": "Il-mudell tal-Individwalista għandu rwol minuri għalik. Ma tħossx bżonn qawwi li tkun differenti jew li tesplora kull emozzjoni fil-fond, u tħossok komdu tidħol mal-oħrajn. Dan iżommok b'saqajk mal-art u prattiku. Parir: agħmel ftit spazju għall-espressjoni personali, bħal passatemp kreattiv jew konversazzjonijiet onesti dwar is-sentimenti. Li tesplora x'jagħmlek uniku jista' jżid għana lil ħajtek.",
       "mid": "Tagħraf fik xi karatteristiċi tal-Individwalista. Tagħti valur lill-awtentiċità u għandek ħajja interna rikka, iżda ma tħossokx fundamentalment differenti mill-oħrajn. Tista' tesprimi l-emozzjonijiet u xorta żżomm il-perspettiva. Parir: uża s-sensittività tiegħek b'mod kreattiv, pereżempju permezz tal-kitba jew tal-arti. Meta tħossok mhux mifhum, iċċekkja jekk verament qsamtx dak li tħoss. L-oħrajn ħafna drabi jimpurtahom aktar milli tistenna ladarba jifhmu d-dinja interna tiegħek.",
       "high": "Il-mudell tal-Individwalista huwa qawwi fik. Int sensittiv, espressiv u f'kuntatt profond mal-emozzjonijiet tiegħek, u tixxennaq li tkun awtentiku u mifhum. Il-biża' ewlieni tiegħek huwa li ma jkollokx identità vera jew sinifikat. Iġġib profondità, kreattività u onestà dwar is-sentimenti. Parir: innota meta tiffoka fuq dak li hemm nieqes aktar milli fuq dak li għandek. Prattiki ta' gratitudni u rutini prattiċi jistgħu jistabbilizzaw il-burdati tiegħek. It-tkabbir jiġi meta tirrealizza li mumenti u konnessjonijiet ordinarji jistgħu wkoll ikunu mimlija tifsira."
     },
     "type5": {
-      "name": "Tip 5 – L-Investigatur",
+      "name": "Tip 5: L-Investigatur",
       "short": "Immexxi mix-xewqa li jifhem u jkun kompetenti; jibża' li jkun bla għajnuna jew megħlub.",
       "low": "Il-mudell tal-Investigatur għandu rwol żgħir biss għalik. Ma tħossx bżonn qawwi li tirtira u tanalizza qabel ma taġixxi, u taqsam ħinek u l-enerġija tiegħek faċilment. Dan jagħmlek aċċessibbli u involut. Parir: meta tiffaċċja deċiżjonijiet kumplessi, agħti lilek innifsek ftit ħin kwiet ta' riċerka qabel ma tidħol fihom. Li tapprofondixxi l-għarfien tiegħek f'qasam wieħed li jimpurtak minnu jista' jibni l-fiduċja u l-kompetenza.",
       "mid": "Tagħraf fik xi karatteristiċi tal-Investigatur. Tieħu pjaċir titgħallem u għandek bżonn ftit ħin privat, iżda tista' wkoll tinvolvi ruħek b'mod attiv man-nies u mad-dinja. Tagħti valur lill-għarfien mingħajr ma tistaħba warajh. Parir: innota meta tiġbed lura biex tosserva minflok tieħu sehem, speċjalment fir-relazzjonijiet. Li taqsam dak li taf, anke qabel ma tħossok kompletament lest, jista' jkun ta' sodisfazzjon u ħafna drabi jġib feedback utli u konnessjoni.",
       "high": "Il-mudell tal-Investigatur huwa qawwi fik. Int kurjuż, perċettiv u indipendenti, u trid tifhem id-dinja fil-fond. Il-biża' ewlieni tiegħek huwa li tkun bla għajnuna, inkapaċi jew imbattal mit-talbiet tal-oħrajn, għalhekk tħares ħinek u l-enerġija tiegħek bir-reqqa. Iġġib għarfien profond u kompetenza. Parir: innota meta l-ġbir tal-għarfien isir mod kif tevita l-azzjoni jew is-sentimenti. Ħu passi żgħar qabel ma tħossok kompletament ippreparat. It-tkabbir jiġi meta tafda li għandek biżżejjed biex tinvolvi ruħek għal kollox fil-ħajja u man-nies."
     },
     "type6": {
-      "name": "Tip 6 – Il-Leali",
+      "name": "Tip 6: Il-Leali",
       "short": "Immexxi mix-xewqa għas-sigurtà u l-appoġġ; jibża' li jitħalla mingħajr gwida jew sigurtà.",
       "low": "Il-mudell tal-Leali għandu rwol minuri għalik. Ma tinkwetax wisq dwar x'jista' jmur ħażin u tħossok sigur mingħajr ma jkollok bżonn gwida jew assigurazzjoni qawwija. Dan iħallik taġixxi bil-kuraġġ. Parir: qabel deċiżjonijiet kbar, ikkunsidra b'mod konxju r-riskji possibbli jew staqsi lil xi ħadd aktar kawt għall-fehma tiegħu. Il-lealtà u t-tħejjija jistgħu wkoll ikunu punti qawwija li jiswew li tiżviluppa, speċjalment f'timijiet li jistrieħu fuqek biex taħseb minn qabel.",
       "mid": "Tagħraf fik xi karatteristiċi tal-Leali. Tagħti valur lis-sigurtà u lil relazzjonijiet ta' fiduċja u tista' tinnota r-riskji, iżda d-dubji tiegħek normalment ma jżommukx lura. Tibbilanċja l-kawtela mal-fiduċja. Parir: meta l-inkwiet jibda jikber, issepara r-riskji realistiċi mix-xenarji ta' x'jiġri kieku. Afda l-ġudizzju tiegħek aktar spiss minflok tfittex assigurazzjoni. Kull darba li taġixxi fuqu, il-fiduċja fil-kumpass intern tiegħek tikber.",
       "high": "Il-mudell tal-Leali huwa qawwi fik. Int leali, responsabbli u attent għar-riskji, u tagħti valur kbir lill-fiduċja u s-sigurtà. Il-biża' ewlieni tiegħek huwa li tkun mingħajr appoġġ jew gwida f'dinja perikoluża. Int membru affidabbli ta' tim li jipprepara għal problemi li l-oħrajn jinsew. Parir: innota meta l-ansjetà twasslek biex tippjana żżejjed jew tiddubita f'kulħadd, inkluż fik innifsek. Ipprattika li taġixxi fuq il-ġudizzju tiegħek f'passi żgħar. It-tkabbir jiġi meta tiskopri s-sigurtà interna li kont qed tfittex barra minnek."
     },
     "type7": {
-      "name": "Tip 7 – L-Entużjast",
+      "name": "Tip 7: L-Entużjast",
       "short": "Immexxi mix-xewqa għal-libertà u d-divertiment; jibża' li jinqabad fl-uġigħ jew fiċ-ċaħda.",
       "low": "Il-mudell tal-Entużjast għandu rwol żgħir biss għalik. Ma tfittixx kontinwament esperjenzi ġodda u tista' tibqa' ma' ħaġa waħda, anke meta ma tkunx eċċitanti. Dan jagħtik fokus u profondità. Parir: ippermetti lilek innifsek ftit spontanjetà minn żmien għal żmien, bħal vjaġġ qasir jew passatemp ġdid. Ftit logħob jista' jġedded l-enerġija u r-relazzjonijiet tiegħek.",
       "mid": "Tagħraf fik xi karatteristiċi tal-Entużjast. Tieħu pjaċir bid-divertiment, bil-varjetà u bi pjanijiet ġodda, iżda tista' wkoll timpenja ruħek u tibqa' ma' sentimenti diffiċli. Tibbilanċja l-ottimiżmu mar-realiżmu u tista' tgawdi kemm l-avventura kif ukoll il-kwiet. Parir: innota meta tfittex distrazzjoni biex tevita xi ħaġa skomda. Li tlesti proġett wieħed qabel ma tibda l-ieħor jagħmel l-entużjażmu tiegħek jagħti l-frott u jagħtik is-sodisfazzjon aktar profond tat-tlestija.",
       "high": "Il-mudell tal-Entużjast huwa qawwi fik. Int ottimist, avventuruż u mimli ideat, u tħobb iżżomm l-għażliet tiegħek miftuħa. Il-biża' ewlieni tiegħek huwa li tinqabad fl-uġigħ, fid-dwejjaq jew fil-limitazzjoni, għalhekk ħafna drabi tgħaddi malajr għall-ħaġa eċċitanti li jmiss. Iġġib l-enerġija u l-ferħ kull fejn tmur. Parir: ipprattika li tibqa' ma' emozzjonijiet diffiċli minflok taħrabhom. Agħżel ftit impenji u wettaqhom sal-aħħar. It-tkabbir jiġi meta ssib sodisfazzjon fil-profondità, mhux biss fil-varjetà."
     },
     "type8": {
-      "name": "Tip 8 – L-Isfidant",
+      "name": "Tip 8: L-Isfidant",
       "short": "Immexxi mix-xewqa li jkun b'saħħtu u fil-kontroll; jibża' li jiġi kkontrollat jew li jkun vulnerabbli.",
       "low": "Il-mudell tal-Isfidant għandu rwol minuri għalik. M'għandekx bżonn tieħu l-kontroll jew tipprova s-saħħa tiegħek, u rari tfittex il-konfront. Dan jagħmilha faċli biex wieħed jikkopera miegħek. Parir: f'sitwazzjonijiet fejn int jew oħrajn tiġu ttrattati inġustament, ipprattika li titkellem b'mod sod. Li tafferma lilek innifsek mhijiex aggressjoni; huwa li tipproteġi dak li jgħodd. Ibda b'sitwazzjonijiet żgħar, bħal meta tesprimi b'mod ċar preferenza f'laqgħa.",
       "mid": "Tagħraf fik xi karatteristiċi tal-Isfidant. Tista' tkun dirett u protettiv u tieħu t-tmexxija meta jkun meħtieġ, iżda m'għandekx bżonn tiddomina. Turi s-saħħa mingħajr ma titlef is-sensittività. Parir: innota meta timbotta bil-qawwa biex tevita li tħossok vulnerabbli. Li tħalli lin-nies jaraw in-naħa l-aktar ratba tiegħek jista' japprofondixxi l-fiduċja. Staqsi lill-oħrajn kif tintlaqa' d-direttezza tiegħek; it-tweġibiet tagħhom jistgħu jgħinuk tuża s-saħħa tiegħek b'aktar għaqal.",
       "high": "Il-mudell tal-Isfidant huwa qawwi fik. Int kunfidenti, dirett u protettiv, u tieħu t-tmexxija b'mod naturali. Il-biża' ewlieni tiegħek huwa li tiġi kkontrollat, tiġi ferut jew tkun vulnerabbli, għalhekk tagħti valur lis-saħħa u lill-indipendenza. Tiddefendi lilek innifsek u lill-oħrajn u ma tibżax mill-kunflitt. Parir: l-intensità tiegħek tista' tegħleb lin-nies, għalhekk baxxi leħnek u isma' sew qabel ma taġixxi. Ipprattika li turi l-vulnerabbiltà ma' nies li tafdahom. It-tkabbir jiġi meta tara li l-ftuħ u l-ġentilezza huma wkoll forom ta' saħħa."
     },
     "type9": {
-      "name": "Tip 9 – Min Iġib il-Paċi",
+      "name": "Tip 9: Min Iġib il-Paċi",
       "short": "Immexxi mix-xewqa għall-paċi interna u esterna; jibża' mill-kunflitt u mid-diskonnessjoni.",
       "low": "Il-mudell ta' Min Iġib il-Paċi għandu rwol żgħir biss għalik. Ma tiġbidx lura mill-kunflitt u tiddefendi l-prijoritajiet tiegħek bla diffikultà. Dan iżommok attiv u ċar dwar dak li trid. Parir: meta t-tensjonijiet jogħlew, ipprattika li tisma' n-naħat kollha qabel ma timbotta l-fehma tiegħek. Pass aktar kalm minn żmien għal żmien jista' jgħinek tara l-istampa l-kbira.",
       "mid": "Tagħraf fik xi karatteristiċi ta' Min Iġib il-Paċi. Tagħti valur lill-armonija u tista' tara perspettivi differenti, iżda titkellem ukoll meta xi ħaġa tkun importanti għalik. Tibbilanċja l-kalma mal-involviment. Parir: innota meta taqbel mal-oħrajn biex tevita l-frizzjoni. Li tgħid dak li trid, anke f'affarijiet żgħar, iżomm ir-relazzjonijiet tiegħek onesti u jevita li jakkumula riżentiment sieket. Il-fehma tiegħek iżżid xi ħaġa li l-oħrajn ma jistgħux iżidu.",

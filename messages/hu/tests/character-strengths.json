@@ -2,7 +2,7 @@
   "name": "Jellemerősségek teszt",
   "tagline": "Tudd meg, mely alapvető erények tesznek azzá, aki vagy.",
   "intro": "Kultúrákon és évszázadokon át hat alapvető erény tér vissza újra és újra: a bölcsesség, a bátorság, az emberiesség, az igazságosság, a mértékletesség és a transzcendencia. Ez a teszt megmutatja, melyek a legélőbbek benned. Értékelj 100 rövid állítást arról, hogyan gondolkodsz és cselekszel. Körülbelül öt percet vesz igénybe, és világos képet ad a jellegzetes erősségeidről és arról, hogyan használhatod őket jobban.",
-  "seoTitle": "Jellemerősségek teszt – Fedezd fel alapvető erényeidet",
+  "seoTitle": "Jellemerősségek teszt: Fedezd fel alapvető erényeidet",
   "seoDescription": "Mely erények határoznak meg? Töltsd ki ezt az ingyenes, 5 perces tesztet a bölcsességről, a bátorságról, az emberiességről, az igazságosságról és másokról.",
   "items": [
     "Imádok új módokat találni régi problémák megoldására.",
@@ -118,7 +118,7 @@
       "name": "Bátorság",
       "short": "Vitézség, kitartás, őszinteség és életkedv.",
       "low": "A bátorság jelenleg csendesebb erény a profilodban. Lehet, hogy kerülöd a konfliktust, nehezen tartasz ki, amikor nehézzé válnak a dolgok, vagy úgy érzed, kevés az energiád. Ez gyakran inkább helyzetfüggő, mint rögzített tulajdonság. Kezdd kicsiben: válassz ki egy apró félelmet vagy nehéz beszélgetést, és nézz szembe vele ezen a héten. Bontsd a nagyobb célokat nagyon kis lépésekre, hogy a befejezés elérhetőnek tűnjön, és figyeld meg, hogyan építi minden apró bátor tett az önbizalmadat a következőhöz.",
-      "mid": "A bátorság szilárd része a jellemednek. Amikor igazán számít, meg tudsz szólalni, ki tudsz tartani és őszinte tudsz lenni, még ha nem is mindig könnyen megy. Építs erre azzal, hogy észreveszed, mely helyzetekben fogod vissza magad, és megkérdezed magadtól, mit tennél, ha nem félnél. Gondoskodj az energiádról is – alvással, mozgással és olyan dolgokkal, amelyeket várhatsz –, mert az életkedv sokkal könnyebbé teszi a bátorságot és a kitartást.",
+      "mid": "A bátorság szilárd része a jellemednek. Amikor igazán számít, meg tudsz szólalni, ki tudsz tartani és őszinte tudsz lenni, még ha nem is mindig könnyen megy. Építs erre azzal, hogy észreveszed, mely helyzetekben fogod vissza magad, és megkérdezed magadtól, mit tennél, ha nem félnél. Gondoskodj az energiádról is (alvással, mozgással és olyan dolgokkal, amelyeket várhatsz), mert az életkedv sokkal könnyebbé teszi a bátorságot és a kitartást.",
       "high": "A bátorság az egyik jellegzetes erényed. Kiállsz amellett, ami helyes, kitartasz a kudarcokon át, kimondod az igazat, és energiával közelítesz az élethez. Az emberek hitelesnek és megbízhatónak látnak. Állítsd ezt az erősséget olyan ügyek és célok szolgálatába, amelyek valóban fontosak neked, és használd arra is, hogy támogasd azokat, akiknek nehezebb megszólalniuk. Ügyelj rá, hogy az őszinteséged tapintattal párosuljon, és engedd meg magadnak a pihenést, hogy a lendületed ne forduljon át kimerültségbe."
     },
     "humanity": {
@@ -139,7 +139,7 @@
       "name": "Mértékletesség",
       "short": "Megbocsátás, alázat, körültekintés és önuralom.",
       "low": "A mértékletesség jelenleg csendesebb erény a profilodban. Lehet, hogy hirtelen késztetésből cselekszel, nehezen engeded el a sérelmeidet, vagy élvezed, ha elismerik, amit teszel. A spontaneitásnak megvan a varázsa, de megbánáshoz is vezethet. Próbálj ki egy egyszerű szünetet: számolj el tízig, mielőtt egy feszült pillanatban reagálsz, vagy vásárolsz valamit. Ha leírod, mi bánt még mindig egy régi konfliktusban, az is segíthet elkezdeni elengedni.",
-      "mid": "A mértékletesség szilárd része a jellemednek. Általában kordában tudod tartani a késztetéseidet, szerény maradsz, és adsz második esélyt az embereknek, bár a stressz ezt próbára teheti. Hogy erősítsd ezt az erényt, azonosítsd a fő kiváltó okaidat – például a fáradtságot, az éhséget vagy bizonyos embereket –, és előre tervezd meg, hogyan fogsz reagálni. Az önfegyelem fejlesztésének legmegbízhatóbb módja, ha egyszerre csak egy apró egészséges szokást építesz be, nem sokat egyszerre.",
+      "mid": "A mértékletesség szilárd része a jellemednek. Általában kordában tudod tartani a késztetéseidet, szerény maradsz, és adsz második esélyt az embereknek, bár a stressz ezt próbára teheti. Hogy erősítsd ezt az erényt, azonosítsd a fő kiváltó okaidat (például a fáradtságot, az éhséget vagy bizonyos embereket), és előre tervezd meg, hogyan fogsz reagálni. Az önfegyelem fejlesztésének legmegbízhatóbb módja, ha egyszerre csak egy apró egészséges szokást építesz be, nem sokat egyszerre.",
       "high": "A mértékletesség az egyik jellegzetes erényed. Megbocsátó, szerény, körültekintő vagy, és uralod a késztetéseidet, amitől nyomás alatt is nyugodt és kiegyensúlyozott maradsz. Az emberek bíznak benne, hogy nem reagálsz túl. Használd ezt az erősséget hidegvért igénylő helyzetekben, például tárgyalásokon, hosszú távú tervezésben, vagy amikor másoknak segítesz rendezni a konfliktusaikat. Csak arra figyelj, hogy a szerénységed ne rejtse el az eredményeidet, és az óvatosságod ne tartson vissza attól, hogy érdemes lehetőségeket ragadj meg."
     },
     "transcendence": {

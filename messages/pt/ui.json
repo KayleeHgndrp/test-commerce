@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "{site} – Testes de psicologia gratuitos online",
+    "title": "{site}: Testes de psicologia gratuitos online",
     "description": "Testes aprofundados sobre personalidade, relações, trabalho e bem-estar, baseados em investigação psicológica reconhecida e explicados em linguagem simples."
   },
   "nav": {
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Sobre o {site}",
-    "intro": "Acreditamos que todos merecem um olhar claro e honesto sobre quem são — sem jargão, sem subscrições e sem um rótulo de quatro letras que não explica nada.",
+    "intro": "Acreditamos que todos merecem um olhar claro e honesto sobre quem são, sem jargão, sem subscrições e sem um rótulo de quatro letras que não explica nada.",
     "missionTitle": "A nossa missão",
     "mission": "A psicologia desenvolveu formas poderosas de descrever a personalidade, as relações e o bem-estar, mas a maior parte desse conhecimento está fechada em manuais ou em avaliações caras. O {site} torna-o acessível: testes aprofundados que qualquer pessoa pode fazer gratuitamente, na sua própria língua, com um relatório pessoal que explica os teus resultados em palavras simples e te dá passos práticos a seguir.",
     "howTitle": "Como construímos os nossos testes",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Escritos para serem lidos",
-        "text": "Os nossos relatórios explicam o que significa cada pontuação, de onde vem e o que podes fazer com ela. Sem jargão nem frases vagas de horóscopo — apenas ideias claras e práticas."
+        "text": "Os nossos relatórios explicam o que significa cada pontuação, de onde vem e o que podes fazer com ela. Sem jargão nem frases vagas de horóscopo. Apenas ideias claras e práticas."
       }
     ],
     "valuesTitle": "Com o que podes contar",

@@ -36,7 +36,7 @@ export const fromAddress = () => {
 export async function sendEmail(to: string, message: Message) {
   const smtp = getTransport();
   if (!smtp) {
-    console.log(`[email] SMTP_HOST not set – would send "${message.subject}" to ${to}`);
+    console.log(`[email] SMTP_HOST not set, would send "${message.subject}" to ${to}`);
     return;
   }
   await smtp.sendMail({

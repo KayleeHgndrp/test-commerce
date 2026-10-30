@@ -23,7 +23,7 @@ export async function buildReport(locale: Locale, slug: string, answers: number[
     headline = { name: d.name, text: d.short };
   } else if (result.type && text.types?.[result.type]) {
     const t = text.types[result.type];
-    headline = { name: def.outcome === "axes" ? `${result.type} – ${t.name}` : t.name, text: t.text };
+    headline = { name: def.outcome === "axes" ? `${result.type}: ${t.name}` : t.name, text: t.text };
   }
 
   const instrument =
@@ -150,7 +150,7 @@ ${sections
     crisis,
     text.summary,
     headline ? `${headline.label ?? r.typeLabel}: ${headline.name}\n${headline.text}` : "",
-    instrument ? `${instrument.label} – ${instrument.band}\n${instrument.description}` : "",
+    instrument ? `${instrument.label}: ${instrument.band}\n${instrument.description}` : "",
     ...sections.map((s) => `${s.name}: ${s.percent}% (${s.level})\n${s.short}\n${s.body}`),
     fmt(r.outro, vars),
     fmt(r.signature, vars),

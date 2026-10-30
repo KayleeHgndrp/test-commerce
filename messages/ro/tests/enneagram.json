@@ -2,7 +2,7 @@
   "name": "Testul Enneagramă",
   "tagline": "Descoperă motivația profundă din spatele felului în care gândești și acționezi.",
   "intro": "Enneagrama descrie nouă tipuri de personalitate, fiecare mânat de o altă motivație fundamentală și de o altă teamă fundamentală. Acest test măsoară cât de puternic te identifici cu fiecare dintre cele nouă tipare și îl evidențiază pe cel care ți se potrivește cel mai bine. Evaluează 100 de afirmații scurte; durează aproximativ cinci minute.",
-  "seoTitle": "Test Enneagramă – test gratuit cu 9 tipuri de personalitate",
+  "seoTitle": "Test Enneagramă: test gratuit cu 9 tipuri de personalitate",
   "seoDescription": "Care dintre cele nouă tipuri Enneagramă ești? Fă testul gratuit de 5 minute, vezi-ți scorurile pe toate tipurile și primește sfaturi de dezvoltare.",
   "items": [
     "Am o voce interioară puternică ce îmi spune ce e corect.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Tipul 1 – Perfecționistul",
+      "name": "Tipul 1: Perfecționistul",
       "short": "Mânat de dorința de a fi bun, corect și de a îmbunătăți lumea; se teme să greșească sau să fie imperfect.",
       "low": "Tiparul Perfecționistului are doar un rol mic pentru tine. Ești relaxat în privința regulilor și a greșelilor și nu simți un critic interior puternic care să te împingă să faci totul perfect. Asta te lasă să mergi cu valul și să ierți ușor. Sfat: în domeniile în care calitatea contează cu adevărat, cum ar fi sănătatea sau finanțele, puțin mai multă structură și atenție la detalii te-ar putea ajuta. Verifică dacă lejeritatea nu înseamnă uneori să lași standardele importante să alunece.",
       "mid": "Te regăsești în unele trăsături ale Perfecționistului. Îți pasă să faci lucrurile cum trebuie și poți fi autocritic, dar știi și când suficient de bine e în regulă. Simțul tău al binelui și răului te ghidează fără să te domine. Sfat: observă când criticul tău interior devine mai vocal, adesea sub stres, și răspunde-i cu blândețe. Alege conștient unde standardele înalte aduc valoare și unde flexibilitatea face viața mai ușoară.",
       "high": "Tiparul Perfecționistului este puternic în tine. Ești o persoană cu principii, conștiincioasă și motivată să se îmbunătățească pe sine și lumea. Teama ta fundamentală este să greșești, să fii rău sau imperfect, așa că un critic interior strict te ține adesea în frâu. Aduci integritate și calitate în tot ce faci. Sfat: exersează să accepți imperfecțiunea, atât la tine, cât și la ceilalți; greșelile fac parte din învățare. Permite-ți plăcerea și joaca fără să trebuiască mai întâi să le meriți. Creșterea vine când ai încredere că ești deja suficient de bun."
     },
     "type2": {
-      "name": "Tipul 2 – Ajutorul",
+      "name": "Tipul 2: Ajutorul",
       "short": "Mânat de dorința de a fi iubit și de a fi necesar; se teme să nu fie dorit sau demn de iubire.",
       "low": "Tiparul Ajutorului are un rol minor pentru tine. Nu-ți construiești identitatea în jurul faptului că ești necesar și te simți confortabil concentrându-te pe propria viață. Asta te ferește să dai prea mult. Sfat: asigură-te că cei apropiați încă îți simt grija; gesturile mici, cum ar fi să întrebi cum le merge sau să oferi ajutor nesolicitat, păstrează relațiile calde. Observă când independența se transformă în distanță.",
       "mid": "Te regăsești în unele trăsături ale Ajutorului. Îți place să-i sprijini pe alții și să fii apreciat, dar te poți pune și pe primul loc când e nevoie. Căldura ta este echilibrată de respectul de sine. Sfat: observă dacă uneori ajuți ca să fii plăcut, nu pentru că vrei. Exersează să ceri direct ce îți trebuie, în loc să speri că ceilalți vor observa. Oamenii cărora le pasă de tine primesc de obicei cu bucurie șansa de a-ți oferi ceva înapoi.",
       "high": "Tiparul Ajutorului este puternic în tine. Ești cald, generos și atent la ce le trebuie altora și te simți cel mai valoros când ajuți. Teama ta fundamentală este să nu fii iubit sau dorit. Oamenii te percep ca pe o persoană grijulie și suportivă. Sfat: propriile tale nevoi sunt la fel de legitime ca ale oricui, așa că numește-le deschis. Ajută pentru că alegi, nu ca să-ți asiguri iubirea. Creșterea vine când îi lași și pe alții să aibă grijă de tine și ai încredere că meriți iubire și fără să dai."
     },
     "type3": {
-      "name": "Tipul 3 – Realizatorul",
+      "name": "Tipul 3: Realizatorul",
       "short": "Mânat de dorința de a reuși și de a fi admirat; se teme să nu fie lipsit de valoare sau un eșec.",
       "low": "Tiparul Realizatorului are doar un rol mic pentru tine. Statutul, imaginea și succesul exterior nu sunt motoarele tale principale și nu îți măsori valoarea după ce realizezi. Asta te eliberează de comparații. Sfat: dacă ai obiective la care ții, puțină ambiție și progrese vizibile te pot ajuta să le atingi. Lasă-i pe alții să-ți vadă realizările; modestia nu ar trebui să-ți ascundă punctele forte.",
       "mid": "Te regăsești în unele trăsături ale Realizatorului. Îți place să faci lucrurile bine și te bucuri de recunoaștere, dar sentimentul propriei valori nu depinde în întregime de succes. Poți munci din greu pentru obiective și te poți bucura totuși de timpul liber. Sfat: verifică dacă obiectivele pe care le urmărești sunt cu adevărat ale tale sau ce așteaptă alții. Sărbătorește-ți realizările, apoi fă-ți timp să te bucuri de viață și în afara performanței, cu oameni care te plac indiferent de rezultatele tale.",
       "high": "Tiparul Realizatorului este puternic în tine. Ești ambițios, eficient și concentrat pe succes și știi să te prezinți bine. Teama ta fundamentală este că, fără realizările tale, nu valorezi nimic. Îi motivezi pe alții și duci lucrurile la capăt. Sfat: observă când îți adaptezi imaginea ca să le faci pe plac altora sau muncești ca să nu simți golul. Petrece timp cu activități fără niciun obiectiv. Creșterea vine când te prețuiești pentru cine ești, nu pentru ce realizezi."
     },
     "type4": {
-      "name": "Tipul 4 – Individualistul",
+      "name": "Tipul 4: Individualistul",
       "short": "Mânat de dorința de a fi unic și autentic; se teme să nu aibă identitate sau însemnătate.",
       "low": "Tiparul Individualistului are un rol minor pentru tine. Nu simți o nevoie puternică de a fi diferit sau de a explora în profunzime fiecare emoție și te simți confortabil integrându-te. Asta te ține cu picioarele pe pământ și practic. Sfat: fă puțin loc pentru exprimarea de sine, cum ar fi un hobby creativ sau conversații sincere despre sentimente. Să explorezi ce te face unic îți poate îmbogăți viața.",
       "mid": "Te regăsești în unele trăsături ale Individualistului. Prețuiești autenticitatea și ai o viață interioară bogată, dar nu te simți fundamental diferit de ceilalți. Îți poți exprima emoțiile păstrându-ți totodată perspectiva. Sfat: folosește-ți sensibilitatea în mod creativ, de exemplu prin scris sau artă. Când te simți neînțeles, verifică dacă ai împărtășit cu adevărat ce simți. Ceilalți țin adesea mai mult la tine decât te aștepți, odată ce îți înțeleg lumea interioară.",
       "high": "Tiparul Individualistului este puternic în tine. Ești sensibil, expresiv și profund conectat la emoțiile tale și tânjești să fii autentic și înțeles. Teama ta fundamentală este să nu ai o identitate reală sau o însemnătate. Aduci profunzime, creativitate și sinceritate în privința sentimentelor. Sfat: observă când te concentrezi pe ce lipsește în loc de ce ai. Exercițiile de recunoștință și rutinele practice îți pot stabiliza dispozițiile. Creșterea vine când îți dai seama că și momentele și legăturile obișnuite pot avea sens."
     },
     "type5": {
-      "name": "Tipul 5 – Investigatorul",
+      "name": "Tipul 5: Investigatorul",
       "short": "Mânat de dorința de a înțelege și de a fi competent; se teme să fie neajutorat sau copleșit.",
       "low": "Tiparul Investigatorului are doar un rol mic pentru tine. Nu simți o nevoie puternică de a te retrage și de a analiza înainte să acționezi și îți împarți ușor timpul și energia. Asta te face abordabil și implicat. Sfat: când te confrunți cu decizii complexe, acordă-ți puțin timp liniștit de documentare înainte să te arunci. Aprofundarea cunoștințelor într-un domeniu la care ții îți poate clădi încrederea și expertiza.",
       "mid": "Te regăsești în unele trăsături ale Investigatorului. Îți place să înveți și ai nevoie de puțin timp doar pentru tine, dar te poți implica activ și cu oamenii și cu lumea. Prețuiești cunoașterea fără să te ascunzi în spatele ei. Sfat: observă când te retragi ca să observi în loc să participi, mai ales în relații. Să împărtășești ce știi, chiar înainte să te simți complet pregătit, poate fi răsplătitor și aduce adesea feedback util și conexiune.",
       "high": "Tiparul Investigatorului este puternic în tine. Ești curios, perspicace și independent și vrei să înțelegi lumea în profunzime. Teama ta fundamentală este să fii neajutorat, incapabil sau secătuit de cerințele altora, așa că îți păzești cu grijă timpul și energia. Aduci perspectivă și expertiză. Sfat: observă când acumularea de cunoștințe devine un mod de a evita acțiunea sau sentimentele. Fă pași mici înainte să te simți complet pregătit. Creșterea vine când ai încredere că ai suficient ca să te implici pe deplin în viață și alături de oameni."
     },
     "type6": {
-      "name": "Tipul 6 – Loialistul",
+      "name": "Tipul 6: Loialistul",
       "short": "Mânat de dorința de siguranță și sprijin; se teme să rămână fără îndrumare sau protecție.",
       "low": "Tiparul Loialistului are un rol minor pentru tine. Nu te îngrijorează prea mult ce ar putea merge prost și te simți în siguranță fără să ai nevoie de îndrumare sau confirmări puternice. Asta te lasă să acționezi cu îndrăzneală. Sfat: înaintea deciziilor importante, ia în calcul conștient riscurile posibile sau cere părerea cuiva mai prudent. Loialitatea și pregătirea pot fi și ele puncte forte care merită dezvoltate, mai ales în echipele care se bazează pe tine să gândești înainte.",
       "mid": "Te regăsești în unele trăsături ale Loialistului. Prețuiești siguranța și relațiile de încredere și poți identifica riscurile, dar îndoielile tale de obicei nu te rețin. Echilibrezi prudența cu încrederea. Sfat: când îngrijorarea începe să crească, separă riscurile realiste de scenariile de tip „și dacă”. Ai mai des încredere în propria judecată în loc să cauți confirmări. De fiecare dată când acționezi pe baza ei, încrederea în busola ta interioară crește.",
       "high": "Tiparul Loialistului este puternic în tine. Ești loial, responsabil și atent la riscuri și pui mare preț pe încredere și siguranță. Teama ta fundamentală este să rămâi fără sprijin sau îndrumare într-o lume periculoasă. Ești un membru de încredere al echipei, care se pregătește pentru probleme pe care alții le scapă din vedere. Sfat: observă când anxietatea te face să planifici excesiv sau să te îndoiești de toată lumea, inclusiv de tine. Exersează să acționezi pe baza propriei judecăți, în pași mici. Creșterea vine când descoperi siguranța interioară pe care ai căutat-o în afara ta."
     },
     "type7": {
-      "name": "Tipul 7 – Entuziastul",
+      "name": "Tipul 7: Entuziastul",
       "short": "Mânat de dorința de libertate și distracție; se teme să rămână prins în durere sau lipsuri.",
       "low": "Tiparul Entuziastului are doar un rol mic pentru tine. Nu cauți constant experiențe noi și poți rămâne la un singur lucru, chiar și când nu e palpitant. Asta îți dă concentrare și profunzime. Sfat: permite-ți din când în când puțină spontaneitate, cum ar fi o excursie scurtă sau un hobby nou. Puțină joacă îți poate împrospăta energia și relațiile.",
       "mid": "Te regăsești în unele trăsături ale Entuziastului. Îți plac distracția, varietatea și planurile noi, dar te poți și angaja și poți rămâne cu trăirile dificile. Echilibrezi optimismul cu realismul și te poți bucura atât de aventură, cât și de liniște. Sfat: observă când cauți o distragere ca să eviți ceva incomod. Să termini un proiect înainte să-l începi pe următorul îți va face entuziasmul să dea roade și îți va aduce satisfacția mai profundă a finalizării.",
       "high": "Tiparul Entuziastului este puternic în tine. Ești optimist, aventuros și plin de idei și îți place enorm să-ți lași opțiunile deschise. Teama ta fundamentală este să rămâi prins în durere, plictiseală sau limitare, așa că treci adesea repede la următorul lucru palpitant. Aduci energie și bucurie oriunde mergi. Sfat: exersează să rămâi cu emoțiile dificile în loc să fugi de ele. Alege câteva angajamente și du-le la capăt. Creșterea vine când găsești satisfacție în profunzime, nu doar în varietate."
     },
     "type8": {
-      "name": "Tipul 8 – Provocatorul",
+      "name": "Tipul 8: Provocatorul",
       "short": "Mânat de dorința de a fi puternic și de a avea controlul; se teme să fie controlat sau vulnerabil.",
       "low": "Tiparul Provocatorului are un rol minor pentru tine. Nu ai nevoie să preiei controlul sau să-ți dovedești puterea și rareori cauți confruntarea. Asta face cooperarea cu tine ușoară. Sfat: în situațiile în care tu sau alții sunteți tratați nedrept, exersează să vorbești ferm. A te afirma nu înseamnă agresivitate; înseamnă să protejezi ce contează. Începe cu situații mici, cum ar fi să-ți exprimi clar o preferință într-o ședință.",
       "mid": "Te regăsești în unele trăsături ale Provocatorului. Poți fi direct și protector și preiei conducerea când e nevoie, dar nu ai nevoie să domini. Îți arăți puterea fără să-ți pierzi sensibilitatea. Sfat: observă când forțezi ca să nu te simți vulnerabil. Să-i lași pe oameni să-ți vadă latura mai blândă poate adânci încrederea. Întreabă-i pe alții cum le pică directețea ta; răspunsurile lor te pot ajuta să-ți folosești puterea mai înțelept.",
       "high": "Tiparul Provocatorului este puternic în tine. Ești sigur pe tine, direct și protector și preiei conducerea în mod natural. Teama ta fundamentală este să fii controlat, rănit sau vulnerabil, așa că prețuiești puterea și independența. Te aperi pe tine și pe alții și nu te temi de conflict. Sfat: intensitatea ta îi poate copleși pe oameni, așa că mai coboară volumul și ascultă până la capăt înainte să acționezi. Exersează să-ți arăți vulnerabilitatea în fața oamenilor în care ai încredere. Creșterea vine când vezi că deschiderea și blândețea sunt și ele forme de putere."
     },
     "type9": {
-      "name": "Tipul 9 – Pacificatorul",
+      "name": "Tipul 9: Pacificatorul",
       "short": "Mânat de dorința de pace interioară și exterioară; se teme de conflict și de ruperea legăturilor.",
       "low": "Tiparul Pacificatorului are doar un rol mic pentru tine. Nu te ferești de conflict și îți susții cu ușurință propriile priorități. Asta te menține activ și limpede în privința a ceea ce vrei. Sfat: când tensiunile cresc, exersează să asculți toate părțile înainte să-ți impui punctul de vedere. Un ritm mai calm din când în când te poate ajuta să vezi imaginea de ansamblu.",
       "mid": "Te regăsești în unele trăsături ale Pacificatorului. Prețuiești armonia și poți vedea perspective diferite, dar îți spui și părerea când ceva contează pentru tine. Echilibrezi calmul cu implicarea. Sfat: observă când mergi pe mâna altora ca să eviți fricțiunile. Să spui ce vrei, chiar și în lucruri mici, îți menține relațiile sincere și împiedică acumularea resentimentelor tăcute. Perspectiva ta aduce ceva ce alții nu pot aduce.",

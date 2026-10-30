@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Free online psychology tests",
-    "description": "In-depth tests on personality, relationships, work and wellbeing — grounded in established psychological research and explained in plain language."
+    "title": "{site}: Free online psychology tests",
+    "description": "In-depth tests on personality, relationships, work and wellbeing, grounded in established psychological research and explained in plain language."
   },
   "nav": {
     "tests": "Tests",
@@ -14,13 +14,13 @@
     "badge": "{count} tests · {languages} languages",
     "heroTitle": "The tests that reveal your",
     "heroHighlight": "personality",
-    "heroSubtitle": "In-depth tests on personality, relationships and wellbeing — each grounded in established psychological research, and explained in plain language you'll actually finish reading.",
+    "heroSubtitle": "In-depth tests on personality, relationships and wellbeing, each grounded in established psychological research, and explained in plain language you'll actually finish reading.",
     "heroCta": "Explore our tests",
     "heroSecondary": "How it works",
     "trust1": "No account needed",
     "trust2": "One-time payment, no subscription",
     "trust3": "Report straight to your inbox",
-    "dimensionsTitle": "You're more than one score — see every side.",
+    "dimensionsTitle": "You're more than one score. See every side.",
     "dimensionsSubtitle": "The areas our tests measure most often, across personality, relationships and wellbeing.",
     "dimensions": [
       "🎯 Focus",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Is the {test} free?",
-        "a": "Yes, taking the test is free. If you want your full personal report with all scores and explanations, you can order it for {price}, paid once — no subscription."
+        "a": "Yes, taking the test is free. If you want your full personal report with all scores and explanations, you can order it for {price}, paid once, no subscription."
       },
       {
         "q": "How reliable is the {test}?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "About {site}",
-    "intro": "We believe everyone deserves a clear, honest look at who they are — without jargon, without subscriptions and without a four-letter label that explains nothing.",
+    "intro": "We believe everyone deserves a clear, honest look at who they are, without jargon, without subscriptions and without a four-letter label that explains nothing.",
     "missionTitle": "Our mission",
     "mission": "Psychology has developed powerful ways to describe personality, relationships and wellbeing, but most of that knowledge is locked away in textbooks or expensive assessments. {site} makes it accessible: in-depth tests anyone can take for free, in their own language, with a personal report that explains your results in plain words and gives you practical next steps.",
     "howTitle": "How we build our tests",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Written to be read",
-        "text": "Our reports explain what each score means, where it comes from and what you can do with it. No jargon and no vague horoscope language — just clear, practical insight."
+        "text": "Our reports explain what each score means, where it comes from and what you can do with it. No jargon and no vague horoscope language. Just clear, practical insight."
       }
     ],
     "valuesTitle": "What you can count on",

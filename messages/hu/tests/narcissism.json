@@ -2,7 +2,7 @@
   "name": "Nárcizmus teszt",
   "tagline": "Nézd meg, hol helyezkedsz el a nárcisztikus vonások spektrumán.",
   "intro": "Mindenkiben van néhány nárcisztikus vonás, és egy egészséges adag önbizalom hasznos. Ez a szűrőteszt öt területet vizsgál: a grandiózusságot, a kiváltságtudatot, a csodálat iránti igényt, az empátiát és a törékeny önértékelést. Őszintén válaszolj az alapján, hogyan gondolkodsz és érzel általában. Körülbelül öt percet vesz igénybe, és nem diagnózis, de megmutatja, hol helyezkedsz el a spektrumon.",
-  "seoTitle": "Nárcizmus teszt – Ingyenes nárcisztikusvonás-szűrés",
+  "seoTitle": "Nárcizmus teszt: Ingyenes nárcisztikusvonás-szűrés",
   "seoDescription": "Mennyire vagy valójában nárcisztikus? Töltsd ki ezt az 5 perces tesztet a grandiózusságról, a kiváltságtudatról, az empátiáról és az önértékelésről.",
   "items": [
     "Mások problémái nem igazán érdekelnek.",
@@ -124,7 +124,7 @@
     "admiration": {
       "name": "Csodálat iránti igény",
       "short": "Mennyire keresed mások figyelmét, dicséretét és elismerését.",
-      "low": "A válaszaid alapján nincs szükséged sok figyelemre vagy dicséretre ahhoz, hogy jól érezd magad a bőrödben. Jól érzed magad a háttérben, és hagyod, hogy mások ragyogjanak. Ez a belső függetlenség valódi erősség. Csak arra figyelj, hogy az eredményeid láthatók legyenek, amikor számít – például a munkahelyeden –, mert mások nem tudják értékelni azt, amit nem látnak. Ha időnként megosztod a sikereidet, az nem dicsekvés; egyszerűen tájékoztatod az embereket.",
+      "low": "A válaszaid alapján nincs szükséged sok figyelemre vagy dicséretre ahhoz, hogy jól érezd magad a bőrödben. Jól érzed magad a háttérben, és hagyod, hogy mások ragyogjanak. Ez a belső függetlenség valódi erősség. Csak arra figyelj, hogy az eredményeid láthatók legyenek, amikor számít, például a munkahelyeden, mert mások nem tudják értékelni azt, amit nem látnak. Ha időnként megosztod a sikereidet, az nem dicsekvés; egyszerűen tájékoztatod az embereket.",
       "mid": "A válaszaid alapján élvezed a figyelmet és az elismerést, de nem függsz teljesen tőlük. Az a vágy, hogy megbecsüljenek, teljesen emberi. Figyelj azokra a pillanatokra, amikor azért keresel dicséretet, hogy csillapítsd a bizonytalanságodat, és nem azért, hogy megoszd az örömödet. Ha az elégedettségedet a saját értékeidből és fejlődésedből építed, nem csak mások reakcióiból, az önértékelésed stabilabbá és kevésbé függővé válik a körülötted lévők hangulatától.",
       "high": "A válaszaid alapján a figyelem, a dicséret és a csodálat nagyon fontos ahhoz, hogyan érzed magad önmagaddal. Ha elmarad az elismerés, megbántottnak, üresnek vagy nyugtalannak érezheted magad. Ha erősen támaszkodsz a külső megerősítésre, az törékennyé teheti az önértékelést, a kapcsolatokat pedig egyoldalúvá. Próbáld észrevenni, mit értékelsz magadban mások reakcióitól függetlenül. Ha ezt az igényt nehéz kezelni, fontold meg, hogy egy képzett szakemberrel, például terapeutával járod körül."
     },
@@ -132,7 +132,7 @@
       "name": "Alacsony empátia",
       "short": "Mennyire nehéz ráhangolódnod mások érzéseire, és törődnöd velük.",
       "low": "A válaszaid alapján ráhangolódsz mások érzéseire, és fontos neked, hogyan hatnak rájuk a tetteid. Úgy tűnik, jól figyelsz, és észreveszed, ha valakinek támogatásra van szüksége. Az empátia a szoros kapcsolatok egyik legerősebb alapja. Gondoskodj róla, hogy a saját igényeidnek is maradjon tér, nehogy a mások iránti törődés kimerítsen. Az egészséges empátiához az is hozzátartozik, hogy szükség esetén határokat húzol.",
-      "mid": "A válaszaid alapján az empátiád jelen van, de változó. Amikor elfoglalt, stresszes vagy, vagy a saját céljaidra összpontosítasz, mások érzései háttérbe szorulhatnak. Próbálj megállni, és megkérdezni valakitől, hogy van valójában, és hallgasd meg anélkül, hogy azonnal tanácsot adnál vagy ítélkeznél. A megértés apró gesztusai – például ha emlékszel arra, ami fontos valakinek – nagy különbséget jelentenek a kapcsolatokban.",
+      "mid": "A válaszaid alapján az empátiád jelen van, de változó. Amikor elfoglalt, stresszes vagy, vagy a saját céljaidra összpontosítasz, mások érzései háttérbe szorulhatnak. Próbálj megállni, és megkérdezni valakitől, hogy van valójában, és hallgasd meg anélkül, hogy azonnal tanácsot adnál vagy ítélkeznél. A megértés apró gesztusai (például ha emlékszel arra, ami fontos valakinek) nagy különbséget jelentenek a kapcsolatokban.",
       "high": "A válaszaid alapján gyakran nehéz számodra ráhangolódni mások érzéseire, vagy törődni azzal, hogyan hatnak rájuk a tetteid. Mások távolságtartónak vagy elutasítónak élhetnek meg, ami konfliktusokhoz és magányhoz vezethet. Az empátia gyakorlással erősíthető, például ha közbevágás nélkül figyelsz, és rákérdezel mások tapasztalataira. Ha ez a minta hatással van a kapcsolataidra, fontold meg, hogy képzett szakemberrel beszélsz, aki támogathat a feltárásában."
     },
     "vulnerability": {

@@ -10,7 +10,7 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/legal-no
   const { legal } = await getUi(locale);
   return {
     title: legal.noticeTitle,
-    description: `${legal.noticeTitle} – ${site.company.name || site.name}`,
+    description: `${legal.noticeTitle}: ${site.company.name || site.name}`,
     ...pageSeo(locale, "/legal-notice"),
   };
 }

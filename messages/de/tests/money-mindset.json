@@ -1,8 +1,8 @@
 {
   "name": "Geld-Mindset-Test",
   "tagline": "Entdecke deinen Geldtyp und die Gewohnheiten, die zu dir passen.",
-  "intro": "Dieser Test zeigt dein Geld-Mindset: die Einstellungen und Gewohnheiten, die prägen, wie du Geld verdienst, ausgibst, sparst und darüber denkst. Er vergleicht fünf Geldtypen – den Sparer, den Genießer, den Vermeider, den Statussucher und den Sicherheitssucher – und zeigt, welcher am besten zu dir passt. Antworte ehrlich danach, wie du dich normalerweise verhältst. Das dauert etwa fünf Minuten und liefert dir konkrete Geldgewohnheiten, die zu deinem Stil passen.",
-  "seoTitle": "Geld-Mindset-Test – entdecke deinen Geldtyp",
+  "intro": "Dieser Test zeigt dein Geld-Mindset: die Einstellungen und Gewohnheiten, die prägen, wie du Geld verdienst, ausgibst, sparst und darüber denkst. Er vergleicht fünf Geldtypen (den Sparer, den Genießer, den Vermeider, den Statussucher und den Sicherheitssucher) und zeigt, welcher am besten zu dir passt. Antworte ehrlich danach, wie du dich normalerweise verhältst. Das dauert etwa fünf Minuten und liefert dir konkrete Geldgewohnheiten, die zu deinem Stil passen.",
+  "seoTitle": "Geld-Mindset-Test: entdecke deinen Geldtyp",
   "seoDescription": "Sparer, Genießer oder Vermeider? Mach den kostenlosen 5-Minuten-Geld-Mindset-Test, entdecke deinen Geldtyp und erhalte praktische Tipps für deine Finanzen.",
   "items": [
     "Ich sehe gern zu, wie meine Ersparnisse wachsen.",
@@ -125,7 +125,7 @@
       "name": "Der Vermeider",
       "short": "Neigt dazu, Geldangelegenheiten aufzuschieben, zu ignorieren oder sich davon gestresst zu fühlen.",
       "low": "Du scheinst Geldangelegenheiten recht direkt anzugehen. Du prüfst deine Konten, erledigst Rechnungen und fühlst dich im Umgang mit Finanzen ziemlich sicher. Dieses Bewusstsein ist eine starke Grundlage für gute Entscheidungen. Bleib dabei mit einem kurzen monatlichen Geld-Check, bei dem du Kontostand, anstehende Rechnungen und Ziele durchgehst. Du könntest dein Wissen auch vertiefen, etwa über Altersvorsorge oder Geldanlage, damit deine Sicherheit noch nützlicher wird.",
-      "mid": "Du kümmerst dich um Geldangelegenheiten, manchmal aber erst, wenn es sein muss. Bestimmte Themen wie Altersvorsorge oder Papierkram fühlen sich vielleicht unangenehm an und werden aufgeschoben. Plane jede Woche ein festes 20-minütiges „Geld-Date“ ein, um Post zu öffnen, Rechnungen zu bezahlen und deinen Kontostand zu prüfen. Wenn es Routine wird, brauchst du keine Motivation mehr. Fang mit der Aufgabe an, die du am längsten vor dir herschiebst – sie bringt oft die größte Erleichterung.",
+      "mid": "Du kümmerst dich um Geldangelegenheiten, manchmal aber erst, wenn es sein muss. Bestimmte Themen wie Altersvorsorge oder Papierkram fühlen sich vielleicht unangenehm an und werden aufgeschoben. Plane jede Woche ein festes 20-minütiges „Geld-Date“ ein, um Post zu öffnen, Rechnungen zu bezahlen und deinen Kontostand zu prüfen. Wenn es Routine wird, brauchst du keine Motivation mehr. Fang mit der Aufgabe an, die du am längsten vor dir herschiebst, sie bringt oft die größte Erleichterung.",
       "high": "Deine Antworten deuten darauf hin, dass der Vermeider ein starker Teil deines Geldtyps ist. Geld fühlt sich vielleicht stressig oder verwirrend an, deshalb schiebst du es auf, Konten zu prüfen, Rechnungen zu öffnen oder Entscheidungen zu treffen. Das ist sehr verbreitet, doch Vermeiden lässt Probleme meist wachsen. Fang klein an: Prüfe eine Woche lang einmal täglich deinen Kontostand, richte Daueraufträge für Rechnungen ein und liste deine Abos auf. Bitte eine vertraute Person um Hilfe. Wenn Geldsorgen dein Wohlbefinden stark belasten, kann eine qualifizierte Schuldnerberatung, Finanzberatung oder eine andere Fachperson helfen."
     },
     "status_seeker": {

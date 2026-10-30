@@ -1,8 +1,8 @@
 {
   "name": "Test 16 typów osobowości",
   "tagline": "Poznaj swój czteroliterowy typ i to, co o tobie mówi.",
-  "intro": "Ten test umieszcza cię na czterech skalach preferencji: skąd czerpiesz energię, jak przyjmujesz informacje, jak podejmujesz decyzje i jak organizujesz swoje życie. Twoje cztery preferencje łączą się w jeden z 16 typów osobowości. Oceń 100 krótkich stwierdzeń – zajmie ci to około pięciu minut.",
-  "seoTitle": "Test 16 typów osobowości – bezpłatny typ czteroliterowy",
+  "intro": "Ten test umieszcza cię na czterech skalach preferencji: skąd czerpiesz energię, jak przyjmujesz informacje, jak podejmujesz decyzje i jak organizujesz swoje życie. Twoje cztery preferencje łączą się w jeden z 16 typów osobowości. Oceń 100 krótkich stwierdzeń, zajmie ci to około pięciu minut.",
+  "seoTitle": "Test 16 typów osobowości: bezpłatny typ czteroliterowy",
   "seoDescription": "Poznaj swój czteroliterowy typ osobowości w 5 minut. Zobacz swoje preferencje na każdej skali i przeczytaj portret swojego typu z praktycznymi wskazówkami.",
   "items": [
     "Najlepiej myślę, gdy omawiam pomysły z innymi.",
@@ -164,7 +164,7 @@
     },
     "INFP": {
       "name": "Marzyciel",
-      "text": "Cechują cię idealizm, wyobraźnia i silne wewnętrzne wartości, którymi się kierujesz. Szukasz sensu we wszystkim, co robisz, i głęboko zależy ci na autentyczności – zarówno własnej, jak i innych. Dobrze rozumiesz uczucia i często wyrażasz je poprzez pisanie, sztukę lub przemyślane rozmowy. Masz w sobie łagodność, otwartość i lojalność wobec tego, w co wierzysz. Wskazówka rozwojowa: twoje ideały są kompasem, ale rzeczywistość rzadko bywa idealna; rób małe praktyczne kroki, zamiast czekać na idealny moment. Okazuj sobie tyle samo współczucia, ile okazujesz innym. Dziel się marzeniami z ludźmi, którzy mogą pomóc je urzeczywistnić."
+      "text": "Cechują cię idealizm, wyobraźnia i silne wewnętrzne wartości, którymi się kierujesz. Szukasz sensu we wszystkim, co robisz, i głęboko zależy ci na autentyczności, zarówno własnej, jak i innych. Dobrze rozumiesz uczucia i często wyrażasz je poprzez pisanie, sztukę lub przemyślane rozmowy. Masz w sobie łagodność, otwartość i lojalność wobec tego, w co wierzysz. Wskazówka rozwojowa: twoje ideały są kompasem, ale rzeczywistość rzadko bywa idealna; rób małe praktyczne kroki, zamiast czekać na idealny moment. Okazuj sobie tyle samo współczucia, ile okazujesz innym. Dziel się marzeniami z ludźmi, którzy mogą pomóc je urzeczywistnić."
     },
     "INTP": {
       "name": "Mistrz łamigłówek",

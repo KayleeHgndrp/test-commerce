@@ -2,7 +2,7 @@
   "name": "16 személyiségtípus teszt",
   "tagline": "Ismerd meg a négybetűs típusodat, és azt, mit árul el rólad.",
   "intro": "Ez a teszt négy preferenciaskálán helyez el: honnan meríted az energiádat, hogyan fogadod be az információkat, hogyan hozol döntéseket, és hogyan szervezed az életedet. A négy preferenciád együtt a 16 személyiségtípus egyikét adja ki. Értékelj 100 rövid állítást; körülbelül öt percet vesz igénybe.",
-  "seoTitle": "16 személyiségtípus teszt – Ingyenes négybetűs típus",
+  "seoTitle": "16 személyiségtípus teszt: Ingyenes négybetűs típus",
   "seoDescription": "Fedezd fel négybetűs személyiségtípusodat 5 perc alatt. Nézd meg preferenciáidat minden skálán, és olvasd el típusod portréját gyakorlati tippekkel.",
   "items": [
     "Akkor gondolkodom a legjobban, amikor másokkal beszélem át az ötleteket.",
@@ -132,7 +132,7 @@
       "name": "Megítélés vs. Észlelés",
       "short": "Hogy a tervezett, eldöntött és strukturált életet (J), vagy a rugalmas, nyitott és spontán életet (P) kedveled-e.",
       "low": "Az észlelés (P) felé hajlasz. Szereted nyitva hagyni a lehetőségeidet, menet közben alkalmazkodni, és akkor dönteni, amikor muszáj. Gyakran energialöketekben dolgozol, és a merev napirend béklyónak érződik. Ettől rugalmas és leleményes vagy, amikor változnak a tervek. Tipp: a lényeges dolgokhoz használj könnyed struktúrát, például egyetlen határidő-emlékeztető rendszert. Bontsd a nagy projekteket kis mérföldkövekre, hogy a végső hajrá ne váljon stresszessé.",
-      "mid": "Közel állsz a középhez a megítélés és az észlelés között, így a betűd változhat. Szereted, ha van terved, de könnyen elengeded, ha valami jobb adódik. Képes vagy tartani a határidőket, és mégis élvezni a spontaneitást. Tipp: figyeld meg, hol csökkentené a stresszt egy kicsivel több tervezés – például az utazásnál vagy a pénzügyeknél –, és hol tenné szórakoztatóbbá a dolgokat több rugalmasság. Tudatosan igazíts, ne megszokásból.",
+      "mid": "Közel állsz a középhez a megítélés és az észlelés között, így a betűd változhat. Szereted, ha van terved, de könnyen elengeded, ha valami jobb adódik. Képes vagy tartani a határidőket, és mégis élvezni a spontaneitást. Tipp: figyeld meg, hol csökkentené a stresszt egy kicsivel több tervezés, például az utazásnál vagy a pénzügyeknél, és hol tenné szórakoztatóbbá a dolgokat több rugalmasság. Tudatosan igazíts, ne megszokásból.",
       "high": "A megítélés (J) felé hajlasz. Szeretsz előre tervezni, döntéseket hozni és lezárni a dolgokat. A világos napirend, a listák és a határidők a kontroll érzését adják, és a feladataidat általában jóval az utolsó pillanat előtt befejezed. Tipp: hagyj némi szabad teret a terveidben, hogy a meglepetések ne zökkentsenek ki. Amikor mások lazábban dolgoznak, egyezzetek meg a kulcsfontosságú határidőkben, és hagyd, hogy ők válasszák meg, hogyan jutnak el odáig."
     }
   },
@@ -164,11 +164,11 @@
     },
     "INFP": {
       "name": "Az álmodozó",
-      "text": "Idealista, fantáziadús vagy, és erős belső értékek vezetnek. Mindenben az értelmet keresed, és mélyen fontos neked a hitelesség – magadban és másokban is. Jól érted az érzéseket, és gyakran írásban, művészetben vagy elmélyült beszélgetésekben fejezed ki őket. Szelíd, nyitott gondolkodású vagy, és hűséges ahhoz, amiben hiszel. Fejlődési tipp: az eszményeid iránytűként szolgálnak, de a valóság ritkán tökéletes; tegyél apró gyakorlati lépéseket, ahelyett, hogy az ideális pillanatra várnál. Légy ugyanolyan együttérző magaddal, mint másokkal. Oszd meg az álmaidat olyanokkal, akik segíthetnek valóra váltani őket."
+      "text": "Idealista, fantáziadús vagy, és erős belső értékek vezetnek. Mindenben az értelmet keresed, és mélyen fontos neked a hitelesség, magadban és másokban is. Jól érted az érzéseket, és gyakran írásban, művészetben vagy elmélyült beszélgetésekben fejezed ki őket. Szelíd, nyitott gondolkodású vagy, és hűséges ahhoz, amiben hiszel. Fejlődési tipp: az eszményeid iránytűként szolgálnak, de a valóság ritkán tökéletes; tegyél apró gyakorlati lépéseket, ahelyett, hogy az ideális pillanatra várnál. Légy ugyanolyan együttérző magaddal, mint másokkal. Oszd meg az álmaidat olyanokkal, akik segíthetnek valóra váltani őket."
     },
     "INTP": {
       "name": "A rejtvényfejtő",
-      "text": "Logikus, leleményes és végtelenül kíváncsi vagy. Imádod elemezni az ötleteket, ellentmondásokat találni, és olyan elméleteket felépíteni, amelyek megmagyarázzák, hogyan működnek valójában a dolgok. Önállóan gondolkodsz, és élvezed a bonyolult témákról szóló mély beszélgetéseket. Az elméd olyan eredeti megoldásokat lát meg, amelyek másoknak elkerülik a figyelmét. Fejlődési tipp: az ötletek akkor bontakoznak ki igazán, ha megosztják és alkalmazzák őket, ezért tűzz ki magadnak kis határidőket a munkád befejezésére és bemutatására. Figyelj a gyakorlati részletekre és arra, hogyan éreznek mások – ezek akkor is számítanak, ha logikátlannak tűnnek. Kapcsolódj olyanokhoz, akik osztoznak az érdeklődésedben; feltöltik a gondolkodásodat."
+      "text": "Logikus, leleményes és végtelenül kíváncsi vagy. Imádod elemezni az ötleteket, ellentmondásokat találni, és olyan elméleteket felépíteni, amelyek megmagyarázzák, hogyan működnek valójában a dolgok. Önállóan gondolkodsz, és élvezed a bonyolult témákról szóló mély beszélgetéseket. Az elméd olyan eredeti megoldásokat lát meg, amelyek másoknak elkerülik a figyelmét. Fejlődési tipp: az ötletek akkor bontakoznak ki igazán, ha megosztják és alkalmazzák őket, ezért tűzz ki magadnak kis határidőket a munkád befejezésére és bemutatására. Figyelj a gyakorlati részletekre és arra, hogyan éreznek mások, ezek akkor is számítanak, ha logikátlannak tűnnek. Kapcsolódj olyanokhoz, akik osztoznak az érdeklődésedben; feltöltik a gondolkodásodat."
     },
     "ESTP": {
       "name": "A vakmerő",

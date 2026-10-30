@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Teste psikologjike falas online",
-    "description": "Teste të thelluara për personalitetin, marrëdhëniet, punën dhe mirëqenien — të bazuara në kërkime psikologjike dhe të shpjeguara qartë."
+    "title": "{site}: Teste psikologjike falas online",
+    "description": "Teste të thelluara për personalitetin, marrëdhëniet, punën dhe mirëqenien, të bazuara në kërkime psikologjike dhe të shpjeguara qartë."
   },
   "nav": {
     "tests": "Testet",
@@ -14,13 +14,13 @@
     "badge": "{count} teste · {languages} gjuhë",
     "heroTitle": "Testet që zbulojnë",
     "heroHighlight": "personalitetin tënd",
-    "heroSubtitle": "Teste të thelluara për personalitetin, marrëdhëniet dhe mirëqenien — secili i bazuar në kërkime të njohura psikologjike dhe i shpjeguar në një gjuhë të qartë që do ta lexosh vërtet deri në fund.",
+    "heroSubtitle": "Teste të thelluara për personalitetin, marrëdhëniet dhe mirëqenien, secili i bazuar në kërkime të njohura psikologjike dhe i shpjeguar në një gjuhë të qartë që do ta lexosh vërtet deri në fund.",
     "heroCta": "Shiko testet tona",
     "heroSecondary": "Si funksionon",
     "trust1": "Nuk nevojitet llogari",
     "trust2": "Pagesë e njëhershme, pa abonim",
     "trust3": "Raporti drejt e në emailin tënd",
-    "dimensionsTitle": "Je më shumë se një rezultat — shiko çdo anë tënden.",
+    "dimensionsTitle": "Je më shumë se një rezultat. Shiko çdo anë tënden.",
     "dimensionsSubtitle": "Fushat që testet tona matin më shpesh, në personalitet, marrëdhënie dhe mirëqenie.",
     "dimensions": [
       "🎯 Përqendrimi",
@@ -163,7 +163,7 @@
       },
       {
         "q": "A është {test} falas?",
-        "a": "Po, plotësimi i testit është falas. Nëse dëshiron raportin tënd të plotë personal me të gjitha rezultatet dhe shpjegimet, mund ta porosisësh për {price}, të paguar një herë — pa abonim."
+        "a": "Po, plotësimi i testit është falas. Nëse dëshiron raportin tënd të plotë personal me të gjitha rezultatet dhe shpjegimet, mund ta porosisësh për {price}, të paguar një herë, pa abonim."
       },
       {
         "q": "Sa i besueshëm është {test}?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Rreth {site}",
-    "intro": "Besojmë se çdokush meriton një vështrim të qartë dhe të sinqertë mbi veten — pa zhargon, pa abonime dhe pa një etiketë me katër shkronja që nuk shpjegon asgjë.",
+    "intro": "Besojmë se çdokush meriton një vështrim të qartë dhe të sinqertë mbi veten, pa zhargon, pa abonime dhe pa një etiketë me katër shkronja që nuk shpjegon asgjë.",
     "missionTitle": "Misioni ynë",
     "mission": "Psikologjia ka zhvilluar mënyra të fuqishme për të përshkruar personalitetin, marrëdhëniet dhe mirëqenien, por pjesa më e madhe e kësaj dijeje mbetet e mbyllur në tekste shkollore ose në vlerësime të shtrenjta. {site} e bën të aksesueshme: teste të thelluara që kushdo mund t'i plotësojë falas, në gjuhën e vet, me një raport personal që t'i shpjegon rezultatet me fjalë të thjeshta dhe të jep hapa praktikë për më tej.",
     "howTitle": "Si i ndërtojmë testet tona",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Shkruar për t'u lexuar",
-        "text": "Raportet tona shpjegojnë çfarë do të thotë çdo rezultat, nga vjen dhe çfarë mund të bësh me të. Pa zhargon dhe pa gjuhë të paqartë horoskopi — vetëm njohuri të qarta e praktike."
+        "text": "Raportet tona shpjegojnë çfarë do të thotë çdo rezultat, nga vjen dhe çfarë mund të bësh me të. Pa zhargon dhe pa gjuhë të paqartë horoskopi. Vetëm njohuri të qarta e praktike."
       }
     ],
     "valuesTitle": "Ku mund të mbështetesh",

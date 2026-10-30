@@ -2,7 +2,7 @@
   "name": "Test de chronotype",
   "tagline": "Du matin ou du soir ? Trouvez votre rythme naturel.",
   "intro": "Ce test examine votre chronotype : à quel moment de la journée vous êtes le plus alerte, quand votre corps veut dormir et se réveiller, et avec quelle facilité vous vous adaptez quand votre emploi du temps change. Répondez en fonction de ce qui vous semble naturel, surtout les jours où vous pouvez choisir vos horaires. Il prend environ cinq minutes et vous donne des conseils concrets sur les meilleurs moments pour vous concentrer, faire du sport et dormir.",
-  "seoTitle": "Test de chronotype – Êtes-vous du matin ou du soir ?",
+  "seoTitle": "Test de chronotype : Êtes-vous du matin ou du soir ?",
   "seoDescription": "Lève-tôt ou couche-tard ? Test de chronotype gratuit de 5 minutes, avec vos meilleures heures pour travailler, faire du sport et dormir.",
   "items": [
     "J'ai l'esprit vif et alerte peu après mon réveil.",
@@ -126,7 +126,7 @@
       "short": "À quelle heure votre corps veut naturellement s'endormir et se réveiller.",
       "low": "Votre fenêtre de sommeil naturelle semble plutôt tardive. Votre corps préfère peut-être s'endormir après minuit et se réveiller plus tard le matin, ce qui peut entrer en conflit avec des horaires matinaux. Essayez de garder une heure de lever constante, même le week-end, et exposez-vous à une lumière vive peu après le réveil pour avancer votre horloge. Le soir, tamisez l'éclairage et limitez les écrans pendant la dernière heure. De petits décalages de 15 minutes tous les quelques jours fonctionnent mieux que de grands sauts.",
       "mid": "Vos horaires de sommeil se situent dans la moyenne. Il vous semble sans doute plus naturel de vous endormir entre 23 h et minuit et de vous réveiller entre 7 h et 8 h. Cela s'accorde assez bien avec de nombreux horaires de travail et d'études. Gardez un rythme stable en vous couchant et en vous levant à des heures similaires chaque jour. Si vos week-ends dérivent beaucoup plus tard, essayez de limiter les grasses matinées à une heure environ pour que les lundis matin soient moins lourds.",
-      "high": "Votre corps semble privilégier une fenêtre de sommeil précoce. Vous avez probablement sommeil bien avant minuit et vous vous réveillez tôt, même sans réveil. Tirez-en parti en gardant une heure de coucher régulière, vers 21 h 30 – 22 h 30, et en utilisant vos premières heures pour un travail de concentration ou de création. Les sorties tardives peuvent vous coûter davantage : planifiez-les avec parcimonie et protégez votre sommeil ensuite. Si vous continuez à vous réveiller bien plus tôt que souhaité et êtes fatigué dans la journée, un médecin ou un professionnel du sommeil qualifié peut vous aider."
+      "high": "Votre corps semble privilégier une fenêtre de sommeil précoce. Vous avez probablement sommeil bien avant minuit et vous vous réveillez tôt, même sans réveil. Tirez-en parti en gardant une heure de coucher régulière, entre 21 h 30 et 22 h 30, et en utilisant vos premières heures pour un travail de concentration ou de création. Les sorties tardives peuvent vous coûter davantage : planifiez-les avec parcimonie et protégez votre sommeil ensuite. Si vous continuez à vous réveiller bien plus tôt que souhaité et êtes fatigué dans la journée, un médecin ou un professionnel du sommeil qualifié peut vous aider."
     },
     "flexibility": {
       "name": "Flexibilité",

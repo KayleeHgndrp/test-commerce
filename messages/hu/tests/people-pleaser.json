@@ -2,7 +2,7 @@
   "name": "Megfelelési kényszer teszt",
   "tagline": "Tudd meg, mennyire hajlasz meg azért, hogy mások elégedettek legyenek.",
   "intro": "Ez a teszt a megfelelési kényszer négy oldalát vizsgálja: a jóváhagyás iránti igényt, a határhúzás nehézségeit, a saját igényeid elhanyagolását és a konfliktuskerülést. Az alapján válaszolj, milyen gyakran illik rád az adott állítás a mindennapokban. Körülbelül öt percet vesz igénybe, és segít meglátni, hol kerülhet neked sokba a másokkal szembeni kedvesség.",
-  "seoTitle": "Megfelelési kényszer teszt – Ingyenes online önellenőrzés",
+  "seoTitle": "Megfelelési kényszer teszt: Ingyenes online önellenőrzés",
   "seoDescription": "Mindenkinek meg akarsz felelni? Töltsd ki ezt az 5 perces tesztet a jóváhagyásról, a határokról és a konfliktuskerülésről, és kapj gyakorlati tippeket.",
   "items": [
     "Mások jóváhagyására van szükségem ahhoz, hogy jól érezzem magam a bőrömben.",
@@ -126,7 +126,7 @@
       "short": "Milyen gyakran helyezed a saját igényeidet, pihenésedet és céljaidat a sor végére.",
       "low": "A válaszaid alapján jól gondoskodsz a saját igényeidről, miközben másokra is figyelsz. Úgy tűnik, időt szakítasz a pihenésre, a hobbijaidra és a személyes céljaidra, és el tudod fogadni a segítséget. Ez az egyensúly megvéd a kiégéstől, és lehetővé teszi, hogy teli tankkal adj másoknak. Tartsd meg ezt úgy, hogy rendszeresen tervezel időt magadra, különösen a sűrű időszakokban, amikor a legcsábítóbb kihagyni.",
       "mid": "A válaszaid alapján a saját igényeid néha lejjebb csúsznak a listán, különösen, amikor másoknak szükségük van rád. Lehet, hogy továbbra is gondoskodsz magadról, de nem mindig következetesen. Próbálj meg hetente beütemezni egy tevékenységet, amely csak a tiéd, és kezeld úgy, mint egy megbeszélt időpontot. Amikor valaki segítséget ajánl, gyakorold, hogy egyszerűen megköszönöd és elfogadod. Az öngondoskodás apró gesztusai idővel összeadódnak.",
-      "high": "A válaszaid alapján gyakran helyezed magad az utolsó helyre: kihagyod a pihenést, elrejted a problémáidat, vagy hagyod, hogy a saját céljaid háttérbe szoruljanak. Ettől fáradtnak, mellőzöttnek és csendesen neheztelőnek érezheted magad. Az igényeid ugyanannyira számítanak, mint bárki másé. Kezdd azzal, hogy naponta észreveszel egy igényedet – például pihenés, étel vagy társaság –, és kielégíted, mielőtt valaki másnak segítenél. Kérj meg valakit, hogy segítsen egy apróságban. Ha lemerültnek vagy levertnek érzed magad, kérlek, fontold meg, hogy orvossal vagy képzett szakemberrel beszélsz."
+      "high": "A válaszaid alapján gyakran helyezed magad az utolsó helyre: kihagyod a pihenést, elrejted a problémáidat, vagy hagyod, hogy a saját céljaid háttérbe szoruljanak. Ettől fáradtnak, mellőzöttnek és csendesen neheztelőnek érezheted magad. Az igényeid ugyanannyira számítanak, mint bárki másé. Kezdd azzal, hogy naponta észreveszel egy igényedet (például pihenés, étel vagy társaság), és kielégíted, mielőtt valaki másnak segítenél. Kérj meg valakit, hogy segítsen egy apróságban. Ha lemerültnek vagy levertnek érzed magad, kérlek, fontold meg, hogy orvossal vagy képzett szakemberrel beszélsz."
     },
     "conflict_avoidance": {
       "name": "Konfliktuskerülés",

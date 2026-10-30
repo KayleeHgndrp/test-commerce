@@ -59,7 +59,7 @@ export async function POST(request: Request) {
     "line_items[0][quantity]": "1",
     "line_items[0][price_data][currency]": site.currency,
     "line_items[0][price_data][unit_amount]": String(price),
-    "line_items[0][price_data][product_data][name]": `${product} – ${site.name}`,
+    "line_items[0][price_data][product_data][name]": `${product} | ${site.name}`,
     success_url: `${thanksUrl}?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${origin}/${locale}/${slug}/result`,
     // The advertised price includes VAT. With Stripe Tax enabled, Stripe works out

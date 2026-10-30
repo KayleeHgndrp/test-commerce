@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Teste psihologice online gratuite",
-    "description": "Teste aprofundate despre personalitate, relații, muncă și stare de bine – bazate pe cercetări psihologice consacrate și explicate pe înțelesul tuturor."
+    "title": "{site}: Teste psihologice online gratuite",
+    "description": "Teste aprofundate despre personalitate, relații, muncă și stare de bine, bazate pe cercetări psihologice consacrate și explicate pe înțelesul tuturor."
   },
   "nav": {
     "tests": "Teste",
@@ -14,13 +14,13 @@
     "badge": "{count} teste · {languages} limbi",
     "heroTitle": "Testele care îți dezvăluie",
     "heroHighlight": "personalitatea",
-    "heroSubtitle": "Teste aprofundate despre personalitate, relații și stare de bine – fiecare bazat pe cercetări psihologice consacrate și explicat atât de clar, încât chiar îl vei citi până la capăt.",
+    "heroSubtitle": "Teste aprofundate despre personalitate, relații și stare de bine, fiecare bazat pe cercetări psihologice consacrate și explicat atât de clar, încât chiar îl vei citi până la capăt.",
     "heroCta": "Descoperă testele noastre",
     "heroSecondary": "Cum funcționează",
     "trust1": "Fără cont",
     "trust2": "Plată unică, fără abonament",
     "trust3": "Raportul direct în inboxul tău",
-    "dimensionsTitle": "Ești mai mult decât un scor – descoperă-ți fiecare latură.",
+    "dimensionsTitle": "Ești mai mult decât un scor. Descoperă-ți fiecare latură.",
     "dimensionsSubtitle": "Domeniile pe care testele noastre le măsoară cel mai des, de la personalitate la relații și stare de bine.",
     "dimensions": [
       "🎯 Concentrare",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Despre {site}",
-    "intro": "Credem că oricine merită o privire clară și sinceră asupra propriei persoane – fără jargon, fără abonamente și fără o etichetă din patru litere care nu explică nimic.",
+    "intro": "Credem că oricine merită o privire clară și sinceră asupra propriei persoane, fără jargon, fără abonamente și fără o etichetă din patru litere care nu explică nimic.",
     "missionTitle": "Misiunea noastră",
     "mission": "Psihologia a dezvoltat metode puternice de a descrie personalitatea, relațiile și starea de bine, dar cea mai mare parte a acestor cunoștințe rămâne închisă în manuale sau în evaluări costisitoare. {site} le face accesibile: teste aprofundate pe care oricine le poate face gratuit, în propria limbă, cu un raport personal care îți explică rezultatele pe înțeles și îți oferă pași practici.",
     "howTitle": "Cum ne construim testele",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Scrise ca să fie citite",
-        "text": "Rapoartele noastre explică ce înseamnă fiecare scor, de unde vine și ce poți face cu el. Fără jargon și fără formulări vagi de horoscop – doar idei clare și practice."
+        "text": "Rapoartele noastre explică ce înseamnă fiecare scor, de unde vine și ce poți face cu el. Fără jargon și fără formulări vagi de horoscop. Doar idei clare și practice."
       }
     ],
     "valuesTitle": "Pe ce te poți baza",

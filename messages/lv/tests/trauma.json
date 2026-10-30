@@ -1,8 +1,8 @@
 {
   "name": "Traumas tests",
   "tagline": "Pārbaudi, kā ļoti saspringta pieredze tevi, iespējams, joprojām ietekmē.",
-  "intro": "Domā par vienu ļoti saspringtu pieredzi, kas tevi joprojām ietekmē, un paturi to prātā, atbildot. Par katru problēmu jautājums ir šāds: cik lielā mērā pēdējā mēneša laikā tevi ir traucējis… Šis skrīninga tests ietver PCL-5 – plaši izmantotu pēctraumatiskā stresa kontrolsarakstu –, kā arī papildu jautājumus par uzmācīgām atmiņām, izvairīšanos, garastāvokli un saspringumu. Tas aizņem apmēram piecas minūtes un nav diagnoze.",
-  "seoTitle": "Traumas tests – bezmaksas PTSS skrīnings ar PCL-5",
+  "intro": "Domā par vienu ļoti saspringtu pieredzi, kas tevi joprojām ietekmē, un paturi to prātā, atbildot. Par katru problēmu jautājums ir šāds: cik lielā mērā pēdējā mēneša laikā tevi ir traucējis… Šis skrīninga tests ietver PCL-5, plaši izmantotu pēctraumatiskā stresa kontrolsarakstu, kā arī papildu jautājumus par uzmācīgām atmiņām, izvairīšanos, garastāvokli un saspringumu. Tas aizņem apmēram piecas minūtes un nav diagnoze.",
+  "seoTitle": "Traumas tests: bezmaksas PTSS skrīnings ar PCL-5",
   "seoDescription": "Vai saspringta pieredze tevi joprojām ietekmē? Izpildi 5 minūšu traumas skrīningu ar PCL-5 un saņem personīgu pārskatu par četrām simptomu jomām.",
   "items": [
     "Atkārtotas, satraucošas un nevēlamas atmiņas par saspringto pieredzi",
@@ -136,7 +136,7 @@
       "high": "Tavas atbildes liecina, ka lielāko daļu laika tu jūties sardzē, saspringts, nervozs vai aizkaitināms un ka tavs miegs un koncentrēšanās var būt stipri ietekmēti. Tavs ķermenis, šķiet, ir iestrēdzis trauksmes režīmā, un tas ir nogurdinoši. Tā ir atzīta reakcija uz traumu, un ar pareizu ārstēšanu tā var uzlaboties. Lūdzu, apsver iespēju aprunāties ar ārstu vai kvalificētu garīgās veselības speciālistu. Ja tev ir domas par sevis savainošanu, lūdzu, nekavējoties sazinies ar vietējo neatliekamās palīdzības dienestu vai krīzes tālruni."
     }
   },
-  "summary": "Šis pārskats apvieno tavu PCL-5 rezultātu – plaši izmantotu pēctraumatiskā stresa skrīninga rādītāju – ar četrām simptomu jomām. Augstāks rezultāts nozīmē, ka pēdējā mēneša laikā tevi tas traucēja vairāk. Tā nav diagnoze; ja tavi rezultāti ir paaugstināti, lūdzu, aprunājies ar ārstu vai kvalificētu speciālistu. Ja tev ir domas par sevis savainošanu, lūdzu, nekavējoties sazinies ar vietējo neatliekamās palīdzības dienestu vai krīzes tālruni.",
+  "summary": "Šis pārskats apvieno tavu PCL-5 rezultātu, plaši izmantotu pēctraumatiskā stresa skrīninga rādītāju, ar četrām simptomu jomām. Augstāks rezultāts nozīmē, ka pēdējā mēneša laikā tevi tas traucēja vairāk. Tā nav diagnoze; ja tavi rezultāti ir paaugstināti, lūdzu, aprunājies ar ārstu vai kvalificētu speciālistu. Ja tev ir domas par sevis savainošanu, lūdzu, nekavējoties sazinies ar vietējo neatliekamās palīdzības dienestu vai krīzes tālruni.",
   "instrument": {
     "name": "PCL-5 rezultāts",
     "description": "PCL-5 ir publiski pieejams pēctraumatiskā stresa simptomu kontrolsaraksts, ko izstrādājis ASV Nacionālais PTSS centrs. Rezultāts aptuveni 31–33 vai augstāk liecina, ka speciālista izvērtējums varētu būt noderīgs; tas ir skrīninga rīks, nevis diagnoze.",

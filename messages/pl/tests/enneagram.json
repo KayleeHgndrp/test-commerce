@@ -1,8 +1,8 @@
 {
   "name": "Test Enneagramu",
   "tagline": "Odkryj główną motywację stojącą za tym, jak myślisz i działasz.",
-  "intro": "Enneagram opisuje dziewięć typów osobowości, z których każdy kieruje się inną podstawową motywacją i innym podstawowym lękiem. Ten test mierzy, jak silnie utożsamiasz się z każdym z dziewięciu wzorców, i wskazuje ten, który pasuje do ciebie najbardziej. Oceń 100 krótkich stwierdzeń – zajmie ci to około pięciu minut.",
-  "seoTitle": "Test Enneagramu – bezpłatny test 9 typów osobowości",
+  "intro": "Enneagram opisuje dziewięć typów osobowości, z których każdy kieruje się inną podstawową motywacją i innym podstawowym lękiem. Ten test mierzy, jak silnie utożsamiasz się z każdym z dziewięciu wzorców, i wskazuje ten, który pasuje do ciebie najbardziej. Oceń 100 krótkich stwierdzeń, zajmie ci to około pięciu minut.",
+  "seoTitle": "Test Enneagramu: bezpłatny test 9 typów osobowości",
   "seoDescription": "Którym z dziewięciu typów Enneagramu jesteś? Zrób bezpłatny 5-minutowy test, zobacz wyniki dla wszystkich typów i poznaj wskazówki rozwojowe.",
   "items": [
     "Mam silny wewnętrzny głos, który mówi mi, co jest słuszne.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Typ 1 – Perfekcjonista",
+      "name": "Typ 1: Perfekcjonista",
       "short": "Kieruje nim pragnienie bycia dobrym, postępowania właściwie i ulepszania świata; boi się, że jest w błędzie lub ma wady.",
       "low": "Wzorzec Perfekcjonisty odgrywa u ciebie tylko niewielką rolę. Podchodzisz z luzem do zasad i błędów i nie czujesz silnego wewnętrznego krytyka, który zmusza cię, by wszystko było idealne. Dzięki temu potrafisz płynąć z prądem i łatwo wybaczasz. Wskazówka: w obszarach, w których jakość naprawdę ma znaczenie, takich jak zdrowie czy finanse, odrobina więcej struktury i dbałości o szczegóły może ci służyć. Sprawdzaj, czy luz nie oznacza czasem odpuszczania ważnych standardów.",
       "mid": "Rozpoznajesz u siebie niektóre cechy Perfekcjonisty. Zależy ci na tym, by robić rzeczy porządnie, i potrafisz być wobec siebie krytycznie nastawioną osobą, ale wiesz też, kiedy wystarczająco dobrze znaczy dobrze. Twoje poczucie dobra i zła kieruje tobą, nie dominując cię. Wskazówka: zauważaj, kiedy twój wewnętrzny krytyk staje się głośniejszy, często w stresie, i odpowiadaj mu życzliwie. Świadomie wybieraj, gdzie wysokie standardy dodają wartości, a gdzie elastyczność ułatwia życie.",
-      "high": "Wzorzec Perfekcjonisty jest w tobie silny. Kierujesz się zasadami, sumiennością i dążeniem do ulepszania siebie i świata. Twoim podstawowym lękiem jest bycie w błędzie, złym lub wadliwym, dlatego surowy wewnętrzny krytyk często trzyma cię w ryzach. Wnosisz uczciwość i jakość we wszystko, co robisz. Wskazówka: ćwicz akceptowanie niedoskonałości – zarówno swojej, jak i innych; błędy są częścią nauki. Pozwalaj sobie na przyjemność i zabawę, nie musząc najpierw na nie zasłużyć. Rozwój przychodzi wtedy, gdy ufasz, że już teraz jesteś wystarczająco dobrą osobą."
+      "high": "Wzorzec Perfekcjonisty jest w tobie silny. Kierujesz się zasadami, sumiennością i dążeniem do ulepszania siebie i świata. Twoim podstawowym lękiem jest bycie w błędzie, złym lub wadliwym, dlatego surowy wewnętrzny krytyk często trzyma cię w ryzach. Wnosisz uczciwość i jakość we wszystko, co robisz. Wskazówka: ćwicz akceptowanie niedoskonałości, zarówno swojej, jak i innych; błędy są częścią nauki. Pozwalaj sobie na przyjemność i zabawę, nie musząc najpierw na nie zasłużyć. Rozwój przychodzi wtedy, gdy ufasz, że już teraz jesteś wystarczająco dobrą osobą."
     },
     "type2": {
-      "name": "Typ 2 – Pomocnik",
+      "name": "Typ 2: Pomocnik",
       "short": "Kieruje nim pragnienie bycia kochanym i potrzebnym; boi się, że jest niechciany lub niegodny miłości.",
       "low": "Wzorzec Pomocnika odgrywa u ciebie niewielką rolę. Nie budujesz swojej tożsamości wokół bycia potrzebnym i dobrze ci z tym, że skupiasz się na własnym życiu. To chroni cię przed nadmiernym dawaniem. Wskazówka: dbaj o to, by bliscy nadal czuli twoją troskę; drobne gesty, takie jak zapytanie, co słychać, czy zaoferowanie pomocy bez proszenia, utrzymują ciepło w relacjach. Zauważaj, kiedy niezależność zamienia się w dystans.",
       "mid": "Rozpoznajesz u siebie niektóre cechy Pomocnika. Lubisz wspierać innych i cieszy cię docenienie, ale w razie potrzeby potrafisz też postawić siebie na pierwszym miejscu. Twoje ciepło idzie w parze z szacunkiem do siebie. Wskazówka: zauważaj, czy czasem nie pomagasz po to, by cię lubiano, a nie dlatego, że naprawdę chcesz. Ćwicz proszenie wprost o to, czego potrzebujesz, zamiast liczyć, że inni to zauważą. Ludzie, którym na tobie zależy, zwykle chętnie się odwdzięczają.",
       "high": "Wzorzec Pomocnika jest w tobie silny. Masz w sobie ciepło, hojność i uważność na potrzeby innych, a najbardziej wartościowo czujesz się wtedy, gdy pomagasz. Twoim podstawowym lękiem jest brak miłości lub bycie niechcianym. Ludzie postrzegają cię jako osobę troskliwą i wspierającą. Wskazówka: twoje potrzeby są tak samo uprawnione jak potrzeby innych, więc nazywaj je otwarcie. Pomagaj z wyboru, a nie po to, by zapewnić sobie miłość. Rozwój przychodzi wtedy, gdy pozwalasz innym troszczyć się o ciebie i ufasz, że zasługujesz na miłość, nawet nic nie dając."
     },
     "type3": {
-      "name": "Typ 3 – Osiągający",
+      "name": "Typ 3: Osiągający",
       "short": "Kieruje nim pragnienie sukcesu i podziwu; boi się, że jest bezwartościowy lub poniesie porażkę.",
       "low": "Wzorzec Osiągającego odgrywa u ciebie tylko niewielką rolę. Status, wizerunek i zewnętrzny sukces nie są twoimi głównymi motywatorami i nie mierzysz swojej wartości osiągnięciami. To daje ci wolność od porównań. Wskazówka: jeśli masz cele, na których ci zależy, odrobina ambicji i widoczne postępy mogą pomóc ci je osiągnąć. Pozwól innym zobaczyć swoje osiągnięcia; skromność nie powinna ukrywać twoich mocnych stron.",
       "mid": "Rozpoznajesz u siebie niektóre cechy Osiągającego. Lubisz, gdy coś ci dobrze wychodzi, i cieszy cię uznanie, ale twoje poczucie wartości nie zależy całkowicie od sukcesu. Potrafisz ciężko pracować na cele i wciąż cieszyć się czasem wolnym. Wskazówka: sprawdzaj, czy cele, do których dążysz, są naprawdę twoje, czy to oczekiwania innych. Świętuj osiągnięcia, a potem poświęć też czas na życie poza wynikami, z ludźmi, którzy lubią cię niezależnie od twoich rezultatów.",
       "high": "Wzorzec Osiągającego jest w tobie silny. Cechują cię ambicja, skuteczność i nastawienie na sukces, a do tego wiesz, jak dobrze się zaprezentować. Twoim podstawowym lękiem jest bycie bezwartościowym bez swoich osiągnięć. Motywujesz innych i doprowadzasz sprawy do końca. Wskazówka: zauważaj, kiedy dopasowujesz swój wizerunek, by zadowolić innych, albo pracujesz, by uniknąć poczucia pustki. Poświęcaj czas na zajęcia, które nie mają żadnego celu. Rozwój przychodzi wtedy, gdy cenisz siebie za to, kim jesteś, a nie za to, co osiągasz."
     },
     "type4": {
-      "name": "Typ 4 – Indywidualista",
+      "name": "Typ 4: Indywidualista",
       "short": "Kieruje nim pragnienie bycia wyjątkowym i autentycznym; boi się braku tożsamości lub znaczenia.",
       "low": "Wzorzec Indywidualisty odgrywa u ciebie niewielką rolę. Nie czujesz silnej potrzeby wyróżniania się ani dogłębnego zgłębiania każdej emocji i dobrze ci z tym, że pasujesz do otoczenia. To trzyma cię przy ziemi i sprzyja praktycznemu podejściu. Wskazówka: zrób trochę miejsca na wyrażanie siebie, na przykład w twórczym hobby albo szczerych rozmowach o uczuciach. Odkrywanie tego, co czyni cię wyjątkowym, może wzbogacić twoje życie.",
       "mid": "Rozpoznajesz u siebie niektóre cechy Indywidualisty. Cenisz autentyczność i masz bogate życie wewnętrzne, ale nie czujesz, że zasadniczo różnisz się od innych. Potrafisz wyrażać emocje i jednocześnie zachować dystans. Wskazówka: wykorzystuj swoją wrażliwość twórczo, na przykład w pisaniu czy sztuce. Gdy czujesz, że ktoś cię nie rozumie, sprawdź, czy naprawdę udało ci się podzielić tym, co czujesz. Inni często troszczą się bardziej, niż się spodziewasz, gdy już zrozumieją twój wewnętrzny świat.",
       "high": "Wzorzec Indywidualisty jest w tobie silny. Masz w sobie wrażliwość, ekspresję i głęboki kontakt z emocjami, a do tego tęsknisz za autentycznością i zrozumieniem. Twoim podstawowym lękiem jest brak prawdziwej tożsamości lub znaczenia. Wnosisz głębię, kreatywność i szczerość w kwestii uczuć. Wskazówka: zauważaj, kiedy skupiasz się na tym, czego brakuje, zamiast na tym, co masz. Praktyki wdzięczności i praktyczne rytuały mogą ustabilizować twoje nastroje. Rozwój przychodzi wtedy, gdy dostrzegasz, że zwyczajne chwile i relacje także mogą mieć głęboki sens."
     },
     "type5": {
-      "name": "Typ 5 – Badacz",
+      "name": "Typ 5: Badacz",
       "short": "Kieruje nim pragnienie rozumienia i kompetencji; boi się bezradności lub przytłoczenia.",
       "low": "Wzorzec Badacza odgrywa u ciebie tylko niewielką rolę. Nie czujesz silnej potrzeby wycofania się i analizowania, zanim zaczniesz działać, i łatwo dzielisz się swoim czasem i energią. Dzięki temu łatwo do ciebie podejść i chętnie się angażujesz. Wskazówka: stając przed złożonymi decyzjami, daj sobie trochę spokojnego czasu na zbadanie sprawy, zanim się w nią rzucisz. Pogłębianie wiedzy w jednej dziedzinie, na której ci zależy, może budować pewność siebie i fachowość.",
       "mid": "Rozpoznajesz u siebie niektóre cechy Badacza. Lubisz się uczyć i potrzebujesz trochę czasu dla siebie, ale potrafisz też aktywnie angażować się w kontakty z ludźmi i światem. Cenisz wiedzę, nie chowając się za nią. Wskazówka: zauważaj, kiedy wycofujesz się do roli obserwatora, zamiast uczestniczyć, zwłaszcza w relacjach. Dzielenie się tym, co wiesz, nawet zanim poczujesz pełną gotowość, może być satysfakcjonujące i często przynosi przydatną informację zwrotną i więź.",
       "high": "Wzorzec Badacza jest w tobie silny. Masz w sobie ciekawość, przenikliwość i niezależność, a do tego chcesz dogłębnie rozumieć świat. Twoim podstawowym lękiem jest bezradność, brak kompetencji lub wyczerpanie przez wymagania innych, dlatego starannie strzeżesz swojego czasu i energii. Wnosisz wnikliwość i wiedzę ekspercką. Wskazówka: zauważaj, kiedy zbieranie wiedzy staje się sposobem na unikanie działania lub uczuć. Rób małe kroki, zanim poczujesz pełne przygotowanie. Rozwój przychodzi wtedy, gdy ufasz, że masz wystarczająco dużo, by w pełni angażować się w życie i relacje."
     },
     "type6": {
-      "name": "Typ 6 – Lojalista",
+      "name": "Typ 6: Lojalista",
       "short": "Kieruje nim pragnienie bezpieczeństwa i wsparcia; boi się, że zostanie bez wskazówek i ochrony.",
       "low": "Wzorzec Lojalisty odgrywa u ciebie niewielką rolę. Niezbyt martwisz się tym, co mogłoby pójść nie tak, i czujesz się bezpiecznie bez silnego przewodnictwa czy zapewnień. Dzięki temu potrafisz działać śmiało. Wskazówka: przed ważnymi decyzjami świadomie rozważ możliwe ryzyko albo zapytaj o zdanie kogoś ostrożniejszego. Lojalność i przygotowanie to także mocne strony warte rozwijania, zwłaszcza w zespołach, które liczą na twoje myślenie z wyprzedzeniem.",
       "mid": "Rozpoznajesz u siebie niektóre cechy Lojalisty. Cenisz bezpieczeństwo i zaufane relacje oraz potrafisz dostrzegać ryzyko, ale twoje wątpliwości zwykle cię nie blokują. Równoważysz ostrożność z pewnością siebie. Wskazówka: gdy zmartwienie zaczyna narastać, oddziel realne ryzyko od scenariuszy typu „a co, jeśli”. Częściej ufaj własnemu osądowi, zamiast szukać zapewnień. Za każdym razem, gdy według niego działasz, rośnie twoja wiara we własny wewnętrzny kompas.",
       "high": "Wzorzec Lojalisty jest w tobie silny. Cechują cię lojalność, odpowiedzialność i czujność wobec zagrożeń, a zaufanie i bezpieczeństwo cenisz bardzo wysoko. Twoim podstawowym lękiem jest brak wsparcia lub przewodnictwa w niebezpiecznym świecie. W zespole jesteś niezawodną osobą, która przygotowuje się na problemy przeoczane przez innych. Wskazówka: zauważaj, kiedy niepokój prowadzi cię do nadmiernego planowania lub wątpienia we wszystkich, łącznie z sobą. Ćwicz działanie zgodne z własnym osądem małymi krokami. Rozwój przychodzi wtedy, gdy odkrywasz wewnętrzne poczucie bezpieczeństwa, którego dotąd szukasz poza sobą."
     },
     "type7": {
-      "name": "Typ 7 – Entuzjasta",
+      "name": "Typ 7: Entuzjasta",
       "short": "Kieruje nim pragnienie wolności i radości; boi się uwięzienia w bólu lub niedostatku.",
       "low": "Wzorzec Entuzjasty odgrywa u ciebie tylko niewielką rolę. Nie szukasz nieustannie nowych doświadczeń i potrafisz pozostać przy jednej rzeczy, nawet gdy nie jest ekscytująca. To daje ci skupienie i głębię. Wskazówka: pozwól sobie od czasu do czasu na spontaniczność, na przykład krótki wyjazd czy nowe hobby. Odrobina zabawy może odświeżyć twoją energię i relacje.",
       "mid": "Rozpoznajesz u siebie niektóre cechy Entuzjasty. Lubisz zabawę, różnorodność i nowe plany, ale potrafisz też się zaangażować i pozostać z trudnymi uczuciami. Równoważysz optymizm z realizmem i potrafisz cieszyć się zarówno przygodą, jak i spokojem. Wskazówka: zauważaj, kiedy sięgasz po rozrywkę, by uniknąć czegoś niewygodnego. Kończenie jednego projektu przed rozpoczęciem kolejnego sprawi, że twój entuzjazm zaprocentuje i da ci głębszą satysfakcję z ukończenia.",
       "high": "Wzorzec Entuzjasty jest w tobie silny. Masz w sobie optymizm, żyłkę przygody i mnóstwo pomysłów, a do tego uwielbiasz zostawiać sobie otwarte możliwości. Twoim podstawowym lękiem jest uwięzienie w bólu, nudzie lub ograniczeniach, dlatego często szybko przechodzisz do kolejnej ekscytującej rzeczy. Wszędzie wnosisz energię i radość. Wskazówka: ćwicz pozostawanie z trudnymi emocjami, zamiast przed nimi uciekać. Wybierz kilka zobowiązań i doprowadź je do końca. Rozwój przychodzi wtedy, gdy odnajdujesz satysfakcję w głębi, a nie tylko w różnorodności."
     },
     "type8": {
-      "name": "Typ 8 – Przywódca",
+      "name": "Typ 8: Przywódca",
       "short": "Kieruje nim pragnienie siły i kontroli; boi się bycia kontrolowanym lub bezbronnym.",
       "low": "Wzorzec Przywódcy odgrywa u ciebie niewielką rolę. Nie musisz przejmować kontroli ani udowadniać swojej siły i rzadko szukasz konfrontacji. Dzięki temu łatwo się z tobą współpracuje. Wskazówka: w sytuacjach, w których ty lub inni jesteście niesprawiedliwie traktowani, ćwicz stanowcze zabieranie głosu. Asertywność to nie agresja, lecz ochrona tego, co ważne. Zacznij od drobnych sytuacji, na przykład jasnego wyrażenia swojej preferencji na spotkaniu.",
       "mid": "Rozpoznajesz u siebie niektóre cechy Przywódcy. Potrafisz działać bezpośrednio i opiekuńczo i przejmujesz stery, gdy trzeba, ale nie musisz dominować. Okazujesz siłę, nie tracąc wrażliwości. Wskazówka: zauważaj, kiedy mocno naciskasz, by nie poczuć się bezbronnie. Pokazanie ludziom swojej łagodniejszej strony może pogłębić zaufanie. Zapytaj innych, jak odbierają twoją bezpośredniość; ich odpowiedzi mogą pomóc ci mądrzej korzystać ze swojej siły.",
       "high": "Wzorzec Przywódcy jest w tobie silny. Cechują cię pewność siebie, bezpośredniość i opiekuńczość, a przejmowanie sterów przychodzi ci naturalnie. Twoim podstawowym lękiem jest bycie kontrolowanym, skrzywdzonym lub bezbronnym, dlatego cenisz siłę i niezależność. Stajesz w obronie siebie i innych i nie boisz się konfliktu. Wskazówka: twoja intensywność może przytłaczać ludzi, więc ścisz głos i wysłuchaj do końca, zanim zaczniesz działać. Ćwicz okazywanie wrażliwości przy osobach, którym ufasz. Rozwój przychodzi wtedy, gdy dostrzegasz, że otwartość i łagodność to także przejawy siły."
     },
     "type9": {
-      "name": "Typ 9 – Mediator",
+      "name": "Typ 9: Mediator",
       "short": "Kieruje nim pragnienie wewnętrznego i zewnętrznego spokoju; boi się konfliktu i utraty więzi.",
       "low": "Wzorzec Mediatora odgrywa u ciebie tylko niewielką rolę. Nie uciekasz od konfliktów i chętnie bronisz swoich priorytetów. Dzięki temu zachowujesz aktywność i jasność co do tego, czego chcesz. Wskazówka: gdy narasta napięcie, ćwicz wysłuchanie wszystkich stron, zanim zaczniesz forsować swoje zdanie. Od czasu do czasu spokojniejsze tempo może pomóc ci dostrzec szerszy obraz.",
       "mid": "Rozpoznajesz u siebie niektóre cechy Mediatora. Cenisz harmonię i potrafisz dostrzec różne perspektywy, ale zabierasz też głos, gdy coś jest dla ciebie ważne. Równoważysz spokój z zaangażowaniem. Wskazówka: zauważaj, kiedy ustępujesz innym, by uniknąć tarć. Mówienie o tym, czego chcesz, nawet w drobnych sprawach, utrzymuje szczerość w relacjach i zapobiega narastaniu cichej urazy. Twój punkt widzenia wnosi coś, czego inni nie mogą dać.",

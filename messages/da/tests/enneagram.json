@@ -2,7 +2,7 @@
   "name": "Enneagram-test",
   "tagline": "Find den grundlæggende motivation bag, hvordan du tænker og handler.",
   "intro": "Enneagrammet beskriver ni personlighedstyper, der hver især drives af en forskellig grundmotivation og grundfrygt. Denne test måler, hvor stærkt du genkender dig selv i hvert af de ni mønstre, og fremhæver det, der passer bedst til dig. Tag stilling til 100 korte udsagn; det tager omkring fem minutter.",
-  "seoTitle": "Enneagram-test – Gratis test af de 9 typer",
+  "seoTitle": "Enneagram-test: Gratis test af de 9 typer",
   "seoDescription": "Hvilken af de ni enneagramtyper er du? Tag den gratis test på 5 minutter, se dine scorer på alle ni typer, og få udviklingstips til din primære type.",
   "items": [
     "Jeg har en stærk indre stemme, der fortæller mig, hvad der er rigtigt.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Type 1 – Perfektionisten",
+      "name": "Type 1: Perfektionisten",
       "short": "Drives af ønsket om at være god og korrekt og om at forbedre verden; frygter at tage fejl eller være fejlbehæftet.",
       "low": "Perfektionistens mønster spiller kun en lille rolle for dig. Du er afslappet over for regler og fejl og mærker ikke en stærk indre kritiker, der presser dig til at gøre alt rigtigt. Det gør, at du kan flyde med og let tilgive. Tip: På områder, hvor kvalitet virkelig betyder noget, som helbred eller økonomi, kan lidt mere struktur og sans for detaljer gavne dig. Tjek, om afslappethed nogle gange betyder, at vigtige standarder glider.",
       "mid": "Du genkender nogle træk fra Perfektionisten. Du går op i at gøre tingene ordentligt og kan være selvkritisk, men du ved også, hvornår godt nok er fint. Din sans for rigtigt og forkert guider dig uden at dominere dig. Tip: Læg mærke til, hvornår din indre kritiker bliver højere, ofte under stress, og svar den venligt. Vælg bevidst, hvor høje standarder tilfører værdi, og hvor fleksibilitet gør livet lettere.",
       "high": "Perfektionistens mønster er stærkt i dig. Du er principfast, samvittighedsfuld og drevet af at forbedre dig selv og verden. Din grundfrygt er at være forkert, dårlig eller fejlbehæftet, så en streng indre kritiker holder dig ofte i ørerne. Du bringer integritet og kvalitet ind i alt, hvad du gør. Tip: Øv dig i at acceptere ufuldkommenhed, både hos dig selv og andre; fejl er en del af at lære. Giv dig selv lov til glæde og leg uden først at gøre dig fortjent til det. Udvikling sker, når du stoler på, at du allerede er god nok."
     },
     "type2": {
-      "name": "Type 2 – Hjælperen",
+      "name": "Type 2: Hjælperen",
       "short": "Drives af ønsket om at blive elsket og være nødvendig; frygter at være uønsket eller ikke værd at elske.",
       "low": "Hjælperens mønster spiller en mindre rolle for dig. Du bygger ikke din identitet op omkring at være nødvendig og har det fint med at fokusere på dit eget liv. Det beskytter dig mod at give for meget. Tip: Sørg for, at dine nærmeste stadig mærker din omsorg; små gestus, som at høre, hvordan de har det, eller tilbyde hjælp uopfordret, holder relationer varme. Læg mærke til, når selvstændighed bliver til afstand.",
       "mid": "Du genkender nogle træk fra Hjælperen. Du nyder at støtte andre og kan lide at blive værdsat, men du kan også sætte dig selv først, når der er brug for det. Din varme er i balance med selvrespekt. Tip: Læg mærke til, om du nogle gange hjælper for at blive holdt af snarere end fordi du har lyst. Øv dig i at bede direkte om det, du har brug for, i stedet for at håbe på, at andre opdager det. Mennesker, der holder af dig, sætter som regel pris på chancen for at give noget igen.",
       "high": "Hjælperens mønster er stærkt i dig. Du er varm, gavmild og opmærksom på, hvad andre har brug for, og du føler dig mest værdifuld, når du hjælper. Din grundfrygt er at være uelsket eller uønsket. Folk oplever dig som omsorgsfuld og støttende. Tip: Dine egne behov er lige så legitime som alle andres, så sig dem åbent. Hjælp, fordi du vælger det, ikke for at sikre dig kærlighed. Udvikling sker, når du også lader andre drage omsorg for dig og stoler på, at du er værd at elske uden at give."
     },
     "type3": {
-      "name": "Type 3 – Præstereren",
+      "name": "Type 3: Præstereren",
       "short": "Drives af ønsket om at lykkes og blive beundret; frygter at være værdiløs eller en fiasko.",
       "low": "Præsterens mønster spiller kun en lille rolle for dig. Status, image og ydre succes er ikke dine vigtigste drivkræfter, og du måler ikke dit værd på det, du opnår. Det frigør dig fra sammenligning. Tip: Hvis du har mål, du går op i, kan lidt ambition og synlige fremskridt hjælpe dig med at nå dem. Lad andre se dine præstationer; beskedenhed bør ikke skjule dine styrker.",
       "mid": "Du genkender nogle træk fra Præstereren. Du kan lide at klare dig godt og nyder anerkendelse, men din følelse af værd afhænger ikke helt af succes. Du kan arbejde hårdt mod mål og stadig nyde fritid. Tip: Tjek, om de mål, du forfølger, virkelig er dine egne eller det, andre forventer. Fejr dine præstationer, og tag dig så også tid til at nyde livet uden for præstationerne, sammen med mennesker, der kan lide dig uanset dine resultater.",
       "high": "Præsterens mønster er stærkt i dig. Du er ambitiøs, effektiv og fokuseret på succes, og du ved, hvordan du præsenterer dig selv godt. Din grundfrygt er at være værdiløs uden dine præstationer. Du motiverer andre og får tingene gjort. Tip: Læg mærke til, hvornår du tilpasser dit image for at behage andre eller arbejder for at undgå at føle dig tom. Brug tid på aktiviteter helt uden mål. Udvikling sker, når du værdsætter dig selv for den, du er, ikke for det, du opnår."
     },
     "type4": {
-      "name": "Type 4 – Individualisten",
+      "name": "Type 4: Individualisten",
       "short": "Drives af ønsket om at være unik og autentisk; frygter at mangle identitet eller betydning.",
       "low": "Individualistens mønster spiller en mindre rolle for dig. Du føler ikke et stærkt behov for at være anderledes eller udforske enhver følelse i dybden, og du har det fint med at passe ind. Det holder dig jordnær og praktisk. Tip: Giv lidt plads til selvudtryk, som en kreativ hobby eller ærlige samtaler om følelser. At udforske, hvad der gør dig unik, kan gøre dit liv rigere.",
       "mid": "Du genkender nogle træk fra Individualisten. Du værdsætter ægthed og har et rigt indre liv, men du føler dig ikke grundlæggende anderledes end andre. Du kan udtrykke følelser og stadig bevare perspektivet. Tip: Brug din følsomhed kreativt, for eksempel gennem skrivning eller kunst. Når du føler dig misforstået, så tjek, om du faktisk har delt, hvad du føler. Andre holder ofte mere af dig, end du tror, når de først forstår din indre verden.",
       "high": "Individualistens mønster er stærkt i dig. Du er følsom, udtryksfuld og i dyb kontakt med dine følelser, og du længes efter at være ægte og blive forstået. Din grundfrygt er at mangle en virkelig identitet eller betydning. Du bringer dybde, kreativitet og ærlighed om følelser. Tip: Læg mærke til, hvornår du fokuserer på det, der mangler, snarere end det, du har. Taknemmelighedsøvelser og praktiske rutiner kan stabilisere dit humør. Udvikling sker, når du indser, at almindelige øjeblikke og relationer også kan være meningsfulde."
     },
     "type5": {
-      "name": "Type 5 – Udforskeren",
+      "name": "Type 5: Udforskeren",
       "short": "Drives af ønsket om at forstå og være kompetent; frygter at være hjælpeløs eller overvældet.",
       "low": "Udforskerens mønster spiller kun en lille rolle for dig. Du føler ikke et stærkt behov for at trække dig tilbage og analysere, før du handler, og du deler let ud af din tid og energi. Det gør dig imødekommende og engageret. Tip: Når du står over for komplekse beslutninger, så giv dig selv lidt stille tid til research, før du kaster dig ud i det. At uddybe din viden på ét område, du går op i, kan opbygge selvtillid og ekspertise.",
       "mid": "Du genkender nogle træk fra Udforskeren. Du nyder at lære og har brug for lidt tid for dig selv, men du kan også engagere dig aktivt i mennesker og verden. Du værdsætter viden uden at gemme dig bag den. Tip: Læg mærke til, hvornår du trækker dig for at iagttage i stedet for at deltage, især i relationer. At dele det, du ved, selv før du føler dig helt klar, kan være givende og giver ofte nyttig feedback og kontakt.",
       "high": "Udforskerens mønster er stærkt i dig. Du er nysgerrig, skarpsindig og selvstændig, og du vil gerne forstå verden i dybden. Din grundfrygt er at være hjælpeløs, inkompetent eller drænet af andres krav, så du værner omhyggeligt om din tid og energi. Du bringer indsigt og ekspertise. Tip: Læg mærke til, hvornår indsamling af viden bliver en måde at undgå handling eller følelser på. Tag små skridt, før du føler dig fuldt forberedt. Udvikling sker, når du stoler på, at du har nok til at engagere dig helt i livet og i mennesker."
     },
     "type6": {
-      "name": "Type 6 – Den loyale",
+      "name": "Type 6: Den loyale",
       "short": "Drives af ønsket om tryghed og støtte; frygter at stå uden vejledning eller sikkerhed.",
       "low": "Den loyales mønster spiller en mindre rolle for dig. Du bekymrer dig ikke meget om, hvad der kan gå galt, og føler dig tryg uden at have brug for stærk vejledning eller bekræftelse. Det gør, at du kan handle modigt. Tip: Før store beslutninger kan du bevidst overveje mulige risici eller spørge en mere forsigtig person om deres syn. Loyalitet og forberedelse kan også være styrker, der er værd at udvikle, især i teams, der regner med, at du tænker fremad.",
       "mid": "Du genkender nogle træk fra Den loyale. Du værdsætter tryghed og relationer, du stoler på, og kan få øje på risici, men din tvivl holder dig sjældent tilbage. Du balancerer forsigtighed med selvtillid. Tip: Når bekymringen begynder at vokse, så skeln mellem realistiske risici og hvad-nu-hvis-scenarier. Stol oftere på din egen dømmekraft i stedet for at søge bekræftelse. Hver gang du handler på den, vokser tilliden til dit eget indre kompas.",
       "high": "Den loyales mønster er stærkt i dig. Du er loyal, ansvarlig og opmærksom på risici, og du sætter tillid og tryghed meget højt. Din grundfrygt er at stå uden støtte eller vejledning i en farlig verden. Du er et pålideligt teammedlem, der forbereder sig på problemer, som andre overser. Tip: Læg mærke til, hvornår angst får dig til at overplanlægge eller tvivle på alle, også dig selv. Øv dig i at handle på din egen dømmekraft i små skridt. Udvikling sker, når du finder den indre tryghed, du har søgt uden for dig selv."
     },
     "type7": {
-      "name": "Type 7 – Entusiasten",
+      "name": "Type 7: Entusiasten",
       "short": "Drives af ønsket om frihed og sjov; frygter at være fanget i smerte eller afsavn.",
       "low": "Entusiastens mønster spiller kun en lille rolle for dig. Du søger ikke konstant nye oplevelser og kan blive ved én ting, også når den ikke er spændende. Det giver dig fokus og dybde. Tip: Giv dig selv lov til lidt spontanitet en gang imellem, som en kort tur eller en ny hobby. Lidt legesyge kan give ny energi til dig og dine relationer.",
       "mid": "Du genkender nogle træk fra Entusiasten. Du nyder sjov, variation og nye planer, men du kan også forpligte dig og blive i svære følelser. Du balancerer optimisme med realisme og kan nyde både eventyr og ro. Tip: Læg mærke til, hvornår du griber efter distraktion for at undgå noget ubehageligt. At gøre ét projekt færdigt, før du starter det næste, får din begejstring til at betale sig og giver dig den dybere tilfredsstillelse ved at fuldføre noget.",
       "high": "Entusiastens mønster er stærkt i dig. Du er optimistisk, eventyrlysten og fuld af idéer, og du elsker at holde dine muligheder åbne. Din grundfrygt er at være fanget i smerte, kedsomhed eller begrænsning, så du bevæger dig ofte hurtigt videre til den næste spændende ting. Du bringer energi og glæde med dig, hvor du kommer. Tip: Øv dig i at blive i svære følelser i stedet for at flygte fra dem. Vælg nogle få forpligtelser, og før dem helt igennem. Udvikling sker, når du finder tilfredsstillelse i dybde, ikke kun i variation."
     },
     "type8": {
-      "name": "Type 8 – Udfordreren",
+      "name": "Type 8: Udfordreren",
       "short": "Drives af ønsket om at være stærk og have kontrol; frygter at blive kontrolleret eller være sårbar.",
       "low": "Udfordrerens mønster spiller en mindre rolle for dig. Du har ikke brug for at tage kontrollen eller bevise din styrke, og du søger sjældent konfrontation. Det gør dig let at samarbejde med. Tip: I situationer, hvor du eller andre bliver behandlet uretfærdigt, kan du øve dig i at sige bestemt fra. At hævde dig selv er ikke aggression; det er at beskytte det, der betyder noget. Start i små situationer, som at sige klart, hvad du foretrækker, til et møde.",
       "mid": "Du genkender nogle træk fra Udfordreren. Du kan være direkte og beskyttende og tager styringen, når der er brug for det, men du behøver ikke dominere. Du viser styrke uden at miste din følsomhed. Tip: Læg mærke til, hvornår du presser hårdt på for at undgå at føle dig sårbar. At lade folk se din blødere side kan uddybe tilliden. Spørg andre, hvordan din direkthed lander; deres svar kan hjælpe dig med at bruge din styrke klogere.",
       "high": "Udfordrerens mønster er stærkt i dig. Du er selvsikker, direkte og beskyttende, og du tager naturligt styringen. Din grundfrygt er at blive kontrolleret, skadet eller være sårbar, så du sætter styrke og selvstændighed højt. Du står op for dig selv og andre og er ikke bange for konflikter. Tip: Din intensitet kan overvælde folk, så skru ned for lydstyrken, og lyt helt, før du handler. Øv dig i at vise sårbarhed over for mennesker, du stoler på. Udvikling sker, når du ser, at åbenhed og mildhed også er former for styrke."
     },
     "type9": {
-      "name": "Type 9 – Fredsmageren",
+      "name": "Type 9: Fredsmageren",
       "short": "Drives af ønsket om indre og ydre fred; frygter konflikt og adskillelse.",
       "low": "Fredsmagerens mønster spiller kun en lille rolle for dig. Du viger ikke tilbage for konflikter og står gerne op for dine egne prioriteter. Det holder dig aktiv og klar over, hvad du vil. Tip: Når spændingerne stiger, så øv dig i at lytte til alle sider, før du presser dit synspunkt igennem. Et roligere tempo en gang imellem kan hjælpe dig med at se det store billede.",
       "mid": "Du genkender nogle træk fra Fredsmageren. Du værdsætter harmoni og kan se forskellige perspektiver, men du siger også fra, når noget betyder noget for dig. Du balancerer ro med engagement. Tip: Læg mærke til, hvornår du føjer andre for at undgå gnidninger. At sige, hvad du vil, også i små ting, holder dine relationer ærlige og forhindrer stille bitterhed i at hobe sig op. Dit synspunkt tilfører noget, som andre ikke kan.",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "{site} – Tests de psychologie gratuits en ligne",
+    "title": "{site} : Tests de psychologie gratuits en ligne",
     "description": "Des tests approfondis sur la personnalité, les relations, le travail et le bien-être, fondés sur une recherche psychologique reconnue et expliqués simplement."
   },
   "nav": {
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "À propos de {site}",
-    "intro": "Nous pensons que chacun mérite un regard clair et honnête sur qui il est — sans jargon, sans abonnement et sans étiquette en quatre lettres qui n'explique rien.",
+    "intro": "Nous pensons que chacun mérite un regard clair et honnête sur qui il est, sans jargon, sans abonnement et sans étiquette en quatre lettres qui n'explique rien.",
     "missionTitle": "Notre mission",
     "mission": "La psychologie a développé des outils puissants pour décrire la personnalité, les relations et le bien-être, mais la plupart de ces connaissances restent enfermées dans des manuels ou des évaluations coûteuses. {site} les rend accessibles : des tests approfondis que chacun peut passer gratuitement, dans sa propre langue, avec un rapport personnel qui explique vos résultats en termes simples et vous propose des pistes concrètes.",
     "howTitle": "Comment nous concevons nos tests",

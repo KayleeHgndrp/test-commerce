@@ -2,7 +2,7 @@
   "name": "Test narcyzmu",
   "tagline": "Sprawdź, gdzie znajdujesz się na spektrum cech narcystycznych.",
   "intro": "Każdy ma w sobie pewne cechy narcystyczne, a zdrowa dawka pewności siebie jest przydatna. Ten test przesiewowy obejmuje pięć obszarów: wielkościowość, roszczeniowość, potrzebę podziwu, empatię i kruchą samoocenę. Odpowiadaj szczerze, zgodnie z tym, jak zwykle myślisz i czujesz. Test zajmuje około pięciu minut i nie jest diagnozą, ale pokazuje, gdzie znajdujesz się na spektrum.",
-  "seoTitle": "Test narcyzmu – bezpłatny test cech narcystycznych",
+  "seoTitle": "Test narcyzmu: bezpłatny test cech narcystycznych",
   "seoDescription": "Ile jest w tobie narcyzmu? Zrób 5-minutowy test: wielkościowość, roszczeniowość, potrzeba podziwu, empatia i samoocena. Otrzymaj osobisty raport.",
   "items": [
     "Problemy innych ludzi niezbyt mnie interesują.",
@@ -98,7 +98,7 @@
     "Zachowuję spokój, gdy ktoś się ze mną nie zgadza.",
     "Komplementy wprawiają mnie w lekkie zakłopotanie.",
     "Bez problemu dzielę się zasługami z innymi.",
-    "Uważam, że stoję na równi ze wszystkimi – nie wyżej.",
+    "Uważam, że stoję na równi ze wszystkimi, nie wyżej.",
     "Umiem słuchać.",
     "Zabiegam o komplementy.",
     "Mogę odnieść sukces niemal we wszystkim, na czym się skupię.",
@@ -118,13 +118,13 @@
       "name": "Roszczeniowość",
       "short": "Jak bardzo oczekujesz specjalnego traktowania lub uważasz, że inni powinni zaspokajać twoje potrzeby.",
       "low": "Twoje odpowiedzi sugerują, że rzadko oczekujesz specjalnego traktowania i chętnie akceptujesz te same zasady co wszyscy. Wydaje się, że doceniasz to, co inni dla ciebie robią, i bierzesz odpowiedzialność za swoje działania. Te cechy budują zaufanie i życzliwość. Pamiętaj, że nadal w porządku jest prosić o to, czego potrzebujesz, i bronić się, gdy ktoś traktuje cię niesprawiedliwie.",
-      "mid": "Twoje odpowiedzi sugerują, że czasem czujesz, że zasługujesz na więcej, niż dostajesz, albo irytujesz się, gdy sprawy nie idą po twojej myśli. To dość częste, zwłaszcza gdy ciężko pracujesz. Zauważaj, kiedy frustracja zamienia się w oczekiwanie, że inni dostosują się do ciebie. Wyrażanie wdzięczności i patrzenie na sytuację z perspektywy drugiej osoby mogą pomóc utrzymać twoje oczekiwania w uczciwych granicach, a relacje – ciepłe i zrównoważone.",
+      "mid": "Twoje odpowiedzi sugerują, że czasem czujesz, że zasługujesz na więcej, niż dostajesz, albo irytujesz się, gdy sprawy nie idą po twojej myśli. To dość częste, zwłaszcza gdy ciężko pracujesz. Zauważaj, kiedy frustracja zamienia się w oczekiwanie, że inni dostosują się do ciebie. Wyrażanie wdzięczności i patrzenie na sytuację z perspektywy drugiej osoby mogą pomóc utrzymać twoje oczekiwania w uczciwych granicach, a relacje ciepłe i zrównoważone.",
       "high": "Twoje odpowiedzi sugerują, że często oczekujesz specjalnego traktowania, uważasz, że inni powinni zaspokajać twoje potrzeby, i frustrujesz się, gdy tego nie robią. Ten wzorzec może obciążać relacje i prowadzić do powtarzających się konfliktów lub rozczarowań. Pomocne bywa pytanie siebie, co dajesz w zamian i jak inni mogą postrzegać sytuację. Jeśli ten wzorzec sprawia trudności, rozważ rozmowę z wykwalifikowanym specjalistą, który pomoże ci zrozumieć, skąd biorą się te oczekiwania."
     },
     "admiration": {
       "name": "Potrzeba podziwu",
       "short": "Jak bardzo zabiegasz o uwagę, pochwały i uznanie innych.",
-      "low": "Twoje odpowiedzi sugerują, że nie potrzebujesz wiele uwagi ani pochwał, by dobrze myśleć o sobie. Dobrze czujesz się w tle i pozwalasz innym błyszczeć. Ta wewnętrzna niezależność to prawdziwa siła. Zadbaj tylko o to, by twoje osiągnięcia były widoczne, gdy ma to znaczenie, na przykład w pracy, bo inni nie docenią tego, czego nie widzą. Dzielenie się od czasu do czasu swoimi sukcesami to nie przechwalanie się – po prostu informujesz ludzi.",
+      "low": "Twoje odpowiedzi sugerują, że nie potrzebujesz wiele uwagi ani pochwał, by dobrze myśleć o sobie. Dobrze czujesz się w tle i pozwalasz innym błyszczeć. Ta wewnętrzna niezależność to prawdziwa siła. Zadbaj tylko o to, by twoje osiągnięcia były widoczne, gdy ma to znaczenie, na przykład w pracy, bo inni nie docenią tego, czego nie widzą. Dzielenie się od czasu do czasu swoimi sukcesami to nie przechwalanie się, po prostu informujesz ludzi.",
       "mid": "Twoje odpowiedzi sugerują, że lubisz uwagę i uznanie, choć nie zależysz od nich całkowicie. Pragnienie docenienia jest całkowicie ludzkie. Zwracaj uwagę na chwile, w których szukasz pochwał, by ukoić niepewność, a nie by dzielić się radością. Czerpanie satysfakcji z własnych wartości i postępów, a nie tylko z reakcji innych, sprawia, że twoja samoocena staje się stabilniejsza i mniej zależna od nastrojów ludzi wokół.",
       "high": "Twoje odpowiedzi sugerują, że uwaga, pochwały i podziw są bardzo ważne dla tego, jak się ze sobą czujesz. Gdy brakuje uznania, możesz odczuwać zranienie, pustkę lub niepokój. Silne poleganie na zewnętrznej aprobacie może sprawiać, że samoocena staje się krucha, a relacje jednostronne. Spróbuj zauważać, co cenisz w sobie niezależnie od reakcji innych. Jeśli trudno ci zapanować nad tą potrzebą, rozważ zgłębienie jej z wykwalifikowanym specjalistą, na przykład terapeutą."
     },
@@ -143,5 +143,5 @@
       "high": "Twoje odpowiedzi sugerują, że pod powierzchnią twoja samoocena może być dość krucha: krytyka, odrzucenie czy sukcesy innych mogą mocno uderzać i wywoływać wstyd, zazdrość lub złość. Ta wrażliwa strona cech narcystycznych bywa bolesna i ukryta przed innymi. Okazuj sobie życzliwość, bo ta wrażliwość zwykle ma zrozumiałe źródła. Rozważ rozmowę z wykwalifikowanym specjalistą, który pomoże ci zbudować stabilniejsze, bezpieczniejsze poczucie własnej wartości."
     }
   },
-  "summary": "Cechy narcystyczne układają się na spektrum i każdy ma je w jakimś stopniu. Ten raport pokazuje, gdzie znajdujesz się w pięciu obszarach – od pewnej siebie wielkościowości po kruchą samoocenę. Wyższe wyniki oznaczają silniejsze cechy. Wyniki nie są diagnozą narcystycznego zaburzenia osobowości; może ją postawić wyłącznie wykwalifikowany specjalista."
+  "summary": "Cechy narcystyczne układają się na spektrum i każdy ma je w jakimś stopniu. Ten raport pokazuje, gdzie znajdujesz się w pięciu obszarach, od pewnej siebie wielkościowości po kruchą samoocenę. Wyższe wyniki oznaczają silniejsze cechy. Wyniki nie są diagnozą narcystycznego zaburzenia osobowości; może ją postawić wyłącznie wykwalifikowany specjalista."
 }

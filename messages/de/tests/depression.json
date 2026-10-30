@@ -2,7 +2,7 @@
   "name": "Depressionstest",
   "tagline": "Prüfe deine Stimmung, Energie und dein Denken in den letzten zwei Wochen.",
   "intro": "Wie oft hast du dich im Verlauf der letzten zwei Wochen durch die folgenden Beschwerden beeinträchtigt gefühlt? Dieser Selbsttest enthält den PHQ-9, einen weit verbreiteten Fragebogen zu Depression, sowie zusätzliche Fragen zu Stimmung, Energie, Schlaf, Denken und Selbstbild. Das dauert etwa fünf Minuten und ersetzt keine Diagnose, kann dir aber helfen zu verstehen, wie es dir geht und ob du dir Unterstützung suchen solltest.",
-  "seoTitle": "Depressionstest – kostenloser Selbsttest mit PHQ-9",
+  "seoTitle": "Depressionstest: kostenloser Selbsttest mit PHQ-9",
   "seoDescription": "Wie war deine Stimmung in letzter Zeit? Mach den 5-minütigen Depressions-Selbsttest mit PHQ-9 und erhalte einen Bericht zu Stimmung, Energie und Schlaf.",
   "items": [
     "Wenig Interesse oder Freude an deinen Tätigkeiten",
@@ -118,7 +118,7 @@
       "name": "Energie und Antrieb",
       "short": "Wie müde, verlangsamt oder antriebslos du dich gefühlt hast.",
       "low": "Deine Antworten deuten darauf hin, dass deine Energie und dein Antrieb in letzter Zeit recht gut waren. Du scheinst deine Alltagsaufgaben zu schaffen und hast danach noch etwas Energie übrig. Unterstütze das weiter mit regelmäßigem Schlaf, Bewegung und Pausen. Nach einem vollen Tag müde zu sein, ist normal; bedenklich wird es vor allem, wenn Erholung nicht mehr zu helfen scheint. Achte in vollen oder stressigen Phasen darauf, wie es dir geht.",
-      "mid": "Deine Antworten deuten darauf hin, dass dir Müdigkeit oder fehlender Antrieb an einigen Tagen im Weg standen. Alltagsaufgaben fühlen sich vielleicht schwerer an als sonst. Versuche, einen Grundrhythmus mit regelmäßigen Mahlzeiten, etwas Tageslicht und sanfter Bewegung beizubehalten – das hilft oft mehr als zusätzliche Ruhe. Zerlege Aufgaben in kleine Schritte. Wenn die Erschöpfung anhält oder schlimmer wird, lohnt sich ein Gespräch mit deiner Ärztin oder deinem Arzt.",
+      "mid": "Deine Antworten deuten darauf hin, dass dir Müdigkeit oder fehlender Antrieb an einigen Tagen im Weg standen. Alltagsaufgaben fühlen sich vielleicht schwerer an als sonst. Versuche, einen Grundrhythmus mit regelmäßigen Mahlzeiten, etwas Tageslicht und sanfter Bewegung beizubehalten, das hilft oft mehr als zusätzliche Ruhe. Zerlege Aufgaben in kleine Schritte. Wenn die Erschöpfung anhält oder schlimmer wird, lohnt sich ein Gespräch mit deiner Ärztin oder deinem Arzt.",
       "high": "Deine Antworten deuten darauf hin, dass dich Erschöpfung und fehlender Antrieb an den meisten Tagen beeinträchtigt haben, sodass selbst einfache Aufgaben schwerfallen. Eine solche Erschöpfung kann Teil einer Depression sein, aber auch körperliche Ursachen haben, also sprich bitte mit deiner Ärztin, deinem Arzt oder einer anderen qualifizierten Fachperson. Wenn du Gedanken hast, dir selbst etwas anzutun, wende dich bitte sofort an den Notruf oder ein Krisentelefon. Sei bis dahin nachsichtig mit dir: Senke deine Erwartungen vorübergehend und bitte andere um Hilfe bei dem, was du gerade nicht schaffst."
     },
     "sleep": {

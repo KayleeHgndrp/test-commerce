@@ -2,7 +2,7 @@
   "name": "Test depresji",
   "tagline": "Sprawdź swój nastrój, energię i myślenie w ciągu ostatnich dwóch tygodni.",
   "intro": "Jak często w ciągu ostatnich dwóch tygodni dokuczały ci następujące problemy? Ten test przesiewowy zawiera PHQ-9, powszechnie stosowany kwestionariusz do badania depresji, oraz dodatkowe pytania o nastrój, energię, sen, myślenie i obraz siebie. Zajmuje około pięciu minut i nie jest diagnozą, ale może pomóc ci zrozumieć, jak się masz, i zdecydować, czy szukać wsparcia.",
-  "seoTitle": "Test depresji – bezpłatny test przesiewowy oparty na PHQ-9",
+  "seoTitle": "Test depresji: bezpłatny test przesiewowy oparty na PHQ-9",
   "seoDescription": "Jak ostatnio się czujesz? Zrób 5-minutowy test przesiewowy depresji z PHQ-9 i otrzymaj osobisty raport o nastroju, energii, śnie i myśleniu.",
   "items": [
     "Niewielkie zainteresowanie lub odczuwanie przyjemności z wykonywania czynności",
@@ -10,9 +10,9 @@
     "Kłopoty z zaśnięciem lub przerywany sen, albo zbyt długi sen",
     "Uczucie zmęczenia lub brak energii",
     "Brak apetytu lub przejadanie się",
-    "Poczucie niezadowolenia z siebie — lub uczucie, że jest się do niczego, albo że zawiodło się siebie lub rodzinę",
+    "Poczucie niezadowolenia z siebie lub uczucie, że jest się do niczego, albo że zawiodło się siebie lub rodzinę",
     "Problemy ze skupieniem się, na przykład przy czytaniu gazety lub oglądaniu telewizji",
-    "Poruszanie się lub mówienie tak wolno, że inne osoby mogłyby to zauważyć, albo wręcz przeciwnie — nadmierna ruchliwość lub niepokój, które powodują, że rusza się dużo więcej niż zwykle",
+    "Poruszanie się lub mówienie tak wolno, że inne osoby mogłyby to zauważyć, albo wręcz przeciwnie, nadmierna ruchliwość lub niepokój, które powodują, że rusza się dużo więcej niż zwykle",
     "Myśli, że lepiej byłoby umrzeć, albo chęć zrobienia sobie jakiejś krzywdy",
     "Poczucie bezwartościowości",
     "Wyczerpanie już po niewielkim wysiłku",
@@ -110,7 +110,7 @@
     "mood": {
       "name": "Nastrój i radość",
       "short": "Jak często odczuwasz smutek, pustkę lub niezdolność do cieszenia się czymkolwiek.",
-      "low": "Twoje odpowiedzi sugerują, że w ciągu ostatnich dwóch tygodni twój nastrój był dość stabilny i nadal potrafisz się cieszyć różnymi rzeczami. Każdy ma gorsze chwile – to normalna część życia. Rób dalej to, co cię wspiera, na przykład spędzaj czas z ludźmi, których lubisz, zajmuj się tym, co daje ci radość, i dbaj o odpoczynek. Regularne zwracanie uwagi na swój nastrój pomaga wcześnie zauważyć, jeśli coś się zmienia.",
+      "low": "Twoje odpowiedzi sugerują, że w ciągu ostatnich dwóch tygodni twój nastrój był dość stabilny i nadal potrafisz się cieszyć różnymi rzeczami. Każdy ma gorsze chwile, to normalna część życia. Rób dalej to, co cię wspiera, na przykład spędzaj czas z ludźmi, których lubisz, zajmuj się tym, co daje ci radość, i dbaj o odpoczynek. Regularne zwracanie uwagi na swój nastrój pomaga wcześnie zauważyć, jeśli coś się zmienia.",
       "mid": "Twoje odpowiedzi sugerują, że przez sporą część dni dokuczały ci obniżony nastrój, drażliwość lub mniejsza radość z życia. Może się to zdarzać w stresujących okresach, ale zasługuje na uwagę. Staraj się dalej robić drobne rzeczy, które kiedyś sprawiały ci przyjemność, nawet jeśli entuzjazm jeszcze nie wrócił, i podziel się swoimi uczuciami z kimś zaufanym. Jeśli twój nastrój nie poprawi się w ciągu kilku tygodni, rozważ rozmowę z lekarzem.",
       "high": "Twoje odpowiedzi sugerują, że w ciągu ostatnich dwóch tygodni często odczuwasz przygnębienie, pustkę lub niezdolność do cieszenia się czymkolwiek. To może być bardzo ciężkie i nie musisz dźwigać tego w pojedynkę. Porozmawiaj wkrótce z lekarzem lub wykwalifikowanym specjalistą zdrowia psychicznego; obniżony nastrój jest częsty i można go leczyć. Jeśli pojawiają się u ciebie myśli o zrobieniu sobie krzywdy, natychmiast skontaktuj się z lokalnymi służbami ratunkowymi lub telefonem zaufania. Do tego czasu staraj się utrzymywać kontakt z ludźmi wokół siebie."
     },

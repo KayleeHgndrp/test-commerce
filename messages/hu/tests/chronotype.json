@@ -2,7 +2,7 @@
   "name": "Kronotípus teszt",
   "tagline": "Pacsirta vagy bagoly? Ismerd meg a természetes napi ritmusodat.",
   "intro": "Ez a teszt a kronotípusodat vizsgálja: hogy a nap mely szakaszában vagy a legéberebb, mikor szeretne a tested elaludni és felébredni, és mennyire könnyen alkalmazkodsz, ha változik a napirended. Az alapján válaszolj, ami természetesnek tűnik számodra, különösen azokon a napokon, amikor magad oszthatod be az idődet. Körülbelül öt percet vesz igénybe, és konkrét tanácsokat ad a koncentrációhoz, a sporthoz és az alváshoz legjobb időpontokról.",
-  "seoTitle": "Kronotípus teszt – Pacsirta vagy bagoly vagy?",
+  "seoTitle": "Kronotípus teszt: Pacsirta vagy bagoly vagy?",
   "seoDescription": "Korán kelő vagy éjszakai bagoly? Töltsd ki ezt az ingyenes, 5 perces kronotípus-tesztet, és kapj személyes tanácsot a munkához, a sporthoz és az alváshoz.",
   "items": [
     "Röviddel ébredés után éber és friss vagyok.",
@@ -132,7 +132,7 @@
       "name": "Rugalmasság",
       "short": "Mennyire könnyen alkalmazkodsz az eltolódott napirendhez, az utazáshoz és a rendszertelen időbeosztáshoz.",
       "low": "A válaszaid alapján a tested szereti a rutint. Az alvásidő változásai, az utazás vagy a késői éjszakák egy időre lemeríthetnek. Amennyire csak lehet, óvd az állandó lefekvési és ébredési idődet. Utazások vagy napirendváltozások előtt napi 15–30 perccel told el előre az alvásodat. Utána a megfelelő időben menj ki a természetes fényre, és engedj meg magadnak több regenerálódást. Ha ezt tudod magadról, a megterhelő eseményeket elegendő ráhagyással tervezheted.",
-      "mid": "Elég jól alkalmazkodsz a napirended változásaihoz, de a nagyobb eltolódásokból még mindig időbe telik felépülnöd. Egy-egy késői éjszaka vagy korai repülőút kezelhető, különösen, ha előre tervezel vele. A tartópillér-szokásaidat – például a rendszeres ébredési időt és a reggeli fényt – akkor is tartsd stabilan, ha a napod más részei változnak. Egy zavar után gyorsan térj vissza a szokásos ritmusodhoz, ahelyett, hogy napokig sokáig aludnál.",
+      "mid": "Elég jól alkalmazkodsz a napirended változásaihoz, de a nagyobb eltolódásokból még mindig időbe telik felépülnöd. Egy-egy késői éjszaka vagy korai repülőút kezelhető, különösen, ha előre tervezel vele. A tartópillér-szokásaidat, például a rendszeres ébredési időt és a reggeli fényt, akkor is tartsd stabilan, ha a napod más részei változnak. Egy zavar után gyorsan térj vissza a szokásos ritmusodhoz, ahelyett, hogy napokig sokáig aludnál.",
       "high": "A tested láthatóan könnyen alkalmazkodik az eltolódott napirendhez, az utazáshoz és a rendszertelen időbeosztáshoz. Ez valódi előny a műszakos munkában, az utazásban vagy a pörgős társasági életben. A rugalmasság azonban nem jelenti azt, hogy összességében kevesebb alvásra van szükséged. Kövesd nyomon az összes alvásidődet, és gondoskodj róla, hogy a rövid éjszakákat pótló éjszakák kövessék. Használd okosan az alkalmazkodóképességedet: az edzéseidet vagy a fókuszblokkjaidat a naphoz igazíthatod. Ha a rendszertelen időbeosztás kezd hatással lenni a hangulatodra vagy az egészségedre, orvos vagy képzett szakember segíthet átnézni a rutinodat."
     }
   },

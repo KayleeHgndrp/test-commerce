@@ -1,8 +1,8 @@
 {
   "name": "Depresijas tests",
   "tagline": "Pārbaudi savu garastāvokli, enerģiju un domāšanu pēdējo divu nedēļu laikā.",
-  "intro": "Cik bieži pēdējo divu nedēļu laikā tevi ir traucējušas šīs problēmas? Šis skrīninga tests ietver PHQ-9 – plaši izmantotu depresijas anketu –, kā arī papildu jautājumus par garastāvokli, enerģiju, miegu, domāšanu un priekšstatu par sevi. Tas aizņem apmēram piecas minūtes un nav diagnoze, taču var palīdzēt saprast, kā tev klājas un vai ir vērts meklēt atbalstu.",
-  "seoTitle": "Depresijas tests – bezmaksas skrīnings ar PHQ-9",
+  "intro": "Cik bieži pēdējo divu nedēļu laikā tevi ir traucējušas šīs problēmas? Šis skrīninga tests ietver PHQ-9, plaši izmantotu depresijas anketu, kā arī papildu jautājumus par garastāvokli, enerģiju, miegu, domāšanu un priekšstatu par sevi. Tas aizņem apmēram piecas minūtes un nav diagnoze, taču var palīdzēt saprast, kā tev klājas un vai ir vērts meklēt atbalstu.",
+  "seoTitle": "Depresijas tests: bezmaksas skrīnings ar PHQ-9",
   "seoDescription": "Kāds tev bijis garastāvoklis pēdējā laikā? Izpildi 5 minūšu depresijas skrīningu ar PHQ-9 un saņem pārskatu par garastāvokli, enerģiju, miegu un domāšanu.",
   "items": [
     "Maza interese vai prieks kaut ko darīt",
@@ -10,9 +10,9 @@
     "Grūtības aizmigt vai gulēt nepārtraukti, vai pārāk ilga gulēšana",
     "Noguruma vai enerģijas trūkuma sajūta",
     "Slikta ēstgriba vai pārēšanās",
-    "Slikts viedoklis par sevi – vai sajūta, ka tava dzīve ir neveiksme vai ka tu pieviļ sevi vai savu ģimeni",
+    "Slikts viedoklis par sevi vai sajūta, ka tava dzīve ir neveiksme vai ka tu pieviļ sevi vai savu ģimeni",
     "Grūtības koncentrēties, piemēram, lasot avīzi vai skatoties televīziju",
-    "Kustības vai runa tik lēna, ka to varēja pamanīt citi, vai tieši pretēji – tik liels nervozums vai nemiers, ka kustējies daudz vairāk nekā parasti",
+    "Kustības vai runa tik lēna, ka to varēja pamanīt citi, vai tieši pretēji, tik liels nervozums vai nemiers, ka kustējies daudz vairāk nekā parasti",
     "Domas, ka tev būtu labāk mirt vai kaut kādā veidā sevi savainot",
     "Bezvērtības sajūta",
     "Izsīkums jau pēc ļoti nelielas piepūles",
@@ -143,7 +143,7 @@
       "high": "Tavas atbildes liecina, ka pēdējo divu nedēļu laikā tu bieži esi juties bezvērtīgs, vainīgs vai ļoti kritisks pret sevi. Šādas skarbas domas ir izplatīta depresijas daļa un neatspoguļo tavu patieso vērtību. Lūdzu, aprunājies ar savu ārstu vai kvalificētu garīgās veselības speciālistu; terapija var patiešām palīdzēt. Ja tev ir domas par sevis savainošanu, lūdzu, nekavējoties sazinies ar vietējo neatliekamās palīdzības dienestu vai krīzes tālruni. Centies pavadīt laiku ar cilvēkiem, kuri pret tevi izturas laipni."
     }
   },
-  "summary": "Šis pārskats apvieno tavu PHQ-9 rezultātu – plaši izmantotu skrīninga rādītāju – ar piecām jomām, kas parāda, kur pēdējo divu nedēļu laikā esi bijis visvairāk ietekmēts. Augstāks rezultāts nozīmē biežākas problēmas. Tā nav diagnoze; ja tavi rezultāti ir paaugstināti, lūdzu, aprunājies ar ārstu vai kvalificētu speciālistu. Ja tev ir domas par sevis savainošanu, lūdzu, nekavējoties sazinies ar vietējo neatliekamās palīdzības dienestu vai krīzes tālruni.",
+  "summary": "Šis pārskats apvieno tavu PHQ-9 rezultātu, plaši izmantotu skrīninga rādītāju, ar piecām jomām, kas parāda, kur pēdējo divu nedēļu laikā esi bijis visvairāk ietekmēts. Augstāks rezultāts nozīmē biežākas problēmas. Tā nav diagnoze; ja tavi rezultāti ir paaugstināti, lūdzu, aprunājies ar ārstu vai kvalificētu speciālistu. Ja tev ir domas par sevis savainošanu, lūdzu, nekavējoties sazinies ar vietējo neatliekamās palīdzības dienestu vai krīzes tālruni.",
   "instrument": {
     "name": "PHQ-9 rezultāts",
     "description": "PHQ-9 ir plaši izmantota, publiski pieejama depresijas skrīninga anketa, ko izstrādājuši Dr. Kroenke, Spitzer un Williams. Tavs rezultāts no 0 līdz 27 norāda, cik smagi varētu būt tavi simptomi, taču tas ir skrīninga rīks, nevis diagnoze.",

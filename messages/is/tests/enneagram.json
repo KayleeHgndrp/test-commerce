@@ -2,7 +2,7 @@
   "name": "Enneagram-próf",
   "tagline": "Finndu kjarnahvötina á bak við það hvernig þú hugsar og hegðar þér.",
   "intro": "Enneagram lýsir níu persónuleikagerðum sem hver um sig er drifin áfram af ólíkri kjarnahvöt og kjarnaótta. Þetta próf mælir hversu sterkt þú samsamar þig hverju af níu mynstrunum og dregur fram það sem passar þér best. Þú metur 100 stuttar fullyrðingar; það tekur um fimm mínútur.",
-  "seoTitle": "Enneagram-próf – Ókeypis próf um 9 gerðir",
+  "seoTitle": "Enneagram-próf: Ókeypis próf um 9 gerðir",
   "seoDescription": "Hver af níu Enneagram-gerðunum ert þú? Taktu ókeypis 5 mínútna próf, sjáðu skorin þín á öllum níu gerðunum og fáðu þroskaráð fyrir aðalgerðina þína.",
   "items": [
     "Ég hef sterka innri rödd sem segir mér hvað er rétt.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Gerð 1 – Fullkomnunarsinninn",
+      "name": "Gerð 1: Fullkomnunarsinninn",
       "short": "Kjarnahvöt: að gera rétt og bæta heiminn. Kjarnaótti: að hafa rangt fyrir sér eða vera ófullkomin manneskja.",
       "low": "Mynstur fullkomnunarsinnans skiptir þig litlu máli. Þú ert afslöppuð persóna gagnvart reglum og mistökum og finnur ekki fyrir sterkum innri gagnrýnanda sem rekur þig til að gera allt rétt. Það gerir þér kleift að fljóta með straumnum og fyrirgefa auðveldlega. Ráð: á sviðum þar sem gæði skipta raunverulega máli, eins og heilsu eða fjármálum, gæti aðeins meiri rammi og athygli á smáatriðum gagnast þér. Kannaðu hvort afslappað viðhorf þýði stundum að mikilvægar kröfur fái að gefa eftir.",
       "mid": "Þú kannast við sum einkenni fullkomnunarsinnans. Þér er annt um að gera hlutina almennilega og getur gagnrýnt þig, en veist líka hvenær nógu gott er nógu gott. Tilfinning þín fyrir réttu og röngu leiðbeinir þér án þess að stjórna þér. Ráð: taktu eftir því þegar innri gagnrýnandinn verður háværari, oft undir álagi, og svaraðu honum af mildi. Veldu meðvitað hvar háar kröfur bæta gildi og hvar sveigjanleiki gerir lífið auðveldara.",
       "high": "Mynstur fullkomnunarsinnans er sterkt í þér. Þú býrð yfir staðfestu og samviskusemi og hefur ríka þörf fyrir að bæta þig og heiminn. Kjarnaótti þinn er að hafa rangt fyrir þér, vera slæm eða gölluð manneskja, svo strangur innri gagnrýnandi heldur þér oft á beinu brautinni. Þú færir heilindi og gæði inn í allt sem þú gerir. Ráð: æfðu þig í að sætta þig við ófullkomleika, bæði hjá þér og öðrum; mistök eru hluti af lærdómi. Leyfðu þér ánægju og leik án þess að vinna þér fyrst inn fyrir því. Þroski kemur þegar þú treystir því að þú sért nú þegar nógu góð manneskja."
     },
     "type2": {
-      "name": "Gerð 2 – Hjálparinn",
+      "name": "Gerð 2: Hjálparinn",
       "short": "Kjarnahvöt: að vera elskuð og þörf manneskja. Kjarnaótti: að vera óvelkomin og eiga ekki ást skilið.",
       "low": "Mynstur hjálparans skiptir þig litlu máli. Þú byggir ekki sjálfsmynd þína á því að vera þörf manneskja og líður vel með að einbeita þér að eigin lífi. Það verndar þig gegn því að gefa of mikið. Ráð: gættu þess að fólkið sem stendur þér nærri finni enn umhyggju þína; lítil merki, eins og að spyrja hvernig það hafi það eða bjóða hjálp óbeðið, halda samböndum hlýjum. Taktu eftir því þegar sjálfstæði breytist í fjarlægð.",
       "mid": "Þú kannast við sum einkenni hjálparans. Þú nýtur þess að styðja aðra og kannt að meta þakklæti, en getur líka sett þig í fyrsta sæti þegar þess þarf. Hlýja þín er í jafnvægi við sjálfsvirðingu. Ráð: taktu eftir hvort þú hjálpar stundum til að öðrum líki vel við þig frekar en af því að þú vilt það. Æfðu þig í að biðja beint um það sem þú þarft í stað þess að vona að aðrir taki eftir því. Fólk sem þykir vænt um þig fagnar yfirleitt tækifærinu til að gefa eitthvað til baka.",
       "high": "Mynstur hjálparans er sterkt í þér. Þú býrð yfir hlýju og örlæti, tekur eftir því hvað aðrir þurfa og finnst þú mest virði þegar þú hjálpar. Kjarnaótti þinn er að vera ekki elskuð eða óvelkomin manneskja. Fólk upplifir þig sem umhyggjusama og styðjandi persónu. Ráð: þínar eigin þarfir eru jafnréttmætar og þarfir annarra, svo nefndu þær opinskátt. Hjálpaðu af því að þú velur það, ekki til að tryggja þér ást. Þroski kemur þegar þú leyfir öðrum líka að annast þig og treystir því að þú verðskuldir ást án þess að gefa."
     },
     "type3": {
-      "name": "Gerð 3 – Afreksmanneskjan",
+      "name": "Gerð 3: Afreksmanneskjan",
       "short": "Kjarnahvöt: að ná árangri og njóta aðdáunar. Kjarnaótti: að vera einskis virði eða mistakast.",
       "low": "Mynstur afreksmanneskjunnar skiptir þig litlu máli. Staða, ímynd og ytri velgengni eru ekki helstu drifkraftar þínir og þú mælir ekki virði þitt út frá því sem þú afrekar. Það veitir þér frelsi frá samanburði. Ráð: ef þú átt markmið sem skipta þig máli getur smá metnaður og sýnilegar framfarir hjálpað þér að ná þeim. Leyfðu öðrum að sjá afrek þín; hógværð ætti ekki að fela styrkleika þína.",
       "mid": "Þú kannast við sum einkenni afreksmanneskjunnar. Þér líkar að standa þig vel og nýtur viðurkenningar, en sjálfsvirði þitt byggir ekki alfarið á velgengni. Þú getur lagt hart að þér til að ná markmiðum og samt notið frítíma. Ráð: kannaðu hvort markmiðin sem þú eltir séu raunverulega þín eða það sem aðrir búast við. Fagnaðu afrekum og gefðu þér svo líka tíma til að njóta lífsins utan frammistöðu, með fólki sem líkar vel við þig óháð árangri þínum.",
       "high": "Mynstur afreksmanneskjunnar er sterkt í þér. Þú býrð yfir metnaði og skilvirkni, einblínir á velgengni og kannt að koma vel fyrir. Kjarnaótti þinn er að vera einskis virði án afreka þinna. Þú hvetur aðra áfram og kemur hlutum í verk. Ráð: taktu eftir því þegar þú lagar ímynd þína að öðrum til að þóknast þeim eða vinnur til að forðast tómleika. Verðu tíma í athafnir sem hafa ekkert markmið. Þroski kemur þegar þú metur þig fyrir það hver þú ert, ekki fyrir það sem þú afrekar."
     },
     "type4": {
-      "name": "Gerð 4 – Einstaklingshyggjumanneskjan",
+      "name": "Gerð 4: Einstaklingshyggjumanneskjan",
       "short": "Kjarnahvöt: að vera einstök og ósvikin manneskja. Kjarnaótti: að hafa enga sjálfsmynd eða þýðingu.",
       "low": "Mynstur einstaklingshyggjumanneskjunnar skiptir þig litlu máli. Þú finnur ekki fyrir sterkri þörf fyrir að vera öðruvísi eða kanna hverja tilfinningu í þaula og líður vel með að falla inn í hópinn. Það heldur þér jarðbundinni og hagsýnni manneskju. Ráð: gefðu sjálfstjáningu smá rými, eins og skapandi áhugamáli eða einlægum samtölum um tilfinningar. Að kanna hvað gerir þig einstaka manneskju getur auðgað líf þitt.",
       "mid": "Þú kannast við sum einkenni einstaklingshyggjumanneskjunnar. Þú metur einlægni og átt ríkt innra líf, en finnst þú ekki í grundvallaratriðum skera þig frá öðrum. Þú getur tjáð tilfinningar og samt haldið yfirsýn. Ráð: nýttu næmni þína á skapandi hátt, til dæmis í skrifum eða list. Þegar þér finnst aðrir misskilja þig skaltu kanna hvort þú hafir í raun deilt því sem þú finnur. Öðrum er oft annara um þig en þú heldur þegar þeir skilja innri heim þinn.",
       "high": "Mynstur einstaklingshyggjumanneskjunnar er sterkt í þér. Þú býrð yfir næmni og tjáningarþörf, ert í djúpum tengslum við tilfinningar þínar og þráir að vera ósvikin manneskja sem aðrir skilja. Kjarnaótti þinn er að hafa enga raunverulega sjálfsmynd eða þýðingu. Þú færir dýpt, sköpun og heiðarleika um tilfinningar. Ráð: taktu eftir því þegar þú einblínir á það sem vantar frekar en það sem þú hefur. Þakklætisæfingar og hagnýtar venjur geta jafnað skapsveiflur. Þroski kemur þegar þú áttar þig á því að hversdagsleg augnablik og tengsl geta líka verið merkingarbær."
     },
     "type5": {
-      "name": "Gerð 5 – Rannsakandinn",
+      "name": "Gerð 5: Rannsakandinn",
       "short": "Kjarnahvöt: að skilja og búa yfir hæfni. Kjarnaótti: bjargarleysi og að kikna undan kröfum.",
       "low": "Mynstur rannsakandans skiptir þig litlu máli. Þú finnur ekki fyrir sterkri þörf fyrir að draga þig í hlé og greina áður en þú framkvæmir og gefur auðveldlega af tíma þínum og orku. Það gerir þig aðgengilega og virka persónu. Ráð: þegar þú stendur frammi fyrir flóknum ákvörðunum skaltu gefa þér smá rólegan tíma til að kynna þér málið áður en þú stekkur af stað. Að dýpka þekkingu þína á einu sviði sem skiptir þig máli getur byggt upp sjálfstraust og sérþekkingu.",
       "mid": "Þú kannast við sum einkenni rannsakandans. Þú nýtur þess að læra og þarft einhvern tíma í einrúmi, en getur líka tekið virkan þátt með fólki og í heiminum. Þú metur þekkingu án þess að fela þig á bak við hana. Ráð: taktu eftir því þegar þú dregur þig í hlé til að fylgjast með í stað þess að taka þátt, sérstaklega í samböndum. Að deila því sem þú veist, jafnvel áður en þér finnst allt vera tilbúið, getur verið gefandi og skilar oft gagnlegri endurgjöf og tengslum.",
       "high": "Mynstur rannsakandans er sterkt í þér. Þú býrð yfir forvitni, innsæi og sjálfstæði og vilt skilja heiminn í dýpt. Kjarnaótti þinn er að vera bjargarlaus, vanhæf manneskja eða tæmast af kröfum annarra, svo þú stendur vandlega vörð um tíma þinn og orku. Þú færir innsýn og sérþekkingu. Ráð: taktu eftir því þegar þekkingaröflun verður leið til að forðast aðgerðir eða tilfinningar. Taktu lítil skref áður en þér finnst undirbúningnum fullkomlega lokið. Þroski kemur þegar þú treystir því að þú hafir nóg til að taka fullan þátt í lífinu og með fólki."
     },
     "type6": {
-      "name": "Gerð 6 – Tryggðartröllið",
+      "name": "Gerð 6: Tryggðartröllið",
       "short": "Kjarnahvöt: öryggi og stuðningur. Kjarnaótti: að standa uppi án leiðsagnar eða öryggis.",
       "low": "Mynstur tryggðartröllsins skiptir þig litlu máli. Þú hefur ekki miklar áhyggjur af því hvað gæti farið úrskeiðis og finnur fyrir öryggi án þess að þurfa sterka leiðsögn eða fullvissu. Það gerir þér kleift að framkvæma af djörfung. Ráð: fyrir stórar ákvarðanir skaltu meðvitað íhuga mögulega áhættu eða spyrja varkárari manneskju um álit. Tryggð og undirbúningur geta líka verið styrkleikar sem vert er að rækta, sérstaklega í teymum sem treysta á að þú hugsir fram í tímann.",
       "mid": "Þú kannast við sum einkenni tryggðartröllsins. Þú metur öryggi og traust sambönd og getur komið auga á áhættu, en efasemdir þínar halda yfirleitt ekki aftur af þér. Þú vegur varkárni og sjálfsöryggi á móti hvort öðru. Ráð: þegar áhyggjurnar fara að vaxa skaltu greina á milli raunhæfrar áhættu og „hvað ef“-hugsana. Treystu eigin dómgreind oftar í stað þess að leita fullvissu. Í hvert skipti sem þú framkvæmir eftir henni vex traust þitt á eigin innri áttavita.",
       "high": "Mynstur tryggðartröllsins er sterkt í þér. Þú býrð yfir tryggð, ábyrgðarkennd og árvekni gagnvart áhættu og metur traust og öryggi mikils. Kjarnaótti þinn er að vera án stuðnings eða leiðsagnar í hættulegum heimi. Þú ert áreiðanlegur liðsmaður sem býr sig undir vandamál sem aðrir sjá ekki. Ráð: taktu eftir því þegar kvíði fær þig til að ofskipuleggja eða efast um alla, líka þig. Æfðu þig í að framkvæma eftir eigin dómgreind í litlum skrefum. Þroski kemur þegar þú uppgötvar það innra öryggi sem þú hefur leitað að utan við þig."
     },
     "type7": {
-      "name": "Gerð 7 – Ævintýramanneskjan",
+      "name": "Gerð 7: Ævintýramanneskjan",
       "short": "Kjarnahvöt: frelsi og skemmtun. Kjarnaótti: að festast í sársauka eða skorti.",
       "low": "Mynstur ævintýramanneskjunnar skiptir þig litlu máli. Þú leitar ekki stöðugt eftir nýjum upplifunum og getur haldið þig við eitt, jafnvel þegar það er ekki spennandi. Það veitir þér einbeitingu og dýpt. Ráð: leyfðu þér smá sjálfsprottni öðru hverju, eins og stutta ferð eða nýtt áhugamál. Smá leikgleði getur endurnýjað orkuna og samböndin.",
       "mid": "Þú kannast við sum einkenni ævintýramanneskjunnar. Þú nýtur skemmtunar, fjölbreytni og nýrra áforma, en getur líka skuldbundið þig og verið með erfiðum tilfinningum. Þú vegur bjartsýni á móti raunsæi og getur notið bæði ævintýra og kyrrðar. Ráð: taktu eftir því þegar þú grípur til truflunar til að forðast eitthvað óþægilegt. Að klára eitt verkefni áður en þú byrjar á því næsta lætur eldmóðinn borga sig og veitir þér dýpri ánægju af því að ljúka verki.",
       "high": "Mynstur ævintýramanneskjunnar er sterkt í þér. Þú býrð yfir bjartsýni, ævintýraþrá og ótal hugmyndum og elskar að halda möguleikunum opnum. Kjarnaótti þinn er að festast í sársauka, leiðindum eða takmörkunum, svo þú ferð oft hratt yfir í næsta spennandi hlut. Þú færir orku og gleði hvert sem þú ferð. Ráð: æfðu þig í að vera með erfiðum tilfinningum í stað þess að flýja þær. Veldu nokkrar skuldbindingar og fylgdu þeim til enda. Þroski kemur þegar þú finnur ánægju í dýpt, ekki bara í fjölbreytni."
     },
     "type8": {
-      "name": "Gerð 8 – Áskorandinn",
+      "name": "Gerð 8: Áskorandinn",
       "short": "Kjarnahvöt: styrkur og stjórn. Kjarnaótti: að lúta stjórn annarra eða vera berskjölduð manneskja.",
       "low": "Mynstur áskorandans skiptir þig litlu máli. Þú þarft ekki að taka stjórnina eða sanna styrk þinn og leitar sjaldan í átök. Það gerir auðvelt að vinna með þér. Ráð: við aðstæður þar sem komið er fram við þig eða aðra af ósanngirni skaltu æfa þig í að tala ákveðið. Að standa með sér er ekki árásargirni; það er að vernda það sem skiptir máli. Byrjaðu á litlum aðstæðum, eins og að segja skýrt hvað þú vilt á fundi.",
       "mid": "Þú kannast við sum einkenni áskorandans. Þú getur sýnt beinskeytni og verndað aðra og tekur stjórnina þegar þess þarf, en þú þarft ekki að drottna. Þú sýnir styrk án þess að missa næmnina. Ráð: taktu eftir því þegar þú ýtir fast á til að forðast að finna fyrir berskjöldun. Að leyfa fólki að sjá mýkri hliðina á þér getur dýpkað traust. Spurðu aðra hvernig beinskeytnin þín horfir við þeim; svör þeirra geta hjálpað þér að nota styrk þinn af meiri visku.",
       "high": "Mynstur áskorandans er sterkt í þér. Þú býrð yfir sjálfsöryggi, beinskeytni og verndareðli og tekur stjórnina af sjálfsdáðum. Kjarnaótti þinn er að vera stjórnað, særð eða berskjölduð manneskja, svo þú metur styrk og sjálfstæði. Þú stendur með þér og öðrum og óttast ekki átök. Ráð: ákafinn í þér getur yfirþyrmt fólk, svo lækkaðu róminn og hlustaðu til fulls áður en þú framkvæmir. Æfðu þig í að sýna berskjöldun gagnvart fólki sem þú treystir. Þroski kemur þegar þú sérð að opinskátt viðmót og mildi eru líka birtingarmyndir styrks."
     },
     "type9": {
-      "name": "Gerð 9 – Friðarsinninn",
+      "name": "Gerð 9: Friðarsinninn",
       "short": "Kjarnahvöt: innri og ytri friður. Kjarnaótti: átök og aðskilnaður.",
       "low": "Mynstur friðarsinnans skiptir þig litlu máli. Þú veigrar þér ekki við ágreiningi og stendur fúslega með eigin forgangsröðun. Það heldur þér á hreyfingu og með skýra sýn á hvað þú vilt. Ráð: þegar spenna eykst skaltu æfa þig í að hlusta á allar hliðar áður en þú þrýstir á þína skoðun. Rólegri taktur öðru hverju getur hjálpað þér að sjá heildarmyndina.",
       "mid": "Þú kannast við sum einkenni friðarsinnans. Þú metur samhljóm og getur séð ólík sjónarmið, en lætur líka í þér heyra þegar eitthvað skiptir þig máli. Þú vegur ró á móti þátttöku. Ráð: taktu eftir því þegar þú fylgir öðrum til að forðast núning. Að segja hvað þú vilt, jafnvel í smáum málum, heldur samböndum heiðarlegum og kemur í veg fyrir að þögul gremja hlaðist upp. Sjónarmið þitt bætir við einhverju sem aðrir geta ekki lagt fram.",

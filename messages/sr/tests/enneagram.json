@@ -2,7 +2,7 @@
   "name": "Eneagram test",
   "tagline": "Otkrijte osnovnu motivaciju iza načina na koji razmišljate i delujete.",
   "intro": "Eneagram opisuje devet tipova ličnosti, od kojih svaki pokreće drugačija osnovna motivacija i osnovni strah. Ovaj test meri koliko se snažno prepoznajete u svakom od devet obrazaca i ističe onaj koji vam najviše odgovara. Ocenite 100 kratkih tvrdnji; test traje oko pet minuta.",
-  "seoTitle": "Eneagram test – besplatan test 9 tipova ličnosti",
+  "seoTitle": "Eneagram test: besplatan test 9 tipova ličnosti",
   "seoDescription": "Koji ste od devet tipova eneagrama? Uradite besplatan test od 5 minuta, pogledajte rezultate za svih devet tipova i dobijte savete za rast za svoj glavni tip.",
   "items": [
     "Imam snažan unutrašnji glas koji mi govori šta je ispravno.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Tip 1 – Perfekcionista",
+      "name": "Tip 1: Perfekcionista",
       "short": "Pokreće ga želja da bude dobar, ispravan i da poboljša svet; plaši se da pogreši ili bude manjkav.",
       "low": "Obrazac Perfekcioniste ima samo malu ulogu kod vas. Opušteni ste kada su u pitanju pravila i greške i ne osećate jakog unutrašnjeg kritičara koji vas tera da sve uradite savršeno. To vam omogućava da se prepustite toku stvari i lako opraštate. Savet: u oblastima u kojima je kvalitet zaista važan, poput zdravlja ili finansija, malo više strukture i pažnje prema detaljima moglo bi vam koristiti. Proverite da li opuštenost ponekad znači da puštate da važni standardi skliznu.",
       "mid": "Prepoznajete kod sebe neke osobine Perfekcioniste. Stalo vam je da stvari uradite kako treba i umete da budete samokritični, ali znate i kada je dovoljno dobro sasvim u redu. Vaš osećaj za ispravno i pogrešno vas vodi, a da vama ne upravlja. Savet: primetite kada vaš unutrašnji kritičar postaje glasniji, često pod stresom, i odgovorite mu blago. Svesno birajte gde visoki standardi donose vrednost, a gde fleksibilnost olakšava život.",
       "high": "Obrazac Perfekcioniste je kod vas snažan. Principijelni ste, savesni i imate potrebu da poboljšate sebe i svet. Vaš osnovni strah je da budete u zabludi, loši ili manjkavi, pa vas strog unutrašnji kritičar često drži u stroju. U sve što radite unosite integritet i kvalitet. Savet: vežbajte prihvatanje nesavršenosti, i kod sebe i kod drugih; greške su deo učenja. Dozvolite sebi zadovoljstvo i igru, a da ih prethodno ne morate zaslužiti. Rast dolazi kada poverujete da ste već dovoljno dobri."
     },
     "type2": {
-      "name": "Tip 2 – Pomagač",
+      "name": "Tip 2: Pomagač",
       "short": "Pokreće ga želja da bude voljen i potreban; plaši se da bude neželjen ili nedostojan ljubavi.",
       "low": "Obrazac Pomagača ima manju ulogu kod vas. Svoj identitet ne gradite oko toga da ste nekome potrebni i prija vam da se usredsredite na sopstveni život. To vas štiti od preteranog davanja. Savet: pobrinite se da bliski ljudi i dalje osećaju vašu brigu; mali gestovi, poput pitanja kako su ili pomoći koju ponudite nepitani, održavaju toplinu u odnosima. Primetite kada se nezavisnost pretvara u udaljenost.",
       "mid": "Prepoznajete kod sebe neke osobine Pomagača. Uživate da podržavate druge i volite kada vas cene, ali umete i da sebe stavite na prvo mesto kada je potrebno. Vaša toplina je uravnotežena samopoštovanjem. Savet: primetite da li ponekad pomažete da biste se dopali, a ne zato što to želite. Vežbajte da direktno tražite ono što vam je potrebno umesto da se nadate da će drugi primetiti. Ljudi kojima je stalo do vas obično rado prihvataju priliku da vam nešto uzvrate.",
       "high": "Obrazac Pomagača je kod vas snažan. Topli ste, velikodušni i pažljivi prema tuđim potrebama i osećate se najvrednije kada pomažete. Vaš osnovni strah je da budete nevoljeni ili neželjeni. Ljudi vas doživljavaju kao brižnu osobu koja pruža podršku. Savet: vaše potrebe su jednako opravdane kao i tuđe, zato ih otvoreno imenujte. Pomažite zato što to birate, a ne da biste obezbedili ljubav. Rast dolazi kada dozvolite i drugima da brinu o vama i kada poverujete da ste vredni ljubavi i bez davanja."
     },
     "type3": {
-      "name": "Tip 3 – Postizač",
+      "name": "Tip 3: Postizač",
       "short": "Pokreće ga želja da uspe i da mu se dive; plaši se da bude bezvredan ili da doživi neuspeh.",
       "low": "Obrazac Postizača ima samo malu ulogu kod vas. Status, imidž i spoljašnji uspeh nisu vaši glavni pokretači i svoju vrednost ne merite onim što postignete. To vam daje slobodu od poređenja. Savet: ako imate ciljeve do kojih vam je stalo, malo ambicije i vidljiv napredak mogu vam pomoći da ih ostvarite. Dozvolite drugima da vide vaša postignuća; skromnost ne treba da sakrije vaše snage.",
       "mid": "Prepoznajete kod sebe neke osobine Postizača. Volite da budete uspešni i uživate u priznanju, ali vaš osećaj vrednosti ne zavisi u potpunosti od uspeha. Možete naporno da radite na ciljevima, a i dalje uživate u slobodnom vremenu. Savet: proverite da li su ciljevi kojima težite zaista vaši ili su to očekivanja drugih. Proslavite postignuća, a zatim odvojite vreme i da uživate u životu van učinka, sa ljudima kojima se dopadate bez obzira na vaše rezultate.",
       "high": "Obrazac Postizača je kod vas snažan. Ambiciozni ste, efikasni i usmereni na uspeh i znate kako da se dobro predstavite. Vaš osnovni strah je da bez svojih postignuća ne vredite. Motivišete druge i obavljate posao. Savet: primetite kada prilagođavate svoj imidž da biste ugodili drugima ili radite da ne biste osetili prazninu. Provodite vreme u aktivnostima koje nemaju nikakav cilj. Rast dolazi kada sebe počnete da cenite zbog onoga što jeste, a ne zbog onoga što postižete."
     },
     "type4": {
-      "name": "Tip 4 – Individualista",
+      "name": "Tip 4: Individualista",
       "short": "Pokreće ga želja da bude jedinstven i autentičan; plaši se da nema identitet ili značaj.",
       "low": "Obrazac Individualiste ima manju ulogu kod vas. Ne osećate snažnu potrebu da budete drugačiji ili da do dubine istražite svaku emociju i prija vam da se uklopite. To vas drži prizemljenim i praktičnim. Savet: napravite malo prostora za samoizražavanje, kao što je kreativni hobi ili iskreni razgovori o osećanjima. Istraživanje onoga što vas čini jedinstvenim može obogatiti vaš život.",
       "mid": "Prepoznajete kod sebe neke osobine Individualiste. Cenite autentičnost i imate bogat unutrašnji život, ali se ne osećate suštinski drugačijim od drugih. Možete da izrazite emocije, a da zadržite perspektivu. Savet: koristite svoju osetljivost kreativno, na primer kroz pisanje ili umetnost. Kada se osećate neshvaćeno, proverite da li ste zaista podelili ono što osećate. Drugima je često stalo više nego što očekujete kada razumeju vaš unutrašnji svet.",
       "high": "Obrazac Individualiste je kod vas snažan. Osetljivi ste, izražajni i duboko povezani sa svojim emocijama i čeznete da budete autentični i shvaćeni. Vaš osnovni strah je da nemate pravi identitet ili značaj. Unosite dubinu, kreativnost i iskrenost u pogledu osećanja. Savet: primetite kada se usredsređujete na ono što nedostaje umesto na ono što imate. Vežbe zahvalnosti i praktične rutine mogu da stabilizuju vaša raspoloženja. Rast dolazi kada shvatite da i obični trenuci i veze mogu biti puni smisla."
     },
     "type5": {
-      "name": "Tip 5 – Istraživač",
+      "name": "Tip 5: Istraživač",
       "short": "Pokreće ga želja da razume i bude kompetentan; plaši se bespomoćnosti ili preopterećenja.",
       "low": "Obrazac Istraživača ima samo malu ulogu kod vas. Ne osećate snažnu potrebu da se povučete i analizirate pre nego što delujete i lako delite svoje vreme i energiju. To vas čini pristupačnim i angažovanim. Savet: kada se suočite sa složenim odlukama, dajte sebi malo mirnog vremena za istraživanje pre nego što uskočite. Produbljivanje znanja u jednoj oblasti do koje vam je stalo može izgraditi samopouzdanje i stručnost.",
       "mid": "Prepoznajete kod sebe neke osobine Istraživača. Uživate u učenju i potrebno vam je nešto privatnog vremena, ali možete i aktivno da se uključite u odnose sa ljudima i u svet. Cenite znanje, a da se ne skrivate iza njega. Savet: primetite kada se povlačite da posmatrate umesto da učestvujete, naročito u odnosima. Deljenje onoga što znate, čak i pre nego što se osećate potpuno spremno, može biti ispunjavajuće i često donosi korisnu povratnu informaciju i povezanost.",
       "high": "Obrazac Istraživača je kod vas snažan. Radoznali ste, pronicljivi i nezavisni i želite duboko da razumete svet. Vaš osnovni strah je da budete bespomoćni, nesposobni ili iscrpljeni tuđim zahtevima, pa pažljivo čuvate svoje vreme i energiju. Donosite uvid i stručnost. Savet: primetite kada prikupljanje znanja postaje način da izbegnete akciju ili osećanja. Pravite male korake pre nego što se osećate potpuno spremno. Rast dolazi kada poverujete da imate dovoljno da se u potpunosti uključite u život i odnose sa ljudima."
     },
     "type6": {
-      "name": "Tip 6 – Lojalista",
+      "name": "Tip 6: Lojalista",
       "short": "Pokreće ga želja za sigurnošću i podrškom; plaši se da ostane bez smernica i bezbednosti.",
       "low": "Obrazac Lojaliste ima manju ulogu kod vas. Ne brinete mnogo o tome šta bi moglo da pođe naopako i osećate se sigurno bez potrebe za snažnim smernicama ili uveravanjem. To vam omogućava da delujete smelo. Savet: pre velikih odluka svesno razmotrite moguće rizike ili pitajte nekoga opreznijeg za mišljenje. Odanost i pripremljenost takođe mogu biti snage koje vredi razvijati, naročito u timovima koji računaju na vas da razmišljate unapred.",
       "mid": "Prepoznajete kod sebe neke osobine Lojaliste. Cenite sigurnost i odnose zasnovane na poverenju i umete da uočite rizike, ali vas sumnje obično ne sputavaju. Uravnotežujete opreznost i samopouzdanje. Savet: kada briga počne da raste, odvojite realne rizike od scenarija „šta ako”. Češće verujte sopstvenom sudu umesto da tražite potvrdu. Svaki put kada postupite po njemu, raste vaše poverenje u sopstveni unutrašnji kompas.",
       "high": "Obrazac Lojaliste je kod vas snažan. Odani ste, odgovorni i budni za rizike i visoko cenite poverenje i sigurnost. Vaš osnovni strah je da ostanete bez podrške ili smernica u opasnom svetu. Pouzdan ste član tima koji se priprema za probleme koje drugi previde. Savet: primetite kada vas strepnja navodi da preterano planirate ili sumnjate u sve, uključujući i sebe. Vežbajte da u malim koracima postupate po sopstvenom sudu. Rast dolazi kada otkrijete unutrašnju sigurnost koju ste tražili izvan sebe."
     },
     "type7": {
-      "name": "Tip 7 – Entuzijasta",
+      "name": "Tip 7: Entuzijasta",
       "short": "Pokreće ga želja za slobodom i zabavom; plaši se da ostane zarobljen u bolu ili uskraćenosti.",
       "low": "Obrazac Entuzijaste ima samo malu ulogu kod vas. Ne tražite stalno nova iskustva i možete da ostanete posvećeni jednoj stvari, čak i kada nije uzbudljiva. To vam daje fokus i dubinu. Savet: s vremena na vreme dozvolite sebi malo spontanosti, kao što je kratko putovanje ili novi hobi. Malo razigranosti može osvežiti vašu energiju i odnose.",
       "mid": "Prepoznajete kod sebe neke osobine Entuzijaste. Uživate u zabavi, raznovrsnosti i novim planovima, ali umete i da se posvetite i ostanete u teškim osećanjima. Uravnotežujete optimizam i realizam i možete da uživate i u avanturi i u miru. Savet: primetite kada posežete za razonodom da biste izbegli nešto neprijatno. Završavanje jednog projekta pre započinjanja sledećeg učiniće da se vaš entuzijazam isplati i doneće vam dublje zadovoljstvo dovršenog posla.",
       "high": "Obrazac Entuzijaste je kod vas snažan. Optimistični ste, avanturistički nastrojeni i puni ideja i volite da ostavite otvorene mogućnosti. Vaš osnovni strah je da ostanete zarobljeni u bolu, dosadi ili ograničenjima, pa često brzo prelazite na sledeću uzbudljivu stvar. Gde god da odete, donosite energiju i radost. Savet: vežbajte da ostanete u teškim emocijama umesto da bežite od njih. Izaberite nekoliko obaveza i ispunite ih do kraja. Rast dolazi kada pronađete zadovoljstvo u dubini, a ne samo u raznovrsnosti."
     },
     "type8": {
-      "name": "Tip 8 – Izazivač",
+      "name": "Tip 8: Izazivač",
       "short": "Pokreće ga želja da bude snažan i ima kontrolu; plaši se da bude kontrolisan ili ranjiv.",
       "low": "Obrazac Izazivača ima manju ulogu kod vas. Nije vam potrebno da preuzmete kontrolu ili dokazujete svoju snagu i retko tražite konfrontaciju. Zbog toga se sa vama lako sarađuje. Savet: u situacijama kada se prema vama ili drugima postupa nepravedno, vežbajte da odlučno progovorite. Zauzimanje za sebe nije agresija; to je zaštita onoga što je važno. Počnite od malih situacija, na primer jasnim iznošenjem svoje želje na sastanku.",
       "mid": "Prepoznajete kod sebe neke osobine Izazivača. Umete da budete direktni i zaštitnički nastrojeni i preuzećete kontrolu kada je potrebno, ali ne morate da dominirate. Pokazujete snagu, a da ne gubite osetljivost. Savet: primetite kada snažno gurate da ne biste osetili ranjivost. Kada dozvolite ljudima da vide vašu nežniju stranu, poverenje može da se produbi. Pitajte druge kako doživljavaju vašu direktnost; njihovi odgovori mogu vam pomoći da svoju snagu koristite mudrije.",
       "high": "Obrazac Izazivača je kod vas snažan. Samouvereni ste, direktni i zaštitnički nastrojeni i prirodno preuzimate kontrolu. Vaš osnovni strah je da budete kontrolisani, povređeni ili ranjivi, pa cenite snagu i nezavisnost. Zauzimate se za sebe i druge i ne plašite se sukoba. Savet: vaš intenzitet može da preplavi ljude, zato utišajte ton i saslušajte do kraja pre nego što delujete. Vežbajte pokazivanje ranjivosti pred ljudima kojima verujete. Rast dolazi kada uvidite da su otvorenost i blagost takođe oblici snage."
     },
     "type9": {
-      "name": "Tip 9 – Mirotvorac",
+      "name": "Tip 9: Mirotvorac",
       "short": "Pokreće ga želja za unutrašnjim i spoljašnjim mirom; plaši se sukoba i nepovezanosti.",
       "low": "Obrazac Mirotvorca ima samo malu ulogu kod vas. Ne bežite od sukoba i spremno se zalažete za sopstvene prioritete. To vas drži aktivnim i jasnim u pogledu onoga što želite. Savet: kada napetost raste, vežbajte da saslušate sve strane pre nego što progurate svoje gledište. Povremeno mirniji tempo može vam pomoći da sagledate širu sliku.",
       "mid": "Prepoznajete kod sebe neke osobine Mirotvorca. Cenite sklad i umete da sagledate različite perspektive, ali se i oglasite kada vam je nešto važno. Uravnotežujete smirenost i angažovanost. Savet: primetite kada se povinujete drugima da biste izbegli trvenja. Kada kažete šta želite, čak i u sitnicama, vaši odnosi ostaju iskreni i sprečavate da se nagomila tiha ogorčenost. Vaš pogled donosi nešto što drugi ne mogu.",

@@ -2,7 +2,7 @@
   "name": "Narcisisma tests",
   "tagline": "Uzzini, kur tu atrodies narcistisko iezīmju spektrā.",
   "intro": "Ikvienam piemīt zināmas narcistiskas iezīmes, un veselīga pašpārliecības deva ir noderīga. Šis skrīninga tests aplūko piecas jomas: grandiozitāti, pretenziju uz īpašām tiesībām, vajadzību pēc apbrīnas, empātiju un trauslu pašvērtējumu. Atbildi godīgi, balstoties uz to, kā tu parasti domā un jūti. Tas aizņem apmēram piecas minūtes un nav diagnoze, taču parāda, kur tu atrodies spektrā.",
-  "seoTitle": "Narcisisma tests – bezmaksas narcistisko iezīmju skrīnings",
+  "seoTitle": "Narcisisma tests: bezmaksas narcistisko iezīmju skrīnings",
   "seoDescription": "Cik narcistisks tu patiesībā esi? Izpildi 5 minūšu testu par grandiozitāti, pretenzijām, apbrīnu, empātiju un pašvērtējumu un saņem personīgu pārskatu.",
   "items": [
     "Citu cilvēku problēmas mani īsti neinteresē.",
@@ -111,7 +111,7 @@
       "name": "Grandiozitāte",
       "short": "Cik spēcīgi tu sevi uztver kā īpašu, pārāku vai lielām lietām lemtu.",
       "low": "Tavas atbildes liecina, ka tev ir pieticīgs, reālistisks skatījums uz sevi. Šķiet, ka tu neuzskati sevi par pārāku par citiem vai lemtu īpašam diženumam. Tas padara tevi pieejamu un ar tevi ir viegli strādāt. Tikai parūpējies, lai pieticība nepārvēršas sevis nenovērtēšanā: savu patieso stipro pušu atzīšana palīdz tev ar pārliecību uzņemties izaicinājumus un izmantot iespējas.",
-      "mid": "Tavas atbildes liecina par veselīgu pašpārliecību ar zināmu ticību savām īpašajām spējām. Visticamāk, tu uzticies saviem talantiem un tev ir ambīcijas, kas var virzīt uz panākumiem. Reizēm tu vari sevi nedaudz pārvērtēt, kā to dara lielākā daļa cilvēku. Lūdzot godīgu atgriezenisko saiti un saglabājot ziņkāri par to, kas citiem padodas labi, tava pārliecība paliek piezemēta, attiecības – līdzsvarotas, un tu turpini augt.",
+      "mid": "Tavas atbildes liecina par veselīgu pašpārliecību ar zināmu ticību savām īpašajām spējām. Visticamāk, tu uzticies saviem talantiem un tev ir ambīcijas, kas var virzīt uz panākumiem. Reizēm tu vari sevi nedaudz pārvērtēt, kā to dara lielākā daļa cilvēku. Lūdzot godīgu atgriezenisko saiti un saglabājot ziņkāri par to, kas citiem padodas labi, tava pārliecība paliek piezemēta, attiecības līdzsvarotas, un tu turpini augt.",
       "high": "Tavas atbildes liecina, ka tu sevi izteikti uztver kā izcilu, pārāku vai lielām lietām lemtu. Šāda pārliecība var barot ambīcijas, taču tā var novest arī pie vilšanās, konfliktiem vai aklajām zonām, kad realitāte neatbilst priekšstatam. Mēģini pārbaudīt savu priekšstatu par sevi ar konkrētu atgriezenisko saiti. Ja šie uzskati rada problēmas tavās attiecībās vai darbā, apsver iespēju aprunāties ar kvalificētu speciālistu, kurš var palīdzēt tos izpētīt bez nosodījuma."
     },
     "entitlement": {
@@ -143,5 +143,5 @@
       "high": "Tavas atbildes liecina, ka zem virsmas tavs pašvērtējums var būt diezgan trausls: kritika, atraidījums vai citu panākumi var smagi ievainot un izraisīt kaunu, skaudību vai dusmas. Šī narcistisko iezīmju ievainojamā puse bieži ir sāpīga un no citiem apslēpta. Lūdzu, esi pret sevi laipns, jo šim jutīgumam parasti ir saprotamas saknes. Apsver iespēju aprunāties ar kvalificētu speciālistu, kurš var palīdzēt veidot stabilāku, drošāku pašvērtības izjūtu."
     }
   },
-  "summary": "Narcistiskas iezīmes pastāv spektrā, un ikvienam piemīt dažas no tām. Šis pārskats parāda, kur tu atrodies piecās jomās – no pārliecinātas grandiozitātes līdz trauslam pašvērtējumam. Augstāks rezultāts nozīmē izteiktākas iezīmes. Rezultāti nav narcistiskas personības traucējuma diagnoze; to var izvērtēt tikai kvalificēts speciālists."
+  "summary": "Narcistiskas iezīmes pastāv spektrā, un ikvienam piemīt dažas no tām. Šis pārskats parāda, kur tu atrodies piecās jomās, no pārliecinātas grandiozitātes līdz trauslam pašvērtējumam. Augstāks rezultāts nozīmē izteiktākas iezīmes. Rezultāti nav narcistiskas personības traucējuma diagnoze; to var izvērtēt tikai kvalificēts speciālists."
 }

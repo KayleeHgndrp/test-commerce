@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "{site} – Bezmaksas psiholoģiskie testi tiešsaistē",
-    "description": "Padziļināti testi par personību, attiecībām, darbu un labsajūtu — balstīti psiholoģijas pētījumos un skaidri izskaidroti."
+    "title": "{site}: Bezmaksas psiholoģiskie testi tiešsaistē",
+    "description": "Padziļināti testi par personību, attiecībām, darbu un labsajūtu, balstīti psiholoģijas pētījumos un skaidri izskaidroti."
   },
   "nav": {
     "tests": "Testi",
@@ -14,14 +14,14 @@
     "badge": "Testi: {count} · Valodas: {languages}",
     "heroTitle": "Testi, kas atklāj tavu",
     "heroHighlight": "personību",
-    "heroSubtitle": "Padziļināti testi par personību, attiecībām un labsajūtu — katrs balstīts atzītos psiholoģijas pētījumos un izskaidrots skaidrā valodā, ko tu tiešām izlasīsi līdz galam.",
+    "heroSubtitle": "Padziļināti testi par personību, attiecībām un labsajūtu, katrs balstīts atzītos psiholoģijas pētījumos un izskaidrots skaidrā valodā, ko tu tiešām izlasīsi līdz galam.",
     "heroCta": "Apskatīt mūsu testus",
     "heroSecondary": "Kā tas darbojas",
     "trust1": "Konts nav vajadzīgs",
     "trust2": "Vienreizējs maksājums, bez abonementa",
     "trust3": "Pārskats tieši tavā e-pastā",
-    "dimensionsTitle": "Tu esi vairāk nekā viens rezultāts – iepazīsti visas savas puses.",
-    "dimensionsSubtitle": "Jomas, ko mūsu testi mēra visbiežāk, – no personības līdz attiecībām un labsajūtai.",
+    "dimensionsTitle": "Tu esi vairāk nekā viens rezultāts. Iepazīsti visas savas puses.",
+    "dimensionsSubtitle": "Jomas, ko mūsu testi mēra visbiežāk: no personības līdz attiecībām un labsajūtai.",
     "dimensions": [
       "🎯 Koncentrēšanās",
       "🔋 Sociālā enerģija",
@@ -39,7 +39,7 @@
     "steps": [
       {
         "title": "Izvēlies testu",
-        "text": "Izvēlies no mūsu personības, attiecību un skrīninga testiem – visi balstīti atzītos psiholoģiskos modeļos."
+        "text": "Izvēlies no mūsu personības, attiecību un skrīninga testiem, visi balstīti atzītos psiholoģiskos modeļos."
       },
       {
         "title": "Izpildi testu",
@@ -47,7 +47,7 @@
       },
       {
         "title": "Izlasi savu pārskatu",
-        "text": "Saņem personīgu pārskatu ar saviem rezultātiem, to nozīmi un praktiskiem padomiem – tieši savā e-pastā."
+        "text": "Saņem personīgu pārskatu ar saviem rezultātiem, to nozīmi un praktiskiem padomiem, tieši savā e-pastā."
       }
     ],
     "pricingTitle": "Vienkāršas cenas",
@@ -163,7 +163,7 @@
       },
       {
         "q": "Vai tests “{test}” ir bez maksas?",
-        "a": "Jā, testa izpilde ir bez maksas. Ja vēlies pilnu personīgo pārskatu ar visiem rezultātiem un skaidrojumiem, vari to pasūtīt par {price} – vienreizējs maksājums, bez abonementa."
+        "a": "Jā, testa izpilde ir bez maksas. Ja vēlies pilnu personīgo pārskatu ar visiem rezultātiem un skaidrojumiem, vari to pasūtīt par {price}, vienreizējs maksājums, bez abonementa."
       },
       {
         "q": "Cik uzticams ir tests “{test}”?",
@@ -347,7 +347,7 @@
   },
   "about": {
     "title": "Par {site}",
-    "intro": "Mēs uzskatām, ka ikviens ir pelnījis skaidru un godīgu skatījumu uz sevi – bez žargona, bez abonementiem un bez četru burtu etiķetes, kas neko nepaskaidro.",
+    "intro": "Mēs uzskatām, ka ikviens ir pelnījis skaidru un godīgu skatījumu uz sevi, bez žargona, bez abonementiem un bez četru burtu etiķetes, kas neko nepaskaidro.",
     "missionTitle": "Mūsu misija",
     "mission": "Psiholoģija ir izstrādājusi spēcīgus veidus, kā aprakstīt personību, attiecības un labsajūtu, taču lielākā daļa šo zināšanu ir ieslēgta mācību grāmatās vai dārgos novērtējumos. {site} padara tās pieejamas: padziļināti testi, ko ikviens var izpildīt bez maksas savā valodā, ar personīgu pārskatu, kas vienkāršiem vārdiem izskaidro tavus rezultātus un piedāvā praktiskus nākamos soļus.",
     "howTitle": "Kā mēs veidojam savus testus",
@@ -362,7 +362,7 @@
       },
       {
         "title": "Rakstīti, lai tos lasītu",
-        "text": "Mūsu pārskati izskaidro, ko nozīmē katrs rezultāts, no kurienes tas rodas un ko tu ar to vari darīt. Nekāda žargona un miglainu horoskopa frāžu – tikai skaidras, praktiskas atziņas."
+        "text": "Mūsu pārskati izskaidro, ko nozīmē katrs rezultāts, no kurienes tas rodas un ko tu ar to vari darīt. Nekāda žargona un miglainu horoskopa frāžu. Tikai skaidras, praktiskas atziņas."
       }
     ],
     "valuesTitle": "Uz ko vari paļauties",

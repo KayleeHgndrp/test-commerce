@@ -2,7 +2,7 @@
   "name": "Túlgondolás teszt",
   "tagline": "Fedezd fel, hol akadnak el a gondolataid, és hogyan oldhatod fel őket.",
   "intro": "Ez a teszt a túlgondolás négy gyakori mintázatát vizsgálja: a múlton való rágódást, a jövő miatti aggódást, a döntésképtelenséget és a társas helyzetek újrajátszását. Az alapján válaszolj, milyen gyakran illik rád az adott állítás a mindennapokban. Körülbelül öt percet vesz igénybe, és megmutatja, mely gondolati körök emésztik fel a legtöbb mentális energiádat.",
-  "seoTitle": "Túlgondolás teszt – Ingyenes online önellenőrzés",
+  "seoTitle": "Túlgondolás teszt: Ingyenes online önellenőrzés",
   "seoDescription": "Mindent túlgondolsz? Töltsd ki az 5 perces tesztet a rágódásról, az aggódásról és a döntésképtelenségről, és kapj tippeket a nyugodtabb elméért.",
   "items": [
     "A hibáimat még jóval utánuk is újrajátszom a fejemben.",
@@ -117,7 +117,7 @@
     "future_worry": {
       "name": "Jövő miatti aggódás",
       "short": "Mennyire aggódsz amiatt, mi történhet a jövőben.",
-      "low": "A válaszaid alapján elég nyugodtan tekintesz a jövő elé. Úgy tűnik, bízol benne, hogy menet közben kezelni tudod a problémákat, anélkül, hogy minden lehetséges kimenetelt előre végigjátszanál. Ettől könnyebben élvezed a jelent. Egyensúlyozd ki továbbra is ezt a könnyedséget a fontos dolgok – például a pénz vagy az egészség – ésszerű tervezésével, hogy a laza hozzáállásod jól megalapozott maradjon.",
+      "low": "A válaszaid alapján elég nyugodtan tekintesz a jövő elé. Úgy tűnik, bízol benne, hogy menet közben kezelni tudod a problémákat, anélkül, hogy minden lehetséges kimenetelt előre végigjátszanál. Ettől könnyebben élvezed a jelent. Egyensúlyozd ki továbbra is ezt a könnyedséget a fontos dolgok, például a pénz vagy az egészség, ésszerű tervezésével, hogy a laza hozzáállásod jól megalapozott maradjon.",
       "mid": "A válaszaid alapján néha aggódsz a jövő miatt, különösen, ha sok a bizonytalanság. Ennek az aggodalomnak egy része segíthet a felkészülésben, de egy része valószínűleg több energiába kerül, mint amennyit visszaad. Próbáld meg minden aggodalmadat két csoportba sorolni: azokra, amelyekkel kapcsolatban tehetsz valamit, és azokra, amelyekkel nem. Az első csoportban tégy egy apró lépést. A másodiknál gyakorold, hogy észreveszed az aggodalmat, és gyengéden visszaviszed a figyelmedet arra, amit éppen csinálsz.",
       "high": "A válaszaid alapján a jövő miatti aggodalmak sok figyelmedet lekötik. Gyakran elképzelheted a legrosszabb forgatókönyveket, feszült lehetsz a bizonytalanság miatt, vagy nehezen tudsz ellazulni. Az ilyen aggódás kimerítő, még akkor is, ha semmi rossz nem történik. Próbálj meg leírni egy aggodalmat, majd megkérdezni magadtól, mennyire valószínű valójában, és hogyan birkóznál meg vele. A légzőgyakorlatok és a rendszeres mozgás megnyugtathatják a testet. Ha az aggódás hatással van az alvásodra, az egészségedre vagy a mindennapi működésedre, fontold meg, hogy képzett szakemberhez fordulsz, aki segíthet."
     },

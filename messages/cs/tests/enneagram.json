@@ -2,7 +2,7 @@
   "name": "Test enneagramu",
   "tagline": "Objevte hlavní motivaci, která stojí za tím, jak myslíte a jednáte.",
   "intro": "Enneagram popisuje devět typů osobnosti, z nichž každý je poháněn jinou základní motivací a jiným základním strachem. Tento test měří, nakolik se ztotožňujete s každým z devíti vzorců, a zvýrazní ten, který vám odpovídá nejlépe. Ohodnoťte 100 krátkých tvrzení; zabere vám to asi pět minut.",
-  "seoTitle": "Test enneagramu – osobnostní test 9 typů zdarma",
+  "seoTitle": "Test enneagramu: osobnostní test 9 typů zdarma",
   "seoDescription": "Který z devíti typů enneagramu jste? Udělejte si pětiminutový test zdarma, podívejte se na skóre všech devíti typů a získejte tipy pro růst.",
   "items": [
     "Mám silný vnitřní hlas, který mi říká, co je správné.",
@@ -108,63 +108,63 @@
   ],
   "dimensions": {
     "type1": {
-      "name": "Typ 1 – Perfekcionista",
+      "name": "Typ 1: Perfekcionista",
       "short": "Touží být dobrý, správný a zlepšovat svět; bojí se, že bude špatný nebo vadný.",
       "low": "Vzorec Perfekcionisty pro vás hraje jen malou roli. K pravidlům a chybám přistupujete uvolněně a necítíte silného vnitřního kritika, který by vás nutil dělat všechno správně. Díky tomu se umíte nechat unášet proudem a snadno odpouštíte. Tip: v oblastech, kde na kvalitě opravdu záleží, například u zdraví nebo financí, vám může prospět trochu víc struktury a pozornosti k detailům. Ověřte si, zda vaše bezstarostnost někdy neznamená, že důležité standardy jdou stranou.",
       "mid": "Poznáváte se v některých rysech Perfekcionisty. Záleží vám na tom, aby věci byly udělané pořádně, a umíte být k sobě kritičtí, ale víte také, kdy stačí dostatečně dobré. Váš smysl pro dobro a zlo vás vede, aniž by vás ovládal. Tip: všímejte si, kdy váš vnitřní kritik zesiluje, často ve stresu, a odpovídejte mu laskavě. Vědomě volte, kde vysoké standardy přinášejí hodnotu a kde vám flexibilita usnadní život.",
       "high": "Vzorec Perfekcionisty je ve vás silný. Máte zásady, jste svědomití a toužíte zlepšovat sebe i svět. Vaším základním strachem je být špatní, zlí nebo chybní, a proto vás často drží v latích přísný vnitřní kritik. Do všeho, co děláte, vnášíte bezúhonnost a kvalitu. Tip: učte se přijímat nedokonalost u sebe i u druhých; chyby jsou součástí učení. Dovolte si potěšení a hru, aniž byste si je nejprve museli zasloužit. Růst přichází, když uvěříte, že už teď jste dost dobří."
     },
     "type2": {
-      "name": "Typ 2 – Pomocník",
+      "name": "Typ 2: Pomocník",
       "short": "Touží být milován a potřebný; bojí se, že bude nechtěný nebo lásky nehodný.",
       "low": "Vzorec Pomocníka pro vás hraje vedlejší roli. Nestavíte svou identitu na tom, že vás někdo potřebuje, a klidně se soustředíte na svůj vlastní život. To vás chrání před přílišným dáváním. Tip: dbejte na to, aby vaši blízcí stále cítili vaši péči; drobná gesta, například zeptat se, jak se mají, nebo nabídnout pomoc bez požádání, udržují vztahy vřelé. Všímejte si, kdy se nezávislost mění v odstup.",
       "mid": "Poznáváte se v některých rysech Pomocníka. Rádi druhé podporujete a těší vás, když jste oceňováni, ale v případě potřeby dokážete dát přednost i sobě. Vaše vřelost je vyvážená sebeúctou. Tip: všímejte si, zda někdy nepomáháte proto, abyste byli oblíbení, a ne proto, že chcete. Zkoušejte přímo říkat, co potřebujete, místo abyste doufali, že si toho druzí všimnou. Lidé, kterým na vás záleží, obvykle rádi využijí příležitost vám něco vrátit.",
       "high": "Vzorec Pomocníka je ve vás silný. Jste vřelí, štědří a vnímaví k tomu, co druzí potřebují, a nejvíc hodnotní se cítíte, když pomáháte. Vaším základním strachem je, že vás nikdo nebude milovat nebo chtít. Lidé vás vnímají jako starostlivé a podporující. Tip: vaše vlastní potřeby jsou stejně oprávněné jako potřeby kohokoli jiného, proto je otevřeně pojmenovávejte. Pomáhejte, protože se tak rozhodnete, ne abyste si zajistili lásku. Růst přichází, když dovolíte druhým, aby pečovali i o vás, a uvěříte, že jste hodni lásky, i když nedáváte."
     },
     "type3": {
-      "name": "Typ 3 – Úspěšný",
+      "name": "Typ 3: Úspěšný",
       "short": "Touží uspět a být obdivován; bojí se, že bude bezcenný nebo neúspěšný.",
       "low": "Vzorec Úspěšného pro vás hraje jen malou roli. Postavení, image a vnější úspěch nejsou vašimi hlavními hnacími silami a svou hodnotu neměříte tím, čeho dosáhnete. To vám dává svobodu od srovnávání. Tip: pokud máte cíle, na kterých vám záleží, trocha ambicí a viditelného pokroku vám může pomoci jich dosáhnout. Nechte ostatní vidět své úspěchy; skromnost by neměla skrývat vaše silné stránky.",
       "mid": "Poznáváte se v některých rysech Úspěšného. Chcete, aby se vám dařilo, a těší vás uznání, ale váš pocit vlastní hodnoty nezávisí zcela na úspěchu. Dokážete tvrdě pracovat na cílech a přesto si užít volno. Tip: ověřte si, zda cíle, za kterými jdete, jsou opravdu vaše, nebo jde o očekávání druhých. Oslavujte úspěchy a pak si také najděte čas užívat si život mimo výkon, s lidmi, kteří vás mají rádi bez ohledu na vaše výsledky.",
       "high": "Vzorec Úspěšného je ve vás silný. Jste ambiciózní, výkonní a zaměření na úspěch a víte, jak se dobře prezentovat. Vaším základním strachem je, že bez svých úspěchů nemáte žádnou hodnotu. Motivujete druhé a dotahujete věci do konce. Tip: všímejte si, kdy přizpůsobujete svou image, abyste se zalíbili druhým, nebo pracujete, abyste necítili prázdnotu. Věnujte čas činnostem, které nemají vůbec žádný cíl. Růst přichází, když si začnete cenit sami sebe za to, kým jste, ne za to, čeho dosáhnete."
     },
     "type4": {
-      "name": "Typ 4 – Individualista",
+      "name": "Typ 4: Individualista",
       "short": "Touží být jedinečný a autentický; bojí se, že nebude mít žádnou identitu ani význam.",
       "low": "Vzorec Individualisty pro vás hraje vedlejší roli. Necítíte silnou potřebu být jiní nebo do hloubky zkoumat každou emoci a nevadí vám zapadnout. To vás drží nohama na zemi a prakticky založené. Tip: udělejte trochu místa pro sebevyjádření, například tvořivému koníčku nebo upřímným rozhovorům o pocitech. Zkoumat, co vás dělá jedinečnými, může váš život obohatit.",
       "mid": "Poznáváte se v některých rysech Individualisty. Ceníte si autenticity a máte bohatý vnitřní život, ale necítíte se od ostatních zásadně odlišní. Dokážete vyjadřovat emoce a přitom si zachovat nadhled. Tip: využijte svou citlivost tvořivě, například při psaní nebo v umění. Když se cítíte nepochopeni, ověřte si, zda jste své pocity skutečně sdíleli. Ostatním na vás často záleží víc, než čekáte, jakmile váš vnitřní svět pochopí.",
       "high": "Vzorec Individualisty je ve vás silný. Jste citliví, výrazní a v hlubokém kontaktu se svými emocemi a toužíte být autentičtí a pochopení. Vaším základním strachem je, že nemáte skutečnou identitu ani význam. Přinášíte hloubku, kreativitu a upřímnost ohledně pocitů. Tip: všímejte si, kdy se soustředíte na to, co chybí, místo na to, co máte. Praxe vděčnosti a praktické rutiny mohou vaše nálady stabilizovat. Růst přichází, když si uvědomíte, že i obyčejné chvíle a vztahy mohou být smysluplné."
     },
     "type5": {
-      "name": "Typ 5 – Badatel",
+      "name": "Typ 5: Badatel",
       "short": "Touží porozumět a být kompetentní; bojí se bezmoci nebo zahlcení.",
       "low": "Vzorec Badatele pro vás hraje jen malou roli. Necítíte silnou potřebu stáhnout se a vše analyzovat, než začnete jednat, a svůj čas i energii snadno sdílíte. Díky tomu jste přístupní a zapojení. Tip: když stojíte před složitým rozhodnutím, dopřejte si chvíli klidného zkoumání, než se do toho vrhnete. Prohloubení znalostí v jedné oblasti, která vás zajímá, vám může dodat sebedůvěru a odbornost.",
       "mid": "Poznáváte se v některých rysech Badatele. Baví vás učit se a potřebujete trochu soukromí, ale dokážete se také aktivně zapojovat mezi lidi i do dění ve světě. Ceníte si znalostí, aniž byste se za ně schovávali. Tip: všímejte si, kdy se stahujete do role pozorovatele místo toho, abyste se zapojili, zvlášť ve vztazích. Sdílet, co víte, ještě než se cítíte úplně připraveni, může být obohacující a často přináší užitečnou zpětnou vazbu i blízkost.",
       "high": "Vzorec Badatele je ve vás silný. Jste zvídaví, bystří a nezávislí a chcete svět hluboce pochopit. Vaším základním strachem je bezmoc, neschopnost nebo vyčerpání nároky druhých, proto si pečlivě střežíte svůj čas a energii. Přinášíte vhled a odbornost. Tip: všímejte si, kdy se shromažďování znalostí stává způsobem, jak se vyhnout jednání nebo pocitům. Dělejte malé kroky dřív, než se budete cítit úplně připraveni. Růst přichází, když uvěříte, že máte dost na to, abyste se do života a vztahů zapojili naplno."
     },
     "type6": {
-      "name": "Typ 6 – Loajální",
+      "name": "Typ 6: Loajální",
       "short": "Touží po bezpečí a podpoře; bojí se, že zůstane bez vedení a ochrany.",
       "low": "Vzorec Loajálního pro vás hraje vedlejší roli. Příliš se netrápíte tím, co by se mohlo pokazit, a cítíte se jistě, aniž byste potřebovali silné vedení nebo ujišťování. Díky tomu můžete jednat odvážně. Tip: před velkými rozhodnutími vědomě zvažte možná rizika nebo se zeptejte někoho opatrnějšího na jeho názor. Loajalita a příprava mohou být také silnými stránkami, které stojí za to rozvíjet, zvlášť v týmech, které se na vás spoléhají, že budete myslet dopředu.",
       "mid": "Poznáváte se v některých rysech Loajálního. Ceníte si bezpečí a vztahů založených na důvěře a umíte rozpoznat rizika, ale vaše pochybnosti vás obvykle nebrzdí. Vyvažujete opatrnost sebedůvěrou. Tip: když se obavy začnou stupňovat, oddělte realistická rizika od scénářů typu „co kdyby“. Častěji důvěřujte svému vlastnímu úsudku, místo abyste hledali ujištění. Pokaždé, když podle něj jednáte, roste vaše důvěra ve vlastní vnitřní kompas.",
       "high": "Vzorec Loajálního je ve vás silný. Jste loajální, zodpovědní a ostražití vůči rizikům a velmi si ceníte důvěry a bezpečí. Vaším základním strachem je zůstat bez podpory a vedení v nebezpečném světě. Jste spolehlivým členem týmu, který se připravuje na problémy, jež ostatní přehlížejí. Tip: všímejte si, kdy vás úzkost vede k přehnanému plánování nebo k pochybnostem o všech, včetně sebe. Zkoušejte po malých krocích jednat podle vlastního úsudku. Růst přichází, když objevíte vnitřní jistotu, kterou jste dosud hledali mimo sebe."
     },
     "type7": {
-      "name": "Typ 7 – Nadšenec",
+      "name": "Typ 7: Nadšenec",
       "short": "Touží po svobodě a zábavě; bojí se, že uvízne v bolesti nebo strádání.",
       "low": "Vzorec Nadšence pro vás hraje jen malou roli. Nevyhledáváte neustále nové zážitky a dokážete zůstat u jedné věci, i když není vzrušující. To vám dává soustředění a hloubku. Tip: dopřejte si čas od času trochu spontánnosti, například krátký výlet nebo nový koníček. Trocha hravosti může osvěžit vaši energii i vztahy.",
       "mid": "Poznáváte se v některých rysech Nadšence. Baví vás zábava, rozmanitost a nové plány, ale dokážete se také zavázat a zůstat s těžkými pocity. Vyvažujete optimismus realismem a umíte si užít dobrodružství i klid. Tip: všímejte si, kdy saháte po rozptýlení, abyste se vyhnuli něčemu nepříjemnému. Dokončit jeden projekt, než začnete další, zúročí vaše nadšení a přinese vám hlubší uspokojení z dotažené práce.",
       "high": "Vzorec Nadšence je ve vás silný. Jste optimističtí, dobrodružní a plní nápadů a rádi si necháváte otevřené možnosti. Vaším základním strachem je uvíznout v bolesti, nudě nebo omezení, proto se často rychle přesouváte k další vzrušující věci. Kamkoli přijdete, přinášíte energii a radost. Tip: učte se zůstávat s těžkými emocemi, místo abyste před nimi utíkali. Vyberte si několik závazků a dotáhněte je. Růst přichází, když najdete uspokojení v hloubce, nejen v rozmanitosti."
     },
     "type8": {
-      "name": "Typ 8 – Vyzyvatel",
+      "name": "Typ 8: Vyzyvatel",
       "short": "Touží být silný a mít věci pod kontrolou; bojí se, že bude ovládán nebo zranitelný.",
       "low": "Vzorec Vyzyvatele pro vás hraje vedlejší roli. Nepotřebujete přebírat kontrolu ani dokazovat svou sílu a jen zřídka vyhledáváte konfrontaci. Díky tomu se s vámi snadno spolupracuje. Tip: v situacích, kdy se s vámi nebo s druhými jedná nespravedlivě, zkoušejte se pevně ozvat. Prosadit se není agrese; je to ochrana toho, na čem záleží. Začněte v malých situacích, například jasným vyjádřením své preference na poradě.",
       "mid": "Poznáváte se v některých rysech Vyzyvatele. Dokážete být přímí a ochranitelští a když je potřeba, převezmete vedení, ale nepotřebujete dominovat. Projevujete sílu, aniž byste ztráceli citlivost. Tip: všímejte si, kdy tlačíte na pilu, abyste necítili zranitelnost. Když lidem ukážete svou jemnější stránku, může se jejich důvěra prohloubit. Zeptejte se ostatních, jak vaše přímost působí; jejich odpovědi vám mohou pomoci využívat svou sílu moudřeji.",
       "high": "Vzorec Vyzyvatele je ve vás silný. Jste sebejistí, přímí a ochranitelští a vedení přebíráte přirozeně. Vaším základním strachem je být ovládáni, zraněni nebo zranitelní, proto si ceníte síly a nezávislosti. Postavíte se za sebe i za druhé a nebojíte se konfliktu. Tip: vaše intenzita může lidi zahltit, proto ubírejte na hlasitosti a než začnete jednat, plně naslouchejte. Zkoušejte projevovat zranitelnost před lidmi, kterým důvěřujete. Růst přichází, když uvidíte, že otevřenost a jemnost jsou také formami síly."
     },
     "type9": {
-      "name": "Typ 9 – Mírotvůrce",
+      "name": "Typ 9: Mírotvůrce",
       "short": "Touží po vnitřním i vnějším míru; bojí se konfliktu a odloučení.",
       "low": "Vzorec Mírotvůrce pro vás hraje jen malou roli. Konfliktům se nevyhýbáte a ochotně se zastanete svých vlastních priorit. Díky tomu zůstáváte aktivní a víte, co chcete. Tip: když napětí roste, zkuste nejprve vyslechnout všechny strany, než začnete prosazovat svůj pohled. Občasné zpomalení vám může pomoci vidět širší souvislosti.",
       "mid": "Poznáváte se v některých rysech Mírotvůrce. Ceníte si harmonie a dokážete vidět různé pohledy, ale když vám na něčem záleží, ozvete se. Vyvažujete klid se zapojením. Tip: všímejte si, kdy se přizpůsobujete ostatním, abyste se vyhnuli třenicím. Říkat, co chcete, i v maličkostech, udržuje vaše vztahy upřímné a zabraňuje hromadění tiché zášti. Váš pohled přináší něco, co ostatní nemohou.",

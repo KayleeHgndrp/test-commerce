@@ -2,7 +2,7 @@
   "name": "Borderline-Test (BPS)",
   "tagline": "Erkunde emotionale Intensität, Identität und Beziehungsmuster.",
   "intro": "Dieser Selbsttest betrachtet fünf Bereiche, die mit Borderline-Persönlichkeitsmerkmalen in Verbindung stehen: emotionale Hochs und Tiefs, das Gefühl für die eigene Identität, Beziehungen, impulsives Verhalten und Verlustangst. Antworte danach, wie oft jede Aussage im vergangenen Jahr auf dich zutraf. Das dauert etwa fünf Minuten und ersetzt keine Diagnose, kann dir aber helfen, Muster zu erkennen und zu entscheiden, ob du dir professionelle Unterstützung suchen möchtest.",
-  "seoTitle": "Borderline-Test – kostenloser BPS-Selbsttest",
+  "seoTitle": "Borderline-Test: kostenloser BPS-Selbsttest",
   "seoDescription": "Erlebst du intensive Gefühle, instabile Beziehungen oder Verlustangst? Mach den 5-minütigen Borderline-Selbsttest und erhalte einen persönlichen Bericht.",
   "items": [
     "Mein Gefühl dafür, wer ich bin, verändert sich stark.",
@@ -133,7 +133,7 @@
       "short": "Wie oft du Impulsen auf eine Weise nachgibst, die dir schaden könnte, besonders wenn du aufgewühlt bist.",
       "low": "Deine Antworten deuten darauf hin, dass du dein Verhalten meist im Griff hast, selbst wenn die Gefühle hochgehen. Du scheinst die Folgen zu bedenken, bevor du handelst, und tust selten Dinge, die du bereust. Diese Selbstkontrolle schützt deine Gesundheit, deine Finanzen und deine Beziehungen. Nutze weiter die Strategien, die dir helfen, etwa innezuhalten oder Dinge zu besprechen, bevor du handelst. Stress und Müdigkeit können bei allen die Selbstkontrolle schwächen, also sorge in anstrengenden Phasen besonders gut für dich.",
       "mid": "Deine Antworten deuten darauf hin, dass du manchmal impulsiv handelst, wenn du aufgewühlt bist, zum Beispiel beim Geldausgeben, Essen, Trinken oder indem du Dinge sagst, die du bereust. Viele Menschen greifen zu schnellen Lösungen, um mit starken Gefühlen fertigzuwerden. Versuche, deine typischen Auslöser zu erkennen, und plane im Voraus eine gesündere Alternative, etwa eine Freundin oder einen Freund anzurufen, spazieren zu gehen oder zwanzig Minuten zu warten, bevor du handelst.",
-      "high": "Deine Antworten deuten darauf hin, dass du oft Impulsen nachgibst, die dir schaden könnten, besonders wenn die Gefühle hochgehen – etwa bei Geld, Substanzen, Essen, beim Autofahren oder in Beziehungen. Diese Verhaltensweisen sind oft Versuche, mit überwältigenden Gefühlen fertigzuwerden. Bitte überlege, mit einer qualifizierten Fachperson für psychische Gesundheit zu sprechen, die dir helfen kann, sicherere Wege der Bewältigung zu finden. Wenn du Gedanken hast, dir selbst etwas anzutun, wende dich bitte sofort an den Notruf oder ein Krisentelefon. Es kann auch helfen, den leichten Zugang zu Dingen zu erschweren, zu denen du impulsiv greifst."
+      "high": "Deine Antworten deuten darauf hin, dass du oft Impulsen nachgibst, die dir schaden könnten, besonders wenn die Gefühle hochgehen, etwa bei Geld, Substanzen, Essen, beim Autofahren oder in Beziehungen. Diese Verhaltensweisen sind oft Versuche, mit überwältigenden Gefühlen fertigzuwerden. Bitte überlege, mit einer qualifizierten Fachperson für psychische Gesundheit zu sprechen, die dir helfen kann, sicherere Wege der Bewältigung zu finden. Wenn du Gedanken hast, dir selbst etwas anzutun, wende dich bitte sofort an den Notruf oder ein Krisentelefon. Es kann auch helfen, den leichten Zugang zu Dingen zu erschweren, zu denen du impulsiv greifst."
     },
     "abandonment": {
       "name": "Verlustangst",

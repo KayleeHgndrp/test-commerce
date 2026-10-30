@@ -1,8 +1,8 @@
 {
   "name": "Test av 16 personlighetstyper",
   "tagline": "Finn din firebokstavstype og hva den sier om deg.",
-  "intro": "Denne testen plasserer deg på fire preferanseskalaer: hvor du henter energi, hvordan du tar inn informasjon, hvordan du tar beslutninger og hvordan du organiserer livet ditt. De fire preferansene dine utgjør til sammen én av 16 personlighetstyper. Ta stilling til 100 korte utsagn – det tar omtrent fem minutter.",
-  "seoTitle": "16 personlighetstyper – gratis test av din type",
+  "intro": "Denne testen plasserer deg på fire preferanseskalaer: hvor du henter energi, hvordan du tar inn informasjon, hvordan du tar beslutninger og hvordan du organiserer livet ditt. De fire preferansene dine utgjør til sammen én av 16 personlighetstyper. Ta stilling til 100 korte utsagn, det tar omtrent fem minutter.",
+  "seoTitle": "16 personlighetstyper: gratis test av din type",
   "seoDescription": "Finn din firebokstavs personlighetstype på 5 minutter. Se preferansene dine på hver skala og les et portrett av typen din med praktiske tips.",
   "items": [
     "Jeg tenker best når jeg snakker gjennom ideer med andre.",
@@ -119,14 +119,14 @@
       "short": "Om du hovedsakelig fokuserer på konkrete fakta, detaljer og erfaring (S) eller på mønstre, muligheter og det store bildet (N).",
       "low": "Du heller mot intuisjon (N). Du ser naturlig etter mening, mønstre og fremtidige muligheter, og du liker ideer, teorier og å forestille deg hva som kunne vært. Rutinemessige detaljer kan kjede deg, og noen ganger hopper du over trinn for å komme til helheten. Tips: Når du deler en visjon, legg til konkrete eksempler og neste steg, slik at andre kan henge med. Be en detaljorientert kollega se over planene dine for praktiske hull før du forplikter deg.",
       "mid": "Du ligger nær midten mellom sansning og intuisjon, så bokstaven din kan variere mellom situasjoner. Du kan jobbe med harde fakta og detaljer, men liker også å utforske ideer og muligheter. Det gjør at du kan bygge bro mellom praktikere og visjonærer. Tips: Legg merke til hvilken modus du faller tilbake på under press. Ved viktige beslutninger kan du bevisst sjekke begge deler: Hva sier fakta, og hvilke nye muligheter kan være verdt å vurdere?",
-      "high": "Du heller mot sansning (S). Du stoler på fakta, erfaring og det du kan se og teste. Du legger merke til detaljer, foretrekker klare instruksjoner og liker ideer med praktisk nytte. Folk setter pris på realismen og nøyaktigheten din. Tips: Når andre deler abstrakte ideer, gi dem litt tid før du vurderer hvor praktiske de er – noen kan vokse til noe nyttig. Prøv innimellom å forestille deg hvor en trend kan føre om fem år, for å utvide perspektivet ditt."
+      "high": "Du heller mot sansning (S). Du stoler på fakta, erfaring og det du kan se og teste. Du legger merke til detaljer, foretrekker klare instruksjoner og liker ideer med praktisk nytte. Folk setter pris på realismen og nøyaktigheten din. Tips: Når andre deler abstrakte ideer, gi dem litt tid før du vurderer hvor praktiske de er, noen kan vokse til noe nyttig. Prøv innimellom å forestille deg hvor en trend kan føre om fem år, for å utvide perspektivet ditt."
     },
     "thinking": {
       "name": "Tenkning vs. følelse",
       "short": "Om du hovedsakelig tar beslutninger gjennom logikk og objektiv analyse (T) eller gjennom personlige verdier og hvordan det påvirker mennesker (F).",
-      "low": "Du heller mot følelse (F). Du tar beslutninger ved å veie verdier, relasjoner og hvordan folk blir berørt. Du setter pris på harmoni og vennlighet og fanger raskt opp hva andre trenger. Folk føler seg ofte forstått av deg. Tips: Når en beslutning er vanskelig, skriv også ned de objektive fordelene og ulempene – det kan gjøre valget ditt lettere å forklare. Husk at ærlige tilbakemeldinger gitt med varme også er en form for omsorg.",
+      "low": "Du heller mot følelse (F). Du tar beslutninger ved å veie verdier, relasjoner og hvordan folk blir berørt. Du setter pris på harmoni og vennlighet og fanger raskt opp hva andre trenger. Folk føler seg ofte forstått av deg. Tips: Når en beslutning er vanskelig, skriv også ned de objektive fordelene og ulempene, det kan gjøre valget ditt lettere å forklare. Husk at ærlige tilbakemeldinger gitt med varme også er en form for omsorg.",
       "mid": "Du ligger nær midten mellom tenkning og følelse, så bokstaven din kan variere mellom situasjoner. Du veier både logikk og menneskelige konsekvenser når du bestemmer deg, noe som hjelper deg å finne rettferdige og balanserte løsninger. Tips: Legg merke til om du lener deg på logikk på jobben og på følelser hjemme, eller omvendt. Ved viktige beslutninger kan du bevisst sjekke begge deler: Er det fornuftig, og er det rettferdig overfor de som berøres?",
-      "high": "Du heller mot tenkning (T). Du tar beslutninger ut fra logikk, konsekvens og objektiv analyse. Du verdsetter rettferdighet i betydningen at de samme reglene gjelder for alle, og du kan gi tøffe tilbakemeldinger uten å la deg styre av følelser. Tips: Før du kommer med kritikk, anerkjenn innsatsen eller intensjonen bak noens arbeid. Spør deg selv hvordan en beslutning vil oppleves for dem den gjelder – det øker ofte aksepten uten å svekke resonnementet ditt."
+      "high": "Du heller mot tenkning (T). Du tar beslutninger ut fra logikk, konsekvens og objektiv analyse. Du verdsetter rettferdighet i betydningen at de samme reglene gjelder for alle, og du kan gi tøffe tilbakemeldinger uten å la deg styre av følelser. Tips: Før du kommer med kritikk, anerkjenn innsatsen eller intensjonen bak noens arbeid. Spør deg selv hvordan en beslutning vil oppleves for dem den gjelder, det øker ofte aksepten uten å svekke resonnementet ditt."
     },
     "judging": {
       "name": "Vurdering vs. persepsjon",
@@ -140,7 +140,7 @@
   "types": {
     "ISTJ": {
       "name": "Ankeret",
-      "text": "Du er stødig, grundig og svært pålitelig. Du respekterer fakta, holder det du lover og jobber deg metodisk gjennom oppgaver til de er gjort skikkelig. Folk regner med deg fordi du gjør det du sier. Du foretrekker klare forventninger og velprøvde metoder, og du oppdager feil som andre overser. Den stille styrken din holder team og familier sammen. Tips for vekst: Vær åpen for nye fremgangsmåter, selv når den gamle måten fortsatt fungerer – noen ganger gir et eksperiment reelle forbedringer. Si høyt at du setter pris på andre, for lojaliteten din er ikke alltid synlig. Ta deg tid til hvile uten å måtte gjøre deg fortjent til den først."
+      "text": "Du er stødig, grundig og svært pålitelig. Du respekterer fakta, holder det du lover og jobber deg metodisk gjennom oppgaver til de er gjort skikkelig. Folk regner med deg fordi du gjør det du sier. Du foretrekker klare forventninger og velprøvde metoder, og du oppdager feil som andre overser. Den stille styrken din holder team og familier sammen. Tips for vekst: Vær åpen for nye fremgangsmåter, selv når den gamle måten fortsatt fungerer, noen ganger gir et eksperiment reelle forbedringer. Si høyt at du setter pris på andre, for lojaliteten din er ikke alltid synlig. Ta deg tid til hvile uten å måtte gjøre deg fortjent til den først."
     },
     "ISFJ": {
       "name": "Beskytteren",
@@ -152,23 +152,23 @@
     },
     "INTJ": {
       "name": "Strategen",
-      "text": "Du er selvstendig, analytisk og fokusert på langsiktige mål. Du ser hvordan systemer henger sammen, oppdager raskt ineffektivitet og liker å utforme bedre måter å gjøre ting på. Du stoler på dine egne resonnementer og er villig til å gå dine egne veier for å nå en visjon. Besluttsomheten din kan gjøre ambisiøse ideer til virkelighet. Tips for vekst: Andre følger kanskje ikke logikken din like raskt som du, så forklar resonnementet ditt steg for steg og be om tilbakemeldinger. Husk at folks følelser også er data. Gi rom for ufullkomne førsteutkast – fremdrift slår ofte en feilfri plan som venter."
+      "text": "Du er selvstendig, analytisk og fokusert på langsiktige mål. Du ser hvordan systemer henger sammen, oppdager raskt ineffektivitet og liker å utforme bedre måter å gjøre ting på. Du stoler på dine egne resonnementer og er villig til å gå dine egne veier for å nå en visjon. Besluttsomheten din kan gjøre ambisiøse ideer til virkelighet. Tips for vekst: Andre følger kanskje ikke logikken din like raskt som du, så forklar resonnementet ditt steg for steg og be om tilbakemeldinger. Husk at folks følelser også er data. Gi rom for ufullkomne førsteutkast, fremdrift slår ofte en feilfri plan som venter."
     },
     "ISTP": {
       "name": "Mekanikeren",
-      "text": "Du er rolig, praktisk og nysgjerrig på hvordan ting fungerer. Du liker å forstå problemer gjennom å prøve selv, skru ting fra hverandre og finne effektive løsninger. I en krise holder du hodet kaldt og handler besluttsomt mens andre fortsatt snakker. Du verdsetter frihet og misliker unødvendige regler og lange møter. Tips for vekst: Del tankene dine med andre oftere, for tausheten din kan feiltolkes som manglende interesse. Forplikt deg til noen få langsiktige mål, slik at de mange ferdighetene dine bygger mot noe større. La de som står deg nær, få vite hva du føler – små ord av takknemlighet betyr mye."
+      "text": "Du er rolig, praktisk og nysgjerrig på hvordan ting fungerer. Du liker å forstå problemer gjennom å prøve selv, skru ting fra hverandre og finne effektive løsninger. I en krise holder du hodet kaldt og handler besluttsomt mens andre fortsatt snakker. Du verdsetter frihet og misliker unødvendige regler og lange møter. Tips for vekst: Del tankene dine med andre oftere, for tausheten din kan feiltolkes som manglende interesse. Forplikt deg til noen få langsiktige mål, slik at de mange ferdighetene dine bygger mot noe større. La de som står deg nær, få vite hva du føler, små ord av takknemlighet betyr mye."
     },
     "ISFP": {
       "name": "Den milde kunstneren",
-      "text": "Du er følsom, snill og har sans for skjønnhet og øyeblikket. Du uttrykker deg mer gjennom handling og kreativitet enn gjennom ord, og du verdsetter ekthet og frihet. Du er tolerant, åpen og lojal mot menneskene og sakene du bryr deg om. Det milde nærværet ditt får andre til å føle seg akseptert. Tips for vekst: Du unngår kanskje konflikter til frustrasjonen har hopet seg opp, så øv deg på å ta opp små bekymringer tidlig. Gjør verdiene dine om til noen konkrete mål, slik at talentene dine får retning. Tro nok på arbeidet ditt til å vise det frem – perspektivet ditt fortjener å bli sett."
+      "text": "Du er følsom, snill og har sans for skjønnhet og øyeblikket. Du uttrykker deg mer gjennom handling og kreativitet enn gjennom ord, og du verdsetter ekthet og frihet. Du er tolerant, åpen og lojal mot menneskene og sakene du bryr deg om. Det milde nærværet ditt får andre til å føle seg akseptert. Tips for vekst: Du unngår kanskje konflikter til frustrasjonen har hopet seg opp, så øv deg på å ta opp små bekymringer tidlig. Gjør verdiene dine om til noen konkrete mål, slik at talentene dine får retning. Tro nok på arbeidet ditt til å vise det frem, perspektivet ditt fortjener å bli sett."
     },
     "INFP": {
       "name": "Drømmeren",
-      "text": "Du er idealistisk, fantasifull og styrt av sterke indre verdier. Du søker mening i alt du gjør og bryr deg dypt om ekthet, både hos deg selv og andre. Du forstår følelser godt og uttrykker dem ofte gjennom skriving, kunst eller ettertenksomme samtaler. Du er mild, åpen og lojal mot det du tror på. Tips for vekst: Idealene dine er et kompass, men virkeligheten er sjelden perfekt – ta små praktiske steg i stedet for å vente på det ideelle øyeblikket. Vær like medfølende mot deg selv som mot andre. Del drømmene dine med folk som kan hjelpe deg å gjøre dem virkelige."
+      "text": "Du er idealistisk, fantasifull og styrt av sterke indre verdier. Du søker mening i alt du gjør og bryr deg dypt om ekthet, både hos deg selv og andre. Du forstår følelser godt og uttrykker dem ofte gjennom skriving, kunst eller ettertenksomme samtaler. Du er mild, åpen og lojal mot det du tror på. Tips for vekst: Idealene dine er et kompass, men virkeligheten er sjelden perfekt, ta små praktiske steg i stedet for å vente på det ideelle øyeblikket. Vær like medfølende mot deg selv som mot andre. Del drømmene dine med folk som kan hjelpe deg å gjøre dem virkelige."
     },
     "INTP": {
       "name": "Problemløseren",
-      "text": "Du er logisk, oppfinnsom og uendelig nysgjerrig. Du elsker å analysere ideer, finne inkonsekvenser og bygge teorier som forklarer hvordan ting egentlig fungerer. Du tenker selvstendig og liker dype samtaler om komplekse temaer. Hodet ditt kan se originale løsninger som andre går glipp av. Tips for vekst: Ideer når sitt potensial når de deles og tas i bruk, så sett deg små frister for å fullføre og presentere arbeidet ditt. Vær oppmerksom på praktiske detaljer og på hvordan andre har det – det betyr noe selv når det virker ulogisk. Knytt kontakt med folk som deler interessene dine; de gir tenkningen din ny energi."
+      "text": "Du er logisk, oppfinnsom og uendelig nysgjerrig. Du elsker å analysere ideer, finne inkonsekvenser og bygge teorier som forklarer hvordan ting egentlig fungerer. Du tenker selvstendig og liker dype samtaler om komplekse temaer. Hodet ditt kan se originale løsninger som andre går glipp av. Tips for vekst: Ideer når sitt potensial når de deles og tas i bruk, så sett deg små frister for å fullføre og presentere arbeidet ditt. Vær oppmerksom på praktiske detaljer og på hvordan andre har det, det betyr noe selv når det virker ulogisk. Knytt kontakt med folk som deler interessene dine; de gir tenkningen din ny energi."
     },
     "ESTP": {
       "name": "Eventyreren",
@@ -192,7 +192,7 @@
     },
     "ESFJ": {
       "name": "Verten",
-      "text": "Du er sosial, omsorgsfull og opptatt av fellesskapet. Du legger merke til hva folk trenger, får dem til å føle seg velkomne og liker å samle andre. Du verdsetter harmoni, lojalitet og tradisjon, og du legger mye innsats i å få relasjoner og grupper til å fungere godt. Folk føler seg ivaretatt når du er til stede. Tips for vekst: Du kan ta kritikk eller konflikter personlig, så minn deg selv på at uenighet ikke er avvisning. Sjekk om du hjelper fordi du vil, eller fordi du føler at du må. Gi plass til dine egne behov og meninger – de betyr like mye som alle andres."
+      "text": "Du er sosial, omsorgsfull og opptatt av fellesskapet. Du legger merke til hva folk trenger, får dem til å føle seg velkomne og liker å samle andre. Du verdsetter harmoni, lojalitet og tradisjon, og du legger mye innsats i å få relasjoner og grupper til å fungere godt. Folk føler seg ivaretatt når du er til stede. Tips for vekst: Du kan ta kritikk eller konflikter personlig, så minn deg selv på at uenighet ikke er avvisning. Sjekk om du hjelper fordi du vil, eller fordi du føler at du må. Gi plass til dine egne behov og meninger, de betyr like mye som alle andres."
     },
     "ENFJ": {
       "name": "Mentoren",

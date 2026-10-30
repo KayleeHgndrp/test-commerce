@@ -2,7 +2,7 @@
   "name": "Test osobowości borderline (BPD)",
   "tagline": "Przyjrzyj się intensywności emocji, tożsamości i wzorcom w relacjach.",
   "intro": "Ten test przesiewowy obejmuje pięć obszarów związanych z cechami osobowości borderline: wahania emocjonalne, poczucie tożsamości, relacje, zachowania impulsywne i lęk przed porzuceniem. Odpowiadaj zgodnie z tym, jak często dane stwierdzenie dotyczyło cię w ciągu ostatniego roku. Test zajmuje około pięciu minut i nie jest diagnozą, ale może pomóc ci rozpoznać pewne wzorce i zdecydować, czy szukać profesjonalnego wsparcia.",
-  "seoTitle": "Test borderline (BPD) – bezpłatny test przesiewowy",
+  "seoTitle": "Test borderline (BPD): bezpłatny test przesiewowy",
   "seoDescription": "Doświadczasz intensywnych emocji, niestabilnych relacji lub lęku przed porzuceniem? Zrób 5-minutowy test przesiewowy BPD i otrzymaj osobisty raport.",
   "items": [
     "Moje poczucie tego, kim jestem, bardzo się zmienia.",
@@ -133,7 +133,7 @@
       "short": "Jak często, zwłaszcza w silnych emocjach, ulegasz porywom w sposób, który może ci zaszkodzić.",
       "low": "Twoje odpowiedzi sugerują, że zwykle panujesz nad swoim zachowaniem, nawet gdy emocje sięgają zenitu. Wydaje się, że myślisz o konsekwencjach, zanim zaczniesz działać, i rzadko robisz rzeczy, których żałujesz. Ta samokontrola chroni twoje zdrowie, finanse i relacje. Korzystaj dalej ze strategii, które ci pomagają, takich jak pauza czy omówienie sprawy, zanim zaczniesz działać. Stres i zmęczenie mogą osłabić samokontrolę każdego, więc w wymagających okresach zadbaj o siebie szczególnie.",
       "mid": "Twoje odpowiedzi sugerują, że gdy jest ci źle, czasem działasz pod wpływem impulsu, na przykład wydając pieniądze, jedząc, pijąc lub mówiąc rzeczy, których żałujesz. Wiele osób sięga po szybkie rozwiązania, by poradzić sobie z silnymi emocjami. Spróbuj rozpoznać swoje typowe wyzwalacze i zaplanuj z wyprzedzeniem zdrowszą alternatywę, na przykład telefon do przyjaciela, spacer albo odczekanie dwudziestu minut przed działaniem.",
-      "high": "Twoje odpowiedzi sugerują, że często ulegasz porywom, które mogą ci zaszkodzić, zwłaszcza gdy emocje sięgają zenitu – na przykład w kwestii pieniędzy, substancji, jedzenia, prowadzenia samochodu czy relacji. Takie zachowania są często próbą poradzenia sobie z przytłaczającymi uczuciami. Rozważ rozmowę z wykwalifikowanym specjalistą zdrowia psychicznego, który pomoże ci znaleźć bezpieczniejsze sposoby radzenia sobie. Jeśli pojawiają się u ciebie myśli o zrobieniu sobie krzywdy, natychmiast skontaktuj się z lokalnymi służbami ratunkowymi lub telefonem zaufania. Pomóc może też utrudnienie sobie łatwego dostępu do rzeczy, po które sięgasz impulsywnie."
+      "high": "Twoje odpowiedzi sugerują, że często ulegasz porywom, które mogą ci zaszkodzić, zwłaszcza gdy emocje sięgają zenitu, na przykład w kwestii pieniędzy, substancji, jedzenia, prowadzenia samochodu czy relacji. Takie zachowania są często próbą poradzenia sobie z przytłaczającymi uczuciami. Rozważ rozmowę z wykwalifikowanym specjalistą zdrowia psychicznego, który pomoże ci znaleźć bezpieczniejsze sposoby radzenia sobie. Jeśli pojawiają się u ciebie myśli o zrobieniu sobie krzywdy, natychmiast skontaktuj się z lokalnymi służbami ratunkowymi lub telefonem zaufania. Pomóc może też utrudnienie sobie łatwego dostępu do rzeczy, po które sięgasz impulsywnie."
     },
     "abandonment": {
       "name": "Lęk przed porzuceniem",
