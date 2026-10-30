@@ -237,7 +237,11 @@
     "spam": "Nu l-ai primit după 10 minute? Verifică dosarul de spam sau de promoții ori scrie-ne la {email}.",
     "more": "Descoperă mai multe teste",
     "bundleTitle": "Următorul tău raport la {price}",
-    "bundleText": "Alege mai jos încă un test și fă-l în {days} zile. Raportul complet va costa atunci {price} în loc de {full}. Valabil pentru un raport în plus."
+    "bundleText": "Alege mai jos încă un test și fă-l în {days} zile. Raportul complet va costa atunci {price} în loc de {full}. Valabil pentru un raport în plus.",
+    "packTitle": "Pachetul tău este activ",
+    "packText": "Fă un alt test. Pe pagina de rezultate următorul raport se deblochează imediat, fără să plătești din nou. Rămase: {count}.",
+    "allTitle": "Accesul tău complet este activ",
+    "allText": "Fă orice test. Pe pagina de rezultate fiecare raport se deblochează imediat, fără să plătești din nou."
   },
   "report": {
     "subject": "Raportul tău: {test}",
@@ -247,7 +251,31 @@
     "outro": "Sperăm că acest raport îți oferă informații utile. Ești curios să afli și alte laturi ale tale? Descoperă toate testele noastre pe {url}.",
     "signature": "Echipa {site}",
     "instrumentLabel": "{name}: {score} din {max}",
-    "typeLabel": "Tipul tău"
+    "typeLabel": "Tipul tău",
+    "coupleSubject": "Raportul vostru de cuplu: {test}",
+    "coupleIntro": "Mulțumim că ați făcut împreună {test} pe {site}. Iată raportul de cuplu pentru tine și {name}.",
+    "coupleSummary": "Acest raport vă compară pe tine și pe {name} în fiecare parte a {test}. O diferență nu este o problemă. Arată unde aveți nevoie de răbdare unul cu altul și unde puteți învăța unul de la altul.",
+    "matchLabel": "Compatibilitatea voastră",
+    "matchName": "{score}% compatibilitate: {band}",
+    "matchText": {
+      "high": "Vedeți multe lucruri la fel, ceea ce aduce liniște și încredere. Continuați să vorbiți despre puținele puncte în care diferiți.",
+      "mid": "Aveți o bază solidă și și diferențe clare. Cu puțină atenție, aceste diferențe vă îmbogățesc relația.",
+      "low": "Sunteți destul de diferiți. Asta poate fi captivant și obositor în același timp. Acest raport arată unde să fiți mai atenți."
+    },
+    "typesLine": "Tipul tău: {mine}. {name}: {theirs}.",
+    "scoreLine": "Tu: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Asemănători",
+      "some": "Parțial asemănători",
+      "different": "Diferiți"
+    },
+    "closenessText": {
+      "alike": "Aici scorurile voastre sunt apropiate. De obicei asta pare ușor și firesc. Riscul este să vă întăriți reciproc punctele oarbe, așa că din când în când întrebați-vă ce ați putea scăpa amândoi din vedere.",
+      "some": "Aici diferiți puțin. În viața de zi cu zi abia veți observa, dar sub stres distanța poate părea mai mare. Spuneți-o cu voce tare când apare.",
+      "different": "Aici diferiți mult. De aici pornesc des fricțiunile, și tot aici puteți învăța cel mai mult unul de la altul. Stabiliți cum gestionați asta înainte să devină ceartă."
+    },
+    "passLine": "Pachetul tău mai include {count} rapoarte. Fă un alt test și raportul se deblochează pe pagina de rezultate. Pe alt dispozitiv, deschide mai întâi acest link: {link}",
+    "passLineAll": "Accesul tău complet deblochează fiecare raport. Fă un test și raportul se deblochează pe pagina de rezultate. Pe alt dispozitiv, deschide mai întâi acest link: {link}"
   },
   "footer": {
     "tagline": "Cunoaște-te mai bine",
@@ -278,7 +306,7 @@
     "termsTitle": "Termeni de utilizare",
     "termsBody": [
       "Toate testele de pe {site} sunt destinate autoreflecției și divertismentului. Ele nu reprezintă un diagnostic medical, psihologic sau profesional.",
-      "Completarea unui test este gratuită. Un raport personal costă {price} per test, cu plată unică. Raportul este livrat în format digital, prin e-mail.",
+      "A face un test este gratuit. Un raport personal costă {price} pe test, ca plată unică. Poți cumpăra și un pachet de 3 rapoarte, acces la toate rapoartele sau un raport de cuplu care compară două persoane care au făcut același test. Și acestea sunt plăți unice. Rapoartele sunt livrate digital prin email.",
       "Deoarece raportul este conținut digital livrat imediat după plată, ești de acord că dreptul de retragere se stinge odată ce raportul a fost trimis. Dacă nu ai primit raportul, scrie-ne la {email} și ți-l vom retrimite sau îți vom rambursa banii.",
       "Facem tot posibilul ca informațiile să fie corecte, dar nu putem garanta că rezultatele sunt complete sau exacte pentru fiecare persoană."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Politica de rambursare",
     "refundBody": [
-      "Un raport costă {price} per test, cu plată unică. Nu există abonament și nici reînnoire automată.",
+      "Un raport costă {price} pe test, ca plată unică. Pachetele, accesul complet și rapoartele de cuplu sunt tot plăți unice. Nu există abonament și nici reînnoire automată.",
       "Nu ai primit raportul sau ceva nu a mers bine? Scrie-ne la {email} în termen de 14 zile, menționând adresa de e-mail folosită, și îți vom retrimite raportul sau îți vom rambursa plata.",
       "Deoarece raportul este conținut digital livrat imediat, dreptul legal de retragere se stinge odată ce a fost trimis. Cu toate acestea, te vom ajuta întotdeauna dacă ceva nu este în regulă.",
       "Rambursările se fac pe metoda de plată inițială, în 5–10 zile lucrătoare."
@@ -385,5 +413,61 @@
     "accept": "Accept",
     "decline": "Refuz",
     "settings": "Modifică setările cookie"
+  },
+  "plans": {
+    "title": "Alege raportul",
+    "single": "Acest raport",
+    "pack": "3 rapoarte",
+    "packNote": "Acesta plus încă 2 teste la alegere",
+    "all": "Toate cele {count} rapoarte",
+    "allNote": "Fiecare test de pe site, deblochează-le când vrei",
+    "save": "Economisești {amount}",
+    "passPack": "Pachetul tău mai are {count} rapoarte",
+    "passAll": "Accesul tău complet este activ",
+    "passUnlock": "Deblochează gratuit acest raport",
+    "passError": "Pachetul tău nu a putut fi folosit pentru acest raport. Îl poți cumpăra în continuare mai jos.",
+    "packProduct": "{test} + încă {extra} rapoarte",
+    "allProduct": "Toate cele {count} rapoarte"
+  },
+  "couple": {
+    "inviteTitle": "Fă acest test cu partenerul tău",
+    "inviteText": "Trimite-i partenerului un link. Face același test gratuit și amândoi vedeți imediat scorul vostru de compatibilitate.",
+    "nameLabel": "Prenumele tău (opțional)",
+    "createLink": "Invită-mi partenerul",
+    "copy": "Copiază linkul",
+    "copied": "Link copiat",
+    "inviteMessage": "Fă {test} cu mine și hai să vedem cât de compatibili suntem",
+    "invitedTitle": "{name} te-a invitat",
+    "invitedTitleAnon": "Ai fost invitat",
+    "invitedText": "Fă {test}. După aceea amândoi vedeți cât de compatibili sunteți.",
+    "start": "Începe testul",
+    "invalid": "Acest link de invitație nu funcționează. Roagă-ți partenerul să îl trimită din nou.",
+    "matchTitle": "Scorul vostru de compatibilitate",
+    "matchWith": "Tu și {name}",
+    "partner": "partenerul tău",
+    "bands": {
+      "high": "Compatibilitate puternică",
+      "mid": "Compatibilitate bună, cu loc de creștere",
+      "low": "Contrariile se atrag"
+    },
+    "shareScore": "Distribuie scorul",
+    "shareText": "Avem o compatibilitate de {score}% la {test}. Voi cât aveți?",
+    "sendBackTitle": "Trimite scorul lui {name}",
+    "sendBackText": "Cu acest link partenerul tău vede același scor.",
+    "unlockTitle": "Raportul complet de cuplu",
+    "unlockText": "Vezi pentru fiecare trăsătură unde tu și {name} vă asemănați, unde pot apărea fricțiuni și ce vă ajută pe amândoi.",
+    "includes": [
+      "Scorurile voastre alăturate pentru fiecare trăsătură",
+      "Unde vă asemănați și unde diferiți",
+      "Ce înseamnă combinația voastră și ce ajută"
+    ],
+    "buy": "Obține raportul de cuplu pentru {price}",
+    "note": "O singură plată pentru amândoi. Raportul ajunge pe email, ca să îl poți redirecționa.",
+    "product": "Raport de cuplu: {test}"
+  },
+  "passPage": {
+    "title": "Pachetul tău",
+    "text": "Pachetul tău este acum activ pe acest dispozitiv. Alege un test și raportul se deblochează imediat.",
+    "invalid": "Acest link nu funcționează. Contactează-ne și te ajutăm."
   }
 }

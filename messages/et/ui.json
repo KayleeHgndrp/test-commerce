@@ -237,7 +237,11 @@
     "spam": "Pole 10 minuti jooksul kätte saanud? Vaata rämpsposti või reklaamide kausta või kirjuta meile aadressil {email}.",
     "more": "Avasta veel teste",
     "bundleTitle": "Sinu järgmine raport hinnaga {price}",
-    "bundleText": "Vali allpool veel üks test ja tee see {days} päeva jooksul. Täielik raport maksab siis {price}, mitte {full}. Kehtib ühe lisaraporti kohta."
+    "bundleText": "Vali allpool veel üks test ja tee see {days} päeva jooksul. Täielik raport maksab siis {price}, mitte {full}. Kehtib ühe lisaraporti kohta.",
+    "packTitle": "Sinu pakett on aktiivne",
+    "packText": "Tee mõni teine test. Tulemuste lehel avaneb järgmine raport kohe, ilma uuesti maksmata. Alles: {count}.",
+    "allTitle": "Sinu täispääs on aktiivne",
+    "allText": "Tee ükskõik milline test. Tulemuste lehel avaneb iga raport kohe, ilma uuesti maksmata."
   },
   "report": {
     "subject": "Sinu raport: {test}",
@@ -247,7 +251,31 @@
     "outro": "Loodame, et see raport annab sulle kasulikke teadmisi. Tahad teada ka oma teisi külgi? Avasta kõik meie testid aadressil {url}.",
     "signature": "{site} meeskond",
     "instrumentLabel": "{name}: {score}/{max}",
-    "typeLabel": "Sinu tüüp"
+    "typeLabel": "Sinu tüüp",
+    "coupleSubject": "Teie paariraport: {test}",
+    "coupleIntro": "Aitäh, et tegite testi {test} koos lehel {site}. Siin on paariraport sulle ja nimele {name}.",
+    "coupleSummary": "See raport võrdleb sind ja nime {name} testi {test} igas osas. Erinevus ei ole probleem. See näitab, kus vajate teineteise suhtes kannatlikkust ja kus saate teineteiselt õppida.",
+    "matchLabel": "Teie sobivus",
+    "matchName": "{score}% sobivus: {band}",
+    "matchText": {
+      "high": "Näete paljusid asju ühtmoodi, mis annab rahu ja usaldust. Rääkige edasi neist vähestest punktidest, kus erinete.",
+      "mid": "Teil on kindel alus ja ka selged erinevused. Väikese tähelepanuga muudavad need erinevused teie suhte rikkamaks.",
+      "low": "Olete üsna erinevad. See võib olla põnev ja ka väsitav. See raport näitab, millele tasub rohkem tähelepanu pöörata."
+    },
+    "typesLine": "Sinu tüüp: {mine}. {name}: {theirs}.",
+    "scoreLine": "Sina: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Sarnased",
+      "some": "Osaliselt sarnased",
+      "different": "Erinevad"
+    },
+    "closenessText": {
+      "alike": "Siin on teie skoorid lähedal. See tundub tavaliselt lihtne ja loomulik. Oht on, et tugevdate teineteise pimealasid, nii et küsige aeg-ajalt, mida te mõlemad võiksite märkamata jätta.",
+      "some": "Siin erinete veidi. Igapäevaelus märkate seda vaevu, kuid stressis võib vahe tunduda suurem. Öelge see välja, kui see esile kerkib.",
+      "different": "Siin erinete palju. Just siit algab sageli hõõrumine ja just siin saate teineteiselt kõige rohkem õppida. Leppige kokku, kuidas sellega toime tulete, enne kui sellest saab tüli."
+    },
+    "passLine": "Sinu paketis on veel {count} raportit. Tee mõni teine test ja raport avaneb tulemuste lehel. Teises seadmes ava kõigepealt see link: {link}",
+    "passLineAll": "Sinu täispääs avab iga raporti. Tee test ja raport avaneb tulemuste lehel. Teises seadmes ava kõigepealt see link: {link}"
   },
   "footer": {
     "tagline": "Tunne ennast paremini",
@@ -278,7 +306,7 @@
     "termsTitle": "Kasutustingimused",
     "termsBody": [
       "Kõik {site} testid on mõeldud eneserefleksiooniks ja meelelahutuseks. Need ei ole meditsiiniline, psühholoogiline ega muu professionaalne diagnoos.",
-      "Testi tegemine on tasuta. Isiklik raport maksab {price} testi kohta ühekordse maksena. Raport edastatakse digitaalselt e-postiga.",
+      "Testi tegemine on tasuta. Isiklik raport maksab {price} testi kohta ühekordse maksena. Võid osta ka 3 raporti paketi, pääsu kõigile raportitele või paariraporti, mis võrdleb kahte sama testi teinud inimest. Needki on ühekordsed maksed. Raportid toimetatakse digitaalselt e-postiga.",
       "Kuna raport on digitaalne sisu, mis edastatakse kohe pärast makset, nõustud, et sinu taganemisõigus lõpeb raporti saatmisega. Kui sa ei saanud oma raportit kätte, kirjuta aadressil {email} ja me saadame selle uuesti või maksame raha tagasi.",
       "Püüame hoida sisu täpsena, kuid me ei saa tagada, et tulemused on iga inimese jaoks täielikud või õiged."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Tagastuspoliitika",
     "refundBody": [
-      "Raport maksab {price} testi kohta ühekordse maksena. Tellimust ega automaatset pikendamist pole.",
+      "Raport maksab {price} testi kohta ühekordse maksena. Paketid, täispääs ja paariraportid on samuti ühekordsed maksed. Tellimust ega automaatset uuendamist ei ole.",
       "Kas sa ei saanud oma raportit või läks midagi valesti? Kirjuta 14 päeva jooksul aadressil {email}, märkides kasutatud e-posti aadressi, ja me saadame raporti uuesti või maksame raha tagasi.",
       "Kuna raport on kohe edastatav digitaalne sisu, lõpeb seadusjärgne taganemisõigus selle saatmisega. Kui midagi on valesti, aitame sind siiski alati.",
       "Raha tagastatakse algsele makseviisile 5–10 tööpäeva jooksul."
@@ -385,5 +413,61 @@
     "accept": "Nõustun",
     "decline": "Keeldun",
     "settings": "Muuda küpsiste seadeid"
+  },
+  "plans": {
+    "title": "Vali oma raport",
+    "single": "See raport",
+    "pack": "3 raportti",
+    "packNote": "See ja 2 teist valitud testi",
+    "all": "Kõik {count} raportit",
+    "allNote": "Iga test lehel, ava need siis, kui soovid",
+    "save": "Säästad {amount}",
+    "passPack": "Sinu paketis on alles {count} raportit",
+    "passAll": "Sinu täispääs on aktiivne",
+    "passUnlock": "Ava see raport tasuta",
+    "passError": "Sinu paketti ei saanud selle raporti jaoks kasutada. Saad selle siiski allpool osta.",
+    "packProduct": "{test} + veel {extra} raportit",
+    "allProduct": "Kõik {count} raportit"
+  },
+  "couple": {
+    "inviteTitle": "Tee see test koos partneriga",
+    "inviteText": "Saada partnerile link. Ta teeb sama testi tasuta ja te näete mõlemad kohe oma sobivusskoori.",
+    "nameLabel": "Sinu eesnimi (valikuline)",
+    "createLink": "Kutsu partner",
+    "copy": "Kopeeri link",
+    "copied": "Link kopeeritud",
+    "inviteMessage": "Tee minuga {test} ja vaatame, kui hästi me sobime",
+    "invitedTitle": "{name} kutsus sind",
+    "invitedTitleAnon": "Sind on kutsutud",
+    "invitedText": "Tee {test}. Pärast seda näete mõlemad, kui hästi te sobite.",
+    "start": "Alusta testi",
+    "invalid": "See kutselink ei tööta. Palu partneril see uuesti saata.",
+    "matchTitle": "Teie sobivusskoor",
+    "matchWith": "Sina ja {name}",
+    "partner": "sinu partner",
+    "bands": {
+      "high": "Tugev sobivus",
+      "mid": "Hea sobivus, ruumi kasvuks",
+      "low": "Vastandid tõmbuvad"
+    },
+    "shareScore": "Jaga skoori",
+    "shareText": "Meil on testis {test} {score}% sobivus. Kui hästi teie sobite?",
+    "sendBackTitle": "Saada skoor: {name}",
+    "sendBackText": "Selle lingiga näeb partner sama skoori.",
+    "unlockTitle": "Täielik paariraport",
+    "unlockText": "Vaata iga omaduse puhul, kus sina ja {name} olete sarnased, kus võib hõõruda ja mis teid mõlemaid aitab.",
+    "includes": [
+      "Teie skoorid kõrvuti iga omaduse kohta",
+      "Kus olete sarnased ja kus erinevad",
+      "Mida teie kombinatsioon tähendab ja mis aitab"
+    ],
+    "buy": "Saa paariraport hinnaga {price}",
+    "note": "Üks makse teile mõlemale. Raport tuleb sinu e-posti, nii saad selle edasi saata.",
+    "product": "Paariraport: {test}"
+  },
+  "passPage": {
+    "title": "Sinu pakett",
+    "text": "Sinu pakett on nüüd selles seadmes aktiivne. Vali test ja raport avaneb kohe.",
+    "invalid": "See link ei tööta. Võta meiega ühendust ja me aitame."
   }
 }

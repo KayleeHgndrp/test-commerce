@@ -140,5 +140,17 @@
       "name": "Temător-evitant",
       "text": "Răspunsurile tale sugerează un stil temător-evitant. Poate tânjești după apropiere și, în același timp, te temi de ea, așa că relațiile pot părea derutante: te apropii de oameni și apoi te retragi când lucrurile devin intense. Teama de respingere și disconfortul de a depinde de alții pot exista una lângă alta. Acest stil se dezvoltă adesea din experiențe în care apropierea nu a fost sigură și nu e nimic de care să-ți fie rușine. Fii blând cu tine și caută relații stabile și previzibile. Să înveți să-ți observi și să-ți numești sentimentele ajută foarte mult. Lucrul cu un terapeut calificat poate fi deosebit de valoros pentru a construi un mod mai sigur de a te conecta."
     }
+  },
+  "couple": {
+    "secure+secure": "Doi parteneri siguri își oferă spațiu și apropiere fără mult efort. Conflictele scapă rar de sub control, pentru că amândoi aveți încredere că legătura rezistă.",
+    "anxious+secure": "Partenerul sigur oferă prezența stabilă pe care și-o dorește partenerul anxios. Liniștirea clară și ritualurile fixe îl ajută pe partenerul anxios să se relaxeze în timp.",
+    "avoidant+secure": "Partenerul sigur îi poate da spațiu partenerului evitant fără să se simtă respins. Momentele mici de apropiere, fără presiune, îl ajută pe partenerul evitant să se deschidă.",
+    "fearful+secure": "Partenerul sigur oferă o bază sigură, pe care partenerul temător și-o dorește și de care se teme în același timp. Răbdarea și predictibilitatea contează mai mult decât gesturile mari.",
+    "anxious+anxious": "Amândoi vă doriți apropiere și înțelegeți această nevoie la celălalt. Sub stres vă puteți hrăni grijile reciproc, așa că liniștiți-vă întâi înainte să discutați.",
+    "anxious+avoidant": "Este cel mai cunoscut joc de apropiere și respingere: unul caută apropiere, celălalt se retrage, iar primul insistă și mai tare. Să recunoașteți împreună acest tipar este primul pas pentru a-l rupe.",
+    "anxious+fearful": "Amândoi simțiți mult și vă temeți să îl pierdeți pe celălalt. Asta poate fi foarte intens. Stabiliți semnale clare pentru când unul dintre voi are nevoie de liniștire sau de un moment singur.",
+    "avoidant+avoidant": "Amândoi prețuiți independența și rar vă sufocați unul pe altul. Riscul este distanța: sentimente importante rămân nespuse. Planificați momente pentru a vorbi cu adevărat.",
+    "avoidant+fearful": "Unul păstrează distanța, celălalt oscilează între apropiere și retragere. Astfel vă puteți simți amândoi nevăzuți. Spuneți cu voce tare de ce aveți nevoie, chiar dacă e stânjenitor.",
+    "fearful+fearful": "Recunoașteți la celălalt dorința de apropiere și teama de ea. Asta poate crea o înțelegere profundă și și haos. O rutină stabilă și, la nevoie, ajutor din afară vă ajută pe amândoi."
   }
 }

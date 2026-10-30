@@ -16,18 +16,29 @@ type Props = {
   dimensionNames: string[];
   price: string;
   bundlePrice: string;
+  packPrice: string;
+  packSave: string;
+  allPrice: string;
+  allCount: number;
   includes: string[];
   ui: UiMessages["result"];
+  plansUi: UiMessages["plans"];
+  children?: React.ReactNode;
 };
 
 type Stored = { answers: string; gender: string };
 type Bundle = { session: string; slug: string; until: number };
+type PassStatus = { session: string; plan: "pack" | "all"; remaining: number; covered: string[] };
+type Plan = "single" | "pack" | "all";
 
 export const bundleKey = "bundle-offer";
+export const passKey = "report-pass";
 
-export function ResultPreview({ locale, def, name, dimensionNames, price, bundlePrice, includes, ui }: Props) {
+export function ResultPreview({ locale, def, name, dimensionNames, price, bundlePrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, children }: Props) {
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
   const [bundle, setBundle] = useState<Bundle | null>(null);
+  const [pass, setPass] = useState<PassStatus | null>(null);
+  const [plan, setPlan] = useState<Plan>("single");
   const [email, setEmail] = useState("");
   const [consent, setConsent] = useState(false);
   const [error, setError] = useState("");
@@ -47,6 +58,19 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setStored(value);
     setBundle(offer);
+
+    // A pack bought earlier on this device unlocks this report without paying again.
+    let session = "";
+    try {
+      session = (JSON.parse(localStorage.getItem(passKey) ?? "null") as { session?: string } | null)?.session ?? "";
+    } catch {}
+    if (!session) return;
+    fetch(`/api/pass?id=${encodeURIComponent(session)}`)
+      .then((res) => (res.ok ? (res.json() as Promise<Omit<PassStatus, "session">>) : null))
+      .then((status) => {
+        if (status && (status.remaining > 0 || status.covered.includes(def.slug))) setPass({ ...status, session });
+      })
+      .catch(() => {});
   }, [def]);
 
   if (stored === undefined) return <div className="min-h-[60vh]" />;
@@ -64,6 +88,33 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
 
   const result = scoreTest(def, decodeAnswers(def, stored.answers)!);
 
+  async function redeem() {
+    setError("");
+    setBusy(true);
+    track("Pass Redeem", { test: def.slug });
+    try {
+      const res = await fetch("/api/pass", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ pass: pass!.session, slug: def.slug, locale, answers: stored!.answers }),
+      });
+      const data = (await res.json()) as { url?: string };
+      if (!res.ok || !data.url) throw new Error();
+      window.location.href = data.url;
+    } catch {
+      setPass(null);
+      setError(plansUi.passError);
+      setBusy(false);
+    }
+  }
+
+  const planOptions: { id: Plan; title: string; note?: string; price: string; badge?: string }[] = [
+    { id: "single", title: plansUi.single, price: bundle ? bundlePrice : price },
+    { id: "pack", title: plansUi.pack, note: plansUi.packNote, price: packPrice, badge: fmt(plansUi.save, { amount: packSave }) },
+    { id: "all", title: fmt(plansUi.all, { count: allCount }), note: plansUi.allNote, price: allPrice },
+  ];
+  const chosen = planOptions.find((o) => o.id === plan)!;
+
   async function buy(e: React.FormEvent) {
     e.preventDefault();
     setError("");
@@ -75,7 +126,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
       const res = await fetch("/api/checkout", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ slug: def.slug, locale, email, answers: stored!.answers, gender: stored!.gender, bundleFrom: bundle?.session }),
+        body: JSON.stringify({ slug: def.slug, locale, email, answers: stored!.answers, gender: stored!.gender, plan, bundleFrom: plan === "single" ? bundle?.session : undefined }),
       });
       const data = (await res.json()) as { url?: string };
       if (!res.ok || !data.url) throw new Error();
@@ -123,6 +174,19 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
           </div>
         </div>
 
+        {pass ? (
+          <div className="rounded-2xl border-2 border-accent bg-surface p-6 md:col-span-2">
+            <h2 className="text-lg font-bold">{pass.plan === "all" ? plansUi.passAll : fmt(plansUi.passPack, { count: pass.remaining })}</h2>
+            <p className="mt-2 text-sm leading-relaxed text-muted">{ui.unlockText}</p>
+            <button
+              onClick={redeem}
+              disabled={busy}
+              className="mt-5 w-full rounded-lg bg-accent px-5 py-3.5 font-semibold text-white shadow-lg shadow-accent/25 transition hover:bg-accent-strong disabled:opacity-60"
+            >
+              {busy ? "…" : plansUi.passUnlock}
+            </button>
+          </div>
+        ) : (
         <form onSubmit={buy} className="rounded-2xl border-2 border-accent bg-surface p-6 md:col-span-2">
           <h2 className="text-lg font-bold">{ui.unlockTitle}</h2>
           <p className="mt-2 text-sm leading-relaxed text-muted">{ui.unlockText}</p>
@@ -134,6 +198,25 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
               </li>
             ))}
           </ul>
+          <fieldset className="mt-5 space-y-2">
+            <legend className="text-sm font-medium">{plansUi.title}</legend>
+            {planOptions.map((o) => (
+              <label
+                key={o.id}
+                className={`flex cursor-pointer items-start gap-3 rounded-xl border px-3 py-2.5 text-sm transition ${plan === o.id ? "border-accent bg-accent/5" : "border-border hover:border-accent/60"}`}
+              >
+                <input type="radio" name="plan" checked={plan === o.id} onChange={() => setPlan(o.id)} className="mt-1 accent-[var(--accent)]" />
+                <span className="min-w-0 flex-1">
+                  <span className="flex flex-wrap items-baseline justify-between gap-x-2">
+                    <span className="font-semibold">{o.title}</span>
+                    <span className="font-bold">{o.price}</span>
+                  </span>
+                  {o.note && <span className="mt-0.5 block text-xs text-muted">{o.note}</span>}
+                  {o.badge && <span className="mt-1 inline-block rounded-full bg-accent/10 px-2 py-0.5 text-xs font-semibold text-accent">{o.badge}</span>}
+                </span>
+              </label>
+            ))}
+          </fieldset>
           <label className="mt-5 block text-sm font-medium" htmlFor="email">{ui.emailLabel}</label>
           <input
             id="email"
@@ -150,17 +233,19 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
               <Link href={`/${locale}/terms`} className="underline" target="_blank">{ui.consent}</Link>
             </span>
           </label>
-          {bundle && <p className="mt-4 rounded-lg bg-accent/10 px-3 py-2 text-sm font-semibold text-accent">{fmt(ui.bundleNote, { price: bundlePrice, full: price })}</p>}
+          {bundle && plan === "single" && <p className="mt-4 rounded-lg bg-accent/10 px-3 py-2 text-sm font-semibold text-accent">{fmt(ui.bundleNote, { price: bundlePrice, full: price })}</p>}
           {error && <p className="mt-3 text-sm font-medium text-rose-600">{error}</p>}
           <button
             disabled={busy}
             className="mt-5 w-full rounded-lg bg-accent px-5 py-3.5 font-semibold text-white shadow-lg shadow-accent/25 transition hover:bg-accent-strong disabled:opacity-60"
           >
-            {busy ? "…" : fmt(ui.buy, { price: bundle ? bundlePrice : price })}
+            {busy ? "…" : fmt(ui.buy, { price: chosen.price })}
           </button>
           <p className="mt-3 text-center text-xs text-muted">🔒 {ui.secure}</p>
         </form>
+        )}
       </div>
+      {children}
     </div>
   );
 }

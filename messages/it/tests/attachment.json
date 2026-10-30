@@ -140,5 +140,17 @@
       "name": "Timoroso-evitante",
       "text": "Le tue risposte suggeriscono uno stile timoroso-evitante. Potresti desiderare la vicinanza e al tempo stesso temerla, e per questo le relazioni possono sembrarti confuse: ti avvicini alle persone e poi ti ritrai quando le cose si fanno intense. La paura del rifiuto e il disagio nel dipendere dagli altri possono convivere. Questo stile nasce spesso da esperienze in cui la vicinanza non era sicura, e non c'è nulla di cui vergognarsi. Trattati con gentilezza e cerca relazioni stabili e prevedibili. Imparare a riconoscere e dare un nome ai tuoi sentimenti aiuta molto. Lavorare con uno psicoterapeuta qualificato può essere particolarmente prezioso per costruire un modo più sicuro di entrare in relazione."
     }
+  },
+  "couple": {
+    "secure+secure": "Due partner sicuri si danno spazio e vicinanza senza molta fatica. I conflitti raramente sfuggono di mano, perché entrambi vi fidate della solidità del legame.",
+    "anxious+secure": "Il partner sicuro offre la presenza stabile che il partner ansioso desidera. Rassicurazioni chiare e rituali fissi aiutano il partner ansioso a rilassarsi col tempo.",
+    "avoidant+secure": "Il partner sicuro può lasciare spazio al partner evitante senza sentirsi rifiutato. Piccoli momenti di vicinanza senza pressione aiutano il partner evitante ad aprirsi.",
+    "fearful+secure": "Il partner sicuro offre una base sicura, che il partner timoroso desidera e teme allo stesso tempo. Pazienza e prevedibilità contano più dei grandi gesti.",
+    "anxious+anxious": "Desiderate entrambi vicinanza e capite questo bisogno nell'altro. Sotto stress potete alimentare le preoccupazioni l'uno dell'altro, quindi calmatevi prima di parlarne.",
+    "anxious+avoidant": "È il tira e molla più noto: uno cerca vicinanza, l'altro si ritira, e così il primo insiste ancora di più. Riconoscere insieme questo schema è il primo passo per spezzarlo.",
+    "anxious+fearful": "Sentite entrambi molto e temete di perdere l'altro. Può essere molto intenso. Concordate segnali chiari per quando uno di voi ha bisogno di rassicurazione o di un momento da solo.",
+    "avoidant+avoidant": "Tenete entrambi all'indipendenza e raramente vi soffocate. Il rischio è la distanza: sentimenti importanti restano non detti. Pianificate momenti per parlare davvero.",
+    "avoidant+fearful": "Uno mantiene le distanze, l'altro oscilla tra vicinanza e ritirata. Così potete sentirvi entrambi non visti. Dite ad alta voce di cosa avete bisogno, anche se è imbarazzante.",
+    "fearful+fearful": "Riconoscete nell'altro il desiderio di vicinanza e la paura che ne deriva. Può creare una comprensione profonda e anche caos. Una routine stabile e, se serve, un aiuto esterno aiutano entrambi."
   }
 }

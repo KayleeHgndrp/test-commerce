@@ -140,5 +140,17 @@
       "name": "Rädd-undvikande",
       "text": "Dina svar tyder på en rädd-undvikande stil. Du kanske längtar efter närhet men fruktar den samtidigt, så relationer kan kännas förvirrande: du närmar dig människor och drar dig sedan undan när det blir intensivt. Oro för avvisning och obehag inför att vara beroende av andra kan finnas sida vid sida. Den här stilen växer ofta fram ur erfarenheter där närhet inte kändes trygg, och det är inget att skämmas över. Var varsam med dig själv och sök stabila, förutsägbara relationer. Att lära dig lägga märke till och sätta ord på dina känslor hjälper mycket. Att arbeta med en kvalificerad terapeut kan vara särskilt värdefullt för att bygga ett tryggare sätt att knyta an."
     }
+  },
+  "couple": {
+    "secure+secure": "Två trygga partner ger varandra utrymme och närhet utan större ansträngning. Konflikter spårar sällan ur, eftersom ni båda litar på att relationen tål det.",
+    "anxious+secure": "Den trygga partnern erbjuder den stabila närvaro som den ängsliga partnern längtar efter. Tydlig bekräftelse och fasta ritualer hjälper den ängsliga partnern att slappna av med tiden.",
+    "avoidant+secure": "Den trygga partnern kan ge den undvikande partnern utrymme utan att känna sig avvisad. Små stunder av närhet utan press hjälper den undvikande partnern att öppna sig.",
+    "fearful+secure": "Den trygga partnern erbjuder en trygg bas, som den rädd-undvikande partnern både vill ha och är rädd för. Tålamod och förutsägbarhet betyder mer än stora gester.",
+    "anxious+anxious": "Ni längtar båda efter närhet och förstår det behovet hos varandra. Under stress kan ni mata varandras oro, så lugna varandra först innan ni pratar igenom saker.",
+    "anxious+avoidant": "Detta är den mest kända dragkampen: den ena söker närhet, den andra drar sig undan, vilket får den första att pressa ännu mer. Att känna igen mönstret tillsammans är första steget att bryta det.",
+    "anxious+fearful": "Ni känner båda mycket och är rädda att förlora den andra. Det kan kännas väldigt intensivt. Kom överens om tydliga signaler för när någon av er behöver bekräftelse eller en stund för sig själv.",
+    "avoidant+avoidant": "Ni värdesätter båda självständighet och kväver sällan varandra. Risken är avstånd: viktiga känslor blir osagda. Planera stunder för att verkligen prata.",
+    "avoidant+fearful": "Den ena håller avstånd, den andra pendlar mellan närhet och reträtt. Det kan få er båda att känna er osedda. Säg högt vad ni behöver, även när det känns obekvämt.",
+    "fearful+fearful": "Ni känner igen längtan efter närhet och rädslan för den hos varandra. Det kan skapa djup förståelse och också kaos. En stabil rutin och vid behov stöd utifrån hjälper er båda."
   }
 }

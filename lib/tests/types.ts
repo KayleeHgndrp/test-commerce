@@ -45,6 +45,8 @@ export type TestText = {
   summary: string;
   types?: Record<string, { name: string; text: string }>;
   instrument?: { name: string; description: string; bands: Record<string, string> };
+  // Couple report text per pair of types, keyed by pairKey (e.g. "anxious+secure").
+  couple?: Record<string, string>;
 };
 
 export type DimensionScore = { dim: string; percent: number; level: Level };

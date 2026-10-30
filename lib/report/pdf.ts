@@ -41,7 +41,7 @@ export function renderReportPdf(report: Report, testName: string): Promise<Buffe
 
   if (headline) {
     doc.moveDown(0.3);
-    paragraph(ui.report.typeLabel.toUpperCase(), { color: ACCENT, size: 9, font: "bold", gap: 0.2 });
+    paragraph((headline.label ?? ui.report.typeLabel).toUpperCase(), { color: ACCENT, size: 9, font: "bold", gap: 0.2 });
     paragraph(headline.name, { size: 18, font: "bold", gap: 0.4 });
     paragraph(headline.text);
   }

@@ -21,6 +21,8 @@ export type StoredProgress = { gender?: string; answers: (number | null)[]; step
 
 export const progressKey = (slug: string) => `progress:${slug}`;
 export const resultKey = (slug: string) => `result:${slug}`;
+// Query string of a couple invite this browser is answering, so the quiz returns to the match.
+export const coupleKey = (slug: string) => `couple:${slug}`;
 
 const PER_STEP = 5;
 
@@ -114,11 +116,14 @@ export function Quiz({ locale, slug, name, items, scaleType, scale, ui }: Props)
     }
     if (state.step < steps - 1) return goTo(state.step + 1);
     track("Test Complete", { test: slug });
+    let invite: string | null = null;
     try {
       localStorage.setItem(resultKey(slug), JSON.stringify({ answers: state.answers.join(""), gender: state.gender }));
       localStorage.removeItem(progressKey(slug));
+      invite = localStorage.getItem(coupleKey(slug));
+      localStorage.removeItem(coupleKey(slug));
     } catch {}
-    router.push(`/${locale}/${slug}/result`);
+    router.push(invite ? `/${locale}/${slug}/couple?${invite}` : `/${locale}/${slug}/result`);
   }
 
   const panel = "mx-auto mt-10 max-w-xl rounded-3xl border border-border bg-surface p-6 sm:p-10";

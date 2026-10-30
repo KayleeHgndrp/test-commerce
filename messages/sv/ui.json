@@ -237,7 +237,11 @@
     "spam": "Inte fått något efter 10 minuter? Kolla i skräpposten eller kampanjmappen, eller kontakta oss på {email}.",
     "more": "Upptäck fler tester",
     "bundleTitle": "Din nästa rapport för {price}",
-    "bundleText": "Välj ett test till nedan och gör det inom {days} dagar. Den fullständiga rapporten kostar då {price} i stället för {full}. Gäller en extra rapport."
+    "bundleText": "Välj ett test till nedan och gör det inom {days} dagar. Den fullständiga rapporten kostar då {price} i stället för {full}. Gäller en extra rapport.",
+    "packTitle": "Ditt paket är aktivt",
+    "packText": "Gör ett annat test. På resultatsidan låses din nästa rapport upp direkt, utan att du betalar igen. Kvar: {count}.",
+    "allTitle": "Ditt allt-i-ett-pass är aktivt",
+    "allText": "Gör vilket test du vill. På resultatsidan låses varje rapport upp direkt, utan att du betalar igen."
   },
   "report": {
     "subject": "Din rapport: {test}",
@@ -247,7 +251,31 @@
     "outro": "Vi hoppas att rapporten ger dig värdefulla insikter. Nyfiken på andra sidor av dig själv? Upptäck alla våra tester på {url}.",
     "signature": "Teamet på {site}",
     "instrumentLabel": "{name}: {score} av {max}",
-    "typeLabel": "Din typ"
+    "typeLabel": "Din typ",
+    "coupleSubject": "Er parrapport: {test}",
+    "coupleIntro": "Tack för att ni gjorde {test} tillsammans på {site}. Här är parrapporten för dig och {name}.",
+    "coupleSummary": "Den här rapporten jämför dig och {name} i varje del av {test}. En skillnad är inget problem. Den visar var ni behöver tålamod med varandra och var ni kan lära av varandra.",
+    "matchLabel": "Er matchning",
+    "matchName": "{score}% matchning: {band}",
+    "matchText": {
+      "high": "Ni ser på mycket på samma sätt, vilket ger lugn och tillit. Fortsätt prata om de få punkter där ni skiljer er.",
+      "mid": "Ni har en stabil grund och också tydliga skillnader. Med lite uppmärksamhet gör de skillnaderna er relation rikare.",
+      "low": "Ni är ganska olika. Det kan vara spännande och också tröttsamt. Den här rapporten visar var ni behöver vara extra uppmärksamma."
+    },
+    "typesLine": "Din typ: {mine}. {name}: {theirs}.",
+    "scoreLine": "Du: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Lika",
+      "some": "Delvis lika",
+      "different": "Olika"
+    },
+    "closenessText": {
+      "alike": "Här ligger ni nära varandra. Det känns oftast lätt och naturligt. Risken är att ni förstärker varandras blinda fläckar, så fråga ibland vad ni båda kan missa.",
+      "some": "Här skiljer ni er lite. I vardagen märks det knappt, men under stress kan skillnaden kännas större. Säg det högt när det dyker upp.",
+      "different": "Här skiljer ni er mycket. Det är ofta här friktion börjar, och också här ni kan lära er mest av varandra. Kom överens om hur ni hanterar det innan det blir bråk."
+    },
+    "passLine": "Ditt paket innehåller {count} rapporter till. Gör ett annat test så låses rapporten upp på resultatsidan. På en annan enhet öppnar du först den här länken: {link}",
+    "passLineAll": "Ditt allt-i-ett-pass låser upp varje rapport. Gör ett test så låses rapporten upp på resultatsidan. På en annan enhet öppnar du först den här länken: {link}"
   },
   "footer": {
     "tagline": "Lär känna dig själv bättre",
@@ -278,7 +306,7 @@
     "termsTitle": "Användarvillkor",
     "termsBody": [
       "Alla tester på {site} är avsedda för självreflektion och underhållning. De utgör ingen medicinsk, psykologisk eller annan professionell diagnos.",
-      "Det är gratis att göra ett test. En personlig rapport kostar {price} per test som en engångsbetalning. Rapporten levereras digitalt via e-post.",
+      "Att göra ett test är gratis. En personlig rapport kostar {price} per test som en engångsbetalning. Du kan också köpa ett paket med 3 rapporter, ett pass för alla rapporter eller en parrapport som jämför två personer som gjort samma test. Även det är engångsbetalningar. Rapporterna levereras digitalt via e-post.",
       "Eftersom rapporten är digitalt innehåll som levereras direkt efter betalning godkänner du att din ångerrätt upphör när rapporten har skickats. Om du inte har fått din rapport, kontakta {email} så skickar vi den igen eller betalar tillbaka pengarna.",
       "Vi gör vårt bästa för att hålla innehållet korrekt, men vi kan inte garantera att resultaten är fullständiga eller riktiga för varje person."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Återbetalningspolicy",
     "refundBody": [
-      "En rapport kostar {price} per test som en engångsbetalning. Det finns ingen prenumeration och ingen automatisk förnyelse.",
+      "En rapport kostar {price} per test som en engångsbetalning. Paket, allt-i-ett-passet och parrapporter är också engångsbetalningar. Det finns ingen prenumeration och ingen automatisk förnyelse.",
       "Har du inte fått din rapport, eller har något gått fel? Kontakta {email} inom 14 dagar och ange e-postadressen du använde, så skickar vi rapporten igen eller betalar tillbaka din betalning.",
       "Eftersom rapporten är digitalt innehåll som levereras direkt upphör den lagstadgade ångerrätten när den har skickats. Vi hjälper dig ändå alltid om något inte stämmer.",
       "Återbetalningar görs till det ursprungliga betalningssättet inom 5–10 bankdagar."
@@ -385,5 +413,61 @@
     "accept": "Godkänn",
     "decline": "Avböj",
     "settings": "Ändra cookieinställningar"
+  },
+  "plans": {
+    "title": "Välj din rapport",
+    "single": "Den här rapporten",
+    "pack": "3 rapporter",
+    "packNote": "Den här plus 2 andra tester du väljer",
+    "all": "Alla {count} rapporter",
+    "allNote": "Varje test på sajten, lås upp dem när du vill",
+    "save": "Spara {amount}",
+    "passPack": "Ditt paket har {count} rapporter kvar",
+    "passAll": "Ditt allt-i-ett-pass är aktivt",
+    "passUnlock": "Lås upp den här rapporten gratis",
+    "passError": "Ditt paket kunde inte användas för den här rapporten. Du kan fortfarande köpa den nedan.",
+    "packProduct": "{test} + {extra} rapporter till",
+    "allProduct": "Alla {count} rapporter"
+  },
+  "couple": {
+    "inviteTitle": "Gör testet med din partner",
+    "inviteText": "Skicka en länk till din partner. Hen gör samma test gratis och ni ser båda er matchning direkt.",
+    "nameLabel": "Ditt förnamn (valfritt)",
+    "createLink": "Bjud in min partner",
+    "copy": "Kopiera länk",
+    "copied": "Länk kopierad",
+    "inviteMessage": "Gör {test} med mig så ser vi hur bra vi matchar",
+    "invitedTitle": "{name} har bjudit in dig",
+    "invitedTitleAnon": "Du har blivit inbjuden",
+    "invitedText": "Gör {test}. Efteråt ser ni båda hur bra ni matchar.",
+    "start": "Starta testet",
+    "invalid": "Den här inbjudningslänken fungerar inte. Be din partner skicka den igen.",
+    "matchTitle": "Er matchning",
+    "matchWith": "Du och {name}",
+    "partner": "din partner",
+    "bands": {
+      "high": "Stark matchning",
+      "mid": "Bra matchning med utrymme att växa",
+      "low": "Motsatser dras till varandra"
+    },
+    "shareScore": "Dela ert resultat",
+    "shareText": "Vi fick {score}% matchning i {test}. Hur bra matchar ni?",
+    "sendBackTitle": "Skicka resultatet till {name}",
+    "sendBackText": "Med den här länken ser din partner samma matchning.",
+    "unlockTitle": "Den fullständiga parrapporten",
+    "unlockText": "Se för varje egenskap var du och {name} liknar varandra, var det kan skava och vad som hjälper er båda.",
+    "includes": [
+      "Era resultat sida vid sida för varje egenskap",
+      "Var ni liknar varandra och var ni skiljer er",
+      "Vad er kombination betyder och vad som hjälper"
+    ],
+    "buy": "Få parrapporten för {price}",
+    "note": "En betalning för er båda. Rapporten kommer till din e-post så att du kan vidarebefordra den.",
+    "product": "Parrapport: {test}"
+  },
+  "passPage": {
+    "title": "Ditt paket",
+    "text": "Ditt paket är nu aktivt på den här enheten. Välj ett test så låses din rapport upp direkt.",
+    "invalid": "Den här länken fungerar inte. Kontakta oss så hjälper vi dig."
   }
 }

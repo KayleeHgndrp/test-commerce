@@ -237,7 +237,11 @@
     "spam": "10 dakika sonra hâlâ gelmedi mi? Spam veya promosyonlar klasörünüzü kontrol edin ya da {email} adresinden bize ulaşın.",
     "more": "Daha fazla test keşfedin",
     "bundleTitle": "Sonraki raporun {price}",
-    "bundleText": "Aşağıdan bir test daha seç ve {days} gün içinde tamamla. Tam raporu o zaman {full} yerine {price} olur. Bir ek rapor için geçerlidir."
+    "bundleText": "Aşağıdan bir test daha seç ve {days} gün içinde tamamla. Tam raporu o zaman {full} yerine {price} olur. Bir ek rapor için geçerlidir.",
+    "packTitle": "Paketin aktif",
+    "packText": "Başka bir test yap. Sonuç sayfasında bir sonraki raporunun kilidi yeniden ödeme yapmadan hemen açılır. Kalan: {count}.",
+    "allTitle": "Tam erişim kartın aktif",
+    "allText": "İstediğin testi yap. Sonuç sayfasında her raporun kilidi yeniden ödeme yapmadan hemen açılır."
   },
   "report": {
     "subject": "{test} raporunuz",
@@ -247,7 +251,31 @@
     "outro": "Bu raporun size faydalı içgörüler sunmasını umuyoruz. Kendinizin başka yönlerini de merak ediyor musunuz? Tüm testlerimizi {url} adresinde keşfedin.",
     "signature": "{site} ekibi",
     "instrumentLabel": "{name}: {score} / {max}",
-    "typeLabel": "Tipiniz"
+    "typeLabel": "Tipiniz",
+    "coupleSubject": "Çift raporunuz: {test}",
+    "coupleIntro": "{test} testini {site} üzerinde birlikte yaptığınız için teşekkürler. İşte sen ve {name} için çift raporu.",
+    "coupleSummary": "Bu rapor seni ve {name} kişisini {test} testinin her bölümünde karşılaştırır. Farklılık bir sorun değildir. Birbirinize nerede sabır göstermeniz gerektiğini ve nerede birbirinizden öğrenebileceğinizi gösterir.",
+    "matchLabel": "Uyumunuz",
+    "matchName": "%{score} uyum: {band}",
+    "matchText": {
+      "high": "Pek çok şeye aynı gözle bakıyorsunuz, bu da huzur ve güven verir. Farklı olduğunuz birkaç konu hakkında konuşmaya devam edin.",
+      "mid": "Sağlam bir temeliniz ve belirgin farklılıklarınız var. Biraz özenle bu farklılıklar ilişkinizi zenginleştirir.",
+      "low": "Birbirinizden oldukça farklısınız. Bu heyecan verici olduğu kadar yorucu da olabilir. Bu rapor nelere özellikle dikkat etmeniz gerektiğini gösterir."
+    },
+    "typesLine": "Senin tipin: {mine}. {name}: {theirs}.",
+    "scoreLine": "Sen: %{mine} · {name}: %{theirs}",
+    "closeness": {
+      "alike": "Benzer",
+      "some": "Kısmen benzer",
+      "different": "Farklı"
+    },
+    "closenessText": {
+      "alike": "Burada puanlarınız birbirine yakın. Bu genellikle kolay ve doğal gelir. Risk, birbirinizin kör noktalarını güçlendirmenizdir, bu yüzden ara sıra ikinizin de neyi gözden kaçırıyor olabileceğini sorun.",
+      "some": "Burada biraz farklısınız. Günlük hayatta bunu pek fark etmezsiniz ama stres altında fark daha büyük görünebilir. Ortaya çıktığında bunu açıkça söyleyin.",
+      "different": "Burada çok farklısınız. Sürtüşme genellikle burada başlar ve birbirinizden en çok burada öğrenebilirsiniz. Kavgaya dönüşmeden önce bununla nasıl başa çıkacağınız konusunda anlaşın."
+    },
+    "passLine": "Paketinde {count} rapor daha var. Başka bir test yap, rapor sonuç sayfasında açılır. Başka bir cihazda önce şu bağlantıyı aç: {link}",
+    "passLineAll": "Tam erişim kartın her raporun kilidini açar. Bir test yap, rapor sonuç sayfasında açılır. Başka bir cihazda önce şu bağlantıyı aç: {link}"
   },
   "footer": {
     "tagline": "Kendinizi daha iyi tanıyın",
@@ -278,7 +306,7 @@
     "termsTitle": "Hizmet şartları",
     "termsBody": [
       "{site} üzerindeki tüm testler kendini tanıma ve eğlence amaçlıdır. Tıbbi, psikolojik veya mesleki bir teşhis niteliği taşımazlar.",
-      "Test çözmek ücretsizdir. Kişisel rapor, test başına tek seferlik {price} ödemeyle sunulur. Rapor dijital olarak e-postayla teslim edilir.",
+      "Test yapmak ücretsizdir. Kişisel bir rapor, test başına tek seferlik {price} ödemeyle alınır. Ayrıca 3 raporluk bir paket, tüm raporlar için bir erişim kartı veya aynı testi yapan iki kişiyi karşılaştıran bir çift raporu da satın alabilirsin. Bunlar da tek seferlik ödemelerdir. Raporlar dijital olarak e-postayla teslim edilir.",
       "Rapor, ödemeden hemen sonra teslim edilen dijital içerik olduğundan, rapor gönderildiği anda cayma hakkının sona erdiğini kabul edersiniz. Raporunuzu almadıysanız {email} adresine yazın; raporu yeniden göndeririz ya da ücretinizi iade ederiz.",
       "İçeriğin doğru olması için elimizden geleni yapıyoruz, ancak sonuçların herkes için eksiksiz veya doğru olacağını garanti edemeyiz."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "İade politikası",
     "refundBody": [
-      "Bir rapor, test başına tek seferlik {price} ödemeyle sunulur. Abonelik ve otomatik yenileme yoktur.",
+      "Bir rapor, test başına tek seferlik {price} ödemeyle alınır. Paketler, tam erişim kartı ve çift raporları da tek seferlik ödemelerdir. Abonelik ve otomatik yenileme yoktur.",
       "Raporunuzu almadınız mı ya da bir sorun mu oluştu? Kullandığınız e-posta adresini belirterek 14 gün içinde {email} adresine yazın; raporunuzu yeniden gönderelim ya da ödemenizi iade edelim.",
       "Rapor anında teslim edilen dijital içerik olduğundan, yasal cayma hakkı rapor gönderildiğinde sona erer. Yine de bir sorun olursa size her zaman yardımcı oluruz.",
       "İadeler, 5–10 iş günü içinde orijinal ödeme yöntemine yapılır."
@@ -385,5 +413,61 @@
     "accept": "Kabul et",
     "decline": "Reddet",
     "settings": "Çerez ayarlarını değiştir"
+  },
+  "plans": {
+    "title": "Raporunu seç",
+    "single": "Bu rapor",
+    "pack": "3 rapor",
+    "packNote": "Bu rapor ve seçeceğin 2 test daha",
+    "all": "{count} raporun tamamı",
+    "allNote": "Sitedeki her test, istediğin zaman kilidini aç",
+    "save": "{amount} tasarruf et",
+    "passPack": "Paketinde {count} rapor kaldı",
+    "passAll": "Tam erişim kartın aktif",
+    "passUnlock": "Bu raporun kilidini ücretsiz aç",
+    "passError": "Paketin bu rapor için kullanılamadı. Raporu yine de aşağıdan satın alabilirsin.",
+    "packProduct": "{test} + {extra} rapor daha",
+    "allProduct": "{count} raporun tamamı"
+  },
+  "couple": {
+    "inviteTitle": "Bu testi partnerinle yap",
+    "inviteText": "Partnerine bir bağlantı gönder. Aynı testi ücretsiz yapar ve ikiniz de uyum puanınızı hemen görürsünüz.",
+    "nameLabel": "Adın (isteğe bağlı)",
+    "createLink": "Partnerimi davet et",
+    "copy": "Bağlantıyı kopyala",
+    "copied": "Bağlantı kopyalandı",
+    "inviteMessage": "{test} testini benimle yap, ne kadar uyumlu olduğumuzu görelim",
+    "invitedTitle": "{name} seni davet etti",
+    "invitedTitleAnon": "Davet edildin",
+    "invitedText": "{test} testini yap. Sonra ikiniz de ne kadar uyumlu olduğunuzu göreceksiniz.",
+    "start": "Teste başla",
+    "invalid": "Bu davet bağlantısı çalışmıyor. Partnerinden tekrar göndermesini iste.",
+    "matchTitle": "Uyum puanınız",
+    "matchWith": "Sen ve {name}",
+    "partner": "partnerin",
+    "bands": {
+      "high": "Güçlü uyum",
+      "mid": "Gelişmeye açık iyi uyum",
+      "low": "Zıt kutuplar birbirini çeker"
+    },
+    "shareScore": "Puanı paylaş",
+    "shareText": "{test} testinde %{score} uyumluyuz. Siz ne kadar uyumlusunuz?",
+    "sendBackTitle": "Puanı gönder: {name}",
+    "sendBackText": "Bu bağlantıyla partnerin aynı puanı görür.",
+    "unlockTitle": "Tam çift raporu",
+    "unlockText": "Her özellikte sen ve {name} nerede benzediğinizi, nerede sürtüşme olabileceğini ve ikinize neyin iyi geldiğini gör.",
+    "includes": [
+      "Her özellik için puanlarınız yan yana",
+      "Nerede benzediğiniz ve nerede farklı olduğunuz",
+      "Kombinasyonunuzun anlamı ve neyin yardımcı olduğu"
+    ],
+    "buy": "Çift raporunu {price} karşılığında al",
+    "note": "İkiniz için tek ödeme. Rapor e-postana gelir, böylece iletebilirsin.",
+    "product": "Çift raporu: {test}"
+  },
+  "passPage": {
+    "title": "Paketin",
+    "text": "Paketin artık bu cihazda aktif. Bir test seç, raporunun kilidi hemen açılır.",
+    "invalid": "Bu bağlantı çalışmıyor. Bize ulaş, yardımcı olalım."
   }
 }

@@ -140,5 +140,17 @@
       "name": "Craintif-évitant",
       "text": "Vos réponses suggèrent un style craintif-évitant. Vous aspirez peut-être à la proximité tout en la redoutant, si bien que les relations peuvent sembler déroutantes : vous allez vers les gens, puis vous reculez quand cela devient intense. La peur du rejet et l'inconfort à dépendre des autres peuvent coexister. Ce style naît souvent d'expériences où la proximité ne paraissait pas sûre, et il n'y a là aucune honte. Soyez doux avec vous-même et recherchez des relations stables et prévisibles. Apprendre à remarquer et à nommer vos émotions aide beaucoup. Travailler avec un thérapeute qualifié peut être particulièrement précieux pour construire une façon plus sécure de vous lier aux autres."
     }
+  },
+  "couple": {
+    "secure+secure": "Deux partenaires sécures se donnent espace et proximité sans grand effort. Les conflits dégénèrent rarement, car vous avez tous les deux confiance dans la solidité du lien.",
+    "anxious+secure": "Le partenaire sécure offre la présence stable dont le partenaire anxieux a besoin. Des paroles rassurantes claires et des rituels fixes aident le partenaire anxieux à se détendre avec le temps.",
+    "avoidant+secure": "Le partenaire sécure peut laisser de l'espace au partenaire évitant sans se sentir rejeté. De petits moments de proximité sans pression aident le partenaire évitant à s'ouvrir.",
+    "fearful+secure": "Le partenaire sécure offre une base sûre, que le partenaire craintif désire et redoute à la fois. La patience et la constance comptent plus que les grands gestes.",
+    "anxious+anxious": "Vous avez tous les deux besoin de proximité et comprenez ce besoin chez l'autre. Sous stress, vous pouvez nourrir les inquiétudes de l'autre, alors calmez-vous d'abord avant d'en discuter.",
+    "anxious+avoidant": "C'est le jeu du chat et de la souris le plus connu : l'un cherche la proximité, l'autre se retire, ce qui pousse le premier à insister encore plus. Reconnaître ce schéma ensemble est le premier pas pour en sortir.",
+    "anxious+fearful": "Vous ressentez tous les deux beaucoup et craignez de perdre l'autre. Cela peut être très intense. Convenez de signaux clairs pour quand l'un de vous a besoin d'être rassuré ou d'un moment seul.",
+    "avoidant+avoidant": "Vous tenez tous les deux à votre indépendance et vous étouffez rarement. Le risque est la distance : des sentiments importants restent non dits. Prévoyez des moments pour vraiment parler.",
+    "avoidant+fearful": "L'un garde ses distances, l'autre oscille entre proximité et retrait. Vous pouvez ainsi vous sentir tous les deux incompris. Dites à voix haute ce dont vous avez besoin, même si c'est gênant.",
+    "fearful+fearful": "Vous reconnaissez chez l'autre le désir de proximité et la peur qu'elle inspire. Cela peut créer une compréhension profonde et aussi du chaos. Une routine stable et, si besoin, une aide extérieure vous aident tous les deux."
   }
 }

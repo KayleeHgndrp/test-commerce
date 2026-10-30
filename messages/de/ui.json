@@ -237,7 +237,11 @@
     "spam": "Nach 10 Minuten noch nichts erhalten? Schau in deinem Spam- oder Werbeordner nach oder schreib uns an {email}.",
     "more": "Weitere Tests entdecken",
     "bundleTitle": "Dein nächster Bericht für {price}",
-    "bundleText": "Wähle unten einen weiteren Test und mach ihn innerhalb von {days} Tagen. Der vollständige Bericht kostet dann {price} statt {full}. Gültig für einen weiteren Bericht."
+    "bundleText": "Wähle unten einen weiteren Test und mach ihn innerhalb von {days} Tagen. Der vollständige Bericht kostet dann {price} statt {full}. Gültig für einen weiteren Bericht.",
+    "packTitle": "Dein Paket ist aktiv",
+    "packText": "Mach einen anderen Test. Auf der Ergebnisseite wird dein nächster Bericht sofort freigeschaltet, ohne erneut zu zahlen. Übrig: {count}.",
+    "allTitle": "Dein Alles-Pass ist aktiv",
+    "allText": "Mach einen beliebigen Test. Auf der Ergebnisseite wird jeder Bericht sofort freigeschaltet, ohne erneut zu zahlen."
   },
   "report": {
     "subject": "Dein Bericht: {test}",
@@ -247,7 +251,31 @@
     "outro": "Wir hoffen, dieser Bericht gibt dir hilfreiche Einblicke. Neugierig auf andere Seiten an dir? Entdecke alle unsere Tests auf {url}.",
     "signature": "Dein {site}-Team",
     "instrumentLabel": "{name}: {score} von {max}",
-    "typeLabel": "Dein Typ"
+    "typeLabel": "Dein Typ",
+    "coupleSubject": "Euer Paarbericht: {test}",
+    "coupleIntro": "Danke, dass ihr den {test} gemeinsam auf {site} gemacht habt. Hier ist der Paarbericht für dich und {name}.",
+    "coupleSummary": "Dieser Bericht vergleicht dich und {name} in jedem Teil des {test}. Ein Unterschied ist kein Problem. Er zeigt, wo ihr Geduld miteinander braucht und wo ihr voneinander lernen könnt.",
+    "matchLabel": "Euer Match",
+    "matchName": "{score}% Match: {band}",
+    "matchText": {
+      "high": "Ihr seht vieles gleich, und das gibt Ruhe und Vertrauen. Redet weiter über die wenigen Punkte, in denen ihr euch unterscheidet.",
+      "mid": "Ihr habt eine solide Basis und auch klare Unterschiede. Mit etwas Aufmerksamkeit machen diese Unterschiede eure Beziehung reicher.",
+      "low": "Ihr seid ziemlich verschieden. Das kann spannend und auch anstrengend sein. Dieser Bericht zeigt, worauf ihr besonders achten könnt."
+    },
+    "typesLine": "Dein Typ: {mine}. {name}: {theirs}.",
+    "scoreLine": "Du: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Ähnlich",
+      "some": "Teilweise ähnlich",
+      "different": "Verschieden"
+    },
+    "closenessText": {
+      "alike": "Ihr liegt hier nah beieinander. Das fühlt sich meist leicht und selbstverständlich an. Das Risiko ist, dass ihr eure blinden Flecken gegenseitig verstärkt, also fragt ab und zu, was ihr beide übersehen könntet.",
+      "some": "Ihr unterscheidet euch hier ein wenig. Im Alltag merkt ihr das kaum, aber unter Stress kann sich der Abstand größer anfühlen. Sprecht es offen an, wenn es auftaucht.",
+      "different": "Ihr unterscheidet euch hier stark. Hier beginnt oft Reibung, und hier könnt ihr auch am meisten voneinander lernen. Vereinbart, wie ihr damit umgeht, bevor es zum Streit wird."
+    },
+    "passLine": "Dein Paket enthält noch {count} Berichte. Mach einen anderen Test und der Bericht wird auf der Ergebnisseite freigeschaltet. Auf einem anderen Gerät öffne zuerst diesen Link: {link}",
+    "passLineAll": "Dein Alles-Pass schaltet jeden Bericht frei. Mach einen Test und der Bericht wird auf der Ergebnisseite freigeschaltet. Auf einem anderen Gerät öffne zuerst diesen Link: {link}"
   },
   "footer": {
     "tagline": "Lerne dich besser kennen",
@@ -278,7 +306,7 @@
     "termsTitle": "Nutzungsbedingungen",
     "termsBody": [
       "Alle Tests auf {site} dienen der Selbstreflexion und Unterhaltung. Sie sind keine medizinische, psychologische oder sonstige fachliche Diagnose.",
-      "Einen Test zu machen ist kostenlos. Ein persönlicher Bericht kostet {price} pro Test als Einmalzahlung. Der Bericht wird digital per E-Mail geliefert.",
+      "Einen Test zu machen ist kostenlos. Ein persönlicher Bericht kostet {price} pro Test als einmalige Zahlung. Du kannst auch ein Paket mit 3 Berichten kaufen, einen Pass für alle Berichte oder einen Paarbericht, der zwei Personen vergleicht, die denselben Test gemacht haben. Auch das sind einmalige Zahlungen. Berichte werden digital per E-Mail geliefert.",
       "Da der Bericht ein digitaler Inhalt ist, der unmittelbar nach der Zahlung geliefert wird, stimmst du zu, dass dein Widerrufsrecht erlischt, sobald der Bericht versendet wurde. Wenn du deinen Bericht nicht erhalten hast, schreib an {email} – wir senden ihn erneut oder erstatten dir den Betrag.",
       "Wir bemühen uns, die Inhalte korrekt zu halten, können aber nicht garantieren, dass die Ergebnisse für jede Person vollständig oder zutreffend sind."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Erstattungsrichtlinie",
     "refundBody": [
-      "Ein Bericht kostet {price} pro Test als Einmalzahlung. Es gibt kein Abo und keine automatische Verlängerung.",
+      "Ein Bericht kostet {price} pro Test als einmalige Zahlung. Pakete, der Alles-Pass und Paarberichte sind ebenfalls einmalige Zahlungen. Es gibt kein Abo und keine automatische Verlängerung.",
       "Du hast deinen Bericht nicht erhalten oder etwas ist schiefgelaufen? Schreib innerhalb von 14 Tagen an {email} und nenne die verwendete E-Mail-Adresse – wir senden deinen Bericht erneut oder erstatten deine Zahlung.",
       "Da der Bericht ein digitaler Inhalt ist, der sofort geliefert wird, erlischt das gesetzliche Widerrufsrecht mit dem Versand. Wenn etwas nicht stimmt, helfen wir dir trotzdem immer weiter.",
       "Erstattungen erfolgen innerhalb von 5–10 Werktagen auf das ursprüngliche Zahlungsmittel."
@@ -385,5 +413,61 @@
     "accept": "Akzeptieren",
     "decline": "Ablehnen",
     "settings": "Cookie-Einstellungen ändern"
+  },
+  "plans": {
+    "title": "Wähle deinen Bericht",
+    "single": "Dieser Bericht",
+    "pack": "3 Berichte",
+    "packNote": "Dieser plus 2 weitere Tests deiner Wahl",
+    "all": "Alle {count} Berichte",
+    "allNote": "Jeder Test der Seite, freischalten wann du willst",
+    "save": "Spare {amount}",
+    "passPack": "Dein Paket hat noch {count} Berichte",
+    "passAll": "Dein Alles-Pass ist aktiv",
+    "passUnlock": "Diesen Bericht kostenlos freischalten",
+    "passError": "Dein Paket konnte für diesen Bericht nicht verwendet werden. Du kannst ihn unten trotzdem kaufen.",
+    "packProduct": "{test} + {extra} weitere Berichte",
+    "allProduct": "Alle {count} Berichte"
+  },
+  "couple": {
+    "inviteTitle": "Mach diesen Test mit deinem Partner",
+    "inviteText": "Schick deinem Partner einen Link. Er oder sie macht denselben Test kostenlos und ihr seht beide sofort euren Match-Score.",
+    "nameLabel": "Dein Vorname (optional)",
+    "createLink": "Partner einladen",
+    "copy": "Link kopieren",
+    "copied": "Link kopiert",
+    "inviteMessage": "Mach den {test} mit mir und lass uns sehen, wie gut wir zusammenpassen",
+    "invitedTitle": "{name} hat dich eingeladen",
+    "invitedTitleAnon": "Du wurdest eingeladen",
+    "invitedText": "Mach den {test}. Danach seht ihr beide, wie gut ihr zusammenpasst.",
+    "start": "Test starten",
+    "invalid": "Dieser Einladungslink funktioniert nicht. Bitte deinen Partner, ihn noch einmal zu schicken.",
+    "matchTitle": "Euer Match-Score",
+    "matchWith": "Du und {name}",
+    "partner": "dein Partner",
+    "bands": {
+      "high": "Starkes Match",
+      "mid": "Gutes Match mit Luft nach oben",
+      "low": "Gegensätze ziehen sich an"
+    },
+    "shareScore": "Score teilen",
+    "shareText": "Wir haben {score}% Match beim {test}. Wie gut passt ihr zusammen?",
+    "sendBackTitle": "Schick den Score an {name}",
+    "sendBackText": "Mit diesem Link sieht dein Partner denselben Match-Score.",
+    "unlockTitle": "Der vollständige Paarbericht",
+    "unlockText": "Sieh für jede Eigenschaft, wo du und {name} euch ähnlich seid, wo es reiben kann und was euch beiden hilft.",
+    "includes": [
+      "Eure Werte nebeneinander für jede Eigenschaft",
+      "Wo ihr euch ähnelt und wo ihr euch unterscheidet",
+      "Was eure Kombination bedeutet und was hilft"
+    ],
+    "buy": "Paarbericht für {price} holen",
+    "note": "Eine Zahlung für euch beide. Der Bericht kommt per E-Mail, so kannst du ihn weiterleiten.",
+    "product": "Paarbericht: {test}"
+  },
+  "passPage": {
+    "title": "Dein Paket",
+    "text": "Dein Paket ist jetzt auf diesem Gerät aktiv. Wähle einen Test und dein Bericht wird sofort freigeschaltet.",
+    "invalid": "Dieser Link funktioniert nicht. Kontaktiere uns, wir helfen dir."
   }
 }

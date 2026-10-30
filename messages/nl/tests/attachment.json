@@ -140,5 +140,17 @@
       "name": "Angstig-vermijdend",
       "text": "Je antwoorden wijzen op een angstig-vermijdende stijl. Misschien verlang je naar nabijheid en ben je er tegelijk bang voor, waardoor relaties verwarrend kunnen voelen: je beweegt naar mensen toe en trekt je terug als het intens wordt. Zorgen over afwijzing en ongemak bij afhankelijkheid kunnen naast elkaar bestaan. Deze stijl groeit vaak uit ervaringen waarin nabijheid niet veilig voelde, en het is niets om je voor te schamen. Wees mild voor jezelf en zoek stabiele, voorspelbare relaties. Leren je gevoelens op te merken en te benoemen helpt veel. Werken met een gekwalificeerde therapeut kan bijzonder waardevol zijn om een veiligere manier van verbinden op te bouwen."
     }
+  },
+  "couple": {
+    "secure+secure": "Twee veilig gehechte partners geven elkaar zonder veel moeite ruimte en nabijheid. Conflicten lopen zelden uit de hand, omdat jullie allebei vertrouwen dat de band het aankan.",
+    "anxious+secure": "De veilige partner biedt de stabiele aanwezigheid waar de angstige partner naar verlangt. Duidelijke geruststelling en vaste rituelen helpen de angstige partner om op den duur te ontspannen.",
+    "avoidant+secure": "De veilige partner kan de vermijdende partner ruimte geven zonder zich afgewezen te voelen. Kleine momenten van nabijheid zonder druk helpen de vermijdende partner om zich open te stellen.",
+    "fearful+secure": "De veilige partner biedt een veilige basis, iets wat de angstig-vermijdende partner zowel wil als eng vindt. Geduld en voorspelbaarheid tellen meer dan grote gebaren.",
+    "anxious+anxious": "Jullie verlangen allebei naar nabijheid en begrijpen die behoefte bij elkaar. Onder stress kunnen jullie elkaars zorgen voeden, dus kalmeer elkaar eerst voordat jullie iets uitpraten.",
+    "anxious+avoidant": "Dit is het bekendste aantrekken en afstoten: de een zoekt nabijheid, de ander trekt zich terug, waardoor de eerste nog harder trekt. Dit patroon samen herkennen is de eerste stap om het te doorbreken.",
+    "anxious+fearful": "Jullie voelen allebei veel en zijn bang de ander kwijt te raken. Dat kan heel intens voelen. Spreek duidelijke signalen af voor wanneer een van jullie geruststelling of even tijd alleen nodig heeft.",
+    "avoidant+avoidant": "Jullie hechten allebei aan onafhankelijkheid en zitten elkaar zelden op de lip. Het risico is afstand: belangrijke gevoelens blijven onuitgesproken. Plan momenten om echt te praten.",
+    "avoidant+fearful": "De een houdt afstand, de ander schommelt tussen nabijheid en terugtrekken. Daardoor kunnen jullie je allebei niet gezien voelen. Zeg hardop wat je nodig hebt, ook als dat ongemakkelijk voelt.",
+    "fearful+fearful": "Jullie herkennen bij elkaar het verlangen naar en de angst voor nabijheid. Dat kan diep begrip geven en ook chaos. Een vaste routine en zo nodig hulp van buitenaf helpen jullie allebei."
   }
 }

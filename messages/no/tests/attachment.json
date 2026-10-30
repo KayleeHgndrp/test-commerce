@@ -140,5 +140,17 @@
       "name": "Fryktsom-unngående",
       "text": "Svarene dine tyder på en fryktsom-unngående stil. Du lengter kanskje etter nærhet samtidig som du frykter den, så relasjoner kan føles forvirrende: Du nærmer deg folk og trekker deg så tilbake når det blir intenst. Bekymring for avvisning og ubehag ved å være avhengig av andre kan eksistere side om side. Denne stilen vokser ofte ut av erfaringer der nærhet ikke føltes trygt, og det er ingenting å skamme seg over. Vær mild mot deg selv, og søk deg mot stabile, forutsigbare relasjoner. Å lære å legge merke til og sette ord på følelsene dine hjelper mye. Å jobbe med en kvalifisert terapeut kan være særlig verdifullt for å bygge en tryggere måte å knytte bånd på."
     }
+  },
+  "couple": {
+    "secure+secure": "To trygge partnere gir hverandre rom og nærhet uten stor innsats. Konflikter løper sjelden løpsk, fordi dere begge stoler på at forholdet tåler det.",
+    "anxious+secure": "Den trygge partneren gir den stabile tilstedeværelsen den engstelige partneren lengter etter. Tydelig beroligelse og faste ritualer hjelper den engstelige partneren å slappe av over tid.",
+    "avoidant+secure": "Den trygge partneren kan gi den unnvikende partneren rom uten å føle seg avvist. Små øyeblikk av nærhet uten press hjelper den unnvikende partneren å åpne seg.",
+    "fearful+secure": "Den trygge partneren gir en trygg base, som den fryktsomme partneren både ønsker og frykter. Tålmodighet og forutsigbarhet betyr mer enn store gester.",
+    "anxious+anxious": "Dere lengter begge etter nærhet og forstår det behovet hos hverandre. Under stress kan dere nøre opp under hverandres bekymringer, så roe hverandre ned først før dere snakker ut.",
+    "anxious+avoidant": "Dette er den mest kjente dragkampen: den ene søker nærhet, den andre trekker seg unna, og da presser den første enda mer. Å kjenne igjen mønsteret sammen er første steg for å bryte det.",
+    "anxious+fearful": "Dere føler begge mye og er redde for å miste den andre. Det kan føles svært intenst. Avtal tydelige signaler for når en av dere trenger beroligelse eller litt tid alene.",
+    "avoidant+avoidant": "Dere verdsetter begge selvstendighet og kveler sjelden hverandre. Risikoen er avstand: viktige følelser blir usagt. Planlegg stunder for å virkelig snakke sammen.",
+    "avoidant+fearful": "Den ene holder avstand, den andre svinger mellom nærhet og tilbaketrekning. Det kan få dere begge til å føle dere usett. Si høyt hva dere trenger, også når det føles kleint.",
+    "fearful+fearful": "Dere kjenner igjen lengselen etter nærhet og frykten for den hos hverandre. Det kan gi dyp forståelse og også kaos. En fast rutine og ved behov hjelp utenfra hjelper dere begge."
   }
 }

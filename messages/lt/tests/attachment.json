@@ -140,5 +140,17 @@
       "name": "Baimingas-vengiantis",
       "text": "Jūsų atsakymai rodo baimingą-vengiantį stilių. Galite trokšti artumo ir kartu jo bijoti, todėl santykiai gali atrodyti painūs: artėjate prie žmonių, o kai tampa intensyvu, atsitraukiate. Atstūmimo baimė ir nepatogumas priklausyti nuo kitų gali egzistuoti greta. Šis stilius dažnai išauga iš patirčių, kai artumas neatrodė saugus, ir tai nėra ko gėdytis. Būkite sau švelnūs ir ieškokite stabilių, nuspėjamų santykių. Labai padeda mokymasis pastebėti ir įvardyti savo jausmus. Darbas su kvalifikuotu psichoterapeutu gali būti ypač vertingas kuriant saugesnį ryšio būdą."
     }
+  },
+  "couple": {
+    "secure+secure": "Du saugiai prieraišūs partneriai be didelių pastangų suteikia vienas kitam erdvės ir artumo. Konfliktai retai išsprūsta iš rankų, nes abu pasitikite, kad ryšys tai atlaikys.",
+    "anxious+secure": "Saugus partneris suteikia stabilų buvimą šalia, kurio ilgisi nerimastingas partneris. Aiškus nuraminimas ir pastovūs ritualai padeda nerimastingam partneriui ilgainiui atsipalaiduoti.",
+    "avoidant+secure": "Saugus partneris gali suteikti vengiančiam partneriui erdvės nesijausdamas atstumtas. Maži artumo momentai be spaudimo padeda vengiančiam partneriui atsiverti.",
+    "fearful+secure": "Saugus partneris siūlo saugų pagrindą, kurio baimingas partneris ir trokšta, ir bijo. Kantrybė ir nuspėjamumas reiškia daugiau nei dideli gestai.",
+    "anxious+anxious": "Abu ilgitės artumo ir suprantate šį poreikį vienas kitame. Patiriant stresą galite maitinti vienas kito nerimą, todėl pirmiausia nusiraminkite, o tik tada aptarkite reikalus.",
+    "anxious+avoidant": "Tai žinomiausias traukimas ir stūmimas: vienas ieško artumo, kitas traukiasi, todėl pirmasis spaudžia dar labiau. Kartu atpažinti šį modelį yra pirmas žingsnis jį nutraukti.",
+    "anxious+fearful": "Abu daug jaučiate ir bijote prarasti kitą. Tai gali būti labai intensyvu. Susitarkite dėl aiškių ženklų, kai vienam iš jūsų reikia nuraminimo ar akimirkos vienumos.",
+    "avoidant+avoidant": "Abu vertinate nepriklausomybę ir retai vienas kitą slegiate. Rizika yra atstumas: svarbūs jausmai lieka neišsakyti. Planuokite laiką tikriems pokalbiams.",
+    "avoidant+fearful": "Vienas laikosi atstumo, kitas svyruoja tarp artumo ir pasitraukimo. Taip abu galite jaustis nepastebėti. Garsiai sakykite, ko jums reikia, net jei tai nepatogu.",
+    "fearful+fearful": "Atpažįstate vienas kitame artumo ilgesį ir jo baimę. Tai gali sukurti gilų supratimą ir chaosą. Pastovi rutina ir, jei reikia, pagalba iš šalies padeda jums abiem."
   }
 }

@@ -15,6 +15,14 @@ export const site = {
   // Price of a second report bought within bundleDays of a paid order.
   bundlePriceCents: Number(process.env.NEXT_PUBLIC_BUNDLE_PRICE_CENTS ?? 195),
   bundleDays: 7,
+  // Pack of packSize reports: the one bought now plus credits for other tests.
+  packPriceCents: Number(process.env.NEXT_PUBLIC_PACK_PRICE_CENTS ?? 795),
+  packSize: 3,
+  // One-time pass that unlocks the report of every test.
+  allPriceCents: Number(process.env.NEXT_PUBLIC_ALL_PRICE_CENTS ?? 1495),
+  // Couple report that compares two people who took the same test.
+  couplePriceCents: Number(process.env.NEXT_PUBLIC_COUPLE_PRICE_CENTS ?? 595),
+  coupleTests: ["attachment", "love-style", "big-five"],
   // Google Analytics 4 measurement ID. Public by design; loads only after cookie consent.
   gaId: process.env.NEXT_PUBLIC_GA_ID || "G-Z486VT99NP",
   currency: (process.env.NEXT_PUBLIC_REPORT_CURRENCY ?? "eur").toLowerCase(),

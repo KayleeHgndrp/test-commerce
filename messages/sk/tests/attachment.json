@@ -140,5 +140,17 @@
       "name": "Bojazlivo vyhýbavý",
       "text": "Vaše odpovede naznačujú bojazlivo vyhýbavý štýl. Možno túžite po blízkosti a zároveň sa jej bojíte, takže vzťahy môžu pôsobiť zmätočne: k ľuďom sa priblížite a potom sa stiahnete, keď sa to stane intenzívnym. Obava z odmietnutia a nepohodlie pri závislosti od iných môžu existovať vedľa seba. Tento štýl často vyrastá zo skúseností, v ktorých blízkosť nebola bezpečná, a nie je sa za čo hanbiť. Správajte sa k sebe jemne a hľadajte stabilné, predvídateľné vzťahy. Veľmi pomáha naučiť sa svoje pocity všímať si a pomenovať ich. Spolupráca s kvalifikovaným terapeutom môže byť obzvlášť cenná pri budovaní istejšieho spôsobu, ako sa spájať s druhými."
     }
+  },
+  "couple": {
+    "secure+secure": "Dvaja isto pripútaní partneri si bez veľkej námahy dávajú priestor aj blízkosť. Konflikty sa málokedy vymknú spod kontroly, pretože obaja veríte, že to vzťah vydrží.",
+    "anxious+secure": "Istý partner ponúka stabilnú prítomnosť, po ktorej úzkostný partner túži. Jasné uistenie a pevné rituály pomáhajú úzkostnému partnerovi časom sa uvoľniť.",
+    "avoidant+secure": "Istý partner dokáže vyhýbavému partnerovi dať priestor bez toho, aby sa cítil odmietnutý. Malé chvíle blízkosti bez tlaku pomáhajú vyhýbavému partnerovi otvoriť sa.",
+    "fearful+secure": "Istý partner ponúka bezpečný základ, po ktorom bojazlivý partner túži a zároveň sa ho bojí. Trpezlivosť a predvídateľnosť znamenajú viac než veľké gestá.",
+    "anxious+anxious": "Obaja túžite po blízkosti a rozumiete tejto potrebe u toho druhého. V strese môžete navzájom prikrmovať svoje obavy, preto sa najprv upokojte a potom to preberte.",
+    "anxious+avoidant": "Toto je najznámejšie priťahovanie a odstrkovanie: jeden hľadá blízkosť, druhý sa sťahuje, a tak prvý tlačí ešte viac. Spoločne tento vzorec rozpoznať je prvý krok k jeho prelomeniu.",
+    "anxious+fearful": "Obaja veľa cítite a bojíte sa, že toho druhého stratíte. To môže byť veľmi intenzívne. Dohodnite si jasné signály, kedy jeden z vás potrebuje uistenie alebo chvíľu osamote.",
+    "avoidant+avoidant": "Obaja si ceníte nezávislosť a málokedy sa dusíte. Rizikom je odstup: dôležité pocity zostávajú nevyslovené. Plánujte si chvíle na skutočný rozhovor.",
+    "avoidant+fearful": "Jeden drží odstup, druhý kolíše medzi blízkosťou a stiahnutím. Obaja sa tak môžete cítiť nepovšimnutí. Hovorte nahlas, čo potrebujete, aj keď je to nepríjemné.",
+    "fearful+fearful": "Spoznávate u seba navzájom túžbu po blízkosti aj strach z nej. To môže priniesť hlboké porozumenie aj chaos. Pevná rutina a v prípade potreby pomoc zvonku pomáhajú vám obom."
   }
 }

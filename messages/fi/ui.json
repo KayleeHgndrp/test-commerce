@@ -237,7 +237,11 @@
     "spam": "Eikö raporttia ole kuulunut 10 minuutissa? Tarkista roskaposti- tai mainoskansio tai ota meihin yhteyttä: {email}.",
     "more": "Tutustu muihin testeihin",
     "bundleTitle": "Seuraava raporttisi hintaan {price}",
-    "bundleText": "Valitse alta toinen testi ja tee se {days} päivän kuluessa. Sen täysi raportti maksaa silloin {price} hinnan {full} sijaan. Koskee yhtä lisäraporttia."
+    "bundleText": "Valitse alta toinen testi ja tee se {days} päivän kuluessa. Sen täysi raportti maksaa silloin {price} hinnan {full} sijaan. Koskee yhtä lisäraporttia.",
+    "packTitle": "Pakettisi on käytössä",
+    "packText": "Tee toinen testi. Tulossivulla seuraava raporttisi avautuu heti ilman uutta maksua. Jäljellä: {count}.",
+    "allTitle": "Kaikkien raporttien passisi on käytössä",
+    "allText": "Tee mikä tahansa testi. Tulossivulla jokainen raportti avautuu heti ilman uutta maksua."
   },
   "report": {
     "subject": "Raporttisi: {test}",
@@ -247,7 +251,31 @@
     "outro": "Toivomme, että raportti antaa sinulle hyödyllisiä oivalluksia. Kiinnostavatko muut puolesi? Tutustu kaikkiin testeihimme osoitteessa {url}.",
     "signature": "{site}-tiimi",
     "instrumentLabel": "{name}: {score}/{max}",
-    "typeLabel": "Tyyppisi"
+    "typeLabel": "Tyyppisi",
+    "coupleSubject": "Teidän pariraporttinne: {test}",
+    "coupleIntro": "Kiitos, että teitte testin {test} yhdessä sivustolla {site}. Tässä on pariraportti sinulle ja henkilölle {name}.",
+    "coupleSummary": "Tämä raportti vertaa sinua ja henkilöä {name} testin {test} jokaisessa osassa. Ero ei ole ongelma. Se näyttää, missä tarvitsette kärsivällisyyttä toisianne kohtaan ja missä voitte oppia toisiltanne.",
+    "matchLabel": "Yhteensopivuutenne",
+    "matchName": "{score}% yhteensopivuus: {band}",
+    "matchText": {
+      "high": "Näette monet asiat samalla tavalla, mikä tuo rauhaa ja luottamusta. Jatkakaa puhumista niistä harvoista asioista, joissa eroatte.",
+      "mid": "Teillä on vakaa pohja ja myös selviä eroja. Pienellä huomiolla nämä erot rikastuttavat suhdettanne.",
+      "low": "Olette melko erilaisia. Se voi olla jännittävää ja myös väsyttävää. Tämä raportti näyttää, mihin kannattaa kiinnittää erityistä huomiota."
+    },
+    "typesLine": "Sinun tyyppisi: {mine}. {name}: {theirs}.",
+    "scoreLine": "Sinä: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Samanlaisia",
+      "some": "Osittain samanlaisia",
+      "different": "Erilaisia"
+    },
+    "closenessText": {
+      "alike": "Tässä tuloksenne ovat lähellä toisiaan. Se tuntuu yleensä helpolta ja luontevalta. Riskinä on, että vahvistatte toistenne sokeita pisteitä, joten kysykää välillä, mitä saatatte molemmat ohittaa.",
+      "some": "Tässä eroatte hieman. Arjessa sitä tuskin huomaa, mutta stressissä ero voi tuntua suuremmalta. Sanokaa se ääneen, kun se tulee esiin.",
+      "different": "Tässä eroatte paljon. Usein juuri tästä hiertäminen alkaa, ja juuri tässä voitte oppia toisiltanne eniten. Sopikaa, miten käsittelette asiaa, ennen kuin siitä tulee riita."
+    },
+    "passLine": "Paketissasi on vielä {count} raporttia. Tee toinen testi, niin raportti avautuu tulossivulla. Toisella laitteella avaa ensin tämä linkki: {link}",
+    "passLineAll": "Kaikkien raporttien passi avaa jokaisen raportin. Tee testi, niin raportti avautuu tulossivulla. Toisella laitteella avaa ensin tämä linkki: {link}"
   },
   "footer": {
     "tagline": "Tunne itsesi paremmin",
@@ -278,7 +306,7 @@
     "termsTitle": "Käyttöehdot",
     "termsBody": [
       "Kaikki {site}-palvelun testit on tarkoitettu itsereflektioon ja viihteeksi. Ne eivät ole lääketieteellinen, psykologinen tai muu ammatillinen diagnoosi.",
-      "Testin tekeminen on ilmaista. Henkilökohtainen raportti maksaa {price} testiltä kertamaksuna. Raportti toimitetaan digitaalisesti sähköpostitse.",
+      "Testin tekeminen on ilmaista. Henkilökohtainen raportti maksaa {price} testiä kohden kertamaksuna. Voit myös ostaa 3 raportin paketin, passin kaikkiin raportteihin tai pariraportin, joka vertaa kahta saman testin tehnyttä ihmistä. Nekin ovat kertamaksuja. Raportit toimitetaan digitaalisesti sähköpostilla.",
       "Koska raportti on digitaalista sisältöä, joka toimitetaan heti maksun jälkeen, hyväksyt, että peruuttamisoikeutesi päättyy, kun raportti on lähetetty. Jos et saanut raporttiasi, ota yhteyttä osoitteeseen {email}, niin lähetämme sen uudelleen tai palautamme rahasi.",
       "Pyrimme pitämään sisällön paikkansapitävänä, mutta emme voi taata, että tulokset ovat täydellisiä tai oikeita jokaisen kohdalla."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Palautuskäytäntö",
     "refundBody": [
-      "Raportti maksaa {price} testiltä kertamaksuna. Tilausta tai automaattista uusimista ei ole.",
+      "Raportti maksaa {price} testiä kohden kertamaksuna. Myös paketit, kaikkien raporttien passi ja pariraportit ovat kertamaksuja. Tilausta tai automaattista uusimista ei ole.",
       "Etkö saanut raporttiasi, tai menikö jokin vikaan? Ota 14 päivän kuluessa yhteyttä osoitteeseen {email} ja kerro käyttämäsi sähköpostiosoite, niin lähetämme raportin uudelleen tai palautamme maksusi.",
       "Koska raportti on heti toimitettavaa digitaalista sisältöä, lakisääteinen peruuttamisoikeus päättyy, kun raportti on lähetetty. Autamme sinua silti aina, jos jokin ei ole kunnossa.",
       "Palautukset maksetaan alkuperäiselle maksutavalle 5–10 arkipäivän kuluessa."
@@ -385,5 +413,61 @@
     "accept": "Hyväksy",
     "decline": "Hylkää",
     "settings": "Muuta evästeasetuksia"
+  },
+  "plans": {
+    "title": "Valitse raporttisi",
+    "single": "Tämä raportti",
+    "pack": "3 raporttia",
+    "packNote": "Tämä ja 2 muuta valitsemaasi testiä",
+    "all": "Kaikki {count} raporttia",
+    "allNote": "Sivuston jokainen testi, avaa ne milloin haluat",
+    "save": "Säästä {amount}",
+    "passPack": "Paketissasi on jäljellä {count} raporttia",
+    "passAll": "Kaikkien raporttien passisi on käytössä",
+    "passUnlock": "Avaa tämä raportti ilmaiseksi",
+    "passError": "Pakettiasi ei voitu käyttää tähän raporttiin. Voit silti ostaa sen alta.",
+    "packProduct": "{test} + {extra} raporttia lisää",
+    "allProduct": "Kaikki {count} raporttia"
+  },
+  "couple": {
+    "inviteTitle": "Tee tämä testi kumppanisi kanssa",
+    "inviteText": "Lähetä kumppanillesi linkki. Hän tekee saman testin ilmaiseksi, ja näette molemmat yhteensopivuutenne heti.",
+    "nameLabel": "Etunimesi (vapaaehtoinen)",
+    "createLink": "Kutsu kumppanini",
+    "copy": "Kopioi linkki",
+    "copied": "Linkki kopioitu",
+    "inviteMessage": "Tee kanssani {test}, niin nähdään kuinka hyvin sovimme yhteen",
+    "invitedTitle": "{name} kutsui sinut",
+    "invitedTitleAnon": "Sinut on kutsuttu",
+    "invitedText": "Tee {test}. Sen jälkeen näette molemmat, kuinka hyvin sovitte yhteen.",
+    "start": "Aloita testi",
+    "invalid": "Tämä kutsulinkki ei toimi. Pyydä kumppaniasi lähettämään se uudelleen.",
+    "matchTitle": "Yhteensopivuutenne",
+    "matchWith": "Sinä ja {name}",
+    "partner": "kumppanisi",
+    "bands": {
+      "high": "Vahva yhteensopivuus",
+      "mid": "Hyvä yhteensopivuus ja tilaa kasvaa",
+      "low": "Vastakohdat vetävät puoleensa"
+    },
+    "shareScore": "Jaa tuloksenne",
+    "shareText": "Saimme {score}% yhteensopivuuden testissä {test}. Kuinka hyvin te sovitte yhteen?",
+    "sendBackTitle": "Lähetä tulos: {name}",
+    "sendBackText": "Tällä linkillä kumppanisi näkee saman tuloksen.",
+    "unlockTitle": "Koko pariraportti",
+    "unlockText": "Näe jokaisen piirteen kohdalla, missä sinä ja {name} olette samanlaisia, missä voi hiertää ja mikä auttaa teitä molempia.",
+    "includes": [
+      "Tuloksenne rinnakkain jokaisessa piirteessä",
+      "Missä olette samanlaisia ja missä erilaisia",
+      "Mitä yhdistelmänne tarkoittaa ja mikä auttaa"
+    ],
+    "buy": "Hanki pariraportti hintaan {price}",
+    "note": "Yksi maksu teille molemmille. Raportti tulee sähköpostiisi, joten voit välittää sen eteenpäin.",
+    "product": "Pariraportti: {test}"
+  },
+  "passPage": {
+    "title": "Pakettisi",
+    "text": "Pakettisi on nyt käytössä tällä laitteella. Valitse testi, niin raporttisi avautuu heti.",
+    "invalid": "Tämä linkki ei toimi. Ota meihin yhteyttä, niin autamme."
   }
 }

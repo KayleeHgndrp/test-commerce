@@ -237,7 +237,11 @@
     "spam": "Nedorazila ani po 10 minutách? Zkontrolujte složku se spamem nebo hromadnou poštou, nebo nám napište na {email}.",
     "more": "Objevit další testy",
     "bundleTitle": "Vaše další zpráva za {price}",
-    "bundleText": "Vyberte si níže další test a udělejte ho do {days} dnů. Celá zpráva pak stojí {price} místo {full}. Platí pro jednu další zprávu."
+    "bundleText": "Vyberte si níže další test a udělejte ho do {days} dnů. Celá zpráva pak stojí {price} místo {full}. Platí pro jednu další zprávu.",
+    "packTitle": "Váš balíček je aktivní",
+    "packText": "Udělejte si jiný test. Na stránce s výsledky se vaše další zpráva hned odemkne, bez další platby. Zbývá: {count}.",
+    "allTitle": "Váš plný přístup je aktivní",
+    "allText": "Udělejte si jakýkoli test. Na stránce s výsledky se každá zpráva hned odemkne, bez další platby."
   },
   "report": {
     "subject": "Vaše zpráva: {test}",
@@ -247,7 +251,31 @@
     "outro": "Doufáme, že vám tato zpráva přinese užitečné poznatky. Zajímají vás i další stránky vaší osobnosti? Všechny naše testy najdete na {url}.",
     "signature": "Tým {site}",
     "instrumentLabel": "{name}: {score} z {max}",
-    "typeLabel": "Váš typ"
+    "typeLabel": "Váš typ",
+    "coupleSubject": "Vaše partnerská zpráva: {test}",
+    "coupleIntro": "Děkujeme, že jste si spolu udělali {test} na {site}. Zde je partnerská zpráva pro vás a {name}.",
+    "coupleSummary": "Tato zpráva porovnává vás a {name} v každé části testu {test}. Rozdíl není problém. Ukazuje, kde spolu potřebujete trpělivost a kde se od sebe můžete učit.",
+    "matchLabel": "Vaše shoda",
+    "matchName": "Shoda {score} %: {band}",
+    "matchText": {
+      "high": "Mnoho věcí vidíte stejně, a to přináší klid a důvěru. Dál mluvte o těch několika bodech, ve kterých se lišíte.",
+      "mid": "Máte pevný základ a také jasné rozdíly. S trochou pozornosti tyto rozdíly váš vztah obohatí.",
+      "low": "Jste dost odlišní. To může být vzrušující a zároveň vyčerpávající. Tato zpráva ukazuje, na co si dát větší pozor."
+    },
+    "typesLine": "Váš typ: {mine}. {name}: {theirs}.",
+    "scoreLine": "Vy: {mine} % · {name}: {theirs} %",
+    "closeness": {
+      "alike": "Podobní",
+      "some": "Částečně podobní",
+      "different": "Odlišní"
+    },
+    "closenessText": {
+      "alike": "Tady máte skóre blízko sebe. Obvykle to působí snadno a přirozeně. Riziko je, že si posilujete slepá místa, proto se občas zeptejte, co oba můžete přehlížet.",
+      "some": "Tady se trochu lišíte. V běžném životě si toho skoro nevšimnete, ale ve stresu se rozdíl může zdát větší. Řekněte to nahlas, když se objeví.",
+      "different": "Tady se hodně lišíte. Právě tady často začínají třenice a právě tady se od sebe můžete nejvíc naučit. Domluvte se, jak s tím naložíte, než z toho bude hádka."
+    },
+    "passLine": "Váš balíček obsahuje ještě {count} zprávy. Udělejte si jiný test a zpráva se odemkne na stránce s výsledky. Na jiném zařízení nejdřív otevřete tento odkaz: {link}",
+    "passLineAll": "Váš plný přístup odemyká každou zprávu. Udělejte si test a zpráva se odemkne na stránce s výsledky. Na jiném zařízení nejdřív otevřete tento odkaz: {link}"
   },
   "footer": {
     "tagline": "Poznejte se lépe",
@@ -278,7 +306,7 @@
     "termsTitle": "Podmínky služby",
     "termsBody": [
       "Všechny testy na {site} slouží k sebepoznání a zábavě. Nejsou lékařskou, psychologickou ani jinou odbornou diagnózou.",
-      "Vyplnění testu je zdarma. Osobní zpráva stojí {price} za test jako jednorázová platba. Zpráva se doručuje digitálně e-mailem.",
+      "Udělat si test je zdarma. Osobní zpráva stojí {price} za test jako jednorázová platba. Můžete si také koupit balíček 3 zpráv, přístup ke všem zprávám nebo partnerskou zprávu, která porovnává dva lidi se stejným testem. I to jsou jednorázové platby. Zprávy se doručují digitálně e-mailem.",
       "Protože zpráva je digitální obsah dodaný ihned po zaplacení, souhlasíte s tím, že právo na odstoupení od smlouvy zaniká odesláním zprávy. Pokud vám zpráva nedorazila, napište na {email} a pošleme ji znovu nebo vám vrátíme peníze.",
       "Snažíme se, aby byl obsah přesný, ale nemůžeme zaručit, že výsledky budou úplné nebo správné pro každého."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Zásady vracení peněz",
     "refundBody": [
-      "Zpráva stojí {price} za test jako jednorázová platba. Nejde o předplatné a nic se automaticky neobnovuje.",
+      "Zpráva stojí {price} za test jako jednorázová platba. Balíčky, plný přístup i partnerské zprávy jsou také jednorázové platby. Není žádné předplatné ani automatické obnovení.",
       "Nedorazila vám zpráva nebo se něco pokazilo? Napište do 14 dnů na {email}, uveďte e-mailovou adresu použitou při nákupu a zprávu vám pošleme znovu nebo vrátíme platbu.",
       "Protože zpráva je digitální obsah dodaný okamžitě, zákonné právo na odstoupení od smlouvy zaniká jejím odesláním. Pokud něco není v pořádku, vždy vám rádi pomůžeme.",
       "Peníze vracíme na původní platební metodu do 5–10 pracovních dnů."
@@ -385,5 +413,61 @@
     "accept": "Přijmout",
     "decline": "Odmítnout",
     "settings": "Změnit nastavení cookies"
+  },
+  "plans": {
+    "title": "Vyberte si zprávu",
+    "single": "Tato zpráva",
+    "pack": "3 zprávy",
+    "packNote": "Tato plus 2 další testy podle vašeho výběru",
+    "all": "Všechny zprávy ({count})",
+    "allNote": "Každý test na webu, odemkněte si je, kdy chcete",
+    "save": "Ušetříte {amount}",
+    "passPack": "Ve vašem balíčku zbývá zpráv: {count}",
+    "passAll": "Váš plný přístup je aktivní",
+    "passUnlock": "Odemknout tuto zprávu zdarma",
+    "passError": "Váš balíček nebylo možné pro tuto zprávu použít. Stále si ji můžete koupit níže.",
+    "packProduct": "{test} + {extra} další zprávy",
+    "allProduct": "Všechny zprávy ({count})"
+  },
+  "couple": {
+    "inviteTitle": "Udělejte si tento test s partnerem",
+    "inviteText": "Pošlete partnerovi odkaz. Udělá si stejný test zdarma a oba hned uvidíte své skóre shody.",
+    "nameLabel": "Vaše křestní jméno (nepovinné)",
+    "createLink": "Pozvat partnera",
+    "copy": "Kopírovat odkaz",
+    "copied": "Odkaz zkopírován",
+    "inviteMessage": "Udělej si se mnou {test} a uvidíme, jak k sobě sedíme",
+    "invitedTitle": "{name} vás zve",
+    "invitedTitleAnon": "Máte pozvánku",
+    "invitedText": "Udělejte si {test}. Potom oba uvidíte, jak k sobě sedíte.",
+    "start": "Začít test",
+    "invalid": "Tento odkaz s pozvánkou nefunguje. Požádejte partnera, aby ho poslal znovu.",
+    "matchTitle": "Vaše skóre shody",
+    "matchWith": "Vy a {name}",
+    "partner": "váš partner",
+    "bands": {
+      "high": "Silná shoda",
+      "mid": "Dobrá shoda s prostorem k růstu",
+      "low": "Protiklady se přitahují"
+    },
+    "shareScore": "Sdílet skóre",
+    "shareText": "Máme shodu {score} % v testu {test}. Jak jste na tom vy?",
+    "sendBackTitle": "Pošlete skóre: {name}",
+    "sendBackText": "S tímto odkazem uvidí partner stejné skóre.",
+    "unlockTitle": "Úplná partnerská zpráva",
+    "unlockText": "U každé vlastnosti uvidíte, v čem jste si vy a {name} podobní, kde to může skřípat a co pomáhá vám oběma.",
+    "includes": [
+      "Vaše skóre vedle sebe u každé vlastnosti",
+      "V čem jste si podobní a v čem se lišíte",
+      "Co znamená vaše kombinace a co pomáhá"
+    ],
+    "buy": "Získat partnerskou zprávu za {price}",
+    "note": "Jedna platba pro vás oba. Zpráva přijde na váš e-mail, takže ji můžete přeposlat.",
+    "product": "Partnerská zpráva: {test}"
+  },
+  "passPage": {
+    "title": "Váš balíček",
+    "text": "Váš balíček je nyní aktivní na tomto zařízení. Vyberte test a vaše zpráva se hned odemkne.",
+    "invalid": "Tento odkaz nefunguje. Kontaktujte nás a pomůžeme vám."
   }
 }

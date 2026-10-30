@@ -140,5 +140,17 @@
       "name": "Fearful-avoidant",
       "text": "Your answers suggest a fearful-avoidant style. You may long for closeness while also fearing it, so relationships can feel confusing: you move towards people and then pull back when it becomes intense. Worry about rejection and discomfort with depending on others can exist side by side. This style often grows from experiences where closeness did not feel safe, and it is nothing to be ashamed of. Be gentle with yourself and look for steady, predictable relationships. Learning to notice and name your feelings helps a lot. Working with a qualified therapist can be especially valuable for building a more secure way of connecting."
     }
+  },
+  "couple": {
+    "secure+secure": "Two secure partners give each other room and closeness without much effort. Conflicts rarely spiral, because you both trust that the bond can take it.",
+    "anxious+secure": "The secure partner offers the steady presence the anxious partner longs for. Clear reassurance and fixed rituals help the anxious partner relax over time.",
+    "avoidant+secure": "The secure partner can give the avoidant partner space without feeling rejected. Small, low pressure moments of closeness help the avoidant partner open up.",
+    "fearful+secure": "The secure partner offers a safe base, which the fearful partner both wants and finds scary. Patience and predictability matter more than big gestures.",
+    "anxious+anxious": "You both long for closeness and understand that need in each other. Under stress you can feed each other's worries, so calm each other down before you talk things through.",
+    "anxious+avoidant": "This is the best known push and pull: one seeks closeness, the other pulls back, which makes the first one push harder. Recognising this pattern together is the first step to breaking it.",
+    "anxious+fearful": "You both feel a lot and fear losing the other. This can feel very intense. Agree on clear signals for when one of you needs reassurance or a moment alone.",
+    "avoidant+avoidant": "You both value independence and rarely crowd each other. The risk is distance: important feelings stay unspoken. Plan moments to really talk.",
+    "avoidant+fearful": "One keeps distance, the other swings between closeness and retreat. That can leave you both feeling unseen. Say out loud what you need, even when it feels awkward.",
+    "fearful+fearful": "You recognise each other's longing and fear of closeness. That can create deep understanding and also chaos. A steady routine and, if needed, outside support help you both."
   }
 }

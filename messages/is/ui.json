@@ -237,7 +237,11 @@
     "spam": "Ekki borist eftir 10 mínútur? Athugaðu ruslpóstsmöppuna eða kynningarmöppuna, eða hafðu samband við okkur á {email}.",
     "more": "Uppgötvaðu fleiri próf",
     "bundleTitle": "Næsta skýrsla þín á {price}",
-    "bundleText": "Veldu annað próf hér fyrir neðan og taktu það innan {days} daga. Full skýrsla kostar þá {price} í stað {full}. Gildir fyrir eina skýrslu til viðbótar."
+    "bundleText": "Veldu annað próf hér fyrir neðan og taktu það innan {days} daga. Full skýrsla kostar þá {price} í stað {full}. Gildir fyrir eina skýrslu til viðbótar.",
+    "packTitle": "Pakkinn þinn er virkur",
+    "packText": "Taktu annað próf. Á niðurstöðusíðunni opnast næsta skýrsla strax, án þess að greiða aftur. Eftir: {count}.",
+    "allTitle": "Fullur aðgangur þinn er virkur",
+    "allText": "Taktu hvaða próf sem er. Á niðurstöðusíðunni opnast hver skýrsla strax, án þess að greiða aftur."
   },
   "report": {
     "subject": "Skýrslan þín: {test}",
@@ -247,7 +251,31 @@
     "outro": "Við vonum að skýrslan gefi þér gagnlega innsýn. Forvitin(n) um aðrar hliðar á sjálfri/sjálfum þér? Skoðaðu öll prófin okkar á {url}.",
     "signature": "Teymið hjá {site}",
     "instrumentLabel": "{name}: {score} af {max}",
-    "typeLabel": "Manngerð þín"
+    "typeLabel": "Manngerð þín",
+    "coupleSubject": "Parskýrslan ykkar: {test}",
+    "coupleIntro": "Takk fyrir að taka {test} saman á {site}. Hér er parskýrslan fyrir þig og {name}.",
+    "coupleSummary": "Þessi skýrsla ber þig og {name} saman í hverjum hluta {test}. Munur er ekki vandamál. Hann sýnir hvar þið þurfið þolinmæði gagnvart hvort öðru og hvar þið getið lært hvort af öðru.",
+    "matchLabel": "Samsvörun ykkar",
+    "matchName": "{score}% samsvörun: {band}",
+    "matchText": {
+      "high": "Þið sjáið margt á sama hátt, sem veitir ró og traust. Haldið áfram að tala um þau fáu atriði þar sem þið eruð ólík.",
+      "mid": "Þið hafið traustan grunn og líka skýran mun. Með smá athygli auðgar sá munur sambandið ykkar.",
+      "low": "Þið eruð frekar ólík. Það getur verið spennandi og líka þreytandi. Þessi skýrsla sýnir hvar þið ættuð að gæta sérstaklega að."
+    },
+    "typesLine": "Þín gerð: {mine}. {name}: {theirs}.",
+    "scoreLine": "Þú: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Lík",
+      "some": "Að hluta lík",
+      "different": "Ólík"
+    },
+    "closenessText": {
+      "alike": "Hér eruð þið nálægt hvort öðru. Það virkar yfirleitt auðvelt og eðlilegt. Hættan er að þið styrkið blindu blettina hvort hjá öðru, svo spyrjið öðru hverju hvað þið gætuð bæði verið að missa af.",
+      "some": "Hér eruð þið svolítið ólík. Í daglegu lífi takið þið varla eftir því, en undir álagi getur munurinn virst meiri. Segið það upphátt þegar það kemur upp.",
+      "different": "Hér eruð þið mjög ólík. Það er oft hér sem núningur byrjar, og líka hér sem þið getið lært mest hvort af öðru. Komið ykkur saman um hvernig þið takið á því áður en það verður að rifrildi."
+    },
+    "passLine": "Pakkinn þinn inniheldur {count} skýrslur til viðbótar. Taktu annað próf og skýrslan opnast á niðurstöðusíðunni. Í öðru tæki skaltu fyrst opna þennan hlekk: {link}",
+    "passLineAll": "Fullur aðgangur þinn opnar hverja skýrslu. Taktu próf og skýrslan opnast á niðurstöðusíðunni. Í öðru tæki skaltu fyrst opna þennan hlekk: {link}"
   },
   "footer": {
     "tagline": "Kynnstu sjálfum þér betur",
@@ -278,7 +306,7 @@
     "termsTitle": "Notkunarskilmálar",
     "termsBody": [
       "Öll próf á {site} eru ætluð til sjálfsskoðunar og skemmtunar. Þau eru ekki læknisfræðileg, sálfræðileg eða fagleg greining.",
-      "Það er ókeypis að taka próf. Persónuleg skýrsla kostar {price} fyrir hvert próf sem eingreiðsla. Skýrslan er afhent rafrænt með tölvupósti.",
+      "Það er ókeypis að taka próf. Persónuleg skýrsla kostar {price} fyrir hvert próf sem eingreiðsla. Þú getur líka keypt pakka með 3 skýrslum, aðgang að öllum skýrslum eða parskýrslu sem ber saman tvær manneskjur sem tóku sama próf. Það eru líka eingreiðslur. Skýrslur eru afhentar rafrænt með tölvupósti.",
       "Þar sem skýrslan er stafrænt efni sem er afhent strax eftir greiðslu samþykkir þú að réttur til að falla frá samningi falli niður þegar skýrslan hefur verið send. Ef þú fékkst ekki skýrsluna skaltu hafa samband á {email} og við sendum hana aftur eða endurgreiðum þér.",
       "Við gerum okkar besta til að efnið sé rétt, en við getum ekki ábyrgst að niðurstöðurnar séu tæmandi eða réttar fyrir alla."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Endurgreiðslustefna",
     "refundBody": [
-      "Skýrsla kostar {price} fyrir hvert próf sem eingreiðsla. Engin áskrift og engin sjálfvirk endurnýjun.",
+      "Skýrsla kostar {price} fyrir hvert próf sem eingreiðsla. Pakkar, fullur aðgangur og parskýrslur eru líka eingreiðslur. Engin áskrift er og engin sjálfvirk endurnýjun.",
       "Fékkstu ekki skýrsluna eða fór eitthvað úrskeiðis? Hafðu samband á {email} innan 14 daga og tilgreindu netfangið sem þú notaðir, og við sendum skýrsluna aftur eða endurgreiðum þér.",
       "Þar sem skýrslan er stafrænt efni sem er afhent strax fellur lögbundinn réttur til að falla frá samningi niður þegar hún hefur verið send. Við munum samt alltaf aðstoða þig ef eitthvað er ekki í lagi.",
       "Endurgreiðslur eru lagðar inn á upphaflegan greiðslumáta innan 5–10 virkra daga."
@@ -385,5 +413,61 @@
     "accept": "Samþykkja",
     "decline": "Hafna",
     "settings": "Breyta stillingum vafrakaka"
+  },
+  "plans": {
+    "title": "Veldu skýrsluna þína",
+    "single": "Þessi skýrsla",
+    "pack": "3 skýrslur",
+    "packNote": "Þessi og 2 önnur próf að eigin vali",
+    "all": "Allar {count} skýrslurnar",
+    "allNote": "Hvert próf á síðunni, opnaðu þau þegar þú vilt",
+    "save": "Sparaðu {amount}",
+    "passPack": "Pakkinn þinn á {count} skýrslur eftir",
+    "passAll": "Fullur aðgangur þinn er virkur",
+    "passUnlock": "Opna þessa skýrslu ókeypis",
+    "passError": "Ekki tókst að nota pakkann þinn fyrir þessa skýrslu. Þú getur samt keypt hana hér fyrir neðan.",
+    "packProduct": "{test} + {extra} skýrslur til viðbótar",
+    "allProduct": "Allar {count} skýrslurnar"
+  },
+  "couple": {
+    "inviteTitle": "Taktu prófið með makanum þínum",
+    "inviteText": "Sendu makanum þínum hlekk. Hann eða hún tekur sama próf ókeypis og þið sjáið bæði samsvörunina ykkar strax.",
+    "nameLabel": "Fornafnið þitt (valfrjálst)",
+    "createLink": "Bjóða makanum mínum",
+    "copy": "Afrita hlekk",
+    "copied": "Hlekkur afritaður",
+    "inviteMessage": "Taktu {test} með mér og sjáum hversu vel við pössum saman",
+    "invitedTitle": "{name} bauð þér",
+    "invitedTitleAnon": "Þér hefur verið boðið",
+    "invitedText": "Taktu {test}. Eftir það sjáið þið bæði hversu vel þið passið saman.",
+    "start": "Byrja prófið",
+    "invalid": "Þessi boðshlekkur virkar ekki. Biddu makann þinn að senda hann aftur.",
+    "matchTitle": "Samsvörun ykkar",
+    "matchWith": "Þú og {name}",
+    "partner": "makinn þinn",
+    "bands": {
+      "high": "Sterk samsvörun",
+      "mid": "Góð samsvörun með svigrúm til vaxtar",
+      "low": "Andstæður laðast að hvor annarri"
+    },
+    "shareScore": "Deila niðurstöðu",
+    "shareText": "Við fengum {score}% samsvörun í {test}. Hversu vel passið þið saman?",
+    "sendBackTitle": "Senda niðurstöðuna til {name}",
+    "sendBackText": "Með þessum hlekk sér makinn þinn sömu niðurstöðu.",
+    "unlockTitle": "Fulla parskýrslan",
+    "unlockText": "Sjáðu fyrir hvern eiginleika hvar þú og {name} eruð lík, hvar getur núningur orðið og hvað hjálpar ykkur báðum.",
+    "includes": [
+      "Niðurstöður ykkar hlið við hlið fyrir hvern eiginleika",
+      "Hvar þið eruð lík og hvar þið eruð ólík",
+      "Hvað samsetningin ykkar þýðir og hvað hjálpar"
+    ],
+    "buy": "Fáðu parskýrsluna fyrir {price}",
+    "note": "Ein greiðsla fyrir ykkur bæði. Skýrslan kemur í tölvupóstinn þinn svo þú getir áframsent hana.",
+    "product": "Parskýrsla: {test}"
+  },
+  "passPage": {
+    "title": "Pakkinn þinn",
+    "text": "Pakkinn þinn er nú virkur í þessu tæki. Veldu próf og skýrslan þín opnast strax.",
+    "invalid": "Þessi hlekkur virkar ekki. Hafðu samband og við hjálpum þér."
   }
 }

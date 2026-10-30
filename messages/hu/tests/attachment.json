@@ -140,5 +140,17 @@
       "name": "Félelemteli-elkerülő",
       "text": "A válaszaid félelemteli-elkerülő stílusra utalnak. Lehet, hogy vágysz a közelségre, ugyanakkor félsz is tőle, így a kapcsolatok zavarosnak tűnhetnek: közeledsz az emberekhez, aztán visszahúzódsz, amikor túl intenzívvé válik. Az elutasítás miatti aggodalom és a másokra támaszkodás okozta kényelmetlenség egymás mellett is létezhet. Ez a stílus gyakran olyan tapasztalatokból fakad, amelyekben a közelség nem érződött biztonságosnak, és nincs miért szégyellned. Légy szelíd magadhoz, és keress kiegyensúlyozott, kiszámítható kapcsolatokat. Sokat segít, ha megtanulod észrevenni és megnevezni az érzéseidet. Egy képzett terapeutával való munka különösen értékes lehet ahhoz, hogy biztonságosabb módon tudj kapcsolódni."
     }
+  },
+  "couple": {
+    "secure+secure": "Két biztonságosan kötődő partner különösebb erőfeszítés nélkül ad egymásnak teret és közelséget. A konfliktusok ritkán szabadulnak el, mert mindketten bíztok benne, hogy a kapcsolat elbírja.",
+    "anxious+secure": "A biztonságos partner azt a stabil jelenlétet adja, amire a szorongó partner vágyik. A világos megnyugtatás és az állandó rituálék segítenek a szorongó partnernek idővel ellazulni.",
+    "avoidant+secure": "A biztonságos partner teret tud adni az elkerülő partnernek anélkül, hogy elutasítva érezné magát. A nyomás nélküli apró közelségek segítenek az elkerülő partnernek megnyílni.",
+    "fearful+secure": "A biztonságos partner biztos bázist kínál, amire a félelemteli partner egyszerre vágyik és fél tőle. A türelem és a kiszámíthatóság többet ér a nagy gesztusoknál.",
+    "anxious+anxious": "Mindketten közelségre vágytok, és értitek ezt az igényt a másikban. Stresszben egymás aggodalmait is táplálhatjátok, ezért előbb nyugtassátok meg egymást, mielőtt átbeszélitek a dolgokat.",
+    "anxious+avoidant": "Ez a legismertebb vonzás és taszítás: az egyik közelséget keres, a másik visszahúzódik, mire az első még jobban nyomul. Ha együtt felismeritek ezt a mintát, az az első lépés a megtöréséhez.",
+    "anxious+fearful": "Mindketten sokat éreztek, és féltek elveszíteni a másikat. Ez nagyon intenzív lehet. Állapodjatok meg világos jelekben arra az esetre, ha valamelyikőtöknek megnyugtatásra vagy egy kis egyedüllétre van szüksége.",
+    "avoidant+avoidant": "Mindketten értékelitek a függetlenséget, és ritkán nyomjátok agyon egymást. A kockázat a távolság: fontos érzések kimondatlanok maradnak. Tervezzetek időt az igazi beszélgetésekre.",
+    "avoidant+fearful": "Az egyik távolságot tart, a másik a közelség és a visszahúzódás között ingadozik. Így mindketten láthatatlannak érezhetitek magatokat. Mondjátok ki, mire van szükségetek, akkor is, ha kínos.",
+    "fearful+fearful": "Felismeritek egymásban a közelség utáni vágyat és a tőle való félelmet. Ez mély megértést és káoszt is hozhat. Egy állandó rutin és szükség esetén külső segítség mindkettőtöknek segít."
   }
 }

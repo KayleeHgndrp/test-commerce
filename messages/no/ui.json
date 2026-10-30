@@ -237,7 +237,11 @@
     "spam": "Ikke mottatt etter 10 minutter? Sjekk søppelpostmappen eller kampanjemappen, eller kontakt oss på {email}.",
     "more": "Oppdag flere tester",
     "bundleTitle": "Din neste rapport for {price}",
-    "bundleText": "Velg en test til nedenfor og ta den innen {days} dager. Den fullstendige rapporten koster da {price} i stedet for {full}. Gjelder én ekstra rapport."
+    "bundleText": "Velg en test til nedenfor og ta den innen {days} dager. Den fullstendige rapporten koster da {price} i stedet for {full}. Gjelder én ekstra rapport.",
+    "packTitle": "Pakken din er aktiv",
+    "packText": "Ta en annen test. På resultatsiden låses neste rapport opp med en gang, uten at du betaler igjen. Igjen: {count}.",
+    "allTitle": "Alt-tilgangspasset ditt er aktivt",
+    "allText": "Ta hvilken test du vil. På resultatsiden låses hver rapport opp med en gang, uten at du betaler igjen."
   },
   "report": {
     "subject": "Din rapport: {test}",
@@ -247,7 +251,31 @@
     "outro": "Vi håper rapporten gir deg nyttig innsikt. Nysgjerrig på andre sider ved deg selv? Oppdag alle testene våre på {url}.",
     "signature": "Hilsen teamet bak {site}",
     "instrumentLabel": "{name}: {score} av {max}",
-    "typeLabel": "Din type"
+    "typeLabel": "Din type",
+    "coupleSubject": "Parrapporten deres: {test}",
+    "coupleIntro": "Takk for at dere tok {test} sammen på {site}. Her er parrapporten for deg og {name}.",
+    "coupleSummary": "Denne rapporten sammenligner deg og {name} på hver del av {test}. En forskjell er ikke et problem. Den viser hvor dere trenger tålmodighet med hverandre og hvor dere kan lære av hverandre.",
+    "matchLabel": "Matchen deres",
+    "matchName": "{score}% match: {band}",
+    "matchText": {
+      "high": "Dere ser mye på samme måte, og det gir ro og tillit. Fortsett å snakke om de få punktene der dere er ulike.",
+      "mid": "Dere har et solid grunnlag og også tydelige forskjeller. Med litt oppmerksomhet gjør de forskjellene forholdet deres rikere.",
+      "low": "Dere er ganske ulike. Det kan være spennende og også slitsomt. Denne rapporten viser hvor dere bør være ekstra oppmerksomme."
+    },
+    "typesLine": "Din type: {mine}. {name}: {theirs}.",
+    "scoreLine": "Du: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Like",
+      "some": "Delvis like",
+      "different": "Ulike"
+    },
+    "closenessText": {
+      "alike": "Her ligger dere nær hverandre. Det føles som regel lett og naturlig. Risikoen er at dere forsterker hverandres blindsoner, så spør av og til hva dere begge kan gå glipp av.",
+      "some": "Her er dere litt ulike. I hverdagen merker dere det knapt, men under stress kan forskjellen føles større. Si det høyt når det dukker opp.",
+      "different": "Her er dere svært ulike. Det er ofte her friksjon starter, og også her dere kan lære mest av hverandre. Bli enige om hvordan dere håndterer det før det blir krangel."
+    },
+    "passLine": "Pakken din inneholder {count} rapporter til. Ta en annen test, så låses rapporten opp på resultatsiden. På en annen enhet åpner du først denne lenken: {link}",
+    "passLineAll": "Alt-tilgangspasset ditt låser opp hver rapport. Ta en test, så låses rapporten opp på resultatsiden. På en annen enhet åpner du først denne lenken: {link}"
   },
   "footer": {
     "tagline": "Bli bedre kjent med deg selv",
@@ -278,7 +306,7 @@
     "termsTitle": "Bruksvilkår",
     "termsBody": [
       "Alle tester på {site} er ment for selvrefleksjon og underholdning. De er ingen medisinsk, psykologisk eller faglig diagnose.",
-      "Det er gratis å ta en test. En personlig rapport koster {price} per test som en engangsbetaling. Rapporten leveres digitalt på e-post.",
+      "Det er gratis å ta en test. En personlig rapport koster {price} per test som en engangsbetaling. Du kan også kjøpe en pakke med 3 rapporter, et pass for alle rapporter eller en parrapport som sammenligner to personer som har tatt den samme testen. Dette er også engangsbetalinger. Rapportene leveres digitalt på e-post.",
       "Fordi rapporten er digitalt innhold som leveres umiddelbart etter betaling, samtykker du i at angreretten bortfaller når rapporten er sendt. Har du ikke mottatt rapporten, kontakt {email}, så sender vi den på nytt eller refunderer beløpet.",
       "Vi gjør vårt beste for at innholdet skal være korrekt, men vi kan ikke garantere at resultatene er fullstendige eller riktige for alle."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Refusjonsregler",
     "refundBody": [
-      "En rapport koster {price} per test som en engangsbetaling. Det er ikke noe abonnement og ingen automatisk fornyelse.",
+      "En rapport koster {price} per test som en engangsbetaling. Pakker, alt-tilgangspasset og parrapporter er også engangsbetalinger. Det finnes ingen abonnement og ingen automatisk fornyelse.",
       "Har du ikke mottatt rapporten, eller gikk noe galt? Kontakt {email} innen 14 dager og oppgi e-postadressen du brukte, så sender vi rapporten på nytt eller refunderer betalingen.",
       "Fordi rapporten er digitalt innhold som leveres umiddelbart, bortfaller den lovfestede angreretten når den er sendt. Vi hjelper deg likevel alltid hvis noe ikke stemmer.",
       "Refusjoner gjøres til den opprinnelige betalingsmåten innen 5–10 virkedager."
@@ -385,5 +413,61 @@
     "accept": "Godta",
     "decline": "Avslå",
     "settings": "Endre innstillinger for informasjonskapsler"
+  },
+  "plans": {
+    "title": "Velg rapporten din",
+    "single": "Denne rapporten",
+    "pack": "3 rapporter",
+    "packNote": "Denne pluss 2 andre tester du velger",
+    "all": "Alle {count} rapportene",
+    "allNote": "Hver test på nettstedet, lås dem opp når du vil",
+    "save": "Spar {amount}",
+    "passPack": "Pakken din har {count} rapporter igjen",
+    "passAll": "Alt-tilgangspasset ditt er aktivt",
+    "passUnlock": "Lås opp denne rapporten gratis",
+    "passError": "Pakken din kunne ikke brukes til denne rapporten. Du kan fortsatt kjøpe den nedenfor.",
+    "packProduct": "{test} + {extra} rapporter til",
+    "allProduct": "Alle {count} rapportene"
+  },
+  "couple": {
+    "inviteTitle": "Ta testen sammen med partneren din",
+    "inviteText": "Send partneren din en lenke. Partneren tar den samme testen gratis, og dere ser begge matchen deres med en gang.",
+    "nameLabel": "Fornavnet ditt (valgfritt)",
+    "createLink": "Inviter partneren min",
+    "copy": "Kopier lenke",
+    "copied": "Lenke kopiert",
+    "inviteMessage": "Ta {test} med meg, så ser vi hvor godt vi passer sammen",
+    "invitedTitle": "{name} har invitert deg",
+    "invitedTitleAnon": "Du er invitert",
+    "invitedText": "Ta {test}. Etterpå ser dere begge hvor godt dere passer sammen.",
+    "start": "Start testen",
+    "invalid": "Denne invitasjonslenken virker ikke. Be partneren din sende den på nytt.",
+    "matchTitle": "Matchen deres",
+    "matchWith": "Du og {name}",
+    "partner": "partneren din",
+    "bands": {
+      "high": "Sterk match",
+      "mid": "God match med rom for vekst",
+      "low": "Motsetninger tiltrekker hverandre"
+    },
+    "shareScore": "Del resultatet",
+    "shareText": "Vi fikk {score}% match på {test}. Hvor godt passer dere sammen?",
+    "sendBackTitle": "Send resultatet til {name}",
+    "sendBackText": "Med denne lenken ser partneren din det samme resultatet.",
+    "unlockTitle": "Den fullstendige parrapporten",
+    "unlockText": "Se for hvert trekk hvor du og {name} ligner hverandre, hvor det kan skurre, og hva som hjelper dere begge.",
+    "includes": [
+      "Resultatene deres side om side for hvert trekk",
+      "Hvor dere ligner hverandre og hvor dere er ulike",
+      "Hva kombinasjonen deres betyr og hva som hjelper"
+    ],
+    "buy": "Få parrapporten for {price}",
+    "note": "Én betaling for dere begge. Rapporten kommer på e-posten din, så du kan videresende den.",
+    "product": "Parrapport: {test}"
+  },
+  "passPage": {
+    "title": "Pakken din",
+    "text": "Pakken din er nå aktiv på denne enheten. Velg en test, så låses rapporten din opp med en gang.",
+    "invalid": "Denne lenken virker ikke. Kontakt oss, så hjelper vi deg."
   }
 }

@@ -237,7 +237,11 @@
     "spam": "Ga po 10 minutah še niste prejeli? Preverite mapo z neželeno pošto ali promocijami ali nam pišite na {email}.",
     "more": "Odkrijte več testov",
     "bundleTitle": "Vaše naslednje poročilo za {price}",
-    "bundleText": "Spodaj izberite še en test in ga rešite v {days} dneh. Celotno poročilo bo takrat stalo {price} namesto {full}. Velja za eno dodatno poročilo."
+    "bundleText": "Spodaj izberite še en test in ga rešite v {days} dneh. Celotno poročilo bo takrat stalo {price} namesto {full}. Velja za eno dodatno poročilo.",
+    "packTitle": "Vaš paket je aktiven",
+    "packText": "Rešite drug test. Na strani z rezultati se vaše naslednje poročilo takoj odklene, brez ponovnega plačila. Ostalo: {count}.",
+    "allTitle": "Vaš polni dostop je aktiven",
+    "allText": "Rešite katerikoli test. Na strani z rezultati se vsako poročilo takoj odklene, brez ponovnega plačila."
   },
   "report": {
     "subject": "Vaše poročilo: {test}",
@@ -247,7 +251,31 @@
     "outro": "Upamo, da vam bo to poročilo dalo koristne uvide. Vas zanimajo tudi druge vaše plati? Vse naše teste najdete na {url}.",
     "signature": "Ekipa {site}",
     "instrumentLabel": "{name}: {score} od {max}",
-    "typeLabel": "Vaš tip"
+    "typeLabel": "Vaš tip",
+    "coupleSubject": "Vajino poročilo za par: {test}",
+    "coupleIntro": "Hvala, ker sta skupaj rešila {test} na {site}. Tukaj je poročilo za par za vas in {name}.",
+    "coupleSummary": "To poročilo primerja vas in {name} v vsakem delu testa {test}. Razlika ni težava. Pokaže, kje potrebujeta potrpežljivost drug z drugim in kje se lahko učita drug od drugega.",
+    "matchLabel": "Vajino ujemanje",
+    "matchName": "{score}% ujemanja: {band}",
+    "matchText": {
+      "high": "Veliko stvari vidita enako, kar prinaša mir in zaupanje. Še naprej se pogovarjajta o tistih nekaj točkah, v katerih se razlikujeta.",
+      "mid": "Imata trdno osnovo in tudi jasne razlike. Z nekaj pozornosti te razlike obogatijo vajin odnos.",
+      "low": "Precej različna sta. To je lahko vznemirljivo in tudi utrujajoče. To poročilo pokaže, na kaj bodita še posebej pozorna."
+    },
+    "typesLine": "Vaš tip: {mine}. {name}: {theirs}.",
+    "scoreLine": "Vi: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Podobna",
+      "some": "Delno podobna",
+      "different": "Različna"
+    },
+    "closenessText": {
+      "alike": "Tukaj sta vajina rezultata blizu. To se običajno zdi lahko in naravno. Tveganje je, da si krepita slepe pege, zato se občasno vprašajta, kaj bi oba lahko spregledala.",
+      "some": "Tukaj se malo razlikujeta. V vsakdanu tega skoraj ne opazita, pod stresom pa se razlika lahko zdi večja. Povejta to na glas, ko se pojavi.",
+      "different": "Tukaj se zelo razlikujeta. Prav tu se pogosto začnejo trenja in prav tu se lahko največ naučita drug od drugega. Dogovorita se, kako bosta to reševala, preden postane prepir."
+    },
+    "passLine": "Vaš paket vključuje še {count} poročili. Rešite drug test in poročilo se odklene na strani z rezultati. Na drugi napravi najprej odprite to povezavo: {link}",
+    "passLineAll": "Vaš polni dostop odklene vsako poročilo. Rešite test in poročilo se odklene na strani z rezultati. Na drugi napravi najprej odprite to povezavo: {link}"
   },
   "footer": {
     "tagline": "Spoznajte se bolje",
@@ -278,7 +306,7 @@
     "termsTitle": "Pogoji uporabe",
     "termsBody": [
       "Vsi testi na {site} so namenjeni samorefleksiji in zabavi. Niso medicinska, psihološka ali strokovna diagnoza.",
-      "Reševanje testa je brezplačno. Osebno poročilo stane {price} na test z enkratnim plačilom. Poročilo je dostavljeno digitalno po e-pošti.",
+      "Reševanje testa je brezplačno. Osebno poročilo stane {price} na test kot enkratno plačilo. Kupite lahko tudi paket 3 poročil, dostop do vseh poročil ali poročilo za par, ki primerja dve osebi, ki sta rešili isti test. Tudi to so enkratna plačila. Poročila so dostavljena digitalno po e-pošti.",
       "Ker je poročilo digitalna vsebina, dostavljena takoj po plačilu, se strinjate, da pravica do odstopa od pogodbe preneha, ko je poročilo poslano. Če poročila niste prejeli, nam pišite na {email} in poslali vam ga bomo znova ali vam vrnili denar.",
       "Prizadevamo si, da je vsebina točna, vendar ne moremo zagotoviti, da so rezultati popolni ali pravilni za vsako osebo."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Pravilnik o vračilu",
     "refundBody": [
-      "Poročilo stane {price} na test z enkratnim plačilom. Ni naročnine in ni samodejnega podaljšanja.",
+      "Poročilo stane {price} na test kot enkratno plačilo. Paketi, polni dostop in poročila za pare so prav tako enkratna plačila. Ni naročnine in ni samodejnega podaljšanja.",
       "Poročila niste prejeli ali je šlo kaj narobe? V 14 dneh nam pišite na {email} in navedite e-naslov, ki ste ga uporabili, pa vam bomo poročilo poslali znova ali vrnili plačilo.",
       "Ker je poročilo digitalna vsebina, ki je dostavljena takoj, zakonska pravica do odstopa od pogodbe preneha, ko je poslano. Kljub temu vam bomo vedno pomagali, če kaj ni v redu.",
       "Vračila izvedemo na prvotni način plačila v 5–10 delovnih dneh."
@@ -385,5 +413,61 @@
     "accept": "Sprejmi",
     "decline": "Zavrni",
     "settings": "Spremeni nastavitve piškotkov"
+  },
+  "plans": {
+    "title": "Izberite svoje poročilo",
+    "single": "To poročilo",
+    "pack": "3 poročila",
+    "packNote": "To in še 2 testa po vaši izbiri",
+    "all": "Vsa poročila ({count})",
+    "allNote": "Vsak test na strani, odklenite jih, ko želite",
+    "save": "Prihranite {amount}",
+    "passPack": "V vašem paketu je ostalo poročil: {count}",
+    "passAll": "Vaš polni dostop je aktiven",
+    "passUnlock": "Odklenite to poročilo brezplačno",
+    "passError": "Vašega paketa ni bilo mogoče uporabiti za to poročilo. Še vedno ga lahko kupite spodaj.",
+    "packProduct": "{test} + še {extra} poročili",
+    "allProduct": "Vsa poročila ({count})"
+  },
+  "couple": {
+    "inviteTitle": "Rešite ta test s partnerjem",
+    "inviteText": "Partnerju pošljite povezavo. Isti test reši brezplačno in oba takoj vidita svoj rezultat ujemanja.",
+    "nameLabel": "Vaše ime (neobvezno)",
+    "createLink": "Povabi partnerja",
+    "copy": "Kopiraj povezavo",
+    "copied": "Povezava kopirana",
+    "inviteMessage": "Reši z mano {test} in poglejva, kako se ujemava",
+    "invitedTitle": "{name} vas je povabil",
+    "invitedTitleAnon": "Povabljeni ste",
+    "invitedText": "Rešite {test}. Potem bosta oba videla, kako se ujemata.",
+    "start": "Začni test",
+    "invalid": "Ta povezava za povabilo ne deluje. Prosite partnerja, naj jo pošlje znova.",
+    "matchTitle": "Vaš rezultat ujemanja",
+    "matchWith": "Vi in {name}",
+    "partner": "vaš partner",
+    "bands": {
+      "high": "Močno ujemanje",
+      "mid": "Dobro ujemanje s prostorom za rast",
+      "low": "Nasprotja se privlačijo"
+    },
+    "shareScore": "Delite rezultat",
+    "shareText": "Na testu {test} se ujemava {score}%. Kako se ujemata vidva?",
+    "sendBackTitle": "Pošljite rezultat: {name}",
+    "sendBackText": "S to povezavo partner vidi enak rezultat.",
+    "unlockTitle": "Celotno poročilo za par",
+    "unlockText": "Za vsako lastnost poglejte, v čem sta si vi in {name} podobna, kje lahko pride do trenj in kaj pomaga obema.",
+    "includes": [
+      "Vajini rezultati drug ob drugem za vsako lastnost",
+      "V čem sta si podobna in v čem se razlikujeta",
+      "Kaj pomeni vajina kombinacija in kaj pomaga"
+    ],
+    "buy": "Pridobite poročilo za par za {price}",
+    "note": "Eno plačilo za oba. Poročilo pride na vaš e-naslov, da ga lahko posredujete.",
+    "product": "Poročilo za par: {test}"
+  },
+  "passPage": {
+    "title": "Vaš paket",
+    "text": "Vaš paket je zdaj aktiven na tej napravi. Izberite test in vaše poročilo se takoj odklene.",
+    "invalid": "Ta povezava ne deluje. Pišite nam in pomagali vam bomo."
   }
 }

@@ -237,7 +237,11 @@
     "spam": "Nuk të ka ardhur pas 10 minutash? Kontrollo dosjen e postës së padëshiruar ose të promocioneve, ose na kontakto në {email}.",
     "more": "Zbulo më shumë teste",
     "bundleTitle": "Raporti yt i radhës për {price}",
-    "bundleText": "Zgjidh një test tjetër më poshtë dhe bëje brenda {days} ditëve. Raporti i plotë do të kushtojë {price} në vend të {full}. Vlen për një raport shtesë."
+    "bundleText": "Zgjidh një test tjetër më poshtë dhe bëje brenda {days} ditëve. Raporti i plotë do të kushtojë {price} në vend të {full}. Vlen për një raport shtesë.",
+    "packTitle": "Paketa jote është aktive",
+    "packText": "Bëj një test tjetër. Në faqen e rezultateve raporti yt i radhës zhbllokohet menjëherë, pa paguar përsëri. Të mbetura: {count}.",
+    "allTitle": "Qasja jote e plotë është aktive",
+    "allText": "Bëj cilindo test. Në faqen e rezultateve çdo raport zhbllokohet menjëherë, pa paguar përsëri."
   },
   "report": {
     "subject": "Raporti yt: {test}",
@@ -247,7 +251,31 @@
     "outro": "Shpresojmë që ky raport të të japë njohuri të dobishme. Je kurioz/e për anë të tjera të vetes? Zbulo të gjitha testet tona në {url}.",
     "signature": "Ekipi i {site}",
     "instrumentLabel": "{name}: {score} nga {max}",
-    "typeLabel": "Tipi yt"
+    "typeLabel": "Tipi yt",
+    "coupleSubject": "Raporti juaj i çiftit: {test}",
+    "coupleIntro": "Faleminderit që e bëtë së bashku {test} në {site}. Ja raporti i çiftit për ty dhe {name}.",
+    "coupleSummary": "Ky raport të krahason ty dhe {name} në çdo pjesë të {test}. Një ndryshim nuk është problem. Tregon ku keni nevojë për durim me njëri-tjetrin dhe ku mund të mësoni nga njëri-tjetri.",
+    "matchLabel": "Përputhja juaj",
+    "matchName": "{score}% përputhje: {band}",
+    "matchText": {
+      "high": "Shumë gjëra i shihni njësoj, gjë që sjell qetësi dhe besim. Vazhdoni të flisni për ato pak pika ku ndryshoni.",
+      "mid": "Keni një bazë të fortë dhe gjithashtu dallime të qarta. Me pak vëmendje këto dallime e pasurojnë marrëdhënien tuaj.",
+      "low": "Jeni mjaft të ndryshëm. Kjo mund të jetë emocionuese dhe gjithashtu lodhëse. Ky raport tregon ku të tregoni më shumë kujdes."
+    },
+    "typesLine": "Tipi yt: {mine}. {name}: {theirs}.",
+    "scoreLine": "Ti: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Të ngjashëm",
+      "some": "Pjesërisht të ngjashëm",
+      "different": "Të ndryshëm"
+    },
+    "closenessText": {
+      "alike": "Këtu pikët tuaja janë afër. Zakonisht kjo duket e lehtë dhe e natyrshme. Rreziku është që të forconi pikat e verbra të njëri-tjetrit, ndaj herë pas here pyesni çfarë mund t'ju shpëtojë të dyve.",
+      "some": "Këtu ndryshoni pak. Në përditshmëri vështirë se e vini re, por nën stres dallimi mund të duket më i madh. Thuajeni me zë kur shfaqet.",
+      "different": "Këtu ndryshoni shumë. Shpesh pikërisht këtu fillojnë fërkimet dhe pikërisht këtu mund të mësoni më shumë nga njëri-tjetri. Bini dakord si do ta trajtoni para se të kthehet në grindje."
+    },
+    "passLine": "Paketa jote përfshin edhe {count} raporte. Bëj një test tjetër dhe raporti zhbllokohet në faqen e rezultateve. Në një pajisje tjetër, hap fillimisht këtë lidhje: {link}",
+    "passLineAll": "Qasja jote e plotë zhbllokon çdo raport. Bëj një test dhe raporti zhbllokohet në faqen e rezultateve. Në një pajisje tjetër, hap fillimisht këtë lidhje: {link}"
   },
   "footer": {
     "tagline": "Njih veten më mirë",
@@ -278,7 +306,7 @@
     "termsTitle": "Kushtet e shërbimit",
     "termsBody": [
       "Të gjitha testet në {site} janë për vetëreflektim dhe argëtim. Ato nuk janë diagnozë mjekësore, psikologjike ose profesionale.",
-      "Plotësimi i një testi është falas. Një raport personal kushton {price} për test si pagesë e njëhershme. Raporti dorëzohet në formë dixhitale me email.",
+      "Bërja e një testi është falas. Një raport personal kushton {price} për test si pagesë e njëhershme. Mund të blesh gjithashtu një paketë me 3 raporte, qasje në të gjitha raportet ose një raport çifti që krahason dy persona që kanë bërë të njëjtin test. Edhe këto janë pagesa të njëhershme. Raportet dërgohen në mënyrë dixhitale me email.",
       "Meqenëse raporti është përmbajtje dixhitale që dorëzohet menjëherë pas pagesës, pranon që e drejta e tërheqjes skadon sapo raporti të jetë dërguar. Nëse nuk e ke marrë raportin, kontakto {email} dhe do ta ridërgojmë ose do të të rimbursojmë.",
       "Bëjmë çmos që përmbajtja të jetë e saktë, por nuk mund të garantojmë që rezultatet janë të plota ose të sakta për çdo person."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Politika e rimbursimit",
     "refundBody": [
-      "Një raport kushton {price} për test si pagesë e njëhershme. Nuk ka abonim dhe as rinovim automatik.",
+      "Një raport kushton {price} për test si pagesë e njëhershme. Paketat, qasja e plotë dhe raportet e çiftit janë gjithashtu pagesa të njëhershme. Nuk ka abonim dhe as rinovim automatik.",
       "Nuk e more raportin ose diçka shkoi keq? Kontakto {email} brenda 14 ditëve, duke përmendur adresën e emailit që përdore, dhe do ta ridërgojmë raportin ose do të ta kthejmë pagesën.",
       "Meqenëse raporti është përmbajtje dixhitale që dorëzohet menjëherë, e drejta ligjore e tërheqjes skadon sapo të jetë dërguar. Megjithatë, do të të ndihmojmë gjithmonë nëse diçka nuk shkon.",
       "Rimbursimet bëhen në mënyrën origjinale të pagesës brenda 5–10 ditëve pune."
@@ -385,5 +413,61 @@
     "accept": "Pranoj",
     "decline": "Refuzoj",
     "settings": "Ndrysho cilësimet e cookie-ve"
+  },
+  "plans": {
+    "title": "Zgjidh raportin tënd",
+    "single": "Ky raport",
+    "pack": "3 raporte",
+    "packNote": "Ky dhe 2 teste të tjera sipas zgjedhjes",
+    "all": "Të gjitha {count} raportet",
+    "allNote": "Çdo test në faqe, zhbllokoji kur të duash",
+    "save": "Kurse {amount}",
+    "passPack": "Në paketën tënde kanë mbetur {count} raporte",
+    "passAll": "Qasja jote e plotë është aktive",
+    "passUnlock": "Zhblloko këtë raport falas",
+    "passError": "Paketa jote nuk mund të përdorej për këtë raport. Mund ta blesh ende më poshtë.",
+    "packProduct": "{test} + {extra} raporte të tjera",
+    "allProduct": "Të gjitha {count} raportet"
+  },
+  "couple": {
+    "inviteTitle": "Bëje këtë test me partnerin",
+    "inviteText": "Dërgoji partnerit një lidhje. E bën të njëjtin test falas dhe të dy e shihni menjëherë pikët tuaja të përputhjes.",
+    "nameLabel": "Emri yt (opsional)",
+    "createLink": "Fto partnerin tim",
+    "copy": "Kopjo lidhjen",
+    "copied": "Lidhja u kopjua",
+    "inviteMessage": "Bëje {test} me mua dhe të shohim sa përputhemi",
+    "invitedTitle": "{name} të ftoi",
+    "invitedTitleAnon": "Je ftuar",
+    "invitedText": "Bëje {test}. Pas kësaj të dy do të shihni sa përputheni.",
+    "start": "Fillo testin",
+    "invalid": "Kjo lidhje ftese nuk funksionon. Kërkoji partnerit ta dërgojë përsëri.",
+    "matchTitle": "Pikët tuaja të përputhjes",
+    "matchWith": "Ti dhe {name}",
+    "partner": "partneri yt",
+    "bands": {
+      "high": "Përputhje e fortë",
+      "mid": "Përputhje e mirë me hapësirë për rritje",
+      "low": "Të kundërtat tërhiqen"
+    },
+    "shareScore": "Ndaj pikët",
+    "shareText": "Kemi {score}% përputhje në {test}. Po ju sa përputheni?",
+    "sendBackTitle": "Dërgoja pikët: {name}",
+    "sendBackText": "Me këtë lidhje partneri yt sheh të njëjtat pikë.",
+    "unlockTitle": "Raporti i plotë për çiftin",
+    "unlockText": "Shih për çdo tipar ku ti dhe {name} ngjani, ku mund të ketë fërkime dhe çfarë ju ndihmon të dyve.",
+    "includes": [
+      "Pikët tuaja krah për krah për çdo tipar",
+      "Ku ngjani dhe ku ndryshoni",
+      "Çfarë do të thotë kombinimi juaj dhe çfarë ndihmon"
+    ],
+    "buy": "Merr raportin e çiftit për {price}",
+    "note": "Një pagesë për të dy. Raporti vjen në email-in tënd, që ta përcjellësh.",
+    "product": "Raport çifti: {test}"
+  },
+  "passPage": {
+    "title": "Paketa jote",
+    "text": "Paketa jote tani është aktive në këtë pajisje. Zgjidh një test dhe raporti zhbllokohet menjëherë.",
+    "invalid": "Kjo lidhje nuk funksionon. Na kontakto dhe do të të ndihmojmë."
   }
 }

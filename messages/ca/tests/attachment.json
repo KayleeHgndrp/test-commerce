@@ -140,5 +140,17 @@
       "name": "Temorós-evitatiu",
       "text": "Les teves respostes indiquen un estil temorós-evitatiu. Potser desitges la proximitat però alhora et fa por, de manera que les relacions et poden resultar confuses: t'acostes a la gent i després et fas enrere quan es torna intens. La por al rebuig i la incomoditat de dependre dels altres poden conviure. Aquest estil sovint neix d'experiències en què la proximitat no era segura, i no és res de què avergonyir-se. Sigues amable amb tu i busca relacions estables i previsibles. Aprendre a reconèixer i anomenar els teus sentiments ajuda molt. Treballar amb un terapeuta qualificat pot ser especialment valuós per construir una manera de connectar més segura."
     }
+  },
+  "couple": {
+    "secure+secure": "Dues persones segures es donen espai i proximitat sense gaire esforç. Els conflictes rarament es descontrolen, perquè tots dos confieu que el vincle ho aguanta.",
+    "anxious+secure": "La persona segura ofereix la presència estable que la persona ansiosa anhela. Paraules clares de tranquil·litat i rituals fixos ajuden la persona ansiosa a relaxar-se amb el temps.",
+    "avoidant+secure": "La persona segura pot donar espai a la persona evitativa sense sentir-se rebutjada. Petits moments de proximitat sense pressió ajuden la persona evitativa a obrir-se.",
+    "fearful+secure": "La persona segura ofereix una base ferma, que la persona temorosa desitja i tem alhora. La paciència i la previsibilitat compten més que els grans gestos.",
+    "anxious+anxious": "Tots dos anheleu proximitat i enteneu aquesta necessitat en l'altre. Amb estrès podeu alimentar les preocupacions de l'altre, així que calmeu-vos primer abans de parlar-ne.",
+    "anxious+avoidant": "És l'estira i arronsa més conegut: un busca proximitat, l'altre s'allunya, i això fa que el primer insisteixi més. Reconèixer aquest patró junts és el primer pas per trencar-lo.",
+    "anxious+fearful": "Tots dos sentiu molt i teniu por de perdre l'altre. Pot ser molt intens. Acordeu senyals clars per quan un de vosaltres necessiti tranquil·litat o un moment sol.",
+    "avoidant+avoidant": "Tots dos valoreu la independència i rarament us ofegueu. El risc és la distància: sentiments importants queden sense dir. Planifiqueu moments per parlar de debò.",
+    "avoidant+fearful": "Un manté la distància, l'altre oscil·la entre proximitat i retirada. Això pot fer que cap dels dos se senti vist. Digueu en veu alta què necessiteu, encara que sigui incòmode.",
+    "fearful+fearful": "Reconeixeu en l'altre el desig de proximitat i la por que fa. Això pot crear una comprensió profunda i també caos. Una rutina estable i, si cal, ajuda externa us ajuden a tots dos."
   }
 }

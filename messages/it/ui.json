@@ -237,7 +237,11 @@
     "spam": "Non l'hai ricevuto dopo 10 minuti? Controlla la cartella spam o promozioni, oppure scrivici a {email}.",
     "more": "Scopri altri test",
     "bundleTitle": "Il tuo prossimo report a {price}",
-    "bundleText": "Scegli un altro test qui sotto e completalo entro {days} giorni. Il report completo costerà {price} invece di {full}. Valido per un report aggiuntivo."
+    "bundleText": "Scegli un altro test qui sotto e completalo entro {days} giorni. Il report completo costerà {price} invece di {full}. Valido per un report aggiuntivo.",
+    "packTitle": "Il tuo pacchetto è attivo",
+    "packText": "Fai un altro test. Nella pagina dei risultati il tuo prossimo report si sblocca subito, senza pagare di nuovo. Rimasti: {count}.",
+    "allTitle": "Il tuo pass completo è attivo",
+    "allText": "Fai il test che vuoi. Nella pagina dei risultati ogni report si sblocca subito, senza pagare di nuovo."
   },
   "report": {
     "subject": "Il tuo report: {test}",
@@ -247,7 +251,31 @@
     "outro": "Speriamo che questo report ti offra spunti utili. Curioso di scoprire altri aspetti di te? Trovi tutti i nostri test su {url}.",
     "signature": "Il team di {site}",
     "instrumentLabel": "{name}: {score} su {max}",
-    "typeLabel": "Il tuo tipo"
+    "typeLabel": "Il tuo tipo",
+    "coupleSubject": "Il vostro report di coppia: {test}",
+    "coupleIntro": "Grazie per aver fatto insieme il {test} su {site}. Ecco il report di coppia per te e {name}.",
+    "coupleSummary": "Questo report confronta te e {name} su ogni parte del {test}. Una differenza non è un problema. Mostra dove vi serve pazienza reciproca e dove potete imparare l'uno dall'altro.",
+    "matchLabel": "La vostra affinità",
+    "matchName": "{score}% di affinità: {band}",
+    "matchText": {
+      "high": "Vedete molte cose allo stesso modo, e questo dà calma e fiducia. Continuate a parlare dei pochi punti in cui siete diversi.",
+      "mid": "Avete una base solida e anche differenze chiare. Con un po' di attenzione queste differenze rendono più ricca la vostra relazione.",
+      "low": "Siete piuttosto diversi. Può essere stimolante e anche faticoso. Questo report mostra dove fare più attenzione."
+    },
+    "typesLine": "Il tuo tipo: {mine}. {name}: {theirs}.",
+    "scoreLine": "Tu: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Simili",
+      "some": "In parte simili",
+      "different": "Diversi"
+    },
+    "closenessText": {
+      "alike": "Qui i vostri punteggi sono vicini. Di solito questo risulta facile e naturale. Il rischio è rafforzare i rispettivi punti ciechi, quindi ogni tanto chiedetevi cosa potreste non vedere entrambi.",
+      "some": "Qui siete un po' diversi. Nella vita di tutti i giorni lo noterete appena, ma sotto stress la distanza può sembrare maggiore. Ditelo ad alta voce quando succede.",
+      "different": "Qui siete molto diversi. È spesso qui che nascono gli attriti, ed è anche qui che potete imparare di più l'uno dall'altro. Mettetevi d'accordo su come gestirlo prima che diventi un litigio."
+    },
+    "passLine": "Il tuo pacchetto include altri {count} report. Fai un altro test e il report si sblocca nella pagina dei risultati. Su un altro dispositivo apri prima questo link: {link}",
+    "passLineAll": "Il tuo pass completo sblocca ogni report. Fai un test e il report si sblocca nella pagina dei risultati. Su un altro dispositivo apri prima questo link: {link}"
   },
   "footer": {
     "tagline": "Conosci meglio te stesso",
@@ -278,7 +306,7 @@
     "termsTitle": "Termini di servizio",
     "termsBody": [
       "Tutti i test su {site} sono pensati per l'autoriflessione e l'intrattenimento. Non costituiscono una diagnosi medica, psicologica o professionale.",
-      "Fare un test è gratuito. Un report personale costa {price} per test, con pagamento unico. Il report viene consegnato in formato digitale via email.",
+      "Fare un test è gratuito. Un report personale costa {price} per test come pagamento unico. Puoi anche acquistare un pacchetto di 3 report, un pass per tutti i report o un report di coppia che confronta due persone che hanno fatto lo stesso test. Anche questi sono pagamenti unici. I report vengono consegnati in formato digitale via email.",
       "Poiché il report è un contenuto digitale fornito subito dopo il pagamento, accetti che il diritto di recesso decada una volta inviato il report. Se non hai ricevuto il report, scrivi a {email} e te lo invieremo di nuovo o ti rimborseremo.",
       "Facciamo del nostro meglio per mantenere i contenuti accurati, ma non possiamo garantire che i risultati siano completi o corretti per ogni persona."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Politica di rimborso",
     "refundBody": [
-      "Un report costa {price} per test, con pagamento unico. Non c'è alcun abbonamento né rinnovo automatico.",
+      "Un report costa {price} per test come pagamento unico. Anche i pacchetti, il pass completo e i report di coppia sono pagamenti unici. Non c'è alcun abbonamento né rinnovo automatico.",
       "Non hai ricevuto il report o qualcosa è andato storto? Scrivi a {email} entro 14 giorni indicando l'indirizzo email che hai usato, e ti invieremo di nuovo il report o ti rimborseremo il pagamento.",
       "Poiché il report è un contenuto digitale consegnato immediatamente, il diritto di recesso previsto dalla legge decade una volta inviato. Ti aiuteremo comunque sempre se qualcosa non va.",
       "I rimborsi vengono effettuati sul metodo di pagamento originale entro 5–10 giorni lavorativi."
@@ -385,5 +413,61 @@
     "accept": "Accetta",
     "decline": "Rifiuta",
     "settings": "Modifica le impostazioni dei cookie"
+  },
+  "plans": {
+    "title": "Scegli il tuo report",
+    "single": "Questo report",
+    "pack": "3 report",
+    "packNote": "Questo più altri 2 test a tua scelta",
+    "all": "Tutti i {count} report",
+    "allNote": "Ogni test del sito, sbloccali quando vuoi",
+    "save": "Risparmi {amount}",
+    "passPack": "Nel tuo pacchetto restano {count} report",
+    "passAll": "Il tuo pass completo è attivo",
+    "passUnlock": "Sblocca questo report gratis",
+    "passError": "Non è stato possibile usare il tuo pacchetto per questo report. Puoi comunque acquistarlo qui sotto.",
+    "packProduct": "{test} + altri {extra} report",
+    "allProduct": "Tutti i {count} report"
+  },
+  "couple": {
+    "inviteTitle": "Fai questo test con il tuo partner",
+    "inviteText": "Invia un link al tuo partner. Fa lo stesso test gratis e vedete subito entrambi il vostro punteggio di affinità.",
+    "nameLabel": "Il tuo nome (facoltativo)",
+    "createLink": "Invita il mio partner",
+    "copy": "Copia link",
+    "copied": "Link copiato",
+    "inviteMessage": "Fai il {test} con me e vediamo quanto siamo affini",
+    "invitedTitle": "{name} ti ha invitato",
+    "invitedTitleAnon": "Sei stato invitato",
+    "invitedText": "Fai il {test}. Poi vedrete entrambi quanto siete affini.",
+    "start": "Inizia il test",
+    "invalid": "Questo link di invito non funziona. Chiedi al tuo partner di inviarlo di nuovo.",
+    "matchTitle": "Il vostro punteggio di affinità",
+    "matchWith": "Tu e {name}",
+    "partner": "il tuo partner",
+    "bands": {
+      "high": "Grande affinità",
+      "mid": "Buona affinità con margine di crescita",
+      "low": "Gli opposti si attraggono"
+    },
+    "shareScore": "Condividi il punteggio",
+    "shareText": "Abbiamo un'affinità del {score}% al {test}. E voi?",
+    "sendBackTitle": "Invia il punteggio a {name}",
+    "sendBackText": "Con questo link il tuo partner vede lo stesso punteggio.",
+    "unlockTitle": "Il report di coppia completo",
+    "unlockText": "Scopri per ogni tratto dove tu e {name} vi somigliate, dove possono nascere attriti e cosa aiuta entrambi.",
+    "includes": [
+      "I vostri punteggi affiancati per ogni tratto",
+      "Dove vi somigliate e dove siete diversi",
+      "Cosa significa la vostra combinazione e cosa aiuta"
+    ],
+    "buy": "Ottieni il report di coppia a {price}",
+    "note": "Un solo pagamento per entrambi. Il report arriva via email, così puoi inoltrarlo.",
+    "product": "Report di coppia: {test}"
+  },
+  "passPage": {
+    "title": "Il tuo pacchetto",
+    "text": "Il tuo pacchetto è ora attivo su questo dispositivo. Scegli un test e il tuo report si sblocca subito.",
+    "invalid": "Questo link non funziona. Contattaci e ti aiuteremo."
   }
 }

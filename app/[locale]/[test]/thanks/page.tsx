@@ -1,13 +1,15 @@
 import Link from "next/link";
 import { Suspense } from "react";
 import { BundleOffer } from "@/components/BundleOffer";
+import { CoupleInvite } from "@/components/CoupleInvite";
+import { PassSaver } from "@/components/PassSaver";
 import { ReportView } from "@/components/ReportView";
 import { TestCard } from "@/components/TestCard";
 import { TrackPurchase } from "@/components/TrackPurchase";
-import { deliverOnce, retrievePaidOrder } from "@/lib/delivery";
+import { deliverOnce, retrievePaidOrder, retrievePass } from "@/lib/delivery";
 import type { Locale } from "@/lib/i18n/locales";
 import { allDefinitions, fmt, getDefinition, getTestText, type UiMessages } from "@/lib/i18n/messages";
-import { buildReport } from "@/lib/report/render";
+import { buildCoupleReport, buildReport } from "@/lib/report/render";
 import { formatPrice, site } from "@/lib/site";
 import { loadTestPage, testStaticParams } from "@/lib/tests/params";
 import { decodeAnswers } from "@/lib/tests/scoring";
@@ -29,6 +31,19 @@ async function PaidReport({ locale, slug, thanks, searchParams }: { locale: Loca
   let answers: number[] | null = null;
   let order: Awaited<ReturnType<typeof retrievePaidOrder>> = null;
 
+  // A report unlocked with a pack: the pass must cover this test.
+  if (typeof query.pass === "string" && typeof query.answers === "string") {
+    const pass = await retrievePass(query.pass).catch(() => null);
+    const decoded = decodeAnswers(getDefinition(slug)!, query.answers);
+    if (!pass || !decoded || !pass.covered.includes(slug)) return null;
+    return (
+      <div className="mt-10">
+        <PassStatus plan={pass.order.plan} remaining={pass.remaining} thanks={thanks} />
+        <ReportView report={await buildReport(locale, slug, decoded)} />
+      </div>
+    );
+  }
+
   if (sessionId) {
     order = await retrievePaidOrder(sessionId);
     if (order && order.slug === slug) {
@@ -41,12 +56,27 @@ async function PaidReport({ locale, slug, thanks, searchParams }: { locale: Loca
   }
 
   if (!answers) return null;
+  if (order?.partner) {
+    return (
+      <div className="mt-10">
+        <TrackPurchase test={slug} sessionId={sessionId} amount={(order.session.amount_total ?? site.couplePriceCents) / 100} currency={site.currency} />
+        <ReportView report={await buildCoupleReport(locale, slug, answers, order.partner.answers, order.partner.name)} />
+      </div>
+    );
+  }
+  const isPass = order?.plan === "pack" || order?.plan === "all";
   const offerVars = { price: formatPrice(locale, site.bundlePriceCents), full: formatPrice(locale), days: site.bundleDays };
   return (
     <div className="mt-10">
       {sessionId && <TrackPurchase test={slug} sessionId={sessionId} amount={(order?.session.amount_total ?? site.priceCents) / 100} currency={site.currency} />}
+      {isPass && (
+        <>
+          <PassStatus plan={order!.plan} remaining={site.packSize - 1} thanks={thanks} />
+          <PassSaver sessionId={order!.session.id} ok="" />
+        </>
+      )}
       <ReportView report={await buildReport(locale, slug, answers)} />
-      {order && !order.session.metadata.bundle_from && (
+      {order?.plan === "single" && !order.session.metadata.bundle_from && (
         <BundleOffer
           sessionId={order.session.id}
           slug={slug}
@@ -55,6 +85,15 @@ async function PaidReport({ locale, slug, thanks, searchParams }: { locale: Loca
           text={fmt(thanks.bundleText, offerVars)}
         />
       )}
+    </div>
+  );
+}
+
+function PassStatus({ plan, remaining, thanks }: { plan: string; remaining: number; thanks: UiMessages["thanks"] }) {
+  return (
+    <div className="mb-8 rounded-2xl border-2 border-accent bg-background p-6 text-center">
+      <h2 className="text-xl font-bold">{plan === "all" ? thanks.allTitle : thanks.packTitle}</h2>
+      <p className="mx-auto mt-2 max-w-lg leading-relaxed text-muted">{plan === "all" ? thanks.allText : fmt(thanks.packText, { count: remaining })}</p>
     </div>
   );
 }
@@ -76,6 +115,7 @@ export default async function ThanksPage({ params, searchParams }: PageProps<"/[
         <Suspense fallback={<div className="mt-10 h-40 animate-pulse rounded-2xl bg-background" />}>
           <PaidReport locale={locale} slug={def.slug} thanks={ui.thanks} searchParams={searchParams} />
         </Suspense>
+        {site.coupleTests.includes(def.slug) && <CoupleInvite locale={locale} slug={def.slug} testName={text.name} ui={ui.couple} />}
         {related.length > 0 && (
           <section className="mt-12">
             <h2 className="mb-4 text-xl font-semibold">{ui.test.otherTests}</h2>

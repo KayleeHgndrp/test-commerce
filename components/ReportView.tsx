@@ -15,7 +15,7 @@ export function ReportView({ report }: { report: Report }) {
       <p className="leading-relaxed text-muted">{text.summary}</p>
       {headline && (
         <div className="rounded-2xl bg-accent-soft p-6">
-          <p className="text-xs font-bold uppercase tracking-wider text-accent">{ui.report.typeLabel}</p>
+          <p className="text-xs font-bold uppercase tracking-wider text-accent">{headline.label ?? ui.report.typeLabel}</p>
           <p className="mt-1 font-display text-2xl font-extrabold">{headline.name}</p>
           <p className="mt-2 leading-relaxed">{headline.text}</p>
         </div>

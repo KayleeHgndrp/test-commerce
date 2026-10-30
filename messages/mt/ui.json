@@ -237,7 +237,11 @@
     "spam": "Ma rċevejtux wara 10 minuti? Iċċekkja l-folder tal-ispam jew tal-promozzjonijiet, jew ikkuntattjana fuq {email}.",
     "more": "Skopri aktar testijiet",
     "bundleTitle": "Ir-rapport li jmiss tiegħek għal {price}",
-    "bundleText": "Agħżel test ieħor hawn taħt u agħmlu fi żmien {days} ijiem. Ir-rapport sħiħ imbagħad jiswa {price} minflok {full}. Validu għal rapport wieħed żejjed."
+    "bundleText": "Agħżel test ieħor hawn taħt u agħmlu fi żmien {days} ijiem. Ir-rapport sħiħ imbagħad jiswa {price} minflok {full}. Validu għal rapport wieħed żejjed.",
+    "packTitle": "Il-pakkett tiegħek huwa attiv",
+    "packText": "Agħmel test ieħor. Fil-paġna tar-riżultati r-rapport li jmiss jinfetaħ mill-ewwel, mingħajr ma tħallas mill-ġdid. Fadal: {count}.",
+    "allTitle": "L-aċċess sħiħ tiegħek huwa attiv",
+    "allText": "Agħmel liema test trid. Fil-paġna tar-riżultati kull rapport jinfetaħ mill-ewwel, mingħajr ma tħallas mill-ġdid."
   },
   "report": {
     "subject": "Ir-rapport tiegħek: {test}",
@@ -247,7 +251,31 @@
     "outro": "Nittamaw li dan ir-rapport jagħtik għarfien utli. Kurjuż dwar aspetti oħra tiegħek? Skopri t-testijiet kollha tagħna fuq {url}.",
     "signature": "It-tim ta' {site}",
     "instrumentLabel": "{name}: {score} minn {max}",
-    "typeLabel": "It-tip tiegħek"
+    "typeLabel": "It-tip tiegħek",
+    "coupleSubject": "Ir-rapport tal-koppja tagħkom: {test}",
+    "coupleIntro": "Grazzi talli għamiltu {test} flimkien fuq {site}. Hawn hu r-rapport tal-koppja għalik u għal {name}.",
+    "coupleSummary": "Dan ir-rapport iqabblek ma' {name} f'kull parti ta' {test}. Differenza mhix problema. Turi fejn għandkom bżonn paċenzja ma' xulxin u fejn tistgħu titgħallmu minn xulxin.",
+    "matchLabel": "Il-kompatibbiltà tagħkom",
+    "matchName": "{score}% kompatibbiltà: {band}",
+    "matchText": {
+      "high": "Taraw ħafna affarijiet bl-istess mod, u dan jagħti kalma u fiduċja. Kompli tkellmu dwar il-ftit punti fejn tvarjaw.",
+      "mid": "Għandkom bażi soda u wkoll differenzi ċari. B'ftit attenzjoni dawn id-differenzi jagħmlu r-relazzjoni tagħkom aktar sinjura.",
+      "low": "Intom pjuttost differenti. Dan jista' jkun eċċitanti u wkoll għajjien. Dan ir-rapport juri fejn għandkom tagħtu aktar attenzjoni."
+    },
+    "typesLine": "It-tip tiegħek: {mine}. {name}: {theirs}.",
+    "scoreLine": "Int: {mine}% · {name}: {theirs}%",
+    "closeness": {
+      "alike": "Simili",
+      "some": "Parzjalment simili",
+      "different": "Differenti"
+    },
+    "closenessText": {
+      "alike": "Hawnhekk il-punteġġi tagħkom huma qrib. Normalment dan iħossu faċli u naturali. Ir-riskju hu li ssaħħu l-punti għomja ta' xulxin, għalhekk minn żmien għal żmien staqsu x'tistgħu tkunu qed titilfu t-tnejn.",
+      "some": "Hawnhekk tvarjaw ftit. Fil-ħajja ta' kuljum bilkemm tinnutaw, imma taħt stress id-differenza tista' tidher akbar. Għiduha b'leħen għoli meta tinħoloq.",
+      "different": "Hawnhekk tvarjaw ħafna. Spiss hawnhekk tibda l-frizzjoni, u hawnhekk ukoll tistgħu titgħallmu l-aktar minn xulxin. Ftehmu kif se timmaniġġjawha qabel ma ssir argument."
+    },
+    "passLine": "Il-pakkett tiegħek fih {count} rapporti oħra. Agħmel test ieħor u r-rapport jinfetaħ fil-paġna tar-riżultati. Fuq apparat ieħor, l-ewwel iftaħ dan il-link: {link}",
+    "passLineAll": "L-aċċess sħiħ tiegħek jiftaħ kull rapport. Agħmel test u r-rapport jinfetaħ fil-paġna tar-riżultati. Fuq apparat ieħor, l-ewwel iftaħ dan il-link: {link}"
   },
   "footer": {
     "tagline": "Sir af lilek innifsek aħjar",
@@ -278,7 +306,7 @@
     "termsTitle": "Termini tas-servizz",
     "termsBody": [
       "It-testijiet kollha fuq {site} huma maħsuba għar-riflessjoni personali u għad-divertiment. Mhumiex dijanjożi medika, psikoloġika jew professjonali.",
-      "Li tagħmel test huwa b'xejn. Rapport personali jiswa {price} għal kull test bħala ħlas ta' darba. Ir-rapport jiġi kkunsinnat diġitalment bl-email.",
+      "Li tagħmel test huwa b'xejn. Rapport personali jiswa {price} għal kull test bħala ħlas ta' darba. Tista' tixtri wkoll pakkett ta' 3 rapporti, aċċess għar-rapporti kollha jew rapport tal-koppja li jqabbel żewġ persuni li għamlu l-istess test. Dawn ukoll huma ħlasijiet ta' darba. Ir-rapporti jitwasslu b'mod diġitali bl-email.",
       "Peress li r-rapport huwa kontenut diġitali kkunsinnat immedjatament wara l-ħlas, taqbel li d-dritt ta' rtirar jiskadi ladarba r-rapport jintbagħat. Jekk ma rċevejtx ir-rapport tiegħek, ikkuntattja lil {email} u nerġgħu nibagħtuhulek jew inroddulek flusek.",
       "Nagħmlu ħilitna biex il-kontenut ikun preċiż, iżda ma nistgħux niggarantixxu li r-riżultati huma kompluti jew korretti għal kull persuna."
     ],
@@ -291,7 +319,7 @@
     ],
     "refundTitle": "Politika tar-rifużjoni",
     "refundBody": [
-      "Rapport jiswa {price} għal kull test bħala ħlas ta' darba. M'hemmx abbonament u l-ebda tiġdid awtomatiku.",
+      "Rapport jiswa {price} għal kull test bħala ħlas ta' darba. Il-pakketti, l-aċċess sħiħ u r-rapporti tal-koppja huma wkoll ħlasijiet ta' darba. M'hemm l-ebda abbonament u l-ebda tiġdid awtomatiku.",
       "Ma rċevejtx ir-rapport tiegħek, jew xi ħaġa marret ħażin? Ikkuntattja lil {email} fi żmien 14-il jum, billi ssemmi l-indirizz tal-email li użajt, u nerġgħu nibagħtulek ir-rapport jew inroddulek il-ħlas.",
       "Peress li r-rapport huwa kontenut diġitali li jiġi kkunsinnat immedjatament, id-dritt statutorju ta' rtirar jiskadi ladarba jintbagħat. Madankollu, dejjem ngħinuk jekk xi ħaġa ma tkunx sew.",
       "Ir-rifużjonijiet isiru fuq il-metodu tal-ħlas oriġinali fi żmien 5–10 ijiem tax-xogħol."
@@ -385,5 +413,61 @@
     "accept": "Aċċetta",
     "decline": "Irrifjuta",
     "settings": "Ibdel is-settings tal-cookies"
+  },
+  "plans": {
+    "title": "Agħżel ir-rapport tiegħek",
+    "single": "Dan ir-rapport",
+    "pack": "3 rapporti",
+    "packNote": "Dan u 2 testijiet oħra tal-għażla tiegħek",
+    "all": "Ir-rapporti kollha ({count})",
+    "allNote": "Kull test fuq is-sit, iftaħhom meta trid",
+    "save": "Iffranka {amount}",
+    "passPack": "Il-pakkett tiegħek għad fadallu {count} rapporti",
+    "passAll": "L-aċċess sħiħ tiegħek huwa attiv",
+    "passUnlock": "Iftaħ dan ir-rapport b'xejn",
+    "passError": "Il-pakkett tiegħek ma setax jintuża għal dan ir-rapport. Xorta tista' tixtrih hawn taħt.",
+    "packProduct": "{test} + {extra} rapporti oħra",
+    "allProduct": "Ir-rapporti kollha ({count})"
+  },
+  "couple": {
+    "inviteTitle": "Agħmel dan it-test mas-sieħeb tiegħek",
+    "inviteText": "Ibgħat link lis-sieħeb tiegħek. Jagħmel l-istess test b'xejn u t-tnejn li intom taraw il-punteġġ ta' kompatibbiltà tagħkom mill-ewwel.",
+    "nameLabel": "L-ewwel isem tiegħek (mhux obbligatorju)",
+    "createLink": "Stieden lis-sieħeb tiegħi",
+    "copy": "Ikkopja l-link",
+    "copied": "Il-link ġie kkupjat",
+    "inviteMessage": "Agħmel {test} miegħi u ejja naraw kemm naqblu",
+    "invitedTitle": "{name} stiednek",
+    "invitedTitleAnon": "Ġejt mistieden",
+    "invitedText": "Agħmel {test}. Wara t-tnejn li intom taraw kemm taqblu.",
+    "start": "Ibda t-test",
+    "invalid": "Dan il-link tal-istedina ma jaħdimx. Itlob lis-sieħeb tiegħek jibagħtu mill-ġdid.",
+    "matchTitle": "Il-kompatibbiltà tagħkom",
+    "matchWith": "Int u {name}",
+    "partner": "is-sieħeb tiegħek",
+    "bands": {
+      "high": "Kompatibbiltà qawwija",
+      "mid": "Kompatibbiltà tajba bi spazju biex tikber",
+      "low": "L-opposti jattiraw lil xulxin"
+    },
+    "shareScore": "Aqsam il-punteġġ",
+    "shareText": "Għandna {score}% kompatibbiltà f'{test}. U intom kemm taqblu?",
+    "sendBackTitle": "Ibgħat il-punteġġ lil {name}",
+    "sendBackText": "B'dan il-link is-sieħeb tiegħek jara l-istess punteġġ.",
+    "unlockTitle": "Ir-rapport sħiħ għall-koppja",
+    "unlockText": "Ara għal kull karatteristika fejn int u {name} tixxiebhu, fejn jista' jkun hemm frizzjoni u x'jgħin lit-tnejn li intom.",
+    "includes": [
+      "Il-punteġġi tagħkom ħdejn xulxin għal kull karatteristika",
+      "Fejn tixxiebhu u fejn tvarjaw",
+      "X'tfisser il-kombinazzjoni tagħkom u x'jgħin"
+    ],
+    "buy": "Ikseb ir-rapport tal-koppja għal {price}",
+    "note": "Ħlas wieħed għat-tnejn li intom. Ir-rapport jasal fl-email tiegħek biex tkun tista' tgħaddih.",
+    "product": "Rapport tal-koppja: {test}"
+  },
+  "passPage": {
+    "title": "Il-pakkett tiegħek",
+    "text": "Il-pakkett tiegħek issa huwa attiv fuq dan l-apparat. Agħżel test u r-rapport tiegħek jinfetaħ mill-ewwel.",
+    "invalid": "Dan il-link ma jaħdimx. Ikkuntattjana u ngħinuk."
   }
 }
