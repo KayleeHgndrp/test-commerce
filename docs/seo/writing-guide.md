@@ -20,11 +20,12 @@ Deze regels gelden voor elk artikel in elke taal. `npm run check:blog` controlee
 ## Opbouw
 
 1. Eerste alinea beantwoordt de zoekvraag direct, in 2 tot 3 zinnen.
-2. 4 tot 7 tussenkoppen (`##`), waarvan minstens één in de vorm van een vraag die mensen echt intypen.
+2. 6 tot 9 tussenkoppen (`##`), waarvan minstens één in de vorm van een vraag die mensen echt intypen.
 3. Halverwege of aan het eind een natuurlijke link naar de passende test (`/{taal}/{test}`).
 4. Korte afsluiting zonder "conclusie"-kop.
 5. 3 of 4 FAQ-vragen in de front matter.
-6. Lengte: 900 tot 1.400 woorden.
+6. Lengte: 1.800 tot 2.500 woorden. Lengte komt uit diepgang, niet uit opvulling: minstens drie uitgewerkte voorbeelden uit het dagelijks leven, een stuk "hoe herken je het bij jezelf", praktische stappen en een eerlijke sectie over wat de test wel en niet zegt.
+7. Interne links: naar de bijbehorende test (minstens twee keer, natuurlijk in de tekst) en naar minstens twee eerdere artikelen in dezelfde taal.
 
 ## Lokalisatie
 
