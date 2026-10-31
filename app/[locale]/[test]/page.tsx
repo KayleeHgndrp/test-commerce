@@ -50,6 +50,7 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
         >
           {ui.test.start} →
         </Link>
+        <p className="mt-4 text-sm text-muted">{fmt(ui.test.priceNote, { price: formatPrice(locale) })}</p>
         {def.category === "screeners" && <p className="mt-4 text-xs text-muted">{ui.test.screenerNote}</p>}
       </div>
 

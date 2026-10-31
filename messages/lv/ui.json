@@ -123,6 +123,7 @@
     "start": "Sākt testu",
     "questions": "Jautājumi: {count}",
     "minutes": "{count} min",
+    "priceNote": "Tests ir bez maksas. Pilnais pārskats maksā {price}, vienreizējs maksājums, bez abonementa.",
     "aboutTitle": "Par šo testu",
     "measuresTitle": "Ko šis tests mēra",
     "whatYouGet": "Ko ietver tavs pārskats",
@@ -213,6 +214,7 @@
     "title": "Tavi rezultāti ir gatavi",
     "subtitle": "Tu esi pabeidzis testu “{test}”. Atbloķē savu pilno personīgo pārskatu, lai redzētu savus rezultātus un to nozīmi.",
     "mainType": "Tavs galvenais tips",
+    "topScore": "Tavs augstākais rezultāts",
     "locked": "Bloķēts",
     "unlockTitle": "Saņem pilnu pārskatu",
     "unlockText": "Tavs detalizētais pārskats ar visiem rezultātiem, personīgām interpretācijām un praktiskiem padomiem, nosūtīts uz tavu e-pastu.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Tu neesi viens",
     "crisisText": "Tu norādīji, ka tev ir bijušas domas, ka tev būtu labāk būt mirušam, vai domas par sev nodarītu kaitējumu. Lūdzu, vēl šodien parunā ar kādu. Ja esi tiešās briesmās, zvani 112. Jebkurā diennakts laikā vari sazināties arī ar krīzes tālruni savā valstī, piemēram, kādu no tiem, kas norādīti vietnē findahelpline.com.",
     "crisisLink": "Atrodi palīdzības tālruni savā tuvumā",
-    "bundleNote": "Komplekta cena: {price}, nevis {full}"
+    "bundleNote": "Komplekta cena: {price}, nevis {full}",
+    "teaserMore": "Tas ir tikai sākums. Tavs pilnais pārskats iet daudz dziļāk."
   },
   "thanks": {
     "title": "Paldies par pirkumu!",

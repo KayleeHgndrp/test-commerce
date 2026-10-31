@@ -21,6 +21,8 @@ type Props = {
   allPrice: string;
   allCount: number;
   includes: string[];
+  teasers: Record<string, { name: string; text: string }>;
+  teaserLabel: string;
   ui: UiMessages["result"];
   plansUi: UiMessages["plans"];
   children?: React.ReactNode;
@@ -34,7 +36,7 @@ type Plan = "single" | "pack" | "all";
 export const bundleKey = "bundle-offer";
 export const passKey = "report-pass";
 
-export function ResultPreview({ locale, def, name, dimensionNames, price, bundlePrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, children }: Props) {
+export function ResultPreview({ locale, def, name, dimensionNames, price, bundlePrice, packPrice, packSave, allPrice, allCount, includes, teasers, teaserLabel, ui, plansUi, children }: Props) {
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
   const [bundle, setBundle] = useState<Bundle | null>(null);
   const [pass, setPass] = useState<PassStatus | null>(null);
@@ -87,6 +89,8 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
   }
 
   const result = scoreTest(def, decodeAnswers(def, stored.answers)!);
+  const strongest = [...result.scores].sort((a, b) => b.percent - a.percent)[0]?.dim;
+  const teaser = teasers[result.type ?? strongest ?? ""];
 
   async function redeem() {
     setError("");
@@ -153,6 +157,15 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
         <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">{ui.title}</h1>
         <p className="mx-auto mt-3 max-w-xl text-muted">{fmt(ui.subtitle, { test: name })}</p>
       </div>
+
+      {teaser && (
+        <div className="mx-auto mt-8 max-w-2xl rounded-2xl border border-accent/30 bg-accent/5 p-6 text-center">
+          <p className="text-xs font-semibold uppercase tracking-wider text-accent">{teaserLabel}</p>
+          <p className="mt-2 text-2xl font-bold tracking-tight">{teaser.name}</p>
+          <p className="mt-3 leading-relaxed text-muted">{teaser.text}</p>
+          <p className="mt-4 text-sm font-semibold">{ui.teaserMore}</p>
+        </div>
+      )}
 
       <div className="mt-10 grid items-start gap-6 md:grid-cols-5">
         <div className="relative overflow-hidden rounded-2xl border border-border bg-surface p-6 md:col-span-3">

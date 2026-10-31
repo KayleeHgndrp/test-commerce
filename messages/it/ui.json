@@ -123,6 +123,7 @@
     "start": "Inizia il test",
     "questions": "{count} domande",
     "minutes": "{count} min",
+    "priceNote": "Il test è gratuito. Il report completo costa {price}, pagamento unico, nessun abbonamento.",
     "aboutTitle": "Informazioni su questo test",
     "measuresTitle": "Cosa misura questo test",
     "whatYouGet": "Cosa include il tuo report",
@@ -213,6 +214,7 @@
     "title": "I tuoi risultati sono pronti",
     "subtitle": "Hai completato il test «{test}». Sblocca il tuo report personale completo per vedere i tuoi punteggi e cosa significano.",
     "mainType": "Il tuo tipo principale",
+    "topScore": "Il tuo punteggio più alto",
     "locked": "Bloccato",
     "unlockTitle": "Ottieni il tuo report completo",
     "unlockText": "Il tuo report dettagliato con tutti i punteggi, interpretazioni personali e consigli pratici, inviato alla tua email.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Non sei solo",
     "crisisText": "Hai indicato di aver avuto pensieri di essere meglio morto o di farti del male. Ti preghiamo di parlarne con qualcuno oggi stesso. Se sei in pericolo immediato, chiama il 112. Puoi anche contattare a qualsiasi ora una linea di supporto per le crisi nel tuo Paese, come quelle elencate su findahelpline.com.",
     "crisisLink": "Trova una linea di aiuto vicino a te",
-    "bundleNote": "Prezzo pacchetto: {price} invece di {full}"
+    "bundleNote": "Prezzo pacchetto: {price} invece di {full}",
+    "teaserMore": "Questo è solo l'inizio. Il tuo report completo va molto più a fondo."
   },
   "thanks": {
     "title": "Grazie per il tuo acquisto!",

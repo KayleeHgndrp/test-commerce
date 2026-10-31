@@ -123,6 +123,7 @@
     "start": "Teste başla",
     "questions": "{count} soru",
     "minutes": "{count} dk",
+    "priceNote": "Test ücretsizdir. Tam rapor {price}, tek seferlik ödeme, abonelik yok.",
     "aboutTitle": "Bu test hakkında",
     "measuresTitle": "Bu test neyi ölçer",
     "whatYouGet": "Raporunuzda neler var?",
@@ -213,6 +214,7 @@
     "title": "Sonuçlarınız hazır",
     "subtitle": "{test} testini tamamladınız. Puanlarınızı ve ne anlama geldiklerini görmek için tam kişisel raporunuzun kilidini açın.",
     "mainType": "Ana tipiniz",
+    "topScore": "En yüksek puanınız",
     "locked": "Kilitli",
     "unlockTitle": "Tam raporunuzu alın",
     "unlockText": "Tüm puanlarınızı, kişisel yorumları ve pratik önerileri içeren ayrıntılı raporunuz e-posta adresinize gönderilir.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Yalnız değilsiniz",
     "crisisText": "Ölmüş olmanın daha iyi olacağına dair ya da kendinize zarar vermeye yönelik düşünceleriniz olduğunu belirttiniz. Lütfen bugün biriyle konuşun. Acil bir tehlike altındaysanız 112'yi arayın. Ayrıca günün her saatinde, findahelpline.com'da listelenenler gibi ülkenizdeki bir kriz hattına da ulaşabilirsiniz.",
     "crisisLink": "Yakınınızdaki bir yardım hattını bulun",
-    "bundleNote": "Paket fiyatı: {full} yerine {price}"
+    "bundleNote": "Paket fiyatı: {full} yerine {price}",
+    "teaserMore": "Bu sadece başlangıç. Tam rapor çok daha derine iniyor."
   },
   "thanks": {
     "title": "Satın aldığınız için teşekkürler!",

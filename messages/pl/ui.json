@@ -123,6 +123,7 @@
     "start": "Rozpocznij test",
     "questions": "Liczba pytań: {count}",
     "minutes": "{count} min",
+    "priceNote": "Test jest bezpłatny. Pełny raport kosztuje {price}, płatność jednorazowa, bez subskrypcji.",
     "aboutTitle": "O tym teście",
     "measuresTitle": "Co mierzy ten test",
     "whatYouGet": "Co zawiera Twój raport",
@@ -213,6 +214,7 @@
     "title": "Twoje wyniki są gotowe",
     "subtitle": "Test „{test}” został ukończony. Odblokuj pełny raport osobisty, aby zobaczyć swoje wyniki i ich znaczenie.",
     "mainType": "Twój główny typ",
+    "topScore": "Twój najwyższy wynik",
     "locked": "Zablokowane",
     "unlockTitle": "Odbierz pełny raport",
     "unlockText": "Szczegółowy raport ze wszystkimi wynikami, osobistą interpretacją i praktycznymi wskazówkami, wysłany na Twój e-mail.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Nie jesteś sam(a)",
     "crisisText": "Z Twoich odpowiedzi wynika, że miewasz myśli, że lepiej byłoby nie żyć, albo myśli o zrobieniu sobie krzywdy. Proszę, porozmawiaj z kimś jeszcze dziś. Jeśli grozi Ci bezpośrednie niebezpieczeństwo, zadzwoń pod 112. Możesz też o każdej porze skontaktować się z telefonem zaufania w swoim kraju, np. z listy na findahelpline.com.",
     "crisisLink": "Znajdź telefon zaufania w pobliżu",
-    "bundleNote": "Cena w pakiecie: {price} zamiast {full}"
+    "bundleNote": "Cena w pakiecie: {price} zamiast {full}",
+    "teaserMore": "To dopiero początek. Pełny raport sięga znacznie głębiej."
   },
   "thanks": {
     "title": "Dziękujemy za zakup!",

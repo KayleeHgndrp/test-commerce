@@ -123,6 +123,7 @@
     "start": "Alusta testi",
     "questions": "{count} küsimust",
     "minutes": "{count} min",
+    "priceNote": "Test on tasuta. Täielik raport maksab {price}, ühekordne makse, tellimust pole.",
     "aboutTitle": "Testist",
     "measuresTitle": "Mida see test mõõdab",
     "whatYouGet": "Mida sinu raport sisaldab",
@@ -213,6 +214,7 @@
     "title": "Sinu tulemused on valmis",
     "subtitle": "Oled testi „{test}“ lõpetanud. Ava oma täielik isiklik raport, et näha oma tulemusi ja nende tähendust.",
     "mainType": "Sinu põhitüüp",
+    "topScore": "Sinu kõrgeim tulemus",
     "locked": "Lukus",
     "unlockTitle": "Saa oma täielik raport",
     "unlockText": "Sinu üksikasjalik raport kõigi tulemuste, isiklike tõlgenduste ja praktiliste nõuannetega, saadetud sinu e-postile.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Sa ei ole üksi",
     "crisisText": "Märkisid, et sul on olnud mõtteid, et oleksid parem surnud, või mõtteid endale haiget teha. Palun räägi kellegagi juba täna. Kui oled vahetus ohus, helista 112. Võid ka igal kellaajal pöörduda oma riigi kriisitelefonile, näiteks nende hulgast, mis on loetletud lehel findahelpline.com.",
     "crisisLink": "Leia lähim abitelefon",
-    "bundleNote": "Paketihind: {price}, mitte {full}"
+    "bundleNote": "Paketihind: {price}, mitte {full}",
+    "teaserMore": "See on alles algus. Sinu täielik raport läheb palju sügavamale."
   },
   "thanks": {
     "title": "Aitäh ostu eest!",

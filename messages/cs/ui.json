@@ -123,6 +123,7 @@
     "start": "Začít test",
     "questions": "Počet otázek: {count}",
     "minutes": "{count} min",
+    "priceNote": "Test je zdarma. Úplná zpráva stojí {price}, jednorázově, bez předplatného.",
     "aboutTitle": "O tomto testu",
     "measuresTitle": "Co tento test měří",
     "whatYouGet": "Co obsahuje vaše zpráva",
@@ -213,6 +214,7 @@
     "title": "Vaše výsledky jsou připravené",
     "subtitle": "Test „{test}“ je dokončený. Odemkněte si úplnou osobní zprávu a podívejte se na svá skóre a jejich význam.",
     "mainType": "Váš hlavní typ",
+    "topScore": "Vaše nejvyšší skóre",
     "locked": "Zamčeno",
     "unlockTitle": "Získejte úplnou zprávu",
     "unlockText": "Podrobná zpráva se všemi skóre, osobním výkladem a praktickými tipy, zaslaná na váš e-mail.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Nejste na to sami",
     "crisisText": "Z vašich odpovědí vyplývá, že vás napadlo, že by bylo lepší nežít, nebo že byste si mohli ublížit. Prosím, promluvte si s někým ještě dnes. Pokud jste v bezprostředním nebezpečí, zavolejte na 112. Kdykoli během dne i noci se můžete obrátit také na krizovou linku ve své zemi, například z přehledu na findahelpline.com.",
     "crisisLink": "Najděte linku pomoci ve svém okolí",
-    "bundleNote": "Cena v balíčku: {price} místo {full}"
+    "bundleNote": "Cena v balíčku: {price} místo {full}",
+    "teaserMore": "To je teprve začátek. Úplná zpráva jde mnohem hlouběji."
   },
   "thanks": {
     "title": "Děkujeme za nákup!",

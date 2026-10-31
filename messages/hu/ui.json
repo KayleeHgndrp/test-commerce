@@ -123,6 +123,7 @@
     "start": "Teszt indítása",
     "questions": "{count} kérdés",
     "minutes": "{count} perc",
+    "priceNote": "A teszt ingyenes. A teljes értékelés ára {price}, egyszeri fizetés, előfizetés nélkül.",
     "aboutTitle": "A tesztről",
     "measuresTitle": "Mit mér ez a teszt",
     "whatYouGet": "Mit tartalmaz az értékelésed?",
@@ -213,6 +214,7 @@
     "title": "Elkészültek az eredményeid",
     "subtitle": "Kitöltötted a(z) „{test}” tesztet. Oldd fel a teljes személyes értékelést, hogy lásd a pontszámaidat és azok jelentését.",
     "mainType": "Fő típusod",
+    "topScore": "A legmagasabb pontszámod",
     "locked": "Zárolva",
     "unlockTitle": "Kérd a teljes értékelést",
     "unlockText": "Részletes értékelés az összes pontszámmal, személyes értelmezéssel és gyakorlati tippekkel, e-mailben elküldve.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Nem vagy egyedül",
     "crisisText": "Azt jelezted, hogy voltak olyan gondolataid, hogy jobb lenne, ha meghalnál, vagy hogy bántanád magad. Kérjük, még ma beszélj erről valakivel. Ha közvetlen veszélyben vagy, hívd a 112-t. A nap bármely szakában fordulhatsz országod egyik lelki elsősegély-vonalához is, például a findahelpline.com oldalon felsoroltakhoz.",
     "crisisLink": "Segélyvonal keresése a közeledben",
-    "bundleNote": "Csomagár: {price} {full} helyett"
+    "bundleNote": "Csomagár: {price} {full} helyett",
+    "teaserMore": "Ez még csak a kezdet. A teljes értékelés sokkal mélyebbre megy."
   },
   "thanks": {
     "title": "Köszönjük a vásárlást!",

@@ -123,6 +123,7 @@
     "start": "Ibda t-test",
     "questions": "{count} mistoqsija",
     "minutes": "{count} min",
+    "priceNote": "It-test huwa b'xejn. Ir-rapport sħiħ jiswa {price}, ħlas wieħed, l-ebda abbonament.",
     "aboutTitle": "Dwar dan it-test",
     "measuresTitle": "X'ikejjel dan it-test",
     "whatYouGet": "X'jinkludi r-rapport tiegħek",
@@ -213,6 +214,7 @@
     "title": "Ir-riżultati tiegħek huma lesti",
     "subtitle": "Lestejt it-test {test}. Iftaħ ir-rapport personali sħiħ tiegħek biex tara l-punteġġi tiegħek u xi jfissru.",
     "mainType": "It-tip prinċipali tiegħek",
+    "topScore": "L-ogħla punteġġ tiegħek",
     "locked": "Imsakkar",
     "unlockTitle": "Ikseb ir-rapport sħiħ tiegħek",
     "unlockText": "Ir-rapport dettaljat tiegħek bil-punteġġi kollha, interpretazzjonijiet personali u pariri prattiċi, mibgħut fl-email tiegħek.",
@@ -229,7 +231,8 @@
     "crisisTitle": "M'intix waħdek",
     "crisisText": "Indikajt li kellek ħsibijiet li jkun aħjar li kont mejjet jew li tweġġa' lilek innifsek. Jekk jogħġbok kellem lil xi ħadd illum. Jekk tinsab f'periklu immedjat, ċempel 112. Tista' wkoll tikkuntattja linja ta' kriżi f'pajjiżek, bħal dawk elenkati fuq findahelpline.com, fi kwalunkwe ħin tal-ġurnata.",
     "crisisLink": "Sib linja ta' għajnuna qrib tiegħek",
-    "bundleNote": "Prezz tal-pakkett: {price} minflok {full}"
+    "bundleNote": "Prezz tal-pakkett: {price} minflok {full}",
+    "teaserMore": "Dan huwa biss il-bidu. Ir-rapport sħiħ tiegħek imur ħafna aktar fil-fond."
   },
   "thanks": {
     "title": "Grazzi tax-xiri tiegħek!",

@@ -123,6 +123,7 @@
     "start": "Începe testul",
     "questions": "{count} de întrebări",
     "minutes": "{count} min",
+    "priceNote": "Testul este gratuit. Raportul complet costă {price}, plată unică, fără abonament.",
     "aboutTitle": "Despre acest test",
     "measuresTitle": "Ce măsoară acest test",
     "whatYouGet": "Ce conține raportul tău",
@@ -213,6 +214,7 @@
     "title": "Rezultatele tale sunt gata",
     "subtitle": "Ai finalizat testul „{test}”. Deblochează raportul personal complet ca să-ți vezi scorurile și ce înseamnă ele.",
     "mainType": "Tipul tău principal",
+    "topScore": "Scorul tău cel mai mare",
     "locked": "Blocat",
     "unlockTitle": "Obține raportul complet",
     "unlockText": "Raportul tău detaliat, cu toate scorurile, interpretări personale și sfaturi practice, trimis pe e-mail.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Nu ești singur",
     "crisisText": "Ai indicat că ai avut gânduri că ți-ar fi mai bine dacă ai fi mort sau că ți-ai face rău. Te rugăm să vorbești cu cineva chiar azi. Dacă ești în pericol imediat, sună la 112. Poți contacta oricând, zi și noapte, și o linie de criză din țara ta, de exemplu dintre cele listate pe findahelpline.com.",
     "crisisLink": "Găsește o linie de sprijin aproape de tine",
-    "bundleNote": "Preț pachet: {price} în loc de {full}"
+    "bundleNote": "Preț pachet: {price} în loc de {full}",
+    "teaserMore": "Acesta este doar începutul. Raportul complet merge mult mai în profunzime."
   },
   "thanks": {
     "title": "Mulțumim pentru achiziție!",
