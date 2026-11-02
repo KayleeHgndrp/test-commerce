@@ -2,6 +2,7 @@
 title: "Ceangal imníoch agus teachtaireachtaí: cén fáth a ngoilleann freagra déanach chomh mór sin"
 description: "Seolann tú teachtaireacht, feiceann tú gur léadh í, agus ní thagann aon rud ar ais. Cén fáth a mbuaileann sé sin chomh crua nuair atá stíl cheangail imníoch agat, agus cad a chabhraíonn i ndáiríre."
 date: 2026-10-30
+updated: 2026-11-02
 author: "Foireann eagarthóireachta Personality Reveal"
 category: "Caidrimh"
 tags: [ceangal, caidrimh, imní, teachtaireachtaí]
@@ -17,6 +18,8 @@ faq:
     a: "Is féidir. Is patrúin iad stíleanna ceangail, ní tréithe buana. Cabhraíonn caidreamh seasmhach, teiripe agus d'imoibrithe féin a thabhairt faoi deara leat mothú níos sábháilte le himeacht ama."
   - q: "Ar cheart dom é a insint do mo pháirtí?"
     a: "Cabhraíonn sé go minic, chomh fada is a roinneann tú é mar mhíniú agus ní mar riail a chaithfidh an duine eile a leanúint. Nuair a mhíníonn tú cad a tharlaíonn i do cheann, bíonn sé níos éasca teacht ar chomhaontú a oireann don bheirt agaibh."
+  - q: "Cé chomh fada is atá rófhada le fanacht ar fhreagra?"
+    a: "Níl uimhir sheasta ann. Braitheann sé ar an duine, ar a gcuid oibre agus ar an méid a shocraigh sibh. Má chuireann an fanacht imní ort, cabhraíonn sé níos mó labhairt faoi na hionchais atá agaibh ná na huaireanta a chomhaireamh."
 ---
 
 Má chasann do bholg nuair a bhíonn freagra déanach, níl tú ag déanamh áibhéile. Léann daoine a bhfuil stíl cheangail imníoch acu ciúnas mar chomhartha féideartha diúltaithe, agus freagraíonn an inchinn amhail is go bhfuil rud éigin tábhachtach i gceist. Is é an chéad chéim i dtreo suaimhnis tuiscint a fháil ar cén fáth a dtarlaíonn sé.
@@ -51,6 +54,22 @@ Dá fhad a mhaireann an ciúnas, is ea is mó a chreideann tú an scéal. Ach is
 
 Is maith a fhios a bheith agat go dtagann ceangal imníoch go minic le páirtí seachantach. Dá mhéad a lorgaíonn duine amháin teagmháil, is ea is mó a tharraingíonn an duine eile siar chun spás a fháil.
 
+## Trí nóiméad laethúla a chuireann tús leis
+
+**An teachtaireacht maidine.** Dúisíonn tú agus níl tada ann, cé go raibh teachtaireacht ann faoin am seo inné. Ag am bricfeasta bíonn tú ag smaoineamh cheana féin an ndeachaigh an comhrá aréir in olcas. Ag leathuair tar éis a deich tagann teachtaireacht shona. Chodail an duine eile amach.
+
+**Na ticeanna gorma.** Seolann tú teachtaireacht fhada faoi rud atá tábhachtach duit. Tá sí léite. Uair an chloig ina dhiaidh sin cuireann an duine eile story suas. Anois mothaíonn an tost pearsanta, cé go mb'fhéidir nach bhfuil uathu ach freagra ceart a thabhairt nuair a bheidh am acu.
+
+**An freagra gearr.** Molann tú dinnéar Dé hAoine agus faigheann tú "b'fhéidir" ar ais. Ní tá, ní níl. Léann tú é deich n-uaire agus smaoiníonn tú ar conas freagra réchúiseach a thabhairt. Níos déanaí tagann sé chun solais go raibh siad ag fanacht ar an rolla oibre.
+
+Sna trí chás bhí na fíricí beag agus an mothúchán mór. Is é an bhearna sin go díreach a chruthaíonn ceangal imníoch.
+
+## Nuair a choinníonn an imní i do dhúiseacht thú
+
+Is minic a bhíonn fanacht ar fhreagra ina oíche fhada ag athsheinm comhráite i do cheann. Sa leaba téann tú siar ar gach focal a sheol tú agus ansin ar gach focal nár tháinig. Seo an áit a mbuaileann ceangal imníoch agus ró-smaoineamh le chéile.
+
+Má aithníonn tú é seo, léigh ár n-alt faoi [chomharthaí go mbíonn tú ag ró-smaoineamh](/ga/blog/comharthai-go-mbionn-tu-ag-ro-smaoineamh). Tá céimeanna praiticiúla ann chun d'intinn a chiúnú roimh chodladh. Cabhraíonn riail shimplí amháin le go leor daoine: tar éis am áirithe san oíche, ná léigh seanchomhráite arís.
+
 ## Cad a chabhraíonn ag an nóiméad sin
 
 1. **Ainmnigh é.** Abair leat féin: "Is é seo mo chóras ceangail, ní fíric." Laghdaíonn ainmniú mothúcháin a dhéine.
@@ -70,5 +89,9 @@ Réitíonn comhrá ciúin amháin níos mó ná céad teachtaireacht imníoch. D
 Is tús maith é tú féin a aithint in alt, ach ní hé an pictiúr iomlán é. Tomhaistear ceangal ar dhá scála: an méid imní atá ort go bhfágfar thú, agus cé chomh compordach is atá tú le gaireacht. Socraíonn an áit a bhfuil tú ar an dá scála do stíl.
 
 Tomhaiseann ár [dtástáil stíl cheangail](/ga/attachment) saor in aisce an dá cheann i thart ar chúig nóiméad. Más spéis leat an chaoi a ngránn tú, is céim mhaith eile í an [tástáil stíl ghrá](/ga/love-style).
+
+## Cad a deir do thoradh agus cad nach ndeir
+
+Déanann do thoradh cur síos ar conas a mhothaíonn tú agus a fhreagraíonn tú de ghnáth faoi láthair. Ní diagnóis é agus ní breithiúnas deiridh ar do chaidreamh é. Faigheann go leor daoine toradh eile cúpla bliain ina dhiaidh sin nó le páirtí eile. Bain úsáid as mar thús le comhrá macánta, leat féin nó leis an duine a bhfuil grá agat dó nó di. Má thosaíonn an imní ag líonadh do laethanta nó d'oícheanta, is féidir le síceolaí níos mó cabhrach a thabhairt ná alt ar bith. Is féidir leat an [tástáil stíl cheangail](/ga/attachment) a dhéanamh arís níos déanaí le feiceáil cad atá athraithe.
 
 Ní chiallaíonn imní faoi fhreagra déanach go bhfuil aon rud cearr leat. Ciallaíonn sé go bhfuil nasc tábhachtach duit agus gur fhoghlaim tú súil ghéar a choinneáil air.

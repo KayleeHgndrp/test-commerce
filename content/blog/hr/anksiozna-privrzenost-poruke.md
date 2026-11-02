@@ -2,6 +2,7 @@
 title: "Anksiozna privrženost i poruke: zašto kasni odgovor toliko boli"
 description: "Pošalješ poruku, vidiš da je pročitana i ništa ne dolazi. Zašto te to toliko pogađa kad imaš anksiozni stil privrženosti i što zaista pomaže."
 date: 2026-10-30
+updated: 2026-11-02
 author: "Uredništvo Personality Reveal"
 category: "Veze"
 tags: [privrženost, veze, anksioznost, poruke]
@@ -17,6 +18,8 @@ faq:
     a: "Može. Stilovi privrženosti su obrasci, a ne trajne osobine. Stabilna veza, terapija i primjećivanje vlastitih reakcija s vremenom pomažu da se osjećaš sigurnije."
   - q: "Trebam li to reći partneru?"
     a: "Često pomaže, dok god to dijeliš kao objašnjenje, a ne kao pravilo kojeg se drugi mora držati. Kad objasniš što ti se događa u glavi, lakše je dogovoriti nešto što odgovara vama oboma."
+  - q: "Koliko dugo čekati odgovor je predugo?"
+    a: "Ne postoji fiksan broj. Ovisi o osobi, njezinu poslu i o tome što ste dogovorili. Ako te čekanje uznemiruje, više pomaže razgovor o očekivanjima nego brojanje sati."
 ---
 
 Ako ti se želudac stisne kad odgovor kasni, ne pretjeruješ. Ljudi s anksioznim stilom privrženosti tišinu čitaju kao mogući znak odbacivanja, a mozak reagira kao da je nešto važno u pitanju. Razumjeti zašto se to događa prvi je korak prema više mira.
@@ -51,6 +54,22 @@ Kad odgovor ne dolazi, anksiozan um prazninu ispuni pričom. Obično onom najgor
 
 Dobro je znati da se anksiozna privrženost često susretne s izbjegavajućim partnerom. Što više jedan traži kontakt, to se drugi više povlači da dobije prostor. Svatko reagira prema svom obrascu i oboje se osjećaju neshvaćeno.
 
+## Tri svakodnevna trenutka koja to pokreću
+
+**Poruka za dobro jutro.** Probudiš se i nema ničega, iako je jučer u ovo vrijeme poruka već stigla. Za doručkom se već pitaš je li sinoćnji razgovor pošao krivo. U pola jedanaest stigne vesela poruka. Druga osoba je zaspala.
+
+**Plave kvačice.** Pošalješ dugu poruku o nečemu što ti je važno. Pročitana je. Sat kasnije druga osoba objavi story. Sada se tišina čini osobnom, iako možda samo želi odgovoriti kako treba kad bude imala vremena.
+
+**Kratak odgovor.** Predložiš večeru u petak i dobiješ "možda". Ni da ni ne. Pročitaš to deset puta i smišljaš kako odgovoriti opušteno. Kasnije se ispostavi da je čekala raspored smjena.
+
+U sva tri slučaja činjenice su bile male, a osjećaj velik. Upravo taj raskorak stvara anksiozna privrženost.
+
+## Kad te brige ne puštaju spavati
+
+Čekanje odgovora često se pretvori u dugu večer u kojoj u glavi vrtiš razgovore. U krevetu prolaziš kroz svaku riječ koju si poslao ili poslala, a zatim kroz svaku koja nije stigla. Tu se susreću anksiozna privrženost i previše razmišljanja.
+
+Ako ti je to poznato, pročitaj naš članak o [znakovima da previše razmišljaš](/hr/blog/znakovi-da-previse-razmisljas). U njemu su praktični koraci kako smiriti misli prije spavanja. Jedno jednostavno pravilo pomaže mnogima: nakon određenog sata navečer više ne čitaš stare razgovore.
+
 ## Što pomaže u tom trenutku
 
 Ovi koraci neće izbrisati osjećaj, ali mu neće dopustiti da preuzme upravljanje:
@@ -74,5 +93,9 @@ Primjećuješ iste obrasce u prijateljstvima ili na poslu? Onda vrijedi pogledat
 Prepoznati se u članku dobar je početak, ali nije cijela slika. Privrženost se mjeri na dvije ljestvice: koliko se bojiš da ćeš biti napušten i koliko ti je ugodno u bliskosti. Gdje si na obje, određuje tvoj stil.
 
 Naš besplatni [test stila privrženosti](/hr/attachment) mjeri obje za otprilike pet minuta i pokazuje ti gdje si. Ako te zanima kako voliš, [test stila ljubavi](/hr/love-style) dobar je sljedeći korak.
+
+## Što tvoj rezultat govori, a što ne
+
+Tvoj rezultat opisuje kako se trenutačno obično osjećaš i reagiraš. To nije dijagnoza ni konačna presuda o tvojoj vezi. Mnogi nekoliko godina kasnije ili s drugim partnerom dobiju drukčiji rezultat. Iskoristi ga kao početak iskrenog razgovora, sa sobom ili s osobom koju voliš. Ako nemir počne ispunjavati tvoje dane ili noći, psiholog može pomoći više od bilo kojeg članka. [Test stila privrženosti](/hr/attachment) uvijek možeš kasnije ponoviti i vidjeti što se promijenilo.
 
 Nemir zbog kasnog odgovora ne znači da s tobom nešto nije u redu. Znači da ti je povezanost važna i da si naučio pažljivo je pratiti. Uz malo više svjesnosti možeš zadržati brigu i pustiti dio budnosti.
