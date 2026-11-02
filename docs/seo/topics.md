@@ -8,13 +8,13 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 | Datum | translationKey | Onderwerp | Test |
 |---|---|---|---|
+| 2026-11-02 | overthinking-signs (en: signs-you-are-an-overthinker) | Signalen dat je een piekeraar bent, en hoe je 's avonds stopt | overthinking |
 | 2026-10-30 | anxious-attachment-texting | Angstige hechting en appen: waarom een laat antwoord zo veel doet | attachment |
 
 ## Wachtrij
 
 | translationKey | Onderwerp | Test | Zoekvraag (en) |
 |---|---|---|---|
-| overthinking-signs | Signalen dat je een piekeraar bent, en hoe je 's avonds stopt | overthinking | signs you are an overthinker |
 | attachment-styles-explained | Pijlerartikel: de vier hechtingsstijlen uitgelegd | attachment | attachment styles explained |
 | people-pleaser-saying-no | Nee zeggen zonder schuldgevoel als people pleaser | people-pleaser | how to stop being a people pleaser |
 | big-five-vs-mbti | Big Five of MBTI: welke test is betrouwbaarder | big-five | big five vs mbti |
