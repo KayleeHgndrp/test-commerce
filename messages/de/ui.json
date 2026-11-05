@@ -123,6 +123,7 @@
     "start": "Test starten",
     "questions": "{count} Fragen",
     "minutes": "{count} Min.",
+    "priceNote": "Der Test ist kostenlos. Dein vollständiger Bericht kostet {price}, einmalig, kein Abo.",
     "aboutTitle": "Über diesen Test",
     "measuresTitle": "Was dieser Test misst",
     "whatYouGet": "Das steht in deinem Bericht",
@@ -213,6 +214,7 @@
     "title": "Deine Ergebnisse sind fertig",
     "subtitle": "Du hast „{test}“ abgeschlossen. Schalte deinen vollständigen persönlichen Bericht frei, um deine Werte und ihre Bedeutung zu sehen.",
     "mainType": "Dein Haupttyp",
+    "topScore": "Dein höchster Wert",
     "locked": "Gesperrt",
     "unlockTitle": "Hol dir deinen vollständigen Bericht",
     "unlockText": "Dein ausführlicher Bericht mit allen Werten, persönlichen Deutungen und praktischen Tipps, per E-Mail an dich.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Du bist nicht allein",
     "crisisText": "Du hast angegeben, dass du Gedanken hattest, dass du lieber tot wärst oder dir etwas antun könntest. Bitte sprich noch heute mit jemandem darüber. Wenn du in akuter Gefahr bist, ruf die 112 an. Du kannst dich auch rund um die Uhr an eine Krisenhotline in deinem Land wenden, zum Beispiel über findahelpline.com.",
     "crisisLink": "Finde eine Hilfehotline in deiner Nähe",
-    "bundleNote": "Paketpreis: {price} statt {full}"
+    "bundleNote": "Paketpreis: {price} statt {full}",
+    "teaserMore": "Das ist erst der Anfang. Dein vollständiger Bericht geht viel tiefer."
   },
   "thanks": {
     "title": "Danke für deinen Kauf!",

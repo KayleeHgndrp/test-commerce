@@ -123,6 +123,7 @@
     "start": "Start testen",
     "questions": "{count} spørsmål",
     "minutes": "{count} min",
+    "priceNote": "Testen er gratis. Den fulle rapporten koster {price}, engangsbetaling, ingen abonnement.",
     "aboutTitle": "Om denne testen",
     "measuresTitle": "Hva testen måler",
     "whatYouGet": "Dette inneholder rapporten din",
@@ -213,6 +214,7 @@
     "title": "Resultatene dine er klare",
     "subtitle": "Du har fullført {test}. Lås opp den fullstendige personlige rapporten for å se poengsummene dine og hva de betyr.",
     "mainType": "Hovedtypen din",
+    "topScore": "Den høyeste skåren din",
     "locked": "Låst",
     "unlockTitle": "Få den fullstendige rapporten",
     "unlockText": "Den detaljerte rapporten din med alle poengsummer, personlige tolkninger og praktiske tips, sendt til e-posten din.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Du er ikke alene",
     "crisisText": "Du har oppgitt at du har hatt tanker om at du ville vært bedre tjent med å være død, eller om å skade deg selv. Snakk med noen i dag. Hvis du er i akutt fare, ring 112. Du kan også når som helst på døgnet kontakte en krisetelefon i landet ditt, for eksempel de som er oppført på findahelpline.com.",
     "crisisLink": "Finn en hjelpetelefon i nærheten",
-    "bundleNote": "Pakkepris: {price} i stedet for {full}"
+    "bundleNote": "Pakkepris: {price} i stedet for {full}",
+    "teaserMore": "Dette er bare begynnelsen. Den fulle rapporten din går mye dypere."
   },
   "thanks": {
     "title": "Takk for kjøpet!",

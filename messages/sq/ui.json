@@ -123,6 +123,7 @@
     "start": "Fillo testin",
     "questions": "{count} pyetje",
     "minutes": "{count} min",
+    "priceNote": "Testi është falas. Raporti i plotë kushton {price}, pagesë e njëhershme, pa abonim.",
     "aboutTitle": "Rreth këtij testi",
     "measuresTitle": "Çfarë mat ky test",
     "whatYouGet": "Çfarë përfshin raporti yt",
@@ -213,6 +214,7 @@
     "title": "Rezultatet e tua janë gati",
     "subtitle": "E përfundove testin {test}. Zhblloko raportin tënd të plotë personal për të parë rezultatet dhe çfarë do të thonë ato.",
     "mainType": "Tipi yt kryesor",
+    "topScore": "Rezultati yt më i lartë",
     "locked": "I kyçur",
     "unlockTitle": "Merr raportin tënd të plotë",
     "unlockText": "Raporti yt i detajuar me të gjitha rezultatet, interpretime personale dhe këshilla praktike, i dërguar në emailin tënd.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Nuk je vetëm",
     "crisisText": "Ke treguar se ke pasur mendime se do të ishte më mirë të ishe i/e vdekur ose për të lënduar veten. Të lutem fol me dikë sot. Nëse je në rrezik të menjëhershëm, telefono 112. Mund të kontaktosh gjithashtu një linjë krize në vendin tënd, si ato të listuara në findahelpline.com, në çdo orë të ditës.",
     "crisisLink": "Gjej një linjë ndihme pranë teje",
-    "bundleNote": "Çmim paketë: {price} në vend të {full}"
+    "bundleNote": "Çmim paketë: {price} në vend të {full}",
+    "teaserMore": "Ky është vetëm fillimi. Raporti yt i plotë shkon shumë më thellë."
   },
   "thanks": {
     "title": "Faleminderit për blerjen!",

@@ -123,6 +123,7 @@
     "start": "Start de test",
     "questions": "{count} vragen",
     "minutes": "{count} min",
+    "priceNote": "De test is gratis. Je volledige rapport kost {price}, eenmalig, geen abonnement.",
     "aboutTitle": "Over deze test",
     "measuresTitle": "Wat deze test meet",
     "whatYouGet": "Wat je rapport bevat",
@@ -213,6 +214,7 @@
     "title": "Je resultaten zijn klaar",
     "subtitle": "Je hebt de {test} afgerond. Ontgrendel je volledige persoonlijke rapport om je scores en hun betekenis te zien.",
     "mainType": "Je hoofdtype",
+    "topScore": "Je hoogste score",
     "locked": "Vergrendeld",
     "unlockTitle": "Ontvang je volledige rapport",
     "unlockText": "Je uitgebreide rapport met alle scores, persoonlijke uitleg en praktische tips, verstuurd naar je e-mail.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Je staat er niet alleen voor",
     "crisisText": "Je gaf aan dat je gedachten hebt gehad dat je beter dood zou zijn of dat je jezelf iets wilt aandoen. Praat er alsjeblieft vandaag met iemand over. Ben je in direct gevaar, bel dan 112. Je kunt ook op elk moment van de dag contact opnemen met een crisislijn in je land, zoals die op findahelpline.com.",
     "crisisLink": "Vind een hulplijn bij jou in de buurt",
-    "bundleNote": "Bundelprijs: {price} in plaats van {full}"
+    "bundleNote": "Bundelprijs: {price} in plaats van {full}",
+    "teaserMore": "Dit is pas het begin. Je volledige rapport gaat veel dieper."
   },
   "thanks": {
     "title": "Bedankt voor je aankoop!",

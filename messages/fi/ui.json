@@ -123,6 +123,7 @@
     "start": "Aloita testi",
     "questions": "{count} kysymystä",
     "minutes": "{count} min",
+    "priceNote": "Testi on ilmainen. Koko raportti maksaa {price}, kertamaksu, ei tilausta.",
     "aboutTitle": "Tietoa testistä",
     "measuresTitle": "Mitä testi mittaa",
     "whatYouGet": "Raporttisi sisältää",
@@ -213,6 +214,7 @@
     "title": "Tuloksesi ovat valmiit",
     "subtitle": "Olet suorittanut testin ”{test}”. Avaa koko henkilökohtainen raporttisi nähdäksesi pisteesi ja mitä ne tarkoittavat.",
     "mainType": "Päätyyppisi",
+    "topScore": "Korkein pistemääräsi",
     "locked": "Lukittu",
     "unlockTitle": "Hanki koko raportti",
     "unlockText": "Yksityiskohtainen raporttisi kaikkine pisteineen, henkilökohtaisine tulkintoineen ja käytännön vinkkeineen sähköpostiisi.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Et ole yksin",
     "crisisText": "Kerroit, että sinulla on ollut ajatuksia siitä, että olisit parempi kuolleena, tai ajatuksia itsesi vahingoittamisesta. Puhu jonkun kanssa vielä tänään. Jos olet välittömässä vaarassa, soita 112. Voit myös ottaa mihin vuorokaudenaikaan tahansa yhteyttä oman maasi kriisipuhelimeen, esimerkiksi findahelpline.com-sivustolla lueteltuihin.",
     "crisisLink": "Löydä auttava puhelin läheltäsi",
-    "bundleNote": "Pakettihinta: {price}, normaalisti {full}"
+    "bundleNote": "Pakettihinta: {price}, normaalisti {full}",
+    "teaserMore": "Tämä on vasta alkua. Koko raporttisi menee paljon syvemmälle."
   },
   "thanks": {
     "title": "Kiitos ostoksestasi!",

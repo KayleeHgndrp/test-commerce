@@ -123,6 +123,7 @@
     "start": "Comença el test",
     "questions": "{count} preguntes",
     "minutes": "{count} min",
+    "priceNote": "El test és gratuït. L'informe complet costa {price}, pagament únic, sense subscripció.",
     "aboutTitle": "Sobre aquest test",
     "measuresTitle": "Què mesura aquest test",
     "whatYouGet": "Què inclou el teu informe",
@@ -213,6 +214,7 @@
     "title": "Els teus resultats ja estan a punt",
     "subtitle": "Has completat el test {test}. Desbloqueja el teu informe personal complet per veure les teves puntuacions i què signifiquen.",
     "mainType": "El teu tipus principal",
+    "topScore": "La teva puntuació més alta",
     "locked": "Bloquejat",
     "unlockTitle": "Obtén el teu informe complet",
     "unlockText": "El teu informe detallat amb totes les puntuacions, interpretacions personals i consells pràctics, enviat al teu correu.",
@@ -229,7 +231,8 @@
     "crisisTitle": "No estàs sol",
     "crisisText": "Has indicat que has tingut pensaments que estaries millor mort o de fer-te mal. Si us plau, parla avui amb algú. Si et trobes en perill immediat, truca al 112. També pots contactar a qualsevol hora del dia amb una línia d'atenció en crisi del teu país, com les que trobaràs a findahelpline.com.",
     "crisisLink": "Troba una línia d'ajuda a prop teu",
-    "bundleNote": "Preu de paquet: {price} en lloc de {full}"
+    "bundleNote": "Preu de paquet: {price} en lloc de {full}",
+    "teaserMore": "Això només és el començament. El teu informe complet va molt més a fons."
   },
   "thanks": {
     "title": "Gràcies per la teva compra!",

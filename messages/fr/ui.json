@@ -123,6 +123,7 @@
     "start": "Commencer le test",
     "questions": "{count} questions",
     "minutes": "{count} min",
+    "priceNote": "Le test est gratuit. Votre rapport complet coûte {price}, paiement unique, sans abonnement.",
     "aboutTitle": "À propos de ce test",
     "measuresTitle": "Ce que mesure ce test",
     "whatYouGet": "Ce que contient votre rapport",
@@ -213,6 +214,7 @@
     "title": "Vos résultats sont prêts",
     "subtitle": "Vous avez terminé le test « {test} ». Débloquez votre rapport personnel complet pour découvrir vos scores et leur signification.",
     "mainType": "Votre type principal",
+    "topScore": "Votre score le plus élevé",
     "locked": "Verrouillé",
     "unlockTitle": "Obtenez votre rapport complet",
     "unlockText": "Votre rapport détaillé avec tous vos scores, des interprétations personnelles et des conseils pratiques, envoyé par e-mail.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Vous n'êtes pas seul(e)",
     "crisisText": "Vous avez indiqué avoir eu des pensées selon lesquelles vous seriez mieux mort(e) ou de vous faire du mal. Parlez-en à quelqu'un dès aujourd'hui. Si vous êtes en danger immédiat, appelez le 112. Vous pouvez aussi contacter à toute heure une ligne d'écoute de votre pays, comme celles répertoriées sur findahelpline.com.",
     "crisisLink": "Trouver une ligne d'écoute près de chez vous",
-    "bundleNote": "Prix groupé : {price} au lieu de {full}"
+    "bundleNote": "Prix groupé : {price} au lieu de {full}",
+    "teaserMore": "Ce n'est que le début. Votre rapport complet va beaucoup plus loin."
   },
   "thanks": {
     "title": "Merci pour votre achat !",

@@ -123,6 +123,7 @@
     "start": "Pradėti testą",
     "questions": "Klausimų: {count}",
     "minutes": "{count} min.",
+    "priceNote": "Testas nemokamas. Išsami ataskaita kainuoja {price}, mokama vieną kartą, be prenumeratos.",
     "aboutTitle": "Apie šį testą",
     "measuresTitle": "Ką matuoja šis testas",
     "whatYouGet": "Ką apima jūsų ataskaita",
@@ -213,6 +214,7 @@
     "title": "Jūsų rezultatai paruošti",
     "subtitle": "Atlikote testą „{test}“. Atrakinkite išsamią asmeninę ataskaitą ir sužinokite savo balus bei jų reikšmę.",
     "mainType": "Jūsų pagrindinis tipas",
+    "topScore": "Jūsų aukščiausias rezultatas",
     "locked": "Užrakinta",
     "unlockTitle": "Gaukite išsamią ataskaitą",
     "unlockText": "Išsami ataskaita su visais balais, asmeninėmis interpretacijomis ir praktiniais patarimais, į jūsų el. paštą.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Jūs ne vieni",
     "crisisText": "Nurodėte, kad jums kilo minčių, jog būtų geriau, jei būtumėte mirę, arba minčių susižaloti. Prašome šiandien pasikalbėti su kuo nors. Jei jums gresia tiesioginis pavojus, skambinkite 112. Bet kuriuo paros metu taip pat galite kreiptis į savo šalies krizių liniją, pavyzdžiui, nurodytą svetainėje findahelpline.com.",
     "crisisLink": "Raskite pagalbos liniją netoliese",
-    "bundleNote": "Rinkinio kaina: {price} vietoj {full}"
+    "bundleNote": "Rinkinio kaina: {price} vietoj {full}",
+    "teaserMore": "Tai tik pradžia. Išsami ataskaita atskleidžia daug daugiau."
   },
   "thanks": {
     "title": "Ačiū už pirkinį!",

@@ -123,6 +123,7 @@
     "start": "Start the test",
     "questions": "{count} questions",
     "minutes": "{count} min",
+    "priceNote": "The test is free. Your full report costs {price}, one-time, no subscription.",
     "aboutTitle": "About this test",
     "measuresTitle": "What this test measures",
     "whatYouGet": "What your report includes",
@@ -213,6 +214,7 @@
     "title": "Your results are ready",
     "subtitle": "You completed the {test}. Unlock your full personal report to see your scores and what they mean.",
     "mainType": "Your main type",
+    "topScore": "Your highest score",
     "locked": "Locked",
     "unlockTitle": "Get your full report",
     "unlockText": "Your detailed report with all scores, personal interpretations and practical tips, sent to your email.",
@@ -229,7 +231,8 @@
     "crisisTitle": "You are not alone",
     "crisisText": "You indicated that you have had thoughts of being better off dead or of hurting yourself. Please talk to someone today. If you are in immediate danger, call 112. You can also contact a crisis line in your country, such as those listed on findahelpline.com, any time of day.",
     "crisisLink": "Find a helpline near you",
-    "bundleNote": "Bundle price: {price} instead of {full}"
+    "bundleNote": "Bundle price: {price} instead of {full}",
+    "teaserMore": "This is only the beginning. Your full report goes much deeper."
   },
   "thanks": {
     "title": "Thank you for your purchase!",

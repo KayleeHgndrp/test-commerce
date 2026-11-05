@@ -123,6 +123,7 @@
     "start": "Započni test",
     "questions": "Pitanja: {count}",
     "minutes": "{count} min",
+    "priceNote": "Test je besplatan. Cjelovito izvješće stoji {price}, jednokratno, bez pretplate.",
     "aboutTitle": "O ovom testu",
     "measuresTitle": "Što ovaj test mjeri",
     "whatYouGet": "Što sadrži vaše izvješće",
@@ -213,6 +214,7 @@
     "title": "Vaši su rezultati spremni",
     "subtitle": "Završili ste test „{test}”. Otključajte cjelovito osobno izvješće i saznajte svoje rezultate i njihovo značenje.",
     "mainType": "Vaš glavni tip",
+    "topScore": "Vaš najviši rezultat",
     "locked": "Zaključano",
     "unlockTitle": "Preuzmite cjelovito izvješće",
     "unlockText": "Vaše detaljno izvješće sa svim rezultatima, osobnim tumačenjima i praktičnim savjetima, poslano na vašu e-poštu.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Niste sami",
     "crisisText": "Naveli ste da ste imali misli da bi vam bilo bolje da ste mrtvi ili da biste se ozlijedili. Molimo vas da danas razgovarate s nekim. Ako ste u neposrednoj opasnosti, nazovite 112. U bilo koje doba dana možete se obratiti i kriznoj liniji u svojoj zemlji, primjerice nekoj od onih navedenih na findahelpline.com.",
     "crisisLink": "Pronađite liniju za pomoć u svojoj blizini",
-    "bundleNote": "Paketna cijena: {price} umjesto {full}"
+    "bundleNote": "Paketna cijena: {price} umjesto {full}",
+    "teaserMore": "Ovo je tek početak. Cjelovito izvješće ide puno dublje."
   },
   "thanks": {
     "title": "Hvala na kupnji!",

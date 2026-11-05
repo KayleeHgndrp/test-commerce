@@ -123,6 +123,7 @@
     "start": "Byrja prófið",
     "questions": "{count} spurningar",
     "minutes": "{count} mín.",
+    "priceNote": "Prófið er ókeypis. Full skýrsla kostar {price}, eingreiðsla, engin áskrift.",
     "aboutTitle": "Um þetta próf",
     "measuresTitle": "Hvað prófið mælir",
     "whatYouGet": "Það sem skýrslan inniheldur",
@@ -213,6 +214,7 @@
     "title": "Niðurstöðurnar þínar eru tilbúnar",
     "subtitle": "Þú hefur lokið prófinu {test}. Opnaðu fulla persónulega skýrslu til að sjá einkunnir þínar og hvað þær þýða.",
     "mainType": "Aðalmanngerð þín",
+    "topScore": "Hæsta skorið þitt",
     "locked": "Læst",
     "unlockTitle": "Fáðu fulla skýrslu",
     "unlockText": "Ítarleg skýrsla með öllum einkunnum, persónulegum túlkunum og hagnýtum ráðum, send á netfangið þitt.",
@@ -229,7 +231,8 @@
     "crisisTitle": "Þú ert ekki ein(n)",
     "crisisText": "Þú gafst til kynna að þú hafir haft hugsanir um að þú værir betur sett(ur) dáin(n) eða um að skaða sjálfa(n) þig. Talaðu við einhvern í dag. Ef þú ert í bráðri hættu skaltu hringja í 112. Þú getur líka haft samband við hjálparsíma í þínu landi, til dæmis þá sem eru skráðir á findahelpline.com, hvenær sem er sólarhringsins.",
     "crisisLink": "Finndu hjálparsíma nálægt þér",
-    "bundleNote": "Pakkaverð: {price} í stað {full}"
+    "bundleNote": "Pakkaverð: {price} í stað {full}",
+    "teaserMore": "Þetta er bara byrjunin. Full skýrsla þín fer mun dýpra."
   },
   "thanks": {
     "title": "Takk fyrir kaupin!",
