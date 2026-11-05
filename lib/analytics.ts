@@ -9,6 +9,7 @@ const gaEvents: Record<string, string> = {
   "Test Complete": "test_complete",
   "Checkout Start": "begin_checkout",
   Purchase: "purchase",
+  "Price View": "price_view",
 };
 
 export function track(event: string, props?: Record<string, string>, revenue?: { currency: string; amount: number }) {

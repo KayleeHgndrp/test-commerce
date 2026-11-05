@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { track } from "@/lib/analytics";
+import { getPriceVariant, priceTest, type PriceVariant } from "@/lib/price-test";
 import { fmt } from "@/lib/i18n/fmt";
 import type { UiMessages } from "@/lib/i18n/messages";
 import { decodeAnswers, scoreTest } from "@/lib/tests/scoring";
@@ -15,6 +16,8 @@ type Props = {
   name: string;
   dimensionNames: string[];
   price: string;
+  // Formatted single report price per variant of the running price test.
+  variantPrices: Record<PriceVariant, string>;
   bundlePrice: string;
   packPrice: string;
   packSave: string;
@@ -34,7 +37,7 @@ type Plan = "single" | "pack" | "all";
 export const bundleKey = "bundle-offer";
 export const passKey = "report-pass";
 
-export function ResultPreview({ locale, def, name, dimensionNames, price, bundlePrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, children }: Props) {
+export function ResultPreview({ locale, def, name, dimensionNames, price: listPrice, variantPrices, bundlePrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, children }: Props) {
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
   const [bundle, setBundle] = useState<Bundle | null>(null);
   const [pass, setPass] = useState<PassStatus | null>(null);
@@ -43,6 +46,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
   const [consent, setConsent] = useState(false);
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
+  const [variant, setVariant] = useState<PriceVariant | null>(null);
 
   useEffect(() => {
     let value: Stored | null = null;
@@ -58,6 +62,14 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setStored(value);
     setBundle(offer);
+
+    if (priceTest.active && value) {
+      const assigned = getPriceVariant();
+      setVariant(assigned);
+      const w = window as unknown as { gtag?: (...args: unknown[]) => void };
+      w.gtag?.("set", "user_properties", { price_variant: assigned });
+      track("Price View", { test: def.slug, price_test: priceTest.id, price_variant: assigned });
+    }
 
     // A pack bought earlier on this device unlocks this report without paying again.
     let session = "";
@@ -108,9 +120,13 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
     }
   }
 
-  const planOptions: { id: Plan; title: string; note?: string; price: string; badge?: string }[] = [
-    { id: "single", title: plansUi.single, price: bundle ? bundlePrice : price },
-    { id: "pack", title: plansUi.pack, note: plansUi.packNote, price: packPrice, badge: fmt(plansUi.save, { amount: packSave }) },
+  const price = variant ? variantPrices[variant] : listPrice;
+  // Variant "b" shows the list price struck through next to the discounted price.
+  const discounted = price !== listPrice;
+  const planOptions: { id: Plan; title: string; note?: string; price: string; was?: string; badge?: string }[] = [
+    { id: "single", title: plansUi.single, price: bundle ? bundlePrice : price, was: !bundle && discounted ? listPrice : undefined },
+    // The pack saving is counted from the list price, so it is not shown next to a discounted single report.
+    { id: "pack", title: plansUi.pack, note: plansUi.packNote, price: packPrice, badge: discounted ? undefined : fmt(plansUi.save, { amount: packSave }) },
     { id: "all", title: fmt(plansUi.all, { count: allCount }), note: plansUi.allNote, price: allPrice },
   ];
   const chosen = planOptions.find((o) => o.id === plan)!;
@@ -121,12 +137,12 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return setError(ui.invalidEmail);
     if (!consent) return setError(ui.consentRequired);
     setBusy(true);
-    track("Checkout Start", { test: def.slug });
+    track("Checkout Start", { test: def.slug, plan, ...(variant && { price_test: priceTest.id, price_variant: variant }) });
     try {
       const res = await fetch("/api/checkout", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ slug: def.slug, locale, email, answers: stored!.answers, gender: stored!.gender, plan, bundleFrom: plan === "single" ? bundle?.session : undefined }),
+        body: JSON.stringify({ slug: def.slug, locale, email, answers: stored!.answers, gender: stored!.gender, plan, bundleFrom: plan === "single" ? bundle?.session : undefined, priceVariant: variant ?? undefined }),
       });
       const data = (await res.json()) as { url?: string };
       if (!res.ok || !data.url) throw new Error();
@@ -209,7 +225,10 @@ export function ResultPreview({ locale, def, name, dimensionNames, price, bundle
                 <span className="min-w-0 flex-1">
                   <span className="flex flex-wrap items-baseline justify-between gap-x-2">
                     <span className="font-semibold">{o.title}</span>
-                    <span className="font-bold">{o.price}</span>
+                    <span className="whitespace-nowrap">
+                      {o.was && <s className="mr-1.5 text-muted">{o.was}</s>}
+                      <span className={`font-bold ${o.was ? "text-accent" : ""}`}>{o.price}</span>
+                    </span>
                   </span>
                   {o.note && <span className="mt-0.5 block text-xs text-muted">{o.note}</span>}
                   {o.badge && <span className="mt-1 inline-block rounded-full bg-accent/10 px-2 py-0.5 text-xs font-semibold text-accent">{o.badge}</span>}

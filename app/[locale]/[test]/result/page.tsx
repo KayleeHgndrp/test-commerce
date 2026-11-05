@@ -1,6 +1,7 @@
 import { CoupleInvite } from "@/components/CoupleInvite";
 import { ResultPreview } from "@/components/ResultPreview";
 import { allDefinitions, fmt } from "@/lib/i18n/messages";
+import { priceTest } from "@/lib/price-test";
 import { formatPrice, site } from "@/lib/site";
 import { loadTestPage, testStaticParams } from "@/lib/tests/params";
 
@@ -23,6 +24,7 @@ export default async function ResultPage({ params }: PageProps<"/[locale]/[test]
       name={text.name}
       dimensionNames={dimensionNames}
       price={formatPrice(locale)}
+      variantPrices={{ a: formatPrice(locale, priceTest.variants.a), b: formatPrice(locale, priceTest.variants.b) }}
       bundlePrice={formatPrice(locale, site.bundlePriceCents)}
       packPrice={formatPrice(locale, site.packPriceCents)}
       packSave={formatPrice(locale, site.packSize * site.priceCents - site.packPriceCents)}
