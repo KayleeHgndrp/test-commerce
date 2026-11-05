@@ -3,6 +3,7 @@ import { allDefinitions, fmt, getDefinition, getTestText, getUi } from "@/lib/i1
 import { plans, validBundleSource, type Plan } from "@/lib/delivery";
 import { sendEmail } from "@/lib/email";
 import { renderReport } from "@/lib/report/render";
+import { isPriceVariant, priceTest, variantPriceCents } from "@/lib/price-test";
 import { site } from "@/lib/site";
 import { stripeRequest } from "@/lib/stripe";
 import { cleanName } from "@/lib/tests/couple";
@@ -15,7 +16,7 @@ const STRIPE_LOCALES = new Set([
 
 export async function POST(request: Request) {
   const body = (await request.json().catch(() => null)) as Record<string, unknown> | null;
-  const { slug, locale, email, answers, gender, bundleFrom, partnerAnswers, partnerName } = (body ?? {}) as Record<string, string>;
+  const { slug, locale, email, answers, gender, bundleFrom, partnerAnswers, partnerName, priceVariant } = (body ?? {}) as Record<string, string>;
   const plan = (plans.includes(body?.plan as Plan) ? body!.plan : "single") as Plan;
 
   const def = typeof slug === "string" ? getDefinition(slug) : undefined;
@@ -45,7 +46,8 @@ export async function POST(request: Request) {
   // An invalid or used offer silently falls back to the normal price.
   const bundle =
     plan === "single" && typeof bundleFrom === "string" && bundleFrom ? await validBundleSource(bundleFrom, slug).catch(() => null) : null;
-  const price = { single: bundle ? site.bundlePriceCents : site.priceCents, pack: site.packPriceCents, all: site.allPriceCents, couple: site.couplePriceCents }[plan];
+  const variant = priceTest.active && isPriceVariant(priceVariant) ? priceVariant : null;
+  const price = { single: bundle ? site.bundlePriceCents : variantPriceCents(variant), pack: site.packPriceCents, all: site.allPriceCents, couple: site.couplePriceCents }[plan];
   const product = {
     single: text.name,
     pack: fmt(ui.plans.packProduct, { test: text.name, extra: site.packSize - 1 }),
@@ -72,6 +74,7 @@ export async function POST(request: Request) {
     "metadata[gender]": ["male", "female", "other"].includes(gender) ? gender : "other",
     "metadata[plan]": plan,
     ...(bundle ? { "metadata[bundle_from]": bundle.id } : {}),
+    ...(variant ? { "metadata[price_test]": priceTest.id, "metadata[price_variant]": variant } : {}),
     ...(partner ? { "metadata[partner_answers]": partnerAnswers, "metadata[partner_name]": cleanName(partnerName) } : {}),
   });
 
