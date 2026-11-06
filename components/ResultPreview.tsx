@@ -15,6 +15,8 @@ type Props = {
   def: TestDefinition;
   name: string;
   dimensionNames: string[];
+  // Name and opening line of each possible main type, shown for free once the visitor's type is known.
+  teasers: Record<string, { name: string; text: string }>;
   price: string;
   // Formatted single report price per variant of the running price test.
   variantPrices: Record<PriceVariant, string>;
@@ -37,12 +39,11 @@ type Plan = "single" | "pack" | "all";
 export const bundleKey = "bundle-offer";
 export const passKey = "report-pass";
 
-export function ResultPreview({ locale, def, name, dimensionNames, price: listPrice, variantPrices, bundlePrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, children }: Props) {
+export function ResultPreview({ locale, def, name, dimensionNames, teasers, price: listPrice, variantPrices, bundlePrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, children }: Props) {
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
   const [bundle, setBundle] = useState<Bundle | null>(null);
   const [pass, setPass] = useState<PassStatus | null>(null);
   const [plan, setPlan] = useState<Plan>("single");
-  const [email, setEmail] = useState("");
   const [consent, setConsent] = useState(false);
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
@@ -99,6 +100,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, price: listPr
   }
 
   const result = scoreTest(def, decodeAnswers(def, stored.answers)!);
+  const teaser = result.type ? teasers[result.type] : undefined;
 
   async function redeem() {
     setError("");
@@ -134,7 +136,6 @@ export function ResultPreview({ locale, def, name, dimensionNames, price: listPr
   async function buy(e: React.FormEvent) {
     e.preventDefault();
     setError("");
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return setError(ui.invalidEmail);
     if (!consent) return setError(ui.consentRequired);
     setBusy(true);
     track("Checkout Start", { test: def.slug, plan, ...(variant && { price_test: priceTest.id, price_variant: variant }) });
@@ -142,7 +143,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, price: listPr
       const res = await fetch("/api/checkout", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ slug: def.slug, locale, email, answers: stored!.answers, gender: stored!.gender, plan, bundleFrom: plan === "single" ? bundle?.session : undefined, priceVariant: variant ?? undefined }),
+        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan, bundleFrom: plan === "single" ? bundle?.session : undefined, priceVariant: variant ?? undefined }),
       });
       const data = (await res.json()) as { url?: string };
       if (!res.ok || !data.url) throw new Error();
@@ -172,6 +173,19 @@ export function ResultPreview({ locale, def, name, dimensionNames, price: listPr
 
       <div className="mt-10 grid items-start gap-6 md:grid-cols-5">
         <div className="relative overflow-hidden rounded-2xl border border-border bg-surface p-6 md:col-span-3">
+          {teaser && (
+            <div className="mb-6 border-b border-border pb-6">
+              <p className="text-xs font-semibold uppercase tracking-wide text-accent">{ui.mainType}</p>
+              <p className="mt-1 text-2xl font-bold tracking-tight">{teaser.name}</p>
+              <p className="mt-2 leading-relaxed">{teaser.text}</p>
+              <div className="mt-3 space-y-2" aria-hidden>
+                <div className="h-3 w-full rounded bg-border blur-[2px]" />
+                <div className="h-3 w-11/12 rounded bg-border blur-[2px]" />
+                <div className="h-3 w-3/4 rounded bg-border blur-[2px]" />
+              </div>
+              <p className="mt-3 text-sm text-muted">{fmt(ui.teaserMore, { count: def.dimensions.length })}</p>
+            </div>
+          )}
           <ul className="space-y-4" aria-hidden>
             {result.scores.slice(0, 8).map((score, i) => (
               <li key={score.dim}>
@@ -236,17 +250,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, price: listPr
               </label>
             ))}
           </fieldset>
-          <label className="mt-5 block text-sm font-medium" htmlFor="email">{ui.emailLabel}</label>
-          <input
-            id="email"
-            type="email"
-            required
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
-            placeholder={ui.emailPlaceholder}
-            className="mt-1.5 w-full rounded-xl border border-border bg-background px-4 py-3 focus:border-accent focus:outline-none focus:ring-2 focus:ring-accent/30"
-          />
-          <label className="mt-4 flex items-start gap-2 text-xs text-muted">
+          <label className="mt-5 flex items-start gap-2 text-xs text-muted">
             <input type="checkbox" checked={consent} onChange={(e) => setConsent(e.target.checked)} className="mt-0.5 accent-[var(--accent)]" />
             <span>
               <Link href={`/${locale}/terms`} className="underline" target="_blank">{ui.consent}</Link>
@@ -260,7 +264,8 @@ export function ResultPreview({ locale, def, name, dimensionNames, price: listPr
           >
             {busy ? "…" : fmt(ui.buy, { price: chosen.price })}
           </button>
-          <p className="mt-3 text-center text-xs text-muted">🔒 {ui.secure}</p>
+          <p className="mt-3 text-center text-xs text-muted">✉️ {ui.delivery}</p>
+          <p className="mt-1 text-center text-xs text-muted">🔒 {ui.secure}</p>
         </form>
         )}
       </div>
