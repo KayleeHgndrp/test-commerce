@@ -21,8 +21,10 @@ export async function POST(request: Request) {
 
   const def = typeof slug === "string" ? getDefinition(slug) : undefined;
   const decoded = def && typeof answers === "string" ? decodeAnswers(def, answers) : null;
+  // The email is optional: without one, Stripe Checkout asks for it on the payment page.
+  const hasEmail = email !== undefined && email !== "";
   const validEmail = typeof email === "string" && email.length <= 254 && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
-  if (!def || !decoded || !validEmail || typeof locale !== "string" || !hasLocale(locale)) {
+  if (!def || !decoded || (hasEmail && !validEmail) || typeof locale !== "string" || !hasLocale(locale)) {
     return Response.json({ error: "invalid_request" }, { status: 400 });
   }
   const partner = plan === "couple" && typeof partnerAnswers === "string" ? decodeAnswers(def, partnerAnswers) : null;
@@ -38,7 +40,7 @@ export async function POST(request: Request) {
     if (process.env.NODE_ENV === "production") {
       return Response.json({ error: "payments_not_configured" }, { status: 500 });
     }
-    await sendEmail(email, await renderReport(locale, slug, decoded));
+    if (validEmail) await sendEmail(email, await renderReport(locale, slug, decoded));
     return Response.json({ url: `${thanksUrl}?dev_answers=${answers}` });
   }
 
@@ -56,7 +58,7 @@ export async function POST(request: Request) {
   }[plan];
   const session = await stripeRequest<{ url: string }>("checkout/sessions", {
     mode: "payment",
-    customer_email: email,
+    ...(validEmail ? { customer_email: email } : {}),
     locale: STRIPE_LOCALES.has(locale) ? locale : locale === "no" ? "nb" : "auto",
     "line_items[0][quantity]": "1",
     "line_items[0][price_data][currency]": site.currency,

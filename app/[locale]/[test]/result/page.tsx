@@ -14,15 +14,30 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/[test]/r
   return { title: text.name, robots: { index: false } };
 }
 
+function firstSentence(text: string) {
+  const match = text.match(/^.+?[.!?。](?=\s|$)/u);
+  return match ? match[0] : text;
+}
+
 export default async function ResultPage({ params }: PageProps<"/[locale]/[test]/result">) {
   const { locale, def, ui, text } = await loadTestPage(params);
   const dimensionNames = def.dimensions.map((d) => text.dimensions[d]?.name ?? d);
+  // Free preview of the main type: its name and one opening line. The rest stays in the paid report.
+  const teasers: Record<string, { name: string; text: string }> = {};
+  if (def.outcome === "top") {
+    for (const d of def.dimensions) teasers[d] = { name: text.dimensions[d].name, text: text.dimensions[d].short };
+  } else if (text.types) {
+    for (const [key, t] of Object.entries(text.types)) {
+      teasers[key] = { name: def.outcome === "axes" ? `${key}: ${t.name}` : t.name, text: firstSentence(t.text) };
+    }
+  }
   return (
     <ResultPreview
       locale={locale}
       def={def}
       name={text.name}
       dimensionNames={dimensionNames}
+      teasers={teasers}
       price={formatPrice(locale)}
       variantPrices={{ a: formatPrice(locale, priceTest.variants.a), b: formatPrice(locale, priceTest.variants.b) }}
       bundlePrice={formatPrice(locale, site.bundlePriceCents)}
