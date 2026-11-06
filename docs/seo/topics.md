@@ -8,6 +8,7 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 | Datum | translationKey | Onderwerp | Test |
 |---|---|---|---|
+| 2026-11-06 | people-pleaser-saying-no (en: how-to-say-no-without-guilt) | Nee zeggen zonder schuldgevoel als people pleaser | people-pleaser |
 | 2026-11-04 | attachment-styles-explained (en: attachment-styles-explained) | Pijlerartikel: de vier hechtingsstijlen uitgelegd | attachment |
 | 2026-11-02 | overthinking-signs (en: signs-you-are-an-overthinker) | Signalen dat je een piekeraar bent, en hoe je 's avonds stopt | overthinking |
 | 2026-10-30 | anxious-attachment-texting | Angstige hechting en appen: waarom een laat antwoord zo veel doet | attachment |
@@ -16,7 +17,6 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 | translationKey | Onderwerp | Test | Zoekvraag (en) |
 |---|---|---|---|
-| people-pleaser-saying-no | Nee zeggen zonder schuldgevoel als people pleaser | people-pleaser | how to stop being a people pleaser |
 | big-five-vs-mbti | Big Five of MBTI: welke test is betrouwbaarder | big-five | big five vs mbti |
 | procrastination-types | De vier soorten uitstellers, en welke jij bent | procrastination | types of procrastinators |
 | disc-profile-work | Je DISC-profiel op het werk | disc | disc personality types at work |
