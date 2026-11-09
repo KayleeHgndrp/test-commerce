@@ -2,11 +2,12 @@
 title: "Četri piesaistes stili pieaugušajiem: drošā, trauksmainā, izvairīgā un dezorganizētā"
 description: "Ko patiesībā nozīmē četri piesaistes stili, no kurienes tie rodas un kā tie izpaužas pavisam parastā otrdienā. Ar piemēriem no ikdienas, jautājumiem, kas palīdz atpazīt savu stilu, un soļiem, kas palīdz."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Personality Reveal redakcija"
 category: "Attiecības"
 tags: [piesaiste, piesaistes stili, attiecības, trauksmaina piesaiste, izvairīga piesaiste]
 seoTitle: "Četri piesaistes stili pieaugušajiem, skaidroti ar piemēriem"
-metaDescription: "Drošā, trauksmainā, izvairīgā vai dezorganizētā? Četri piesaistes stili vienkāršā valodā, ar ikdienas piemēriem un padomiem, kā atpazīt savējo."
+metaDescription: "Droša, trauksmaina, izvairīga vai dezorganizēta? Četri piesaistes stili vienkārši, ar piemēriem no mīlestības, draudzības un darba."
 keywords: [piesaistes stili, piesaistes stils pieaugušajiem, četri piesaistes stili, kāds ir mans piesaistes stils, izvairīga piesaiste, dezorganizēta piesaiste, droša piesaiste]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Jā. Piesaistes stili ir modeļi, nevis nemainīgas īpašības. Stabilas attiecības, labas draudzības, terapija un savu reakciju pamanīšana var tevi soli pa solim padarīt drošāku. Pētnieki to sauc par iegūto drošību."
   - q: "Vai bailīgi izvairīgā piesaiste ir tas pats, kas dezorganizētā?"
     a: "Tās ir ļoti tuvas, bet nav vienādas. Dezorganizēto piesaisti vispirms aprakstīja maziem bērniem. Bailīgi izvairīgais ir pieaugušo stils, kurā stipras bailes no noraidījuma apvienojas ar stipru diskomfortu tuvībā. Internetā abus vārdus bieži lieto kā sinonīmus."
+  - q: "Vai piesaistes stils ietekmē arī draudzību un darbu?"
+    a: "Jā. Tās pašas bailes no atraidījuma un tā pati neērtība tuvumā parādās arī ar draugiem un kolēģiem. Trauksmainā piesaiste var izpausties kā prātošana par īsu ziņu vai piekrišana visam. Izvairīgā piesaiste var izpausties kā atkāpšanās, kad ir daudz darāmā, vai kā tas, ka tu nekad nelūdz palīdzību."
 ---
 
 Ir četri piesaistes stili: drošais, trauksmainais, izvairīgais un bailīgi izvairīgais, ko bieži sauc par dezorganizēto. Tie apraksta, kā tu reaģē, kad meklē tuvību, kad baidies to zaudēt vai kad tā tevi smacē. Tavu stilu nosaka divas lietas: cik ļoti tu baidies no noraidījuma un cik viegli tev ir uz kādu paļauties.
@@ -113,6 +116,14 @@ Paskaties arī uz saviem modeļiem ilgākā laika posmā. Vai tava interese paz�
 Ja tavās atbildēs daudz vietas aizņem domu košļāšana, iespējams, tu atpazīsi sevi arī mūsu rakstā par [pazīmēm, ka tu pārdomā](/lv/blog/pazimes-ka-tu-pardoma). Trauksmaina piesaiste un pārdomāšana bieži iet roku rokā, it īpaši naktī.
 
 Tu vari arī izpildīt mūsu bezmaksas [piesaistes stila testu](/lv/attachment). Tas mēra abas skalas atsevišķi un pēc tam parāda, kurš no četriem stiliem vislabāk atbilst tavām atbildēm.
+
+## Piesaistes stili ārpus mīlestības: draudzība un darbs
+
+Par piesaistes stiliem parasti runā saistībā ar randiņiem, bet tās pašas divas skalas darbojas visur, kur tu paļaujies uz kādu. Visbiežāk tās redzamas draudzībā un darbā.
+
+Draugu vidū trauksmainā piesaiste bieži izskatās kā skaitīšana, kurš uzrakstīja pirmais, vai sajūta, ka esi atstāts malā, ieraugot kopbildi bez sevis. Izvairīgā piesaiste izskatās tā, ka cilvēks ir lieliska kompānija un tad uz nedēļām pazūd, kad ir daudz darāmā, nepamanot, ka citiem viņa pietrūkst.
+
+Darbā šie modeļi ir klusāki. Cilvēks ar trauksmainu stilu var izlasīt īsu vadītājas e-pastu kā zīmi, ka kaut kas nav kārtībā, un domāt par to visu vakaru. Ja tas šķiet pazīstami, izlasi mūsu rakstu par to, [kāpēc pat neliela kritika tik ļoti sāp](/lv/blog/jutigums-pret-atraidijumu-kritika). Daudzi trauksmaini piesaistīti cilvēki arī piekrīt katram papildu uzdevumam, jo atteikums šķiet kā risks attiecībām. [Pateikt nē bez vainas apziņas](/lv/blog/ka-pateikt-ne-bez-vainas-apzinas) var trenēt, un ar katru mazu mēģinājumu tas kļūst vieglāk. Izvairīgi kolēģi bieži dara pretējo: viņi labāk visu atrisina paši, nekā lūdz palīdzību.
 
 ## Kad divi stili satiekas attiecībās
 

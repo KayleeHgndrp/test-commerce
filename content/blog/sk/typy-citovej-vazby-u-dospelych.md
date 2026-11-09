@@ -2,11 +2,12 @@
 title: "4 typy citovej väzby u dospelých: istá, úzkostná, vyhýbavá a dezorganizovaná"
 description: "Čo naozaj znamenajú štyri typy citovej väzby, odkiaľ sa berú a ako sa prejavujú v obyčajný utorok. S príkladmi z bežného života, otázkami, podľa ktorých spoznáš svoj štýl, a krokmi, ktoré pomáhajú."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Redakcia Personality Reveal"
 category: "Vzťahy"
 tags: [citová väzba, typy citovej väzby, vzťahy, úzkostná citová väzba, vyhýbavá citová väzba]
 seoTitle: "4 typy citovej väzby u dospelých, vysvetlené na príkladoch"
-metaDescription: "Istá, úzkostná, vyhýbavá alebo dezorganizovaná? Štyri typy citovej väzby zrozumiteľne, s príkladmi zo života a s tipmi, ako spoznať tú svoju."
+metaDescription: "Istá, úzkostná, vyhýbavá alebo dezorganizovaná? 4 typy citovej väzby zrozumiteľne, s príkladmi z lásky, priateľstva aj práce."
 keywords: [typy citovej väzby, citová väzba u dospelých, štýly citovej väzby, akú mám citovú väzbu, vyhýbavá citová väzba, dezorganizovaná citová väzba, istá citová väzba]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Áno. Štýly citovej väzby sú vzorce, nie pevné vlastnosti. Stabilný vzťah, dobré priateľstvá, terapia a všímanie si vlastných reakcií ťa môžu krok za krokom posunúť k väčšej istote. Výskumníci tomu hovoria získaná istota."
   - q: "Je bojazlivo vyhýbavá väzba to isté ako dezorganizovaná?"
     a: "Majú k sebe blízko, ale nie sú totožné. Dezorganizovaná väzba bola najprv opísaná u malých detí. Bojazlivo vyhýbavý štýl je štýl dospelých, v ktorom sa silný strach z odmietnutia spája so silným nepohodlím v blízkosti. Na internete sa oba pojmy často zamieňajú."
+  - q: "Ovplyvňuje citová väzba aj priateľstvo a prácu?"
+    a: "Áno. Rovnaký strach z odmietnutia a rovnaké nepohodlie z blízkosti sa ukazujú aj pri priateľoch a kolegoch. Úzkostná väzba sa môže prejaviť premýšľaním nad krátkou správou alebo tým, že na všetko povieš áno. Vyhýbavá väzba sa môže prejaviť stiahnutím, keď je toho veľa, alebo tým, že nikdy nepožiadaš o pomoc."
 ---
 
 Existujú štyri typy citovej väzby: istá, úzkostná, vyhýbavá a bojazlivo vyhýbavá, ktorej sa často hovorí dezorganizovaná. Opisujú, ako reaguješ, keď hľadáš blízkosť, bojíš sa, že o ňu prídeš, alebo ťa naopak dusí. O tvojom štýle rozhodujú dve veci: ako veľmi sa bojíš odmietnutia a ako ľahko sa dokážeš o niekoho oprieť.
@@ -113,6 +116,14 @@ Všímaj si aj svoje vzorce v dlhšom čase. Strácaš záujem presne vo chvíli
 Ak v tvojich odpovediach hrá veľkú úlohu premýšľanie dookola, možno sa spoznáš aj v našom článku o tom, [podľa čoho spoznáš, že príliš premýšľaš](/sk/blog/prilis-premyslam-znaky-ako-prestat). Úzkostná väzba a premýšľanie dookola idú často ruka v ruke, najmä v noci.
 
 Môžeš si tiež urobiť náš bezplatný [test štýlu citovej väzby](/sk/attachment). Meria obe škály zvlášť a potom ukáže, ktorý zo štyroch štýlov najlepšie zodpovedá tvojim odpovediam.
+
+## Citová väzba mimo lásky: priateľstvo a práca
+
+O typoch citovej väzby sa hovorí najmä v súvislosti s randením, ale tie isté dve škály hrajú rolu všade, kde sa o niekoho opieraš. Najčastejšie ich uvidíš v priateľstve a v práci.
+
+Medzi priateľmi úzkostná väzba často vyzerá tak, že rátaš, kto napísal prvý, alebo sa cítiš odstrčený, keď vidíš spoločnú fotku bez teba. Vyhýbavá väzba vyzerá tak, že je človek skvelá spoločnosť a potom na týždne zmizne, keď je toho veľa, a nevšimne si, že ostatným chýba.
+
+V práci sú tieto vzorce tichšie. Človek s úzkostným štýlom môže krátky e-mail od šéfky čítať ako znamenie, že je niečo zle, a premýšľať o ňom celý večer. Ak to poznáš, prečítaj si náš článok o tom, [prečo aj malá kritika tak bolí](/sk/blog/citlivost-na-odmietnutie-kritika). Veľa úzkostne viazaných ľudí tiež prikývne na každú úlohu navyše, pretože nie pôsobí ako riziko pre vzťah. [Povedať nie bez výčitiek](/sk/blog/ako-povedat-nie-bez-vycitiek) sa dá trénovať a s každým malým pokusom je to ľahšie. Vyhýbaví kolegovia často robia opak: radšej všetko vyriešia sami, než by požiadali o pomoc.
 
 ## Keď sa dva štýly stretnú vo vzťahu
 

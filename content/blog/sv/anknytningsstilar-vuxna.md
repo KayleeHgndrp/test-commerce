@@ -2,11 +2,12 @@
 title: "De fyra anknytningsstilarna hos vuxna: trygg, ängslig, undvikande och desorganiserad"
 description: "Vad de fyra anknytningsstilarna egentligen betyder, var de kommer ifrån och hur de syns en helt vanlig tisdag. Med vardagliga exempel, frågor som hjälper dig att känna igen din stil och steg som fungerar."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Redaktionen på Personality Reveal"
 category: "Relationer"
 tags: [anknytning, anknytningsstilar, relationer, ängslig anknytning, undvikande anknytning]
 seoTitle: "De 4 anknytningsstilarna hos vuxna, förklarade med exempel"
-metaDescription: "Trygg, ängslig, undvikande eller desorganiserad? De fyra anknytningsstilarna på enkel svenska, med vardagsexempel och hur du känner igen din egen."
+metaDescription: "Trygg, ängslig, undvikande eller desorganiserad? De 4 anknytningsstilarna förklarade enkelt, med exempel från kärlek, vänskap och jobb."
 keywords: [anknytningsstilar, anknytningsstil vuxen, fyra anknytningsstilar, vilken anknytningsstil har jag, undvikande anknytning, desorganiserad anknytning, trygg anknytning]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Ja. Anknytningsstilar är mönster, inte fasta egenskaper. En stabil relation, goda vänskaper, terapi och att lära sig märka sina egna reaktioner kan steg för steg göra dig tryggare. Forskare kallar det förvärvad trygghet."
   - q: "Är rädd-undvikande samma sak som desorganiserad anknytning?"
     a: "De ligger nära varandra men är inte samma sak. Desorganiserad anknytning beskrevs först hos små barn. Rädd-undvikande är den vuxna stil där stark rädsla för att bli avvisad kombineras med starkt obehag inför närhet. På nätet används orden ofta som om de betydde samma sak."
+  - q: "Påverkar anknytningsstilen även vänskap och jobb?"
+    a: "Ja. Samma rädsla för att bli avvisad och samma obehag inför närhet syns också med vänner och kollegor. Ängslig anknytning kan vara att grubbla över ett kort meddelande eller säga ja till allt. Undvikande anknytning kan vara att dra sig undan när det blir mycket eller aldrig be om hjälp."
 ---
 
 Det finns fyra anknytningsstilar: trygg, ängslig, undvikande och rädd-undvikande, som ofta kallas desorganiserad. De beskriver hur du reagerar när du söker närhet, är rädd att förlora den eller känner dig kvävd av den. Två saker avgör din stil: hur mycket du oroar dig för att bli avvisad och hur lätt det är för dig att luta dig mot någon.
@@ -113,6 +116,14 @@ Titta också på dina mönster över tid. Märker du att du tappar intresset pre
 Om grubbel tar stor plats i dina svar känner du kanske också igen dig i vår artikel om [tecken på att du övertänker](/sv/blog/tecken-pa-att-du-overtanker). Ängslig anknytning och grubbel hänger ofta ihop, särskilt på natten.
 
 Du kan också göra vårt kostnadsfria [test av anknytningsstil](/sv/attachment). Det mäter båda skalorna var för sig och visar sedan vilken av de fyra stilarna som passar bäst med dina svar.
+
+## Anknytningsstilar utanför kärleken: vänskap och jobb
+
+Anknytningsstilar pratas mest om i samband med dejting, men samma två skalor spelar in överallt där du lutar dig mot någon. Vänskap och jobb är de ställen där de oftast syns.
+
+Bland vänner kan ängslig anknytning se ut som att du håller koll på vem som skriver först, eller känner dig utanför när du ser en gruppbild utan dig. Undvikande anknytning kan se ut som att vara jättebra sällskap och sedan försvinna i veckor när det blir mycket, utan att märka att andra saknar en.
+
+På jobbet är mönstren tystare. Den som har en ängslig stil kan läsa ett kort mejl från chefen som ett tecken på att något är fel och grubbla på det hela kvällen. Känner du igen dig, läs vår artikel om [varför liten kritik tar så hårt](/sv/blog/kanslig-for-kritik-avvisningskanslighet). Många ängsliga säger också ja till varje extra uppgift, eftersom ett nej känns som en risk för relationen. [Att säga nej utan dåligt samvete](/sv/blog/saga-nej-utan-daligt-samvete) går att öva på, och det blir lättare för varje litet försök. Undvikande kollegor gör ofta tvärtom: de löser hellre allt själva än ber om hjälp.
 
 ## När två stilar möts i en relation
 

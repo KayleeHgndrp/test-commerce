@@ -2,11 +2,12 @@
 title: "Neli kiindumusstiili täiskasvanutel: turvaline, ärev, vältiv ja organiseerimata"
 description: "Mida neli kiindumusstiili tegelikult tähendavad, kust need tulevad ja kuidas need ühel täiesti tavalisel teisipäeval välja paistavad. Igapäevaste näidete, oma stiili äratundmise küsimuste ja toimivate sammudega."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Personality Reveali toimetus"
 category: "Suhted"
 tags: [kiindumus, kiindumusstiilid, suhted, ärev kiindumus, vältiv kiindumus]
 seoTitle: "Neli kiindumusstiili täiskasvanutel, selgitatud näidetega"
-metaDescription: "Turvaline, ärev, vältiv või organiseerimata? Neli kiindumusstiili lihtsas keeles, igapäevaste näidetega ja nõuannetega, kuidas oma stiili ära tunda."
+metaDescription: "Turvaline, ärev, vältiv või segane? Neli kiindumusstiili lihtsas keeles, näidetega armastusest, sõprusest ja tööst."
 keywords: [kiindumusstiilid, kiindumusstiil täiskasvanutel, neli kiindumusstiili, mis on minu kiindumusstiil, vältiv kiindumus, organiseerimata kiindumus, turvaline kiindumus]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Jah. Kiindumusstiilid on mustrid, mitte püsivad omadused. Stabiilne suhe, head sõprussuhted, teraapia ja oma reaktsioonide märkamine võivad sind samm sammult turvalisemaks muuta. Teadlased nimetavad seda omandatud turvalisuseks."
   - q: "Kas hirmunud-vältiv on sama mis organiseerimata kiindumus?"
     a: "Need on väga lähedased, kuid mitte päris samad. Organiseerimata kiindumust kirjeldati esmalt väikeste laste juures. Hirmunud-vältiv on täiskasvanute stiil, kus tugev tõrjumise hirm käib koos tugeva ebamugavusega läheduses. Internetis kasutatakse neid sõnu sageli nii, nagu tähendaksid need sama asja."
+  - q: "Kas kiindumusstiil mõjutab ka sõprust ja tööd?"
+    a: "Jah. Sama hirm tõrjumise ees ja sama ebamugavus läheduse ees ilmnevad ka sõprade ja kolleegidega. Ärev kiindumus võib tähendada lühikese sõnumi üle muretsemist või kõigele jah ütlemist. Vältiv kiindumus võib tähendada eemaletõmbumist, kui elu kiireks läheb, või seda, et sa ei palu kunagi abi."
 ---
 
 Kiindumusstiile on neli: turvaline, ärev, vältiv ja hirmunud-vältiv, mida sageli nimetatakse organiseerimata stiiliks. Need kirjeldavad, kuidas sa reageerid, kui otsid lähedust, kardad seda kaotada või tunned, et lähedus lämmatab. Sinu stiili määravad kaks asja: kui palju sa kardad, et sind tõrjutakse, ja kui kergesti sa suudad kellelegi toetuda.
@@ -113,6 +116,14 @@ Vaata ka oma mustreid pikema aja jooksul. Kas su huvi kaob just siis, kui keegi 
 Kui sinu vastustes võtab palju ruumi asjade lõputu läbi mõtlemine, võid end ära tunda ka meie artiklis [ülemõtlemise märkidest](/et/blog/ulemotlemise-margid). Ärev kiindumus ja ülemõtlemine käivad sageli käsikäes, eriti öösiti.
 
 Võid teha ka meie tasuta [kiindumusstiili testi](/et/attachment). See mõõdab mõlemat skaalat eraldi ja näitab siis, milline neljast stiilist sinu vastustega kõige paremini sobib.
+
+## Kiindumusstiilid väljaspool armastust: sõprus ja töö
+
+Kiindumusstiilidest räägitakse enamasti seoses kohtingutega, aga samad kaks skaalat mõjutavad kõike, kus sa kellelegi toetud. Sõprus ja töö on kohad, kus need kõige sagedamini välja paistavad.
+
+Sõprade seas võib ärev kiindumus tähendada, et pead arvet, kes esimesena kirjutab, või tunned end kõrvale jäetuna, kui näed grupipilti, kus sind pole. Vältiv kiindumus võib tähendada, et inimene on tore seltskond ja kaob siis nädalateks, kui elu kiireks läheb, märkamata, et teised temast puudust tunnevad.
+
+Tööl on mustrid vaiksemad. Ärevalt kiindunud inimene võib lugeda ülemuse lühikest e-kirja märgina, et midagi on valesti, ja mõelda sellele terve õhtu. Kui see tundub tuttav, loe meie artiklit sellest, [miks väike kriitika nii valusalt mõjub](/et/blog/torjumistundlikkus-kriitika). Paljud ärevalt kiindunud inimesed ütlevad ka igale lisaülesandele jah, sest ei tundub suhtele ohtlik. [Ei ütlemist ilma süütundeta](/et/blog/kuidas-oelda-ei-ilma-suutundeta) saab harjutada ja iga väike katse teeb selle lihtsamaks. Vältivad kolleegid teevad sageli vastupidi: nad lahendavad pigem kõik ise, kui paluvad abi.
 
 ## Kui kaks stiili suhtes kohtuvad
 

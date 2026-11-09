@@ -2,11 +2,12 @@
 title: "De fire tilknytningsstile hos voksne: tryg, ængstelig, undgående og desorganiseret"
 description: "Hvad de fire tilknytningsstile egentlig betyder, hvor de kommer fra, og hvordan de viser sig en helt almindelig tirsdag. Med eksempler fra hverdagen, spørgsmål, der hjælper dig med at genkende din stil, og skridt, der virker."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Redaktionen hos Personality Reveal"
 category: "Forhold"
 tags: [tilknytning, tilknytningsstile, forhold, ængstelig tilknytning, undgående tilknytning]
 seoTitle: "De 4 tilknytningsstile hos voksne, forklaret med eksempler"
-metaDescription: "Tryg, ængstelig, undgående eller desorganiseret? De fire tilknytningsstile forklaret enkelt, med eksempler fra hverdagen og hvordan du genkender din egen."
+metaDescription: "Tryg, ængstelig, undgående eller desorganiseret? De 4 tilknytningsstile forklaret enkelt, med eksempler fra kærlighed, venskab og arbejde."
 keywords: [tilknytningsstile, tilknytningsstil voksne, fire tilknytningsstile, hvilken tilknytningsstil har jeg, undgående tilknytning, desorganiseret tilknytning, tryg tilknytning]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Ja. Tilknytningsstile er mønstre, ikke faste egenskaber. Et stabilt forhold, gode venskaber, terapi og at lære at lægge mærke til dine egne reaktioner kan gøre dig tryggere skridt for skridt. Forskere kalder det tilegnet tryghed."
   - q: "Er frygtsom-undgående det samme som desorganiseret tilknytning?"
     a: "De ligger tæt op ad hinanden, men er ikke det samme. Desorganiseret tilknytning blev først beskrevet hos små børn. Frygtsom-undgående er den voksne stil, hvor stærk frygt for afvisning går sammen med stærkt ubehag ved nærhed. På nettet bruges de to ord ofte, som om de betød det samme."
+  - q: "Påvirker tilknytningsstilen også venskaber og arbejde?"
+    a: "Ja. Den samme frygt for afvisning og det samme ubehag ved nærhed viser sig også over for venner og kolleger. Ængstelig tilknytning kan være at gruble over en kort besked eller sige ja til alt. Undgående tilknytning kan være at trække sig, når der er travlt, eller aldrig at bede om hjælp."
 ---
 
 Der findes fire tilknytningsstile: tryg, ængstelig, undgående og frygtsom-undgående, som ofte kaldes desorganiseret. De beskriver, hvordan du reagerer, når du søger nærhed, er bange for at miste den eller føler dig kvalt af den. To ting afgør din stil: hvor meget du frygter at blive afvist, og hvor let det er for dig at læne dig op ad nogen.
@@ -113,6 +116,14 @@ Se også på dine mønstre over tid. Mister du interessen, lige når nogen blive
 Fylder tankemylder meget i dine svar, genkender du måske også dig selv i vores artikel om [tegn på, at du overtænker](/da/blog/tegn-pa-at-du-overtaenker). Ængstelig tilknytning og overtænkning går ofte hånd i hånd, især om natten.
 
 Du kan også tage vores gratis [tilknytningsstil-test](/da/attachment). Den måler begge skalaer hver for sig og viser derefter, hvilken af de fire stile der passer bedst til dine svar.
+
+## Tilknytningsstile uden for kærligheden: venskab og arbejde
+
+Man taler mest om tilknytningsstile i forbindelse med dating, men de samme to skalaer spiller ind overalt, hvor du læner dig op ad andre. Venskaber og arbejde er de steder, hvor de oftest viser sig.
+
+Blandt venner kan ængstelig tilknytning ligne, at du holder regnskab med, hvem der skriver først, eller føler dig udenfor, når du ser et gruppebillede uden dig. Undgående tilknytning kan ligne, at man er rigtig godt selskab og så forsvinder i ugevis, når der er travlt, uden at mærke, at andre savner en.
+
+På arbejdet er mønstrene mere stille. En med en ængstelig stil kan læse en kort mail fra chefen som et tegn på, at noget er galt, og tænke på den hele aftenen. Kender du det, så læs vores artikel om, [hvorfor lille kritik rammer så hårdt](/da/blog/afvisningsfoelsomhed-kritik). Mange ængstelige siger også ja til hver ekstra opgave, fordi et nej føles som en risiko for forholdet. [At sige nej uden dårlig samvittighed](/da/blog/sig-nej-uden-darlig-samvittighed) kan trænes, og det bliver lettere for hvert lille forsøg. Undgående kolleger gør ofte det modsatte: de løser hellere alt selv end at bede om hjælp.
 
 ## Når to stile mødes i et forhold
 

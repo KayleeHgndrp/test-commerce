@@ -2,11 +2,12 @@
 title: "De fire tilknytningsstilene hos voksne: trygg, engstelig, unngående og desorganisert"
 description: "Hva de fire tilknytningsstilene egentlig betyr, hvor de kommer fra, og hvordan de viser seg på en helt vanlig tirsdag. Med eksempler fra hverdagen, spørsmål som hjelper deg å kjenne igjen din stil, og steg som virker."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Redaksjonen i Personality Reveal"
 category: "Forhold"
 tags: [tilknytning, tilknytningsstiler, forhold, engstelig tilknytning, unngående tilknytning]
 seoTitle: "De 4 tilknytningsstilene hos voksne, forklart med eksempler"
-metaDescription: "Trygg, engstelig, unngående eller desorganisert? De fire tilknytningsstilene forklart enkelt, med eksempler fra hverdagen og hvordan du kjenner igjen din."
+metaDescription: "Trygg, engstelig, unnvikende eller desorganisert? De 4 tilknytningsstilene forklart enkelt, med eksempler fra kjærlighet, vennskap og jobb."
 keywords: [tilknytningsstiler, tilknytningsstil voksne, fire tilknytningsstiler, hvilken tilknytningsstil har jeg, unngående tilknytning, desorganisert tilknytning, trygg tilknytning]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Ja. Tilknytningsstiler er mønstre, ikke faste egenskaper. Et stabilt forhold, gode vennskap, terapi og det å lære seg å legge merke til egne reaksjoner kan gjøre deg tryggere steg for steg. Forskere kaller det opparbeidet trygghet."
   - q: "Er fryktsom-unngående det samme som desorganisert tilknytning?"
     a: "De ligger nær hverandre, men er ikke det samme. Desorganisert tilknytning ble først beskrevet hos små barn. Fryktsom-unngående er den voksne stilen der sterk frykt for avvisning går sammen med sterkt ubehag ved nærhet. På nettet brukes ordene ofte som om de betydde det samme."
+  - q: "Påvirker tilknytningsstilen også vennskap og jobb?"
+    a: "Ja. Den samme frykten for avvisning og det samme ubehaget ved nærhet viser seg også med venner og kolleger. Engstelig tilknytning kan være å gruble over en kort melding eller si ja til alt. Unnvikende tilknytning kan være å trekke seg unna når det er travelt, eller aldri be om hjelp."
 ---
 
 Det finnes fire tilknytningsstiler: trygg, engstelig, unngående og fryktsom-unngående, som ofte kalles desorganisert. De beskriver hvordan du reagerer når du søker nærhet, er redd for å miste den eller føler deg kvalt av den. To ting avgjør stilen din: hvor mye du frykter å bli avvist, og hvor lett det er for deg å lene deg på noen.
@@ -113,6 +116,14 @@ Se også på mønstrene dine over tid. Mister du interessen akkurat når noen bl
 Tar grubling stor plass i svarene dine, kjenner du deg kanskje også igjen i artikkelen vår om [tegn på at du overtenker](/no/blog/tegn-pa-at-du-overtenker). Engstelig tilknytning og grubling går ofte hånd i hånd, særlig om natta.
 
 Du kan også ta vår gratis [test av tilknytningsstil](/no/attachment). Den måler begge skalaene hver for seg og viser deretter hvilken av de fire stilene som passer best med svarene dine.
+
+## Tilknytningsstiler utenfor kjærligheten: vennskap og jobb
+
+Tilknytningsstiler omtales mest i forbindelse med dating, men de samme to skalaene spiller inn overalt der du lener deg på noen. Vennskap og jobb er stedene der de oftest viser seg.
+
+Blant venner kan engstelig tilknytning se ut som at du holder oversikt over hvem som skriver først, eller føler deg utenfor når du ser et gruppebilde uten deg. Unnvikende tilknytning kan se ut som at man er godt selskap og så forsvinner i ukevis når det blir travelt, uten å merke at andre savner en.
+
+På jobb er mønstrene stillere. En med engstelig stil kan lese en kort e-post fra sjefen som et tegn på at noe er galt, og gruble på den hele kvelden. Kjenner du deg igjen, kan du lese artikkelen vår om [hvorfor liten kritikk treffer så hardt](/no/blog/avvisningssensitivitet-kritikk). Mange engstelige sier også ja til hver ekstra oppgave, fordi et nei føles som en risiko for forholdet. [Å si nei uten dårlig samvittighet](/no/blog/si-nei-uten-darlig-samvittighet) kan øves på, og det blir lettere for hvert lille forsøk. Unnvikende kolleger gjør ofte det motsatte: de løser heller alt selv enn å be om hjelp.
 
 ## Når to stiler møtes i et forhold
 

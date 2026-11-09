@@ -2,7 +2,7 @@
 // Needs GSC_SERVICE_ACCOUNT_JSON (the key file's JSON, raw or base64) and optionally GSC_SITE
 // (default: sc-domain:personalityreveal.com). The service account must be added as a user on the property.
 //
-//   node scripts/gsc.mjs [days=28] [dimension=query|page|country] [rows=100]
+//   node scripts/gsc.mjs [days=28] [dimension=query|page|country, or several joined by commas like query,page] [rows=100]
 //
 // Prints JSON rows with keys, clicks, impressions, ctr and position.
 import crypto from "node:crypto";
@@ -49,7 +49,7 @@ const res = await fetch(
     body: JSON.stringify({
       startDate: day(Number(days) + 2),
       endDate: day(2),
-      dimensions: [dimension],
+      dimensions: dimension.split(","),
       rowLimit: Number(rowLimit),
     }),
   },

@@ -2,11 +2,12 @@
 title: "Os 4 estilos de vinculação no adulto: segura, ansiosa, evitante e desorganizada"
 description: "O que significam realmente os quatro estilos de vinculação, de onde vêm e como aparecem numa terça-feira qualquer. Com exemplos do dia a dia, perguntas para reconheceres o teu estilo e passos que ajudam."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Redação Personality Reveal"
 category: "Relações"
 tags: [vinculação, estilos de vinculação, apego, relações, vinculação ansiosa, vinculação evitante]
 seoTitle: "Os 4 estilos de vinculação no adulto, com exemplos"
-metaDescription: "Segura, ansiosa, evitante ou desorganizada? Os quatro estilos de vinculação explicados de forma simples, com exemplos do dia a dia e como reconhecer o teu."
+metaDescription: "Segura, ansiosa, evitante ou desorganizada? Os 4 estilos de vinculação explicados de forma simples, com exemplos do amor, amizade e trabalho."
 keywords: [estilos de vinculação, tipos de vinculação, estilos de apego, qual é o meu estilo de vinculação, vinculação evitante, vinculação desorganizada, vinculação segura]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Sim. Os estilos de vinculação são padrões, não traços fixos. Uma relação estável, boas amizades, terapia e aprender a reparar nas tuas reações podem tornar-te mais seguro, passo a passo. Os investigadores chamam-lhe segurança conquistada."
   - q: "Temeroso-evitante é o mesmo que vinculação desorganizada?"
     a: "São muito próximos, mas não são iguais. A vinculação desorganizada foi descrita primeiro em crianças pequenas. O temeroso-evitante é o estilo adulto que junta muito medo da rejeição a muito desconforto com a proximidade. Na internet, as duas palavras são muitas vezes usadas como sinónimos."
+  - q: "O estilo de vinculação também influencia a amizade e o trabalho?"
+    a: "Sim. O mesmo medo da rejeição e o mesmo desconforto com a proximidade aparecem com amigos e colegas. A vinculação ansiosa pode notar-se em remoer uma mensagem curta ou dizer sim a tudo. A vinculação evitante pode notar-se em afastar-se quando a vida aperta ou nunca pedir ajuda."
 ---
 
 Há quatro estilos de vinculação: seguro, ansioso, evitante e temeroso-evitante, muitas vezes chamado desorganizado. Descrevem a forma como reages quando procuras proximidade, quando tens medo de a perder ou quando ela te sufoca. O teu estilo depende de duas coisas: quanto te preocupa seres rejeitado e quão fácil é para ti confiar em alguém.
@@ -113,6 +116,14 @@ Repara também nos teus padrões ao longo do tempo. Perdes o interesse precisame
 Se as voltas que dás à cabeça ocupam muito espaço nas tuas respostas, talvez te reconheças também no nosso artigo sobre [os sinais de que pensas demasiado](/pt/blog/sinais-de-que-pensas-demasiado). A vinculação ansiosa e a ruminação andam muitas vezes juntas, sobretudo à noite.
 
 Também podes fazer o nosso [teste de estilo de vinculação](/pt/attachment), que é gratuito. Mede as duas escalas em separado e depois mostra qual dos quatro estilos combina melhor com as tuas respostas.
+
+## Os estilos de vinculação fora do amor: amizade e trabalho
+
+Fala-se dos estilos de vinculação sobretudo a propósito de encontros e namoros, mas as mesmas duas escalas aparecem sempre que dependes de alguém. A amizade e o trabalho são os sítios onde mais se notam.
+
+Com os amigos, a vinculação ansiosa costuma parecer contar quem manda mensagem primeiro, ou sentires-te posto de parte ao ver uma foto de grupo em que não estás. A vinculação evitante parece ser ótima companhia e depois desaparecer durante semanas quando a vida aperta, sem reparar que os outros sentem a tua falta.
+
+No trabalho os padrões são mais silenciosos. Quem tem um estilo ansioso pode ler um email curto da chefe como sinal de problema e passar a noite a pensar nisso. Se te soa familiar, o nosso artigo sobre [porque é que uma pequena crítica dói tanto](/pt/blog/sensibilidade-a-rejeicao-criticas) explica essa reação em detalhe. Muitas pessoas ansiosas também dizem que sim a cada tarefa extra, porque um não parece um risco para a relação. [Dizer não sem culpa](/pt/blog/como-dizer-nao-sem-culpa) é algo que se treina, e fica mais fácil a cada pequena tentativa. Os colegas evitantes tendem a fazer o contrário: preferem resolver tudo sozinhos a pedir ajuda.
 
 ## Quando dois estilos se encontram numa relação
 

@@ -2,11 +2,12 @@
 title: "Štirje stili navezanosti pri odraslih: varna, anksiozna, izogibajoča in dezorganizirana"
 description: "Kaj zares pomenijo štirje stili navezanosti, od kod izvirajo in kako se pokažejo na čisto navaden torek. S primeri iz vsakdanjega življenja, vprašanji, s katerimi prepoznaš svoj stil, in koraki, ki pomagajo."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Uredništvo Personality Reveal"
 category: "Odnosi"
 tags: [navezanost, stili navezanosti, odnosi, anksiozna navezanost, izogibajoča navezanost]
 seoTitle: "Štirje stili navezanosti pri odraslih, razloženi s primeri"
-metaDescription: "Varna, anksiozna, izogibajoča ali dezorganizirana? Štirje stili navezanosti preprosto razloženi, s primeri iz življenja in kako prepoznaš svojega."
+metaDescription: "Varna, anksiozna, izogibajoča ali dezorganizirana? Štirje stili navezanosti preprosto, s primeri iz ljubezni, prijateljstva in dela."
 keywords: [stili navezanosti, stili navezanosti pri odraslih, vrste navezanosti, kakšen stil navezanosti imam, izogibajoča navezanost, dezorganizirana navezanost, varna navezanost]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Da. Stili navezanosti so vzorci, ne stalne lastnosti. Stabilna zveza, dobra prijateljstva, terapija in opazovanje lastnih odzivov te lahko korak za korakom pripeljejo do večje varnosti. Raziskovalci temu pravijo pridobljena varnost."
   - q: "Je boječe-izogibajoča navezanost isto kot dezorganizirana?"
     a: "Sta si zelo blizu, a nista enaki. Dezorganizirano navezanost so najprej opisali pri majhnih otrocih. Boječe-izogibajoči stil je stil odraslih, pri katerem se močan strah pred zavrnitvijo povezuje z močnim nelagodjem ob bližini. Na spletu se izraza pogosto uporabljata kot sopomenki."
+  - q: "Ali stil navezanosti vpliva tudi na prijateljstvo in delo?"
+    a: "Da. Isti strah pred zavrnitvijo in isto nelagodje ob bližini se pokažeta tudi pri prijateljih in sodelavcih. Anksiozna navezanost se lahko kaže v premlevanju kratkega sporočila ali v tem, da na vse rečeš da. Izogibajoča navezanost se lahko kaže v umiku, ko je veliko dela, ali v tem, da nikoli ne prosiš za pomoč."
 ---
 
 Obstajajo štirje stili navezanosti: varen, anksiozen, izogibajoč in boječe-izogibajoč, ki mu pogosto rečemo dezorganiziran. Opisujejo, kako se odzoveš, ko iščeš bližino, ko se bojiš, da jo boš izgubil, ali ko te duši. O tvojem stilu odločata dve stvari: kako zelo se bojiš zavrnitve in kako lahko se nasloniš na nekoga.
@@ -113,6 +116,14 @@ Opazuj tudi svoje vzorce skozi daljši čas. Izgubiš zanimanje ravno takrat, ko
 Če v tvojih odgovorih veliko prostora zavzema premlevanje, se boš morda prepoznal tudi v našem članku o [znakih, da preveč razmišljaš](/sl/blog/znaki-da-prevec-razmisljas). Anksiozna navezanost in premlevanje gresta pogosto skupaj, še posebej ponoči.
 
 Lahko rešiš tudi naš brezplačni [test stila navezanosti](/sl/attachment). Obe lestvici meri ločeno in nato pokaže, kateri od štirih stilov najbolje ustreza tvojim odgovorom.
+
+## Stili navezanosti zunaj ljubezni: prijateljstvo in delo
+
+O stilih navezanosti se največ govori v povezavi z zmenki, a isti dve lestvici delujeta povsod, kjer se na koga zanašaš. Najpogosteje ju opaziš v prijateljstvu in v službi.
+
+Med prijatelji je anksiozna navezanost pogosto videti kot štetje, kdo je prvi pisal, ali občutek izključenosti, ko vidiš skupinsko fotografijo brez sebe. Izogibajoča navezanost je videti kot odlična družba, ki potem za cele tedne izgine, ko je veliko dela, ne da bi opazila, da jo drugi pogrešajo.
+
+V službi so vzorci tišji. Nekdo z anksioznim stilom lahko kratko sporočilo nadrejene prebere kot znak, da je nekaj narobe, in o njem razmišlja ves večer. Če to poznaš, preberi naš članek o tem, [zakaj majhna kritika tako boli](/sl/blog/obcutljivost-na-zavrnitev-kritika). Veliko anksiozno navezanih ljudi tudi pristane na vsako dodatno nalogo, ker se ne zdi kot tveganje za odnos. [Reči ne brez slabe vesti](/sl/blog/kako-reci-ne-brez-slabe-vesti) se da vaditi, in z vsakim majhnim poskusom je lažje. Izogibajoči sodelavci pogosto naredijo ravno nasprotno: raje vse rešijo sami, kot da bi prosili za pomoč.
 
 ## Ko se dva stila srečata v zvezi
 

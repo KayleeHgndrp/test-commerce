@@ -2,11 +2,12 @@
 title: "Les 4 styles d'attachement expliqués : sécure, anxieux, évitant et désorganisé"
 description: "Ce que veulent vraiment dire les quatre styles d'attachement, d'où ils viennent et comment ils se manifestent un mardi ordinaire. Avec des exemples du quotidien, des questions pour reconnaître ton style et des pistes qui aident."
 date: 2026-11-04
+updated: 2026-11-09
 author: "La rédaction de Personality Reveal"
 category: "Relations"
 tags: [attachement, styles d'attachement, couple, attachement anxieux, attachement évitant]
 seoTitle: "Les 4 styles d'attachement expliqués, avec des exemples"
-metaDescription: "Sécure, anxieux, évitant ou désorganisé ? Les quatre styles d'attachement expliqués simplement, avec des exemples concrets et comment reconnaître le tien."
+metaDescription: "Sécure, anxieux, évitant ou craintif ? Les 4 styles d'attachement expliqués simplement, avec des exemples en amour, en amitié et au travail."
 keywords: [styles d'attachement, les 4 styles d'attachement, style d'attachement adulte, quel est mon style d'attachement, attachement évitant, attachement désorganisé, attachement sécure]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Oui. Les styles d'attachement sont des schémas, pas des traits figés. Une relation stable, de bonnes amitiés, une thérapie et le simple fait d'observer tes réactions peuvent te rendre plus sécure peu à peu. Les chercheurs parlent de sécurité acquise."
   - q: "Craintif-évitant et désorganisé, c'est la même chose ?"
     a: "Ils sont proches, mais pas identiques. L'attachement désorganisé a d'abord été décrit chez les jeunes enfants. Le style craintif-évitant est le style adulte qui associe une forte peur du rejet à une forte gêne face à la proximité. Sur internet, les deux mots sont souvent utilisés comme synonymes."
+  - q: "Le style d'attachement joue-t-il aussi en amitié et au travail ?"
+    a: "Oui. La même peur du rejet et le même malaise face à la proximité se retrouvent avec les amis et les collègues. L'attachement anxieux peut se voir quand on rumine un message court ou qu'on dit oui à tout. L'attachement évitant peut se voir quand on prend ses distances dès que tout s'accélère ou qu'on ne demande jamais d'aide."
 ---
 
 Il existe quatre styles d'attachement : sécure, anxieux, évitant et craintif-évitant, que l'on appelle souvent désorganisé. Ils décrivent ta façon de réagir quand tu cherches la proximité, quand tu as peur de la perdre ou quand elle t'étouffe. Deux choses déterminent ton style : à quel point tu crains d'être rejeté, et à quel point il t'est facile de compter sur quelqu'un.
@@ -113,6 +116,14 @@ Regarde aussi tes schémas sur la durée. Est-ce que tu perds l'intérêt pile a
 Si les ruminations prennent beaucoup de place dans tes réponses, tu te reconnaîtras peut-être aussi dans notre article sur [les signes que tu réfléchis trop](/fr/blog/signes-que-tu-reflechis-trop). L'attachement anxieux et les pensées qui tournent en boucle vont souvent ensemble, surtout la nuit.
 
 Tu peux aussi faire notre [test du style d'attachement](/fr/attachment), gratuit. Il mesure les deux échelles séparément puis te montre lequel des quatre styles correspond le mieux à tes réponses.
+
+## Les styles d'attachement hors du couple : amitié et travail
+
+On parle surtout des styles d'attachement à propos des rencontres amoureuses, mais les deux mêmes échelles jouent partout où tu comptes sur quelqu'un. L'amitié et le travail sont les endroits où on les croise le plus souvent.
+
+Entre amis, l'attachement anxieux ressemble souvent à compter qui écrit en premier, ou à te sentir mis de côté en voyant une photo de groupe où tu n'es pas. L'attachement évitant, c'est être de très bonne compagnie puis disparaître pendant des semaines dès que la vie s'accélère, sans voir que les autres s'en aperçoivent.
+
+Au travail, les schémas sont plus discrets. Une personne au style anxieux peut lire un mail bref de sa responsable comme le signe d'un problème et y repenser toute la soirée. Si cela te parle, notre article sur [pourquoi une petite critique fait si mal](/fr/blog/sensibilite-au-rejet-critique) décrit cette réaction en détail. Beaucoup de personnes anxieuses acceptent aussi chaque tâche en plus, parce qu'un non ressemble à un risque pour la relation. [Savoir dire non sans culpabiliser](/fr/blog/savoir-dire-non-sans-culpabiliser) s'apprend, et chaque petit essai rend la suite plus facile. Les collègues évitants font souvent l'inverse : ils préfèrent tout régler seuls plutôt que de demander de l'aide.
 
 ## Quand deux styles se rencontrent dans un couple
 

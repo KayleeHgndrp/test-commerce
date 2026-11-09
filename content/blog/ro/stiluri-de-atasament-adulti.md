@@ -2,11 +2,12 @@
 title: "Cele 4 stiluri de atașament la adulți: securizant, anxios, evitant și dezorganizat"
 description: "Ce înseamnă cu adevărat cele patru stiluri de atașament, de unde vin și cum se văd într-o marți obișnuită. Cu exemple din viața de zi cu zi, întrebări care te ajută să-ți recunoști stilul și pași care chiar ajută."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Redacția Personality Reveal"
 category: "Relații"
 tags: [atașament, stiluri de atașament, relații, atașament anxios, atașament evitant]
 seoTitle: "Cele 4 stiluri de atașament la adulți, explicate pe exemple"
-metaDescription: "Securizant, anxios, evitant sau dezorganizat? Cele patru stiluri de atașament explicate simplu, cu exemple din viața reală și cum îl recunoști pe al tău."
+metaDescription: "Securizant, anxios, evitant sau dezorganizat? Cele 4 stiluri de atașament pe înțeles, cu exemple din iubire, prietenie și muncă."
 keywords: [stiluri de atașament, stilurile de atașament la adulți, tipuri de atașament, ce stil de atașament am, atașament evitant, atașament dezorganizat, atașament securizant]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Da. Stilurile de atașament sunt tipare, nu trăsături fixe. O relație stabilă, prietenii bune, terapia și obiceiul de a-ți observa reacțiile te pot face, pas cu pas, mai securizant. Cercetătorii numesc asta siguranță câștigată."
   - q: "Temător-evitant este același lucru cu atașamentul dezorganizat?"
     a: "Sunt foarte apropiate, dar nu identice. Atașamentul dezorganizat a fost descris mai întâi la copiii mici. Temător-evitant este stilul adult în care frica puternică de respingere se îmbină cu disconfortul puternic față de apropiere. Pe internet, cei doi termeni sunt folosiți adesea ca sinonime."
+  - q: "Stilul de atașament influențează și prietenia și munca?"
+    a: "Da. Aceeași teamă de respingere și același disconfort față de apropiere apar și cu prietenii și colegii. Atașamentul anxios poate arăta ca frământarea pe marginea unui mesaj scurt sau ca un da spus la orice. Atașamentul evitant poate arăta ca retragerea când e aglomerat sau ca obiceiul de a nu cere niciodată ajutor."
 ---
 
 Există patru stiluri de atașament: securizant, anxios, evitant și temător-evitant, numit adesea dezorganizat. Ele descriu cum reacționezi când cauți apropiere, când te temi că o vei pierde sau când te sufocă. Stilul tău depinde de două lucruri: cât de mult te temi să fii respins și cât de ușor îți este să te sprijini pe cineva.
@@ -113,6 +116,14 @@ Uită-te și la tiparele tale de-a lungul timpului. Îți pierzi interesul exact
 Dacă gândurile care se învârt în cerc ocupă mult loc în răspunsurile tale, poate te vei regăsi și în articolul nostru despre [semnele că gândești prea mult](/ro/blog/semne-ca-gandesti-prea-mult). Atașamentul anxios și ruminația merg adesea împreună, mai ales noaptea.
 
 Poți face și [testul stilului de atașament](/ro/attachment), gratuit. Măsoară separat cele două scale și apoi îți arată care dintre cele patru stiluri se potrivește cel mai bine cu răspunsurile tale.
+
+## Stilurile de atașament în afara iubirii: prietenie și muncă
+
+Despre stilurile de atașament se vorbește de obicei în legătură cu întâlnirile, dar aceleași două scale contează oriunde te sprijini pe cineva. Cel mai des le vezi în prietenie și la muncă.
+
+Între prieteni, atașamentul anxios arată adesea ca numărătoarea cine a scris primul sau ca senzația că ai fost lăsat pe dinafară când vezi o poză de grup fără tine. Atașamentul evitant arată ca un om care e o companie excelentă și apoi dispare săptămâni întregi când e aglomerat, fără să observe că ceilalți simt lipsa lui.
+
+La muncă tiparele sunt mai discrete. Cineva cu stil anxios poate citi un email scurt de la șefă ca semn că ceva nu e în regulă și se poate gândi la el toată seara. Dacă îți sună cunoscut, citește articolul nostru despre [de ce o critică mică doare atât de tare](/ro/blog/sensibilitate-la-respingere-critica). Mulți oameni cu atașament anxios spun da și la fiecare sarcină în plus, pentru că un nu pare un risc pentru relație. [Să spui nu fără vinovăție](/ro/blog/cum-sa-spui-nu-fara-vinovatie) se poate exersa, iar fiecare încercare mică face lucrurile mai ușoare. Colegii evitanți fac adesea invers: preferă să rezolve totul singuri decât să ceară ajutor.
 
 ## Când două stiluri se întâlnesc într-o relație
 

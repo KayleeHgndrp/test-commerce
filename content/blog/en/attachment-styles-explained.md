@@ -2,11 +2,12 @@
 title: "The four attachment styles explained: secure, anxious, avoidant and fearful"
 description: "What the four attachment styles really mean, where they come from and how they show up on an ordinary Tuesday. With everyday examples, a way to recognise your own style and steps that help."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Personality Reveal editorial team"
 category: "Relationships"
 tags: [attachment, attachment styles, relationships, anxious attachment, avoidant attachment]
 seoTitle: "The 4 attachment styles explained, with real examples"
-metaDescription: "Secure, anxious, avoidant or fearful? The four attachment styles explained in plain language, with everyday examples and how to recognise your own."
+metaDescription: "Secure, anxious, avoidant or fearful? The four attachment styles in plain language, with examples from love, friendship and work, plus a free test."
 keywords: [attachment styles, attachment styles explained, four attachment styles, types of attachment styles, what is my attachment style, fearful avoidant attachment, avoidant attachment]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Yes. Attachment styles are patterns, not fixed traits. A steady relationship, good friendships, therapy and simply learning to notice your own reactions can all move you towards more security. Researchers call this earned security."
   - q: "Is fearful-avoidant the same as disorganized attachment?"
     a: "They are closely related but not identical. Disorganized attachment was first described in young children. Fearful-avoidant is the adult style that combines high worry about rejection with high discomfort with closeness. Online the two words are often used as if they mean the same thing."
+  - q: "Does your attachment style affect friendships and work?"
+    a: "Yes. The same worry about rejection and the same discomfort with closeness show up with friends and colleagues. Anxious attachment can look like fretting over a short message or saying yes to everything. Avoidant attachment can look like pulling back when life gets busy or never asking for help."
 ---
 
 There are four attachment styles: secure, anxious, avoidant and fearful-avoidant. They describe how you tend to act when you want closeness, fear losing it or feel crowded by it. Your style is decided by two things: how much you worry about being rejected, and how comfortable you are with depending on someone.
@@ -113,6 +116,14 @@ Also look at your patterns over time. Do you notice that you lose interest exact
 If worry is a big part of your answer, you may also recognise yourself in our article on [the signs that you are an overthinker](/en/blog/signs-you-are-an-overthinker). Anxious attachment and overthinking often travel together, especially at night.
 
 You can also take our free [attachment style test](/en/attachment). It measures both scales separately and then shows which of the four styles fits your answers best.
+
+## Attachment styles outside of love: friends and work
+
+Attachment styles are usually discussed in the context of dating, but the same two scales show up wherever you depend on someone. Friendships and work are the most common places.
+
+With friends, anxious attachment often looks like keeping score of who texts first, or feeling left out when you see a group photo you were not in. Avoidant attachment looks like being great company and then disappearing for weeks when life gets busy, without noticing that others miss you.
+
+At work the patterns are quieter. Someone with an anxious style may read a short email from a manager as a sign of trouble and spend the evening going over it. If that sounds familiar, our article on [why small criticism can hit so hard](/en/blog/rejection-sensitivity-criticism) looks at that reaction in detail. Many anxious people also say yes to every extra task, because a no feels like a risk to the relationship. [Saying no without guilt](/en/blog/how-to-say-no-without-guilt) is a skill you can practise, and it gets easier with every small try. Avoidant colleagues tend to do the opposite: they would rather solve everything alone than ask for help.
 
 ## How styles meet in a relationship
 
