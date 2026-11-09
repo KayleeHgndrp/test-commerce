@@ -8,6 +8,7 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 | Datum | translationKey | Onderwerp | Test |
 |---|---|---|---|
+| 2026-11-09 | rejection-sensitivity-criticism (en: rejection-sensitivity-criticism) | Afwijzingsgevoeligheid: waarom kleine kritiek zo hard binnenkomt | rejection-sensitivity |
 | 2026-11-06 | people-pleaser-saying-no (en: how-to-say-no-without-guilt) | Nee zeggen zonder schuldgevoel als people pleaser | people-pleaser |
 | 2026-11-04 | attachment-styles-explained (en: attachment-styles-explained) | Pijlerartikel: de vier hechtingsstijlen uitgelegd | attachment |
 | 2026-11-02 | overthinking-signs (en: signs-you-are-an-overthinker) | Signalen dat je een piekeraar bent, en hoe je 's avonds stopt | overthinking |
@@ -27,7 +28,6 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 | hsp-vs-introvert | Hoogsensitief of introvert: het verschil | hsp | highly sensitive person vs introvert |
 | burnout-or-tired | Burn-out of gewoon moe? Tien signalen | burnout | burnout or just tired |
 | love-languages-vs-love-styles | Liefdestalen en liefdesstijlen: wat is het verschil | love-style | love languages vs love styles |
-| rejection-sensitivity-criticism | Afwijzingsgevoeligheid: waarom kleine kritiek zo hard binnenkomt | rejection-sensitivity | why does criticism hurt so much |
 | perfectionism-types | De drie soorten perfectionisme | perfectionism | types of perfectionism |
 | emotional-spending | Waarom je geld uitgeeft als je je rot voelt | money-mindset | why do I spend money when sad |
 | enneagram-types-overview | De negen enneagramtypes in gewone taal | enneagram | enneagram types explained |
