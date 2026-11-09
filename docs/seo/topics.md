@@ -16,9 +16,15 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 ## Wachtrij
 
+Bovenste vijf toegevoegd op 9 nov 2026 op basis van Search Console: de BPD-, bipolar-, trauma- en talenttests halen al vertoningen in veel talen (positie 4 tot 15), en Big Five/personlighedstest-zoekvragen in DA, SV en NL. Elk artikel linkt prominent naar de bijbehorende test. Gevoelige onderwerpen: geen diagnose, wel een zin over professionele hulp.
+
 | translationKey | Onderwerp | Test | Zoekvraag (en) |
 |---|---|---|---|
+| bpd-signs-adults | Borderline (BPD) bij volwassenen: signalen, en wat een zelftest wel en niet zegt | bpd | borderline personality disorder test |
+| bipolar-or-mood-swings | Bipolaire stoornis of gewoon stemmingswisselingen? De verschillen | bipolar | bipolar disorder test |
 | big-five-vs-mbti | Big Five of MBTI: welke test is betrouwbaarder | big-five | big five vs mbti |
+| trauma-signs-ptsd | Signalen van onverwerkt trauma, en wanneer het PTSS kan zijn | trauma | trauma test |
+| strengths-talent-test | Wat zijn je talenten? Zo ontdek je je sterkste kanten | strengths | talent test |
 | procrastination-types | De vier soorten uitstellers, en welke jij bent | procrastination | types of procrastinators |
 | disc-profile-work | Je DISC-profiel op het werk | disc | disc personality types at work |
 | chronotype-morning-evening | Ochtendmens of avondmens: wat je chronotype zegt | chronotype | am I a night owl or early bird |
