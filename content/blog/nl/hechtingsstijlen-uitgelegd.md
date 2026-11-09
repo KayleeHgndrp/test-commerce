@@ -2,11 +2,12 @@
 title: "De vier hechtingsstijlen uitgelegd: veilig, angstig, vermijdend en angstig-vermijdend"
 description: "Wat de vier hechtingsstijlen echt betekenen, waar ze vandaan komen en hoe je ze terugziet op een gewone dinsdag. Met voorbeelden uit het dagelijks leven, een manier om je eigen stijl te herkennen en stappen die helpen."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Redactie Personality Reveal"
 category: "Relaties"
 tags: [hechting, hechtingsstijlen, relaties, angstige hechting, vermijdende hechting]
 seoTitle: "De 4 hechtingsstijlen uitgelegd, met herkenbare voorbeelden"
-metaDescription: "Veilig, angstig, vermijdend of angstig-vermijdend? De vier hechtingsstijlen in gewone taal, met herkenbare voorbeelden en hoe je de jouwe herkent."
+metaDescription: "Veilig, angstig, vermijdend of angstig-vermijdend? De vier hechtingsstijlen in gewone taal, met voorbeelden uit liefde, vriendschap en werk."
 keywords: [hechtingsstijlen, vier hechtingsstijlen, hechtingsstijlen volwassenen, welke hechtingsstijl heb ik, vermijdende hechting, angstig vermijdende hechting, veilige hechting]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Ja. Hechtingsstijlen zijn patronen, geen vaste eigenschappen. Een stabiele relatie, goede vriendschappen, therapie en leren opmerken wat er in je gebeurt kunnen je stap voor stap veiliger maken. Onderzoekers noemen dat verworven veiligheid."
   - q: "Is angstig-vermijdend hetzelfde als gedesorganiseerde hechting?"
     a: "Ze liggen dicht bij elkaar, maar zijn niet hetzelfde. Gedesorganiseerde hechting werd eerst bij jonge kinderen beschreven. Angstig-vermijdend is de stijl bij volwassenen waarin veel angst voor afwijzing samengaat met veel ongemak bij nabijheid. Online worden de twee woorden vaak door elkaar gebruikt."
+  - q: "Speelt je hechtingsstijl ook mee in vriendschappen en op het werk?"
+    a: "Ja. Dezelfde angst voor afwijzing en hetzelfde ongemak bij nabijheid zie je terug bij vrienden en collega's. Angstige hechting kan eruitzien als piekeren over een kort berichtje of overal ja op zeggen. Vermijdende hechting kan eruitzien als je terugtrekken zodra het druk wordt of nooit om hulp vragen."
 ---
 
 Er zijn vier hechtingsstijlen: veilig, angstig, vermijdend en angstig-vermijdend. Ze beschrijven hoe je reageert als je nabijheid zoekt, bang bent die kwijt te raken of je er juist benauwd door voelt. Twee dingen bepalen je stijl: hoeveel je je zorgen maakt over afwijzing, en hoe prettig je het vindt om op iemand te leunen.
@@ -113,6 +116,14 @@ Kijk ook naar je patronen over langere tijd. Merk je dat je interesse verliest p
 Speelt piekeren een grote rol in je antwoorden, dan herken je jezelf misschien ook in ons artikel over [de signalen dat je een piekeraar bent](/nl/blog/ben-ik-een-piekeraar-signalen). Angstige hechting en piekeren gaan vaak samen, zeker 's nachts.
 
 Je kunt ook onze gratis [hechtingsstijl test](/nl/attachment) doen. Die meet beide schalen apart en laat daarna zien welke van de vier stijlen het best bij je antwoorden past.
+
+## Hechtingsstijlen buiten de liefde: vriendschap en werk
+
+Over hechtingsstijlen lees je meestal in verband met daten, maar dezelfde twee schalen spelen overal waar je op iemand leunt. Vriendschappen en werk zijn de plekken waar je ze het vaakst tegenkomt.
+
+Bij vrienden ziet angstige hechting er vaak uit als bijhouden wie het eerst appt, of je buitengesloten voelen als je een groepsfoto ziet waar jij niet op staat. Vermijdende hechting ziet eruit als heel gezellig zijn en dan wekenlang verdwijnen zodra het druk wordt, zonder te merken dat anderen je missen.
+
+Op het werk zijn de patronen stiller. Iemand met een angstige stijl leest een kort mailtje van de leidinggevende als teken dat er iets mis is en piekert er de hele avond over. Herken je dat, lees dan ons artikel over [waarom kleine kritiek zo hard binnenkomt](/nl/blog/afwijzingsgevoeligheid-kritiek). Veel angstig gehechte mensen zeggen ook ja tegen elke extra klus, omdat een nee voelt als een risico voor de band. [Nee zeggen zonder schuldgevoel](/nl/blog/nee-zeggen-zonder-schuldgevoel) kun je oefenen, en het wordt bij elke kleine poging makkelijker. Vermijdende collega's doen vaak het omgekeerde: ze lossen liever alles alleen op dan dat ze om hulp vragen.
 
 ## Hoe stijlen elkaar ontmoeten in een relatie
 

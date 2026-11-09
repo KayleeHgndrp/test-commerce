@@ -2,11 +2,12 @@
 title: "Els 4 tipus d'aferrament en adults: segur, ansiós, evitatiu i desorganitzat"
 description: "Què volen dir de veritat els quatre tipus d'aferrament, d'on surten i com es noten un dimarts qualsevol. Amb exemples quotidians, preguntes per reconèixer el teu estil i passos que ajuden."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Redacció de Personality Reveal"
 category: "Relacions"
 tags: [aferrament, tipus d'aferrament, estils d'aferrament, parella, aferrament ansiós, aferrament evitatiu]
 seoTitle: "Els 4 tipus d'aferrament en adults, explicats amb exemples"
-metaDescription: "Segur, ansiós, evitatiu o desorganitzat? Els quatre tipus d'aferrament explicats amb paraules senzilles, exemples del dia a dia i com reconèixer el teu."
+metaDescription: "Segur, ansiós, evitatiu o desorganitzat? Els 4 tipus d'aferrament explicats amb senzillesa, amb exemples de parella, amistat i feina."
 keywords: [tipus d'aferrament, estils d'aferrament, aferrament en adults, quin tipus d'aferrament tinc, aferrament evitatiu, aferrament desorganitzat, aferrament segur]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Sí. Els estils d'aferrament són patrons, no trets fixos. Una relació estable, bones amistats, la teràpia i aprendre a notar les teves reaccions et poden fer més segur a poc a poc. Els investigadors en diuen seguretat adquirida."
   - q: "L'aferrament temorós-evitatiu és el mateix que el desorganitzat?"
     a: "Són molt a prop, però no són idèntics. L'aferrament desorganitzat es va descriure primer en infants petits. El temorós-evitatiu és l'estil adult que combina molta por al rebuig amb molta incomoditat davant la proximitat. A internet sovint es fan servir com a sinònims."
+  - q: "El tipus d'aferrament també influeix en l'amistat i la feina?"
+    a: "Sí. La mateixa por al rebuig i la mateixa incomoditat amb la proximitat apareixen amb amics i companys. L'aferrament ansiós es pot veure en donar voltes a un missatge curt o dir que sí a tot. L'aferrament evitatiu es pot veure en allunyar-se quan hi ha molta feina o no demanar mai ajuda."
 ---
 
 Hi ha quatre tipus d'aferrament: segur, ansiós, evitatiu i temorós-evitatiu, que sovint s'anomena desorganitzat. Descriuen com reacciones quan busques proximitat, quan tens por de perdre-la o quan t'aclapara. El teu estil depèn de dues coses: quant et preocupa que et rebutgin i com et costa recolzar-te en algú.
@@ -113,6 +116,14 @@ Fixa't també en els teus patrons al llarg del temps. Perds l'interès just quan
 Si donar voltes a les coses ocupa molt d'espai a les teves respostes, potser també et reconeixeràs en el nostre article sobre [els senyals que penses massa](/ca/blog/senyals-que-penses-massa). L'aferrament ansiós i la rumiació sovint van junts, sobretot a la nit.
 
 També pots fer el nostre [test d'estil d'aferrament](/ca/attachment), que és gratuït. Mesura les dues escales per separat i després et mostra quin dels quatre estils encaixa millor amb les teves respostes.
+
+## Els tipus d'aferrament fora de la parella: amistat i feina
+
+Normalment es parla dels tipus d'aferrament en el context de les cites, però les mateixes dues escales apareixen sempre que depens d'algú. L'amistat i la feina són els llocs on es noten més sovint.
+
+Amb els amics, l'aferrament ansiós sovint vol dir portar el compte de qui escriu primer, o sentir-te exclòs quan veus una foto de grup on no hi surts. L'aferrament evitatiu vol dir ser molt bona companyia i després desaparèixer setmanes quan hi ha molta feina, sense adonar-te que els altres et troben a faltar.
+
+A la feina els patrons són més discrets. Algú amb un estil ansiós pot llegir un correu curt de la seva cap com a senyal que alguna cosa va malament i passar-se la tarda pensant-hi. Si et sona, el nostre article sobre [per què una petita crítica fa tant mal](/ca/blog/sensibilitat-al-rebuig-critiques) explica aquesta reacció amb detall. Moltes persones ansioses també diuen que sí a cada tasca extra, perquè un no sembla un risc per a la relació. [Dir que no sense culpa](/ca/blog/com-dir-que-no-sense-culpa) es pot practicar, i cada petit intent ho fa més fàcil. Els companys evitatius solen fer el contrari: s'estimen més resoldre-ho tot sols que demanar ajuda.
 
 ## Quan dos estils es troben en parella
 

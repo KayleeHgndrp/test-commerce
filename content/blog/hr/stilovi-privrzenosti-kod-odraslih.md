@@ -2,11 +2,12 @@
 title: "Četiri stila privrženosti kod odraslih: sigurna, anksiozna, izbjegavajuća i dezorganizirana"
 description: "Što zapravo znače četiri stila privrženosti, odakle dolaze i kako se vide u običan utorak. S primjerima iz svakodnevice, pitanjima po kojima ćeš prepoznati svoj stil i koracima koji pomažu."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Uredništvo Personality Reveal"
 category: "Veze"
 tags: [privrženost, stilovi privrženosti, veze, anksiozna privrženost, izbjegavajuća privrženost]
 seoTitle: "Četiri stila privrženosti kod odraslih, uz primjere"
-metaDescription: "Sigurna, anksiozna, izbjegavajuća ili dezorganizirana? Četiri stila privrženosti objašnjena jednostavno, s primjerima iz života i kako prepoznati svoj."
+metaDescription: "Sigurna, anksiozna, izbjegavajuća ili dezorganizirana? Četiri stila privrženosti jednostavno, s primjerima iz ljubavi, prijateljstva i posla."
 keywords: [stilovi privrženosti, stilovi privrženosti kod odraslih, vrste privrženosti, koji je moj stil privrženosti, izbjegavajuća privrženost, dezorganizirana privrženost, sigurna privrženost]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Da. Stilovi privrženosti su obrasci, a ne trajne osobine. Stabilna veza, dobra prijateljstva, terapija i promatranje vlastitih reakcija mogu te korak po korak učiniti sigurnijim. Istraživači to zovu stečena sigurnost."
   - q: "Je li plašljivo-izbjegavajuća privrženost isto što i dezorganizirana?"
     a: "Vrlo su bliske, ali nisu iste. Dezorganizirana privrženost najprije je opisana kod male djece. Plašljivo-izbjegavajući je stil odraslih u kojem se snažan strah od odbijanja spaja sa snažnom nelagodom u bliskosti. Na internetu se ta dva pojma često koriste kao sinonimi."
+  - q: "Utječe li stil privrženosti i na prijateljstvo i posao?"
+    a: "Da. Isti strah od odbacivanja i ista nelagoda zbog bliskosti pojavljuju se i s prijateljima i kolegama. Anksiozna privrženost može izgledati kao razmišljanje o kratkoj poruci ili pristajanje na sve. Izbjegavajuća privrženost može izgledati kao povlačenje kad je gužva ili kao da nikad ne tražiš pomoć."
 ---
 
 Postoje četiri stila privrženosti: siguran, anksiozan, izbjegavajući i plašljivo-izbjegavajući, koji se često naziva dezorganiziranim. Opisuju kako reagiraš kad tražiš bliskost, kad se bojiš da ćeš je izgubiti ili kad te guši. O tvom stilu odlučuju dvije stvari: koliko se bojiš odbijanja i koliko ti je lako osloniti se na nekoga.
@@ -113,6 +116,14 @@ Gledaj i svoje obrasce kroz duže razdoblje. Gubiš li interes baš kad netko po
 Ako u tvojim odgovorima puno mjesta zauzima prežvakavanje misli, možda ćeš se prepoznati i u našem članku o [znakovima da previše razmišljaš](/hr/blog/znakovi-da-previse-razmisljas). Anksiozna privrženost i prežvakavanje često idu zajedno, posebno noću.
 
 Možeš riješiti i naš besplatni [test stila privrženosti](/hr/attachment). Mjeri obje ljestvice odvojeno, a zatim pokaže koji od četiri stila najbolje odgovara tvojim odgovorima.
+
+## Stilovi privrženosti izvan ljubavi: prijateljstvo i posao
+
+O stilovima privrženosti najčešće se govori u kontekstu spojeva, ali iste dvije ljestvice djeluju svugdje gdje se na nekoga oslanjaš. Najčešće ih vidiš u prijateljstvu i na poslu.
+
+Među prijateljima anksiozna privrženost često izgleda kao brojanje tko je prvi pisao, ili osjećaj da si izostavljen kad vidiš grupnu fotografiju na kojoj nisi. Izbjegavajuća privrženost izgleda kao da je netko odlično društvo, a onda tjednima nestane kad je gužva, ne primjećujući da drugima nedostaje.
+
+Na poslu su obrasci tiši. Netko s anksioznim stilom može kratak mail šefice protumačiti kao znak da nešto nije u redu i o njemu razmišljati cijelu večer. Ako ti je to poznato, pročitaj naš članak o tome [zašto i mala kritika toliko boli](/hr/blog/osjetljivost-na-odbacivanje-kritika). Mnogi anksiozno privrženi ljudi pristaju i na svaki dodatni zadatak, jer ne djeluje kao rizik za odnos. [Reći ne bez osjećaja krivnje](/hr/blog/kako-reci-ne-bez-osjecaja-krivnje) možeš vježbati, i sa svakim malim pokušajem postaje lakše. Izbjegavajući kolege često rade suprotno: radije sve riješe sami nego da zamole za pomoć.
 
 ## Kad se dva stila sretnu u vezi
 

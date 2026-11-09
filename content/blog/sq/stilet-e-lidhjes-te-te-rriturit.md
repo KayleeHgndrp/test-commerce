@@ -2,11 +2,12 @@
 title: "Katër stilet e lidhjes te të rriturit: e sigurt, në ankth, shmangëse dhe e çorganizuar"
 description: "Çfarë kuptimi kanë vërtet katër stilet e lidhjes, nga vijnë dhe si duken në një të martë krejt të zakonshme. Me shembuj nga jeta e përditshme, pyetje që të ndihmojnë të njohësh stilin tënd dhe hapa që ndihmojnë."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Redaksia e Personality Reveal"
 category: "Marrëdhënie"
 tags: [lidhja, stilet e lidhjes, marrëdhënie, lidhja ankthioze, lidhja shmangëse]
 seoTitle: "Katër stilet e lidhjes te të rriturit, me shembuj"
-metaDescription: "E sigurt, në ankth, shmangëse apo e çorganizuar? Katër stilet e lidhjes me fjalë të thjeshta, me shembuj nga jeta dhe si ta njohësh stilin tënd."
+metaDescription: "E sigurt, e ankthshme, shmangëse apo e çorganizuar? Katër stilet e lidhjes thjesht, me shembuj nga dashuria, miqësia dhe puna."
 keywords: [stilet e lidhjes, stili i lidhjes, lidhja te të rriturit, cili është stili im i lidhjes, lidhja shmangëse, lidhja e çorganizuar, lidhja e sigurt]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Po. Stilet e lidhjes janë modele, jo tipare të pandryshueshme. Një marrëdhënie e qëndrueshme, miqësi të mira, terapia dhe të mësuarit për të vënë re reagimet e tua mund të të bëjnë hap pas hapi më të sigurt. Studiuesit e quajnë këtë siguri e fituar."
   - q: "A është lidhja shmangëse e frikësuar e njëjtë me lidhjen e çorganizuar?"
     a: "Janë shumë afër, por jo krejt e njëjta gjë. Lidhja e çorganizuar u përshkrua fillimisht te fëmijët e vegjël. Shmangës i frikësuar është stili i të rriturve ku frika e fortë nga refuzimi bashkohet me siklet të fortë ndaj afërsisë. Në internet të dy termat përdoren shpesh si sinonime."
+  - q: "A ndikon stili i lidhjes edhe te miqësia dhe puna?"
+    a: "Po. E njëjta frikë nga refuzimi dhe i njëjti siklet nga afërsia shfaqen edhe me miqtë dhe kolegët. Lidhja e ankthshme mund të duket si të mendosh pa pushim për një mesazh të shkurtër ose t'u thuash po të gjithave. Lidhja shmangëse mund të duket si tërheqje kur ka shumë punë ose si të mos kërkosh kurrë ndihmë."
 ---
 
 Ekzistojnë katër stile të lidhjes: i sigurt, në ankth, shmangës dhe shmangës i frikësuar, që shpesh quhet i çorganizuar. Ato përshkruajnë si reagon kur kërkon afërsi, kur ke frikë se mos e humbet ose kur ajo të mbyt. Stilin tënd e përcaktojnë dy gjëra: sa frikë ke se mos të refuzojnë dhe sa e lehtë është për ty të mbështetesh te dikush.
@@ -113,6 +116,14 @@ Shiko edhe modelet e tua në një periudhë më të gjatë. A e humbet interesin
 Nëse në përgjigjet e tua zë shumë vend bluarja e mendimeve në rreth, ndoshta do ta njohësh veten edhe në artikullin tonë për [shenjat që mendon shumë](/sq/blog/shenjat-qe-mendon-shume). Lidhja në ankth dhe të menduarit e tepërt shkojnë shpesh bashkë, sidomos natën.
 
 Mund të bësh edhe [testin tonë falas të stilit të lidhjes](/sq/attachment). Ai mat të dyja shkallët veçmas dhe pastaj tregon cili nga katër stilet u përshtatet më mirë përgjigjeve të tua.
+
+## Stilet e lidhjes jashtë dashurisë: miqësia dhe puna
+
+Për stilet e lidhjes zakonisht flitet në lidhje me takimet romantike, por të njëjtat dy shkallë veprojnë kudo ku mbështetesh te dikush. Më shpesh i sheh në miqësi dhe në punë.
+
+Mes miqve, lidhja e ankthshme shpesh duket si të numërosh kush shkroi i pari, ose të ndihesh i lënë mënjanë kur sheh një foto grupi pa ty. Lidhja shmangëse duket si dikush që është shoqëri e shkëlqyer dhe pastaj zhduket për javë të tëra kur ka shumë punë, pa e vënë re që të tjerëve u mungon.
+
+Në punë modelet janë më të heshtura. Dikush me stil të ankthshëm mund ta lexojë një email të shkurtër nga shefja si shenjë se diçka nuk shkon dhe të mendojë për të gjithë mbrëmjen. Nëse të duket e njohur, lexo artikullin tonë se [pse edhe një kritikë e vogël dhemb kaq shumë](/sq/blog/ndjeshmeria-ndaj-refuzimit-kritika). Shumë njerëz me lidhje të ankthshme i thonë po edhe çdo detyre shtesë, sepse një jo duket si rrezik për marrëdhënien. [Të thuash jo pa faj](/sq/blog/si-te-thuash-jo-pa-faj) mund të ushtrohet, dhe me çdo përpjekje të vogël bëhet më e lehtë. Kolegët shmangës shpesh bëjnë të kundërtën: preferojnë t'i zgjidhin të gjitha vetë sesa të kërkojnë ndihmë.
 
 ## Kur dy stile takohen në një marrëdhënie
 

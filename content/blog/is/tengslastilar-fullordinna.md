@@ -2,11 +2,12 @@
 title: "Tengslastílarnir fjórir hjá fullorðnum: öruggur, kvíðinn, forðandi og óskipulagður"
 description: "Hvað tengslastílarnir fjórir þýða í raun, hvaðan þeir koma og hvernig þeir birtast á venjulegum þriðjudegi. Með dæmum úr daglegu lífi, spurningum sem hjálpa þér að þekkja þinn stíl og skrefum sem hjálpa."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Ritstjórn Personality Reveal"
 category: "Sambönd"
 tags: [tengsl, tengslastílar, sambönd, kvíðin tengsl, forðandi tengsl]
 seoTitle: "Tengslastílarnir fjórir hjá fullorðnum, með dæmum"
-metaDescription: "Öruggur, kvíðinn, forðandi eða óskipulagður? Tengslastílarnir fjórir á einföldu máli, með dæmum úr lífinu og hvernig þú þekkir þinn stíl."
+metaDescription: "Örugg, kvíðin, forðandi eða óskipulögð tengsl? Tengslastílarnir fjórir á mannamáli, með dæmum úr ástinni, vináttu og vinnu."
 keywords: [tengslastílar, tengslastíll, tengsl fullorðinna, hver er minn tengslastíll, forðandi tengsl, óskipulögð tengsl, örugg tengsl]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Já. Tengslastílar eru mynstur, ekki fastir eiginleikar. Stöðugt samband, góð vinátta, meðferð og það að læra að taka eftir eigin viðbrögðum geta gert þig öruggari skref fyrir skref. Rannsakendur kalla þetta áunnið öryggi."
   - q: "Er óttasleginn og forðandi tengslastíll það sama og óskipulögð tengsl?"
     a: "Þetta er mjög líkt, en ekki alveg það sama. Óskipulögðum tengslum var fyrst lýst hjá ungum börnum. Óttasleginn og forðandi er stíll fullorðinna þar sem sterkur ótti við höfnun fer saman við sterk óþægindi við nánd. Á netinu eru hugtökin tvö oft notuð eins og þau þýði það sama."
+  - q: "Hefur tengslastíllinn líka áhrif á vináttu og vinnu?"
+    a: "Já. Sami ótti við höfnun og sama óþægindi gagnvart nánd birtast líka gagnvart vinum og samstarfsfólki. Kvíðin tengsl geta birst sem áhyggjur af stuttum skilaboðum eða að segja já við öllu. Forðandi tengsl geta birst sem að draga sig í hlé þegar mikið er að gera eða biðja aldrei um hjálp."
 ---
 
 Til eru fjórir tengslastílar: öruggur, kvíðinn, forðandi og óttasleginn og forðandi, sem oft er kallaður óskipulagður. Þeir lýsa því hvernig þú bregst við þegar þú leitar eftir nánd, þegar þú óttast að missa hana eða þegar hún verður þér of mikil. Stíllinn þinn ræðst af tvennu: hversu hræddur þú ert við að vera hafnað og hversu auðvelt þér finnst að treysta á einhvern annan.
@@ -113,6 +116,14 @@ Skoðaðu líka mynstrin þín yfir lengra tímabil. Missir þú áhugann einmit
 Ef hugsanir sem snúast í hringi taka mikið pláss í svörunum þínum, þekkir þú þig kannski líka í grein okkar um [merki um ofhugsun](/is/blog/merki-um-ofhugsun). Kvíðin tengsl og ofhugsun fara oft saman, sérstaklega á nóttunni.
 
 Þú getur líka tekið [ókeypis tengslastílsprófið okkar](/is/attachment). Það mælir báða kvarðana sitt í hvoru lagi og sýnir svo hver af stílunum fjórum passar best við svörin þín.
+
+## Tengslastílar utan ástarinnar: vinátta og vinna
+
+Oftast er rætt um tengslastíla í tengslum við stefnumót, en sömu tveir kvarðarnir skipta máli alls staðar þar sem þú reiðir þig á aðra. Vinátta og vinna eru staðirnir þar sem þeir sjást oftast.
+
+Meðal vina getur kvíðin tengsl birst þannig að þú fylgist með því hver sendir skilaboð fyrst, eða finnst þú útundan þegar þú sérð hópmynd án þín. Forðandi tengsl geta birst þannig að manneskja er frábær félagsskapur en hverfur svo vikum saman þegar mikið er að gera, án þess að taka eftir því að aðrir sakna hennar.
+
+Í vinnunni eru mynstrin hljóðlátari. Sá sem er með kvíðinn stíl getur lesið stuttan tölvupóst frá yfirmanni sem merki um vandræði og velt honum fyrir sér allt kvöldið. Ef þú kannast við þetta skaltu lesa greinina okkar um [af hverju lítil gagnrýni hittir svona fast](/is/blog/hofnunarnaemi-gagnryni). Margir með kvíðin tengsl segja líka já við hverju aukaverkefni, því nei virðist ógna sambandinu. [Að segja nei án samviskubits](/is/blog/ad-segja-nei-an-samviskubits) er hægt að æfa, og það verður auðveldara með hverri lítilli tilraun. Forðandi samstarfsfólk gerir oft hið gagnstæða: það leysir frekar allt sjálft en að biðja um hjálp.
 
 ## Þegar tveir stílar mætast í sambandi
 

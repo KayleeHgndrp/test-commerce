@@ -2,11 +2,12 @@
 title: "4 typy citové vazby u dospělých: jistá, úzkostná, vyhýbavá a dezorganizovaná"
 description: "Co doopravdy znamenají čtyři typy citové vazby, odkud se berou a jak se projevují v obyčejné úterý. S příklady z běžného života, otázkami, podle kterých poznáš svůj styl, a kroky, které pomáhají."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Redakce Personality Reveal"
 category: "Vztahy"
 tags: [citová vazba, typy citové vazby, vztahy, úzkostná citová vazba, vyhýbavá citová vazba]
 seoTitle: "4 typy citové vazby u dospělých, vysvětlené na příkladech"
-metaDescription: "Jistá, úzkostná, vyhýbavá, nebo dezorganizovaná? Čtyři typy citové vazby srozumitelně, s příklady ze života a s tipy, jak poznat tu svou."
+metaDescription: "Jistá, úzkostná, vyhýbavá nebo dezorganizovaná? 4 typy citové vazby srozumitelně, s příklady z lásky, přátelství i práce."
 keywords: [typy citové vazby, citová vazba u dospělých, styly citové vazby, jakou mám citovou vazbu, vyhýbavá citová vazba, dezorganizovaná citová vazba, jistá citová vazba]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Ano. Styly citové vazby jsou vzorce, ne pevné vlastnosti. Stabilní vztah, dobrá přátelství, terapie a všímání si vlastních reakcí tě mohou krok za krokem posunout k větší jistotě. Výzkumníci tomu říkají získaná jistota."
   - q: "Je bojácně vyhýbavá vazba totéž co dezorganizovaná?"
     a: "Mají k sobě blízko, ale nejsou totožné. Dezorganizovaná vazba byla nejdřív popsána u malých dětí. Bojácně vyhýbavý styl je styl dospělých, ve kterém se silný strach z odmítnutí spojuje se silným nepohodlím v blízkosti. Na internetu se oba pojmy často zaměňují."
+  - q: "Ovlivňuje citová vazba i přátelství a práci?"
+    a: "Ano. Stejný strach z odmítnutí a stejné nepohodlí z blízkosti se ukazují i u přátel a kolegů. Úzkostná vazba se může projevit přemýšlením nad krátkou zprávou nebo tím, že řekneš ano všemu. Vyhýbavá vazba se může projevit stažením, když je toho moc, nebo tím, že nikdy nepožádáš o pomoc."
 ---
 
 Existují čtyři typy citové vazby: jistá, úzkostná, vyhýbavá a bojácně vyhýbavá, které se často říká dezorganizovaná. Popisují, jak reaguješ, když hledáš blízkost, bojíš se, že o ni přijdeš, nebo tě naopak dusí. O tvém stylu rozhodují dvě věci: jak moc se bojíš odmítnutí a jak snadno se dokážeš o někoho opřít.
@@ -113,6 +116,14 @@ Všímej si i svých vzorců v delším čase. Ztrácíš zájem přesně ve chv
 Pokud v tvých odpovědích hraje velkou roli přemítání, možná se poznáš i v našem článku o tom, [podle čeho poznáš, že příliš přemýšlíš](/cs/blog/prilis-premyslim-priznaky-jak-prestat). Úzkostná vazba a přemítání jdou často ruku v ruce, hlavně v noci.
 
 Můžeš si také udělat náš bezplatný [test citové vazby](/cs/attachment). Měří obě škály zvlášť a pak ukáže, který ze čtyř stylů nejlépe odpovídá tvým odpovědím.
+
+## Citová vazba mimo lásku: přátelství a práce
+
+O typech citové vazby se mluví hlavně v souvislosti s randěním, ale stejné dvě škály hrají roli všude, kde se o někoho opíráš. Nejčastěji je uvidíš v přátelství a v práci.
+
+Mezi přáteli úzkostná vazba často vypadá tak, že počítáš, kdo napsal první, nebo se cítíš odstrčený, když vidíš společnou fotku bez tebe. Vyhýbavá vazba vypadá tak, že je člověk skvělá společnost a pak na týdny zmizí, když je toho moc, a nevšimne si, že ostatním chybí.
+
+V práci jsou ty vzorce tišší. Člověk s úzkostným stylem může krátký e-mail od šéfové vyčíst jako znamení, že je něco špatně, a přemýšlet o něm celý večer. Jestli to znáš, přečti si náš článek o tom, [proč i malá kritika tolik bolí](/cs/blog/citlivost-na-odmitnuti-kritika). Hodně úzkostně vázaných lidí také kývne na každý úkol navíc, protože ne působí jako riziko pro vztah. [Říkat ne bez výčitek](/cs/blog/jak-rikat-ne-bez-vycitek) se dá trénovat a s každým malým pokusem je to snazší. Vyhýbaví kolegové často dělají opak: radši všechno vyřeší sami, než aby požádali o pomoc.
 
 ## Když se dva styly potkají ve vztahu
 

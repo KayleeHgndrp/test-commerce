@@ -2,11 +2,12 @@
 title: "Yetişkinlerde dört bağlanma stili: güvenli, kaygılı, kaçıngan ve dağınık"
 description: "Dört bağlanma stili gerçekte ne anlama geliyor, nereden geliyor ve sıradan bir salı günü nasıl kendini gösteriyor? Günlük hayattan örnekler, kendi stilini tanımana yardımcı sorular ve gerçekten işe yarayan adımlar."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Personality Reveal editör ekibi"
 category: "İlişkiler"
 tags: [bağlanma, bağlanma stilleri, ilişkiler, kaygılı bağlanma, kaçıngan bağlanma]
 seoTitle: "Yetişkinlerde 4 bağlanma stili, örneklerle açıklandı"
-metaDescription: "Güvenli, kaygılı, kaçıngan ya da dağınık mı? Dört bağlanma stili sade bir dille, günlük hayattan örneklerle ve kendi stilini nasıl tanıyacağınla."
+metaDescription: "Güvenli, kaygılı, kaçınmacı mı, dağınık mı? 4 bağlanma stili sade bir dille, aşk, arkadaşlık ve iş hayatından örneklerle."
 keywords: [bağlanma stilleri, bağlanma türleri, yetişkin bağlanma stilleri, bağlanma stilim ne, kaçıngan bağlanma, korkulu kaçıngan bağlanma, güvenli bağlanma]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Evet. Bağlanma stilleri kalıplardır, sabit özellikler değil. İstikrarlı bir ilişki, iyi arkadaşlıklar, terapi ve kendi tepkilerini fark etmeyi öğrenmek seni adım adım daha güvenli hale getirebilir. Araştırmacılar buna kazanılmış güvenlik diyor."
   - q: "Korkulu-kaçıngan bağlanma ile dağınık bağlanma aynı şey mi?"
     a: "Çok yakınlar ama tam olarak aynı değiller. Dağınık bağlanma ilk olarak küçük çocuklarda tanımlandı. Korkulu-kaçıngan ise güçlü reddedilme korkusunun yakınlığa karşı güçlü bir rahatsızlıkla birleştiği yetişkin stilidir. İnternette iki terim sıklıkla eş anlamlı gibi kullanılır."
+  - q: "Bağlanma stili arkadaşlığı ve işi de etkiler mi?"
+    a: "Evet. Aynı reddedilme korkusu ve yakınlıktan duyulan aynı rahatsızlık arkadaşlarla ve iş arkadaşlarıyla da ortaya çıkar. Kaygılı bağlanma kısa bir mesaj üzerine kafa yormak ya da her şeye evet demek gibi görünebilir. Kaçınmacı bağlanma işler yoğunlaşınca geri çekilmek ya da hiç yardım istememek gibi görünebilir."
 ---
 
 Dört bağlanma stili vardır: güvenli, kaygılı, kaçıngan ve çoğu zaman dağınık bağlanma da denen korkulu-kaçıngan. Bu stiller, yakınlık aradığında, onu kaybetmekten korktuğunda ya da yakınlık seni boğduğunda nasıl tepki verdiğini anlatır. Stilini iki şey belirler: reddedilmekten ne kadar korktuğun ve birine yaslanmanın senin için ne kadar kolay olduğu.
@@ -113,6 +116,14 @@ Uzun vadedeki kalıplarına da bak. Biri sana tam ulaşılabilir hale geldiğind
 Cevaplarında aynı düşünceleri tekrar tekrar çevirmek çok yer kaplıyorsa, [aşırı düşünmenin belirtileri](/tr/blog/asiri-dusunme-belirtileri) hakkındaki yazımızda da kendini tanıyabilirsin. Kaygılı bağlanma ve aşırı düşünme çoğu zaman el ele gider, özellikle geceleri.
 
 Ücretsiz [bağlanma stili testimizi](/tr/attachment) de yapabilirsin. Test iki ölçeği ayrı ayrı ölçer ve ardından dört stilden hangisinin cevaplarına en iyi uyduğunu gösterir.
+
+## Aşkın dışında bağlanma stilleri: arkadaşlık ve iş
+
+Bağlanma stillerinden genelde flört bağlamında söz edilir, ama aynı iki ölçek birine dayandığın her yerde rol oynar. En sık arkadaşlıkta ve iş yerinde görürsün.
+
+Arkadaşlar arasında kaygılı bağlanma çoğu zaman kimin önce yazdığını saymak ya da içinde olmadığın bir grup fotoğrafını görünce dışlanmış hissetmek gibi görünür. Kaçınmacı bağlanma ise harika bir arkadaş olup işler yoğunlaşınca haftalarca ortadan kaybolmak ve başkalarının onu özlediğini fark etmemek gibi görünür.
+
+İş yerinde bu kalıplar daha sessizdir. Kaygılı stile sahip biri, yöneticisinden gelen kısa bir e-postayı bir şeylerin ters gittiğinin işareti gibi okuyup bütün akşam onu düşünebilir. Bu sana tanıdık geliyorsa, [küçük bir eleştirinin neden bu kadar ağır geldiğini](/tr/blog/reddedilme-hassasiyeti-elestiri) anlatan yazımızı oku. Kaygılı bağlanan birçok kişi her ek göreve de evet der, çünkü hayır demek ilişki için bir risk gibi gelir. [Suçluluk duymadan hayır demek](/tr/blog/sucluluk-duymadan-hayir-demek) çalışılabilen bir beceridir ve her küçük denemede kolaylaşır. Kaçınmacı iş arkadaşları çoğu zaman tersini yapar: yardım istemektense her şeyi tek başlarına çözmeyi tercih ederler.
 
 ## İki stil bir ilişkide karşılaştığında
 

@@ -18,6 +18,8 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 Bovenste vijf toegevoegd op 9 nov 2026 op basis van Search Console: de BPD-, bipolar-, trauma- en talenttests halen al vertoningen in veel talen (positie 4 tot 15), en Big Five/personlighedstest-zoekvragen in DA, SV en NL. Elk artikel linkt prominent naar de bijbehorende test. Gevoelige onderwerpen: geen diagnose, wel een zin over professionele hulp.
 
+Taalvoorrang (9 nov 2026): de meeste vertoningen komen uit DA, SV, CS, DE en FI, de klikken vooral uit SK, BG, CS, SR, LV en HR (daar staan we al op positie 7 tot 11). Geef bij het zoeken naar lokale zoekwoorden en bij controle van de vertaling deze talen extra aandacht.
+
 | translationKey | Onderwerp | Test | Zoekvraag (en) |
 |---|---|---|---|
 | bpd-signs-adults | Borderline (BPD) bij volwassenen: signalen, en wat een zelftest wel en niet zegt | bpd | borderline personality disorder test |

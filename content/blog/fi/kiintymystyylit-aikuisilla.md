@@ -2,11 +2,12 @@
 title: "Neljä kiintymystyyliä aikuisilla: turvallinen, ahdistunut, välttelevä ja jäsentymätön"
 description: "Mitä neljä kiintymystyyliä oikeasti tarkoittavat, mistä ne tulevat ja miltä ne näyttävät ihan tavallisena tiistaina. Mukana arjen esimerkkejä, kysymyksiä oman tyylin tunnistamiseen ja keinoja, jotka auttavat."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Personality Revealin toimitus"
 category: "Ihmissuhteet"
 tags: [kiintymys, kiintymystyylit, kiintymyssuhdemallit, parisuhde, ahdistunut kiintymys, välttelevä kiintymys]
 seoTitle: "Neljä kiintymystyyliä aikuisilla, selitettynä esimerkein"
-metaDescription: "Turvallinen, ahdistunut, välttelevä vai jäsentymätön? Neljä kiintymystyyliä selkokielellä, arjen esimerkein, ja miten tunnistat oman tyylisi."
+metaDescription: "Turvallinen, ahdistunut, välttelevä vai jäsentymätön? Neljä kiintymystyyliä selkeästi, esimerkein rakkaudesta, ystävyydestä ja työstä."
 keywords: [kiintymystyylit, kiintymyssuhdemallit, kiintymystyyli aikuisilla, mikä on minun kiintymystyylini, välttelevä kiintymystyyli, jäsentymätön kiintymys, turvallinen kiintymys]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Voi. Kiintymystyylit ovat toimintamalleja, eivät pysyviä ominaisuuksia. Vakaa parisuhde, hyvät ystävyyssuhteet, terapia ja omien reaktioiden huomaaminen voivat vähitellen tehdä sinusta turvallisemman. Tutkijat puhuvat ansaitusta turvallisuudesta."
   - q: "Onko pelokas-välttelevä sama asia kuin jäsentymätön kiintymys?"
     a: "Ne ovat lähellä toisiaan, mutta eivät täysin sama asia. Jäsentymätön kiintymys kuvattiin ensin pienillä lapsilla. Pelokas-välttelevä on aikuisten tyyli, jossa voimakas torjutuksi tulemisen pelko yhdistyy voimakkaaseen epämukavuuteen läheisyydessä. Netissä sanoja käytetään usein kuin ne tarkoittaisivat samaa."
+  - q: "Vaikuttaako kiintymystyyli myös ystävyyteen ja työhön?"
+    a: "Kyllä. Sama hylätyksi tulemisen pelko ja sama epämukavuus läheisyydessä näkyvät myös ystävien ja työkavereiden kanssa. Ahdistunut kiintymys voi olla lyhyen viestin vatvomista tai kaikkeen suostumista. Välttelevä kiintymys voi olla vetäytymistä kiireen keskellä tai sitä, ettei koskaan pyydä apua."
 ---
 
 Kiintymystyylejä on neljä: turvallinen, ahdistunut, välttelevä ja pelokas-välttelevä, jota kutsutaan usein jäsentymättömäksi. Ne kuvaavat, miten reagoit, kun kaipaat läheisyyttä, pelkäät menettäväsi sen tai tunnet, että se ahdistaa. Tyylisi ratkaisee kaksi asiaa: kuinka paljon pelkäät torjutuksi tulemista ja kuinka helppoa sinun on nojata toiseen ihmiseen.
@@ -113,6 +116,14 @@ Katso myös toimintamallejasi pidemmällä aikavälillä. Huomaatko kiinnostukse
 Jos vatvominen vie vastauksissasi paljon tilaa, saatat tunnistaa itsesi myös artikkelistamme [merkeistä, että ylianalysoit](/fi/blog/merkit-etta-ylianalysoit). Ahdistunut kiintymys ja asioiden vatvominen kulkevat usein käsi kädessä, erityisesti öisin.
 
 Voit myös tehdä maksuttoman [kiintymystyylitestimme](/fi/attachment). Se mittaa molemmat asteikot erikseen ja näyttää sitten, mikä neljästä tyylistä sopii vastauksiisi parhaiten.
+
+## Kiintymystyylit rakkauden ulkopuolella: ystävyys ja työ
+
+Kiintymystyyleistä puhutaan yleensä deittailun yhteydessä, mutta samat kaksi asteikkoa vaikuttavat kaikkialla, missä nojaat toiseen ihmiseen. Ystävyys ja työ ovat paikat, joissa ne näkyvät useimmin.
+
+Ystävien kesken ahdistunut kiintymys voi näkyä siinä, että pidät kirjaa siitä, kuka viestii ensin, tai tunnet jääväsi ulkopuolelle nähdessäsi ryhmäkuvan ilman itseäsi. Välttelevä kiintymys voi näkyä siinä, että ihminen on mainiota seuraa ja katoaa sitten viikoiksi, kun elämä kiireytyy, huomaamatta että muut kaipaavat häntä.
+
+Töissä kuviot ovat hiljaisempia. Ahdistuneesti kiintynyt voi lukea esihenkilön lyhyen sähköpostin merkkinä ongelmasta ja vatvoa sitä koko illan. Jos tunnistat tämän, lue artikkelimme siitä, [miksi pienikin kritiikki osuu niin kovaa](/fi/blog/herkka-kritiikille-torjuntaherkkyys). Moni ahdistuneesti kiintynyt myös suostuu jokaiseen lisätehtävään, koska kieltäytyminen tuntuu riskiltä suhteelle. [Ei sanomista ilman syyllisyyttä](/fi/blog/miten-sanoa-ei-ilman-syyllisyytta) voi harjoitella, ja se helpottuu jokaisella pienellä yrityksellä. Välttelevät työkaverit tekevät usein päinvastoin: he ratkaisevat mieluummin kaiken yksin kuin pyytävät apua.
 
 ## Kun kaksi tyyliä kohtaa parisuhteessa
 

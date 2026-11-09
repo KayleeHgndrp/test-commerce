@@ -2,11 +2,12 @@
 title: "Los 4 tipos de apego en adultos: seguro, ansioso, evitativo y desorganizado"
 description: "Qué significan de verdad los cuatro tipos de apego, de dónde vienen y cómo se notan un martes cualquiera. Con ejemplos cotidianos, preguntas para reconocer tu estilo y pasos que ayudan."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Redacción de Personality Reveal"
 category: "Relaciones"
 tags: [apego, tipos de apego, estilos de apego, pareja, apego ansioso, apego evitativo]
 seoTitle: "Los 4 tipos de apego en adultos, explicados con ejemplos"
-metaDescription: "¿Seguro, ansioso, evitativo o desorganizado? Los cuatro tipos de apego explicados con palabras sencillas, ejemplos del día a día y cómo reconocer el tuyo."
+metaDescription: "¿Seguro, ansioso, evitativo o desorganizado? Los 4 tipos de apego explicados con sencillez, con ejemplos de pareja, amistad y trabajo."
 keywords: [tipos de apego, tipos de apego en adultos, estilos de apego, qué tipo de apego tengo, apego evitativo, apego desorganizado, apego seguro]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Sí. Los estilos de apego son patrones, no rasgos fijos. Una relación estable, buenas amistades, la terapia y aprender a notar tus propias reacciones pueden volverte más seguro poco a poco. Los investigadores lo llaman seguridad adquirida."
   - q: "¿El apego temeroso-evitativo es lo mismo que el desorganizado?"
     a: "Están muy cerca, pero no son idénticos. El apego desorganizado se describió primero en niños pequeños. El temeroso-evitativo es el estilo adulto que combina mucho miedo al rechazo con mucha incomodidad ante la cercanía. En internet se usan a menudo como sinónimos."
+  - q: "¿El tipo de apego influye también en la amistad y el trabajo?"
+    a: "Sí. El mismo miedo al rechazo y la misma incomodidad con la cercanía aparecen con amigos y compañeros. El apego ansioso puede verse en darle vueltas a un mensaje corto o en decir que sí a todo. El apego evitativo puede verse en alejarse cuando hay mucho lío o en no pedir nunca ayuda."
 ---
 
 Hay cuatro tipos de apego: seguro, ansioso, evitativo y temeroso-evitativo, que muchas veces se llama desorganizado. Describen cómo reaccionas cuando buscas cercanía, cuando temes perderla o cuando te agobia. Tu estilo depende de dos cosas: cuánto te preocupa que te rechacen y cuánto te cuesta apoyarte en alguien.
@@ -113,6 +116,14 @@ Fíjate también en tus patrones a lo largo del tiempo. ¿Pierdes el interés ju
 Si darle vueltas a las cosas ocupa mucho espacio en tus respuestas, quizá te reconozcas también en nuestro artículo sobre [las señales de que piensas demasiado](/es/blog/senales-de-que-piensas-demasiado). El apego ansioso y la rumiación suelen ir juntos, sobre todo por la noche.
 
 También puedes hacer nuestro [test de estilo de apego](/es/attachment), que es gratis. Mide las dos escalas por separado y luego te muestra cuál de los cuatro estilos encaja mejor con tus respuestas.
+
+## Los tipos de apego fuera de la pareja: amistad y trabajo
+
+Normalmente se habla de los tipos de apego en el contexto de las citas, pero las mismas dos escalas aparecen en cualquier relación en la que dependes de alguien. La amistad y el trabajo son los lugares más habituales.
+
+Con los amigos, el apego ansioso suele notarse en llevar la cuenta de quién escribe primero, o en sentirte excluido al ver una foto de grupo en la que no sales. El apego evitativo se nota en ser una compañía estupenda y luego desaparecer durante semanas cuando hay mucho lío, sin darte cuenta de que los demás te echan de menos.
+
+En el trabajo los patrones son más discretos. Alguien con apego ansioso puede leer un correo breve de su jefa como señal de que algo va mal y pasarse la tarde dándole vueltas. Si te suena, nuestro artículo sobre [por qué una pequeña crítica duele tanto](/es/blog/sensibilidad-al-rechazo-criticas) explica esa reacción con detalle. Muchas personas ansiosas también dicen que sí a cada tarea extra, porque un no se siente como un riesgo para la relación. [Decir que no sin culpa](/es/blog/como-decir-que-no-sin-culpa) se puede practicar, y cada pequeño intento lo hace más fácil. Los compañeros evitativos suelen hacer lo contrario: prefieren resolverlo todo solos antes que pedir ayuda.
 
 ## Cuando dos estilos se encuentran en pareja
 

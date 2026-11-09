@@ -2,11 +2,12 @@
 title: "A négy kötődési stílus felnőttkorban: biztonságos, szorongó, elkerülő és dezorganizált"
 description: "Mit jelent valójában a négy kötődési stílus, honnan erednek, és hogyan látszanak egy teljesen hétköznapi kedden. Mindennapi példákkal, kérdésekkel, amelyek segítenek felismerni a saját stílusodat, és lépésekkel, amelyek tényleg segítenek."
 date: 2026-11-04
+updated: 2026-11-09
 author: "A Personality Reveal szerkesztősége"
 category: "Kapcsolatok"
 tags: [kötődés, kötődési stílusok, párkapcsolat, szorongó kötődés, elkerülő kötődés]
 seoTitle: "A 4 kötődési stílus felnőttkorban, példákkal elmagyarázva"
-metaDescription: "Biztonságos, szorongó, elkerülő vagy dezorganizált? A négy kötődési stílus egyszerűen, hétköznapi példákkal, és hogyan ismerheted fel a sajátodat."
+metaDescription: "Biztonságos, szorongó, elkerülő vagy dezorganizált? A 4 kötődési stílus érthetően, példákkal a szerelemből, barátságból és munkából."
 keywords: [kötődési stílusok, kötődési típusok, felnőtt kötődés, milyen a kötődési stílusom, elkerülő kötődés, dezorganizált kötődés, biztonságos kötődés]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Igen. A kötődési stílusok minták, nem állandó tulajdonságok. Egy stabil kapcsolat, jó barátságok, terápia és a saját reakcióid megfigyelése lépésről lépésre biztonságosabbá tehet. A kutatók ezt megszerzett biztonságnak hívják."
   - q: "Ugyanaz a félelemteli-elkerülő és a dezorganizált kötődés?"
     a: "Nagyon közel állnak egymáshoz, de nem teljesen ugyanazok. A dezorganizált kötődést először kisgyerekeknél írták le. A félelemteli-elkerülő a felnőttkori stílus, amelyben az elutasítástól való erős félelem a közelséggel szembeni erős kényelmetlenséggel társul. Az interneten a két kifejezést gyakran szinonimaként használják."
+  - q: "A kötődési stílus a barátságra és a munkára is hatással van?"
+    a: "Igen. Ugyanaz az elutasítástól való félelem és ugyanaz a közelséggel járó kényelmetlenség jelenik meg barátokkal és kollégákkal is. A szorongó kötődés jelentheti egy rövid üzeneten való rágódást vagy azt, hogy mindenre igent mondasz. Az elkerülő kötődés jelentheti a visszahúzódást, amikor sűrűsödnek a dolgok, vagy azt, hogy soha nem kérsz segítséget."
 ---
 
 Négy kötődési stílus van: biztonságos, szorongó, elkerülő és félelemteli-elkerülő, amelyet gyakran dezorganizáltnak is neveznek. Azt írják le, hogyan reagálsz, amikor közelséget keresel, amikor attól félsz, hogy elveszíted, vagy amikor fojtogatónak érzed. A stílusodat két dolog határozza meg: mennyire félsz attól, hogy elutasítanak, és mennyire könnyű számodra támaszkodni valakire.
@@ -113,6 +116,14 @@ Nézd meg a mintáidat hosszabb távon is. Észreveszed, hogy elvész az érdekl
 Ha a válaszaidban sok helyet foglal el a rágódás, talán abban a cikkünkben is magadra ismersz, amely [a túlgondolás jeleiről és arról szól, hogyan állj le vele](/hu/blog/tulgondolas-jelei-hogyan-allj-le). A szorongó kötődés és a rágódás gyakran kéz a kézben jár, különösen éjjel.
 
 Kitöltheted az ingyenes [kötődési stílus tesztünket](/hu/attachment) is. Külön méri mindkét skálát, majd megmutatja, a négy stílus közül melyik illik leginkább a válaszaidhoz.
+
+## Kötődési stílusok a szerelmen túl: barátság és munka
+
+A kötődési stílusokról általában a randizás kapcsán beszélünk, pedig ugyanaz a két skála mindenhol számít, ahol valakire támaszkodsz. Leggyakrabban a barátságban és a munkahelyen látszanak.
+
+Barátok között a szorongó kötődés gyakran úgy néz ki, hogy számolod, ki írt először, vagy kirekesztettnek érzed magad, amikor meglátsz egy csoportképet nélküled. Az elkerülő kötődés úgy néz ki, hogy valaki remek társaság, aztán hetekre eltűnik, amikor sűrűsödnek a dolgok, és észre sem veszi, hogy hiányzik másoknak.
+
+A munkahelyen a minták csendesebbek. Akinek szorongó a stílusa, a főnöke rövid e-mailjét annak jeleként olvashatja, hogy valami baj van, és egész este azon rágódhat. Ha ez ismerős, olvasd el a cikkünket arról, [miért fáj ennyire egy apró kritika](/hu/blog/elutasitas-erzekenyseg-kritika). Sok szorongóan kötődő ember minden plusz feladatra igent mond, mert a nem kockázatnak tűnik a kapcsolatra nézve. [Nemet mondani bűntudat nélkül](/hu/blog/hogyan-mondj-nemet-buntudat-nelkul) gyakorolható, és minden kis próbálkozással könnyebb lesz. Az elkerülő kollégák gyakran épp az ellenkezőjét teszik: inkább mindent egyedül oldanak meg, mint hogy segítséget kérjenek.
 
 ## Amikor két stílus találkozik egy kapcsolatban
 

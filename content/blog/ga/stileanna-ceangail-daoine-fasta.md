@@ -2,11 +2,12 @@
 title: "Na ceithre stíl cheangail i ndaoine fásta: slán, imníoch, seachantach agus mí-eagraithe"
 description: "Cad is brí i ndáiríre leis na ceithre stíl cheangail, cá as a dtagann siad agus conas a fheictear iad ar ghnáth Mháirt. Le samplaí ón saol laethúil, ceisteanna a chabhraíonn leat do stíl féin a aithint agus céimeanna a chabhraíonn."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Foireann eagarthóireachta Personality Reveal"
 category: "Caidrimh"
 tags: [ceangal, stíleanna ceangail, caidrimh, ceangal imníoch, ceangal seachantach]
 seoTitle: "Na ceithre stíl cheangail i ndaoine fásta, le samplaí"
-metaDescription: "Slán, imníoch, seachantach nó mí-eagraithe? Na ceithre stíl cheangail i bhfocail shimplí, le samplaí ón saol agus conas do stíl féin a aithint."
+metaDescription: "Slán, imníoch, seachantach nó mí-eagraithe? Na ceithre stíl cheangail i dteanga shimplí, le samplaí ón ngrá, ón gcairdeas agus ón obair."
 keywords: [stíleanna ceangail, stíl cheangail, ceangal i ndaoine fásta, cén stíl cheangail atá agam, ceangal seachantach, ceangal mí-eagraithe, ceangal slán]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Is féidir. Is patrúin iad stíleanna ceangail, ní tréithe buana. Is féidir le caidreamh seasmhach, cairdeas maith, teiripe agus foghlaim chun d'imoibrithe féin a thabhairt faoi deara tú a dhéanamh níos sláine céim ar chéim. Slándáil tuillte a thugann taighdeoirí air seo."
   - q: "An ionann ceangal eaglach-seachantach agus ceangal mí-eagraithe?"
     a: "Tá siad an-ghar dá chéile, ach ní hionann iad go díreach. Rinneadh cur síos ar cheangal mí-eagraithe ar dtús i leanaí óga. Is é eaglach-seachantach an stíl i ndaoine fásta ina gcastar eagla láidir roimh dhiúltú le míchompord láidir le gaireacht. Ar líne úsáidtear an dá théarma go minic amhail is gur ionann iad."
+  - q: "An mbíonn tionchar ag stíl cheangail ar chairdeas agus ar obair freisin?"
+    a: "Bíonn. Feictear an eagla chéanna roimh dhiúltú agus an míchompord céanna le gaireacht le cairde agus le comhghleacaithe. Féadfaidh ceangal imníoch a bheith le feiceáil i mbuairt faoi theachtaireacht ghearr nó i rá tá le gach rud. Féadfaidh ceangal seachantach a bheith le feiceáil i dtarraingt siar nuair a bhíonn an saol gnóthach nó gan cabhair a iarraidh riamh."
 ---
 
 Tá ceithre stíl cheangail ann: slán, imníoch, seachantach agus eaglach-seachantach, ar a dtugtar mí-eagraithe go minic. Déanann siad cur síos ar an gcaoi a n-imoibríonn tú nuair a bhíonn tú ag lorg gaireachta, nuair a bhíonn eagla ort í a chailleadh nó nuair a mhothaíonn tú go bhfuil sí do do mhúchadh. Braitheann do stíl ar dhá rud: an méid eagla atá ort go ndiúltófar duit agus cé chomh héasca is atá sé duit brath ar dhuine eile.
@@ -113,6 +116,14 @@ Breathnaigh freisin ar do phatrúin thar thréimhse níos faide. An gcailleann t
 Má thógann smaointe a chasann i gciorcal go leor spáis i do fhreagraí, b'fhéidir go n-aithneoidh tú tú féin freisin inár n-alt faoi [na comharthaí go mbíonn tú ag ró-smaoineamh](/ga/blog/comharthai-go-mbionn-tu-ag-ro-smaoineamh). Is minic a théann ceangal imníoch agus ró-smaoineamh le chéile, go háirithe san oíche.
 
 Is féidir leat freisin [ár dtástáil saor in aisce ar stíl cheangail](/ga/attachment) a dhéanamh. Tomhaiseann sí an dá scála ar leith agus ansin taispeánann sí cé acu de na ceithre stíl is fearr a oireann do do fhreagraí.
+
+## Stíleanna ceangail lasmuigh den ghrá: cairdeas agus obair
+
+De ghnáth labhraítear faoi stíleanna ceangail i gcomhthéacs an tsuirí, ach bíonn an dá scála chéanna i gceist áit ar bith a mbíonn tú ag brath ar dhuine eile. Is i gcairdeas agus san obair is minice a fheictear iad.
+
+I measc cairde, is minic a bhíonn ceangal imníoch le feiceáil nuair a choinníonn tú cuntas ar cé a sheolann teachtaireacht ar dtús, nó nuair a bhraitheann tú fágtha amuigh ar ghrianghraf grúpa nach bhfuil tú air. Is éard is ceangal seachantach ann ná a bheith i do chomhluadar iontach agus ansin imeacht ar feadh seachtainí nuair a éiríonn an saol gnóthach, gan a thabhairt faoi deara go mbraitheann daoine eile uathu thú.
+
+San obair bíonn na patrúin níos ciúine. Féadfaidh duine a bhfuil stíl imníoch aige ríomhphost gearr ón mbainisteoir a léamh mar chomhartha go bhfuil fadhb ann agus smaoineamh air an tráthnóna ar fad. Má aithníonn tú é sin, léigh ár n-alt faoi [cén fáth a ngoilleann cáineadh beag chomh mór sin](/ga/blog/iogaireacht-do-dhiultu-caineadh). Deir go leor daoine imníocha tá le gach tasc breise freisin, mar go mbraitheann diúltú cosúil le baol don chaidreamh. Is féidir [diúltú gan chiontacht](/ga/blog/conas-diultu-gan-ciontacht) a chleachtadh, agus éiríonn sé níos éasca le gach iarracht bheag. Is minic a dhéanann comhghleacaithe seachantacha a mhalairt: is fearr leo gach rud a réiteach leo féin ná cabhair a iarraidh.
 
 ## Nuair a thagann dhá stíl le chéile i gcaidreamh
 

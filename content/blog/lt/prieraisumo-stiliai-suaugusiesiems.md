@@ -2,11 +2,12 @@
 title: "Keturi prieraišumo stiliai suaugusiesiems: saugus, nerimastingas, vengiantis ir dezorganizuotas"
 description: "Ką iš tikrųjų reiškia keturi prieraišumo stiliai, iš kur jie atsiranda ir kaip pasireiškia visiškai paprastą antradienį. Su kasdieniais pavyzdžiais, klausimais, padėsiančiais atpažinti savo stilių, ir veiksmais, kurie padeda."
 date: 2026-11-04
+updated: 2026-11-09
 author: "Personality Reveal redakcija"
 category: "Santykiai"
 tags: [prieraišumas, prieraišumo stiliai, santykiai, nerimastingas prieraišumas, vengiantis prieraišumas]
 seoTitle: "Keturi prieraišumo stiliai suaugusiesiems, su pavyzdžiais"
-metaDescription: "Saugus, nerimastingas, vengiantis ar dezorganizuotas? Keturi prieraišumo stiliai paprasta kalba, su kasdieniais pavyzdžiais ir kaip atpažinti savąjį."
+metaDescription: "Saugus, nerimastingas, vengiantis ar dezorganizuotas? Keturi prieraišumo stiliai paprastai, su pavyzdžiais iš meilės, draugystės ir darbo."
 keywords: [prieraišumo stiliai, prieraišumo tipai, prieraišumas suaugusiesiems, koks mano prieraišumo stilius, vengiantis prieraišumas, dezorganizuotas prieraišumas, saugus prieraišumas]
 translationKey: attachment-styles-explained
 relatedTests: [attachment, love-style]
@@ -19,6 +20,8 @@ faq:
     a: "Taip. Prieraišumo stiliai yra modeliai, o ne nekintami bruožai. Stabilūs santykiai, gera draugystė, terapija ir savo reakcijų pastebėjimas gali žingsnis po žingsnio padaryti tave saugesnį. Tyrėjai tai vadina įgytu saugumu."
   - q: "Ar baimingas-vengiantis prieraišumas yra tas pats, kas dezorganizuotas?"
     a: "Jie labai artimi, bet ne visiškai tas pats. Dezorganizuotas prieraišumas pirmiausia buvo aprašytas mažiems vaikams. Baimingas-vengiantis yra suaugusiųjų stilius, kuriame stipri atstūmimo baimė susijungia su stipriu nepatogumu artume. Internete abu žodžiai dažnai vartojami kaip sinonimai."
+  - q: "Ar prieraišumo stilius veikia ir draugystę bei darbą?"
+    a: "Taip. Ta pati atstūmimo baimė ir tas pats nepatogumas dėl artumo pasireiškia ir su draugais bei kolegomis. Nerimastingas prieraišumas gali atrodyti kaip sukimasis apie trumpą žinutę arba sutikimas su viskuo. Vengiantis prieraišumas gali atrodyti kaip atsitraukimas, kai daug darbų, arba kaip niekada neprašoma pagalba."
 ---
 
 Yra keturi prieraišumo stiliai: saugus, nerimastingas, vengiantis ir baimingas-vengiantis, kuris dažnai vadinamas dezorganizuotu. Jie apibūdina, kaip reaguoji, kai ieškai artumo, kai bijai jį prarasti ar kai jis tave dusina. Tavo stilių lemia du dalykai: kiek bijai būti atstumtas ir kaip lengvai gali atsiremti į kitą žmogų.
@@ -113,6 +116,14 @@ Pažvelk ir į savo modelius per ilgesnį laiką. Ar tavo susidomėjimas dingsta
 Jei tavo atsakymuose daug vietos užima minčių malimas ratu, galbūt atpažinsi save ir mūsų straipsnyje apie [požymius, kad per daug galvoji](/lt/blog/pozymiai-kad-per-daug-galvoji). Nerimastingas prieraišumas ir perdėtas galvojimas dažnai eina kartu, ypač naktį.
 
 Taip pat gali atlikti mūsų nemokamą [prieraišumo stiliaus testą](/lt/attachment). Jis matuoja abi skales atskirai ir tada parodo, kuris iš keturių stilių geriausiai atitinka tavo atsakymus.
+
+## Prieraišumo stiliai už meilės ribų: draugystė ir darbas
+
+Apie prieraišumo stilius dažniausiai kalbama pasimatymų kontekste, tačiau tos pačios dvi skalės veikia visur, kur kuo nors pasikliauji. Dažniausiai jas pamatysi draugystėje ir darbe.
+
+Tarp draugų nerimastingas prieraišumas dažnai atrodo kaip skaičiavimas, kas parašė pirmas, arba jausmas, kad esi paliktas nuošalyje, kai pamatai bendrą nuotrauką be savęs. Vengiantis prieraišumas atrodo taip: žmogus yra puiki kompanija, o paskui savaitėms dingsta, kai daug darbų, ir nepastebi, kad kitiems jo trūksta.
+
+Darbe šie modeliai tylesni. Žmogus su nerimastingu stiliumi gali trumpą vadovės laišką perskaityti kaip ženklą, kad kažkas negerai, ir galvoti apie jį visą vakarą. Jei tai pažįstama, perskaityk mūsų straipsnį apie tai, [kodėl net maža kritika taip skaudina](/lt/blog/jautrumas-atstumimui-kritika). Daug nerimastingai prisirišusių žmonių taip pat sutinka su kiekviena papildoma užduotimi, nes atsisakymas atrodo kaip rizika santykiams. [Pasakyti ne be kaltės jausmo](/lt/blog/kaip-pasakyti-ne-be-kaltes-jausmo) galima išmokti, ir su kiekvienu mažu bandymu tai tampa lengviau. Vengiantys kolegos dažnai daro priešingai: verčiau viską išsprendžia patys, nei paprašo pagalbos.
 
 ## Kai du stiliai susitinka santykiuose
 
