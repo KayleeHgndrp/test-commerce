@@ -39,7 +39,6 @@ export default async function ResultPage({ params }: PageProps<"/[locale]/[test]
       teasers={teasers}
       price={formatPrice(locale)}
       listPrice={formatPrice(locale, site.listPriceCents)}
-      bundlePrice={formatPrice(locale, site.bundlePriceCents)}
       packPrice={formatPrice(locale, site.packPriceCents)}
       packSave={site.packSize * site.priceCents > site.packPriceCents ? formatPrice(locale, site.packSize * site.priceCents - site.packPriceCents) : null}
       allPrice={formatPrice(locale, site.allPriceCents)}

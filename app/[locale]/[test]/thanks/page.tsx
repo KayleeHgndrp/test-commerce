@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { Suspense } from "react";
-import { BundleOffer } from "@/components/BundleOffer";
 import { CoupleInvite } from "@/components/CoupleInvite";
 import { PassSaver } from "@/components/PassSaver";
 import { ReportView } from "@/components/ReportView";
@@ -10,7 +9,7 @@ import { deliverOnce, retrievePaidOrder, retrievePass } from "@/lib/delivery";
 import type { Locale } from "@/lib/i18n/locales";
 import { allDefinitions, fmt, getDefinition, getTestText, type UiMessages } from "@/lib/i18n/messages";
 import { buildCoupleReport, buildReport } from "@/lib/report/render";
-import { formatPrice, site } from "@/lib/site";
+import { site } from "@/lib/site";
 import { loadTestPage, testStaticParams } from "@/lib/tests/params";
 import { decodeAnswers } from "@/lib/tests/scoring";
 
@@ -65,7 +64,6 @@ async function PaidReport({ locale, slug, thanks, searchParams }: { locale: Loca
     );
   }
   const isPass = order?.plan === "pack" || order?.plan === "all";
-  const offerVars = { price: formatPrice(locale, site.bundlePriceCents), full: formatPrice(locale), days: site.bundleDays };
   return (
     <div className="mt-10">
       {sessionId && <TrackPurchase test={slug} sessionId={sessionId} amount={(order?.session.amount_total ?? site.priceCents) / 100} currency={site.currency} />}
@@ -76,15 +74,6 @@ async function PaidReport({ locale, slug, thanks, searchParams }: { locale: Loca
         </>
       )}
       <ReportView report={await buildReport(locale, slug, answers)} />
-      {order?.plan === "single" && !order.session.metadata.bundle_from && (
-        <BundleOffer
-          sessionId={order.session.id}
-          slug={slug}
-          until={(order.session.created + site.bundleDays * 86400) * 1000}
-          title={fmt(thanks.bundleTitle, offerVars)}
-          text={fmt(thanks.bundleText, offerVars)}
-        />
-      )}
     </div>
   );
 }

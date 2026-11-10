@@ -15,11 +15,8 @@ export const site = {
   priceCents: 199,
   // Anchor price shown struck through next to the report price on the result page.
   listPriceCents: 325,
-  // Price of a second report bought within bundleDays of a paid order.
-  bundlePriceCents: Number(process.env.NEXT_PUBLIC_BUNDLE_PRICE_CENTS ?? 195),
-  bundleDays: 7,
   // Pack of packSize reports: the one bought now plus credits for other tests.
-  packPriceCents: Number(process.env.NEXT_PUBLIC_PACK_PRICE_CENTS ?? 795),
+  packPriceCents: 495,
   packSize: 3,
   // One-time pass that unlocks the report of every test.
   allPriceCents: Number(process.env.NEXT_PUBLIC_ALL_PRICE_CENTS ?? 1495),

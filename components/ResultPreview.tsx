@@ -19,7 +19,6 @@ type Props = {
   price: string;
   // Anchor price shown struck through next to the single report price.
   listPrice: string;
-  bundlePrice: string;
   packPrice: string;
   // Saving of the pack against single reports, or null when the pack saves nothing.
   packSave: string | null;
@@ -32,16 +31,13 @@ type Props = {
 };
 
 type Stored = { answers: string; gender: string };
-type Bundle = { session: string; slug: string; until: number };
 type PassStatus = { session: string; plan: "pack" | "all"; remaining: number; covered: string[] };
 type Plan = "single" | "pack" | "all";
 
-export const bundleKey = "bundle-offer";
 export const passKey = "report-pass";
 
-export function ResultPreview({ locale, def, name, dimensionNames, teasers, price, listPrice, bundlePrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, children }: Props) {
+export function ResultPreview({ locale, def, name, dimensionNames, teasers, price, listPrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, children }: Props) {
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
-  const [bundle, setBundle] = useState<Bundle | null>(null);
   const [pass, setPass] = useState<PassStatus | null>(null);
   const [plan, setPlan] = useState<Plan>("single");
   const [consent, setConsent] = useState(false);
@@ -54,14 +50,8 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
       const parsed = JSON.parse(localStorage.getItem(resultKey(def.slug)) ?? "null") as Stored | null;
       if (parsed && decodeAnswers(def, parsed.answers)) value = parsed;
     } catch {}
-    let offer: Bundle | null = null;
-    try {
-      const parsed = JSON.parse(localStorage.getItem(bundleKey) ?? "null") as Bundle | null;
-      if (parsed && parsed.slug !== def.slug && parsed.until > Date.now()) offer = parsed;
-    } catch {}
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setStored(value);
-    setBundle(offer);
 
     // A pack bought earlier on this device unlocks this report without paying again.
     let session = "";
@@ -114,7 +104,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
   }
 
   const planOptions: { id: Plan; title: string; note?: string; price: string; was?: string; badge?: string }[] = [
-    { id: "single", title: plansUi.single, price: bundle ? bundlePrice : price, was: bundle ? undefined : listPrice },
+    { id: "single", title: plansUi.single, price, was: listPrice },
     { id: "pack", title: plansUi.pack, note: plansUi.packNote, price: packPrice, badge: packSave ? fmt(plansUi.save, { amount: packSave }) : undefined },
     { id: "all", title: fmt(plansUi.all, { count: allCount }), note: plansUi.allNote, price: allPrice },
   ];
@@ -130,7 +120,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
       const res = await fetch("/api/checkout", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan, bundleFrom: plan === "single" ? bundle?.session : undefined }),
+        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan }),
       });
       const data = (await res.json()) as { url?: string };
       if (!res.ok || !data.url) throw new Error();
@@ -243,7 +233,6 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
               <Link href={`/${locale}/terms`} className="underline" target="_blank">{ui.consent}</Link>
             </span>
           </label>
-          {bundle && plan === "single" && <p className="mt-4 rounded-lg bg-accent/10 px-3 py-2 text-sm font-semibold text-accent">{fmt(ui.bundleNote, { price: bundlePrice, full: price })}</p>}
           {error && <p className="mt-3 text-sm font-medium text-rose-600">{error}</p>}
           <button
             disabled={busy}

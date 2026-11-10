@@ -1,6 +1,6 @@
 import { hasLocale } from "@/lib/i18n/locales";
 import { allDefinitions, fmt, getDefinition, getTestText, getUi } from "@/lib/i18n/messages";
-import { plans, validBundleSource, type Plan } from "@/lib/delivery";
+import { plans, type Plan } from "@/lib/delivery";
 import { sendEmail } from "@/lib/email";
 import { renderReport } from "@/lib/report/render";
 import { site } from "@/lib/site";
@@ -15,7 +15,7 @@ const STRIPE_LOCALES = new Set([
 
 export async function POST(request: Request) {
   const body = (await request.json().catch(() => null)) as Record<string, unknown> | null;
-  const { slug, locale, email, answers, gender, bundleFrom, partnerAnswers, partnerName } = (body ?? {}) as Record<string, string>;
+  const { slug, locale, email, answers, gender, partnerAnswers, partnerName } = (body ?? {}) as Record<string, string>;
   const plan = (plans.includes(body?.plan as Plan) ? body!.plan : "single") as Plan;
 
   const def = typeof slug === "string" ? getDefinition(slug) : undefined;
@@ -44,10 +44,7 @@ export async function POST(request: Request) {
   }
 
   const [ui, text] = await Promise.all([getUi(locale), getTestText(locale, slug)]);
-  // An invalid or used offer silently falls back to the normal price.
-  const bundle =
-    plan === "single" && typeof bundleFrom === "string" && bundleFrom ? await validBundleSource(bundleFrom, slug).catch(() => null) : null;
-  const price = { single: bundle ? site.bundlePriceCents : site.priceCents, pack: site.packPriceCents, all: site.allPriceCents, couple: site.couplePriceCents }[plan];
+  const price = { single: site.priceCents, pack: site.packPriceCents, all: site.allPriceCents, couple: site.couplePriceCents }[plan];
   const product = {
     single: text.name,
     pack: fmt(ui.plans.packProduct, { test: text.name, extra: site.packSize - 1 }),
@@ -73,7 +70,6 @@ export async function POST(request: Request) {
     "metadata[answers]": answers,
     "metadata[gender]": ["male", "female", "other"].includes(gender) ? gender : "other",
     "metadata[plan]": plan,
-    ...(bundle ? { "metadata[bundle_from]": bundle.id } : {}),
     ...(partner ? { "metadata[partner_answers]": partnerAnswers, "metadata[partner_name]": cleanName(partnerName) } : {}),
   });
 

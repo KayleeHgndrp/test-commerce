@@ -230,16 +230,13 @@
     "takeTest": "Fes el test",
     "crisisTitle": "No estàs sol",
     "crisisText": "Has indicat que has tingut pensaments que estaries millor mort o de fer-te mal. Si us plau, parla avui amb algú. Si et trobes en perill immediat, truca al 112. També pots contactar a qualsevol hora del dia amb una línia d'atenció en crisi del teu país, com les que trobaràs a findahelpline.com.",
-    "crisisLink": "Troba una línia d'ajuda a prop teu",
-    "bundleNote": "Preu de paquet: {price} en lloc de {full}"
+    "crisisLink": "Troba una línia d'ajuda a prop teu"
   },
   "thanks": {
     "title": "Gràcies per la teva compra!",
     "text": "El teu informe personal ja és de camí a la teva safata. Normalment arriba en menys d'un minut.",
     "spam": "No l'has rebut al cap de 10 minuts? Revisa la carpeta de correu brossa o de promocions, o escriu-nos a {email}.",
     "more": "Descobreix més tests",
-    "bundleTitle": "El teu proper informe per {price}",
-    "bundleText": "Tria un altre test a sota i fes-lo en els propers {days} dies. L'informe complet costarà {price} en lloc de {full}. Vàlid per a un informe addicional.",
     "packTitle": "El teu paquet està actiu",
     "packText": "Fes un altre test. A la pàgina de resultats el teu següent informe es desbloqueja a l'instant, sense tornar a pagar. Et queden: {count}.",
     "allTitle": "El teu passi complet està actiu",
