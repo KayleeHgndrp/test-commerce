@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { track } from "@/lib/analytics";
-import { getPriceVariant, priceTest, type PriceVariant } from "@/lib/price-test";
 import { fmt } from "@/lib/i18n/fmt";
 import type { UiMessages } from "@/lib/i18n/messages";
 import { decodeAnswers, scoreTest } from "@/lib/tests/scoring";
@@ -18,11 +17,11 @@ type Props = {
   // Name and opening line of each possible main type, shown for free once the visitor's type is known.
   teasers: Record<string, { name: string; text: string }>;
   price: string;
-  // Formatted single report price per variant of the running price test.
-  variantPrices: Record<PriceVariant, string>;
-  bundlePrice: string;
+  // Anchor price shown struck through next to the single report price.
+  listPrice: string;
   packPrice: string;
-  packSave: string;
+  // Saving of the pack against single reports, or null when the pack saves nothing.
+  packSave: string | null;
   allPrice: string;
   allCount: number;
   includes: string[];
@@ -32,22 +31,18 @@ type Props = {
 };
 
 type Stored = { answers: string; gender: string };
-type Bundle = { session: string; slug: string; until: number };
 type PassStatus = { session: string; plan: "pack" | "all"; remaining: number; covered: string[] };
 type Plan = "single" | "pack" | "all";
 
-export const bundleKey = "bundle-offer";
 export const passKey = "report-pass";
 
-export function ResultPreview({ locale, def, name, dimensionNames, teasers, price: listPrice, variantPrices, bundlePrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, children }: Props) {
+export function ResultPreview({ locale, def, name, dimensionNames, teasers, price, listPrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, children }: Props) {
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
-  const [bundle, setBundle] = useState<Bundle | null>(null);
   const [pass, setPass] = useState<PassStatus | null>(null);
   const [plan, setPlan] = useState<Plan>("single");
   const [consent, setConsent] = useState(false);
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
-  const [variant, setVariant] = useState<PriceVariant | null>(null);
 
   useEffect(() => {
     let value: Stored | null = null;
@@ -55,22 +50,8 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
       const parsed = JSON.parse(localStorage.getItem(resultKey(def.slug)) ?? "null") as Stored | null;
       if (parsed && decodeAnswers(def, parsed.answers)) value = parsed;
     } catch {}
-    let offer: Bundle | null = null;
-    try {
-      const parsed = JSON.parse(localStorage.getItem(bundleKey) ?? "null") as Bundle | null;
-      if (parsed && parsed.slug !== def.slug && parsed.until > Date.now()) offer = parsed;
-    } catch {}
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setStored(value);
-    setBundle(offer);
-
-    if (priceTest.active && value) {
-      const assigned = getPriceVariant();
-      setVariant(assigned);
-      const w = window as unknown as { gtag?: (...args: unknown[]) => void };
-      w.gtag?.("set", "user_properties", { price_variant: assigned });
-      track("Price View", { test: def.slug, price_test: priceTest.id, price_variant: assigned });
-    }
 
     // A pack bought earlier on this device unlocks this report without paying again.
     let session = "";
@@ -122,13 +103,9 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
     }
   }
 
-  const price = variant ? variantPrices[variant] : listPrice;
-  // Variant "b" shows the list price struck through next to the discounted price.
-  const discounted = price !== listPrice;
   const planOptions: { id: Plan; title: string; note?: string; price: string; was?: string; badge?: string }[] = [
-    { id: "single", title: plansUi.single, price: bundle ? bundlePrice : price, was: !bundle && discounted ? listPrice : undefined },
-    // The pack saving is counted from the list price, so it is not shown next to a discounted single report.
-    { id: "pack", title: plansUi.pack, note: plansUi.packNote, price: packPrice, badge: discounted ? undefined : fmt(plansUi.save, { amount: packSave }) },
+    { id: "single", title: plansUi.single, price, was: listPrice },
+    { id: "pack", title: plansUi.pack, note: plansUi.packNote, price: packPrice, badge: packSave ? fmt(plansUi.save, { amount: packSave }) : undefined },
     { id: "all", title: fmt(plansUi.all, { count: allCount }), note: plansUi.allNote, price: allPrice },
   ];
   const chosen = planOptions.find((o) => o.id === plan)!;
@@ -138,12 +115,12 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
     setError("");
     if (!consent) return setError(ui.consentRequired);
     setBusy(true);
-    track("Checkout Start", { test: def.slug, plan, ...(variant && { price_test: priceTest.id, price_variant: variant }) });
+    track("Checkout Start", { test: def.slug, plan });
     try {
       const res = await fetch("/api/checkout", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan, bundleFrom: plan === "single" ? bundle?.session : undefined, priceVariant: variant ?? undefined }),
+        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan }),
       });
       const data = (await res.json()) as { url?: string };
       if (!res.ok || !data.url) throw new Error();
@@ -256,7 +233,6 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
               <Link href={`/${locale}/terms`} className="underline" target="_blank">{ui.consent}</Link>
             </span>
           </label>
-          {bundle && plan === "single" && <p className="mt-4 rounded-lg bg-accent/10 px-3 py-2 text-sm font-semibold text-accent">{fmt(ui.bundleNote, { price: bundlePrice, full: price })}</p>}
           {error && <p className="mt-3 text-sm font-medium text-rose-600">{error}</p>}
           <button
             disabled={busy}
