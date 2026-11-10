@@ -1,5 +1,3 @@
-import { priceTest } from "@/lib/price-test";
-
 export const site = {
   name: process.env.NEXT_PUBLIC_SITE_NAME ?? "Personality Reveal",
   url: (process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000").replace(/\/$/, ""),
@@ -12,9 +10,11 @@ export const site = {
     vat: process.env.COMPANY_VAT ?? "",
     representative: process.env.COMPANY_REPRESENTATIVE ?? "",
   },
-  // Report list price in the smallest currency unit (cents). While the price test
-  // runs, the test's list price wins so every page shows the same price.
-  priceCents: priceTest.active ? priceTest.listCents : Number(process.env.NEXT_PUBLIC_REPORT_PRICE_CENTS ?? 395),
+  // Report price in the smallest currency unit (cents). Fixed in code since the
+  // price test (Nov 2026) ended in favour of 1.99, so an old env value cannot override it.
+  priceCents: 199,
+  // Anchor price shown struck through next to the report price on the result page.
+  listPriceCents: 325,
   // Price of a second report bought within bundleDays of a paid order.
   bundlePriceCents: Number(process.env.NEXT_PUBLIC_BUNDLE_PRICE_CENTS ?? 195),
   bundleDays: 7,
