@@ -8,6 +8,7 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 | Datum | translationKey | Onderwerp | Test |
 |---|---|---|---|
+| 2026-11-11 | disc-profile-colors (en: disc-personality-types-colors) | DISC-profiel: de vier kleuren rood, geel, groen en blauw uitgelegd (gekozen op Search Console: grootste cluster zoekvragen, vooral Deens "disc profil", "rød gul grøn blå", positie 20 tot 30) | disc |
 | 2026-11-09 | rejection-sensitivity-criticism (en: rejection-sensitivity-criticism) | Afwijzingsgevoeligheid: waarom kleine kritiek zo hard binnenkomt | rejection-sensitivity |
 | 2026-11-06 | people-pleaser-saying-no (en: how-to-say-no-without-guilt) | Nee zeggen zonder schuldgevoel als people pleaser | people-pleaser |
 | 2026-11-04 | attachment-styles-explained (en: attachment-styles-explained) | Pijlerartikel: de vier hechtingsstijlen uitgelegd | attachment |
@@ -28,7 +29,6 @@ Taalvoorrang (9 nov 2026): de meeste vertoningen komen uit DA, SV, CS, DE en FI,
 | trauma-signs-ptsd | Signalen van onverwerkt trauma, en wanneer het PTSS kan zijn | trauma | trauma test |
 | strengths-talent-test | Wat zijn je talenten? Zo ontdek je je sterkste kanten | strengths | talent test |
 | procrastination-types | De vier soorten uitstellers, en welke jij bent | procrastination | types of procrastinators |
-| disc-profile-work | Je DISC-profiel op het werk | disc | disc personality types at work |
 | chronotype-morning-evening | Ochtendmens of avondmens: wat je chronotype zegt | chronotype | am I a night owl or early bird |
 | career-test-what-job-suits-me | Welk beroep past bij mijn persoonlijkheid | career | what job suits my personality |
 | imposter-syndrome-new-job | Imposter syndroom in een nieuwe baan | imposter | imposter syndrome new job |
