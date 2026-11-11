@@ -418,7 +418,7 @@
     "single": "Denne rapport",
     "pack": "3 rapporter",
     "packNote": "Denne plus 2 andre test efter eget valg",
-    "all": "Alle {count} rapporter",
+    "all": "Alle rapporter",
     "allNote": "Hver test på siden, lås dem op når du vil",
     "save": "Spar {amount}",
     "passPack": "Din pakke har {count} rapporter tilbage",
@@ -426,7 +426,7 @@
     "passUnlock": "Lås denne rapport op gratis",
     "passError": "Din pakke kunne ikke bruges til denne rapport. Du kan stadig købe den nedenfor.",
     "packProduct": "{test} + {extra} rapporter mere",
-    "allProduct": "Alle {count} rapporter"
+    "allProduct": "Alle rapporter"
   },
   "couple": {
     "inviteTitle": "Tag testen sammen med din partner",

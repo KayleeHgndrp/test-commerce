@@ -418,7 +418,7 @@
     "single": "Ten raport",
     "pack": "3 raporty",
     "packNote": "Ten plus 2 inne testy do wyboru",
-    "all": "Wszystkie raporty ({count})",
+    "all": "Wszystkie raporty",
     "allNote": "Każdy test na stronie, odblokuj je, kiedy chcesz",
     "save": "Oszczędzasz {amount}",
     "passPack": "W Twoim pakiecie zostało raportów: {count}",
@@ -426,7 +426,7 @@
     "passUnlock": "Odblokuj ten raport za darmo",
     "passError": "Nie udało się użyć pakietu dla tego raportu. Nadal możesz go kupić poniżej.",
     "packProduct": "{test} + {extra} kolejne raporty",
-    "allProduct": "Wszystkie raporty ({count})"
+    "allProduct": "Wszystkie raporty"
   },
   "couple": {
     "inviteTitle": "Zrób ten test z partnerem",

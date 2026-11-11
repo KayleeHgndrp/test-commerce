@@ -418,7 +418,7 @@
     "single": "An tuarascáil seo",
     "pack": "3 thuarascáil",
     "packNote": "An ceann seo agus 2 thriail eile de do rogha",
-    "all": "Na {count} tuarascáil ar fad",
+    "all": "Na tuarascálacha ar fad",
     "allNote": "Gach triail ar an suíomh, díghlasáil iad nuair is mian leat",
     "save": "Sábháil {amount}",
     "passPack": "Tá {count} tuarascáil fágtha i do phacáiste",
@@ -426,7 +426,7 @@
     "passUnlock": "Díghlasáil an tuarascáil seo saor in aisce",
     "passError": "Níorbh fhéidir do phacáiste a úsáid don tuarascáil seo. Is féidir leat í a cheannach thíos fós.",
     "packProduct": "{test} + {extra} thuarascáil eile",
-    "allProduct": "Na {count} tuarascáil ar fad"
+    "allProduct": "Na tuarascálacha ar fad"
   },
   "couple": {
     "inviteTitle": "Déan an triail seo le do pháirtí",

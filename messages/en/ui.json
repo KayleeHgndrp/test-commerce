@@ -418,7 +418,7 @@
     "single": "This report",
     "pack": "3 reports",
     "packNote": "This one plus 2 other tests of your choice",
-    "all": "All {count} reports",
+    "all": "All reports",
     "allNote": "Every test on the site, unlock them whenever you like",
     "save": "Save {amount}",
     "passPack": "Your pack has {count} reports left",
@@ -426,7 +426,7 @@
     "passUnlock": "Unlock this report for free",
     "passError": "Your pack could not be used for this report. You can still buy it below.",
     "packProduct": "{test} + {extra} more reports",
-    "allProduct": "All {count} reports"
+    "allProduct": "All reports"
   },
   "couple": {
     "inviteTitle": "Take this test with your partner",

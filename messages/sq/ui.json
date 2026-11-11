@@ -418,7 +418,7 @@
     "single": "Ky raport",
     "pack": "3 raporte",
     "packNote": "Ky dhe 2 teste të tjera sipas zgjedhjes",
-    "all": "Të gjitha {count} raportet",
+    "all": "Të gjitha raportet",
     "allNote": "Çdo test në faqe, zhbllokoji kur të duash",
     "save": "Kurse {amount}",
     "passPack": "Në paketën tënde kanë mbetur {count} raporte",
@@ -426,7 +426,7 @@
     "passUnlock": "Zhblloko këtë raport falas",
     "passError": "Paketa jote nuk mund të përdorej për këtë raport. Mund ta blesh ende më poshtë.",
     "packProduct": "{test} + {extra} raporte të tjera",
-    "allProduct": "Të gjitha {count} raportet"
+    "allProduct": "Të gjitha raportet"
   },
   "couple": {
     "inviteTitle": "Bëje këtë test me partnerin",

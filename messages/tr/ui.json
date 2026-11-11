@@ -418,7 +418,7 @@
     "single": "Bu rapor",
     "pack": "3 rapor",
     "packNote": "Bu rapor ve seçeceğin 2 test daha",
-    "all": "{count} raporun tamamı",
+    "all": "Tüm raporlar",
     "allNote": "Sitedeki her test, istediğin zaman kilidini aç",
     "save": "{amount} tasarruf et",
     "passPack": "Paketinde {count} rapor kaldı",
@@ -426,7 +426,7 @@
     "passUnlock": "Bu raporun kilidini ücretsiz aç",
     "passError": "Paketin bu rapor için kullanılamadı. Raporu yine de aşağıdan satın alabilirsin.",
     "packProduct": "{test} + {extra} rapor daha",
-    "allProduct": "{count} raporun tamamı"
+    "allProduct": "Tüm raporlar"
   },
   "couple": {
     "inviteTitle": "Bu testi partnerinle yap",
