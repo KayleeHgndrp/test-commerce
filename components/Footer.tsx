@@ -3,6 +3,7 @@ import Link from "next/link";
 import { hasPosts } from "@/lib/blog";
 import type { Locale } from "@/lib/i18n/locales";
 import { fmt, type UiMessages } from "@/lib/i18n/messages";
+import { partnerTexts } from "@/lib/partner-texts";
 import { site } from "@/lib/site";
 import { Logo } from "./Logo";
 import { PaymentBadges } from "./PaymentBadges";
@@ -16,7 +17,7 @@ async function currentYear() {
 export async function Footer({ locale, ui }: { locale: Locale; ui: UiMessages }) {
   const f = ui.footer;
   const columns: [string, [string, string][]][] = [
-    [f.company, [[f.home, `/${locale}`], [f.aboutLink, `/${locale}/about`], ...(hasPosts(locale) ? [[ui.blog.title, `/${locale}/blog`] as [string, string]] : []), [ui.nav.tests, `/${locale}#tests`], [ui.nav.pricing, `/${locale}#pricing`], [ui.nav.faq, `/${locale}#faq`]]],
+    [f.company, [[f.home, `/${locale}`], [f.aboutLink, `/${locale}/about`], ...(hasPosts(locale) ? [[ui.blog.title, `/${locale}/blog`] as [string, string]] : []), [ui.nav.tests, `/${locale}#tests`], [ui.nav.pricing, `/${locale}#pricing`], [ui.nav.faq, `/${locale}#faq`], [partnerTexts(locale).title, `/${locale}/partners`]]],
     [f.help, [[f.contact, `/${locale}/contact`], [f.refund, `/${locale}/refund`]]],
     [f.legal, [[f.terms, `/${locale}/terms`], [f.privacy, `/${locale}/privacy`], [f.cookies, `/${locale}/cookies`], [f.refund, `/${locale}/refund`], [f.notice, `/${locale}/legal-notice`]]],
   ];
