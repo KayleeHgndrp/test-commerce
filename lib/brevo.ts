@@ -1,3 +1,5 @@
+import { site } from "@/lib/site";
+
 // Minimal Brevo (ex-Sendinblue) client for the email flow. Brevo holds the
 // contact list, so this app still needs no database of its own.
 const API = "https://api.brevo.com/v3";
@@ -116,6 +118,8 @@ export async function sendBrevoEmail(
   await brevo("smtp/email", {
     body: {
       sender,
+      // Replies go to the contact address, which may differ from the sending address.
+      ...(process.env.BREVO_SENDER_EMAIL ? { replyTo: { email: site.contactEmail } } : {}),
       to: [{ email: to }],
       subject: message.subject,
       htmlContent: message.html,
