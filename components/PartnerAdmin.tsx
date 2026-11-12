@@ -84,7 +84,7 @@ export function PartnerAdmin() {
         className="mx-auto max-w-md space-y-3 rounded-3xl border border-border bg-surface p-6"
       >
         <h1 className="text-2xl font-extrabold">Partnerbeheer</h1>
-        <label htmlFor="token" className="block text-sm text-muted">Beheersleutel (ADMIN_TOKEN uit Vercel)</label>
+        <label htmlFor="token" className="block text-sm text-muted">Beheersleutel</label>
         <input id="token" type="password" value={token} onChange={(e) => setToken(e.target.value)} className="w-full rounded-xl border border-border bg-background px-4 py-3" />
         {error && <p className="text-sm text-rose-600">{error}</p>}
         <button className="rounded-lg bg-accent px-6 py-3 font-semibold text-white">Openen</button>
