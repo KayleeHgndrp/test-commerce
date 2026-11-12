@@ -1,6 +1,7 @@
 import { CoupleInvite } from "@/components/CoupleInvite";
 import { ResultPreview } from "@/components/ResultPreview";
-import { allDefinitions, fmt } from "@/lib/i18n/messages";
+import { emailFlowAllowed } from "@/lib/emailFlow";
+import { allDefinitions, fmt, getEmailMessages } from "@/lib/i18n/messages";
 import { formatPrice, site } from "@/lib/site";
 import { loadTestPage, testStaticParams } from "@/lib/tests/params";
 
@@ -30,6 +31,7 @@ export default async function ResultPage({ params }: PageProps<"/[locale]/[test]
       teasers[key] = { name: def.outcome === "axes" ? `${key}: ${t.name}` : t.name, text: firstSentence(t.text) };
     }
   }
+  const email = emailFlowAllowed(def) ? await getEmailMessages(locale) : null;
   return (
     <ResultPreview
       locale={locale}
@@ -46,6 +48,8 @@ export default async function ResultPage({ params }: PageProps<"/[locale]/[test]
       includes={[fmt(ui.test.whatYouGet1, { dimensions: dimensionNames.join(", ") }), ui.test.whatYouGet2, ui.test.whatYouGet3]}
       ui={ui.result}
       plansUi={ui.plans}
+      optin={email?.optin ?? null}
+      checkoutOptin={email?.checkoutOptin ?? null}
     >
       {site.coupleTests.includes(def.slug) && <CoupleInvite locale={locale} slug={def.slug} testName={text.name} ui={ui.couple} />}
     </ResultPreview>

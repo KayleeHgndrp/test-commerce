@@ -28,7 +28,7 @@ const lines = [
   "export const messageLoaders: Record<string, () => Promise<unknown>> = {",
 ];
 for (const locale of locales) {
-  const files = ["ui", ...available.map((slug) => `tests/${slug}`)];
+  const files = ["ui", "email", ...available.map((slug) => `tests/${slug}`)];
   for (const file of files) {
     if (!fs.existsSync(path.join(root, "messages", locale, `${file}.json`))) continue;
     lines.push(`  "${locale}/${file}": () => import("@/messages/${locale}/${file}.json").then((m) => m.default),`);

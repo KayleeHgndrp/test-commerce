@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { track } from "@/lib/analytics";
 import { fmt } from "@/lib/i18n/fmt";
-import type { UiMessages } from "@/lib/i18n/messages";
+import type { EmailMessages, UiMessages } from "@/lib/i18n/messages";
 import { getReferral } from "@/lib/partners";
 import { decodeAnswers, scoreTest } from "@/lib/tests/scoring";
 import type { TestDefinition } from "@/lib/tests/types";
@@ -29,6 +29,9 @@ type Props = {
   ui: UiMessages["result"];
   plansUi: UiMessages["plans"];
   children?: React.ReactNode;
+  // Null for tests whose answers must not be used for email (see emailFlowAllowed).
+  optin: EmailMessages["optin"] | null;
+  checkoutOptin: string | null;
 };
 
 type Stored = { answers: string; gender: string };
@@ -37,19 +40,30 @@ type Plan = "single" | "pack" | "all";
 
 export const passKey = "report-pass";
 
-export function ResultPreview({ locale, def, name, dimensionNames, teasers, price, listPrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, children }: Props) {
+export function ResultPreview({ locale, def, name, dimensionNames, teasers, price, listPrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, optin, checkoutOptin, children }: Props) {
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
   const [pass, setPass] = useState<PassStatus | null>(null);
   const [plan, setPlan] = useState<Plan>("single");
   const [consent, setConsent] = useState(false);
+  const [newsletter, setNewsletter] = useState(false);
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
 
   useEffect(() => {
     let value: Stored | null = null;
+    // Links in the follow-up emails carry the answers (?r=answers-gender), so the
+    // result also opens on another device.
+    const fromLink = new URLSearchParams(window.location.search).get("r")?.split("-");
+    if (fromLink && decodeAnswers(def, fromLink[0])) {
+      try {
+        localStorage.setItem(resultKey(def.slug), JSON.stringify({ answers: fromLink[0], gender: fromLink[1] ?? "other" }));
+      } catch {}
+      value = { answers: fromLink[0], gender: fromLink[1] ?? "other" };
+      window.history.replaceState(null, "", window.location.pathname);
+    }
     try {
       const parsed = JSON.parse(localStorage.getItem(resultKey(def.slug)) ?? "null") as Stored | null;
-      if (parsed && decodeAnswers(def, parsed.answers)) value = parsed;
+      if (!value && parsed && decodeAnswers(def, parsed.answers)) value = parsed;
     } catch {}
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setStored(value);
@@ -121,7 +135,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
       const res = await fetch("/api/checkout", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan, ref: getReferral() }),
+        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan, ref: getReferral(), newsletter }),
       });
       const data = (await res.json()) as { url?: string };
       if (!res.ok || !data.url) throw new Error();
@@ -234,6 +248,12 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
               <Link href={`/${locale}/terms`} className="underline" target="_blank">{ui.consent}</Link>
             </span>
           </label>
+          {checkoutOptin && (
+            <label className="mt-3 flex items-start gap-2 text-xs text-muted">
+              <input type="checkbox" checked={newsletter} onChange={(e) => setNewsletter(e.target.checked)} className="mt-0.5 accent-[var(--accent)]" />
+              <span>{checkoutOptin}</span>
+            </label>
+          )}
           {error && <p className="mt-3 text-sm font-medium text-rose-600">{error}</p>}
           <button
             disabled={busy}
@@ -246,7 +266,73 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
         </form>
         )}
       </div>
+
+      {optin && <EmailOptIn locale={locale} slug={def.slug} stored={stored} ui={optin} result={ui} />}
       {children}
     </div>
+  );
+}
+
+// "Email me my result": the free alternative for visitors who are not ready to buy.
+function EmailOptIn({ locale, slug, stored, ui, result }: { locale: string; slug: string; stored: Stored; ui: EmailMessages["optin"]; result: UiMessages["result"] }) {
+  const [email, setEmail] = useState("");
+  const [consent, setConsent] = useState(false);
+  const [website, setWebsite] = useState("");
+  const [state, setState] = useState<"idle" | "busy" | "done">("idle");
+  const [error, setError] = useState("");
+
+  async function submit(e: React.FormEvent) {
+    e.preventDefault();
+    setError("");
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return setError(result.invalidEmail);
+    if (!consent) return setError(ui.consentRequired);
+    setState("busy");
+    try {
+      const res = await fetch("/api/subscribe", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ slug, locale, email, answers: stored.answers, gender: stored.gender, consent, website }),
+      });
+      if (!res.ok) throw new Error();
+      track("Email Signup", { test: slug });
+      setState("done");
+    } catch {
+      setError(result.error);
+      setState("idle");
+    }
+  }
+
+  if (state === "done") {
+    return <p className="mt-6 rounded-2xl border border-border bg-surface p-6 text-center font-medium">✉️ {ui.done}</p>;
+  }
+
+  return (
+    <form onSubmit={submit} className="mt-6 rounded-2xl border border-border bg-surface p-6">
+      <h2 className="text-lg font-bold">{ui.title}</h2>
+      <p className="mt-2 text-sm leading-relaxed text-muted">{ui.text}</p>
+      <div className="mt-4 flex flex-col gap-3 sm:flex-row">
+        <input
+          type="email"
+          required
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          aria-label={ui.title}
+          placeholder={result.emailPlaceholder}
+          className="w-full rounded-xl border border-border bg-background px-4 py-3 focus:border-accent focus:outline-none focus:ring-2 focus:ring-accent/30"
+        />
+        <input type="text" tabIndex={-1} autoComplete="off" value={website} onChange={(e) => setWebsite(e.target.value)} className="hidden" aria-hidden />
+        <button disabled={state === "busy"} className="shrink-0 rounded-lg border-2 border-accent px-5 py-3 font-semibold text-accent transition hover:bg-accent hover:text-white disabled:opacity-60">
+          {state === "busy" ? "…" : ui.button}
+        </button>
+      </div>
+      <label className="mt-3 flex items-start gap-2 text-xs text-muted">
+        <input type="checkbox" checked={consent} onChange={(e) => setConsent(e.target.checked)} className="mt-0.5 accent-[var(--accent)]" />
+        <span>
+          {ui.consent}{" "}
+          <Link href={`/${locale}/privacy`} className="underline" target="_blank">{ui.privacy}</Link>
+        </span>
+      </label>
+      {error && <p className="mt-3 text-sm font-medium text-rose-600">{error}</p>}
+    </form>
   );
 }

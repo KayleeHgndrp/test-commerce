@@ -1,6 +1,7 @@
 import { hasLocale } from "@/lib/i18n/locales";
 import { allDefinitions, fmt, getDefinition, getTestText, getUi } from "@/lib/i18n/messages";
 import { plans, type Plan } from "@/lib/delivery";
+import { emailFlowAllowed } from "@/lib/emailFlow";
 import { sendEmail } from "@/lib/email";
 import { refPattern } from "@/lib/partners";
 import { renderReport } from "@/lib/report/render";
@@ -18,6 +19,7 @@ export async function POST(request: Request) {
   const body = (await request.json().catch(() => null)) as Record<string, unknown> | null;
   const { slug, locale, email, answers, gender, partnerAnswers, partnerName, ref } = (body ?? {}) as Record<string, string>;
   const plan = (plans.includes(body?.plan as Plan) ? body!.plan : "single") as Plan;
+  const newsletter = body?.newsletter === true;
 
   const def = typeof slug === "string" ? getDefinition(slug) : undefined;
   const decoded = def && typeof answers === "string" ? decodeAnswers(def, answers) : null;
@@ -74,6 +76,7 @@ export async function POST(request: Request) {
     "metadata[plan]": plan,
     ...(partner ? { "metadata[partner_answers]": partnerAnswers, "metadata[partner_name]": cleanName(partnerName) } : {}),
     ...(referral ? { "metadata[ref]": referral } : {}),
+    ...(newsletter && emailFlowAllowed(def) ? { "metadata[newsletter]": "1" } : {}),
   });
 
   return Response.json({ url: session.url });
