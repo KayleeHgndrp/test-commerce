@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import { hasLocale, toLangTag } from "@/lib/i18n/locales";
 import { partnerLocales, partnerTexts } from "@/lib/partner-texts";
@@ -45,10 +46,18 @@ export default async function Partners({ params }: PageProps<"/[locale]/partners
             ))}
           </ul>
           <p className="mt-6 text-sm leading-relaxed text-muted">{t.affiliateCta}</p>
+          <div className="mt-6 flex flex-wrap items-center gap-4">
+            <Link href={`/${locale}/partners/join`} className="rounded-lg bg-accent px-6 py-3 font-semibold text-white hover:bg-accent-strong">
+              {t.joinButton}
+            </Link>
+            <Link href={`/${locale}/partners/join#login`} className="text-sm font-semibold text-accent underline">
+              {t.loginLink}
+            </Link>
+          </div>
         </section>
       </div>
 
-      <section className="mx-auto max-w-3xl pt-16">
+      <section id="rules" className="mx-auto max-w-3xl scroll-mt-24 pt-16">
         <h2 className="text-xl font-bold">{t.termsTitle}</h2>
         <ul className="mt-4 list-disc space-y-2 pl-5 text-sm leading-relaxed text-muted">
           {t.terms.map((term) => (

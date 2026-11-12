@@ -13,6 +13,15 @@ let ref: string | null = null;
 export function capturePartnerParams(search: string) {
   const newRef = new URLSearchParams(search).get("ref")?.toLowerCase();
   if (!newRef || !refPattern.test(newRef)) return;
+  // Count the click once per page load; the server only keeps a monthly counter.
+  if (ref !== newRef) {
+    fetch("/api/partners/click", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ ref: newRef }),
+      keepalive: true,
+    }).catch(() => {});
+  }
   ref = newRef;
   if (readConsent() === "granted") {
     try {
