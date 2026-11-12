@@ -51,6 +51,8 @@ export default async function ResultPage({ params }: PageProps<"/[locale]/[test]
       allPer={formatPrice(locale, Math.round(site.allPriceCents / allDefinitions.length))}
       shareUi={ui.share}
       shareType={emailFlowAllowed(def)}
+      // Couple tests already invite the partner, so they skip the general share card.
+      showShare={!site.coupleTests.includes(def.slug)}
       includes={[fmt(ui.test.whatYouGet1, { dimensions: dimensionNames.join(", ") }), ui.test.whatYouGet2, ui.test.whatYouGet3]}
       ui={ui.result}
       plansUi={ui.plans}

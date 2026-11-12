@@ -32,6 +32,7 @@ type Props = {
   shareUi: UiMessages["share"];
   // Only tests whose result may be shared get the main type in the share message.
   shareType: boolean;
+  showShare: boolean;
   includes: string[];
   ui: UiMessages["result"];
   plansUi: UiMessages["plans"];
@@ -47,7 +48,7 @@ type Plan = "single" | "pack" | "all";
 
 export const passKey = "report-pass";
 
-export function ResultPreview({ locale, def, name, dimensionNames, teasers, price, listPrice, packPrice, packSave, allPrice, allCount, packPer, allPer, shareUi, shareType, includes, ui, plansUi, optin, checkoutOptin, children }: Props) {
+export function ResultPreview({ locale, def, name, dimensionNames, teasers, price, listPrice, packPrice, packSave, allPrice, allCount, packPer, allPer, shareUi, shareType, showShare, includes, ui, plansUi, optin, checkoutOptin, children }: Props) {
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
   const [pass, setPass] = useState<PassStatus | null>(null);
   const [plan, setPlan] = useState<Plan>("single");
@@ -275,7 +276,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
         )}
       </div>
 
-      <ShareTest locale={locale} slug={def.slug} testName={name} typeName={shareType ? teaser?.name : undefined} ui={shareUi} />
+      {showShare && <ShareTest locale={locale} slug={def.slug} testName={name} typeName={shareType ? teaser?.name : undefined} ui={shareUi} />}
       {optin && <EmailOptIn locale={locale} slug={def.slug} stored={stored} ui={optin} result={ui} />}
       {children}
     </div>
