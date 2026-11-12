@@ -1,4 +1,4 @@
-import crypto from "node:crypto";
+import { authorizedAdmin } from "@/lib/admin";
 import { renderOrder, retrievePaidOrder } from "@/lib/delivery";
 import { sendEmail } from "@/lib/email";
 
@@ -7,17 +7,9 @@ import { sendEmail } from "@/lib/email";
 //     -H "authorization: Bearer $ADMIN_TOKEN" -H "content-type: application/json" \
 //     -d '{"sessionId":"cs_live_…","email":"optional@override.com"}'
 // The Checkout Session id is shown on the payment in the Stripe dashboard.
-function authorized(request: Request) {
-  const token = process.env.ADMIN_TOKEN;
-  const given = request.headers.get("authorization")?.replace(/^Bearer /, "") ?? "";
-  if (!token || token.length < 16) return false;
-  const a = Buffer.from(token);
-  const b = Buffer.from(given);
-  return a.length === b.length && crypto.timingSafeEqual(a, b);
-}
 
 export async function POST(request: Request) {
-  if (!authorized(request)) return Response.json({ error: "unauthorized" }, { status: 401 });
+  if (!authorizedAdmin(request)) return Response.json({ error: "unauthorized" }, { status: 401 });
 
   const body = (await request.json().catch(() => null)) as { sessionId?: string; email?: string } | null;
   const order = body?.sessionId ? await retrievePaidOrder(body.sessionId) : null;
