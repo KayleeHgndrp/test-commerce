@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import { track } from "@/lib/analytics";
 import { fmt } from "@/lib/i18n/fmt";
 import type { UiMessages } from "@/lib/i18n/messages";
+import { getReferral } from "@/lib/partners";
 import { decodeAnswers, scoreTest } from "@/lib/tests/scoring";
 import type { TestDefinition } from "@/lib/tests/types";
 import { resultKey } from "./Quiz";
@@ -120,7 +121,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
       const res = await fetch("/api/checkout", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan }),
+        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan, ref: getReferral() }),
       });
       const data = (await res.json()) as { url?: string };
       if (!res.ok || !data.url) throw new Error();

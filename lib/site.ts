@@ -23,6 +23,9 @@ export const site = {
   // Couple report that compares two people who took the same test.
   couplePriceCents: Number(process.env.NEXT_PUBLIC_COUPLE_PRICE_CENTS ?? 595),
   coupleTests: ["attachment", "love-style", "big-five"],
+  // Affiliate commission on the net revenue (excl. VAT and Stripe fees) of a referred sale.
+  affiliateShare: 0.5,
+  affiliateDays: 60,
   // Google Analytics 4 measurement ID. Public by design; loads only after cookie consent.
   gaId: process.env.NEXT_PUBLIC_GA_ID || "G-Z486VT99NP",
   currency: (process.env.NEXT_PUBLIC_REPORT_CURRENCY ?? "eur").toLowerCase(),
