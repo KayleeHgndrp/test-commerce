@@ -1,464 +1,49 @@
 import { fmt } from "@/lib/i18n/fmt";
+import { locales } from "@/lib/i18n/locales";
 import { formatPrice, site } from "@/lib/site";
 
-// The partner pages address coaches, creators and site owners, who we contact in
-// English, Dutch, Polish, Czech and Slovak. Other locales show the English text
-// and are not indexed.
-const en = {
-  title: "Partners",
-  metaDescription: "Recommend our free tests and earn {share} on every report bought through your link.",
-  intro: "Coaches, therapists, teachers and writers use our free tests with the people they work with. Your audience takes the tests for free, and when someone buys a report through your link, you earn half.",
-  affiliateTitle: "Share your link, earn {share}",
-  affiliatePoints: [
-    "You get {share} of the net revenue (excluding VAT and payment fees) of every report bought through your link, about {perSale} per report.",
-    "A visit counts for {days} days, as long as the visitor accepted cookies; otherwise it counts during that visit.",
-    "We pay out every quarter once you have earned {minimum} or more, by bank transfer.",
-    "Your link looks like {example}. It works on any page and any test.",
-  ],
-  affiliateCta: "Sign up in a minute, get your link straight away and follow your clicks, sales and commission in your own dashboard. It is free, now and later.",
-  joinButton: "Become a partner",
-  loginLink: "Partner login",
-  termsTitle: "Fair play",
-  terms: [
-    "Mention that you earn a commission, for example with \"affiliate link\" or #ad.",
-    "Our tests are for self-reflection, not diagnosis. Please do not present them as a medical or psychological assessment.",
-    "No ads on our brand name, no spam and no misleading claims.",
-    "We may end a partnership that breaks these rules. Commission on refunded orders is not paid.",
-  ],
-  portal: {
-    joinTitle: "Become a partner",
-    joinIntro: "Fill in the form and you get your own link right away. We send a login link to your email to confirm it.",
-    name: "Your name or brand",
-    email: "Email",
-    site: "Website or profile where you will share the link",
-    ref: "Name in your link",
-    refHint: "Lowercase letters, numbers and hyphens, 2 to 32 characters.",
-    preview: "Your link will be",
-    agree: "I have read the fair play rules and agree to them.",
-    submit: "Sign up",
-    sending: "Sending…",
-    refTaken: "This name is already taken. Please choose another one.",
-    refInvalid: "Use 2 to 32 lowercase letters, numbers or hyphens.",
-    invalid: "Please check the fields and try again.",
-    error: "Something went wrong. Please try again in a moment.",
-    joinedTitle: "Check your inbox",
-    joinedText: "We sent a link to {email}. Open it within {minutes} minutes to confirm your address and see your dashboard.",
-    loginTitle: "Already a partner?",
-    loginText: "Enter your email address and we send you a login link. No password needed.",
-    loginSubmit: "Send login link",
-    loginSent: "If this address belongs to a partner, a login link is on its way. Check your spam folder too.",
-    expired: "This login link has expired or is no longer valid. Request a new one below.",
-    dashTitle: "Partner dashboard",
-    hello: "Hi {name}",
-    logout: "Log out",
-    loading: "Loading your figures…",
-    loadError: "Your figures could not be loaded. Please refresh the page.",
-    blocked: "This partnership has ended. Questions? Email {email}.",
-    linkTitle: "Your link",
-    linkHint: "Share it anywhere. You can also link straight to one test.",
-    wholeSite: "Home page",
-    copy: "Copy",
-    copied: "Copied",
-    clicksMonth: "Clicks this month",
-    clicksTotal: "Clicks in total",
-    sales: "Sales",
-    earned: "Earned in total",
-    clicksNote: "A click is counted once per visit. Sales and commission come straight from our payment provider and update within a few minutes.",
-    payoutTitle: "Payout",
-    quarterSoFar: "This quarter so far ({quarter})",
-    payable: "Ready for payout",
-    paid: "Paid out so far",
-    payoutDue: "We transfer {amount} to you in the first weeks of this quarter.",
-    payoutBelow: "Payouts start at {minimum}. What you earn is carried over until you reach it.",
-    payoutQuarter: "Commission from this quarter becomes payable once the quarter has ended, so refunds can be taken into account first.",
-    bankTitle: "Bank details",
-    bankText: "We need the account holder and IBAN to pay you. They are sent to us by email and are not stored on this website.",
-    holder: "Account holder",
-    iban: "IBAN",
-    bankSubmit: "Send bank details",
-    bankSent: "We received your bank details on {date}. Changed account? Send them again.",
-    ibanInvalid: "This IBAN does not look right. Please check it.",
-    salesTitle: "Recent sales",
-    noSales: "No sales yet. Tip: share a link to one test that fits your audience, with one line on why you like it.",
-    date: "Date",
-    product: "Product",
-    commission: "Commission",
-    plans: { single: "Report", pack: "Report pack", all: "All-tests pass", couple: "Couple report" },
-    payoutsTitle: "Payouts",
-  },
-  emails: {
-    welcomeSubject: "Your partner link for {site}",
-    welcomeBody: "Hi {name},\n\nWelcome as a partner. Your link is:\n{link}\n\nOpen this link within {minutes} minutes to confirm your email address and see your dashboard:\n{login}\n\nYou earn {share} of the net revenue of every report bought through your link. We pay out every quarter from {minimum}.\n\nKind regards,\n{site}",
-    loginSubject: "Your login link for {site}",
-    loginBody: "Hi {name},\n\nOpen your partner dashboard with this link:\n{login}\n\nThe link works for {minutes} minutes. Did you not ask for it? Then you can ignore this email.\n\nKind regards,\n{site}",
-  },
+import enTexts from "@/messages/en/partners.json";
+import nlTexts from "@/messages/nl/partners.json";
+import deTexts from "@/messages/de/partners.json";
+import frTexts from "@/messages/fr/partners.json";
+import esTexts from "@/messages/es/partners.json";
+import itTexts from "@/messages/it/partners.json";
+import ptTexts from "@/messages/pt/partners.json";
+import plTexts from "@/messages/pl/partners.json";
+import roTexts from "@/messages/ro/partners.json";
+import csTexts from "@/messages/cs/partners.json";
+import skTexts from "@/messages/sk/partners.json";
+import huTexts from "@/messages/hu/partners.json";
+import svTexts from "@/messages/sv/partners.json";
+import daTexts from "@/messages/da/partners.json";
+import fiTexts from "@/messages/fi/partners.json";
+import etTexts from "@/messages/et/partners.json";
+import lvTexts from "@/messages/lv/partners.json";
+import ltTexts from "@/messages/lt/partners.json";
+import elTexts from "@/messages/el/partners.json";
+import bgTexts from "@/messages/bg/partners.json";
+import hrTexts from "@/messages/hr/partners.json";
+import slTexts from "@/messages/sl/partners.json";
+import gaTexts from "@/messages/ga/partners.json";
+import mtTexts from "@/messages/mt/partners.json";
+import noTexts from "@/messages/no/partners.json";
+import isTexts from "@/messages/is/partners.json";
+import ukTexts from "@/messages/uk/partners.json";
+import trTexts from "@/messages/tr/partners.json";
+import srTexts from "@/messages/sr/partners.json";
+import sqTexts from "@/messages/sq/partners.json";
+import mkTexts from "@/messages/mk/partners.json";
+import caTexts from "@/messages/ca/partners.json";
+
+// Texts of the partner pages, portal and partner emails, one file per locale in
+// messages/<locale>/partners.json (same keys as the English file).
+type Texts = typeof enTexts;
+
+const texts: Record<string, Texts> = {
+  en: enTexts, nl: nlTexts, de: deTexts, fr: frTexts, es: esTexts, it: itTexts, pt: ptTexts, pl: plTexts, ro: roTexts, cs: csTexts, sk: skTexts, hu: huTexts, sv: svTexts, da: daTexts, fi: fiTexts, et: etTexts, lv: lvTexts, lt: ltTexts, el: elTexts, bg: bgTexts, hr: hrTexts, sl: slTexts, ga: gaTexts, mt: mtTexts, no: noTexts, is: isTexts, uk: ukTexts, tr: trTexts, sr: srTexts, sq: sqTexts, mk: mkTexts, ca: caTexts,
 };
 
-type Texts = typeof en;
-
-const nl: Texts = {
-  title: "Partners",
-  metaDescription: "Raad onze gratis tests aan en verdien {share} op elk rapport dat via jouw link wordt gekocht.",
-  intro: "Coaches, therapeuten, docenten en schrijvers gebruiken onze gratis tests met de mensen met wie ze werken. Je publiek doet de tests gratis, en koopt iemand via jouw link een rapport, dan verdien jij de helft.",
-  affiliateTitle: "Deel je link en verdien {share}",
-  affiliatePoints: [
-    "Je krijgt {share} van de netto-omzet (zonder btw en betaalkosten) van elk rapport dat via jouw link wordt gekocht, ongeveer {perSale} per rapport.",
-    "Een bezoek telt {days} dagen mee als de bezoeker cookies accepteert, anders tijdens dat bezoek.",
-    "We betalen elk kwartaal uit zodra je {minimum} of meer hebt verdiend, per bankoverschrijving.",
-    "Je link ziet eruit als {example}. Hij werkt op elke pagina en bij elke test.",
-  ],
-  affiliateCta: "Meld je in een minuut aan, krijg meteen je link en volg je klikken, verkopen en commissie in je eigen dashboard. Het is gratis, nu en later.",
-  joinButton: "Word partner",
-  loginLink: "Inloggen als partner",
-  termsTitle: "Spelregels",
-  terms: [
-    "Vermeld dat je commissie verdient, bijvoorbeeld met \"affiliate link\" of #ad.",
-    "Onze tests zijn bedoeld voor zelfreflectie, niet voor een diagnose. Presenteer ze dus niet als medisch of psychologisch onderzoek.",
-    "Geen advertenties op onze merknaam, geen spam en geen misleidende claims.",
-    "We kunnen een samenwerking beëindigen die deze regels breekt. Over terugbetaalde bestellingen betalen we geen commissie.",
-  ],
-  portal: {
-    joinTitle: "Word partner",
-    joinIntro: "Vul het formulier in en je krijgt meteen je eigen link. We sturen een inloglink naar je e-mail om je adres te bevestigen.",
-    name: "Je naam of merk",
-    email: "E-mail",
-    site: "Website of profiel waar je de link deelt",
-    ref: "Naam in je link",
-    refHint: "Kleine letters, cijfers en koppeltekens, 2 tot 32 tekens.",
-    preview: "Je link wordt",
-    agree: "Ik heb de spelregels gelezen en ga ermee akkoord.",
-    submit: "Aanmelden",
-    sending: "Bezig…",
-    refTaken: "Deze naam is al in gebruik. Kies een andere.",
-    refInvalid: "Gebruik 2 tot 32 kleine letters, cijfers of koppeltekens.",
-    invalid: "Controleer de velden en probeer het opnieuw.",
-    error: "Er ging iets mis. Probeer het zo nog eens.",
-    joinedTitle: "Kijk in je inbox",
-    joinedText: "We hebben een link gestuurd naar {email}. Open hem binnen {minutes} minuten om je adres te bevestigen en je dashboard te zien.",
-    loginTitle: "Al partner?",
-    loginText: "Vul je e-mailadres in en we sturen je een inloglink. Je hebt geen wachtwoord nodig.",
-    loginSubmit: "Stuur inloglink",
-    loginSent: "Hoort dit adres bij een partner, dan is er een inloglink onderweg. Kijk ook in je spammap.",
-    expired: "Deze inloglink is verlopen of niet meer geldig. Vraag hieronder een nieuwe aan.",
-    dashTitle: "Partnerdashboard",
-    hello: "Hoi {name}",
-    logout: "Uitloggen",
-    loading: "Je cijfers worden geladen…",
-    loadError: "Je cijfers konden niet worden geladen. Ververs de pagina.",
-    blocked: "Deze samenwerking is beëindigd. Vragen? Mail naar {email}.",
-    linkTitle: "Je link",
-    linkHint: "Deel hem overal. Je kunt ook direct naar één test linken.",
-    wholeSite: "Homepage",
-    copy: "Kopiëren",
-    copied: "Gekopieerd",
-    clicksMonth: "Klikken deze maand",
-    clicksTotal: "Klikken in totaal",
-    sales: "Verkopen",
-    earned: "Totaal verdiend",
-    clicksNote: "Een klik telt één keer per bezoek. Verkopen en commissie komen rechtstreeks van onze betaalprovider en zijn binnen een paar minuten bijgewerkt.",
-    payoutTitle: "Uitbetaling",
-    quarterSoFar: "Dit kwartaal tot nu toe ({quarter})",
-    payable: "Klaar voor uitbetaling",
-    paid: "Tot nu toe uitbetaald",
-    payoutDue: "We maken {amount} in de eerste weken van dit kwartaal aan je over.",
-    payoutBelow: "We betalen uit vanaf {minimum}. Wat je verdient schuift door tot je dat bedrag haalt.",
-    payoutQuarter: "Commissie van dit kwartaal wordt uitbetaalbaar zodra het kwartaal voorbij is, zodat we eerst eventuele terugbetalingen kunnen verrekenen.",
-    bankTitle: "Bankgegevens",
-    bankText: "Om je te betalen hebben we de naam van de rekeninghouder en je IBAN nodig. Die gaan per e-mail naar ons en worden niet op deze website opgeslagen.",
-    holder: "Rekeninghouder",
-    iban: "IBAN",
-    bankSubmit: "Bankgegevens versturen",
-    bankSent: "We hebben je bankgegevens ontvangen op {date}. Andere rekening? Stuur ze gewoon opnieuw.",
-    ibanInvalid: "Dit IBAN klopt niet. Controleer het even.",
-    salesTitle: "Recente verkopen",
-    noSales: "Nog geen verkopen. Tip: deel een link naar één test die bij je publiek past, met één zin over waarom je hem goed vindt.",
-    date: "Datum",
-    product: "Product",
-    commission: "Commissie",
-    plans: { single: "Rapport", pack: "Rapportpakket", all: "Pas voor alle tests", couple: "Relatierapport" },
-    payoutsTitle: "Uitbetalingen",
-  },
-  emails: {
-    welcomeSubject: "Je partnerlink voor {site}",
-    welcomeBody: "Hoi {name},\n\nWelkom als partner. Je link is:\n{link}\n\nOpen binnen {minutes} minuten deze link om je e-mailadres te bevestigen en je dashboard te zien:\n{login}\n\nJe verdient {share} van de netto-omzet van elk rapport dat via jouw link wordt gekocht. We betalen elk kwartaal uit vanaf {minimum}.\n\nGroet,\n{site}",
-    loginSubject: "Je inloglink voor {site}",
-    loginBody: "Hoi {name},\n\nOpen je partnerdashboard met deze link:\n{login}\n\nDe link werkt {minutes} minuten. Heb je hem niet aangevraagd? Dan kun je deze mail negeren.\n\nGroet,\n{site}",
-  },
-};
-
-const pl: Texts = {
-  title: "Partnerzy",
-  metaDescription: "Polecaj nasze darmowe testy i zarabiaj {share} od każdego raportu kupionego przez Twój link.",
-  intro: "Coachowie, terapeuci, nauczyciele i autorzy korzystają z naszych darmowych testów w pracy z ludźmi. Twoi odbiorcy robią testy za darmo, a gdy ktoś kupi raport przez Twój link, dostajesz połowę.",
-  affiliateTitle: "Udostępniaj link i zarabiaj {share}",
-  affiliatePoints: [
-    "Dostajesz {share} przychodu netto (bez VAT i opłat płatniczych) z każdego raportu kupionego przez Twój link, czyli około {perSale} za raport.",
-    "Wizyta liczy się przez {days} dni, jeśli odwiedzający zaakceptował pliki cookie; w przeciwnym razie liczy się w trakcie tej wizyty.",
-    "Wypłacamy co kwartał, gdy zarobisz co najmniej {minimum}, przelewem bankowym.",
-    "Twój link wygląda tak: {example}. Działa na każdej stronie i przy każdym teście.",
-  ],
-  affiliateCta: "Zarejestruj się w minutę, od razu dostań swój link i śledź kliknięcia, sprzedaż oraz prowizję we własnym panelu. To nic nie kosztuje, ani teraz, ani później.",
-  joinButton: "Zostań partnerem",
-  loginLink: "Logowanie partnera",
-  termsTitle: "Uczciwe zasady",
-  terms: [
-    "Zaznacz, że otrzymujesz prowizję, na przykład dopiskiem \"link afiliacyjny\" lub #reklama.",
-    "Nasze testy służą autorefleksji, a nie diagnozie. Nie przedstawiaj ich jako badania medycznego ani psychologicznego.",
-    "Bez reklam na naszą nazwę marki, bez spamu i bez wprowadzających w błąd obietnic.",
-    "Możemy zakończyć współpracę, która łamie te zasady. Od zwróconych zamówień prowizja nie przysługuje.",
-  ],
-  portal: {
-    joinTitle: "Zostań partnerem",
-    joinIntro: "Wypełnij formularz, a od razu dostaniesz własny link. Na Twój e-mail wyślemy link do logowania, aby potwierdzić adres.",
-    name: "Imię lub nazwa marki",
-    email: "E-mail",
-    site: "Strona lub profil, na którym udostępnisz link",
-    ref: "Nazwa w Twoim linku",
-    refHint: "Małe litery, cyfry i myślniki, od 2 do 32 znaków.",
-    preview: "Twój link będzie wyglądał tak",
-    agree: "Przeczytałem/am uczciwe zasady i akceptuję je.",
-    submit: "Zarejestruj się",
-    sending: "Wysyłanie…",
-    refTaken: "Ta nazwa jest już zajęta. Wybierz inną.",
-    refInvalid: "Użyj od 2 do 32 małych liter, cyfr lub myślników.",
-    invalid: "Sprawdź pola i spróbuj ponownie.",
-    error: "Coś poszło nie tak. Spróbuj ponownie za chwilę.",
-    joinedTitle: "Sprawdź skrzynkę",
-    joinedText: "Wysłaliśmy link na adres {email}. Otwórz go w ciągu {minutes} minut, aby potwierdzić adres i zobaczyć swój panel.",
-    loginTitle: "Jesteś już partnerem?",
-    loginText: "Podaj swój adres e-mail, a wyślemy Ci link do logowania. Hasło nie jest potrzebne.",
-    loginSubmit: "Wyślij link do logowania",
-    loginSent: "Jeśli ten adres należy do partnera, link do logowania jest w drodze. Sprawdź też folder spam.",
-    expired: "Ten link do logowania wygasł lub jest nieważny. Poproś poniżej o nowy.",
-    dashTitle: "Panel partnera",
-    hello: "Cześć {name}",
-    logout: "Wyloguj",
-    loading: "Wczytujemy Twoje dane…",
-    loadError: "Nie udało się wczytać danych. Odśwież stronę.",
-    blocked: "Ta współpraca została zakończona. Pytania? Napisz na {email}.",
-    linkTitle: "Twój link",
-    linkHint: "Udostępniaj go wszędzie. Możesz też linkować bezpośrednio do jednego testu.",
-    wholeSite: "Strona główna",
-    copy: "Kopiuj",
-    copied: "Skopiowano",
-    clicksMonth: "Kliknięcia w tym miesiącu",
-    clicksTotal: "Kliknięcia łącznie",
-    sales: "Sprzedaż",
-    earned: "Zarobiono łącznie",
-    clicksNote: "Kliknięcie liczymy raz na wizytę. Sprzedaż i prowizja pochodzą bezpośrednio od naszego operatora płatności i aktualizują się w ciągu kilku minut.",
-    payoutTitle: "Wypłata",
-    quarterSoFar: "Ten kwartał do tej pory ({quarter})",
-    payable: "Gotowe do wypłaty",
-    paid: "Wypłacono do tej pory",
-    payoutDue: "Przelejemy Ci {amount} w pierwszych tygodniach tego kwartału.",
-    payoutBelow: "Wypłacamy od {minimum}. To, co zarobisz, przechodzi na kolejny kwartał, aż osiągniesz tę kwotę.",
-    payoutQuarter: "Prowizja z tego kwartału będzie do wypłaty po jego zakończeniu, abyśmy mogli najpierw uwzględnić ewentualne zwroty.",
-    bankTitle: "Dane bankowe",
-    bankText: "Aby Ci zapłacić, potrzebujemy nazwy właściciela rachunku i numeru IBAN. Trafiają do nas e-mailem i nie są zapisywane na tej stronie.",
-    holder: "Właściciel rachunku",
-    iban: "IBAN",
-    bankSubmit: "Wyślij dane bankowe",
-    bankSent: "Otrzymaliśmy Twoje dane bankowe {date}. Zmiana rachunku? Po prostu wyślij je ponownie.",
-    ibanInvalid: "Ten IBAN wygląda na błędny. Sprawdź go.",
-    salesTitle: "Ostatnia sprzedaż",
-    noSales: "Na razie brak sprzedaży. Wskazówka: udostępnij link do jednego testu pasującego do Twoich odbiorców, z jednym zdaniem, dlaczego go lubisz.",
-    date: "Data",
-    product: "Produkt",
-    commission: "Prowizja",
-    plans: { single: "Raport", pack: "Pakiet raportów", all: "Karnet na wszystkie testy", couple: "Raport dla pary" },
-    payoutsTitle: "Wypłaty",
-  },
-  emails: {
-    welcomeSubject: "Twój link partnerski do {site}",
-    welcomeBody: "Cześć {name},\n\nwitamy wśród partnerów. Twój link to:\n{link}\n\nOtwórz ten link w ciągu {minutes} minut, aby potwierdzić adres e-mail i zobaczyć swój panel:\n{login}\n\nDostajesz {share} przychodu netto z każdego raportu kupionego przez Twój link. Wypłacamy co kwartał od {minimum}.\n\nPozdrawiamy,\n{site}",
-    loginSubject: "Twój link do logowania w {site}",
-    loginBody: "Cześć {name},\n\notwórz swój panel partnera tym linkiem:\n{login}\n\nLink działa przez {minutes} minut. Jeśli to nie Ty o niego prosiłeś/aś, zignoruj tę wiadomość.\n\nPozdrawiamy,\n{site}",
-  },
-};
-
-const cs: Texts = {
-  title: "Partneři",
-  metaDescription: "Doporučujte naše bezplatné testy a vydělejte {share} z každé zprávy koupené přes váš odkaz.",
-  intro: "Kouči, terapeuti, učitelé a autoři používají naše bezplatné testy při práci s lidmi. Vaše publikum dělá testy zdarma, a když si někdo přes váš odkaz koupí zprávu, dostanete polovinu.",
-  affiliateTitle: "Sdílejte odkaz a vydělejte {share}",
-  affiliatePoints: [
-    "Dostanete {share} z čistého příjmu (bez DPH a platebních poplatků) z každé zprávy koupené přes váš odkaz, tedy zhruba {perSale} za zprávu.",
-    "Návštěva se počítá {days} dní, pokud návštěvník přijal cookies; jinak se počítá během dané návštěvy.",
-    "Vyplácíme každé čtvrtletí, jakmile vyděláte alespoň {minimum}, bankovním převodem.",
-    "Váš odkaz vypadá takto: {example}. Funguje na každé stránce a u každého testu.",
-  ],
-  affiliateCta: "Zaregistrujte se za minutu, hned dostanete svůj odkaz a ve vlastním přehledu uvidíte kliknutí, prodeje i provizi. Je to zdarma, teď i později.",
-  joinButton: "Stát se partnerem",
-  loginLink: "Přihlášení partnera",
-  termsTitle: "Férová pravidla",
-  terms: [
-    "Uveďte, že dostáváte provizi, například poznámkou \"affiliate odkaz\" nebo #reklama.",
-    "Naše testy slouží k sebepoznání, ne k diagnóze. Neprezentujte je proto jako lékařské ani psychologické vyšetření.",
-    "Žádné reklamy na náš název značky, žádný spam a žádná zavádějící tvrzení.",
-    "Spolupráci, která tato pravidla porušuje, můžeme ukončit. Z vrácených objednávek se provize nevyplácí.",
-  ],
-  portal: {
-    joinTitle: "Stát se partnerem",
-    joinIntro: "Vyplňte formulář a hned dostanete vlastní odkaz. Na váš e-mail pošleme přihlašovací odkaz, kterým adresu potvrdíte.",
-    name: "Vaše jméno nebo značka",
-    email: "E-mail",
-    site: "Web nebo profil, kde budete odkaz sdílet",
-    ref: "Název ve vašem odkazu",
-    refHint: "Malá písmena, číslice a spojovníky, 2 až 32 znaků.",
-    preview: "Váš odkaz bude",
-    agree: "Přečetl/a jsem si férová pravidla a souhlasím s nimi.",
-    submit: "Zaregistrovat se",
-    sending: "Odesílám…",
-    refTaken: "Tento název už je obsazený. Zvolte prosím jiný.",
-    refInvalid: "Použijte 2 až 32 malých písmen, číslic nebo spojovníků.",
-    invalid: "Zkontrolujte prosím pole a zkuste to znovu.",
-    error: "Něco se pokazilo. Zkuste to prosím za chvíli znovu.",
-    joinedTitle: "Podívejte se do schránky",
-    joinedText: "Poslali jsme odkaz na {email}. Otevřete ho do {minutes} minut, abyste potvrdili adresu a viděli svůj přehled.",
-    loginTitle: "Už jste partner?",
-    loginText: "Zadejte svůj e-mail a pošleme vám přihlašovací odkaz. Heslo nepotřebujete.",
-    loginSubmit: "Poslat přihlašovací odkaz",
-    loginSent: "Pokud adresa patří partnerovi, přihlašovací odkaz je na cestě. Podívejte se i do spamu.",
-    expired: "Tento přihlašovací odkaz vypršel nebo už neplatí. Níže si vyžádejte nový.",
-    dashTitle: "Přehled partnera",
-    hello: "Dobrý den, {name}",
-    logout: "Odhlásit se",
-    loading: "Načítáme vaše čísla…",
-    loadError: "Čísla se nepodařilo načíst. Obnovte prosím stránku.",
-    blocked: "Tato spolupráce byla ukončena. Dotazy? Napište na {email}.",
-    linkTitle: "Váš odkaz",
-    linkHint: "Sdílejte ho kdekoli. Můžete také odkazovat přímo na jeden test.",
-    wholeSite: "Hlavní stránka",
-    copy: "Kopírovat",
-    copied: "Zkopírováno",
-    clicksMonth: "Kliknutí tento měsíc",
-    clicksTotal: "Kliknutí celkem",
-    sales: "Prodeje",
-    earned: "Vyděláno celkem",
-    clicksNote: "Kliknutí počítáme jednou za návštěvu. Prodeje a provize přicházejí přímo od našeho poskytovatele plateb a aktualizují se během několika minut.",
-    payoutTitle: "Výplata",
-    quarterSoFar: "Toto čtvrtletí zatím ({quarter})",
-    payable: "Připraveno k výplatě",
-    paid: "Dosud vyplaceno",
-    payoutDue: "Částku {amount} vám převedeme v prvních týdnech tohoto čtvrtletí.",
-    payoutBelow: "Vyplácíme od {minimum}. Co vyděláte, se převádí dál, dokud této částky nedosáhnete.",
-    payoutQuarter: "Provize z tohoto čtvrtletí bude k výplatě po jeho skončení, abychom nejdřív mohli započítat případné refundace.",
-    bankTitle: "Bankovní údaje",
-    bankText: "Abychom vám mohli zaplatit, potřebujeme jméno majitele účtu a IBAN. Přijdou nám e-mailem a na tomto webu se neukládají.",
-    holder: "Majitel účtu",
-    iban: "IBAN",
-    bankSubmit: "Odeslat bankovní údaje",
-    bankSent: "Vaše bankovní údaje jsme obdrželi {date}. Změnil se účet? Pošlete je prostě znovu.",
-    ibanInvalid: "Tento IBAN nevypadá správně. Zkontrolujte ho prosím.",
-    salesTitle: "Poslední prodeje",
-    noSales: "Zatím žádné prodeje. Tip: sdílejte odkaz na jeden test, který sedí vašemu publiku, s jednou větou, proč se vám líbí.",
-    date: "Datum",
-    product: "Produkt",
-    commission: "Provize",
-    plans: { single: "Zpráva", pack: "Balíček zpráv", all: "Vstup na všechny testy", couple: "Zpráva pro pár" },
-    payoutsTitle: "Výplaty",
-  },
-  emails: {
-    welcomeSubject: "Váš partnerský odkaz pro {site}",
-    welcomeBody: "Dobrý den, {name},\n\nvítejte mezi partnery. Váš odkaz je:\n{link}\n\nOtevřete do {minutes} minut tento odkaz, abyste potvrdili e-mail a viděli svůj přehled:\n{login}\n\nZ každé zprávy koupené přes váš odkaz dostanete {share} čistého příjmu. Vyplácíme každé čtvrtletí od {minimum}.\n\nS pozdravem\n{site}",
-    loginSubject: "Váš přihlašovací odkaz pro {site}",
-    loginBody: "Dobrý den, {name},\n\nsvůj přehled partnera otevřete tímto odkazem:\n{login}\n\nOdkaz platí {minutes} minut. Pokud jste o něj nežádali, tento e-mail ignorujte.\n\nS pozdravem\n{site}",
-  },
-};
-
-const sk: Texts = {
-  title: "Partneri",
-  metaDescription: "Odporúčajte naše bezplatné testy a zarobte {share} z každej správy kúpenej cez váš odkaz.",
-  intro: "Kouči, terapeuti, učitelia a autori používajú naše bezplatné testy pri práci s ľuďmi. Vaše publikum robí testy zadarmo, a keď si niekto cez váš odkaz kúpi správu, dostanete polovicu.",
-  affiliateTitle: "Zdieľajte odkaz a zarobte {share}",
-  affiliatePoints: [
-    "Dostanete {share} z čistého príjmu (bez DPH a platobných poplatkov) z každej správy kúpenej cez váš odkaz, teda približne {perSale} za správu.",
-    "Návšteva sa počíta {days} dní, ak návštevník prijal cookies; inak sa počíta počas tejto návštevy.",
-    "Vyplácame každý štvrťrok, keď zarobíte aspoň {minimum}, bankovým prevodom.",
-    "Váš odkaz vyzerá takto: {example}. Funguje na každej stránke a pri každom teste.",
-  ],
-  affiliateCta: "Zaregistrujte sa za minútu, hneď dostanete svoj odkaz a vo vlastnom prehľade uvidíte kliknutia, predaje aj províziu. Je to zadarmo, teraz aj neskôr.",
-  joinButton: "Stať sa partnerom",
-  loginLink: "Prihlásenie partnera",
-  termsTitle: "Férové pravidlá",
-  terms: [
-    "Uveďte, že dostávate províziu, napríklad poznámkou \"affiliate odkaz\" alebo #reklama.",
-    "Naše testy slúžia na sebapoznanie, nie na diagnózu. Neprezentujte ich preto ako lekárske ani psychologické vyšetrenie.",
-    "Žiadne reklamy na názov našej značky, žiadny spam a žiadne zavádzajúce tvrdenia.",
-    "Spoluprácu, ktorá tieto pravidlá porušuje, môžeme ukončiť. Z vrátených objednávok sa provízia nevypláca.",
-  ],
-  portal: {
-    joinTitle: "Stať sa partnerom",
-    joinIntro: "Vyplňte formulár a hneď dostanete vlastný odkaz. Na váš e-mail pošleme prihlasovací odkaz, ktorým adresu potvrdíte.",
-    name: "Vaše meno alebo značka",
-    email: "E-mail",
-    site: "Web alebo profil, kde budete odkaz zdieľať",
-    ref: "Názov vo vašom odkaze",
-    refHint: "Malé písmená, číslice a spojovníky, 2 až 32 znakov.",
-    preview: "Váš odkaz bude",
-    agree: "Prečítal/a som si férové pravidlá a súhlasím s nimi.",
-    submit: "Zaregistrovať sa",
-    sending: "Odosielam…",
-    refTaken: "Tento názov je už obsadený. Zvoľte si, prosím, iný.",
-    refInvalid: "Použite 2 až 32 malých písmen, číslic alebo spojovníkov.",
-    invalid: "Skontrolujte, prosím, polia a skúste to znova.",
-    error: "Niečo sa pokazilo. Skúste to, prosím, o chvíľu znova.",
-    joinedTitle: "Pozrite sa do schránky",
-    joinedText: "Poslali sme odkaz na {email}. Otvorte ho do {minutes} minút, aby ste potvrdili adresu a videli svoj prehľad.",
-    loginTitle: "Už ste partner?",
-    loginText: "Zadajte svoj e-mail a pošleme vám prihlasovací odkaz. Heslo nepotrebujete.",
-    loginSubmit: "Poslať prihlasovací odkaz",
-    loginSent: "Ak adresa patrí partnerovi, prihlasovací odkaz je na ceste. Pozrite sa aj do spamu.",
-    expired: "Tento prihlasovací odkaz vypršal alebo už neplatí. Nižšie si vyžiadajte nový.",
-    dashTitle: "Prehľad partnera",
-    hello: "Dobrý deň, {name}",
-    logout: "Odhlásiť sa",
-    loading: "Načítavame vaše čísla…",
-    loadError: "Čísla sa nepodarilo načítať. Obnovte, prosím, stránku.",
-    blocked: "Táto spolupráca bola ukončená. Otázky? Napíšte na {email}.",
-    linkTitle: "Váš odkaz",
-    linkHint: "Zdieľajte ho kdekoľvek. Môžete tiež odkazovať priamo na jeden test.",
-    wholeSite: "Hlavná stránka",
-    copy: "Kopírovať",
-    copied: "Skopírované",
-    clicksMonth: "Kliknutia tento mesiac",
-    clicksTotal: "Kliknutia spolu",
-    sales: "Predaje",
-    earned: "Zarobené spolu",
-    clicksNote: "Kliknutie počítame raz za návštevu. Predaje a provízia prichádzajú priamo od nášho poskytovateľa platieb a aktualizujú sa do niekoľkých minút.",
-    payoutTitle: "Výplata",
-    quarterSoFar: "Tento štvrťrok zatiaľ ({quarter})",
-    payable: "Pripravené na výplatu",
-    paid: "Doteraz vyplatené",
-    payoutDue: "Sumu {amount} vám prevedieme v prvých týždňoch tohto štvrťroka.",
-    payoutBelow: "Vyplácame od {minimum}. Čo zarobíte, sa prenáša ďalej, kým túto sumu nedosiahnete.",
-    payoutQuarter: "Provízia z tohto štvrťroka bude na výplatu po jeho skončení, aby sme najprv mohli započítať prípadné refundácie.",
-    bankTitle: "Bankové údaje",
-    bankText: "Aby sme vám mohli zaplatiť, potrebujeme meno majiteľa účtu a IBAN. Prídu nám e-mailom a na tomto webe sa neukladajú.",
-    holder: "Majiteľ účtu",
-    iban: "IBAN",
-    bankSubmit: "Odoslať bankové údaje",
-    bankSent: "Vaše bankové údaje sme dostali {date}. Zmenil sa účet? Pošlite ich jednoducho znova.",
-    ibanInvalid: "Tento IBAN nevyzerá správne. Skontrolujte ho, prosím.",
-    salesTitle: "Posledné predaje",
-    noSales: "Zatiaľ žiadne predaje. Tip: zdieľajte odkaz na jeden test, ktorý sedí vášmu publiku, s jednou vetou, prečo sa vám páči.",
-    date: "Dátum",
-    product: "Produkt",
-    commission: "Provízia",
-    plans: { single: "Správa", pack: "Balík správ", all: "Vstup na všetky testy", couple: "Správa pre pár" },
-    payoutsTitle: "Výplaty",
-  },
-  emails: {
-    welcomeSubject: "Váš partnerský odkaz pre {site}",
-    welcomeBody: "Dobrý deň, {name},\n\nvitajte medzi partnermi. Váš odkaz je:\n{link}\n\nOtvorte do {minutes} minút tento odkaz, aby ste potvrdili e-mail a videli svoj prehľad:\n{login}\n\nZ každej správy kúpenej cez váš odkaz dostanete {share} čistého príjmu. Vyplácame každý štvrťrok od {minimum}.\n\nS pozdravom\n{site}",
-    loginSubject: "Váš prihlasovací odkaz pre {site}",
-    loginBody: "Dobrý deň, {name},\n\nsvoj prehľad partnera otvoríte týmto odkazom:\n{login}\n\nOdkaz platí {minutes} minút. Ak ste oň nežiadali, tento e-mail ignorujte.\n\nS pozdravom\n{site}",
-  },
-};
-
-const texts: Record<string, Texts> = { en, nl, pl, cs, sk };
-
-export const partnerLocales = ["en", "nl", "pl", "cs", "sk"] as const;
+export const partnerLocales = locales;
 
 // Rough net revenue of one report: price minus 21% VAT and Stripe's EU card fee.
 const netReportCents = (site.priceCents / 1.21) - (site.priceCents * 0.015 + 25);
@@ -474,7 +59,7 @@ export const partnerVars = (locale: string) => ({
 });
 
 export function partnerTexts(locale: string) {
-  const t = texts[locale] ?? en;
+  const t = texts[locale] ?? enTexts;
   const vars = partnerVars(locale);
   const f = (s: string) => fmt(s, vars);
   return {
@@ -492,7 +77,7 @@ export type PortalTexts = PartnerTexts["portal"];
 
 // Emails are rendered on the server in the partner's own language.
 export function partnerEmail(locale: string, kind: "welcome" | "login", vars: Record<string, string | number>) {
-  const t = (texts[locale] ?? en).emails;
+  const t = (texts[locale] ?? enTexts).emails;
   const all = { ...partnerVars(locale), ...vars };
   return {
     subject: fmt(kind === "welcome" ? t.welcomeSubject : t.loginSubject, all),

@@ -11,6 +11,7 @@ const pages: Page[] = [
   ...allDefinitions.map((def) => [`/${def.slug}`, 0.8, "monthly"] satisfies Page),
   ["/about", 0.5, "monthly"],
   ["/contact", 0.4, "yearly"],
+  ["/partners", 0.4, "monthly"],
   ...["/privacy", "/terms", "/cookies", "/refund", "/legal-notice"].map((path) => [path, 0.2, "yearly"] satisfies Page),
 ];
 
