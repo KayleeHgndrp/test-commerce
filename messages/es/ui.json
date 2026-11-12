@@ -230,9 +230,7 @@
     "takeTest": "Hacer el test",
     "crisisTitle": "No estás solo",
     "crisisText": "Has indicado que has tenido pensamientos de que estarías mejor muerto o de hacerte daño. Por favor, habla hoy mismo con alguien. Si estás en peligro inmediato, llama al 112. También puedes contactar a cualquier hora con una línea de crisis de tu país, como las que aparecen en findahelpline.com.",
-    "crisisLink": "Encuentra una línea de ayuda cerca de ti",
-    "codeApplied": "Tu código de coach está aplicado: este informe es gratis.",
-    "codeInvalid": "Este código no es válido o ya se ha usado. Aún puedes obtener el informe al precio normal."
+    "crisisLink": "Encuentra una línea de ayuda cerca de ti"
   },
   "thanks": {
     "title": "¡Gracias por tu compra!",

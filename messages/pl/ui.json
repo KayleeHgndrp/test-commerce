@@ -230,9 +230,7 @@
     "takeTest": "Rozwiąż test",
     "crisisTitle": "Nie jesteś sam(a)",
     "crisisText": "Z Twoich odpowiedzi wynika, że miewasz myśli, że lepiej byłoby nie żyć, albo myśli o zrobieniu sobie krzywdy. Proszę, porozmawiaj z kimś jeszcze dziś. Jeśli grozi Ci bezpośrednie niebezpieczeństwo, zadzwoń pod 112. Możesz też o każdej porze skontaktować się z telefonem zaufania w swoim kraju, np. z listy na findahelpline.com.",
-    "crisisLink": "Znajdź telefon zaufania w pobliżu",
-    "codeApplied": "Twój kod od coacha został zastosowany: ten raport jest bezpłatny.",
-    "codeInvalid": "Ten kod jest nieprawidłowy lub został już wykorzystany. Nadal możesz otrzymać raport w normalnej cenie."
+    "crisisLink": "Znajdź telefon zaufania w pobliżu"
   },
   "thanks": {
     "title": "Dziękujemy za zakup!",

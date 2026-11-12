@@ -5,8 +5,7 @@ import { useEffect, useState } from "react";
 import { track } from "@/lib/analytics";
 import { fmt } from "@/lib/i18n/fmt";
 import type { UiMessages } from "@/lib/i18n/messages";
-import { clearCoachCode, getCoachCode, getReferral } from "@/lib/partners";
-import { formatPrice } from "@/lib/site";
+import { getReferral } from "@/lib/partners";
 import { decodeAnswers, scoreTest } from "@/lib/tests/scoring";
 import type { TestDefinition } from "@/lib/tests/types";
 import { resultKey } from "./Quiz";
@@ -42,7 +41,6 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
   const [pass, setPass] = useState<PassStatus | null>(null);
   const [plan, setPlan] = useState<Plan>("single");
-  const [coachCode, setCoachCode] = useState<string | null>(null);
   const [consent, setConsent] = useState(false);
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
@@ -55,7 +53,6 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
     } catch {}
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setStored(value);
-    setCoachCode(getCoachCode());
 
     // A pack bought earlier on this device unlocks this report without paying again.
     let session = "";
@@ -124,16 +121,9 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
       const res = await fetch("/api/checkout", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan, ref: getReferral(), coachCode: plan === "single" ? coachCode : null }),
+        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan, ref: getReferral() }),
       });
-      const data = (await res.json()) as { url?: string; error?: string };
-      if (data.error === "code_invalid") {
-        clearCoachCode();
-        setCoachCode(null);
-        setError(ui.codeInvalid);
-        setBusy(false);
-        return;
-      }
+      const data = (await res.json()) as { url?: string };
       if (!res.ok || !data.url) throw new Error();
       window.location.href = data.url;
     } catch {
@@ -244,13 +234,12 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
               <Link href={`/${locale}/terms`} className="underline" target="_blank">{ui.consent}</Link>
             </span>
           </label>
-          {coachCode && plan === "single" && <p className="mt-4 rounded-lg bg-accent/10 px-3 py-2 text-sm font-semibold text-accent">{ui.codeApplied}</p>}
           {error && <p className="mt-3 text-sm font-medium text-rose-600">{error}</p>}
           <button
             disabled={busy}
             className="mt-5 w-full rounded-lg bg-accent px-5 py-3.5 font-semibold text-white shadow-lg shadow-accent/25 transition hover:bg-accent-strong disabled:opacity-60"
           >
-            {busy ? "…" : fmt(ui.buy, { price: coachCode && plan === "single" ? formatPrice(locale, 0) : chosen.price })}
+            {busy ? "…" : fmt(ui.buy, { price: chosen.price })}
           </button>
           <p className="mt-3 text-center text-xs text-muted">✉️ {ui.delivery}</p>
           <p className="mt-1 text-center text-xs text-muted">🔒 {ui.secure}</p>

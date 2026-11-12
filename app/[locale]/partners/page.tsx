@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { CoachPackForm } from "@/components/CoachPackForm";
 import { hasLocale, toLangTag } from "@/lib/i18n/locales";
 import { partnerLocales, partnerTexts } from "@/lib/partner-texts";
 import { site } from "@/lib/site";
@@ -34,8 +33,8 @@ export default async function Partners({ params }: PageProps<"/[locale]/partners
         <p className="mt-6 text-lg leading-relaxed text-muted">{t.intro}</p>
       </section>
 
-      <div className="grid items-start gap-6 md:grid-cols-2">
-        <section className={card}>
+      <div className="mx-auto max-w-3xl">
+        <section className={`${card} border-2 border-accent`}>
           <h2 className="text-2xl font-extrabold">{t.affiliateTitle}</h2>
           <ul className="mt-5 space-y-3 text-sm leading-relaxed">
             {t.affiliatePoints.map((point) => (
@@ -46,12 +45,6 @@ export default async function Partners({ params }: PageProps<"/[locale]/partners
             ))}
           </ul>
           <p className="mt-6 text-sm leading-relaxed text-muted">{t.affiliateCta}</p>
-        </section>
-
-        <section className={`${card} border-2 border-accent`}>
-          <h2 className="text-2xl font-extrabold">{t.packTitle}</h2>
-          <p className="mt-4 text-sm leading-relaxed text-muted">{t.packText}</p>
-          <CoachPackForm locale={locale} t={t} />
         </section>
       </div>
 

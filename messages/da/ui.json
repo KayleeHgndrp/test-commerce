@@ -230,9 +230,7 @@
     "takeTest": "Tag testen",
     "crisisTitle": "Du er ikke alene",
     "crisisText": "Du har angivet, at du har haft tanker om, at du hellere ville være død, eller om at gøre skade på dig selv. Tal med nogen om det allerede i dag. Hvis du er i akut fare, så ring 112. Du kan også når som helst på døgnet kontakte en krisetelefon i dit land, for eksempel en af dem, der er listet på findahelpline.com.",
-    "crisisLink": "Find en hjælpelinje nær dig",
-    "codeApplied": "Din coachkode er anvendt: denne rapport er gratis.",
-    "codeInvalid": "Denne kode er ugyldig eller allerede brugt. Du kan stadig få rapporten til normal pris."
+    "crisisLink": "Find en hjælpelinje nær dig"
   },
   "thanks": {
     "title": "Tak for dit køb!",
