@@ -240,7 +240,12 @@
     "packTitle": "Your pack is active",
     "packText": "Take any other test. On the result page your next report unlocks straight away, without paying again. Reports left: {count}.",
     "allTitle": "Your all-access pass is active",
-    "allText": "Take any test. On the result page every report unlocks straight away, without paying again."
+    "allText": "Take any test. On the result page every report unlocks straight away, without paying again.",
+    "upgradeTitle": "Want to see the rest of you?",
+    "upgradeText": "Get all {count} reports for just {price} extra. The {paid} you just paid counts towards the all-access pass.",
+    "upgradeButton": "Unlock all {count} for {price}",
+    "upgradeNote": "One-time payment, no subscription. This offer is valid for {days} days after your purchase.",
+    "upgradeError": "Something went wrong. Please try again."
   },
   "report": {
     "subject": "Your {test} report",
@@ -427,7 +432,8 @@
     "passUnlock": "Unlock this report for free",
     "passError": "Your pack could not be used for this report. You can still buy it below.",
     "packProduct": "{test} + {extra} more reports",
-    "allProduct": "All {count} reports"
+    "allProduct": "All {count} reports",
+    "perReport": "{price} per report"
   },
   "couple": {
     "inviteTitle": "Take this test with your partner",
@@ -469,5 +475,13 @@
     "title": "Your pack",
     "text": "Your pack is now active on this device. Pick a test and your report unlocks straight away.",
     "invalid": "This link does not work. Contact us and we will help you."
+  },
+  "share": {
+    "title": "Compare with a friend",
+    "text": "Send the test to a friend and compare your results. It is free for them too.",
+    "button": "Share the test",
+    "copied": "Link copied",
+    "message": "I just took the {test}. Curious what you get!",
+    "messageWithType": "I got {type} on the {test}. What do you get?"
   }
 }

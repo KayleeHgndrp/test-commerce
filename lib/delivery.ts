@@ -50,6 +50,12 @@ export function paidOrder(session: CheckoutSession): PaidOrder | null {
   return order;
 }
 
+// A single report bought in the last few days on this test can be upgraded once
+// to the all-access pass (the upgrade itself is a plan "all" order).
+export function upgradeAllowed(order: PaidOrder, slug: string) {
+  return order.plan === "single" && !order.partner && order.slug === slug && Date.now() / 1000 - order.session.created < site.upgradeDays * 86400;
+}
+
 export async function retrievePaidOrder(sessionId: string) {
   if (!process.env.STRIPE_SECRET_KEY || !/^cs_[A-Za-z0-9_]+$/.test(sessionId)) return null;
   try {

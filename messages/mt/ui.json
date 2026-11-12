@@ -240,7 +240,12 @@
     "packTitle": "Il-pakkett tiegħek huwa attiv",
     "packText": "Agħmel test ieħor. Fil-paġna tar-riżultati r-rapport li jmiss jinfetaħ mill-ewwel, mingħajr ma tħallas mill-ġdid. Fadal: {count}.",
     "allTitle": "L-aċċess sħiħ tiegħek huwa attiv",
-    "allText": "Agħmel liema test trid. Fil-paġna tar-riżultati kull rapport jinfetaħ mill-ewwel, mingħajr ma tħallas mill-ġdid."
+    "allText": "Agħmel liema test trid. Fil-paġna tar-riżultati kull rapport jinfetaħ mill-ewwel, mingħajr ma tħallas mill-ġdid.",
+    "upgradeTitle": "Trid tara l-bqija ta’ min int?",
+    "upgradeText": "Ikseb il-{count} rapport kollha għal {price} biss aktar. Il-{paid} li għadek kif ħallast jgħoddu għall-pass sħiħ.",
+    "upgradeButton": "Iftaħ il-{count} kollha għal {price}",
+    "upgradeNote": "Ħlas wieħed, bla abbonament. L-offerta tiswa {days} jiem wara x-xiri.",
+    "upgradeError": "Xi ħaġa marret ħażin. Erġa’ pprova."
   },
   "report": {
     "subject": "Ir-rapport tiegħek: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Iftaħ dan ir-rapport b'xejn",
     "passError": "Il-pakkett tiegħek ma setax jintuża għal dan ir-rapport. Xorta tista' tixtrih hawn taħt.",
     "packProduct": "{test} + {extra} rapporti oħra",
-    "allProduct": "Ir-rapporti kollha ({count})"
+    "allProduct": "Ir-rapporti kollha ({count})",
+    "perReport": "{price} għal kull rapport"
   },
   "couple": {
     "inviteTitle": "Agħmel dan it-test mas-sieħeb tiegħek",
@@ -469,5 +475,13 @@
     "title": "Il-pakkett tiegħek",
     "text": "Il-pakkett tiegħek issa huwa attiv fuq dan l-apparat. Agħżel test u r-rapport tiegħek jinfetaħ mill-ewwel.",
     "invalid": "Dan il-link ma jaħdimx. Ikkuntattjana u ngħinuk."
+  },
+  "share": {
+    "title": "Qabbel ma’ ħabib",
+    "text": "Ibgħat it-test lil ħabib u qabblu r-riżultati tagħkom. Hu b’xejn għalih ukoll.",
+    "button": "Aqsam it-test",
+    "copied": "Link ikkupjat",
+    "message": "Għadni kif għamilt it-{test}. Kurjuż x’se joħroġlok!",
+    "messageWithType": "Ħarġli {type} fit-{test}. Lilek x’joħroġlok?"
   }
 }

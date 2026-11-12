@@ -240,7 +240,12 @@
     "packTitle": "Paketa jote është aktive",
     "packText": "Bëj një test tjetër. Në faqen e rezultateve raporti yt i radhës zhbllokohet menjëherë, pa paguar përsëri. Të mbetura: {count}.",
     "allTitle": "Qasja jote e plotë është aktive",
-    "allText": "Bëj cilindo test. Në faqen e rezultateve çdo raport zhbllokohet menjëherë, pa paguar përsëri."
+    "allText": "Bëj cilindo test. Në faqen e rezultateve çdo raport zhbllokohet menjëherë, pa paguar përsëri.",
+    "upgradeTitle": "Do ta shohësh edhe pjesën tjetër të vetes?",
+    "upgradeText": "Merr të gjitha {count} raportet për vetëm {price} më shumë. {paid} që sapo pagove llogariten për kalimin e plotë.",
+    "upgradeButton": "Zhblloko të gjitha {count} për {price}",
+    "upgradeNote": "Pagesë e vetme, pa abonim. Oferta vlen {days} ditë pas blerjes.",
+    "upgradeError": "Diçka shkoi keq. Provo përsëri."
   },
   "report": {
     "subject": "Raporti yt: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Zhblloko këtë raport falas",
     "passError": "Paketa jote nuk mund të përdorej për këtë raport. Mund ta blesh ende më poshtë.",
     "packProduct": "{test} + {extra} raporte të tjera",
-    "allProduct": "Të gjitha {count} raportet"
+    "allProduct": "Të gjitha {count} raportet",
+    "perReport": "{price} për raport"
   },
   "couple": {
     "inviteTitle": "Bëje këtë test me partnerin",
@@ -469,5 +475,13 @@
     "title": "Paketa jote",
     "text": "Paketa jote tani është aktive në këtë pajisje. Zgjidh një test dhe raporti zhbllokohet menjëherë.",
     "invalid": "Kjo lidhje nuk funksionon. Na kontakto dhe do të të ndihmojmë."
+  },
+  "share": {
+    "title": "Krahasohu me një mik",
+    "text": "Dërgoja testin një miku dhe krahasoni rezultatet. Edhe për të është falas.",
+    "button": "Ndaj testin",
+    "copied": "Lidhja u kopjua",
+    "message": "Sapo bëra {test}. Kurioz të shoh çfarë të del ty!",
+    "messageWithType": "Mua më doli {type} te {test}. Ty çfarë të del?"
   }
 }

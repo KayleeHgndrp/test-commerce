@@ -9,6 +9,7 @@ import { getReferral } from "@/lib/partners";
 import { decodeAnswers, scoreTest } from "@/lib/tests/scoring";
 import type { TestDefinition } from "@/lib/tests/types";
 import { resultKey } from "./Quiz";
+import { ShareTest } from "./ShareTest";
 
 type Props = {
   locale: string;
@@ -25,6 +26,12 @@ type Props = {
   packSave: string | null;
   allPrice: string;
   allCount: number;
+  // Price per report of the pack and of the all-access pass.
+  packPer: string;
+  allPer: string;
+  shareUi: UiMessages["share"];
+  // Only tests whose result may be shared get the main type in the share message.
+  shareType: boolean;
   includes: string[];
   ui: UiMessages["result"];
   plansUi: UiMessages["plans"];
@@ -40,7 +47,7 @@ type Plan = "single" | "pack" | "all";
 
 export const passKey = "report-pass";
 
-export function ResultPreview({ locale, def, name, dimensionNames, teasers, price, listPrice, packPrice, packSave, allPrice, allCount, includes, ui, plansUi, optin, checkoutOptin, children }: Props) {
+export function ResultPreview({ locale, def, name, dimensionNames, teasers, price, listPrice, packPrice, packSave, allPrice, allCount, packPer, allPer, shareUi, shareType, includes, ui, plansUi, optin, checkoutOptin, children }: Props) {
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
   const [pass, setPass] = useState<PassStatus | null>(null);
   const [plan, setPlan] = useState<Plan>("single");
@@ -118,10 +125,10 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
     }
   }
 
-  const planOptions: { id: Plan; title: string; note?: string; price: string; was?: string; badge?: string }[] = [
+  const planOptions: { id: Plan; title: string; note?: string; price: string; was?: string; badge?: string; per?: string }[] = [
     { id: "single", title: plansUi.single, price, was: listPrice },
-    { id: "pack", title: plansUi.pack, note: plansUi.packNote, price: packPrice, badge: packSave ? fmt(plansUi.save, { amount: packSave }) : undefined },
-    { id: "all", title: fmt(plansUi.all, { count: allCount }), note: plansUi.allNote, price: allPrice },
+    { id: "pack", title: plansUi.pack, note: plansUi.packNote, price: packPrice, per: fmt(plansUi.perReport, { price: packPer }), badge: packSave ? fmt(plansUi.save, { amount: packSave }) : undefined },
+    { id: "all", title: fmt(plansUi.all, { count: allCount }), note: plansUi.allNote, price: allPrice, per: fmt(plansUi.perReport, { price: allPer }) },
   ];
   const chosen = planOptions.find((o) => o.id === plan)!;
 
@@ -236,6 +243,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
                       <span className={`font-bold ${o.was ? "text-accent" : ""}`}>{o.price}</span>
                     </span>
                   </span>
+                  {o.per && <span className="block text-right text-xs font-semibold text-accent">{o.per}</span>}
                   {o.note && <span className="mt-0.5 block text-xs text-muted">{o.note}</span>}
                   {o.badge && <span className="mt-1 inline-block rounded-full bg-accent/10 px-2 py-0.5 text-xs font-semibold text-accent">{o.badge}</span>}
                 </span>
@@ -267,6 +275,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
         )}
       </div>
 
+      <ShareTest locale={locale} slug={def.slug} testName={name} typeName={shareType ? teaser?.name : undefined} ui={shareUi} />
       {optin && <EmailOptIn locale={locale} slug={def.slug} stored={stored} ui={optin} result={ui} />}
       {children}
     </div>

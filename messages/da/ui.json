@@ -240,7 +240,12 @@
     "packTitle": "Din pakke er aktiv",
     "packText": "Tag en anden test. På resultatsiden låses din næste rapport op med det samme, uden at du betaler igen. Tilbage: {count}.",
     "allTitle": "Dit alt-adgangspas er aktivt",
-    "allText": "Tag den test, du vil. På resultatsiden låses hver rapport op med det samme, uden at du betaler igen."
+    "allText": "Tag den test, du vil. På resultatsiden låses hver rapport op med det samme, uden at du betaler igen.",
+    "upgradeTitle": "Vil du se resten af dig selv?",
+    "upgradeText": "Få alle {count} rapporter for kun {price} ekstra. De {paid}, du lige har betalt, tæller med i adgangspasset.",
+    "upgradeButton": "Lås alle {count} op for {price}",
+    "upgradeNote": "Engangsbetaling, intet abonnement. Tilbuddet gælder i {days} dage efter dit køb.",
+    "upgradeError": "Noget gik galt. Prøv igen."
   },
   "report": {
     "subject": "Din rapport: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Lås denne rapport op gratis",
     "passError": "Din pakke kunne ikke bruges til denne rapport. Du kan stadig købe den nedenfor.",
     "packProduct": "{test} + {extra} rapporter mere",
-    "allProduct": "Alle {count} rapporter"
+    "allProduct": "Alle {count} rapporter",
+    "perReport": "{price} pr. rapport"
   },
   "couple": {
     "inviteTitle": "Tag testen sammen med din partner",
@@ -469,5 +475,13 @@
     "title": "Din pakke",
     "text": "Din pakke er nu aktiv på denne enhed. Vælg en test, så låses din rapport op med det samme.",
     "invalid": "Dette link virker ikke. Kontakt os, så hjælper vi dig."
+  },
+  "share": {
+    "title": "Sammenlign med en ven",
+    "text": "Send testen til en ven og sammenlign jeres resultater. Den er også gratis for dem.",
+    "button": "Del testen",
+    "copied": "Link kopieret",
+    "message": "Jeg har lige taget {test}. Spændt på, hvad du får!",
+    "messageWithType": "Jeg fik {type} i {test}. Hvad får du?"
   }
 }

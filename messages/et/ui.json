@@ -240,7 +240,12 @@
     "packTitle": "Sinu pakett on aktiivne",
     "packText": "Tee mõni teine test. Tulemuste lehel avaneb järgmine raport kohe, ilma uuesti maksmata. Alles: {count}.",
     "allTitle": "Sinu täispääs on aktiivne",
-    "allText": "Tee ükskõik milline test. Tulemuste lehel avaneb iga raport kohe, ilma uuesti maksmata."
+    "allText": "Tee ükskõik milline test. Tulemuste lehel avaneb iga raport kohe, ilma uuesti maksmata.",
+    "upgradeTitle": "Kas tahad näha ka ülejäänut endast?",
+    "upgradeText": "Saa kõik {count} raportit vaid {price} lisatasu eest. Äsja makstud {paid} arvestatakse täispääsu hinnast maha.",
+    "upgradeButton": "Ava kõik {count} hinnaga {price}",
+    "upgradeNote": "Ühekordne makse, ilma tellimuseta. Pakkumine kehtib {days} päeva pärast ostu.",
+    "upgradeError": "Midagi läks valesti. Proovi uuesti."
   },
   "report": {
     "subject": "Sinu raport: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Ava see raport tasuta",
     "passError": "Sinu paketti ei saanud selle raporti jaoks kasutada. Saad selle siiski allpool osta.",
     "packProduct": "{test} + veel {extra} raportit",
-    "allProduct": "Kõik {count} raportit"
+    "allProduct": "Kõik {count} raportit",
+    "perReport": "{price} raporti kohta"
   },
   "couple": {
     "inviteTitle": "Tee see test koos partneriga",
@@ -469,5 +475,13 @@
     "title": "Sinu pakett",
     "text": "Sinu pakett on nüüd selles seadmes aktiivne. Vali test ja raport avaneb kohe.",
     "invalid": "See link ei tööta. Võta meiega ühendust ja me aitame."
+  },
+  "share": {
+    "title": "Võrdle sõbraga",
+    "text": "Saada test sõbrale ja võrrelge oma tulemusi. Ka temale on see tasuta.",
+    "button": "Jaga testi",
+    "copied": "Link kopeeritud",
+    "message": "Tegin just testi {test}. Huvitav, mis sinul tuleb!",
+    "messageWithType": "Mul tuli testis {test} {type}. Mis sinul tuleb?"
   }
 }

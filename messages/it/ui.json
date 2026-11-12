@@ -240,7 +240,12 @@
     "packTitle": "Il tuo pacchetto è attivo",
     "packText": "Fai un altro test. Nella pagina dei risultati il tuo prossimo report si sblocca subito, senza pagare di nuovo. Rimasti: {count}.",
     "allTitle": "Il tuo pass completo è attivo",
-    "allText": "Fai il test che vuoi. Nella pagina dei risultati ogni report si sblocca subito, senza pagare di nuovo."
+    "allText": "Fai il test che vuoi. Nella pagina dei risultati ogni report si sblocca subito, senza pagare di nuovo.",
+    "upgradeTitle": "Vuoi scoprire il resto di te?",
+    "upgradeText": "Ottieni tutti i {count} report con soli {price} in più. I {paid} che hai appena pagato valgono per il pass completo.",
+    "upgradeButton": "Sblocca tutti i {count} a {price}",
+    "upgradeNote": "Pagamento unico, nessun abbonamento. L’offerta vale {days} giorni dopo l’acquisto.",
+    "upgradeError": "Qualcosa è andato storto. Riprova."
   },
   "report": {
     "subject": "Il tuo report: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Sblocca questo report gratis",
     "passError": "Non è stato possibile usare il tuo pacchetto per questo report. Puoi comunque acquistarlo qui sotto.",
     "packProduct": "{test} + altri {extra} report",
-    "allProduct": "Tutti i {count} report"
+    "allProduct": "Tutti i {count} report",
+    "perReport": "{price} a report"
   },
   "couple": {
     "inviteTitle": "Fai questo test con il tuo partner",
@@ -469,5 +475,13 @@
     "title": "Il tuo pacchetto",
     "text": "Il tuo pacchetto è ora attivo su questo dispositivo. Scegli un test e il tuo report si sblocca subito.",
     "invalid": "Questo link non funziona. Contattaci e ti aiuteremo."
+  },
+  "share": {
+    "title": "Confrontati con un amico",
+    "text": "Invia il test a un amico e confrontate i risultati. Anche per lui è gratis.",
+    "button": "Condividi il test",
+    "copied": "Link copiato",
+    "message": "Ho appena fatto il {test}. Sono curioso di vedere cosa ti esce!",
+    "messageWithType": "Mi è uscito {type} al {test}. A te cosa esce?"
   }
 }

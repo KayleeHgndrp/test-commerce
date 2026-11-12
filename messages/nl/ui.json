@@ -240,7 +240,12 @@
     "packTitle": "Je pakket is actief",
     "packText": "Doe een andere test. Op de resultaatpagina wordt je volgende rapport meteen ontgrendeld, zonder opnieuw te betalen. Nog over: {count}.",
     "allTitle": "Je alles-pas is actief",
-    "allText": "Doe een test naar keuze. Op de resultaatpagina wordt elk rapport meteen ontgrendeld, zonder opnieuw te betalen."
+    "allText": "Doe een test naar keuze. Op de resultaatpagina wordt elk rapport meteen ontgrendeld, zonder opnieuw te betalen.",
+    "upgradeTitle": "Wil je de rest van jezelf ook zien?",
+    "upgradeText": "Krijg alle {count} rapporten voor maar {price} extra. De {paid} die je net betaalde telt mee voor de alles-pas.",
+    "upgradeButton": "Ontgrendel alle {count} voor {price}",
+    "upgradeNote": "Eenmalig, geen abonnement. Dit aanbod geldt {days} dagen na je aankoop.",
+    "upgradeError": "Er ging iets mis. Probeer het nog eens."
   },
   "report": {
     "subject": "Je rapport voor de {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Ontgrendel dit rapport gratis",
     "passError": "Je pakket kon niet worden gebruikt voor dit rapport. Je kunt het hieronder nog steeds kopen.",
     "packProduct": "{test} + {extra} extra rapporten",
-    "allProduct": "Alle {count} rapporten"
+    "allProduct": "Alle {count} rapporten",
+    "perReport": "{price} per rapport"
   },
   "couple": {
     "inviteTitle": "Doe deze test samen met je partner",
@@ -469,5 +475,13 @@
     "title": "Je pakket",
     "text": "Je pakket is nu actief op dit apparaat. Kies een test en je rapport wordt meteen ontgrendeld.",
     "invalid": "Deze link werkt niet. Neem contact met ons op, dan helpen we je."
+  },
+  "share": {
+    "title": "Vergelijk met een vriend",
+    "text": "Stuur de test naar een vriend en vergelijk jullie uitkomsten. Voor hen is hij ook gratis.",
+    "button": "Deel de test",
+    "copied": "Link gekopieerd",
+    "message": "Ik deed net de {test}. Benieuwd wat jij krijgt!",
+    "messageWithType": "Ik kreeg {type} uit de {test}. Wat krijg jij?"
   }
 }

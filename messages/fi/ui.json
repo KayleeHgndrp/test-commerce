@@ -240,7 +240,12 @@
     "packTitle": "Pakettisi on käytössä",
     "packText": "Tee toinen testi. Tulossivulla seuraava raporttisi avautuu heti ilman uutta maksua. Jäljellä: {count}.",
     "allTitle": "Kaikkien raporttien passisi on käytössä",
-    "allText": "Tee mikä tahansa testi. Tulossivulla jokainen raportti avautuu heti ilman uutta maksua."
+    "allText": "Tee mikä tahansa testi. Tulossivulla jokainen raportti avautuu heti ilman uutta maksua.",
+    "upgradeTitle": "Haluatko nähdä loputkin itsestäsi?",
+    "upgradeText": "Saat kaikki {count} raporttia vain {price} lisähintaan. Juuri maksamasi {paid} lasketaan kokonaispassin hintaan.",
+    "upgradeButton": "Avaa kaikki {count} hintaan {price}",
+    "upgradeNote": "Kertamaksu, ei tilausta. Tarjous on voimassa {days} päivää ostosta.",
+    "upgradeError": "Jokin meni vikaan. Yritä uudelleen."
   },
   "report": {
     "subject": "Raporttisi: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Avaa tämä raportti ilmaiseksi",
     "passError": "Pakettiasi ei voitu käyttää tähän raporttiin. Voit silti ostaa sen alta.",
     "packProduct": "{test} + {extra} raporttia lisää",
-    "allProduct": "Kaikki {count} raporttia"
+    "allProduct": "Kaikki {count} raporttia",
+    "perReport": "{price} per raportti"
   },
   "couple": {
     "inviteTitle": "Tee tämä testi kumppanisi kanssa",
@@ -469,5 +475,13 @@
     "title": "Pakettisi",
     "text": "Pakettisi on nyt käytössä tällä laitteella. Valitse testi, niin raporttisi avautuu heti.",
     "invalid": "Tämä linkki ei toimi. Ota meihin yhteyttä, niin autamme."
+  },
+  "share": {
+    "title": "Vertaa ystävän kanssa",
+    "text": "Lähetä testi ystävälle ja vertailkaa tuloksianne. Se on ilmainen myös hänelle.",
+    "button": "Jaa testi",
+    "copied": "Linkki kopioitu",
+    "message": "Tein juuri testin {test}. Kiinnostaa, mitä sinulle tulee!",
+    "messageWithType": "Sain testissä {test} tuloksen {type}. Mitä sinä saat?"
   }
 }

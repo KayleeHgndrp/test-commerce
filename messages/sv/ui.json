@@ -240,7 +240,12 @@
     "packTitle": "Ditt paket är aktivt",
     "packText": "Gör ett annat test. På resultatsidan låses din nästa rapport upp direkt, utan att du betalar igen. Kvar: {count}.",
     "allTitle": "Ditt allt-i-ett-pass är aktivt",
-    "allText": "Gör vilket test du vill. På resultatsidan låses varje rapport upp direkt, utan att du betalar igen."
+    "allText": "Gör vilket test du vill. På resultatsidan låses varje rapport upp direkt, utan att du betalar igen.",
+    "upgradeTitle": "Vill du se resten av dig själv?",
+    "upgradeText": "Få alla {count} rapporter för bara {price} extra. De {paid} du just betalade räknas av från helhetspasset.",
+    "upgradeButton": "Lås upp alla {count} för {price}",
+    "upgradeNote": "Engångsbetalning, ingen prenumeration. Erbjudandet gäller i {days} dagar efter köpet.",
+    "upgradeError": "Något gick fel. Försök igen."
   },
   "report": {
     "subject": "Din rapport: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Lås upp den här rapporten gratis",
     "passError": "Ditt paket kunde inte användas för den här rapporten. Du kan fortfarande köpa den nedan.",
     "packProduct": "{test} + {extra} rapporter till",
-    "allProduct": "Alla {count} rapporter"
+    "allProduct": "Alla {count} rapporter",
+    "perReport": "{price} per rapport"
   },
   "couple": {
     "inviteTitle": "Gör testet med din partner",
@@ -469,5 +475,13 @@
     "title": "Ditt paket",
     "text": "Ditt paket är nu aktivt på den här enheten. Välj ett test så låses din rapport upp direkt.",
     "invalid": "Den här länken fungerar inte. Kontakta oss så hjälper vi dig."
+  },
+  "share": {
+    "title": "Jämför med en vän",
+    "text": "Skicka testet till en vän och jämför era resultat. Det är gratis för dem också.",
+    "button": "Dela testet",
+    "copied": "Länk kopierad",
+    "message": "Jag gjorde precis {test}. Nyfiken på vad du får!",
+    "messageWithType": "Jag fick {type} på {test}. Vad får du?"
   }
 }

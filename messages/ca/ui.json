@@ -240,7 +240,12 @@
     "packTitle": "El teu paquet està actiu",
     "packText": "Fes un altre test. A la pàgina de resultats el teu següent informe es desbloqueja a l'instant, sense tornar a pagar. Et queden: {count}.",
     "allTitle": "El teu passi complet està actiu",
-    "allText": "Fes el test que vulguis. A la pàgina de resultats cada informe es desbloqueja a l'instant, sense tornar a pagar."
+    "allText": "Fes el test que vulguis. A la pàgina de resultats cada informe es desbloqueja a l'instant, sense tornar a pagar.",
+    "upgradeTitle": "Vols veure la resta de tu?",
+    "upgradeText": "Aconsegueix els {count} informes per només {price} més. Els {paid} que acabes de pagar compten per al passi complet.",
+    "upgradeButton": "Desbloqueja els {count} per {price}",
+    "upgradeNote": "Pagament únic, sense subscripció. L’oferta és vàlida {days} dies després de la compra.",
+    "upgradeError": "Alguna cosa ha fallat. Torna-ho a provar."
   },
   "report": {
     "subject": "El teu informe: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Desbloqueja aquest informe gratis",
     "passError": "No s'ha pogut fer servir el teu paquet per a aquest informe. Encara el pots comprar a sota.",
     "packProduct": "{test} + {extra} informes més",
-    "allProduct": "Tots els {count} informes"
+    "allProduct": "Tots els {count} informes",
+    "perReport": "{price} per informe"
   },
   "couple": {
     "inviteTitle": "Fes aquest test amb la teva parella",
@@ -469,5 +475,13 @@
     "title": "El teu paquet",
     "text": "El teu paquet ja està actiu en aquest dispositiu. Tria un test i el teu informe es desbloqueja a l'instant.",
     "invalid": "Aquest enllaç no funciona. Contacta'ns i t'ajudarem."
+  },
+  "share": {
+    "title": "Compara amb un amic",
+    "text": "Envia el test a un amic i compareu els resultats. Per a ell també és gratuït.",
+    "button": "Comparteix el test",
+    "copied": "Enllaç copiat",
+    "message": "Acabo de fer el {test}. Quina curiositat saber què et surt a tu!",
+    "messageWithType": "M’ha sortit {type} al {test}. I a tu què et surt?"
   }
 }

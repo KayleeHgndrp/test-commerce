@@ -240,7 +240,12 @@
     "packTitle": "Ton pack est actif",
     "packText": "Fais un autre test. Sur la page de résultat, ton prochain rapport se débloque tout de suite, sans payer à nouveau. Restant : {count}.",
     "allTitle": "Ton pass complet est actif",
-    "allText": "Fais le test de ton choix. Sur la page de résultat, chaque rapport se débloque tout de suite, sans payer à nouveau."
+    "allText": "Fais le test de ton choix. Sur la page de résultat, chaque rapport se débloque tout de suite, sans payer à nouveau.",
+    "upgradeTitle": "Envie de découvrir le reste de vous ?",
+    "upgradeText": "Obtenez les {count} rapports pour seulement {price} de plus. Les {paid} que vous venez de payer sont déduits du pass complet.",
+    "upgradeButton": "Débloquer les {count} pour {price}",
+    "upgradeNote": "Paiement unique, sans abonnement. Offre valable {days} jours après votre achat.",
+    "upgradeError": "Un problème est survenu. Veuillez réessayer."
   },
   "report": {
     "subject": "Votre rapport : {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Débloquer ce rapport gratuitement",
     "passError": "Ton pack n'a pas pu être utilisé pour ce rapport. Tu peux toujours l'acheter ci-dessous.",
     "packProduct": "{test} + {extra} rapports en plus",
-    "allProduct": "Les {count} rapports"
+    "allProduct": "Les {count} rapports",
+    "perReport": "{price} par rapport"
   },
   "couple": {
     "inviteTitle": "Fais ce test avec ton ou ta partenaire",
@@ -469,5 +475,13 @@
     "title": "Ton pack",
     "text": "Ton pack est maintenant actif sur cet appareil. Choisis un test et ton rapport se débloque tout de suite.",
     "invalid": "Ce lien ne fonctionne pas. Contacte-nous et nous t'aiderons."
+  },
+  "share": {
+    "title": "Comparez avec un ami",
+    "text": "Envoyez le test à un ami et comparez vos résultats. C’est gratuit pour lui aussi.",
+    "button": "Partager le test",
+    "copied": "Lien copié",
+    "message": "Je viens de faire le {test}. Curieux de voir ce que tu obtiens !",
+    "messageWithType": "J’ai obtenu {type} au {test}. Et toi ?"
   }
 }

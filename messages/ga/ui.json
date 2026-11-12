@@ -240,7 +240,12 @@
     "packTitle": "Tá do phacáiste gníomhach",
     "packText": "Déan triail eile. Ar an leathanach torthaí díghlasáiltear do chéad tuarascáil eile láithreach, gan íoc arís. Fágtha: {count}.",
     "allTitle": "Tá do phas iomlán gníomhach",
-    "allText": "Déan aon triail is mian leat. Ar an leathanach torthaí díghlasáiltear gach tuarascáil láithreach, gan íoc arís."
+    "allText": "Déan aon triail is mian leat. Ar an leathanach torthaí díghlasáiltear gach tuarascáil láithreach, gan íoc arís.",
+    "upgradeTitle": "Ar mhaith leat an chuid eile díot féin a fheiceáil?",
+    "upgradeText": "Faigh na {count} tuairisc ar fad ar {price} breise amháin. Áirítear an {paid} a d’íoc tú díreach anois i dtreo an phas iomláin.",
+    "upgradeButton": "Díghlasáil na {count} ar fad ar {price}",
+    "upgradeNote": "Íocaíocht aonuaire, gan síntiús. Tá an tairiscint bailí ar feadh {days} lá tar éis do cheannaigh.",
+    "upgradeError": "Chuaigh rud éigin mícheart. Bain triail eile as."
   },
   "report": {
     "subject": "Do thuarascáil: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Díghlasáil an tuarascáil seo saor in aisce",
     "passError": "Níorbh fhéidir do phacáiste a úsáid don tuarascáil seo. Is féidir leat í a cheannach thíos fós.",
     "packProduct": "{test} + {extra} thuarascáil eile",
-    "allProduct": "Na {count} tuarascáil ar fad"
+    "allProduct": "Na {count} tuarascáil ar fad",
+    "perReport": "{price} an tuairisc"
   },
   "couple": {
     "inviteTitle": "Déan an triail seo le do pháirtí",
@@ -469,5 +475,13 @@
     "title": "Do phacáiste",
     "text": "Tá do phacáiste gníomhach ar an ngléas seo anois. Roghnaigh triail agus díghlasáiltear do thuarascáil láithreach.",
     "invalid": "Níl an nasc seo ag obair. Déan teagmháil linn agus cabhróimid leat."
+  },
+  "share": {
+    "title": "Déan comparáid le cara",
+    "text": "Seol an tástáil chuig cara agus déanaigí comparáid idir bhur dtorthaí. Tá sé saor in aisce dóibh freisin.",
+    "button": "Roinn an tástáil",
+    "copied": "Nasc cóipeáilte",
+    "message": "Rinne mé an {test} díreach anois. Fiosrach cad a gheobhaidh tusa!",
+    "messageWithType": "Fuair mé {type} sa {test}. Cad a fhaigheann tusa?"
   }
 }

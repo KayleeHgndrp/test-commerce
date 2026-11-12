@@ -240,7 +240,12 @@
     "packTitle": "Jūsų paketas aktyvus",
     "packText": "Atlikite kitą testą. Rezultatų puslapyje kita ataskaita atsirakins iškart, nemokant dar kartą. Liko: {count}.",
     "allTitle": "Jūsų pilna prieiga aktyvi",
-    "allText": "Atlikite bet kurį testą. Rezultatų puslapyje kiekviena ataskaita atsirakins iškart, nemokant dar kartą."
+    "allText": "Atlikite bet kurį testą. Rezultatų puslapyje kiekviena ataskaita atsirakins iškart, nemokant dar kartą.",
+    "upgradeTitle": "Norite pamatyti ir likusią savo dalį?",
+    "upgradeText": "Gaukite visas {count} ataskaitas tik už {price} papildomai. Ką tik sumokėti {paid} įskaitomi į pilną leidimą.",
+    "upgradeButton": "Atrakinti visas {count} už {price}",
+    "upgradeNote": "Vienkartinis mokėjimas, be prenumeratos. Pasiūlymas galioja {days} dienas po pirkimo.",
+    "upgradeError": "Kažkas nepavyko. Bandykite dar kartą."
   },
   "report": {
     "subject": "Jūsų testo „{test}“ ataskaita",
@@ -427,7 +432,8 @@
     "passUnlock": "Atrakinti šią ataskaitą nemokamai",
     "passError": "Jūsų paketo nepavyko panaudoti šiai ataskaitai. Vis tiek galite ją įsigyti žemiau.",
     "packProduct": "{test} + dar {extra} ataskaitos",
-    "allProduct": "Visos ataskaitos ({count})"
+    "allProduct": "Visos ataskaitos ({count})",
+    "perReport": "{price} už ataskaitą"
   },
   "couple": {
     "inviteTitle": "Atlikite šį testą su partneriu",
@@ -469,5 +475,13 @@
     "title": "Jūsų paketas",
     "text": "Jūsų paketas dabar aktyvus šiame įrenginyje. Pasirinkite testą, ir ataskaita atsirakins iškart.",
     "invalid": "Ši nuoroda neveikia. Susisiekite su mumis ir mes padėsime."
+  },
+  "share": {
+    "title": "Palyginkite su draugu",
+    "text": "Nusiųskite testą draugui ir palyginkite rezultatus. Jam jis irgi nemokamas.",
+    "button": "Dalintis testu",
+    "copied": "Nuoroda nukopijuota",
+    "message": "Ką tik atlikau {test}. Įdomu, kas išeis tau!",
+    "messageWithType": "Man išėjo {type} teste {test}. O tau?"
   }
 }

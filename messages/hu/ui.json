@@ -240,7 +240,12 @@
     "packTitle": "A csomagod aktív",
     "packText": "Csinálj meg egy másik tesztet. Az eredményoldalon a következő értékelésed azonnal feloldódik, újabb fizetés nélkül. Hátralévő: {count}.",
     "allTitle": "A teljes hozzáférésed aktív",
-    "allText": "Csinálj meg bármelyik tesztet. Az eredményoldalon minden értékelés azonnal feloldódik, újabb fizetés nélkül."
+    "allText": "Csinálj meg bármelyik tesztet. Az eredményoldalon minden értékelés azonnal feloldódik, újabb fizetés nélkül.",
+    "upgradeTitle": "Szeretnéd a többit is látni magadról?",
+    "upgradeText": "Mind a {count} jelentést megkapod mindössze {price} különbözetért. Az imént kifizetett {paid} beleszámít a teljes bérletbe.",
+    "upgradeButton": "Mind a {count} feloldása {price} áron",
+    "upgradeNote": "Egyszeri fizetés, előfizetés nélkül. Az ajánlat a vásárlás után {days} napig érvényes.",
+    "upgradeError": "Hiba történt. Próbáld újra."
   },
   "report": {
     "subject": "Az értékelésed: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Értékelés feloldása ingyen",
     "passError": "A csomagodat nem sikerült felhasználni ehhez az értékeléshez. Lent továbbra is megveheted.",
     "packProduct": "{test} + még {extra} értékelés",
-    "allProduct": "Mind a(z) {count} értékelés"
+    "allProduct": "Mind a(z) {count} értékelés",
+    "perReport": "{price} jelentésenként"
   },
   "couple": {
     "inviteTitle": "Csináld meg ezt a tesztet a pároddal",
@@ -469,5 +475,13 @@
     "title": "A csomagod",
     "text": "A csomagod most már aktív ezen az eszközön. Válassz egy tesztet, és az értékelésed azonnal feloldódik.",
     "invalid": "Ez a link nem működik. Írj nekünk, és segítünk."
+  },
+  "share": {
+    "title": "Hasonlítsd össze egy baráttal",
+    "text": "Küldd el a tesztet egy barátodnak, és hasonlítsátok össze az eredményeiteket. Neki is ingyenes.",
+    "button": "Teszt megosztása",
+    "copied": "Link kimásolva",
+    "message": "Most csináltam meg a(z) {test} tesztet. Kíváncsi vagyok, neked mi jön ki!",
+    "messageWithType": "Nekem {type} jött ki a(z) {test} teszten. Neked mi?"
   }
 }

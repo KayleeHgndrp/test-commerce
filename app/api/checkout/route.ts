@@ -1,11 +1,11 @@
 import { hasLocale } from "@/lib/i18n/locales";
 import { allDefinitions, fmt, getDefinition, getTestText, getUi } from "@/lib/i18n/messages";
-import { plans, type Plan } from "@/lib/delivery";
+import { plans, retrievePaidOrder, upgradeAllowed, type Plan } from "@/lib/delivery";
 import { emailFlowAllowed } from "@/lib/emailFlow";
 import { sendEmail } from "@/lib/email";
 import { refPattern } from "@/lib/partners";
 import { renderReport } from "@/lib/report/render";
-import { site } from "@/lib/site";
+import { site, upgradePriceCents } from "@/lib/site";
 import { stripeRequest } from "@/lib/stripe";
 import { cleanName } from "@/lib/tests/couple";
 import { decodeAnswers } from "@/lib/tests/scoring";
@@ -34,6 +34,12 @@ export async function POST(request: Request) {
     return Response.json({ error: "invalid_request" }, { status: 400 });
   }
 
+  // Upgrade right after buying one report: the all-access pass minus what was just paid.
+  const upgrade = typeof body?.upgradeFrom === "string" && plan === "all" ? await retrievePaidOrder(body.upgradeFrom) : null;
+  if (body?.upgradeFrom && (!upgrade || !upgradeAllowed(upgrade, slug))) {
+    return Response.json({ error: "invalid_request" }, { status: 400 });
+  }
+
   const origin = new URL(request.url).origin;
   const thanksUrl = `${origin}/${locale}/${slug}/thanks`;
 
@@ -47,17 +53,20 @@ export async function POST(request: Request) {
   }
 
   const [ui, text] = await Promise.all([getUi(locale), getTestText(locale, slug)]);
-  const price = { single: site.priceCents, pack: site.packPriceCents, all: site.allPriceCents, couple: site.couplePriceCents }[plan];
+  const price = upgrade
+    ? upgradePriceCents(upgrade.session.amount_total ?? site.priceCents)
+    : { single: site.priceCents, pack: site.packPriceCents, all: site.allPriceCents, couple: site.couplePriceCents }[plan];
   const product = {
     single: text.name,
     pack: fmt(ui.plans.packProduct, { test: text.name, extra: site.packSize - 1 }),
     all: fmt(ui.plans.allProduct, { count: allDefinitions.length }),
     couple: fmt(ui.couple.product, { test: text.name }),
   }[plan];
-  const referral = typeof ref === "string" && refPattern.test(ref) ? ref : null;
+  // An upgrade keeps the partner of the first purchase, so they earn on it too.
+  const referral = upgrade?.session.metadata.ref ?? (typeof ref === "string" && refPattern.test(ref) ? ref : null);
   const session = await stripeRequest<{ url: string }>("checkout/sessions", {
     mode: "payment",
-    ...(validEmail ? { customer_email: email } : {}),
+    ...(upgrade ? { customer_email: upgrade.email } : validEmail ? { customer_email: email } : {}),
     locale: STRIPE_LOCALES.has(locale) ? locale : locale === "no" ? "nb" : "auto",
     "line_items[0][quantity]": "1",
     "line_items[0][price_data][currency]": site.currency,
@@ -76,6 +85,7 @@ export async function POST(request: Request) {
     "metadata[plan]": plan,
     ...(partner ? { "metadata[partner_answers]": partnerAnswers, "metadata[partner_name]": cleanName(partnerName) } : {}),
     ...(referral ? { "metadata[ref]": referral } : {}),
+    ...(upgrade ? { "metadata[upgrade_from]": upgrade.session.id } : {}),
     ...(newsletter && emailFlowAllowed(def) ? { "metadata[newsletter]": "1" } : {}),
   });
 

@@ -240,7 +240,12 @@
     "packTitle": "Váš balík je aktívny",
     "packText": "Urobte si iný test. Na stránke s výsledkami sa vaša ďalšia správa hneď odomkne, bez ďalšej platby. Zostáva: {count}.",
     "allTitle": "Váš plný prístup je aktívny",
-    "allText": "Urobte si akýkoľvek test. Na stránke s výsledkami sa každá správa hneď odomkne, bez ďalšej platby."
+    "allText": "Urobte si akýkoľvek test. Na stránke s výsledkami sa každá správa hneď odomkne, bez ďalšej platby.",
+    "upgradeTitle": "Chcete vidieť aj zvyšok seba?",
+    "upgradeText": "Získajte všetkých {count} správ len za {price} navyše. Suma {paid}, ktorú ste práve zaplatili, sa započíta do plného prístupu.",
+    "upgradeButton": "Odomknúť všetkých {count} za {price}",
+    "upgradeNote": "Jednorazová platba, bez predplatného. Ponuka platí {days} dní po nákupe.",
+    "upgradeError": "Niečo sa pokazilo. Skúste to znova."
   },
   "report": {
     "subject": "Vaša správa: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Odomknúť túto správu zadarmo",
     "passError": "Váš balík sa nepodarilo použiť pre túto správu. Stále si ju môžete kúpiť nižšie.",
     "packProduct": "{test} + {extra} ďalšie správy",
-    "allProduct": "Všetky správy ({count})"
+    "allProduct": "Všetky správy ({count})",
+    "perReport": "{price} za správu"
   },
   "couple": {
     "inviteTitle": "Urobte si tento test s partnerom",
@@ -469,5 +475,13 @@
     "title": "Váš balík",
     "text": "Váš balík je teraz aktívny na tomto zariadení. Vyberte test a vaša správa sa hneď odomkne.",
     "invalid": "Tento odkaz nefunguje. Kontaktujte nás a pomôžeme vám."
+  },
+  "share": {
+    "title": "Porovnajte sa s priateľom",
+    "text": "Pošlite test kamarátovi a porovnajte svoje výsledky. Aj pre neho je zadarmo.",
+    "button": "Zdieľať test",
+    "copied": "Odkaz skopírovaný",
+    "message": "Práve som urobil(a) {test}. Som zvedavý/á, čo vyjde tebe!",
+    "messageWithType": "Vyšlo mi {type} v teste {test}. Čo vyjde tebe?"
   }
 }

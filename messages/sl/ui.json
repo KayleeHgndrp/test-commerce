@@ -240,7 +240,12 @@
     "packTitle": "Vaš paket je aktiven",
     "packText": "Rešite drug test. Na strani z rezultati se vaše naslednje poročilo takoj odklene, brez ponovnega plačila. Ostalo: {count}.",
     "allTitle": "Vaš polni dostop je aktiven",
-    "allText": "Rešite katerikoli test. Na strani z rezultati se vsako poročilo takoj odklene, brez ponovnega plačila."
+    "allText": "Rešite katerikoli test. Na strani z rezultati se vsako poročilo takoj odklene, brez ponovnega plačila.",
+    "upgradeTitle": "Želite videti še preostanek sebe?",
+    "upgradeText": "Pridobite vseh {count} poročil za samo {price} več. Pravkar plačanih {paid} se šteje v polni dostop.",
+    "upgradeButton": "Odklenite vseh {count} za {price}",
+    "upgradeNote": "Enkratno plačilo, brez naročnine. Ponudba velja {days} dni po nakupu.",
+    "upgradeError": "Nekaj je šlo narobe. Poskusite znova."
   },
   "report": {
     "subject": "Vaše poročilo: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Odklenite to poročilo brezplačno",
     "passError": "Vašega paketa ni bilo mogoče uporabiti za to poročilo. Še vedno ga lahko kupite spodaj.",
     "packProduct": "{test} + še {extra} poročili",
-    "allProduct": "Vsa poročila ({count})"
+    "allProduct": "Vsa poročila ({count})",
+    "perReport": "{price} na poročilo"
   },
   "couple": {
     "inviteTitle": "Rešite ta test s partnerjem",
@@ -469,5 +475,13 @@
     "title": "Vaš paket",
     "text": "Vaš paket je zdaj aktiven na tej napravi. Izberite test in vaše poročilo se takoj odklene.",
     "invalid": "Ta povezava ne deluje. Pišite nam in pomagali vam bomo."
+  },
+  "share": {
+    "title": "Primerjajte se s prijateljem",
+    "text": "Pošljite test prijatelju in primerjajta rezultate. Tudi zanj je brezplačen.",
+    "button": "Deli test",
+    "copied": "Povezava kopirana",
+    "message": "Pravkar sem rešil/a {test}. Zanima me, kaj dobiš ti!",
+    "messageWithType": "Dobil/a sem {type} na testu {test}. Kaj dobiš ti?"
   }
 }

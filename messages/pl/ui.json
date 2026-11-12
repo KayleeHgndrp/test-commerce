@@ -240,7 +240,12 @@
     "packTitle": "Twój pakiet jest aktywny",
     "packText": "Zrób inny test. Na stronie wyników kolejny raport odblokuje się od razu, bez ponownej płatności. Pozostało: {count}.",
     "allTitle": "Twój pełny dostęp jest aktywny",
-    "allText": "Zrób dowolny test. Na stronie wyników każdy raport odblokuje się od razu, bez ponownej płatności."
+    "allText": "Zrób dowolny test. Na stronie wyników każdy raport odblokuje się od razu, bez ponownej płatności.",
+    "upgradeTitle": "Chcesz zobaczyć resztę siebie?",
+    "upgradeText": "Odbierz wszystkie {count} raporty za jedyne {price} więcej. Zapłacone właśnie {paid} wliczamy w pełny dostęp.",
+    "upgradeButton": "Odblokuj wszystkie {count} za {price}",
+    "upgradeNote": "Jednorazowa płatność, bez subskrypcji. Oferta ważna {days} dni od zakupu.",
+    "upgradeError": "Coś poszło nie tak. Spróbuj ponownie."
   },
   "report": {
     "subject": "Twój raport: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Odblokuj ten raport za darmo",
     "passError": "Nie udało się użyć pakietu dla tego raportu. Nadal możesz go kupić poniżej.",
     "packProduct": "{test} + {extra} kolejne raporty",
-    "allProduct": "Wszystkie raporty ({count})"
+    "allProduct": "Wszystkie raporty ({count})",
+    "perReport": "{price} za raport"
   },
   "couple": {
     "inviteTitle": "Zrób ten test z partnerem",
@@ -469,5 +475,13 @@
     "title": "Twój pakiet",
     "text": "Twój pakiet jest teraz aktywny na tym urządzeniu. Wybierz test, a raport odblokuje się od razu.",
     "invalid": "Ten link nie działa. Skontaktuj się z nami, pomożemy."
+  },
+  "share": {
+    "title": "Porównaj się z przyjacielem",
+    "text": "Wyślij test znajomemu i porównajcie wyniki. Dla niego też jest darmowy.",
+    "button": "Udostępnij test",
+    "copied": "Link skopiowany",
+    "message": "Właśnie zrobiłem/am {test}. Ciekawe, co wyjdzie Tobie!",
+    "messageWithType": "Wyszło mi {type} w teście {test}. A Tobie?"
   }
 }

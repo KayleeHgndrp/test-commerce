@@ -240,7 +240,12 @@
     "packTitle": "Pakkinn þinn er virkur",
     "packText": "Taktu annað próf. Á niðurstöðusíðunni opnast næsta skýrsla strax, án þess að greiða aftur. Eftir: {count}.",
     "allTitle": "Fullur aðgangur þinn er virkur",
-    "allText": "Taktu hvaða próf sem er. Á niðurstöðusíðunni opnast hver skýrsla strax, án þess að greiða aftur."
+    "allText": "Taktu hvaða próf sem er. Á niðurstöðusíðunni opnast hver skýrsla strax, án þess að greiða aftur.",
+    "upgradeTitle": "Viltu sjá restina af þér?",
+    "upgradeText": "Fáðu allar {count} skýrslurnar fyrir aðeins {price} aukalega. {paid} sem þú varst að greiða gengur upp í heildarpassann.",
+    "upgradeButton": "Opnaðu allar {count} fyrir {price}",
+    "upgradeNote": "Ein greiðsla, engin áskrift. Tilboðið gildir í {days} daga eftir kaupin.",
+    "upgradeError": "Eitthvað fór úrskeiðis. Reyndu aftur."
   },
   "report": {
     "subject": "Skýrslan þín: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Opna þessa skýrslu ókeypis",
     "passError": "Ekki tókst að nota pakkann þinn fyrir þessa skýrslu. Þú getur samt keypt hana hér fyrir neðan.",
     "packProduct": "{test} + {extra} skýrslur til viðbótar",
-    "allProduct": "Allar {count} skýrslurnar"
+    "allProduct": "Allar {count} skýrslurnar",
+    "perReport": "{price} á skýrslu"
   },
   "couple": {
     "inviteTitle": "Taktu prófið með makanum þínum",
@@ -469,5 +475,13 @@
     "title": "Pakkinn þinn",
     "text": "Pakkinn þinn er nú virkur í þessu tæki. Veldu próf og skýrslan þín opnast strax.",
     "invalid": "Þessi hlekkur virkar ekki. Hafðu samband og við hjálpum þér."
+  },
+  "share": {
+    "title": "Berðu þig saman við vin",
+    "text": "Sendu prófið til vinar og berið saman niðurstöðurnar. Það er líka ókeypis fyrir hann.",
+    "button": "Deila prófinu",
+    "copied": "Hlekkur afritaður",
+    "message": "Ég var að taka {test}. Forvitin að sjá hvað þú færð!",
+    "messageWithType": "Ég fékk {type} í {test}. Hvað færð þú?"
   }
 }

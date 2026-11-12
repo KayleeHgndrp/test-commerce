@@ -240,7 +240,12 @@
     "packTitle": "Tava pakete ir aktīva",
     "packText": "Izpildi citu testu. Rezultātu lapā tavs nākamais pārskats atbloķējas uzreiz, bez atkārtota maksājuma. Atlicis: {count}.",
     "allTitle": "Tava pilnā piekļuve ir aktīva",
-    "allText": "Izpildi jebkuru testu. Rezultātu lapā katrs pārskats atbloķējas uzreiz, bez atkārtota maksājuma."
+    "allText": "Izpildi jebkuru testu. Rezultātu lapā katrs pārskats atbloķējas uzreiz, bez atkārtota maksājuma.",
+    "upgradeTitle": "Vai vēlies redzēt arī pārējo par sevi?",
+    "upgradeText": "Saņem visus {count} ziņojumus tikai par {price} papildus. Tikko samaksātie {paid} tiek ieskaitīti pilnajā piekļuvē.",
+    "upgradeButton": "Atbloķēt visus {count} par {price}",
+    "upgradeNote": "Vienreizējs maksājums, bez abonementa. Piedāvājums ir spēkā {days} dienas pēc pirkuma.",
+    "upgradeError": "Kaut kas nogāja greizi. Mēģini vēlreiz."
   },
   "report": {
     "subject": "Tavs pārskats: {test}",
@@ -427,7 +432,8 @@
     "passUnlock": "Atbloķēt šo pārskatu bez maksas",
     "passError": "Tavu paketi neizdevās izmantot šim pārskatam. Tu joprojām vari to iegādāties zemāk.",
     "packProduct": "{test} + vēl {extra} pārskati",
-    "allProduct": "Visi {count} pārskati"
+    "allProduct": "Visi {count} pārskati",
+    "perReport": "{price} par ziņojumu"
   },
   "couple": {
     "inviteTitle": "Pildi šo testu kopā ar partneri",
@@ -469,5 +475,13 @@
     "title": "Tava pakete",
     "text": "Tava pakete tagad ir aktīva šajā ierīcē. Izvēlies testu, un tavs pārskats atbloķēsies uzreiz.",
     "invalid": "Šī saite nedarbojas. Sazinies ar mums, un mēs palīdzēsim."
+  },
+  "share": {
+    "title": "Salīdzini ar draugu",
+    "text": "Nosūti testu draugam un salīdziniet rezultātus. Arī viņam tas ir bez maksas.",
+    "button": "Dalīties ar testu",
+    "copied": "Saite nokopēta",
+    "message": "Tikko izpildīju {test}. Interesanti, kas sanāks tev!",
+    "messageWithType": "Man sanāca {type} testā {test}. Kas sanāk tev?"
   }
 }
