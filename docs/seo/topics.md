@@ -8,6 +8,7 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 | Datum | translationKey | Onderwerp | Test |
 |---|---|---|---|
+| 2026-11-13 | bipolar-or-mood-swings (en: bipolar-or-mood-swings) | Bipolaire stoornis of gewoon stemmingswisselingen? De verschillen (gekozen op Search Console: "bipolární porucha test", "bipolarni poremećaj test", positie rond 9 in CS en HR) | bipolar |
 | 2026-11-11 | disc-profile-colors (en: disc-personality-types-colors) | DISC-profiel: de vier kleuren rood, geel, groen en blauw uitgelegd (gekozen op Search Console: grootste cluster zoekvragen, vooral Deens "disc profil", "rød gul grøn blå", positie 20 tot 30) | disc |
 | 2026-11-09 | rejection-sensitivity-criticism (en: rejection-sensitivity-criticism) | Afwijzingsgevoeligheid: waarom kleine kritiek zo hard binnenkomt | rejection-sensitivity |
 | 2026-11-06 | people-pleaser-saying-no (en: how-to-say-no-without-guilt) | Nee zeggen zonder schuldgevoel als people pleaser | people-pleaser |
@@ -24,7 +25,6 @@ Taalvoorrang (9 nov 2026): de meeste vertoningen komen uit DA, SV, CS, DE en FI,
 | translationKey | Onderwerp | Test | Zoekvraag (en) |
 |---|---|---|---|
 | bpd-signs-adults | Borderline (BPD) bij volwassenen: signalen, en wat een zelftest wel en niet zegt | bpd | borderline personality disorder test |
-| bipolar-or-mood-swings | Bipolaire stoornis of gewoon stemmingswisselingen? De verschillen | bipolar | bipolar disorder test |
 | big-five-vs-mbti | Big Five of MBTI: welke test is betrouwbaarder | big-five | big five vs mbti |
 | trauma-signs-ptsd | Signalen van onverwerkt trauma, en wanneer het PTSS kan zijn | trauma | trauma test |
 | strengths-talent-test | Wat zijn je talenten? Zo ontdek je je sterkste kanten | strengths | talent test |
