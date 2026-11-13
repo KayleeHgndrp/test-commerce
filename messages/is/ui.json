@@ -418,7 +418,7 @@
     "single": "Þessi skýrsla",
     "pack": "3 skýrslur",
     "packNote": "Þessi og 2 önnur próf að eigin vali",
-    "all": "Allar {count} skýrslurnar",
+    "all": "Allar skýrslur",
     "allNote": "Hvert próf á síðunni, opnaðu þau þegar þú vilt",
     "save": "Sparaðu {amount}",
     "passPack": "Pakkinn þinn á {count} skýrslur eftir",
@@ -426,7 +426,7 @@
     "passUnlock": "Opna þessa skýrslu ókeypis",
     "passError": "Ekki tókst að nota pakkann þinn fyrir þessa skýrslu. Þú getur samt keypt hana hér fyrir neðan.",
     "packProduct": "{test} + {extra} skýrslur til viðbótar",
-    "allProduct": "Allar {count} skýrslurnar"
+    "allProduct": "Allar skýrslur"
   },
   "couple": {
     "inviteTitle": "Taktu prófið með makanum þínum",

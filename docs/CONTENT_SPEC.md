@@ -140,5 +140,5 @@ and the text file then has:
 }
 ```
 
-Only public-domain instruments are embedded (PHQ-9, PCL-5). Their items must be reproduced verbatim in
+Only instruments that are free to use without permission are embedded (PHQ-9, GAD-7, PCL-5). Their items must be reproduced verbatim in
 English; translators should use the wording of an official translation where they know it.

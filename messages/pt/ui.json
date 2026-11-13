@@ -418,7 +418,7 @@
     "single": "Este relatório",
     "pack": "3 relatórios",
     "packNote": "Este mais 2 testes à tua escolha",
-    "all": "Todos os {count} relatórios",
+    "all": "Todos os relatórios",
     "allNote": "Todos os testes do site, desbloqueia quando quiseres",
     "save": "Poupa {amount}",
     "passPack": "O teu pacote ainda tem {count} relatórios",
@@ -426,7 +426,7 @@
     "passUnlock": "Desbloquear este relatório grátis",
     "passError": "Não foi possível usar o teu pacote para este relatório. Ainda o podes comprar abaixo.",
     "packProduct": "{test} + {extra} relatórios extra",
-    "allProduct": "Todos os {count} relatórios"
+    "allProduct": "Todos os relatórios"
   },
   "couple": {
     "inviteTitle": "Faz este teste com o teu par",

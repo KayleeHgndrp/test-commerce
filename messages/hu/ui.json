@@ -418,7 +418,7 @@
     "single": "Ez az értékelés",
     "pack": "3 értékelés",
     "packNote": "Ez és még 2 általad választott teszt",
-    "all": "Mind a(z) {count} értékelés",
+    "all": "Az összes értékelés",
     "allNote": "Az oldal összes tesztje, akkor oldod fel őket, amikor akarod",
     "save": "Spórolj {amount}",
     "passPack": "A csomagodban még {count} értékelés van",
@@ -426,7 +426,7 @@
     "passUnlock": "Értékelés feloldása ingyen",
     "passError": "A csomagodat nem sikerült felhasználni ehhez az értékeléshez. Lent továbbra is megveheted.",
     "packProduct": "{test} + még {extra} értékelés",
-    "allProduct": "Mind a(z) {count} értékelés"
+    "allProduct": "Az összes értékelés"
   },
   "couple": {
     "inviteTitle": "Csináld meg ezt a tesztet a pároddal",
