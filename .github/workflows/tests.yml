@@ -1,0 +1,40 @@
+# Runs the automatic checks on every pull request and on every change to main.
+# A red cross on a pull request means one of the money flows (test, checkout,
+# report delivery, email flow, partners) broke; do not merge until it is green.
+name: Tests
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  flows:
+    name: Bedrijfskritische flows
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run check:dashes
+      - run: npm test
+
+  browser:
+    name: Browsertest (test invullen tot betalen)
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:e2e
+        env:
+          CI: "true"
