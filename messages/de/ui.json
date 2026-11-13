@@ -240,7 +240,12 @@
     "packTitle": "Dein Paket ist aktiv",
     "packText": "Mach einen anderen Test. Auf der Ergebnisseite wird dein nächster Bericht sofort freigeschaltet, ohne erneut zu zahlen. Übrig: {count}.",
     "allTitle": "Dein Alles-Pass ist aktiv",
-    "allText": "Mach einen beliebigen Test. Auf der Ergebnisseite wird jeder Bericht sofort freigeschaltet, ohne erneut zu zahlen."
+    "allText": "Mach einen beliebigen Test. Auf der Ergebnisseite wird jeder Bericht sofort freigeschaltet, ohne erneut zu zahlen.",
+    "upgradeTitle": "Willst du auch den Rest von dir sehen?",
+    "upgradeText": "Hol dir alle {count} Berichte für nur {price} mehr. Die {paid}, die du gerade bezahlt hast, werden auf den Komplettpass angerechnet.",
+    "upgradeButton": "Alle {count} für {price} freischalten",
+    "upgradeNote": "Einmalige Zahlung, kein Abo. Das Angebot gilt {days} Tage nach deinem Kauf.",
+    "upgradeError": "Etwas ist schiefgelaufen. Bitte versuch es noch einmal."
   },
   "report": {
     "subject": "Dein Bericht: {test}",
@@ -300,7 +305,8 @@
       "Deine Antworten werden verarbeitet, um dein Ergebnis zu berechnen. Wenn du einen Bericht kaufst, werden deine Antworten und deine E-Mail-Adresse an unseren Zahlungsdienstleister Stripe und unseren E-Mail-Dienstleister übermittelt, um die Zahlung abzuwickeln und den Bericht zuzustellen.",
       "Wir verkaufen deine Daten nicht und nutzen sie nicht für Werbung. Du kannst jederzeit die Löschung deiner Daten verlangen, indem du uns an {email} schreibst.",
       "Wenn du Analyse-Cookies akzeptierst, nutzen wir Google Analytics, um Nutzungsstatistiken zu erheben, zum Beispiel welche Seiten besucht werden. Google kann diese Daten auf Grundlage des EU-US Data Privacy Framework außerhalb der EU verarbeiten.",
-      "Zahlungen werden von Stripe abgewickelt. Wir sehen oder speichern deine Kartendaten nie."
+      "Zahlungen werden von Stripe abgewickelt. Wir sehen oder speichern deine Kartendaten nie.",
+      "Wenn du uns bittest, dir dein Ergebnis zu mailen, speichern wir deine E-Mail-Adresse, Sprache, Testantworten und den Zeitpunkt deiner Einwilligung bei unserem E-Mail-Anbieter Brevo (Server in der EU). Wir nutzen das nur, um dir dein Ergebnis, drei kurze Folge-E-Mails in der ersten Woche und danach höchstens eine E-Mail pro Woche zu schicken. Jede E-Mail enthält einen Abmeldelink, und nach der Abmeldung bekommst du keine E-Mails mehr von uns."
     ],
     "termsTitle": "Nutzungsbedingungen",
     "termsBody": [
@@ -426,7 +432,8 @@
     "passUnlock": "Diesen Bericht kostenlos freischalten",
     "passError": "Dein Paket konnte für diesen Bericht nicht verwendet werden. Du kannst ihn unten trotzdem kaufen.",
     "packProduct": "{test} + {extra} weitere Berichte",
-    "allProduct": "Alle Berichte"
+    "allProduct": "Alle Berichte",
+    "perReport": "{price} pro Bericht"
   },
   "couple": {
     "inviteTitle": "Mach diesen Test mit deinem Partner",
@@ -468,5 +475,13 @@
     "title": "Dein Paket",
     "text": "Dein Paket ist jetzt auf diesem Gerät aktiv. Wähle einen Test und dein Bericht wird sofort freigeschaltet.",
     "invalid": "Dieser Link funktioniert nicht. Kontaktiere uns, wir helfen dir."
+  },
+  "share": {
+    "title": "Vergleich dich mit Freunden",
+    "text": "Schick den Test an eine Freundin oder einen Freund und vergleicht eure Ergebnisse. Für sie ist er auch kostenlos.",
+    "button": "Test teilen",
+    "copied": "Link kopiert",
+    "message": "Ich habe gerade den {test} gemacht. Bin gespannt, was bei dir rauskommt!",
+    "messageWithType": "Bei mir kam {type} im {test} raus. Was kommt bei dir raus?"
   }
 }

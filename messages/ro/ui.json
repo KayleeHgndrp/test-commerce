@@ -240,7 +240,12 @@
     "packTitle": "Pachetul tău este activ",
     "packText": "Fă un alt test. Pe pagina de rezultate următorul raport se deblochează imediat, fără să plătești din nou. Rămase: {count}.",
     "allTitle": "Accesul tău complet este activ",
-    "allText": "Fă orice test. Pe pagina de rezultate fiecare raport se deblochează imediat, fără să plătești din nou."
+    "allText": "Fă orice test. Pe pagina de rezultate fiecare raport se deblochează imediat, fără să plătești din nou.",
+    "upgradeTitle": "Vrei să vezi și restul despre tine?",
+    "upgradeText": "Primești toate cele {count} rapoarte pentru doar {price} în plus. Cei {paid} plătiți acum se scad din accesul complet.",
+    "upgradeButton": "Deblochează toate cele {count} pentru {price}",
+    "upgradeNote": "Plată unică, fără abonament. Oferta este valabilă {days} zile după cumpărare.",
+    "upgradeError": "Ceva nu a mers. Încearcă din nou."
   },
   "report": {
     "subject": "Raportul tău: {test}",
@@ -300,7 +305,8 @@
       "Răspunsurile tale sunt prelucrate pentru a-ți calcula rezultatul. Când cumperi un raport, răspunsurile și adresa ta de e-mail sunt transmise procesatorului nostru de plăți, Stripe, și furnizorului nostru de e-mail, pentru a procesa plata și a livra raportul.",
       "Nu îți vindem datele și nu le folosim în scopuri publicitare. Ne poți cere oricând ștergerea datelor tale scriindu-ne la {email}.",
       "Dacă accepți cookie-urile de analiză, folosim Google Analytics pentru a colecta statistici de utilizare, de exemplu ce pagini sunt vizitate. Google poate prelucra aceste date în afara UE în baza EU-US Data Privacy Framework.",
-      "Plățile sunt procesate de Stripe. Nu vedem și nu stocăm niciodată datele cardului tău."
+      "Plățile sunt procesate de Stripe. Nu vedem și nu stocăm niciodată datele cardului tău.",
+      "Dacă ne ceri să-ți trimitem rezultatul pe e-mail, păstrăm adresa ta de e-mail, limba, răspunsurile la test și momentul acordului tău la furnizorul nostru de e-mail Brevo (servere în UE). Le folosim doar ca să-ți trimitem rezultatul, trei e-mailuri scurte în prima săptămână și apoi cel mult un e-mail pe săptămână. Fiecare e-mail are un link de dezabonare, iar după dezabonare nu mai primești e-mailuri de la noi."
     ],
     "termsTitle": "Termeni de utilizare",
     "termsBody": [
@@ -426,7 +432,8 @@
     "passUnlock": "Deblochează gratuit acest raport",
     "passError": "Pachetul tău nu a putut fi folosit pentru acest raport. Îl poți cumpăra în continuare mai jos.",
     "packProduct": "{test} + încă {extra} rapoarte",
-    "allProduct": "Toate rapoartele"
+    "allProduct": "Toate rapoartele",
+    "perReport": "{price} pe raport"
   },
   "couple": {
     "inviteTitle": "Fă acest test cu partenerul tău",
@@ -468,5 +475,13 @@
     "title": "Pachetul tău",
     "text": "Pachetul tău este acum activ pe acest dispozitiv. Alege un test și raportul se deblochează imediat.",
     "invalid": "Acest link nu funcționează. Contactează-ne și te ajutăm."
+  },
+  "share": {
+    "title": "Compară-te cu un prieten",
+    "text": "Trimite testul unui prieten și comparați rezultatele. Și pentru el e gratuit.",
+    "button": "Distribuie testul",
+    "copied": "Link copiat",
+    "message": "Tocmai am făcut {test}. Sunt curios ce îți iese ție!",
+    "messageWithType": "Mi-a ieșit {type} la {test}. Ție ce îți iese?"
   }
 }

@@ -240,7 +240,12 @@
     "packTitle": "Váš balík je aktívny",
     "packText": "Urobte si iný test. Na stránke s výsledkami sa vaša ďalšia správa hneď odomkne, bez ďalšej platby. Zostáva: {count}.",
     "allTitle": "Váš plný prístup je aktívny",
-    "allText": "Urobte si akýkoľvek test. Na stránke s výsledkami sa každá správa hneď odomkne, bez ďalšej platby."
+    "allText": "Urobte si akýkoľvek test. Na stránke s výsledkami sa každá správa hneď odomkne, bez ďalšej platby.",
+    "upgradeTitle": "Chcete vidieť aj zvyšok seba?",
+    "upgradeText": "Získajte všetkých {count} správ len za {price} navyše. Suma {paid}, ktorú ste práve zaplatili, sa započíta do plného prístupu.",
+    "upgradeButton": "Odomknúť všetkých {count} za {price}",
+    "upgradeNote": "Jednorazová platba, bez predplatného. Ponuka platí {days} dní po nákupe.",
+    "upgradeError": "Niečo sa pokazilo. Skúste to znova."
   },
   "report": {
     "subject": "Vaša správa: {test}",
@@ -300,7 +305,8 @@
       "Vaše odpovede spracúvame, aby sme vypočítali váš výsledok. Keď si kúpite správu, vaše odpovede a e-mailovú adresu odovzdáme nášmu poskytovateľovi platieb Stripe a nášmu poskytovateľovi e-mailových služieb, aby sme mohli spracovať platbu a doručiť správu.",
       "Vaše údaje nepredávame a nepoužívame ich na reklamu. Kedykoľvek nás môžete požiadať o ich vymazanie na adrese {email}.",
       "Ak prijmete analytické cookies, používame Google Analytics na zber štatistík používania, napríklad ktoré stránky sa navštevujú. Google môže tieto údaje spracúvať mimo EÚ na základe rámca EU-US Data Privacy Framework.",
-      "Platby spracúva Stripe. Údaje o vašej karte nikdy nevidíme ani neukladáme."
+      "Platby spracúva Stripe. Údaje o vašej karte nikdy nevidíme ani neukladáme.",
+      "Ak nás požiadate o zaslanie výsledku e-mailom, uložíme vašu e-mailovú adresu, jazyk, odpovede v teste a okamih vášho súhlasu u nášho poskytovateľa e-mailov Brevo (servery v EÚ). Používame ich len na to, aby sme vám poslali výsledok, tri krátke nadväzujúce e-maily v prvom týždni a potom najviac jeden e-mail týždenne. Každý e-mail obsahuje odkaz na odhlásenie a po odhlásení od nás už žiadne e-maily nedostanete."
     ],
     "termsTitle": "Podmienky služby",
     "termsBody": [
@@ -426,7 +432,8 @@
     "passUnlock": "Odomknúť túto správu zadarmo",
     "passError": "Váš balík sa nepodarilo použiť pre túto správu. Stále si ju môžete kúpiť nižšie.",
     "packProduct": "{test} + {extra} ďalšie správy",
-    "allProduct": "Všetky správy"
+    "allProduct": "Všetky správy",
+    "perReport": "{price} za správu"
   },
   "couple": {
     "inviteTitle": "Urobte si tento test s partnerom",
@@ -468,5 +475,13 @@
     "title": "Váš balík",
     "text": "Váš balík je teraz aktívny na tomto zariadení. Vyberte test a vaša správa sa hneď odomkne.",
     "invalid": "Tento odkaz nefunguje. Kontaktujte nás a pomôžeme vám."
+  },
+  "share": {
+    "title": "Porovnajte sa s priateľom",
+    "text": "Pošlite test kamarátovi a porovnajte svoje výsledky. Aj pre neho je zadarmo.",
+    "button": "Zdieľať test",
+    "copied": "Odkaz skopírovaný",
+    "message": "Práve som urobil(a) {test}. Som zvedavý/á, čo vyjde tebe!",
+    "messageWithType": "Vyšlo mi {type} v teste {test}. Čo vyjde tebe?"
   }
 }

@@ -240,7 +240,12 @@
     "packTitle": "Vaš paket je aktivan",
     "packText": "Riješite drugi test. Na stranici s rezultatima vaše sljedeće izvješće otključava se odmah, bez ponovnog plaćanja. Preostalo: {count}.",
     "allTitle": "Vaš potpuni pristup je aktivan",
-    "allText": "Riješite bilo koji test. Na stranici s rezultatima svako izvješće otključava se odmah, bez ponovnog plaćanja."
+    "allText": "Riješite bilo koji test. Na stranici s rezultatima svako izvješće otključava se odmah, bez ponovnog plaćanja.",
+    "upgradeTitle": "Želite li vidjeti i ostatak sebe?",
+    "upgradeText": "Dobijte svih {count} izvješća za samo {price} više. Iznos od {paid} koji ste upravo platili uračunava se u puni pristup.",
+    "upgradeButton": "Otključajte svih {count} za {price}",
+    "upgradeNote": "Jednokratno plaćanje, bez pretplate. Ponuda vrijedi {days} dana nakon kupnje.",
+    "upgradeError": "Nešto je pošlo po zlu. Pokušajte ponovno."
   },
   "report": {
     "subject": "Vaše izvješće: {test}",
@@ -300,7 +305,8 @@
       "Vaši se odgovori obrađuju radi izračuna rezultata. Kada kupite izvješće, vaši odgovori i adresa e-pošte prosljeđuju se našem pružatelju usluga plaćanja Stripeu i našem pružatelju usluga e-pošte radi obrade plaćanja i dostave izvješća.",
       "Vaše podatke ne prodajemo i ne koristimo ih za oglašavanje. U bilo kojem trenutku možete zatražiti brisanje svojih podataka slanjem poruke na {email}.",
       "Ako prihvatite analitičke kolačiće, koristimo Google Analytics za prikupljanje statistike korištenja, primjerice koje se stranice posjećuju. Google te podatke može obrađivati izvan EU-a na temelju okvira EU-US Data Privacy Framework.",
-      "Plaćanja obrađuje Stripe. Podatke vaše kartice nikada ne vidimo niti ih pohranjujemo."
+      "Plaćanja obrađuje Stripe. Podatke vaše kartice nikada ne vidimo niti ih pohranjujemo.",
+      "Ako nas zamolite da vam rezultat pošaljemo e-poštom, vašu adresu e-pošte, jezik, odgovore u testu i trenutak vaše privole pohranjujemo kod našeg pružatelja e-pošte Brevo (poslužitelji u EU). Koristimo ih samo da vam pošaljemo rezultat, tri kratka daljnja e-maila u prvom tjednu i nakon toga najviše jedan e-mail tjedno. Svaki e-mail ima poveznicu za odjavu, a nakon odjave od nas više nećete primati e-mailove."
     ],
     "termsTitle": "Uvjeti korištenja",
     "termsBody": [
@@ -426,7 +432,8 @@
     "passUnlock": "Otključajte ovo izvješće besplatno",
     "passError": "Vaš paket nije bilo moguće iskoristiti za ovo izvješće. I dalje ga možete kupiti ispod.",
     "packProduct": "{test} + još {extra} izvješća",
-    "allProduct": "Sva izvješća"
+    "allProduct": "Sva izvješća",
+    "perReport": "{price} po izvješću"
   },
   "couple": {
     "inviteTitle": "Riješite ovaj test s partnerom",
@@ -468,5 +475,13 @@
     "title": "Vaš paket",
     "text": "Vaš paket je sada aktivan na ovom uređaju. Odaberite test i izvješće se odmah otključava.",
     "invalid": "Ova poveznica ne radi. Javite nam se i pomoći ćemo vam."
+  },
+  "share": {
+    "title": "Usporedite se s prijateljem",
+    "text": "Pošaljite test prijatelju i usporedite rezultate. I za njega je besplatan.",
+    "button": "Podijeli test",
+    "copied": "Poveznica kopirana",
+    "message": "Upravo sam riješio/la {test}. Zanima me što ćeš ti dobiti!",
+    "messageWithType": "Dobio/la sam {type} na testu {test}. Što ti dobivaš?"
   }
 }

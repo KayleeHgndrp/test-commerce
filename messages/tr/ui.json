@@ -240,7 +240,12 @@
     "packTitle": "Paketin aktif",
     "packText": "Başka bir test yap. Sonuç sayfasında bir sonraki raporunun kilidi yeniden ödeme yapmadan hemen açılır. Kalan: {count}.",
     "allTitle": "Tam erişim kartın aktif",
-    "allText": "İstediğin testi yap. Sonuç sayfasında her raporun kilidi yeniden ödeme yapmadan hemen açılır."
+    "allText": "İstediğin testi yap. Sonuç sayfasında her raporun kilidi yeniden ödeme yapmadan hemen açılır.",
+    "upgradeTitle": "Kendinin geri kalanını da görmek ister misin?",
+    "upgradeText": "{count} raporun tamamını sadece {price} fazlasına al. Az önce ödediğin {paid} tam erişimden düşülür.",
+    "upgradeButton": "{count} raporun tamamını {price} ile aç",
+    "upgradeNote": "Tek seferlik ödeme, abonelik yok. Teklif satın alımdan sonra {days} gün geçerlidir.",
+    "upgradeError": "Bir şeyler ters gitti. Lütfen tekrar deneyin."
   },
   "report": {
     "subject": "{test} raporunuz",
@@ -300,7 +305,8 @@
       "Yanıtlarınız sonucunuzu hesaplamak için işlenir. Bir rapor satın aldığınızda, ödemenin işlenmesi ve raporun teslim edilmesi amacıyla yanıtlarınız ve e-posta adresiniz ödeme sağlayıcımız Stripe'a ve e-posta sağlayıcımıza aktarılır.",
       "Verilerinizi satmıyor ve reklam amacıyla kullanmıyoruz. {email} adresinden bize ulaşarak verilerinizin silinmesini istediğiniz zaman talep edebilirsiniz.",
       "Analiz çerezlerini kabul edersen, hangi sayfaların ziyaret edildiği gibi kullanım istatistiklerini toplamak için Google Analytics kullanırız. Google bu verileri EU-US Data Privacy Framework kapsamında AB dışında işleyebilir.",
-      "Ödemeler Stripe tarafından işlenir. Kart bilgilerinizi asla görmez ve saklamayız."
+      "Ödemeler Stripe tarafından işlenir. Kart bilgilerinizi asla görmez ve saklamayız.",
+      "Sonucunuzu e-postayla göndermemizi isterseniz, e-posta adresinizi, dilinizi, test cevaplarınızı ve onay verdiğiniz anı e-posta sağlayıcımız Brevo'da (AB'deki sunucular) saklarız. Bunları yalnızca size sonucunuzu, ilk hafta üç kısa takip e-postasını ve sonrasında haftada en fazla bir e-postayı göndermek için kullanırız. Her e-postada abonelikten çıkma bağlantısı vardır ve çıktıktan sonra bizden başka e-posta almazsınız."
     ],
     "termsTitle": "Hizmet şartları",
     "termsBody": [
@@ -426,7 +432,8 @@
     "passUnlock": "Bu raporun kilidini ücretsiz aç",
     "passError": "Paketin bu rapor için kullanılamadı. Raporu yine de aşağıdan satın alabilirsin.",
     "packProduct": "{test} + {extra} rapor daha",
-    "allProduct": "Tüm raporlar"
+    "allProduct": "Tüm raporlar",
+    "perReport": "Rapor başına {price}"
   },
   "couple": {
     "inviteTitle": "Bu testi partnerinle yap",
@@ -468,5 +475,13 @@
     "title": "Paketin",
     "text": "Paketin artık bu cihazda aktif. Bir test seç, raporunun kilidi hemen açılır.",
     "invalid": "Bu bağlantı çalışmıyor. Bize ulaş, yardımcı olalım."
+  },
+  "share": {
+    "title": "Bir arkadaşınla karşılaştır",
+    "text": "Testi bir arkadaşına gönder ve sonuçlarınızı karşılaştırın. Onun için de ücretsiz.",
+    "button": "Testi paylaş",
+    "copied": "Bağlantı kopyalandı",
+    "message": "Az önce {test} testini yaptım. Senin sonucunu çok merak ediyorum!",
+    "messageWithType": "{test} testinde {type} çıktım. Sen ne çıktın?"
   }
 }

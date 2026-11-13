@@ -240,7 +240,12 @@
     "packTitle": "O teu pacote está ativo",
     "packText": "Faz outro teste. Na página de resultados o teu próximo relatório é desbloqueado de imediato, sem pagar outra vez. Restantes: {count}.",
     "allTitle": "O teu passe total está ativo",
-    "allText": "Faz o teste que quiseres. Na página de resultados cada relatório é desbloqueado de imediato, sem pagar outra vez."
+    "allText": "Faz o teste que quiseres. Na página de resultados cada relatório é desbloqueado de imediato, sem pagar outra vez.",
+    "upgradeTitle": "Queres ver o resto de ti?",
+    "upgradeText": "Obtém todos os {count} relatórios por apenas mais {price}. Os {paid} que acabaste de pagar contam para o passe completo.",
+    "upgradeButton": "Desbloquear os {count} por {price}",
+    "upgradeNote": "Pagamento único, sem subscrição. A oferta é válida {days} dias após a compra.",
+    "upgradeError": "Algo correu mal. Tenta novamente."
   },
   "report": {
     "subject": "O teu relatório: {test}",
@@ -300,7 +305,8 @@
       "As tuas respostas são tratadas para calcular o teu resultado. Quando compras um relatório, as tuas respostas e o teu endereço de e-mail são transmitidos ao nosso prestador de pagamentos, a Stripe, e ao nosso prestador de e-mail, para processar o pagamento e entregar o relatório.",
       "Não vendemos os teus dados nem os usamos para publicidade. Podes pedir-nos a qualquer momento que eliminemos os teus dados, contactando {email}.",
       "Se aceitar cookies analíticos, usamos o Google Analytics para recolher estatísticas de utilização, como as páginas visitadas. A Google pode tratar estes dados fora da UE ao abrigo do Data Privacy Framework UE-EUA.",
-      "Os pagamentos são processados pela Stripe. Nunca vemos nem guardamos os dados do teu cartão."
+      "Os pagamentos são processados pela Stripe. Nunca vemos nem guardamos os dados do teu cartão.",
+      "Se nos pedires para te enviarmos o resultado por email, guardamos o teu endereço de email, idioma, respostas ao teste e o momento do teu consentimento no nosso fornecedor de email Brevo (servidores na UE). Usamos estes dados apenas para te enviar o resultado, três emails curtos de seguimento na primeira semana e depois no máximo um email por semana. Cada email tem um link para cancelar a subscrição e, depois de cancelares, não recebes mais emails nossos."
     ],
     "termsTitle": "Termos de serviço",
     "termsBody": [
@@ -426,7 +432,8 @@
     "passUnlock": "Desbloquear este relatório grátis",
     "passError": "Não foi possível usar o teu pacote para este relatório. Ainda o podes comprar abaixo.",
     "packProduct": "{test} + {extra} relatórios extra",
-    "allProduct": "Todos os relatórios"
+    "allProduct": "Todos os relatórios",
+    "perReport": "{price} por relatório"
   },
   "couple": {
     "inviteTitle": "Faz este teste com o teu par",
@@ -468,5 +475,13 @@
     "title": "O teu pacote",
     "text": "O teu pacote está agora ativo neste dispositivo. Escolhe um teste e o teu relatório é desbloqueado de imediato.",
     "invalid": "Este link não funciona. Contacta-nos e nós ajudamos."
+  },
+  "share": {
+    "title": "Compara com um amigo",
+    "text": "Envia o teste a um amigo e comparem os resultados. Também é gratuito para ele.",
+    "button": "Partilhar o teste",
+    "copied": "Link copiado",
+    "message": "Acabei de fazer o {test}. Curioso para ver o que te sai!",
+    "messageWithType": "Saiu-me {type} no {test}. E a ti, o que sai?"
   }
 }

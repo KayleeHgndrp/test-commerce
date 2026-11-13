@@ -240,7 +240,12 @@
     "packTitle": "Ton pack est actif",
     "packText": "Fais un autre test. Sur la page de résultat, ton prochain rapport se débloque tout de suite, sans payer à nouveau. Restant : {count}.",
     "allTitle": "Ton pass complet est actif",
-    "allText": "Fais le test de ton choix. Sur la page de résultat, chaque rapport se débloque tout de suite, sans payer à nouveau."
+    "allText": "Fais le test de ton choix. Sur la page de résultat, chaque rapport se débloque tout de suite, sans payer à nouveau.",
+    "upgradeTitle": "Envie de découvrir le reste de vous ?",
+    "upgradeText": "Obtenez les {count} rapports pour seulement {price} de plus. Les {paid} que vous venez de payer sont déduits du pass complet.",
+    "upgradeButton": "Débloquer les {count} pour {price}",
+    "upgradeNote": "Paiement unique, sans abonnement. Offre valable {days} jours après votre achat.",
+    "upgradeError": "Un problème est survenu. Veuillez réessayer."
   },
   "report": {
     "subject": "Votre rapport : {test}",
@@ -300,7 +305,8 @@
       "Vos réponses sont traitées pour calculer votre résultat. Lorsque vous achetez un rapport, vos réponses et votre adresse e-mail sont transmises à notre prestataire de paiement Stripe et à notre prestataire d'e-mail afin de traiter le paiement et de livrer le rapport.",
       "Nous ne vendons pas vos données et ne les utilisons pas à des fins publicitaires. Vous pouvez à tout moment nous demander de supprimer vos données en nous écrivant à {email}.",
       "Si vous acceptez les cookies d'analyse, nous utilisons Google Analytics pour recueillir des statistiques d'utilisation, par exemple les pages visitées. Google peut traiter ces données hors de l'UE dans le cadre du Data Privacy Framework UE-États-Unis.",
-      "Les paiements sont gérés par Stripe. Nous ne voyons ni ne conservons jamais les données de votre carte."
+      "Les paiements sont gérés par Stripe. Nous ne voyons ni ne conservons jamais les données de votre carte.",
+      "Si vous nous demandez de vous envoyer votre résultat par e-mail, nous conservons votre adresse e-mail, votre langue, vos réponses au test et le moment de votre consentement chez notre prestataire d'e-mails Brevo (serveurs dans l'UE). Nous les utilisons uniquement pour vous envoyer votre résultat, trois courts e-mails de suivi la première semaine, puis au maximum un e-mail par semaine. Chaque e-mail contient un lien de désinscription, et après votre désinscription vous ne recevez plus d'e-mails de notre part."
     ],
     "termsTitle": "Conditions d'utilisation",
     "termsBody": [
@@ -426,7 +432,8 @@
     "passUnlock": "Débloquer ce rapport gratuitement",
     "passError": "Ton pack n'a pas pu être utilisé pour ce rapport. Tu peux toujours l'acheter ci-dessous.",
     "packProduct": "{test} + {extra} rapports en plus",
-    "allProduct": "Tous les rapports"
+    "allProduct": "Tous les rapports",
+    "perReport": "{price} par rapport"
   },
   "couple": {
     "inviteTitle": "Fais ce test avec ton ou ta partenaire",
@@ -468,5 +475,13 @@
     "title": "Ton pack",
     "text": "Ton pack est maintenant actif sur cet appareil. Choisis un test et ton rapport se débloque tout de suite.",
     "invalid": "Ce lien ne fonctionne pas. Contacte-nous et nous t'aiderons."
+  },
+  "share": {
+    "title": "Comparez avec un ami",
+    "text": "Envoyez le test à un ami et comparez vos résultats. C’est gratuit pour lui aussi.",
+    "button": "Partager le test",
+    "copied": "Lien copié",
+    "message": "Je viens de faire le {test}. Curieux de voir ce que tu obtiens !",
+    "messageWithType": "J’ai obtenu {type} au {test}. Et toi ?"
   }
 }

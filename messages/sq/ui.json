@@ -240,7 +240,12 @@
     "packTitle": "Paketa jote është aktive",
     "packText": "Bëj një test tjetër. Në faqen e rezultateve raporti yt i radhës zhbllokohet menjëherë, pa paguar përsëri. Të mbetura: {count}.",
     "allTitle": "Qasja jote e plotë është aktive",
-    "allText": "Bëj cilindo test. Në faqen e rezultateve çdo raport zhbllokohet menjëherë, pa paguar përsëri."
+    "allText": "Bëj cilindo test. Në faqen e rezultateve çdo raport zhbllokohet menjëherë, pa paguar përsëri.",
+    "upgradeTitle": "Do ta shohësh edhe pjesën tjetër të vetes?",
+    "upgradeText": "Merr të gjitha {count} raportet për vetëm {price} më shumë. {paid} që sapo pagove llogariten për kalimin e plotë.",
+    "upgradeButton": "Zhblloko të gjitha {count} për {price}",
+    "upgradeNote": "Pagesë e vetme, pa abonim. Oferta vlen {days} ditë pas blerjes.",
+    "upgradeError": "Diçka shkoi keq. Provo përsëri."
   },
   "report": {
     "subject": "Raporti yt: {test}",
@@ -300,7 +305,8 @@
       "Përgjigjet e tua përpunohen për të llogaritur rezultatin. Kur blen një raport, përgjigjet dhe adresa jote e emailit u kalohen ofruesit tonë të pagesave Stripe dhe ofruesit tonë të emailit, me qëllim përpunimin e pagesës dhe dërgimin e raportit.",
       "Nuk i shesim të dhënat e tua dhe nuk i përdorim për reklama. Mund të kërkosh në çdo kohë fshirjen e të dhënave duke na kontaktuar në {email}.",
       "Nëse pranon cookie-t analitike, përdorim Google Analytics për të mbledhur statistika përdorimi, si p.sh. cilat faqe vizitohen. Google mund t'i përpunojë këto të dhëna jashtë BE-së sipas EU-US Data Privacy Framework.",
-      "Pagesat përpunohen nga Stripe. Ne nuk i shohim dhe nuk i ruajmë kurrë të dhënat e kartës sate."
+      "Pagesat përpunohen nga Stripe. Ne nuk i shohim dhe nuk i ruajmë kurrë të dhënat e kartës sate.",
+      "Nëse na kërkon të të dërgojmë rezultatin me email, ruajmë adresën tënde të email-it, gjuhën, përgjigjet e testit dhe momentin e pëlqimit tënd te ofruesi ynë i email-it Brevo (serverë në BE). I përdorim vetëm për të të dërguar rezultatin, tre email të shkurtër vijues në javën e parë dhe më pas më së shumti një email në javë. Çdo email ka një lidhje çregjistrimi dhe pas çregjistrimit nuk do të marrësh më email nga ne."
     ],
     "termsTitle": "Kushtet e shërbimit",
     "termsBody": [
@@ -426,7 +432,8 @@
     "passUnlock": "Zhblloko këtë raport falas",
     "passError": "Paketa jote nuk mund të përdorej për këtë raport. Mund ta blesh ende më poshtë.",
     "packProduct": "{test} + {extra} raporte të tjera",
-    "allProduct": "Të gjitha raportet"
+    "allProduct": "Të gjitha raportet",
+    "perReport": "{price} për raport"
   },
   "couple": {
     "inviteTitle": "Bëje këtë test me partnerin",
@@ -468,5 +475,13 @@
     "title": "Paketa jote",
     "text": "Paketa jote tani është aktive në këtë pajisje. Zgjidh një test dhe raporti zhbllokohet menjëherë.",
     "invalid": "Kjo lidhje nuk funksionon. Na kontakto dhe do të të ndihmojmë."
+  },
+  "share": {
+    "title": "Krahasohu me një mik",
+    "text": "Dërgoja testin një miku dhe krahasoni rezultatet. Edhe për të është falas.",
+    "button": "Ndaj testin",
+    "copied": "Lidhja u kopjua",
+    "message": "Sapo bëra {test}. Kurioz të shoh çfarë të del ty!",
+    "messageWithType": "Mua më doli {type} te {test}. Ty çfarë të del?"
   }
 }

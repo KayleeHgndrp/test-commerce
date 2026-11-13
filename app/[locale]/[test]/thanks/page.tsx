@@ -3,15 +3,17 @@ import { Suspense } from "react";
 import { CoupleInvite } from "@/components/CoupleInvite";
 import { PassSaver } from "@/components/PassSaver";
 import { ReportView } from "@/components/ReportView";
+import { ShareTest } from "@/components/ShareTest";
 import { TestCard } from "@/components/TestCard";
 import { TrackPurchase } from "@/components/TrackPurchase";
-import { deliverOnce, retrievePaidOrder, retrievePass } from "@/lib/delivery";
+import { UpgradeOffer } from "@/components/UpgradeOffer";
+import { deliverOnce, retrievePaidOrder, retrievePass, upgradeAllowed } from "@/lib/delivery";
 import type { Locale } from "@/lib/i18n/locales";
 import { allDefinitions, fmt, getDefinition, getTestText, type UiMessages } from "@/lib/i18n/messages";
 import { buildCoupleReport, buildReport } from "@/lib/report/render";
-import { site } from "@/lib/site";
+import { formatPrice, site, upgradePriceCents } from "@/lib/site";
 import { loadTestPage, testStaticParams } from "@/lib/tests/params";
-import { decodeAnswers } from "@/lib/tests/scoring";
+import { decodeAnswers, encodeAnswers } from "@/lib/tests/scoring";
 
 export const generateStaticParams = testStaticParams;
 // Every test page is fully prerendered per locale/test, so blocking on params costs nothing.
@@ -74,8 +76,29 @@ async function PaidReport({ locale, slug, thanks, searchParams }: { locale: Loca
         </>
       )}
       <ReportView report={await buildReport(locale, slug, answers)} />
+      {order && upgradeAllowed(order, slug) && (
+        <UpgradeOffer
+          locale={locale}
+          slug={slug}
+          sessionId={order.session.id}
+          answers={encodeAnswers(answers)}
+          gender={order.session.metadata.gender ?? "other"}
+          ui={upgradeTexts(locale, thanks, order.session.amount_total ?? site.priceCents)}
+        />
+      )}
     </div>
   );
+}
+
+function upgradeTexts(locale: Locale, thanks: UiMessages["thanks"], paidCents: number) {
+  const vars = { count: allDefinitions.length, price: formatPrice(locale, upgradePriceCents(paidCents)), paid: formatPrice(locale, paidCents) };
+  return {
+    title: thanks.upgradeTitle,
+    text: fmt(thanks.upgradeText, vars),
+    button: fmt(thanks.upgradeButton, vars),
+    note: fmt(thanks.upgradeNote, { days: site.upgradeDays }),
+    error: thanks.upgradeError,
+  };
 }
 
 function PassStatus({ plan, remaining, thanks }: { plan: string; remaining: number; thanks: UiMessages["thanks"] }) {
@@ -104,7 +127,11 @@ export default async function ThanksPage({ params, searchParams }: PageProps<"/[
         <Suspense fallback={<div className="mt-10 h-40 animate-pulse rounded-2xl bg-background" />}>
           <PaidReport locale={locale} slug={def.slug} thanks={ui.thanks} searchParams={searchParams} />
         </Suspense>
-        {site.coupleTests.includes(def.slug) && <CoupleInvite locale={locale} slug={def.slug} testName={text.name} ui={ui.couple} />}
+        {site.coupleTests.includes(def.slug) ? (
+          <CoupleInvite locale={locale} slug={def.slug} testName={text.name} ui={ui.couple} />
+        ) : (
+          <ShareTest locale={locale} slug={def.slug} testName={text.name} ui={ui.share} />
+        )}
         {related.length > 0 && (
           <section className="mt-12">
             <h2 className="mb-4 text-xl font-semibold">{ui.test.otherTests}</h2>

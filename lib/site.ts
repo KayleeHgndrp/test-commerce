@@ -23,6 +23,9 @@ export const site = {
   // Couple report that compares two people who took the same test.
   couplePriceCents: Number(process.env.NEXT_PUBLIC_COUPLE_PRICE_CENTS ?? 595),
   coupleTests: ["attachment", "love-style", "big-five"],
+  // Days after buying one report during which it can be upgraded to the all-access
+  // pass for the difference.
+  upgradeDays: 7,
   // Affiliate commission on the net revenue (excl. VAT and Stripe fees) of a referred sale.
   affiliateShare: 0.5,
   affiliateDays: 60,
@@ -37,3 +40,6 @@ export function formatPrice(locale: string, cents = site.priceCents) {
     cents / 100,
   );
 }
+
+// Price of the all-access pass for someone who just paid paidCents for one report.
+export const upgradePriceCents = (paidCents: number) => Math.max(site.allPriceCents - paidCents, Math.round(site.allPriceCents / 2));

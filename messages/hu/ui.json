@@ -240,7 +240,12 @@
     "packTitle": "A csomagod aktív",
     "packText": "Csinálj meg egy másik tesztet. Az eredményoldalon a következő értékelésed azonnal feloldódik, újabb fizetés nélkül. Hátralévő: {count}.",
     "allTitle": "A teljes hozzáférésed aktív",
-    "allText": "Csinálj meg bármelyik tesztet. Az eredményoldalon minden értékelés azonnal feloldódik, újabb fizetés nélkül."
+    "allText": "Csinálj meg bármelyik tesztet. Az eredményoldalon minden értékelés azonnal feloldódik, újabb fizetés nélkül.",
+    "upgradeTitle": "Szeretnéd a többit is látni magadról?",
+    "upgradeText": "Mind a {count} jelentést megkapod mindössze {price} különbözetért. Az imént kifizetett {paid} beleszámít a teljes bérletbe.",
+    "upgradeButton": "Mind a {count} feloldása {price} áron",
+    "upgradeNote": "Egyszeri fizetés, előfizetés nélkül. Az ajánlat a vásárlás után {days} napig érvényes.",
+    "upgradeError": "Hiba történt. Próbáld újra."
   },
   "report": {
     "subject": "Az értékelésed: {test}",
@@ -300,7 +305,8 @@
       "A válaszaidat az eredményed kiszámításához dolgozzuk fel. Ha értékelést vásárolsz, a válaszaidat és az e-mail-címedet továbbítjuk fizetési szolgáltatónknak, a Stripe-nak, valamint e-mail-szolgáltatónknak a fizetés lebonyolítása és az értékelés kézbesítése érdekében.",
       "Az adataidat nem adjuk el, és nem használjuk fel reklámcélokra. Bármikor kérheted adataid törlését a(z) {email} címen.",
       "Ha elfogadod az analitikai sütiket, a Google Analytics segítségével használati statisztikákat gyűjtünk, például hogy mely oldalakat látogatják. A Google ezeket az adatokat az EU-n kívül is kezelheti az EU-US Data Privacy Framework alapján.",
-      "A fizetéseket a Stripe kezeli. A kártyaadataidat soha nem látjuk és nem tároljuk."
+      "A fizetéseket a Stripe kezeli. A kártyaadataidat soha nem látjuk és nem tároljuk.",
+      "Ha azt kéred, hogy e-mailben küldjük el az eredményed, az e-mail-címedet, a nyelvet, a teszten adott válaszaidat és a hozzájárulásod időpontját e-mail-szolgáltatónknál, a Brevónál tároljuk (EU-s szerverek). Ezeket csak arra használjuk, hogy elküldjük az eredményed, az első héten három rövid további e-mailt, utána pedig legfeljebb heti egy e-mailt. Minden e-mailben van leiratkozási link, és leiratkozás után nem kapsz tőlünk több e-mailt."
     ],
     "termsTitle": "Felhasználási feltételek",
     "termsBody": [
@@ -426,7 +432,8 @@
     "passUnlock": "Értékelés feloldása ingyen",
     "passError": "A csomagodat nem sikerült felhasználni ehhez az értékeléshez. Lent továbbra is megveheted.",
     "packProduct": "{test} + még {extra} értékelés",
-    "allProduct": "Az összes értékelés"
+    "allProduct": "Az összes értékelés",
+    "perReport": "{price} jelentésenként"
   },
   "couple": {
     "inviteTitle": "Csináld meg ezt a tesztet a pároddal",
@@ -468,5 +475,13 @@
     "title": "A csomagod",
     "text": "A csomagod most már aktív ezen az eszközön. Válassz egy tesztet, és az értékelésed azonnal feloldódik.",
     "invalid": "Ez a link nem működik. Írj nekünk, és segítünk."
+  },
+  "share": {
+    "title": "Hasonlítsd össze egy baráttal",
+    "text": "Küldd el a tesztet egy barátodnak, és hasonlítsátok össze az eredményeiteket. Neki is ingyenes.",
+    "button": "Teszt megosztása",
+    "copied": "Link kimásolva",
+    "message": "Most csináltam meg a(z) {test} tesztet. Kíváncsi vagyok, neked mi jön ki!",
+    "messageWithType": "Nekem {type} jött ki a(z) {test} teszten. Neked mi?"
   }
 }

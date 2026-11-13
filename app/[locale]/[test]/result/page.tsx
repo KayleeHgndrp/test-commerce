@@ -1,6 +1,8 @@
 import { CoupleInvite } from "@/components/CoupleInvite";
 import { ResultPreview } from "@/components/ResultPreview";
-import { allDefinitions, fmt } from "@/lib/i18n/messages";
+import { brevoEnabled } from "@/lib/brevo";
+import { emailFlowAllowed } from "@/lib/emailFlow";
+import { allDefinitions, fmt, getEmailMessages } from "@/lib/i18n/messages";
 import { formatPrice, site } from "@/lib/site";
 import { loadTestPage, testStaticParams } from "@/lib/tests/params";
 
@@ -30,6 +32,8 @@ export default async function ResultPage({ params }: PageProps<"/[locale]/[test]
       teasers[key] = { name: def.outcome === "axes" ? `${key}: ${t.name}` : t.name, text: firstSentence(t.text) };
     }
   }
+  // Without a Brevo key nothing would be sent, so the opt-ins stay hidden until email is set up.
+  const email = brevoEnabled() && emailFlowAllowed(def) ? await getEmailMessages(locale) : null;
   return (
     <ResultPreview
       locale={locale}
@@ -43,9 +47,17 @@ export default async function ResultPage({ params }: PageProps<"/[locale]/[test]
       packSave={site.packSize * site.priceCents > site.packPriceCents ? formatPrice(locale, site.packSize * site.priceCents - site.packPriceCents) : null}
       allPrice={formatPrice(locale, site.allPriceCents)}
       allCount={allDefinitions.length}
+      packPer={formatPrice(locale, Math.round(site.packPriceCents / site.packSize))}
+      allPer={formatPrice(locale, Math.round(site.allPriceCents / allDefinitions.length))}
+      shareUi={ui.share}
+      shareType={emailFlowAllowed(def)}
+      // Couple tests already invite the partner, so they skip the general share card.
+      showShare={!site.coupleTests.includes(def.slug)}
       includes={[fmt(ui.test.whatYouGet1, { dimensions: dimensionNames.join(", ") }), ui.test.whatYouGet2, ui.test.whatYouGet3]}
       ui={ui.result}
       plansUi={ui.plans}
+      optin={email?.optin ?? null}
+      checkoutOptin={email?.checkoutOptin ?? null}
     >
       {site.coupleTests.includes(def.slug) && <CoupleInvite locale={locale} slug={def.slug} testName={text.name} ui={ui.couple} />}
     </ResultPreview>

@@ -1,4 +1,5 @@
 import { fromAddress, sendEmail } from "@/lib/email";
+import { onPurchase } from "@/lib/emailFlow";
 import { hasLocale, type Locale } from "@/lib/i18n/locales";
 import { allDefinitions, fmt, getDefinition, getUi } from "@/lib/i18n/messages";
 import { renderCoupleReport, renderReport } from "@/lib/report/render";
@@ -47,6 +48,12 @@ export function paidOrder(session: CheckoutSession): PaidOrder | null {
     order.partner = { answers: partner, name: partner_name ?? "" };
   }
   return order;
+}
+
+// A single report bought in the last few days on this test can be upgraded once
+// to the all-access pass (the upgrade itself is a plan "all" order).
+export function upgradeAllowed(order: PaidOrder, slug: string) {
+  return order.plan === "single" && !order.partner && order.slug === slug && Date.now() / 1000 - order.session.created < site.upgradeDays * 86400;
 }
 
 export async function retrievePaidOrder(sessionId: string) {
@@ -115,6 +122,7 @@ export async function deliverOnce(order: PaidOrder) {
     await alertDeliveryFailure(order, error);
     throw error;
   }
+  await onPurchase(order).catch((error) => console.error("[email-flow] could not update contact", error));
 }
 
 // A paid order that never arrives is the worst failure this app has: the customer

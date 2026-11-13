@@ -1,9 +1,11 @@
 import { definitions, messageLoaders } from "@/lib/generated/registry";
 import type { TestDefinition, TestText } from "@/lib/tests/types";
 import { defaultLocale, type Locale } from "./locales";
+import type enEmail from "@/messages/en/email.json";
 import type enUi from "@/messages/en/ui.json";
 
 export type UiMessages = typeof enUi;
+export type EmailMessages = typeof enEmail;
 
 type Json = Record<string, unknown>;
 
@@ -30,6 +32,8 @@ async function load<T>(locale: Locale, file: string): Promise<T> {
 }
 
 export const getUi = (locale: Locale) => load<UiMessages>(locale, "ui");
+
+export const getEmailMessages = (locale: Locale) => load<EmailMessages>(locale, "email");
 
 export const getTestText = (locale: Locale, slug: string) => load<TestText>(locale, `tests/${slug}`);
 

@@ -240,7 +240,12 @@
     "packTitle": "Twój pakiet jest aktywny",
     "packText": "Zrób inny test. Na stronie wyników kolejny raport odblokuje się od razu, bez ponownej płatności. Pozostało: {count}.",
     "allTitle": "Twój pełny dostęp jest aktywny",
-    "allText": "Zrób dowolny test. Na stronie wyników każdy raport odblokuje się od razu, bez ponownej płatności."
+    "allText": "Zrób dowolny test. Na stronie wyników każdy raport odblokuje się od razu, bez ponownej płatności.",
+    "upgradeTitle": "Chcesz zobaczyć resztę siebie?",
+    "upgradeText": "Odbierz wszystkie {count} raporty za jedyne {price} więcej. Zapłacone właśnie {paid} wliczamy w pełny dostęp.",
+    "upgradeButton": "Odblokuj wszystkie {count} za {price}",
+    "upgradeNote": "Jednorazowa płatność, bez subskrypcji. Oferta ważna {days} dni od zakupu.",
+    "upgradeError": "Coś poszło nie tak. Spróbuj ponownie."
   },
   "report": {
     "subject": "Twój raport: {test}",
@@ -300,7 +305,8 @@
       "Twoje odpowiedzi są przetwarzane w celu obliczenia wyniku. Gdy kupujesz raport, Twoje odpowiedzi i adres e-mail są przekazywane naszemu operatorowi płatności Stripe oraz dostawcy usług e-mail w celu realizacji płatności i dostarczenia raportu.",
       "Nie sprzedajemy Twoich danych i nie wykorzystujemy ich do celów reklamowych. W każdej chwili możesz poprosić o usunięcie swoich danych, pisząc na {email}.",
       "Jeśli zaakceptujesz analityczne pliki cookie, używamy Google Analytics do zbierania statystyk korzystania, na przykład które strony są odwiedzane. Google może przetwarzać te dane poza UE na podstawie EU-US Data Privacy Framework.",
-      "Płatności obsługuje Stripe. Nigdy nie widzimy ani nie przechowujemy danych Twojej karty."
+      "Płatności obsługuje Stripe. Nigdy nie widzimy ani nie przechowujemy danych Twojej karty.",
+      "Jeśli poprosisz nas o przesłanie wyniku mailem, przechowujemy Twój adres e-mail, język, odpowiedzi z testu i moment udzielenia zgody u naszego dostawcy poczty Brevo (serwery w UE). Używamy ich wyłącznie do wysłania Ci wyniku, trzech krótkich maili w pierwszym tygodniu, a potem najwyżej jednego maila tygodniowo. Każdy mail zawiera link do wypisania się, a po wypisaniu nie dostaniesz od nas więcej maili."
     ],
     "termsTitle": "Warunki korzystania z usługi",
     "termsBody": [
@@ -426,7 +432,8 @@
     "passUnlock": "Odblokuj ten raport za darmo",
     "passError": "Nie udało się użyć pakietu dla tego raportu. Nadal możesz go kupić poniżej.",
     "packProduct": "{test} + {extra} kolejne raporty",
-    "allProduct": "Wszystkie raporty"
+    "allProduct": "Wszystkie raporty",
+    "perReport": "{price} za raport"
   },
   "couple": {
     "inviteTitle": "Zrób ten test z partnerem",
@@ -468,5 +475,13 @@
     "title": "Twój pakiet",
     "text": "Twój pakiet jest teraz aktywny na tym urządzeniu. Wybierz test, a raport odblokuje się od razu.",
     "invalid": "Ten link nie działa. Skontaktuj się z nami, pomożemy."
+  },
+  "share": {
+    "title": "Porównaj się z przyjacielem",
+    "text": "Wyślij test znajomemu i porównajcie wyniki. Dla niego też jest darmowy.",
+    "button": "Udostępnij test",
+    "copied": "Link skopiowany",
+    "message": "Właśnie zrobiłem/am {test}. Ciekawe, co wyjdzie Tobie!",
+    "messageWithType": "Wyszło mi {type} w teście {test}. A Tobie?"
   }
 }
