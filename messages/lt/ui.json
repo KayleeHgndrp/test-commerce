@@ -424,7 +424,7 @@
     "single": "Ši ataskaita",
     "pack": "3 ataskaitos",
     "packNote": "Ši ir dar 2 jūsų pasirinkti testai",
-    "all": "Visos ataskaitos ({count})",
+    "all": "Visos ataskaitos",
     "allNote": "Kiekvienas svetainės testas, atrakinkite juos, kada norite",
     "save": "Sutaupykite {amount}",
     "passPack": "Jūsų pakete liko ataskaitų: {count}",
@@ -432,7 +432,7 @@
     "passUnlock": "Atrakinti šią ataskaitą nemokamai",
     "passError": "Jūsų paketo nepavyko panaudoti šiai ataskaitai. Vis tiek galite ją įsigyti žemiau.",
     "packProduct": "{test} + dar {extra} ataskaitos",
-    "allProduct": "Visos ataskaitos ({count})",
+    "allProduct": "Visos ataskaitos",
     "perReport": "{price} už ataskaitą"
   },
   "couple": {

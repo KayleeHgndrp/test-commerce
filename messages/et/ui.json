@@ -424,7 +424,7 @@
     "single": "See raport",
     "pack": "3 raportti",
     "packNote": "See ja 2 teist valitud testi",
-    "all": "Kõik {count} raportit",
+    "all": "Kõik raportid",
     "allNote": "Iga test lehel, ava need siis, kui soovid",
     "save": "Säästad {amount}",
     "passPack": "Sinu paketis on alles {count} raportit",
@@ -432,7 +432,7 @@
     "passUnlock": "Ava see raport tasuta",
     "passError": "Sinu paketti ei saanud selle raporti jaoks kasutada. Saad selle siiski allpool osta.",
     "packProduct": "{test} + veel {extra} raportit",
-    "allProduct": "Kõik {count} raportit",
+    "allProduct": "Kõik raportid",
     "perReport": "{price} raporti kohta"
   },
   "couple": {

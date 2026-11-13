@@ -424,7 +424,7 @@
     "single": "Dit rapport",
     "pack": "3 rapporten",
     "packNote": "Dit rapport plus 2 andere tests naar keuze",
-    "all": "Alle {count} rapporten",
+    "all": "Alle rapporten",
     "allNote": "Elke test op de site, ontgrendel ze wanneer je wilt",
     "save": "Bespaar {amount}",
     "passPack": "Je pakket heeft nog {count} rapporten",
@@ -432,7 +432,7 @@
     "passUnlock": "Ontgrendel dit rapport gratis",
     "passError": "Je pakket kon niet worden gebruikt voor dit rapport. Je kunt het hieronder nog steeds kopen.",
     "packProduct": "{test} + {extra} extra rapporten",
-    "allProduct": "Alle {count} rapporten",
+    "allProduct": "Alle rapporten",
     "perReport": "{price} per rapport"
   },
   "couple": {

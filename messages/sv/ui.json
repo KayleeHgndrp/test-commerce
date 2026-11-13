@@ -424,7 +424,7 @@
     "single": "Den här rapporten",
     "pack": "3 rapporter",
     "packNote": "Den här plus 2 andra tester du väljer",
-    "all": "Alla {count} rapporter",
+    "all": "Alla rapporter",
     "allNote": "Varje test på sajten, lås upp dem när du vill",
     "save": "Spara {amount}",
     "passPack": "Ditt paket har {count} rapporter kvar",
@@ -432,7 +432,7 @@
     "passUnlock": "Lås upp den här rapporten gratis",
     "passError": "Ditt paket kunde inte användas för den här rapporten. Du kan fortfarande köpa den nedan.",
     "packProduct": "{test} + {extra} rapporter till",
-    "allProduct": "Alla {count} rapporter",
+    "allProduct": "Alla rapporter",
     "perReport": "{price} per rapport"
   },
   "couple": {

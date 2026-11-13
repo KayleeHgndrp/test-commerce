@@ -32,7 +32,7 @@ straight away. Without `SMTP_HOST` the email is logged to the console instead.
 - `content/tests.json` – which tests are shown, in which order
 - `scripts/gen-registry.mjs` – generates `lib/generated/registry.ts` (runs automatically before dev/build)
 - `npm run check:content` – validates every definition and translation (counts, keys, placeholders)
-- `lib/tests/scoring.ts` – scoring, incl. 16-types code, attachment style, political quadrant, PHQ-9/PCL-5
+- `lib/tests/scoring.ts` – scoring, incl. 16-types code, attachment style, political quadrant, PHQ-9/GAD-7/PCL-5
 - `app/api/checkout` – creates a Stripe Checkout session; answers travel in the session metadata (no database)
 - `app/api/stripe/webhook` – on payment renders the report (`lib/report/render.ts`) and emails it over SMTP
 - `/[locale]/[test]/thanks?session_id=…` – verifies the payment with Stripe, shows the full report on the page and
@@ -79,8 +79,8 @@ See `docs/CONTENT_SPEC.md` for the content format.
 - Company details in `COMPANY_*` (legal notice / Impressum, mandatory in DE/AT) and `NEXT_PUBLIC_COMPANY_DETAILS`.
 - Review the privacy policy, terms, cookie and refund texts (`messages/*/ui.json` → `legal`).
 - Checkout consent includes the EU waiver of the right of withdrawal for immediately delivered digital content.
-- Have the PHQ-9 and PCL-5 items checked against the official translation for each language
-  (`messages/<locale>/tests/depression.json` items 0–8, `trauma.json` items 0–19).
+- Have the PHQ-9, GAD-7 and PCL-5 items checked against the official translation for each language
+  (`messages/<locale>/tests/depression.json` items 0–8, `anxiety.json` items 0–6, `trauma.json` items 0–19).
 
 **6. Monitoring & analytics**
 - Google Analytics 4: create a GA4 property, copy the measurement ID into `NEXT_PUBLIC_GA_ID`. A cookie banner asks for consent
@@ -93,6 +93,6 @@ See `docs/CONTENT_SPEC.md` for the content format.
 
 ## Validated questionnaires
 
-The depression test embeds the PHQ-9 and the trauma test the PCL-5; both are public domain and are scored
-with their official cut-offs. ASRS (ADHD), MDQ (bipolar) and MSI-BPD are copyrighted and require a licence
+The depression test embeds the PHQ-9, the anxiety test the GAD-7 and the trauma test the PCL-5; all three are
+free to use without permission and are scored with their official cut-offs. ASRS (ADHD), MDQ (bipolar) and MSI-BPD are copyrighted and require a licence
 for commercial use, so those tests use original items covering the same symptom areas.

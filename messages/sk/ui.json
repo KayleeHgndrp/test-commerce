@@ -424,7 +424,7 @@
     "single": "Táto správa",
     "pack": "3 správy",
     "packNote": "Táto plus 2 ďalšie testy podľa vášho výberu",
-    "all": "Všetky správy ({count})",
+    "all": "Všetky správy",
     "allNote": "Každý test na stránke, odomknite si ich, kedy chcete",
     "save": "Ušetríte {amount}",
     "passPack": "Vo vašom balíku zostáva správ: {count}",
@@ -432,7 +432,7 @@
     "passUnlock": "Odomknúť túto správu zadarmo",
     "passError": "Váš balík sa nepodarilo použiť pre túto správu. Stále si ju môžete kúpiť nižšie.",
     "packProduct": "{test} + {extra} ďalšie správy",
-    "allProduct": "Všetky správy ({count})",
+    "allProduct": "Všetky správy",
     "perReport": "{price} za správu"
   },
   "couple": {

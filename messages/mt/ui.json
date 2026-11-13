@@ -424,7 +424,7 @@
     "single": "Dan ir-rapport",
     "pack": "3 rapporti",
     "packNote": "Dan u 2 testijiet oħra tal-għażla tiegħek",
-    "all": "Ir-rapporti kollha ({count})",
+    "all": "Ir-rapporti kollha",
     "allNote": "Kull test fuq is-sit, iftaħhom meta trid",
     "save": "Iffranka {amount}",
     "passPack": "Il-pakkett tiegħek għad fadallu {count} rapporti",
@@ -432,7 +432,7 @@
     "passUnlock": "Iftaħ dan ir-rapport b'xejn",
     "passError": "Il-pakkett tiegħek ma setax jintuża għal dan ir-rapport. Xorta tista' tixtrih hawn taħt.",
     "packProduct": "{test} + {extra} rapporti oħra",
-    "allProduct": "Ir-rapporti kollha ({count})",
+    "allProduct": "Ir-rapporti kollha",
     "perReport": "{price} għal kull rapport"
   },
   "couple": {

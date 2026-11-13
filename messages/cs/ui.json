@@ -424,7 +424,7 @@
     "single": "Tato zpráva",
     "pack": "3 zprávy",
     "packNote": "Tato plus 2 další testy podle vašeho výběru",
-    "all": "Všechny zprávy ({count})",
+    "all": "Všechny zprávy",
     "allNote": "Každý test na webu, odemkněte si je, kdy chcete",
     "save": "Ušetříte {amount}",
     "passPack": "Ve vašem balíčku zbývá zpráv: {count}",
@@ -432,7 +432,7 @@
     "passUnlock": "Odemknout tuto zprávu zdarma",
     "passError": "Váš balíček nebylo možné pro tuto zprávu použít. Stále si ji můžete koupit níže.",
     "packProduct": "{test} + {extra} další zprávy",
-    "allProduct": "Všechny zprávy ({count})",
+    "allProduct": "Všechny zprávy",
     "perReport": "{price} za zprávu"
   },
   "couple": {

@@ -424,7 +424,7 @@
     "single": "Aquest informe",
     "pack": "3 informes",
     "packNote": "Aquest més 2 tests a triar",
-    "all": "Tots els {count} informes",
+    "all": "Tots els informes",
     "allNote": "Tots els tests del web, desbloqueja'ls quan vulguis",
     "save": "Estalvia {amount}",
     "passPack": "Al teu paquet li queden {count} informes",
@@ -432,7 +432,7 @@
     "passUnlock": "Desbloqueja aquest informe gratis",
     "passError": "No s'ha pogut fer servir el teu paquet per a aquest informe. Encara el pots comprar a sota.",
     "packProduct": "{test} + {extra} informes més",
-    "allProduct": "Tots els {count} informes",
+    "allProduct": "Tots els informes",
     "perReport": "{price} per informe"
   },
   "couple": {

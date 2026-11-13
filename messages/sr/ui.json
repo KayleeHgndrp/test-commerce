@@ -424,7 +424,7 @@
     "single": "Ovaj izveštaj",
     "pack": "3 izveštaja",
     "packNote": "Ovaj i još 2 testa po vašem izboru",
-    "all": "Svi izveštaji ({count})",
+    "all": "Svi izveštaji",
     "allNote": "Svaki test na sajtu, otključajte ih kad želite",
     "save": "Uštedite {amount}",
     "passPack": "U vašem paketu ostalo je izveštaja: {count}",
@@ -432,7 +432,7 @@
     "passUnlock": "Otključajte ovaj izveštaj besplatno",
     "passError": "Vaš paket nije mogao da se iskoristi za ovaj izveštaj. I dalje ga možete kupiti ispod.",
     "packProduct": "{test} + još {extra} izveštaja",
-    "allProduct": "Svi izveštaji ({count})",
+    "allProduct": "Svi izveštaji",
     "perReport": "{price} po izveštaju"
   },
   "couple": {

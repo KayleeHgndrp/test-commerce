@@ -1,5 +1,5 @@
 import { hasLocale } from "@/lib/i18n/locales";
-import { allDefinitions, fmt, getDefinition, getTestText, getUi } from "@/lib/i18n/messages";
+import { fmt, getDefinition, getTestText, getUi } from "@/lib/i18n/messages";
 import { plans, retrievePaidOrder, upgradeAllowed, type Plan } from "@/lib/delivery";
 import { emailFlowAllowed } from "@/lib/emailFlow";
 import { sendEmail } from "@/lib/email";
@@ -59,7 +59,7 @@ export async function POST(request: Request) {
   const product = {
     single: text.name,
     pack: fmt(ui.plans.packProduct, { test: text.name, extra: site.packSize - 1 }),
-    all: fmt(ui.plans.allProduct, { count: allDefinitions.length }),
+    all: ui.plans.allProduct,
     couple: fmt(ui.couple.product, { test: text.name }),
   }[plan];
   // An upgrade keeps the partner of the first purchase, so they earn on it too.

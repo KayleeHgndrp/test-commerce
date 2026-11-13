@@ -1,0 +1,348 @@
+{
+  "slug": "anxiety",
+  "kind": "likert",
+  "scale": "phq",
+  "category": "screeners",
+  "minutes": 5,
+  "icon": "😰",
+  "outcome": "dimensions",
+  "dimensions": [
+    "worry",
+    "fear",
+    "body",
+    "restlessness",
+    "avoidance"
+  ],
+  "instrument": {
+    "id": "gad7",
+    "items": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "bands": [
+      {
+        "max": 4,
+        "key": "minimal"
+      },
+      {
+        "max": 9,
+        "key": "mild"
+      },
+      {
+        "max": 14,
+        "key": "moderate"
+      },
+      {
+        "max": 21,
+        "key": "severe"
+      }
+    ]
+  },
+  "items": [
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "restlessness"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "fear"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "worry"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "avoidance"
+    },
+    {
+      "dim": "body"
+    },
+    {
+      "dim": "avoidance"
+    }
+  ]
+}

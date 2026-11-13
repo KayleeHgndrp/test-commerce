@@ -424,7 +424,7 @@
     "single": "Dieser Bericht",
     "pack": "3 Berichte",
     "packNote": "Dieser plus 2 weitere Tests deiner Wahl",
-    "all": "Alle {count} Berichte",
+    "all": "Alle Berichte",
     "allNote": "Jeder Test der Seite, freischalten wann du willst",
     "save": "Spare {amount}",
     "passPack": "Dein Paket hat noch {count} Berichte",
@@ -432,7 +432,7 @@
     "passUnlock": "Diesen Bericht kostenlos freischalten",
     "passError": "Dein Paket konnte für diesen Bericht nicht verwendet werden. Du kannst ihn unten trotzdem kaufen.",
     "packProduct": "{test} + {extra} weitere Berichte",
-    "allProduct": "Alle {count} Berichte",
+    "allProduct": "Alle Berichte",
     "perReport": "{price} pro Bericht"
   },
   "couple": {

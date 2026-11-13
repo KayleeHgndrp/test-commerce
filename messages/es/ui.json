@@ -424,7 +424,7 @@
     "single": "Este informe",
     "pack": "3 informes",
     "packNote": "Este más 2 tests a tu elección",
-    "all": "Los {count} informes",
+    "all": "Todos los informes",
     "allNote": "Todos los tests del sitio, desbloquéalos cuando quieras",
     "save": "Ahorra {amount}",
     "passPack": "A tu paquete le quedan {count} informes",
@@ -432,7 +432,7 @@
     "passUnlock": "Desbloquear este informe gratis",
     "passError": "No se pudo usar tu paquete para este informe. Aún puedes comprarlo abajo.",
     "packProduct": "{test} + {extra} informes más",
-    "allProduct": "Los {count} informes",
+    "allProduct": "Todos los informes",
     "perReport": "{price} por informe"
   },
   "couple": {

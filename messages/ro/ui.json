@@ -424,7 +424,7 @@
     "single": "Acest raport",
     "pack": "3 rapoarte",
     "packNote": "Acesta plus încă 2 teste la alegere",
-    "all": "Toate cele {count} rapoarte",
+    "all": "Toate rapoartele",
     "allNote": "Fiecare test de pe site, deblochează-le când vrei",
     "save": "Economisești {amount}",
     "passPack": "Pachetul tău mai are {count} rapoarte",
@@ -432,7 +432,7 @@
     "passUnlock": "Deblochează gratuit acest raport",
     "passError": "Pachetul tău nu a putut fi folosit pentru acest raport. Îl poți cumpăra în continuare mai jos.",
     "packProduct": "{test} + încă {extra} rapoarte",
-    "allProduct": "Toate cele {count} rapoarte",
+    "allProduct": "Toate rapoartele",
     "perReport": "{price} pe raport"
   },
   "couple": {

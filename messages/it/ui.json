@@ -424,7 +424,7 @@
     "single": "Questo report",
     "pack": "3 report",
     "packNote": "Questo più altri 2 test a tua scelta",
-    "all": "Tutti i {count} report",
+    "all": "Tutti i report",
     "allNote": "Ogni test del sito, sbloccali quando vuoi",
     "save": "Risparmi {amount}",
     "passPack": "Nel tuo pacchetto restano {count} report",
@@ -432,7 +432,7 @@
     "passUnlock": "Sblocca questo report gratis",
     "passError": "Non è stato possibile usare il tuo pacchetto per questo report. Puoi comunque acquistarlo qui sotto.",
     "packProduct": "{test} + altri {extra} report",
-    "allProduct": "Tutti i {count} report",
+    "allProduct": "Tutti i report",
     "perReport": "{price} a report"
   },
   "couple": {

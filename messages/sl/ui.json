@@ -424,7 +424,7 @@
     "single": "To poročilo",
     "pack": "3 poročila",
     "packNote": "To in še 2 testa po vaši izbiri",
-    "all": "Vsa poročila ({count})",
+    "all": "Vsa poročila",
     "allNote": "Vsak test na strani, odklenite jih, ko želite",
     "save": "Prihranite {amount}",
     "passPack": "V vašem paketu je ostalo poročil: {count}",
@@ -432,7 +432,7 @@
     "passUnlock": "Odklenite to poročilo brezplačno",
     "passError": "Vašega paketa ni bilo mogoče uporabiti za to poročilo. Še vedno ga lahko kupite spodaj.",
     "packProduct": "{test} + še {extra} poročili",
-    "allProduct": "Vsa poročila ({count})",
+    "allProduct": "Vsa poročila",
     "perReport": "{price} na poročilo"
   },
   "couple": {

@@ -424,7 +424,7 @@
     "single": "Ce rapport",
     "pack": "3 rapports",
     "packNote": "Celui-ci plus 2 autres tests au choix",
-    "all": "Les {count} rapports",
+    "all": "Tous les rapports",
     "allNote": "Tous les tests du site, à débloquer quand tu veux",
     "save": "Économise {amount}",
     "passPack": "Il reste {count} rapports dans ton pack",
@@ -432,7 +432,7 @@
     "passUnlock": "Débloquer ce rapport gratuitement",
     "passError": "Ton pack n'a pas pu être utilisé pour ce rapport. Tu peux toujours l'acheter ci-dessous.",
     "packProduct": "{test} + {extra} rapports en plus",
-    "allProduct": "Les {count} rapports",
+    "allProduct": "Tous les rapports",
     "perReport": "{price} par rapport"
   },
   "couple": {

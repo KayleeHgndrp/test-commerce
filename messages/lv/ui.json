@@ -424,7 +424,7 @@
     "single": "Šis pārskats",
     "pack": "3 pārskati",
     "packNote": "Šis un vēl 2 testi pēc tavas izvēles",
-    "all": "Visi {count} pārskati",
+    "all": "Visi pārskati",
     "allNote": "Katrs vietnes tests, atbloķē tos, kad vēlies",
     "save": "Ietaupi {amount}",
     "passPack": "Tavā paketē palikuši {count} pārskati",
@@ -432,7 +432,7 @@
     "passUnlock": "Atbloķēt šo pārskatu bez maksas",
     "passError": "Tavu paketi neizdevās izmantot šim pārskatam. Tu joprojām vari to iegādāties zemāk.",
     "packProduct": "{test} + vēl {extra} pārskati",
-    "allProduct": "Visi {count} pārskati",
+    "allProduct": "Visi pārskati",
     "perReport": "{price} par ziņojumu"
   },
   "couple": {
