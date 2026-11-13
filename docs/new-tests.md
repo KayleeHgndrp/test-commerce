@@ -4,6 +4,9 @@ Besluit 11 nov 2026: elke twee weken komt er één nieuwe test bij op personalit
 Niet vaker, om geen "scaled content" signaal aan Google te geven. Een geplande taak draait
 elke woensdag en bouwt alleen een test als "Volgende test" vandaag of eerder is.
 
+Toestemming 13 nov 2026: Studio heeft staande toestemming gegeven om nieuwe tests (en blogs)
+zelf te mergen. Een nieuwe test wordt dus direct gemerged zodra alle controles groen zijn.
+
 Volgende test: 2026-11-25
 
 ## Wachtrij (bovenste eerst; mag bijgestuurd worden op Search Console-data)
@@ -22,7 +25,7 @@ Volgende test: 2026-11-25
 
 | datum | slug | PR |
 | ----- | ---- | -- |
-| 2026-11-11 | anxiety (GAD-7) | #22 |
+| 2026-11-11 | anxiety (GAD-7) | #22 (gemerged 13 nov) |
 
 ## Werkwijze per test
 
@@ -30,5 +33,6 @@ Volgende test: 2026-11-25
 2. Gevoelige tests (screeners): nooit diagnose, hoge teksten verwijzen naar huisarts of professional.
 3. Slug toevoegen aan content/tests.json op een logische plek.
 4. `npm run check:content`, `npm run check:dashes` en `npm run build` moeten slagen.
-5. Branch `tests/<slug>`, PR naar main, KayleeHgndrp als assignee, niet zelf mergen.
-6. Dit bestand bijwerken: rij naar "Gebouwd", "Volgende test" 14 dagen later.
+5. Dit bestand bijwerken in dezelfde branch: rij naar "Gebouwd", "Volgende test" 14 dagen later.
+6. Branch `tests/<slug>`, PR naar main, KayleeHgndrp als assignee.
+7. Wacht tot alle checks op de PR klaar zijn (Vercel-preview "Ready", geen rode checks, geen merge-conflict). Dan zelf squash-mergen. Is iets rood en niet op te lossen: niet mergen en Studio melden.
