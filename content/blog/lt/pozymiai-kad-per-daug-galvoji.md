@@ -2,14 +2,15 @@
 title: "Požymiai, kad per daug galvoji, ir kaip vakare nustoti kramtyti mintis"
 description: "Mintyse kartoji pokalbius, įsivaizduoji blogiausia ir užstringi prie smulkių pasirinkimų. Perdėto galvojimo požymiai, kodėl vakare būna blogiau ir kas iš tiesų padeda nurimti."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Personality Reveal redakcija"
 category: "Gerovė"
 tags: [perdėtas galvojimas, minčių kramtymas, nerimas, miegas, overthinking]
-seoTitle: "Per daug galvoji? 12 požymių ir kaip sustoti vakare"
-metaDescription: "Vis kartoji pokalbius mintyse ir visada lauki blogiausio? 12 perdėto galvojimo požymių, kodėl vakare jis stiprėja ir kas padeda prieš miegą."
-keywords: [per daug galvoju, perdėtas galvojimas, kaip nustoti galvoti, mintys prieš miegą, minčių kramtymas vakare, negaliu užmigti dėl minčių]
+seoTitle: "Per daug galvoji? Požymiai, simptomai ir kaip sustoti"
+metaDescription: "Galvoje sukasi pokalbiai, o vakare jauti įsitempusius pečius? 12 per didelio galvojimo požymių ir simptomų, nemokamas testas ir kas padeda."
+keywords: [per daug galvoju, perdėtas galvojimas, kaip nustoti galvoti, mintys prieš miegą, minčių kramtymas vakare, negaliu užmigti dėl minčių, per daug galvoju simptomai]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Kuo skiriasi galvojimas nuo perdėto galvojimo?"
     a: "Galvojimas tave kažkur nuveda: prie sprendimo, plano ar veiksmo. Perdėtas galvojimas sukasi ratu. Vis užduodi sau tuos pačius klausimus, nesužinai nieko naujo ir po to jautiesi blogiau, o ne aiškiau."
@@ -19,6 +20,8 @@ faq:
     a: "Ne. Perdėtas galvojimas yra mąstymo įprotis, kurį pažįsta beveik kiekvienas, o ne diagnozė. Vis dėlto jis gali būti susijęs su nerimu ar prislėgta nuotaika. Jei jis savaitėmis atima miegą ar trukdo kasdieniam gyvenimui, pasikalbėk su savo šeimos gydytoju ar psichologu."
   - q: "Ar internetinis testas gali pasakyti, ar per daug galvoju?"
     a: "Testas parodo, kurie modeliai tavo atsakymuose pasikartoja dažniausiai, pavyzdžiui, praeities kramtymas ar nerimas dėl ateities. Jis suteikia žodžių ir atspirties tašką. Tai nėra diagnozė, ir testas nežino tavo gyvenimo konteksto."
+  - q: "Kokie yra per didelio galvojimo simptomai?"
+    a: "Galvoje: tos pačios mintys vėl ir vėl, sunku susikaupti ir pasirinkti. Kūne: įsitempę raumenys, neramus pilvas, paviršutiniškas kvėpavimas, galvos skausmai ir prastas miegas. Šie signalai paprastai atslūgsta, kai mintys nurimsta. Jei jie tęsiasi savaites, pasikalbėk su savo šeimos gydytoju."
 ---
 
 Tikriausiai per daug galvoji, jei dažnai mintyse kartoji pokalbius, iš anksto įsivaizduoji viską, kas gali nepavykti, arba smulkiems sprendimams skiri daug daugiau laiko, nei jie verti. Perdėtas galvojimas nėra tas pats, kas apdairumas. Tai mintys, kurios sukasi ratu ir palieka tave labiau pavargusį nei prieš tai, o daugeliui jos būna stipriausios būtent tada, kai užgęsta šviesa.
@@ -53,6 +56,12 @@ Nebūtina atpažinti savęs visuose. Jei penki ar daugiau skamba labai pažįsta
 Nė vienas iš šių požymių nekalba apie intelektą ar apie tai, kad per daug rūpiniesi kitais. Daug per daug galvojančių žmonių yra kruopštūs, sąžiningi ir malonūs. Problema ne minčių kokybė, o tai, kad jos nesustoja.
 
 Verta pastebėti ir tai, kaip perdėtas galvojimas jaučiamas kūne. Daugeliui jis pasireiškia įsitempusiais pečiais, sukąstais žandikauliais ar nerimu, kuris nepraeina net sėdint ant sofos. Kai kurie pastebi, kad valgo nesąmoningai arba valandą slenka telefone vien tam, kad išvengtų savo minčių. Šie ženklai naudingi, nes kūnas dažnai pastebi minčių sūkurį anksčiau, nei protas tai pripažįsta. Atpažinęs savo ankstyvą signalą, gali sustoti greičiau.
+
+### Per didelio galvojimo simptomai, kuriuos jauti kūne
+
+Per didelis galvojimas nelieka vien galvoje. Daugelis pirmiausia jį pastebi kūne: įsitempę pečiai ar sukąstas žandikaulis, neramus pilvas, paviršutiniškas kvėpavimas, galvos skausmas dienos pabaigoje. Kiti labiau pastebi psichologinę pusę: sunku susikaupti, pamiršti, ką kas tik ką pasakė, arba pabundi pavargęs po visos nakties lovoje.
+
+Šie simptomai yra tai, ką daro kūnas, kai nuolat ruošiasi problemai, kuri taip ir neateina. Paprastai jie atslūgsta, kai nurimsta mintys. Jei jie stiprūs, tęsiasi savaites ar juos lydi panika arba nuolatinis grėsmės jausmas, verta pasitikrinti, ar didesnio vaidmens nevaidina nerimas.
 
 ## Keturios akimirkos, kurias galbūt atpažinsi
 
@@ -105,6 +114,8 @@ Perdėtas galvojimas kiekvienam atrodo kitaip, o tai, kas padeda, priklauso nuo 
 Savaitę užsirašinėk atsakymus. Dauguma žmonių nustemba, kaip dažnai grįžta ta pati tema. Jei nori aiškesnio vaizdo, [nemokamas perdėto galvojimo testas](/lt/overthinking) matuoja būtent šiuos keturis modelius: minčių kramtymą, nerimą dėl ateities, neryžtingumą ir socialinį atkartojimą.
 
 Perdėtas galvojimas susijęs ir su kitais modeliais. Tie, kurie daug nerimauja dėl to, kaip juos mato kiti, dažnai atpažįsta save [nore įtikti kitiems](/lt/people-pleaser). O neatsakytos žinutės begalinį skaitymą iš naujo išsamiai aprašėme straipsnyje apie [nerimastingą prieraišumą ir žinutes](/lt/blog/nerimastingas-prieraisumas-zinutes).
+
+Per didelis galvojimas ir nerimas dažnai eina kartu, bet tai ne tas pats. Jei nori pamatyti, kiek čia nerimo, [nemokamas nerimo testas](/lt/anxiety) naudoja GAD-7, trumpą klausimyną, kurį naudoja ir gydytojai. O jei tavo mintys daugiausia sukasi apie kritiką ar apie tai, kaip atsisakyti, daugiau rasi mūsų straipsniuose apie [jautrumą atstūmimui](/lt/blog/jautrumas-atstumimui-kritika) ir apie tai, [kaip pasakyti ne be kaltės jausmo](/lt/blog/kaip-pasakyti-ne-be-kaltes-jausmo).
 
 ## Kaip nustoti per daug galvoti prieš miegą: padedantys žingsniai
 

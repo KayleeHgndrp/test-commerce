@@ -2,14 +2,15 @@
 title: "Príliš premýšľaš? Znaky overthinkingu a ako večer prestať rozmýšľať dookola"
 description: "Prehrávanie rozhovorov v hlave, predstavovanie si toho najhoršieho, zasekávanie sa pri drobných rozhodnutiach. Znaky, že príliš premýšľaš, prečo sa to večer zhoršuje a čo naozaj pomáha vypnúť hlavu."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Redakcia Personality Reveal"
 category: "Pohoda"
 tags: [overthinking, nadmerné premýšľanie, starosti, spánok, myšlienky dookola]
-seoTitle: "Príliš premýšľam: 12 znakov a ako večer vypnúť hlavu"
-metaDescription: "Prehrávaš si rozhovory stále dookola a čakáš to najhoršie? 12 znakov, že príliš premýšľaš, prečo sa to večer zhoršuje a čo robiť pred spaním."
-keywords: [príliš premýšľam, overthinking, ako prestať premýšľať, myšlienky pred spaním, nadmerné premýšľanie, nemôžem zaspať kvôli myšlienkam]
+seoTitle: "Príliš premýšľam: znaky, príznaky a ako večer vypnúť"
+metaDescription: "Prehrávaš si rozhovory a večer máš stuhnuté plecia? 12 znakov a príznakov premýšľania v kruhu, test zadarmo a kroky, ktoré ti pomôžu vypnúť hlavu."
+keywords: [príliš premýšľam, overthinking, ako prestať premýšľať, myšlienky pred spaním, nadmerné premýšľanie, nemôžem zaspať kvôli myšlienkam, premýšľanie príznaky]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Aký je rozdiel medzi premýšľaním a nadmerným premýšľaním?"
     a: "Premýšľanie ťa niekam dovedie: k rozhodnutiu, plánu alebo činu. Nadmerné premýšľanie sa točí v kruhu. Kladieš si stále rovnaké otázky, nedozvieš sa nič nové a potom sa cítiš horšie, namiesto toho, aby si mal jasno."
@@ -19,6 +20,8 @@ faq:
     a: "Nie. Nadmerné premýšľanie je myšlienkový zvyk, ktorý pozná takmer každý, nie diagnóza. Môže však ísť ruka v ruke s úzkosťou alebo skleslosťou. Ak ťa celé týždne oberá o spánok alebo ti prekáža v bežnom živote, porozprávaj sa so svojím všeobecným lekárom alebo so psychológom."
   - q: "Môže mi online test povedať, či príliš premýšľam?"
     a: "Test ukáže, ktoré vzorce sa v tvojich odpovediach objavujú najčastejšie, napríklad premieľanie minulosti alebo obavy z budúcnosti. Dá ti slová a východiskový bod. Nie je to diagnóza a test nepozná súvislosti tvojho života."
+  - q: "Aké sú príznaky prílišného premýšľania?"
+    a: "V hlave: stále tie isté myšlienky dookola, problémy so sústredením a s rozhodovaním. V tele: stuhnuté svaly, nepokoj v bruchu, plytký dych, bolesti hlavy a zlý spánok. Tieto signály zvyčajne poľavia, keď sa myšlienky upokoja. Ak trvajú týždne, porozprávaj sa so svojím všeobecným lekárom."
 ---
 
 Pravdepodobne príliš premýšľaš, ak si často prehrávaš rozhovory v hlave, vopred si predstavuješ, čo sa môže pokaziť, alebo ti drobné rozhodnutia trvajú oveľa dlhšie, než by mali. Nadmerné premýšľanie nie je to isté ako rozvážnosť. Sú to myšlienky, ktoré sa točia dookola a nechávajú ťa unavenejšieho než predtým, a u mnohých ľudí sú najsilnejšie presne vtedy, keď zhasne svetlo.
@@ -51,6 +54,12 @@ Nemusíš sa spoznať vo všetkých. Ak ti päť alebo viac znie veľmi povedome
 12. Keď premýšľaš o probléme, cítiš sa viac zaseknutý, nie menej.
 
 Žiadny z týchto znakov nehovorí nič o inteligencii ani o tom, že ti na druhých príliš záleží. Veľa ľudí, ktorí príliš premýšľajú, je starostlivých, svedomitých a láskavých. Problém nie je v kvalite myšlienok, ale v tom, že sa nezastavia.
+
+### Príznaky, ktoré premýšľanie v kruhu robí s telom
+
+Premýšľanie v kruhu nezostáva iba v hlave. Veľa ľudí si ho všimne najprv na tele: stuhnuté plecia alebo zaťatá čeľusť, nepokoj v bruchu, plytký dych, bolesť hlavy na konci dňa. Iní si všímajú skôr psychickú stránku: ťažko sa sústredia, zabudnú, čo im niekto práve povedal, alebo sa budia unavení po celej noci v posteli.
+
+Tieto príznaky sú to, čo robí telo, ktoré sa stále pripravuje na problém, ktorý nikdy nepríde. Zvyčajne poľavia, keď poľavia myšlienky. Ak sú silné, trvajú týždne alebo ich sprevádza panika či neustály pocit ohrozenia, oplatí sa zistiť, či väčšiu úlohu nehrá úzkosť.
 
 ## Tri chvíle, ktoré možno poznáš
 
@@ -97,6 +106,8 @@ Overthinking nevyzerá u každého rovnako a to, čo pomáha, závisí od toho, 
 Zapisuj si odpovede jeden týždeň. Väčšina ľudí je prekvapená, ako často sa vracia tá istá téma. Ak chceš prehľadnejší obraz, [bezplatný test nadmerného premýšľania](/sk/overthinking) meria práve tieto štyri vzorce: rumináciu, obavy z budúcnosti, nerozhodnosť a prehrávanie spoločenských situácií.
 
 Nadmerné premýšľanie súvisí aj s ďalšími vzorcami. Ľudia, ktorí si robia veľké starosti s tým, ako ich vidia ostatní, sa často spoznajú v [snahe vyhovieť všetkým](/sk/people-pleaser). A nekonečné čítanie správy, na ktorú neprišla odpoveď, sme podrobne opísali v článku o [úzkostnej citovej väzbe a správach](/sk/blog/uzkostna-citova-vazba-spravy).
+
+Premýšľanie v kruhu a úzkosť idú často spolu, ale nie sú to isté. Ak chceš vidieť, koľko je v tom úzkosti, [test úzkosti zadarmo](/sk/anxiety) používa GAD-7, krátky dotazník, s ktorým pracujú aj lekári. A ak sa tvoje myšlienky točia hlavne okolo kritiky alebo okolo toho, ako povedať nie, viac nájdeš v našich článkoch o [citlivosti na odmietnutie](/sk/blog/citlivost-na-odmietnutie-kritika) a o tom, [ako povedať nie bez výčitiek](/sk/blog/ako-povedat-nie-bez-vycitiek).
 
 ## Ako prestať premýšľať pred spaním: kroky, ktoré pomáhajú
 

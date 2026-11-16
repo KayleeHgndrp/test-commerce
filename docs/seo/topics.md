@@ -19,12 +19,16 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 ## Wachtrij
 
+Bovenste twee toegevoegd op 16 nov 2026 (maandagcheck): ADHD en autisme bij volwassenen hebben zoekvragen op positie 8 tot 30 in FI, CS, HR, RO en ET en nog geen eigen artikel.
+
 Bovenste vijf toegevoegd op 9 nov 2026 op basis van Search Console: de BPD-, bipolar-, trauma- en talenttests halen al vertoningen in veel talen (positie 4 tot 15), en Big Five/personlighedstest-zoekvragen in DA, SV en NL. Elk artikel linkt prominent naar de bijbehorende test. Gevoelige onderwerpen: geen diagnose, wel een zin over professionele hulp.
 
 Taalvoorrang (9 nov 2026): de meeste vertoningen komen uit DA, SV, CS, DE en FI, de klikken vooral uit SK, BG, CS, SR, LV en HR (daar staan we al op positie 7 tot 11). Geef bij het zoeken naar lokale zoekwoorden en bij controle van de vertaling deze talen extra aandacht.
 
 | translationKey | Onderwerp | Test | Zoekvraag (en) |
 |---|---|---|---|
+| adhd-signs-adults | ADHD bij volwassenen: signalen, en wat een zelftest wel en niet zegt (Search Console 16 nov: "adhd testi aikuiselle" FI pos 22, "adhd testi" FI pos 17, "adhd test adulti" RO pos 23, "adhd" ET pos 13) | adhd | adhd in adults signs |
+| autism-signs-adults | Autisme bij volwassenen: signalen die vaak gemist worden (Search Console 16 nov: "autismus test dospělých online zdarma" CS pos 10, "online test za autizam kod odraslih" HR pos 8, "ilmainen autismi testi aikuiselle" FI pos 11) | autism | autism in adults signs |
 | big-five-vs-mbti | Big Five of MBTI: welke test is betrouwbaarder | big-five | big five vs mbti |
 | trauma-signs-ptsd | Signalen van onverwerkt trauma, en wanneer het PTSS kan zijn | trauma | trauma test |
 | strengths-talent-test | Wat zijn je talenten? Zo ontdek je je sterkste kanten | strengths | talent test |

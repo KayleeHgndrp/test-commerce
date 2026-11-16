@@ -2,14 +2,15 @@
 title: "Merkit siitä, että ylianalysoit, ja miten lopetat vatvomisen illalla"
 description: "Käyt keskusteluja läpi päässäsi, kuvittelet pahinta ja jumitut pieniin valintoihin. Ylianalysoinnin merkit, miksi se pahenee iltaisin ja mikä oikeasti auttaa rauhoittumaan."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Personality Revealin toimitus"
 category: "Hyvinvointi"
 tags: [ylianalysointi, vatvominen, murehtiminen, uni, ajatuskierre]
-seoTitle: "Ylianalysoitko? 12 merkkiä ja miten lopetat illalla"
-metaDescription: "Käytkö keskusteluja läpi yhä uudelleen ja odotat aina pahinta? 12 ylianalysoinnin merkkiä, miksi se pahenee illalla ja mikä auttaa ennen nukahtamista."
-keywords: [ylianalysointi, ajattelen liikaa, miten lopettaa murehtiminen, vatvominen illalla, ajatukset ennen nukahtamista, en saa unta ajatusten takia]
+seoTitle: "Ylianalysoitko? Merkit, oireet ja miten lopetat illalla"
+metaDescription: "Kelaatko keskusteluja päässäsi ja ovatko hartiasi illalla jumissa? 12 ylianalysoinnin merkkiä ja oiretta, ilmainen testi ja keinot rauhoittua."
+keywords: [ylianalysointi, ajattelen liikaa, miten lopettaa murehtiminen, vatvominen illalla, ajatukset ennen nukahtamista, en saa unta ajatusten takia, ylianalysointi oireet]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Mikä ero on ajattelulla ja ylianalysoinnilla?"
     a: "Ajattelu vie sinut jonnekin: päätökseen, suunnitelmaan tai tekoon. Ylianalysointi kiertää kehää. Kysyt samoja kysymyksiä yhä uudelleen, et opi mitään uutta ja olosi on sen jälkeen huonompi eikä selkeämpi."
@@ -19,6 +20,8 @@ faq:
     a: "Ei ole. Ylianalysointi on ajattelutapa, jonka melkein kaikki tuntevat, ei diagnoosi. Se voi kuitenkin liittyä ahdistukseen tai alakuloon. Jos se vie unesi viikkokausia tai haittaa arkeasi, puhu terveyskeskuksen lääkärin tai psykologin kanssa."
   - q: "Voiko verkkotesti kertoa, ylianalysoinko?"
     a: "Testi näyttää, mitkä mallit toistuvat vastauksissasi useimmin, esimerkiksi menneiden vatvominen tai tulevaisuuden murehtiminen. Se antaa sinulle sanoja ja lähtökohdan. Se ei ole diagnoosi, eikä testi tunne elämäsi taustoja."
+  - q: "Mitkä ovat ylianalysoinnin oireet?"
+    a: "Mielessä: samat ajatukset uudestaan ja uudestaan, keskittymis- ja päätösvaikeudet. Kehossa: jännittyneet lihakset, levoton vatsa, pinnallinen hengitys, päänsärky ja huono uni. Merkit yleensä hellittävät, kun ajatukset rauhoittuvat. Jos ne kestävät viikkoja, puhu lääkärin kanssa."
 ---
 
 Ylianalysoit todennäköisesti, jos käyt usein keskusteluja läpi päässäsi, kuvittelet etukäteen kaiken, mikä voi mennä pieleen, tai käytät pieniin päätöksiin paljon enemmän aikaa kuin ne ansaitsevat. Ylianalysointi ei ole sama asia kuin harkitsevaisuus. Ne ovat ajatuksia, jotka kiertävät kehää ja jättävät sinut väsyneemmäksi kuin ennen, ja monella ne ovat voimakkaimmillaan juuri silloin, kun valot sammuvat.
@@ -53,6 +56,12 @@ Sinun ei tarvitse tunnistaa itseäsi kaikista. Jos viisi tai useampi kuulostaa t
 Mikään näistä merkeistä ei kerro älykkyydestä eikä siitä, että välittäisit muista liikaa. Moni ylianalysoija on huolellinen, tunnollinen ja ystävällinen. Ongelma ei ole ajatusten laatu vaan se, että ne eivät lopu.
 
 Kannattaa myös huomata, miltä ylianalysointi tuntuu kehossa. Monella se näkyy jännittyneinä hartioina, puristavana leukana tai levottomuutena, joka ei laannu, vaikka istuisit sohvalla. Jotkut huomaavat syövänsä huomaamattaan tai selaavansa puhelinta tunnin ajan vain välttääkseen omia ajatuksiaan. Nämä merkit ovat hyödyllisiä, koska keho huomaa kierteen usein ennen kuin mieli myöntää sen. Kun tunnistat oman varhaisen merkkisi, voit pysähtyä aiemmin.
+
+### Ylianalysoinnin oireet, jotka tunnet kehossa
+
+Ylianalysointi ei pysy pelkästään päässä. Moni huomaa sen ensin kehossaan: jännittyneet hartiat tai yhteen puristettu leuka, levoton vatsa, pinnallinen hengitys, päänsärky päivän päätteeksi. Toiset huomaavat lähinnä henkisen puolen: keskittyminen on vaikeaa, unohtaa mitä joku juuri sanoi tai herää väsyneenä koko yön sängyssä olon jälkeen.
+
+Nämä oireet ovat sitä, mitä keho tekee, kun se valmistautuu jatkuvasti ongelmaan, joka ei koskaan tule. Ne yleensä hellittävät, kun ajatukset rauhoittuvat. Jos ne ovat voimakkaita, kestävät viikkoja tai niihin liittyy paniikkia tai jatkuva uhan tunne, kannattaa selvittää, onko ahdistuksella isompi osuus.
 
 ## Neljä hetkeä, jotka saatat tunnistaa
 
@@ -105,6 +114,8 @@ Ylianalysointi näyttää eri ihmisillä erilaiselta, ja se, mikä auttaa, riipp
 Kirjoita vastaukset ylös viikon ajan. Useimmat yllättyvät siitä, kuinka usein sama teema palaa. Jos haluat jäsennellymmän kuvan, [maksuton ylianalysointitesti](/fi/overthinking) mittaa juuri näitä neljää mallia: vatvomista, tulevaisuuden murehtimista, päättämättömyyttä ja sosiaalista jälkipuintia.
 
 Ylianalysointi liittyy myös muihin malleihin. Ne, jotka murehtivat paljon sitä, miten muut heidät näkevät, tunnistavat itsensä usein [miellyttäjästä](/fi/people-pleaser). Vastaamattoman viestin loputonta uudelleenlukemista käsittelimme tarkasti artikkelissamme [ahdistuneesta kiintymyksestä ja viesteistä](/fi/blog/ahdistunut-kiintymys-viestit).
+
+Ylianalysointi ja ahdistus kulkevat usein yhdessä, mutta ne eivät ole sama asia. Jos haluat nähdä, kuinka paljon ahdistusta mukana on, [ilmainen ahdistustesti](/fi/anxiety) käyttää GAD-7-kyselyä, jota myös lääkärit käyttävät. Ja jos ajatuksesi pyörivät lähinnä kritiikin tai ei-sanomisen ympärillä, lue myös artikkelimme [kritiikkiherkkyydestä](/fi/blog/herkka-kritiikille-torjuntaherkkyys) ja siitä, [miten sanoa ei ilman syyllisyyttä](/fi/blog/miten-sanoa-ei-ilman-syyllisyytta).
 
 ## Miten lopetat vatvomisen ennen nukkumaanmenoa
 

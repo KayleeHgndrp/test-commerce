@@ -2,14 +2,15 @@
 title: "Tegn på at du overtænker, og sådan stopper du tankemylderet om aftenen"
 description: "Du genafspiller samtaler, forestiller dig det værste og går i stå ved små valg. Tegnene på at du tænker for meget, hvorfor det bliver værre om aftenen, og hvad der faktisk hjælper dig med at slappe af."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Redaktionen hos Personality Reveal"
 category: "Trivsel"
 tags: [overtænkning, grublerier, bekymringer, søvn, tankemylder]
-seoTitle: "Overtænker du? 12 tegn og sådan stopper du om aftenen"
-metaDescription: "Genafspiller du samtaler igen og igen og forventer altid det værste? 12 tegn på overtænkning, hvorfor det tager til om aftenen, og hvad der hjælper."
-keywords: [overtænker, tegn på overtænkning, stop med at overtænke, tankemylder om aftenen, gruble i sengen, kan ikke sove pga tanker]
+seoTitle: "Overtænker du? Tegn, symptomer og sådan stopper du"
+metaDescription: "Genafspiller du samtaler og mærker spændte skuldre om aftenen? 12 tegn og symptomer på overtænkning, en gratis test og hvad der hjælper dig."
+keywords: [overtænker, tegn på overtænkning, stop med at overtænke, tankemylder om aftenen, gruble i sengen, kan ikke sove pga tanker, overtænkning symptomer]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Hvad er forskellen på at tænke og at overtænke?"
     a: "At tænke fører dig et sted hen: til en beslutning, en plan eller en handling. At overtænke kører i ring. Du stiller de samme spørgsmål igen og igen, lærer ikke noget nyt og har det værre bagefter i stedet for at se klarere."
@@ -19,6 +20,8 @@ faq:
     a: "Nej. Overtænkning er en tankevane, som næsten alle kender, og ikke en diagnose. Den kan dog hænge sammen med angst eller nedtrykthed. Hvis den holder dig vågen i ugevis eller står i vejen for din hverdag, så tal med din læge eller en psykolog."
   - q: "Kan en online test vise, om jeg overtænker?"
     a: "En test viser, hvilke mønstre der oftest dukker op i dine svar, for eksempel at gruble over fortiden eller bekymre dig om fremtiden. Den giver dig ord og et udgangspunkt. Den er ikke en diagnose og kender ikke sammenhængen i dit liv."
+  - q: "Hvad er symptomerne på overtænkning?"
+    a: "I hovedet: de samme tanker igen og igen, svært ved at koncentrere sig og svært ved at vælge. I kroppen: spændte muskler, uro i maven, overfladisk vejrtrækning, hovedpine og dårlig søvn. Signalerne aftager som regel, når tankerne falder til ro. Varer de i ugevis, så tal med din læge."
 ---
 
 Du overtænker sandsynligvis, hvis du ofte genafspiller samtaler i hovedet, på forhånd forestiller dig alt det, der kan gå galt, eller bruger langt mere tid på små beslutninger, end de fortjener. At overtænke er ikke det samme som at være eftertænksom. Det er tanker, der kører i ring og efterlader dig mere træt end før, og hos mange er de stærkest, lige når lyset slukkes.
@@ -51,6 +54,12 @@ Du behøver ikke kunne genkende dem alle. Hvis fem eller flere lyder meget beken
 12. Når du tænker over et problem, føler du dig mere fastlåst, ikke mindre.
 
 Ingen af tegnene handler om intelligens eller om, at du holder for meget af andre. Mange, der overtænker, er grundige, pligtopfyldende og venlige. Problemet er ikke tankernes kvalitet, men at de ikke stopper.
+
+### Symptomer på overtænkning, som du mærker i kroppen
+
+Overtænkning bliver ikke i hovedet. Mange mærker det først i kroppen: spændte skuldre eller en sammenbidt kæbe, uro i maven, overfladisk vejrtrækning, hovedpine sidst på dagen. Andre mærker mest den mentale side: svært ved at koncentrere sig, glemmer hvad nogen lige har sagt, eller vågner træt efter en hel nat i sengen.
+
+Symptomerne er det, kroppen gør, når den hele tiden gør sig klar til et problem, der aldrig kommer. De aftager som regel, når tankerne falder til ro. Er de kraftige, varer de i ugevis eller følges de af panik eller en konstant følelse af uro, så er det værd at se på, om angst fylder mere.
 
 ## Tre øjeblikke du måske kender
 
@@ -97,6 +106,8 @@ Overtænkning ser forskellig ud fra person til person, og hvad der hjælper, afh
 Skriv svarene ned i en uge. De fleste bliver overraskede over, hvor tit det samme tema vender tilbage. Hvis du vil have et mere overskueligt billede, måler den [gratis overtænkning-test](/da/overthinking) netop de fire mønstre: grublerier, bekymring for fremtiden, ubeslutsomhed og social genafspilning.
 
 Overtænkning hænger også sammen med andre mønstre. Dem, der bekymrer sig meget om, hvordan andre ser dem, genkender sig ofte i at være [pleaser](/da/people-pleaser). Og at læse en ubesvaret besked igen og igen har vi beskrevet grundigt i vores artikel om [ængstelig tilknytning og beskeder](/da/blog/aengstelig-tilknytning-beskeder).
+
+Overtænkning og angst hænger ofte sammen, men de er ikke det samme. Vil du se, hvor meget angst der er med i billedet, bruger den [gratis angsttest](/da/anxiety) GAD-7, et kort spørgeskema som læger også bruger. Og kredser dine tanker mest om kritik eller om at sige fra, så læs også vores artikler om [afvisningsfølsomhed](/da/blog/afvisningsfoelsomhed-kritik) og [at sige nej uden dårlig samvittighed](/da/blog/sig-nej-uden-darlig-samvittighed).
 
 ## Sådan stopper du med at overtænke før sengetid
 

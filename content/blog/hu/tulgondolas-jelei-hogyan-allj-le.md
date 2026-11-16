@@ -2,14 +2,15 @@
 title: "Túlgondolod a dolgokat? A túlgondolás jelei, és hogyan hagyd abba este a rágódást"
 description: "Beszélgetések újrajátszása fejben, a legrosszabb elképzelése, elakadás apró döntéseknél. A túlgondolás jelei, miért rosszabb este, és mi segít valóban kikapcsolni a fejed."
 date: 2026-11-02
+updated: 2026-11-16
 author: "A Personality Reveal szerkesztősége"
 category: "Jóllét"
 tags: [túlgondolás, rágódás, aggódás, alvás, overthinking]
-seoTitle: "Túlgondolás: 12 jel, és hogyan állítsd le este"
-metaDescription: "Újra és újra lejátszod a beszélgetéseket, és mindig a legrosszabbra számítasz? A túlgondolás 12 jele, miért erősödik este, és mit tehetsz lefekvés előtt."
-keywords: [túlgondolás, túlgondolás jelei, hogyan hagyjam abba a rágódást, gondolatok elalvás előtt, rágódás este, nem tudok aludni a gondolataimtól]
+seoTitle: "Túlgondolás: jelek, tünetek, és hogyan állítsd le este"
+metaDescription: "Újra és újra lejátszod a beszélgetéseket, este pedig feszül a vállad? A túlgondolás 12 jele és tünete, ingyenes teszt, és ami segít kikapcsolni."
+keywords: [túlgondolás, túlgondolás jelei, hogyan hagyjam abba a rágódást, gondolatok elalvás előtt, rágódás este, nem tudok aludni a gondolataimtól, túlgondolás tünetei]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Mi a különbség a gondolkodás és a túlgondolás között?"
     a: "A gondolkodás elvezet valahová: egy döntéshez, egy tervhez vagy egy cselekvéshez. A túlgondolás körbe-körbe jár. Újra és újra ugyanazokat a kérdéseket teszed fel, semmi újat nem tudsz meg, és utána rosszabbul érzed magad ahelyett, hogy tisztábban látnál."
@@ -19,6 +20,8 @@ faq:
     a: "Nem. A túlgondolás olyan gondolkodási szokás, amelyet szinte mindenki ismer, nem diagnózis. Ugyanakkor együtt járhat szorongással vagy lehangoltsággal. Ha heteken át elveszi az alvásodat, vagy akadályoz a mindennapokban, beszélj a háziorvosoddal vagy egy pszichológussal."
   - q: "Megmondhatja egy online teszt, hogy túlgondolom-e a dolgokat?"
     a: "Egy teszt megmutatja, mely minták jelennek meg a leggyakrabban a válaszaidban, például a múlton való rágódás vagy a jövő miatti aggódás. Szavakat és kiindulópontot ad. Nem diagnózis, és nem ismeri az életed hátterét."
+  - q: "Mik a túlgondolás tünetei?"
+    a: "Fejben: ugyanazok a gondolatok újra és újra, nehéz koncentrálni és dönteni. A testben: feszült izmok, nyugtalan gyomor, felületes légzés, fejfájás és rossz alvás. Ezek a jelek általában enyhülnek, amikor a gondolatok lecsillapodnak. Ha hetekig tartanak, beszélj a háziorvosoddal."
 ---
 
 Valószínűleg túlgondolod a dolgokat, ha gyakran újrajátszod fejben a beszélgetéseket, előre elképzeled, mi minden mehet félre, vagy az apró döntések sokkal tovább tartanak nálad, mint kellene. A túlgondolás nem ugyanaz, mint az alaposság. Ezek olyan gondolatok, amelyek körbe-körbe járnak, és fáradtabban hagynak, mint előtte, sok embernél pedig pontosan akkor a leghangosabbak, amikor lekapcsolod a villanyt.
@@ -51,6 +54,12 @@ Nem kell mindegyikben magadra ismerned. Ha öt vagy több nagyon ismerősen hang
 12. Ha egy problémán gondolkodsz, attól inkább elakadsz, mintsem előrébb jutnál.
 
 Egyik jel sem az intelligenciáról vagy arról szól, hogy túlságosan törődsz másokkal. Sok túlgondoló ember alapos, lelkiismeretes és kedves. A gond nem a gondolatok minőségével van, hanem azzal, hogy nem állnak le.
+
+### A túlgondolás tünetei, amelyeket a testedben érzel
+
+A túlgondolás nem marad a fejedben. Sokan először a testükben veszik észre: feszült váll vagy összeszorított állkapocs, nyugtalan gyomor, felületes légzés, fejfájás a nap végén. Mások inkább a lelki oldalát érzik: nehezen tudnak koncentrálni, elfelejtik, mit mondott valaki az előbb, vagy fáradtan ébrednek egy egész éjszaka után is.
+
+Ezek a tünetek azt mutatják, mit csinál a test, amikor folyamatosan egy olyan problémára készül, ami sosem jön el. Általában enyhülnek, amikor a gondolatok is lecsillapodnak. Ha erősek, hetekig tartanak, vagy pánik, illetve állandó fenyegetettségérzés társul hozzájuk, érdemes megnézni, nem a szorongás játszik-e nagyobb szerepet.
 
 ## Négy helyzet, amelyben talán magadra ismersz
 
@@ -103,6 +112,8 @@ A túlgondolás nem mindenkinél néz ki ugyanúgy, és hogy mi segít, az attó
 Egy hétig írd le a válaszokat. A legtöbben meglepődnek, milyen gyakran tér vissza ugyanaz a téma. Ha rendezettebb képet szeretnél, az [ingyenes túlgondolás teszt](/hu/overthinking) éppen ezt a négy mintát méri: a rágódást, a jövő miatti aggódást, a döntésképtelenséget és a társas helyzetek újrajátszását.
 
 A túlgondolás más mintákkal is összefügg. Akik sokat aggódnak amiatt, hogyan látják őket mások, gyakran a [megfelelési kényszerben](/hu/people-pleaser) is magukra ismernek. A megválaszolatlan üzenet végtelen visszaolvasásáról pedig részletesen írtunk a [szorongó kötődésről és az üzenetekről](/hu/blog/szorongo-kotodes-uzenetek) szóló cikkünkben.
+
+A túlgondolás és a szorongás gyakran együtt jár, de nem ugyanaz. Ha szeretnéd látni, mennyi szorongás van a háttérben, az [ingyenes szorongásteszt](/hu/anxiety) a GAD-7 kérdőívet használja, amelyet orvosok is alkalmaznak. Ha pedig a gondolataid főleg a kritika vagy a nemet mondás körül forognak, olvasd el a cikkeinket az [elutasítás-érzékenységről](/hu/blog/elutasitas-erzekenyseg-kritika) és arról, [hogyan mondj nemet bűntudat nélkül](/hu/blog/hogyan-mondj-nemet-buntudat-nelkul).
 
 ## Hogyan hagyd abba a rágódást elalvás előtt: lépések, amelyek segítenek
 

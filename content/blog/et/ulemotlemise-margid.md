@@ -2,14 +2,15 @@
 title: "Märgid, et sa mõtled üle, ja kuidas õhtuti mõtete vatramine lõpetada"
 description: "Mängid vestlusi peas uuesti läbi, kujutad ette halvimat ja jääd väikeste valikute juurde kinni. Ülemõtlemise märgid, miks see õhtul hullemaks läheb ja mis päriselt aitab rahuneda."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Personality Reveali toimetus"
 category: "Heaolu"
 tags: [ülemõtlemine, mõtete vatramine, muretsemine, uni, mõtteringid]
-seoTitle: "Kas mõtled üle? 12 märki ja kuidas õhtul lõpetada"
-metaDescription: "Kas mängid vestlusi ikka ja jälle läbi ning ootad alati halvimat? 12 ülemõtlemise märki, miks see õhtul tugevneb ja mis aitab enne magamajäämist."
-keywords: [ülemõtlemine, mõtlen liiga palju, kuidas lõpetada muretsemine, mõtted enne magamaminekut, mõtete vatramine õhtul, ei saa mõtete tõttu magada]
+seoTitle: "Kas mõtled üle? Märgid, sümptomid ja kuidas lõpetada"
+metaDescription: "Kerid vestlusi peas uuesti ja õhtul on õlad pinges? 12 ülemõtlemise märki ja sümptomit, tasuta test ja sammud, mis aitavad lõõgastuda."
+keywords: [ülemõtlemine, mõtlen liiga palju, kuidas lõpetada muretsemine, mõtted enne magamaminekut, mõtete vatramine õhtul, ei saa mõtete tõttu magada, ülemõtlemine sümptomid]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Mis vahe on mõtlemisel ja ülemõtlemisel?"
     a: "Mõtlemine viib sind kuhugi: otsuse, plaani või teoni. Ülemõtlemine käib ringiratast. Esitad endale ikka ja jälle samu küsimusi, ei saa teada midagi uut ning tunned end pärast halvemini, mitte selgemalt."
@@ -19,6 +20,8 @@ faq:
     a: "Ei. Ülemõtlemine on mõtteharjumus, mida tunneb peaaegu igaüks, mitte diagnoos. See võib siiski käia käsikäes ärevuse või meeleolulangusega. Kui see võtab sul nädalaid und või segab igapäevaelu, räägi oma perearsti või psühholoogiga."
   - q: "Kas veebitest saab öelda, kas ma mõtlen üle?"
     a: "Test näitab, millised mustrid sinu vastustes kõige sagedamini esinevad, näiteks mineviku üle vatramine või tuleviku pärast muretsemine. See annab sulle sõnad ja lähtekoha. See ei ole diagnoos ega tunne sinu elu tausta."
+  - q: "Millised on ülemõtlemise sümptomid?"
+    a: "Peas: samad mõtted ikka ja jälle, raskused keskendumise ja otsustamisega. Kehas: pinges lihased, rahutu kõht, pinnapealne hingamine, peavalu ja halb uni. Need märgid leevenevad tavaliselt, kui mõtted rahunevad. Kui need kestavad nädalaid, räägi oma perearstiga."
 ---
 
 Tõenäoliselt mõtled sa üle, kui mängid vestlusi sageli peas uuesti läbi, kujutad juba ette, mis kõik võib viltu minna, või kulutad väikestele otsustele palju rohkem aega, kui need väärt on. Ülemõtlemine ei ole sama mis kaalutlevus. Need on mõtted, mis käivad ringiratast ja jätavad sind väsinumaks kui enne, ning paljudel on need kõige tugevamad just siis, kui tuli kustub.
@@ -53,6 +56,12 @@ Sa ei pea end kõigis ära tundma. Kui viis või rohkem kõlavad väga tuttavalt
 Ükski neist märkidest ei räägi intelligentsusest ega sellest, et hoolid teistest liiga palju. Paljud ülemõtlejad on hoolikad, kohusetundlikud ja lahked. Probleem ei ole mõtete kvaliteedis, vaid selles, et need ei lõpe.
 
 Tasub tähele panna ka seda, kuidas ülemõtlemine kehas tundub. Paljudel annab see tunda pinges õlgade, kokku surutud lõualuude või rahutusena, mis ei kao ka diivanil istudes. Mõni märkab, et sööb mõtlemata või kerib telefonis tund aega lihtsalt selleks, et oma mõtteid vältida. Need märgid on kasulikud, sest keha märkab mõtteringi sageli enne, kui pea seda tunnistab. Kui tunned ära oma varase märgi, saad varem peatuda.
+
+### Ülemõtlemise sümptomid, mida tunned kehas
+
+Ülemõtlemine ei jää ainult pähe. Paljud märkavad seda kõigepealt kehas: pinges õlad või kokku surutud lõualuu, rahutu kõht, pinnapealne hingamine, peavalu päeva lõpus. Teised märkavad pigem vaimset poolt: raske keskenduda, ununeb, mida keegi just ütles, või ärkad väsinuna pärast tervet ööd voodis.
+
+Need sümptomid on see, mida keha teeb, kui ta valmistub pidevalt probleemiks, mis kunagi ei tule. Tavaliselt need leevenevad, kui mõtted rahunevad. Kui need on tugevad, kestavad nädalaid või kaasnevad paanika või pidev ohutunne, tasub uurida, kas suuremat rolli mängib ärevus.
 
 ## Neli hetke, mida võid ära tunda
 
@@ -105,6 +114,8 @@ Lõpuks võib voodi hakata seostuma vatramisega. Kui oled öö öö järel ärkv
 Kirjuta vastused nädala jooksul üles. Enamik inimesi on üllatunud, kui sageli sama teema tagasi tuleb. Kui soovid korrastatumat pilti, mõõdab [tasuta ülemõtlemise test](/et/overthinking) just neid nelja mustrit: mõtete vatramist, tulevikumuret, otsustamatust ja sotsiaalset ülemõtlemist.
 
 Ülemõtlemine on seotud ka teiste mustritega. Need, kes muretsevad palju selle pärast, kuidas teised neid näevad, tunnevad end sageli ära [kõigile meeldijas](/et/people-pleaser). Vastamata sõnumi lõputut ülelugemist kirjeldasime põhjalikult artiklis [ärevast kiindumusest ja sõnumitest](/et/blog/arev-kiindumus-sonumid).
+
+Ülemõtlemine ja ärevus käivad tihti koos, aga need pole sama asi. Kui tahad näha, kui palju ärevust selles on, kasutab [tasuta ärevustest](/et/anxiety) GAD-7 küsimustikku, mida kasutavad ka arstid. Ja kui su mõtted keerlevad peamiselt kriitika või ei ütlemise ümber, loe ka meie artikleid [tõrjumistundlikkusest](/et/blog/torjumistundlikkus-kriitika) ja sellest, [kuidas öelda ei ilma süütundeta](/et/blog/kuidas-oelda-ei-ilma-suutundeta).
 
 ## Kuidas enne magamaminekut ülemõtlemine lõpetada
 

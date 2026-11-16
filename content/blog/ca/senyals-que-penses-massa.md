@@ -2,14 +2,15 @@
 title: "Senyals que penses massa, i com deixar de donar-hi voltes al vespre"
 description: "Repassar converses al cap, imaginar el pitjor, encallar-te en decisions petites. Els senyals que penses massa, per què empitjora al vespre i què ajuda de debò a desconnectar."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Redacció de Personality Reveal"
 category: "Benestar"
 tags: [pensar massa, rumiació, preocupació, son, overthinking]
-seoTitle: "Penses massa? 12 senyals i com parar al vespre"
-metaDescription: "Repasses converses una vegada i una altra i sempre imagines el pitjor? 12 senyals que penses massa, per què empitjora al vespre i què fer abans de dormir."
-keywords: [pensar massa, senyals que penses massa, com deixar de pensar tant, rumiar a la nit, pensaments abans de dormir, no puc dormir de tant pensar]
+seoTitle: "Pensar massa: senyals, símptomes i com parar al vespre"
+metaDescription: "Repasses converses i notes les espatlles tibants al vespre? 12 senyals i símptomes de pensar massa, un test gratuït i el que ajuda a desconnectar."
+keywords: [pensar massa, senyals que penses massa, com deixar de pensar tant, rumiar a la nit, pensaments abans de dormir, no puc dormir de tant pensar, pensar massa símptomes]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Quina diferència hi ha entre pensar i pensar massa?"
     a: "Pensar et porta a algun lloc: una decisió, un pla o una acció. Pensar massa fa voltes en cercle. Et fas les mateixes preguntes una vegada i una altra, no aprens res de nou i després et sents pitjor en lloc de més clar."
@@ -19,6 +20,8 @@ faq:
     a: "No. Pensar massa és un hàbit mental que gairebé tothom coneix, no un diagnòstic. Tot i així, pot anar lligat a l'ansietat o a l'estat d'ànim baix. Si et treu la son durant setmanes o t'interfereix en el dia a dia, parla'n amb el teu metge de capçalera o amb un psicòleg."
   - q: "Un test en línia em pot dir si penso massa?"
     a: "Un test mostra quins patrons apareixen més sovint en les teves respostes, com ara donar voltes al passat o preocupar-te pel futur. Et dona paraules i un punt de partida. No és un diagnòstic i no coneix el context de la teva vida."
+  - q: "Quins són els símptomes de pensar massa?"
+    a: "Al cap: els mateixos pensaments una vegada i una altra, dificultat per concentrar-te i per triar. Al cos: músculs tibants, estómac remogut, respiració curta, mal de cap i mala son. Aquests senyals solen baixar quan els pensaments es calmen. Si duren setmanes, parla-ho amb el teu metge."
 ---
 
 Probablement penses massa si sovint repasses converses al cap, imagines per endavant tot el que podria sortir malament o dediques a decisions petites molt més temps del que es mereixen. Pensar massa no és el mateix que ser reflexiu. Són pensaments que fan voltes en cercle i et deixen més cansat que abans, i en molta gent arriben al punt més alt just quan s'apaga el llum.
@@ -51,6 +54,12 @@ No cal que t'hi identifiquis en tots. Si cinc o més et resulten molt familiars,
 12. Pensar en un problema et deixa més encallat, no menys.
 
 Cap d'aquests senyals té a veure amb la intel·ligència ni amb preocupar-te massa pels altres. Moltes persones que pensen massa són curoses, responsables i amables. El problema no és la qualitat dels pensaments, sinó que no s'aturen.
+
+### Símptomes de pensar massa que notes al cos
+
+Pensar massa no es queda al cap. Molta gent ho nota primer al cos: espatlles tibants o la mandíbula estreta, l'estómac remogut, respiració curta, mal de cap al final del dia. Altres persones noten sobretot la part mental: costa concentrar-se, s'obliden del que algú acaba de dir o es lleven cansades després de tota una nit al llit.
+
+Aquests símptomes són el que fa un cos que es prepara una vegada i una altra per a un problema que no arriba mai. Solen baixar quan baixen els pensaments. Si són forts, duren setmanes o vénen amb pànic o una sensació constant d'amenaça, val la pena mirar si l'ansietat hi té més pes.
 
 ## Tres moments que potser reconeixeràs
 
@@ -97,6 +106,8 @@ Pensar massa no es veu igual en tothom, i el que ajuda depèn de quin patró és
 Apunta les respostes durant una setmana. La majoria de la gent se sorprèn de la freqüència amb què torna el mateix tema. Si vols una imatge més ordenada, el [test de pensament excessiu gratuït](/ca/overthinking) mesura justament aquests quatre patrons: rumiació, preocupació pel futur, indecisió i repàs social.
 
 Pensar massa també es relaciona amb altres patrons. Les persones que es preocupen molt per com les veuen els altres sovint es reconeixen en la [complaença](/ca/people-pleaser). I rellegir sense parar un missatge que no rep resposta ho vam descriure amb detall al nostre article sobre [l'aferrament ansiós i els missatges](/ca/blog/aferrament-ansios-missatges).
+
+Pensar massa i l'ansietat sovint van junts, però no són el mateix. Si vols veure quanta ansietat hi ha, el [test d'ansietat gratuït](/ca/anxiety) fa servir el GAD-7, un qüestionari curt que també fan servir els metges. I si els teus pensaments giren sobretot al voltant de les crítiques o de dir que no, els nostres articles sobre [la sensibilitat al rebuig](/ca/blog/sensibilitat-al-rebuig-critiques) i [com dir que no sense culpa](/ca/blog/com-dir-que-no-sense-culpa) hi aprofundeixen.
 
 ## Com deixar de pensar massa abans de dormir: passos que ajuden
 

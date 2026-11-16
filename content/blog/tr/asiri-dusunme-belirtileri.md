@@ -2,14 +2,15 @@
 title: "Aşırı düşünme belirtileri ve akşamları kafandaki döngüyü nasıl durdurursun"
 description: "Konuşmaları kafanda tekrar tekrar oynatıyor, en kötüsünü hayal ediyor ve küçük seçimlerde takılıp kalıyorsun. Aşırı düşünmenin belirtileri, neden akşam kötüleştiği ve sakinleşmene gerçekten ne yardım ettiği."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Personality Reveal editör ekibi"
 category: "İyi oluş"
 tags: [aşırı düşünme, overthinking, ruminasyon, kaygı, uyku]
-seoTitle: "Aşırı düşünme: 12 belirti ve akşamları nasıl durdurulur"
-metaDescription: "Konuşmaları tekrar tekrar kafanda oynatıp hep en kötüsünü mü bekliyorsun? Aşırı düşünmenin 12 belirtisi, neden akşam arttığı ve uykudan önce ne işe yarar."
-keywords: [aşırı düşünme, aşırı düşünme belirtileri, overthinking, aşırı düşünme nasıl durdurulur, uyumadan önce düşünceler, düşünmekten uyuyamıyorum]
+seoTitle: "Aşırı düşünme: belirtiler, bedensel etkiler ve çözüm"
+metaDescription: "Konuşmaları kafanda tekrar tekrar oynatıyor, akşam omuzlarında gerginlik mi hissediyorsun? Aşırı düşünmenin 12 belirtisi, ücretsiz test ve çözüm."
+keywords: [aşırı düşünme, aşırı düşünme belirtileri, overthinking, aşırı düşünme nasıl durdurulur, uyumadan önce düşünceler, düşünmekten uyuyamıyorum, aşırı düşünme fiziksel belirtileri]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Düşünmek ile aşırı düşünmek arasındaki fark nedir?"
     a: "Düşünmek seni bir yere götürür: bir karara, bir plana ya da bir eyleme. Aşırı düşünmek ise kısır döngüde döner. Kendine aynı soruları tekrar tekrar sorarsın, yeni hiçbir şey öğrenmezsin ve sonunda daha net değil, daha kötü hissedersin."
@@ -19,6 +20,8 @@ faq:
     a: "Hayır. Aşırı düşünme neredeyse herkesin bildiği bir düşünce alışkanlığıdır, bir tanı değildir. Yine de kaygı ya da çökkün ruh hâliyle birlikte görülebilir. Haftalarca uykunu kaçırıyor ya da günlük hayatını zorlaştırıyorsa aile hekiminle ya da bir psikologla konuş."
   - q: "Çevrimiçi bir test aşırı düşünüp düşünmediğimi söyleyebilir mi?"
     a: "Bir test, cevaplarında en sık hangi örüntülerin ortaya çıktığını gösterir; örneğin geçmişe takılmak ya da gelecek için endişelenmek. Sana kelimeler ve bir başlangıç noktası verir. Bir tanı değildir ve hayatının bağlamını bilmez."
+  - q: "Aşırı düşünmenin belirtileri nelerdir?"
+    a: "Zihinde: aynı düşüncelerin tekrar tekrar dönmesi, odaklanma ve karar verme güçlüğü. Bedende: gergin kaslar, midede huzursuzluk, yüzeysel nefes, baş ağrısı ve kötü uyku. Bu sinyaller genellikle düşünceler sakinleşince azalır. Haftalarca sürerse aile hekiminle konuş."
 ---
 
 Konuşmaları sık sık kafanda yeniden oynatıyorsan, ters gidebilecek her şeyi önceden hayal ediyorsan ya da küçük kararlara hak ettiklerinden çok daha fazla zaman ayırıyorsan, büyük ihtimalle aşırı düşünüyorsun. Aşırı düşünmek, düşünceli olmakla aynı şey değildir. Bunlar kısır döngüde dönen ve seni öncekinden daha yorgun bırakan düşüncelerdir ve birçok insanda tam ışıklar söndüğünde en güçlü hâline gelir.
@@ -53,6 +56,12 @@ Hepsinde kendini tanıman gerekmiyor. Beş ya da daha fazlası çok tanıdık ge
 Bu belirtilerin hiçbiri zekâyla ya da başkalarını fazla önemsemekle ilgili değil. Aşırı düşünen birçok insan dikkatli, sorumluluk sahibi ve naziktir. Sorun düşüncelerin kalitesinde değil, durmamalarındadır.
 
 Aşırı düşünmenin bedende nasıl hissedildiğine de dikkat etmeye değer. Birçok kişide gergin omuzlar, sıkılmış çene ya da koltukta otururken bile geçmeyen bir huzursuzluk olarak kendini gösterir. Bazıları farkında olmadan yemek yediğini ya da yalnızca kendi düşüncelerinden kaçmak için bir saat boyunca telefonda gezindiğini fark eder. Bu işaretler faydalıdır, çünkü beden düşünce sarmalını çoğu zaman zihin kabul etmeden önce fark eder. Kendi erken sinyalini tanıdığında daha erken durabilirsin.
+
+### Aşırı düşünmenin bedende hissedilen belirtileri
+
+Aşırı düşünme sadece kafanda kalmaz. Birçok kişi onu önce bedeninde fark eder: gergin omuzlar ya da sıkılmış bir çene, midede huzursuzluk, yüzeysel nefes, gün sonunda baş ağrısı. Bazıları ise daha çok zihinsel tarafı fark eder: odaklanmakta zorlanmak, birinin az önce söylediğini unutmak ya da bütün gece yatakta kaldıktan sonra yorgun uyanmak.
+
+Bu belirtiler, hiç gelmeyen bir soruna sürekli hazırlanan bir bedenin yaptığı şeydir. Genellikle düşünceler sakinleşince azalırlar. Güçlüyseler, haftalarca sürüyorlarsa ya da panik veya sürekli bir tehdit hissiyle geliyorlarsa, kaygının daha büyük bir rol oynayıp oynamadığına bakmaya değer.
 
 ## Tanıyabileceğin dört an
 
@@ -105,6 +114,8 @@ Aşırı düşünme herkeste farklı görünür ve neyin işe yaradığı, sende
 Cevapları bir hafta boyunca yaz. Çoğu insan aynı konunun ne sıklıkla geri döndüğüne şaşırır. Daha düzenli bir tablo istersen, [ücretsiz Aşırı Düşünme Testi](/tr/overthinking) tam olarak bu dört örüntüyü ölçer: ruminasyon, gelecek kaygısı, kararsızlık ve sosyal anları tekrar oynatma.
 
 Aşırı düşünme başka örüntülerle de bağlantılıdır. Başkalarının onları nasıl gördüğüne çok kafa yoran kişiler genellikle kendilerini [herkesi memnun etme](/tr/people-pleaser) eğiliminde tanır. Cevapsız kalan bir mesajı bitmek bilmeden tekrar okumayı da [kaygılı bağlanma ve mesajlar](/tr/blog/kaygili-baglanma-mesajlar) hakkındaki yazımızda ayrıntılı olarak anlattık.
+
+Aşırı düşünme ile kaygı çoğu zaman birlikte gelir ama aynı şey değildir. İşin içinde ne kadar kaygı olduğunu görmek istersen, [ücretsiz kaygı testi](/tr/anxiety) doktorların da kullandığı kısa bir anket olan GAD-7'yi kullanır. Düşüncelerin daha çok eleştiri ya da hayır demek etrafında dönüyorsa, [reddedilme hassasiyeti](/tr/blog/reddedilme-hassasiyeti-elestiri) ve [suçluluk duymadan hayır demek](/tr/blog/sucluluk-duymadan-hayir-demek) üzerine yazılarımız bu kalıplara daha yakından bakıyor.
 
 ## Uyumadan önce aşırı düşünmeyi nasıl durdurursun
 

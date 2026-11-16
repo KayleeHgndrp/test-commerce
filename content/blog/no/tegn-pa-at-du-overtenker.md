@@ -2,14 +2,15 @@
 title: "Tegn på at du overtenker, og hvordan du slutter å gruble om kvelden"
 description: "Du spiller av samtaler i hodet, ser for deg det verste og blir sittende fast i små valg. Tegnene på at du tenker for mye, hvorfor det blir verre om kvelden og hva som faktisk hjelper deg å koble av."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Redaksjonen i Personality Reveal"
 category: "Velvære"
 tags: [overtenking, grubling, bekymringer, søvn, tankekjør]
-seoTitle: "Overtenker du? 12 tegn og hvordan du stopper om kvelden"
-metaDescription: "Spiller du av samtaler om og om igjen og venter alltid det verste? 12 tegn på overtenking, hvorfor det øker om kvelden og hva som hjelper før du sovner."
-keywords: [overtenker, tegn på overtenking, slutte å gruble, tankekjør om kvelden, gruble i senga, får ikke sove på grunn av tanker]
+seoTitle: "Overtenker du? Tegn, symptomer og slik stopper du"
+metaDescription: "Spiller du samtaler om igjen og kjenner stramme skuldre om kvelden? 12 tegn og symptomer på overtenking, en gratis test og hva som hjelper deg å slappe av."
+keywords: [overtenker, tegn på overtenking, slutte å gruble, tankekjør om kvelden, gruble i senga, får ikke sove på grunn av tanker, overtenking symptomer]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Hva er forskjellen på å tenke og å overtenke?"
     a: "Å tenke fører deg et sted: til en beslutning, en plan eller en handling. Å overtenke går i ring. Du stiller de samme spørsmålene igjen og igjen, lærer ingenting nytt og føler deg verre etterpå i stedet for klarere."
@@ -19,6 +20,8 @@ faq:
     a: "Nei. Overtenking er en tankevane som nesten alle kjenner igjen, ikke en diagnose. Den kan likevel henge sammen med angst eller nedstemthet. Hvis den holder deg våken i flere uker eller står i veien for hverdagen, snakk med fastlegen din eller en psykolog."
   - q: "Kan en nettbasert test vise om jeg overtenker?"
     a: "En test viser hvilke mønstre som dukker oftest opp i svarene dine, for eksempel grubling over det som har skjedd eller bekymring for fremtiden. Den gir deg ord og et utgangspunkt. Den er ingen diagnose og kjenner ikke sammenhengen i livet ditt."
+  - q: "Hva er symptomene på overtenking?"
+    a: "I hodet: de samme tankene om og om igjen, vanskelig å konsentrere seg og vanskelig å velge. I kroppen: stramme muskler, uro i magen, overfladisk pust, hodepine og dårlig søvn. Signalene gir seg som regel når tankene roer seg. Varer de i ukevis, snakk med fastlegen din."
 ---
 
 Du overtenker sannsynligvis hvis du ofte spiller av samtaler i hodet, på forhånd ser for deg alt som kan gå galt, eller bruker mye lengre tid på små beslutninger enn de fortjener. Å overtenke er ikke det samme som å være ettertenksom. Det er tanker som går i ring og etterlater deg mer sliten enn før, og for mange er de sterkest akkurat når lyset slukkes.
@@ -51,6 +54,12 @@ Du trenger ikke kjenne deg igjen i alle. Hvis fem eller flere høres veldig kjen
 12. Når du tenker på et problem, føler du deg mer fastlåst, ikke mindre.
 
 Ingen av disse tegnene handler om intelligens eller om at du bryr deg for mye om andre. Mange som overtenker er grundige, pliktoppfyllende og snille. Problemet er ikke kvaliteten på tankene, men at de ikke stopper.
+
+### Symptomer på overtenking som du kjenner i kroppen
+
+Overtenking blir ikke værende i hodet. Mange merker det først i kroppen: stramme skuldre eller en sammenbitt kjeve, uro i magen, overfladisk pust, hodepine på slutten av dagen. Andre merker mest den mentale siden: vanskelig å konsentrere seg, glemmer hva noen nettopp sa, eller våkner sliten etter en hel natt i senga.
+
+Symptomene er det kroppen gjør når den hele tiden gjør seg klar for et problem som aldri kommer. De gir seg som regel når tankene roer seg. Er de sterke, varer de i ukevis eller kommer de sammen med panikk eller en konstant følelse av uro, er det lurt å sjekke om angst spiller en større rolle.
 
 ## Tre øyeblikk du kanskje kjenner igjen
 
@@ -97,6 +106,8 @@ Overtenking ser ulik ut fra person til person, og hva som hjelper, avhenger av h
 Skriv ned svarene i en uke. De fleste blir overrasket over hvor ofte det samme temaet kommer tilbake. Vil du ha et mer oversiktlig bilde, måler den [gratis overtenkingstesten](/no/overthinking) akkurat disse fire mønstrene: grubling, bekymring for fremtiden, ubesluttsomhet og sosial gjenavspilling.
 
 Overtenking henger også sammen med andre mønstre. De som bekymrer seg mye for hvordan andre ser dem, kjenner seg ofte igjen i å være en [people pleaser](/no/people-pleaser). Og det å lese en ubesvart melding om og om igjen har vi beskrevet grundig i artikkelen vår om [engstelig tilknytning og meldinger](/no/blog/engstelig-tilknytning-meldinger).
+
+Overtenking og angst henger ofte sammen, men de er ikke det samme. Vil du se hvor mye angst som er med, bruker den [gratis angsttesten](/no/anxiety) GAD-7, et kort spørreskjema som leger også bruker. Og kretser tankene mest rundt kritikk eller rundt å si nei, kan du lese artiklene våre om [avvisningssensitivitet](/no/blog/avvisningssensitivitet-kritikk) og [å si nei uten dårlig samvittighet](/no/blog/si-nei-uten-darlig-samvittighet).
 
 ## Slik slutter du å gruble før du skal sove
 
