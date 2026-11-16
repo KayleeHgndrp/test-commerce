@@ -2,14 +2,15 @@
 title: "Signs you are an overthinker, and how to stop at night"
 description: "Replaying conversations, imagining the worst, getting stuck on small choices. The signs of overthinking, why it gets worse at night and what actually helps you switch off."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Personality Reveal editorial team"
 category: "Wellbeing"
 tags: [overthinking, rumination, worry, sleep, anxiety]
-seoTitle: "Signs you are an overthinker (and how to stop at night)"
-metaDescription: "Do you replay conversations and picture the worst? 12 signs of overthinking, why it gets worse at night and practical steps to quiet your mind."
-keywords: [signs you are an overthinker, how to stop overthinking at night, overthinking signs, am I an overthinker, why do I overthink at night]
+seoTitle: "Overthinking: signs, symptoms and how to stop at night"
+metaDescription: "Replaying talks, picturing the worst, tense shoulders at night? 12 signs and symptoms of overthinking, a free test and steps that help you switch off."
+keywords: [signs you are an overthinker, how to stop overthinking at night, overthinking signs, am I an overthinker, why do I overthink at night, overthinking symptoms]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "What is the difference between thinking and overthinking?"
     a: "Thinking moves you towards a decision or an action. Overthinking goes round in circles: you ask the same questions again and again, you do not learn anything new, and you feel worse afterwards instead of clearer."
@@ -19,6 +20,8 @@ faq:
     a: "No. Overthinking is a habit of mind that almost everyone recognises, not a diagnosis. It can be part of anxiety or low mood, though, so if it keeps you awake for weeks or gets in the way of daily life, talk to your GP or a psychologist."
   - q: "Can an online test tell me if I am an overthinker?"
     a: "A test can show which patterns come up most in your answers, such as dwelling on the past or worrying about the future. It gives you words and a starting point. It does not diagnose anything and it cannot see the context of your life."
+  - q: "What are the symptoms of overthinking?"
+    a: "In your head: the same thoughts on repeat, trouble concentrating and difficulty making choices. In your body: tense muscles, a restless stomach, shallow breathing, headaches and poor sleep. These signals usually fade when the thinking calms down. If they last for weeks, talk to your GP."
 ---
 
 You are probably an overthinker if you often replay conversations, picture what could go wrong before it happens, or spend far longer on small decisions than they deserve. Overthinking is not the same as being thoughtful. It is thinking that goes round in circles and leaves you more tired than before, and for many people it peaks the moment the lights go out.
@@ -51,6 +54,12 @@ You do not need all of these. If five or more sound very familiar, overthinking 
 12. Thinking about a problem makes you feel more stuck, not less.
 
 Notice that none of these signs is about intelligence or caring too much. Many overthinkers are careful, conscientious and kind. The problem is not the quality of the thoughts, but the fact that they will not stop.
+
+### Overthinking symptoms you can feel in your body
+
+Overthinking does not stay in your head. Many people notice it first in their body: tense shoulders or a tight jaw, a restless stomach, shallow breathing, a headache at the end of the day. Others mainly notice the mental side: trouble concentrating, forgetting what someone just said, or waking up tired after a full night in bed.
+
+These symptoms are what a body does when it keeps preparing for a problem that never arrives. They usually ease when the thinking eases. If they are strong, last for weeks or come with panic or a constant sense of dread, it is worth checking whether anxiety plays a bigger part.
 
 ## Three moments you may recognise
 
@@ -97,6 +106,8 @@ Overthinking looks different from person to person, and the steps that help depe
 Write the answers down for a week. Most people are surprised how often the same theme comes back. If you want a more structured picture, the [free overthinking test](/en/overthinking) measures exactly these four patterns: dwelling on the past, worrying about the future, indecision and social replay.
 
 Overthinking also links with other patterns. People who worry a lot about how others see them often recognise themselves in [people pleasing](/en/people-pleaser), and replaying unanswered messages is something we described in detail in our article on [anxious attachment and texting](/en/blog/anxious-attachment-texting).
+
+Overthinking and anxiety often go together, but they are not the same thing. If you want to see how much anxiety is in the mix, the [free anxiety test](/en/anxiety) uses the GAD-7, a short questionnaire that doctors also use for screening. And if your thoughts mostly circle around criticism or around saying no, our articles on [rejection sensitivity](/en/blog/rejection-sensitivity-criticism) and [saying no without guilt](/en/blog/how-to-say-no-without-guilt) go deeper into those patterns.
 
 ## How to stop overthinking at night: steps that help
 

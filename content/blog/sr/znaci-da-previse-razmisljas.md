@@ -2,14 +2,15 @@
 title: "Znaci da previše razmišljaš i kako uveče prestati da vrtiš misli"
 description: "Vrtiš razgovore u glavi, zamišljaš najgore i zaglaviš se na sitnim odlukama. Znaci preteranog razmišljanja, zašto je uveče gore i šta zaista pomaže da se smiriš."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Redakcija Personality Reveal"
 category: "Blagostanje"
 tags: [preterano razmišljanje, overthinking, ruminacija, briga, san]
-seoTitle: "Previše razmišljaš? 12 znakova i kako da staneš uveče"
-metaDescription: "Vrtiš razgovore u glavi iznova i uvek očekuješ najgore? 12 znakova preteranog razmišljanja, zašto je uveče jače i šta pomaže pre spavanja."
-keywords: [previše razmišljam, preterano razmišljanje, overthinking, kako prestati da razmišljam, misli pre spavanja, ne mogu da zaspim od misli]
+seoTitle: "Previše razmišljaš? Znaci, simptomi i kako da staneš"
+metaDescription: "Vrtiš razgovore u glavi i uveče osećaš napeta ramena? 12 znakova i simptoma preteranog razmišljanja, besplatan test i koraci koji pomažu da se isključiš."
+keywords: [previše razmišljam, preterano razmišljanje, overthinking, kako prestati da razmišljam, misli pre spavanja, ne mogu da zaspim od misli, preterano razmišljanje simptomi]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Koja je razlika između razmišljanja i preteranog razmišljanja?"
     a: "Razmišljanje te negde vodi: do odluke, plana ili postupka. Preterano razmišljanje se vrti u krug. Stalno postavljaš sebi ista pitanja, ne saznaješ ništa novo i posle se osećaš gore umesto jasnije."
@@ -19,6 +20,8 @@ faq:
     a: "Nije. Preterano razmišljanje je misaona navika koju poznaje skoro svako, a ne dijagnoza. Ipak, može da ide ruku pod ruku sa anksioznošću ili lošim raspoloženjem. Ako ti nedeljama krade san ili ti smeta u svakodnevici, razgovaraj sa svojim izabranim lekarom ili psihologom."
   - q: "Može li onlajn test da mi kaže da li previše razmišljam?"
     a: "Test pokazuje koji se obrasci najčešće javljaju u tvojim odgovorima, na primer vraćanje na prošlost ili briga o budućnosti. Daje ti reči i polaznu tačku. Nije dijagnoza i ne poznaje kontekst tvog života."
+  - q: "Koji su simptomi preteranog razmišljanja?"
+    a: "U glavi: iste misli u krug, teškoće sa koncentracijom i sa odlučivanjem. U telu: napeti mišići, nemir u stomaku, plitko disanje, glavobolje i loš san. Ti signali obično popuste kad se misli smire. Ako traju nedeljama, razgovaraj sa svojim izabranim lekarom."
 ---
 
 Verovatno previše razmišljaš ako često vrtiš razgovore u glavi, unapred zamišljaš sve što bi moglo da pođe naopako ili sitnim odlukama posvećuješ mnogo više vremena nego što zaslužuju. Preterano razmišljanje nije isto što i promišljenost. To su misli koje se vrte u krug i ostavljaju te umornijim nego pre, a kod mnogih su najjače baš kad se ugasi svetlo.
@@ -53,6 +56,12 @@ Ne moraš da se prepoznaš u svima. Ako ti pet ili više zvuči veoma poznato, v
 Nijedan od ovih znakova ne govori o inteligenciji niti o tome da ti je previše stalo do drugih. Mnogi koji previše razmišljaju pažljivi su, savesni i dragi. Problem nije u kvalitetu misli, nego u tome što ne prestaju.
 
 Vredi primetiti i kako se preterano razmišljanje oseća u telu. Kod mnogih se javlja kao napeta ramena, stegnuta vilica ili nemir koji ne prolazi ni kad sediš na kauču. Neki primete da jedu bez razmišljanja ili sat vremena skroluju po telefonu samo da bi izbegli sopstvene misli. Ti znaci su korisni jer telo često primeti vrtlog misli pre nego što ga um prizna. Kad prepoznaš svoj rani signal, možeš ranije da staneš.
+
+### Simptomi preteranog razmišljanja koje osećaš u telu
+
+Preterano razmišljanje ne ostaje samo u glavi. Mnogi ga prvo primete u telu: napeta ramena ili stisnuta vilica, nemir u stomaku, plitko disanje, glavobolja na kraju dana. Drugi više primećuju mentalnu stranu: teško se koncentrišu, zaborave šta im je neko upravo rekao ili se bude umorni posle cele noći u krevetu.
+
+Ti simptomi su ono što radi telo koje se stalno sprema za problem koji nikad ne dođe. Obično popuste kad popuste misli. Ako su jaki, traju nedeljama ili dolaze sa panikom ili stalnim osećajem pretnje, vredi proveriti da li anksioznost igra veću ulogu.
 
 ## Tri trenutka koja možda poznaješ
 
@@ -99,6 +108,8 @@ Preterano razmišljanje ne izgleda kod svih isto, a ono što pomaže zavisi od t
 Zapisuj odgovore nedelju dana. Većina ljudi se iznenadi koliko se često vraća ista tema. Ako želiš pregledniju sliku, [besplatni test preteranog razmišljanja](/sr/overthinking) meri upravo ova četiri obrasca: ruminaciju, brigu o budućnosti, neodlučnost i premotavanje društvenih situacija.
 
 Preterano razmišljanje povezano je i sa drugim obrascima. Oni koji mnogo brinu o tome kako ih drugi vide često se prepoznaju u [ugađanju drugima](/sr/people-pleaser). A beskrajno ponovno čitanje poruke na koju nije stigao odgovor detaljno smo opisali u članku o [anksioznoj privrženosti i porukama](/sr/blog/anksiozna-privrzenost-poruke).
+
+Preterano razmišljanje i anksioznost često idu zajedno, ali nisu isto. Ako želiš da vidiš koliko je anksioznosti u svemu, [besplatan test anksioznosti](/sr/anxiety) koristi GAD-7, kratak upitnik koji koriste i lekari. A ako se tvoje misli uglavnom vrte oko kritike ili oko toga kako da kažeš ne, više ćeš naći u našim tekstovima o [osetljivosti na odbacivanje](/sr/blog/osetljivost-na-odbacivanje-kritika) i o tome [kako reći ne bez osećaja krivice](/sr/blog/kako-reci-ne-bez-osecaja-krivice).
 
 ## Kako da prestaneš da previše razmišljaš pre spavanja
 

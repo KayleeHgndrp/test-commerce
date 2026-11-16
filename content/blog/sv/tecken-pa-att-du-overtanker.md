@@ -2,14 +2,15 @@
 title: "Tecken på att du övertänker, och hur du slutar älta på kvällen"
 description: "Spela upp samtal i huvudet, föreställa dig det värsta, fastna i små val. Tecknen på att du tänker för mycket, varför det blir värre på kvällen och vad som faktiskt hjälper dig att varva ner."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Redaktionen på Personality Reveal"
 category: "Välmående"
 tags: [övertänkande, ältande, oro, sömn, grubbel]
-seoTitle: "Övertänker du? 12 tecken och hur du slutar älta på kvällen"
-metaDescription: "Spelar du upp samtal om och om igen och tänker alltid det värsta? 12 tecken på övertänkande, varför det blir värre på kvällen och vad som hjälper."
-keywords: [övertänka, tecken på övertänkande, sluta älta, grubbla på kvällen, tankar innan sömn, kan inte sova för tankar]
+seoTitle: "Övertänker du? Tecken, symtom och hur du slutar älta"
+metaDescription: "Spelar du upp samtal igen och har spända axlar på kvällen? 12 tecken och symtom på övertänkande, ett gratis test och det som hjälper dig att varva ner."
+keywords: [övertänka, tecken på övertänkande, sluta älta, grubbla på kvällen, tankar innan sömn, kan inte sova för tankar, övertänkande symtom]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Vad är skillnaden mellan att tänka och att övertänka?"
     a: "Att tänka leder dig någonstans: till ett beslut, en plan eller en handling. Att övertänka går i cirklar. Du ställer samma frågor gång på gång, lär dig inget nytt och mår sämre efteråt i stället för att se klarare."
@@ -19,6 +20,8 @@ faq:
     a: "Nej. Övertänkande är en tankevana som nästan alla känner igen, inte en diagnos. Det kan dock höra ihop med ångest eller nedstämdhet. Om det håller dig vaken i flera veckor eller står i vägen för vardagen, prata med vårdcentralen eller en psykolog."
   - q: "Kan ett test på nätet visa om jag övertänker?"
     a: "Ett test visar vilka mönster som oftast dyker upp i dina svar, till exempel att älta det som varit eller oroa dig för framtiden. Det ger dig ord och en startpunkt. Det är ingen diagnos, och testet känner inte till sammanhanget i ditt liv."
+  - q: "Vilka är symtomen på övertänkande?"
+    a: "I huvudet: samma tankar om och om igen, svårt att koncentrera sig och svårt att välja. I kroppen: spända muskler, oro i magen, ytlig andning, huvudvärk och dålig sömn. Signalerna brukar minska när tankarna lugnar sig. Håller de i sig i veckor, prata med en läkare på vårdcentralen."
 ---
 
 Du övertänker troligen om du ofta spelar upp samtal i huvudet, föreställer dig i förväg vad som kan gå fel eller lägger mycket längre tid på små beslut än de förtjänar. Att övertänka är inte samma sak som att vara eftertänksam. Det är tankar som går i cirklar och lämnar dig tröttare än innan, och för många är de som starkast precis när lampan släcks.
@@ -51,6 +54,12 @@ Du behöver inte känna igen dig i alla. Om fem eller fler låter väldigt bekan
 12. Att tänka på ett problem gör att du känner dig mer fast, inte mindre.
 
 Inget av tecknen handlar om intelligens eller om att du bryr dig för mycket om andra. Många som övertänker är noggranna, samvetsgranna och omtänksamma. Problemet är inte tankarnas kvalitet utan att de inte slutar.
+
+### Symtom på övertänkande som du känner i kroppen
+
+Övertänkande stannar inte i huvudet. Många märker det först i kroppen: spända axlar eller en hårt biten käke, oro i magen, ytlig andning, huvudvärk i slutet av dagen. Andra märker mest den mentala sidan: svårt att koncentrera sig, glömmer vad någon nyss sa, eller vaknar trött efter en hel natt i sängen.
+
+Symtomen är vad kroppen gör när den hela tiden förbereder sig för ett problem som aldrig kommer. De brukar minska när tankarna lugnar sig. Är de starka, håller de i sig i veckor eller kommer de med panik eller en ständig känsla av oro, är det värt att kolla om ångest spelar en större roll.
 
 ## Tre stunder du kanske känner igen
 
@@ -97,6 +106,8 @@ Till sist kan sängen bli förknippad med ältande. Om du ligger vaken och grubb
 Skriv ner svaren under en vecka. De flesta blir förvånade över hur ofta samma tema kommer tillbaka. Vill du ha en tydligare bild mäter det [kostnadsfria testet för övertänkande](/sv/overthinking) just de här fyra mönstren: ältande, framtidsoro, obeslutsamhet och sociala repriser.
 
 Övertänkande hänger också ihop med andra mönster. Den som oroar sig mycket för hur andra ser en känner ofta igen sig i att [vilja vara till lags](/sv/people-pleaser). Och att läsa ett obesvarat meddelande om och om igen har vi beskrivit utförligt i vår artikel om [ängslig anknytning och sms](/sv/blog/angslig-anknytning-sms).
+
+Övertänkande och ångest hänger ofta ihop, men de är inte samma sak. Vill du se hur mycket ångest som finns med använder det [gratis ångesttestet](/sv/anxiety) GAD-7, ett kort frågeformulär som även läkare använder. Och kretsar tankarna mest kring kritik eller kring att säga nej, läs då också våra artiklar om [avvisningskänslighet](/sv/blog/kanslig-for-kritik-avvisningskanslighet) och [att säga nej utan dåligt samvete](/sv/blog/saga-nej-utan-daligt-samvete).
 
 ## Sluta älta innan du ska sova: steg som hjälper
 

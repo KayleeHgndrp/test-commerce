@@ -2,14 +2,15 @@
 title: "Pazīmes, ka tu domā par daudz, un kā vakarā beigt gremdēties domās"
 description: "Tu atkārto sarunas galvā, iztēlojies sliktāko un iestrēgsti pie sīkām izvēlēm. Pārdomāšanas pazīmes, kāpēc vakarā kļūst sliktāk un kas tiešām palīdz nomierināt prātu."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Personality Reveal redakcija"
 category: "Labsajūta"
 tags: [pārdomāšana, gremdēšanās domās, raizes, miegs, domu virpulis]
-seoTitle: "Vai tu domā par daudz? 12 pazīmes un kā apstāties vakarā"
-metaDescription: "Vai atkal un atkal atkārto sarunas galvā un vienmēr gaidi sliktāko? 12 pārdomāšanas pazīmes, kāpēc vakarā tā pastiprinās un kas palīdz pirms miega."
-keywords: [pārāk daudz domāt, pārdomāšana, kā beigt pārdomāt, domas pirms miega, gremdēšanās domās vakarā, nevaru aizmigt domu dēļ]
+seoTitle: "Domā par daudz? Pazīmes, simptomi un kā apstāties vakarā"
+metaDescription: "Atkārto sarunas galvā un vakarā jūti saspringtus plecus? 12 pārdomāšanas pazīmes un simptomi, bezmaksas tests un soļi, kas palīdz atslēgties."
+keywords: [pārāk daudz domāt, pārdomāšana, kā beigt pārdomāt, domas pirms miega, gremdēšanās domās vakarā, nevaru aizmigt domu dēļ, pārdomāšana simptomi]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Kāda ir atšķirība starp domāšanu un pārdomāšanu?"
     a: "Domāšana tevi kaut kur aizved: pie lēmuma, plāna vai rīcības. Pārdomāšana griežas pa apli. Tu atkal un atkal uzdod sev tos pašus jautājumus, neuzzini neko jaunu un pēc tam jūties sliktāk, nevis skaidrāk."
@@ -19,6 +20,8 @@ faq:
     a: "Nē. Pārdomāšana ir domāšanas paradums, ko pazīst gandrīz ikviens, nevis diagnoze. Tomēr tā var būt saistīta ar trauksmi vai nomāktību. Ja tā nedēļām atņem tev miegu vai traucē ikdienā, aprunājies ar savu ģimenes ārstu vai psihologu."
   - q: "Vai tiešsaistes tests var pateikt, vai es domāju par daudz?"
     a: "Tests parāda, kādi modeļi tavās atbildēs parādās visbiežāk, piemēram, gremdēšanās pagātnē vai raizes par nākotni. Tas dod tev vārdus un sākumpunktu. Tā nav diagnoze, un tests nezina tavas dzīves kontekstu."
+  - q: "Kādi ir pārdomāšanas simptomi?"
+    a: "Galvā: tās pašas domas atkal un atkal, grūtības koncentrēties un izvēlēties. Ķermenī: saspringti muskuļi, nemiers vēderā, sekla elpošana, galvassāpes un slikts miegs. Šie signāli parasti mazinās, kad domas nomierinās. Ja tie ilgst nedēļām, runā ar savu ģimenes ārstu."
 ---
 
 Visticamāk, tu domā par daudz, ja bieži atkārto sarunas galvā, jau iepriekš iztēlojies, kas viss var noiet greizi, vai sīkiem lēmumiem velti daudz vairāk laika, nekā tie ir pelnījuši. Pārdomāšana nav tas pats, kas apdomība. Tās ir domas, kas griežas pa apli un atstāj tevi nogurušāku nekā iepriekš, un daudziem tās ir visspēcīgākās tieši tad, kad nodziest gaisma.
@@ -53,6 +56,12 @@ Tev nav jāatpazīst sevi visās. Ja piecas vai vairāk izklausās ļoti pazīst
 Neviena no šīm pazīmēm nerunā par inteliģenci vai par to, ka tev pārāk rūp citi. Daudzi, kas domā par daudz, ir rūpīgi, apzinīgi un laipni. Problēma nav domu kvalitātē, bet tajā, ka tās neapstājas.
 
 Vērts pamanīt arī to, kā pārdomāšana jūtama ķermenī. Daudziem tā izpaužas kā saspringti pleci, sakosti žokļi vai nemiers, kas nepāriet pat tad, kad sēdi uz dīvāna. Daži pamana, ka ēd neapzināti vai stundu ritina telefonu, lai tikai izvairītos no savām domām. Šīs pazīmes ir noderīgas, jo ķermenis bieži pamana domu virpuli agrāk, nekā prāts to atzīst. Kad atpazīsti savu agrīno signālu, vari apstāties ātrāk.
+
+### Pārdomāšanas simptomi, ko jūti ķermenī
+
+Pārdomāšana nepaliek tikai galvā. Daudzi to vispirms pamana ķermenī: saspringti pleci vai sakosts žoklis, nemiers vēderā, sekla elpošana, galvassāpes dienas beigās. Citi vairāk pamana garīgo pusi: grūti koncentrēties, aizmirst, ko kāds tikko teica, vai pamosties noguris pēc veselas nakts gultā.
+
+Šie simptomi ir tas, ko dara ķermenis, kas nepārtraukti gatavojas problēmai, kura nekad nepienāk. Parasti tie mazinās, kad nomierinās domas. Ja tie ir spēcīgi, ilgst nedēļām vai tiem pievienojas panika vai pastāvīga apdraudējuma sajūta, ir vērts pārbaudīt, vai lielāku lomu nespēlē trauksme.
 
 ## Četri brīži, kuros varbūt sevi atpazīsi
 
@@ -105,6 +114,8 @@ Pārdomāšana katram izskatās citādi, un tas, kas palīdz, atkarīgs no tā, 
 Pieraksti atbildes vienu nedēļu. Lielākā daļa cilvēku ir pārsteigti, cik bieži atgriežas tā pati tēma. Ja vēlies sakārtotāku ainu, [bezmaksas pārdomāšanas tests](/lv/overthinking) mēra tieši šos četrus modeļus: gremdēšanos, raizes par nākotni, neizlēmību un sociālo situāciju pārcilāšanu.
 
 Pārdomāšana ir saistīta arī ar citiem modeļiem. Tie, kas daudz uztraucas par to, kā viņus redz citi, bieži atpazīst sevi [izpatikšanas tieksmē](/lv/people-pleaser). Bet neatbildētas ziņas bezgalīgu pārlasīšanu mēs sīki aprakstījām rakstā par [trauksmaino piesaisti un ziņām](/lv/blog/trauksmaina-piesaiste-zinas).
+
+Pārdomāšana un trauksme bieži iet roku rokā, bet tās nav viens un tas pats. Ja gribi redzēt, cik daudz trauksmes tur ir, [bezmaksas trauksmes tests](/lv/anxiety) izmanto GAD-7, īsu aptauju, ko lieto arī ārsti. Un ja tavas domas galvenokārt griežas ap kritiku vai ap to, kā atteikt, vairāk atradīsi mūsu rakstos par [jūtīgumu pret atraidījumu](/lv/blog/jutigums-pret-atraidijumu-kritika) un par to, [kā pateikt nē bez vainas apziņas](/lv/blog/ka-pateikt-ne-bez-vainas-apzinas).
 
 ## Kā beigt pārdomāt pirms miega: soļi, kas palīdz
 

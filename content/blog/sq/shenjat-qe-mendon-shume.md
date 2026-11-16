@@ -2,14 +2,15 @@
 title: "Shenjat që mendon shumë, dhe si ta ndalosh mendimin në rreth në mbrëmje"
 description: "I rikthen bisedat në mendje, imagjinon më të keqen dhe ngec te zgjedhjet e vogla. Shenjat e të menduarit të tepërt, pse përkeqësohet në mbrëmje dhe çfarë të ndihmon vërtet të qetësohesh."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Redaksia e Personality Reveal"
 category: "Mirëqenie"
 tags: [të menduarit e tepërt, overthinking, ruminim, shqetësim, gjumë]
-seoTitle: "Mendon shumë? 12 shenja dhe si të ndalesh në mbrëmje"
-metaDescription: "I rikthen bisedat në mendje vazhdimisht dhe pret gjithmonë më të keqen? 12 shenja të të menduarit të tepërt, pse shtohet në mbrëmje dhe çfarë ndihmon."
-keywords: [mendoj shumë, të menduarit e tepërt, overthinking, si të ndaloj së menduari, mendime para gjumit, nuk më zë gjumi nga mendimet]
+seoTitle: "Mendon shumë? Shenjat, simptomat dhe si të ndalesh"
+metaDescription: "I rikthen bisedat në mendje dhe në mbrëmje ndien supet të tendosura? 12 shenja dhe simptoma të të menduarit të tepërt, test falas dhe hapa që ndihmojnë."
+keywords: [mendoj shumë, të menduarit e tepërt, overthinking, si të ndaloj së menduari, mendime para gjumit, nuk më zë gjumi nga mendimet, mendim i tepërt simptoma]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Cili është ndryshimi mes të menduarit dhe të menduarit të tepërt?"
     a: "Të menduarit të çon diku: te një vendim, një plan ose një veprim. Të menduarit e tepërt sillet në rreth. I bën vetes të njëjtat pyetje herë pas here, nuk mëson asgjë të re dhe pas kësaj ndihesh më keq, jo më i qartë."
@@ -19,6 +20,8 @@ faq:
     a: "Jo. Të menduarit e tepërt është një zakon i mendjes që e njohin pothuajse të gjithë, jo një diagnozë. Megjithatë mund të shkojë bashkë me ankthin ose me humor të ulët. Nëse për javë të tëra ta merr gjumin ose të pengon në jetën e përditshme, fol me mjekun e familjes ose me një psikolog."
   - q: "A mund të më thotë një test online nëse mendoj shumë?"
     a: "Një test tregon cilat modele shfaqen më shpesh në përgjigjet e tua, për shembull rikthimi te e kaluara ose shqetësimi për të ardhmen. Të jep fjalë dhe një pikënisje. Nuk është diagnozë dhe nuk e njeh kontekstin e jetës sate."
+  - q: "Cilat janë simptomat e të menduarit të tepërt?"
+    a: "Në mendje: të njëjtat mendime përsëri e përsëri, vështirësi në përqendrim dhe në zgjedhje. Në trup: muskuj të tendosur, shqetësim në stomak, frymëmarrje e cekët, dhimbje koke dhe gjumë i keq. Këto sinjale zakonisht qetësohen kur qetësohen mendimet. Nëse zgjasin me javë, fol me mjekun e familjes."
 ---
 
 Ka shumë mundësi që mendon shumë nëse i rikthen shpesh bisedat në mendje, imagjinon që më parë gjithçka që mund të shkojë keq ose u kushton vendimeve të vogla shumë më tepër kohë sesa meritojnë. Të menduarit e tepërt nuk është e njëjta gjë me të qenit i matur. Janë mendime që sillen në rreth dhe të lënë më të lodhur se më parë, dhe te shumë njerëz janë më të forta pikërisht kur fiket drita.
@@ -53,6 +56,12 @@ Nuk ke pse ta njohësh veten te të gjitha. Nëse pesë ose më shumë të duken
 Asnjë nga këto shenja nuk flet për inteligjencën ose për faktin që të intereson shumë për të tjerët. Shumë njerëz që mendojnë shumë janë të kujdesshëm, të përgjegjshëm dhe të dashur. Problemi nuk është cilësia e mendimeve, por fakti që nuk ndalen.
 
 Ia vlen të vësh re edhe si ndihet të menduarit e tepërt në trup. Te shumë njerëz shfaqet si supe të tendosura, nofull e shtrënguar ose një shqetësim që nuk largohet as kur rri ulur në divan. Disa vënë re se hanë pa e kuptuar ose shfletojnë telefonin për një orë vetëm që t'u shmangen mendimeve të tyre. Këto shenja janë të dobishme, sepse trupi shpesh e vë re vorbullën e mendimeve para se mendja ta pranojë. Kur e njeh sinjalin tënd të hershëm, mund të ndalesh më herët.
+
+### Simptomat e të menduarit të tepërt që i ndien në trup
+
+Të menduarit e tepërt nuk mbetet vetëm në kokë. Shumë njerëz e vënë re fillimisht në trup: supe të tendosura ose nofulla të shtrënguara, shqetësim në stomak, frymëmarrje e cekët, dhimbje koke në fund të ditës. Të tjerë vënë re më shumë anën mendore: e kanë të vështirë të përqendrohen, harrojnë çfarë sapo u tha dikush, ose zgjohen të lodhur pas një nate të tërë në shtrat.
+
+Këto simptoma janë ajo që bën një trup që përgatitet vazhdimisht për një problem që nuk vjen kurrë. Zakonisht qetësohen kur qetësohen mendimet. Nëse janë të forta, zgjasin me javë ose vijnë me panik apo me një ndjenjë të vazhdueshme kërcënimi, ia vlen të shohësh nëse ankthi luan rol më të madh.
 
 ## Tri momente që ndoshta i njeh
 
@@ -99,6 +108,8 @@ Të menduarit e tepërt nuk duket njësoj te të gjithë, dhe ajo që ndihmon va
 Shkruaji përgjigjet për një javë. Shumica e njerëzve habiten sa shpesh rikthehet e njëjta temë. Nëse do një pamje më të rregullt, [testi falas i të menduarit të tepërt](/sq/overthinking) mat pikërisht këto katër modele: ruminimin, shqetësimin për të ardhmen, pavendosmërinë dhe rishikimin shoqëror.
 
 Të menduarit e tepërt lidhet edhe me modele të tjera. Ata që shqetësohen shumë se si i shohin të tjerët, shpesh e njohin veten te [dëshira për t'i kënaqur të gjithë](/sq/people-pleaser). Ndërsa rileximin pa fund të një mesazhi pa përgjigje e kemi përshkruar me hollësi në artikullin tonë për [lidhjen ankthioze dhe mesazhet](/sq/blog/lidhja-ankthioze-mesazhet).
+
+Të menduarit e tepërt dhe ankthi shpesh shkojnë bashkë, por nuk janë e njëjta gjë. Nëse do të shohësh sa ankth ka në mes, [testi falas i ankthit](/sq/anxiety) përdor GAD-7, një pyetësor të shkurtër që e përdorin edhe mjekët. Dhe nëse mendimet të sillen kryesisht rreth kritikës ose rreth të thënit jo, artikujt tanë për [ndjeshmërinë ndaj refuzimit](/sq/blog/ndjeshmeria-ndaj-refuzimit-kritika) dhe [si të thuash jo pa faj](/sq/blog/si-te-thuash-jo-pa-faj) shkojnë më thellë.
 
 ## Si të ndalosh së menduari shumë para gjumit
 

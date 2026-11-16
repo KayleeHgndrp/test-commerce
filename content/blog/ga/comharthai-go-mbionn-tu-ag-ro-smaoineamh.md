@@ -2,14 +2,15 @@
 title: "Comharthaí go mbíonn tú ag ró-smaoineamh, agus conas stop a chur leis san oíche"
 description: "Comhráite á n-athimirt i do cheann, an rud is measa á shamhlú agat, tú i bhfostú ar roghanna beaga. Comharthaí an ró-smaointe, cén fáth a mbíonn sé níos measa san oíche agus cad a chabhraíonn i ndáiríre."
 date: 2026-11-02
+updated: 2026-11-16
 author: "Foireann eagarthóireachta Personality Reveal"
 category: "Folláine"
 tags: [ró-smaoineamh, overthinking, mionmhachnamh, imní, codladh]
-seoTitle: "Ró-smaoineamh: 12 chomhartha agus conas stopadh san oíche"
-metaDescription: "An athimríonn tú comhráite arís agus arís eile agus an mbíonn súil agat leis an rud is measa? 12 chomhartha den ró-smaoineamh agus cad a chabhraíonn."
-keywords: [ró-smaoineamh, bím ag smaoineamh an iomarca, overthinking, conas stop a chur le smaointe, smaointe roimh chodladh, ní féidir liom codladh]
+seoTitle: "Ró-smaoineamh: comharthaí, siomptóim agus conas stopadh"
+metaDescription: "Ag athsheinm comhráite i do cheann agus do ghuaillí teann istoíche? 12 chomhartha agus siomptóim den ró-smaoineamh, triail saor in aisce agus cabhair."
+keywords: [ró-smaoineamh, bím ag smaoineamh an iomarca, overthinking, conas stop a chur le smaointe, smaointe roimh chodladh, ní féidir liom codladh, siomptóim ró-smaoinimh]
 translationKey: overthinking-signs
-relatedTests: [overthinking, people-pleaser]
+relatedTests: [overthinking, anxiety, people-pleaser]
 faq:
   - q: "Cad é an difríocht idir smaoineamh agus ró-smaoineamh?"
     a: "Tugann smaoineamh áit éigin thú: chuig cinneadh, plean nó gníomh. Téann ró-smaoineamh timpeall i gciorcal. Cuireann tú na ceisteanna céanna ort féin arís agus arís eile, ní fhoghlaimíonn tú aon rud nua agus mothaíonn tú níos measa ina dhiaidh, seachas níos soiléire."
@@ -19,6 +20,8 @@ faq:
     a: "Ní hea. Is nós intinne é an ró-smaoineamh a aithníonn beagnach gach duine, ní diagnóis. Is féidir leis dul i gcomhar le himní nó le giúmar íseal, áfach. Má choinníonn sé ina dhúiseacht thú ar feadh seachtainí nó má chuireann sé isteach ar do shaol laethúil, labhair le do dhochtúir teaghlaigh nó le síceolaí."
   - q: "An féidir le tástáil ar líne a rá liom an mbím ag ró-smaoineamh?"
     a: "Taispeánann tástáil na patrúin is minice a thagann chun cinn i do fhreagraí, mar shampla mionmhachnamh ar an am atá thart nó imní faoin todhchaí. Tugann sé focail agus pointe tosaigh duit. Ní diagnóis é agus níl comhthéacs do shaoil ar eolas aige."
+  - q: "Cad iad siomptóim an ró-smaoinimh?"
+    a: "I do cheann: na smaointe céanna arís agus arís eile, deacracht díriú agus rogha a dhéanamh. I do chorp: matáin teanna, goile míshuaimhneach, análú tanaí, tinneas cinn agus droch-chodladh. De ghnáth maolaíonn na comharthaí seo nuair a shocraíonn na smaointe. Má mhaireann siad seachtainí, labhair le do dhochtúir teaghlaigh."
 ---
 
 Is dócha go mbíonn tú ag ró-smaoineamh má athimríonn tú comhráite i do cheann go minic, má shamhlaíonn tú roimh ré gach rud a d'fhéadfadh dul amú, nó má chaitheann tú i bhfad níos mó ama ar chinntí beaga ná mar atá tuillte acu. Ní hionann ró-smaoineamh agus a bheith machnamhach. Is smaointe iad a théann timpeall i gciorcal agus a fhágann níos tuirsí thú ná mar a bhí tú roimhe, agus i gcás go leor daoine bíonn siad ag a láidre díreach nuair a mhúchtar an solas.
@@ -53,6 +56,12 @@ Ní gá duit tú féin a aithint i ngach ceann acu. Má bhíonn cúig cinn nó n
 Ní bhaineann aon cheann de na comharthaí seo le hintleacht ná le cúram rómhór do dhaoine eile. Bíonn go leor daoine a bhíonn ag ró-smaoineamh cúramach, coinsiasach agus cineálta. Ní hé cáilíocht na smaointe an fhadhb, ach nach stopann siad.
 
 Is fiú freisin a thabhairt faoi deara conas a mhothaítear an ró-smaoineamh sa chorp. I gcás go leor daoine taispeánann sé é féin mar ghuaillí teanna, giall fáiscthe nó míshuaimhneas nach n-imíonn fiú nuair a bhíonn tú i do shuí ar an tolg. Tugann cuid acu faoi deara go n-itheann siad gan smaoineamh nó go scrollaíonn siad ar an bhfón ar feadh uair an chloig chun éalú óna gcuid smaointe féin. Tá na comharthaí seo úsáideach, mar is minic a thugann an corp faoi deara an guairneán smaointe sula n-admhaíonn an intinn é.
+
+### Siomptóim an ró-smaoinimh a mhothaíonn tú i do chorp
+
+Ní fhanann an ró-smaoineamh i do cheann amháin. Tugann go leor daoine faoi deara ar dtús é ina gcorp: guaillí teann nó giall fáiscthe, goile míshuaimhneach, análú tanaí, tinneas cinn ag deireadh an lae. Tugann daoine eile faoi deara an taobh meabhrach den chuid is mó: deacair díriú, dearmad a dhéanamh ar a bhfuil díreach ráite, nó dúiseacht tuirseach tar éis oíche iomlán sa leaba.
+
+Is é atá sna siomptóim seo ná an rud a dhéanann corp a bhíonn i gcónaí ag ullmhú d'fhadhb nach dtagann riamh. De ghnáth maolaíonn siad nuair a shocraíonn na smaointe. Má tá siad láidir, má mhaireann siad ar feadh seachtainí nó má thagann scaoll nó mothú leanúnach bagartha leo, is fiú féachaint an bhfuil ról níos mó ag an imní.
 
 ## Trí nóiméad a d'fhéadfadh a bheith ar eolas agat
 
@@ -99,6 +108,8 @@ Ní bhíonn cuma chéanna ar ró-smaoineamh i ngach duine, agus braitheann an ru
 Scríobh na freagraí síos ar feadh seachtaine. Bíonn ionadh ar fhormhór na ndaoine cé chomh minic a thagann an téama céanna ar ais. Más mian leat pictiúr níos eagraithe, tomhaiseann an [Tástáil Ró-smaointeoireachta saor in aisce](/ga/overthinking) na ceithre phatrún seo go díreach: mionmhachnamh, imní faoin todhchaí, éiginnteacht agus athimirt shóisialta.
 
 Tá baint ag ró-smaoineamh le patrúin eile freisin. Is minic a aithníonn daoine a bhíonn buartha go mór faoin gcaoi a bhfeiceann daoine eile iad iad féin sa [sásaitheoir daoine](/ga/people-pleaser). Agus rinneamar cur síos mion ar an athléamh gan stad ar theachtaireacht nach bhfaigheann freagra inár n-alt faoin [gceangal imníoch agus teachtaireachtaí](/ga/blog/ceangal-imniodhach-teachtaireachtai).
+
+Is minic a théann ró-smaoineamh agus imní le chéile, ach ní hionann iad. Más mian leat a fheiceáil cé mhéad imní atá i gceist, úsáideann an [triail imní saor in aisce](/ga/anxiety) an GAD-7, ceistneoir gearr a úsáideann dochtúirí freisin. Agus má bhíonn do smaointe ag casadh timpeall ar cháineadh nó ar dhiúltú, téann ár n-ailt ar [íogaireacht do dhiúltú](/ga/blog/iogaireacht-do-dhiultu-caineadh) agus ar [conas diúltú gan chiontacht](/ga/blog/conas-diultu-gan-ciontacht) níos doimhne.
 
 ## Conas stop a chur leis an ró-smaoineamh roimh chodladh
 
