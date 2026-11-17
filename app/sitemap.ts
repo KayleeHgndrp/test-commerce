@@ -1,8 +1,12 @@
 import type { MetadataRoute } from "next";
 import { allPosts, getTranslations, hasPosts, postPath } from "@/lib/blog";
-import { locales, toLangTag, type Locale } from "@/lib/i18n/locales";
+import { indexedLocales, isIndexedLocale, type Locale } from "@/lib/i18n/locales";
 import { allDefinitions } from "@/lib/i18n/messages";
+import { hreflang } from "@/lib/seo";
 import { site } from "@/lib/site";
+
+// Only pages Google may index are listed: the languages in indexedLocales, without the
+// legal and contact pages (see noindexPaths in lib/seo.ts).
 
 type Page = [path: string, priority: number, changeFrequency: "weekly" | "monthly" | "yearly"];
 
@@ -10,33 +14,32 @@ const pages: Page[] = [
   ["", 1, "weekly"],
   ...allDefinitions.map((def) => [`/${def.slug}`, 0.8, "monthly"] satisfies Page),
   ["/about", 0.5, "monthly"],
-  ["/contact", 0.4, "yearly"],
   ["/partners", 0.4, "monthly"],
-  ...["/privacy", "/terms", "/cookies", "/refund", "/legal-notice"].map((path) => [path, 0.2, "yearly"] satisfies Page),
 ];
 
-// Blog index pages for languages with posts, and every indexable post with its translations.
+// Blog index pages for indexed languages with posts, and every indexable post with its translations.
 function blogEntries(): MetadataRoute.Sitemap {
-  const withPosts = locales.filter(hasPosts);
+  const withPosts = indexedLocales.filter(hasPosts);
   const index = withPosts.map((locale) => ({
     url: `${site.url}/${locale}/blog`,
     changeFrequency: "weekly" as const,
     priority: 0.6,
-    alternates: { languages: Object.fromEntries(withPosts.map((l) => [toLangTag(l), `${site.url}/${l}/blog`])) },
+    alternates: { languages: hreflang((l) => `${site.url}/${l}/blog`, withPosts) },
   }));
   const posts = allPosts()
-    .filter((post) => !post.noindex && !post.canonical)
+    .filter((post) => !post.noindex && !post.canonical && isIndexedLocale(post.locale))
     .map((post) => {
       const translations = getTranslations(post);
+      const languages = hreflang(
+        (l) => `${site.url}${postPath(translations.find((p) => p.locale === l)!)}`,
+        translations.map((p) => p.locale as Locale),
+      );
       return {
         url: `${site.url}${postPath(post)}`,
         lastModified: post.updated ?? post.date,
         changeFrequency: "monthly" as const,
         priority: 0.7,
-        alternates:
-          translations.length > 1
-            ? { languages: Object.fromEntries(translations.map((p) => [toLangTag(p.locale as Locale), `${site.url}${postPath(p)}`])) }
-            : undefined,
+        alternates: languages ? { languages } : undefined,
       };
     });
   return [...index, ...posts];
@@ -48,16 +51,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
 function pageEntries(): MetadataRoute.Sitemap {
   return pages.flatMap(([path, priority, changeFrequency]) =>
-    locales.map((locale) => ({
+    indexedLocales.map((locale) => ({
       url: `${site.url}/${locale}${path}`,
       changeFrequency,
       priority,
-      alternates: {
-        languages: {
-          ...Object.fromEntries(locales.map((l) => [toLangTag(l), `${site.url}/${l}${path}`])),
-          "x-default": `${site.url}/en${path}`,
-        },
-      },
+      alternates: { languages: hreflang((l) => `${site.url}/${l}${path}`) },
     })),
   );
 }

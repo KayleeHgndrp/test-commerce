@@ -5,8 +5,9 @@ import { BlogCard } from "@/components/BlogCard";
 import { BlogPagination, blogPageHref } from "@/components/BlogPagination";
 import { JsonLd } from "@/components/JsonLd";
 import { blogPageCount, getPostsPage, hasPosts, postPath } from "@/lib/blog";
-import { hasLocale, locales, ogLocales, toLangTag, type Locale } from "@/lib/i18n/locales";
+import { hasLocale, isIndexedLocale, locales, ogLocales, toLangTag, type Locale } from "@/lib/i18n/locales";
 import { fmt, getUi } from "@/lib/i18n/messages";
+import { hreflang, NOINDEX } from "@/lib/seo";
 import { site } from "@/lib/site";
 
 export async function blogIndexMetadata(locale: string, page: number): Promise<Metadata> {
@@ -14,21 +15,15 @@ export async function blogIndexMetadata(locale: string, page: number): Promise<M
   const { blog } = await getUi(locale);
   const title = page > 1 ? `${blog.title}: ${fmt(blog.page, { page })}` : blog.title;
   const url = `${site.url}${blogPageHref(locale, page)}`;
-  const withPosts = locales.filter(hasPosts);
+  // An empty blog is thin content, and languages outside indexedLocales stay out of search.
+  const indexable = hasPosts(locale) && isIndexedLocale(locale);
   return {
     title,
     description: blog.subtitle,
-    // An empty blog is thin content: keep it out of search until there are posts.
-    robots: hasPosts(locale) ? undefined : { index: false, follow: true },
+    robots: indexable ? undefined : NOINDEX,
     alternates: {
       canonical: url,
-      languages:
-        page === 1
-          ? {
-              ...Object.fromEntries(withPosts.map((l) => [toLangTag(l), `${site.url}/${l}/blog`])),
-              ...(withPosts.includes("en") ? { "x-default": `${site.url}/en/blog` } : {}),
-            }
-          : undefined,
+      languages: indexable && page === 1 ? hreflang((l) => `${site.url}/${l}/blog`, locales.filter(hasPosts)) : undefined,
     },
     openGraph: {
       type: "website",
