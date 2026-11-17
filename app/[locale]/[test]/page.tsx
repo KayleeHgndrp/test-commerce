@@ -34,7 +34,7 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
     price: formatPrice(locale),
   };
   const url = `${site.url}/${locale}/${def.slug}`;
-  const faq = ui.test.faq.map(({ q, a }) => ({ q: fmt(q, vars), a: fmt(a, vars) }));
+  const faq = [...(text.faq ?? []), ...ui.test.faq].map(({ q, a }) => ({ q: fmt(q, vars), a: fmt(a, vars) }));
 
   return (
     <div className="mx-auto max-w-4xl px-4 pt-14">
@@ -83,6 +83,15 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
           ))}
         </dl>
       </section>
+
+      {text.guide && (
+        <section className="mt-16">
+          <h2 className="text-2xl font-bold">{text.guide.title}</h2>
+          {text.guide.paragraphs.map((p) => (
+            <p key={p} className="mt-4 leading-relaxed text-muted">{p}</p>
+          ))}
+        </section>
+      )}
 
       <section className="mt-16">
         <h2 className="mb-6 text-2xl font-bold">{fmt(ui.test.faqTitle, vars)}</h2>

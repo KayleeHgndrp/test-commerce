@@ -43,6 +43,11 @@ export type TestText = {
   items: string[];
   dimensions: Record<string, DimensionText>;
   summary: string;
+  // Optional in-depth explanation (400 to 600 words) written per language for the test page,
+  // so each test has its own content instead of shared template text.
+  guide?: { title: string; paragraphs: string[] };
+  // Optional questions specific to this test, shown before the shared FAQ.
+  faq?: { q: string; a: string }[];
   types?: Record<string, { name: string; text: string }>;
   instrument?: { name: string; description: string; bands: Record<string, string> };
   // Couple report text per pair of types, keyed by pairKey (e.g. "anxious+secure").

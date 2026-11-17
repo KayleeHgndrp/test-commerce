@@ -6,7 +6,8 @@ import { Faq } from "@/components/Faq";
 import { JsonLd } from "@/components/JsonLd";
 import { TestCard } from "@/components/TestCard";
 import { absoluteUrl, allPosts, formatPostDate, getPost, getRelatedPosts, getTranslations, postPath } from "@/lib/blog";
-import { hasLocale, ogLocales, toLangTag, type Locale } from "@/lib/i18n/locales";
+import { hasLocale, isIndexedLocale, ogLocales, toLangTag, type Locale } from "@/lib/i18n/locales";
+import { hreflang, NOINDEX } from "@/lib/seo";
 import { fmt, getDefinition, getTestText, getUi } from "@/lib/i18n/messages";
 import { site } from "@/lib/site";
 
@@ -31,7 +32,7 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/blog/[sl
   const { locale, post } = await load(params);
   const url = `${site.url}${postPath(post)}`;
   const translations = getTranslations(post);
-  const english = translations.find((p) => p.locale === "en");
+  const indexable = !post.noindex && isIndexedLocale(locale);
   const title = post.ogTitle ?? post.seoTitle;
   const description = post.ogDescription ?? post.metaDescription;
   const image = absoluteUrl(post.ogImage ?? post.image ?? `/${locale}/opengraph-image`);
@@ -42,16 +43,15 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/blog/[sl
     description: post.metaDescription,
     keywords: post.keywords.length ? post.keywords : undefined,
     authors: [{ name: post.author ?? site.name, url: post.authorUrl }],
-    robots: post.noindex ? { index: false, follow: true } : undefined,
+    robots: indexable ? undefined : NOINDEX,
     alternates: {
       canonical: post.canonical ?? url,
-      languages:
-        translations.length > 1
-          ? {
-              ...Object.fromEntries(translations.map((p) => [toLangTag(p.locale as Locale), `${site.url}${postPath(p)}`])),
-              ...(english ? { "x-default": `${site.url}${postPath(english)}` } : {}),
-            }
-          : undefined,
+      languages: indexable
+        ? hreflang(
+            (l) => `${site.url}${postPath(translations.find((p) => p.locale === l)!)}`,
+            translations.map((p) => p.locale as Locale),
+          )
+        : undefined,
     },
     openGraph: {
       type: "article",

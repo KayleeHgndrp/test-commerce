@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { hasLocale, toLangTag } from "@/lib/i18n/locales";
+import { hasLocale, isIndexedLocale } from "@/lib/i18n/locales";
 import { partnerLocales, partnerTexts } from "@/lib/partner-texts";
+import { hreflang, NOINDEX } from "@/lib/seo";
 import { site } from "@/lib/site";
 
 export async function generateMetadata({ params }: PageProps<"/[locale]/partners">): Promise<Metadata> {
@@ -13,10 +14,10 @@ export async function generateMetadata({ params }: PageProps<"/[locale]/partners
   return {
     title: t.title,
     description: t.metaDescription,
-    robots: { index: translated },
+    robots: translated && isIndexedLocale(locale) ? undefined : NOINDEX,
     alternates: {
       canonical: `${site.url}/${translated ? locale : "en"}/partners`,
-      languages: Object.fromEntries(partnerLocales.map((l) => [toLangTag(l), `${site.url}/${l}/partners`])),
+      languages: hreflang((l) => `${site.url}/${l}/partners`, partnerLocales),
     },
   };
 }

@@ -9,7 +9,8 @@ import matter from "gray-matter";
 const root = path.resolve(import.meta.dirname, "..");
 const blogDir = path.join(root, "content/blog");
 const localesSrc = fs.readFileSync(path.join(root, "lib/i18n/locales.ts"), "utf8");
-const locales = [...localesSrc.match(/locales = \[([\s\S]*?)\]/)[1].matchAll(/"([a-z]+)"/g)].map((m) => m[1]);
+// New articles only need the languages Google indexes (indexedLocales); other languages are optional.
+const required = [...localesSrc.match(/indexedLocales[^=]*= \[([\s\S]*?)\]/)[1].matchAll(/"([a-z]+)"/g)].map((m) => m[1]);
 
 // Phrases that make text read as machine-written. Matched case-insensitively.
 const bannedPhrases = {
@@ -55,7 +56,7 @@ for (const locale of fs.existsSync(blogDir) ? fs.readdirSync(blogDir) : []) {
 }
 
 for (const [key, have] of byKey) {
-  const missing = locales.filter((l) => !have.includes(l));
+  const missing = required.filter((l) => !have.includes(l));
   if (missing.length) errors.push(`translationKey "${key}" is missing in: ${missing.join(", ")}`);
   const dupes = have.filter((l, i) => have.indexOf(l) !== i);
   if (dupes.length) errors.push(`translationKey "${key}" is used twice in: ${[...new Set(dupes)].join(", ")}`);

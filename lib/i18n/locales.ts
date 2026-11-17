@@ -8,6 +8,14 @@ export type Locale = (typeof locales)[number];
 
 export const defaultLocale: Locale = "en";
 
+// Languages Google may index. Since 12 Nov 2026 Google stopped showing the site after it
+// saw ~1,600 near-identical pages in 32 languages, so search focuses on the languages that
+// brought traffic. The other languages keep working for visitors but carry noindex and
+// stay out of the sitemap and hreflang. Add a language back here once search recovers.
+export const indexedLocales: readonly Locale[] = ["en", "nl", "da", "sv", "cs", "sk", "fi"];
+
+export const isIndexedLocale = (locale: string) => (indexedLocales as readonly string[]).includes(locale);
+
 // Native language names, shown in the language switcher.
 export const localeNames: Record<Locale, string> = {
   en: "English",
