@@ -136,5 +136,37 @@
       "high": "Svedomitosť je silnou súčasťou vášho štýlu. Ste dôkladní, analytickí a oddaní kvalite. Ceníte si presnosť, jasné postupy a dobre podložené rozhodnutia a komunikujete presne a vecne. Ľudia dôverujú vašej odbornosti a dôkladnosti. Úskalím je perfekcionizmus alebo zaseknutie sa v analýze a iní vás môžu vnímať ako kritických alebo odťažitých. Tip: skôr než začnete, dohodnite sa, čo je dostatočne dobré. Keď dávate spätnú väzbu, začnite tým, čo funguje, a až potom sa podeľte o podrobné postrehy."
     }
   },
-  "summary": "Za každý zo štyroch štýlov DISC získate skóre od 0 do 100 %; najvyššie skóre sa zobrazí ako váš hlavný štýl. Väčšina ľudí používa kombináciu štýlov a prispôsobuje sa situácii. DISC opisuje pozorovateľné správanie a komunikačné preferencie, nie schopnosti ani inteligenciu."
+  "summary": "Za každý zo štyroch štýlov DISC získate skóre od 0 do 100 %; najvyššie skóre sa zobrazí ako váš hlavný štýl. Väčšina ľudí používa kombináciu štýlov a prispôsobuje sa situácii. DISC opisuje pozorovateľné správanie a komunikačné preferencie, nie schopnosti ani inteligenciu.",
+  "guide": {
+    "title": "Ako čítať svoj profil DISC",
+    "paragraphs": [
+      "V teste ohodnotíte 100 krátkych tvrdení o tom, ako sa správate v práci a medzi ľuďmi. Z vašich odpovedí test vypočíta pre každý zo štyroch štýlov skóre od 0 do 100 percent: dominancia, vplyv, stabilita a svedomitosť. Žiadny štýl nie je lepší ako iný. Ak poznáte štyri farby z kníh Thomasa Eriksona alebo z firemného školenia, červená zodpovedá D, žltá I, zelená S a modrá C. Vo výsledku uvidíte písmená, ale ide o rovnaké štyri vzorce správania.",
+      "Pozerajte sa na tvar profilu, nie iba na najvyšší stĺpec. Vaše dva najsilnejšie štýly spolu zvyčajne povedia viac než každý zvlášť. Vysoké D spolu s vysokým C často vidno u človeka, ktorý pracuje rýchlo, má vysoké nároky a vie znieť príkro, keď to ostatní odfláknu. Kombinácia vysokého I a S býva srdečná a dobre drží skupinu pokope, len nepríjemné správy rada odkladá. D s I tlačí veci dopredu a zároveň presviedča, S s C je pokojná, dôkladná a veľmi spoľahlivá, keď je plán jasný. Ak máte skóre blízko stredu, štýl striedate podľa situácie.",
+      "Nízke skóre nie je slabosť. Ukazuje najmä to, aký spôsob práce vás stojí energiu. Kto má nízky vplyv, pokojne zvládne dobrú prezentáciu, ale zvyčajne sa na ňu poriadne pripraví a potom si rád doprajie chvíľu pokoja. Kto má nízku stabilitu, vydrží pri rutinnej práci nejaký čas, ale začne hľadať niečo nové skôr než väčšina kolegov.",
+      "Najviac vám výsledok dá, keď ho porovnáte so skutočnou situáciou. Zoberte si poradu, na ktorej sa má rozhodnúť. Kolega s vysokou dominanciou chce počuť záver hneď v prvej minúte. Kolegyňa s vysokou svedomitosťou by radšej dostala čísla e-mailom deň vopred a nemá rada, keď sa musí rozhodnúť na mieste. Ani jeden z nich nerobí problémy, len každý potrebuje niečo iné, aby mohol povedať áno. Dobré cvičenie na tento týždeň: zapíšte si jednu chvíľu, keď ste si s niekým nesadli, odhadnite jeho štýl a zamyslite sa, čo od vás ten človek potreboval.",
+      "Majte na pamäti, čo test hovorí a čo nie. Metóda DISC vychádza z knihy Williama Moultona Marstona Emotions of Normal People z roku 1928 a používa sa najmä na školeniach a pri rozvoji tímov. Opisuje správanie v určitom prostredí, nie celú vašu osobnosť, a jej vedecká opora je slabšia ako pri modeli Big Five. Odpovedajte podľa toho, ako sa naozaj správate, nie ako si myslíte, že by ste sa v práci správať mali. Váš profil sa môže posunúť po zmene práce alebo roly v tíme. Samotný výsledok DISC by nikdy nemal rozhodovať o tom, či niekoho prijať. Ak chcete širší obraz svojej osobnosti, logickým ďalším krokom je test Big Five."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Aká farba patrí ku ktorému štýlu DISC?",
+      "a": "Vo farebnej verzii metódy DISC znamená červená dominanciu, žltá vplyv, zelená stabilitu a modrá svedomitosť. „Modrý“ človek teda skóruje vysoko v C. Farby sú len ľahko zapamätateľné označenie a väčšina ľudí je zmesou dvoch alebo viacerých farieb."
+    },
+    {
+      "q": "Čo znamená, keď majú dva štýly DISC takmer rovnaké skóre?",
+      "a": "Potom máte zmiešaný profil, čo je veľmi bežné. Prečítajte si opis oboch štýlov a všímajte si, v akých situáciách sa ktorý prejavuje. Veľa ľudí sa v práci opiera o jeden štýl a doma alebo medzi priateľmi o druhý."
+    },
+    {
+      "q": "Môže sa môj profil DISC zmeniť?",
+      "a": "Áno, do istej miery. DISC meria správanie a správanie sa prispôsobuje vašej práci, role aj ľuďom okolo vás. Základné preferencie zostávajú pomerne stabilné, ale nová práca alebo väčšia zodpovednosť môže vaše skóre zreteľne posunúť. Zopakovať si test po roku býva zaujímavé."
+    },
+    {
+      "q": "Hodí sa test DISC na výber uchádzačov o prácu?",
+      "a": "Nie ako jediný nástroj. DISC vznikol na pochopenie komunikácie a spolupráce, nie na predpoveď, ako dobre niekto zvládne prácu. V tíme môže otvoriť užitočný rozhovor, ale rozhodnutie o prijatí potrebuje podklady, ktoré s pozíciou súvisia, napríklad pracovnú úlohu a štruktúrovaný pohovor."
+    },
+    {
+      "q": "Aký je rozdiel medzi DISC a Big Five?",
+      "a": "DISC triedi správanie v práci do štyroch štýlov a ľahko sa používa v tíme. Big Five meria päť širokých osobnostných čŕt a stojí za ním oveľa viac výskumu. Odpovedajú na iné otázky: DISC na to, ako spolupracujete s ostatnými, Big Five na to, aký ste človek v celom živote."
+    }
+  ]
 }

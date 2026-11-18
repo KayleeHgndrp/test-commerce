@@ -2,8 +2,8 @@
   "name": "DISC Persoonlijkheidstest",
   "tagline": "Begrijp je werkstijl en hoe je communiceert.",
   "intro": "Het DISC-model beschrijft vier gedragsstijlen: Dominantie, Invloed, Stabiliteit en Consciëntieusheid. Deze test laat zien hoe sterk je elke stijl gebruikt op je werk en in het dagelijks leven, en welke het meest natuurlijk voor je is. Beoordeel 100 korte uitspraken; het kost ongeveer vijf minuten en geeft praktische tips voor samenwerken met anderen.",
-  "seoTitle": "DISC Persoonlijkheidstest: Gratis profiel van je werkstijl",
-  "seoDescription": "Ontdek je DISC-stijl in 5 minuten. Bekijk je scores voor Dominantie, Invloed, Stabiliteit en Consciëntieusheid, plus tips voor communicatie en teamwork.",
+  "seoTitle": "DISC-test: gratis 4 kleuren persoonlijkheidstest",
+  "seoDescription": "Doe de gratis DISC-test in 5 minuten en ontdek of je rood, geel, groen of blauw bent. Met je scores per stijl en tips voor samenwerken.",
   "items": [
     "Ik neem graag de leiding over een project.",
     "Ik vind het leuk om anderen te motiveren.",
@@ -136,5 +136,37 @@
       "high": "Consciëntieusheid is een sterk onderdeel van je stijl. Je bent zorgvuldig, analytisch en toegewijd aan kwaliteit. Je hecht aan nauwkeurigheid, duidelijke procedures en goed onderbouwde beslissingen, en je communiceert op een precieze, feitelijke manier. Mensen vertrouwen op je expertise en grondigheid. De valkuil is perfectionisme of vastlopen in analyse, en anderen kunnen je als kritisch of afstandelijk zien. Tip: spreek vooraf af wat goed genoeg is. Begin bij het geven van feedback met wat werkt, en deel daarna je gedetailleerde observaties."
     }
   },
-  "summary": "Je krijgt voor elk van de vier DISC-stijlen een score van 0 tot 100 %; je hoogste score wordt getoond als je belangrijkste stijl. De meeste mensen gebruiken een mix van stijlen en passen zich aan de situatie aan. DISC beschrijft zichtbaar gedrag en communicatievoorkeuren, geen vaardigheden of intelligentie."
+  "summary": "Je krijgt voor elk van de vier DISC-stijlen een score van 0 tot 100 %; je hoogste score wordt getoond als je belangrijkste stijl. De meeste mensen gebruiken een mix van stijlen en passen zich aan de situatie aan. DISC beschrijft zichtbaar gedrag en communicatievoorkeuren, geen vaardigheden of intelligentie.",
+  "guide": {
+    "title": "Zo lees je je DISC-profiel",
+    "paragraphs": [
+      "Je beoordeelt 100 korte uitspraken over hoe je je gedraagt op je werk en met andere mensen. Daaruit berekent de test voor elk van de vier stijlen een score van 0 tot 100 procent: Dominantie, Invloed, Stabiliteit en Consciëntieusheid. Geen enkele stijl is beter dan een andere. Ken je de vier kleuren uit het boek Omringd door idioten of uit een teamtraining? Dan staat rood voor D, geel voor I, groen voor S en blauw voor C. In je uitslag zie je de letters, maar het gaat om dezelfde vier patronen.",
+      "Kijk naar de vorm van je profiel en niet alleen naar de hoogste balk. Je twee hoogste stijlen zeggen samen meestal meer dan elk apart. Hoog op D en C zie je vaak bij iemand die snel werkt, de lat hoog legt en kortaf kan klinken als anderen het minder precies nemen. Hoog op I en S is vaak warm en houdt een groep goed bij elkaar, maar stelt vervelend nieuws graag uit. D met I duwt en overtuigt tegelijk, S met C is rustig, zorgvuldig en heel betrouwbaar zodra het plan helder is. Liggen je scores dicht bij het midden, dan wissel je per situatie van stijl.",
+      "Een lage score is geen zwakte. Het zegt vooral welke manier van werken je energie kost. Wie laag scoort op Invloed kan best een goede presentatie geven, maar bereidt die meestal grondig voor en zit daarna graag even rustig. Wie laag scoort op Stabiliteit houdt routinewerk een tijdje vol, maar gaat eerder dan de meeste collega's op zoek naar iets nieuws.",
+      "Je hebt het meeste aan je uitslag als je hem naast een echte situatie legt. Neem een overleg waarin een besluit moet vallen. Een collega met veel Dominantie wil de conclusie in de eerste minuut horen. Een collega met veel Consciëntieusheid krijgt de cijfers liever een dag vooraf in de mail en houdt er niet van om ter plekke te moeten kiezen. Geen van beiden doet moeilijk; ze hebben gewoon iets anders nodig voordat ze ja zeggen. Een goede oefening voor deze week: schrijf één moment op waarop je met iemand botste, schat in welke stijl die ander heeft en bedenk wat die persoon van jou nodig had.",
+      "Weet wat de test wel en niet zegt. DISC gaat terug op het boek Emotions of Normal People van William Moulton Marston uit 1928 en wordt vooral gebruikt in trainingen en teamontwikkeling. Het beschrijft gedrag in een bepaalde omgeving, niet je hele persoonlijkheid, en de wetenschappelijke onderbouwing is dunner dan die van de Big Five. Beantwoord de uitspraken op basis van hoe je echt doet, niet hoe je vindt dat je op je werk zou moeten doen. Je profiel kan verschuiven na een nieuwe baan of een andere rol in je team. Een DISC-uitslag mag nooit in zijn eentje bepalen of iemand wordt aangenomen. Wil je een breder beeld van je persoonlijkheid, dan is de Big Five-test een logische volgende stap."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Welke kleur hoort bij welke DISC-stijl?",
+      "a": "In de kleurenversie van DISC staat rood voor Dominantie, geel voor Invloed, groen voor Stabiliteit en blauw voor Consciëntieusheid. Iemand die 'blauw' wordt genoemd, scoort dus hoog op C. De kleuren zijn alleen een makkelijk label, en de meeste mensen zijn een mix van twee of meer kleuren."
+    },
+    {
+      "q": "Wat betekent het als twee DISC-stijlen bijna even hoog scoren?",
+      "a": "Dan heb je een gemengd profiel, en dat komt heel vaak voor. Lees de beschrijving van beide stijlen en let op in welke situaties welke stijl naar boven komt. Veel mensen leunen op het werk op de ene stijl en thuis of met vrienden op de andere."
+    },
+    {
+      "q": "Kan mijn DISC-profiel veranderen?",
+      "a": "Ja, tot op zekere hoogte. DISC meet gedrag, en gedrag past zich aan je werk, je rol en de mensen om je heen aan. Je basisvoorkeuren blijven vrij stabiel, maar een nieuwe baan of meer verantwoordelijkheid kan je scores duidelijk laten verschuiven. Het is interessant om de test na een jaar opnieuw te doen."
+    },
+    {
+      "q": "Is een DISC-test geschikt om sollicitanten te kiezen?",
+      "a": "Niet als enige middel. DISC is bedoeld om communicatie en samenwerking te begrijpen, niet om te voorspellen hoe goed iemand een baan zal doen. In een team kan het een nuttig gesprek op gang brengen, maar voor een aanname heb je bewijs nodig dat bij de functie past, zoals een proefopdracht en een gestructureerd gesprek."
+    },
+    {
+      "q": "Wat is het verschil tussen DISC en de Big Five?",
+      "a": "DISC verdeelt gedrag op het werk in vier stijlen en is makkelijk te gebruiken in een team. De Big Five meet vijf brede persoonlijkheidstrekken en heeft veel meer onderzoek achter zich. Ze beantwoorden een andere vraag: DISC gaat over hoe je samenwerkt, de Big Five over wie je bent in je hele leven."
+    }
+  ]
 }

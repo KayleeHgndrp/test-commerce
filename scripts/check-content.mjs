@@ -93,7 +93,22 @@ for (const slug of slugs) {
 
   for (const locale of locales) {
     const p = `messages/${locale}/tests/${slug}.json`;
-    if (fs.existsSync(path.join(root, p))) compareShape(p, en, read(p));
+    if (!fs.existsSync(path.join(root, p))) continue;
+    const text = read(p);
+    // guide and faq are optional and written per language, so they are checked on their own
+    // instead of being compared with English.
+    const { guide, faq, ...rest } = text;
+    const { guide: _g, faq: _f, ...enRest } = en;
+    compareShape(p, enRest, rest);
+    if (guide !== undefined) {
+      if (typeof guide?.title !== "string" || !guide.title.trim()) err(p, "guide.title missing");
+      if (!Array.isArray(guide?.paragraphs) || !guide.paragraphs.length || guide.paragraphs.some((x) => typeof x !== "string" || !x.trim()))
+        err(p, "guide.paragraphs must be a non-empty list of strings");
+    }
+    if (faq !== undefined) {
+      if (!Array.isArray(faq) || faq.length < 3 || faq.length > 5) err(p, "faq must have 3 to 5 items");
+      else faq.forEach((x, i) => { if (!x?.q?.trim() || !x?.a?.trim()) err(p, `faq[${i}] needs q and a`); });
+    }
   }
 }
 

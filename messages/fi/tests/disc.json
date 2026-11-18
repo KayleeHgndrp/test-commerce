@@ -136,5 +136,37 @@
       "high": "Tunnollisuus on vahva osa tyyliäsi. Olet huolellinen, analyyttinen ja sitoutunut laatuun. Arvostat tarkkuutta, selkeitä menettelyjä ja hyvin perusteltuja päätöksiä, ja viestit täsmällisesti ja asiapitoisesti. Ihmiset luottavat asiantuntemukseesi ja perusteellisuuteesi. Sudenkuoppana on perfektionismi tai analyysiin juuttuminen, ja muut voivat kokea sinut kriittisenä tai etäisenä. Vinkki: sopikaa ennen aloittamista, mikä on riittävän hyvä. Kun annat palautetta, aloita siitä, mikä toimii, ja kerro sitten yksityiskohtaiset havaintosi."
     }
   },
-  "summary": "Saat jokaisesta neljästä DISC-tyylistä pistemäärän 0–100 %; korkein pistemääräsi näytetään päätyylinäsi. Useimmat ihmiset käyttävät tyylien yhdistelmää ja mukautuvat tilanteen mukaan. DISC kuvaa havaittavaa käyttäytymistä ja viestintämieltymyksiä, ei kykyjä tai älykkyyttä."
+  "summary": "Saat jokaisesta neljästä DISC-tyylistä pistemäärän 0–100 %; korkein pistemääräsi näytetään päätyylinäsi. Useimmat ihmiset käyttävät tyylien yhdistelmää ja mukautuvat tilanteen mukaan. DISC kuvaa havaittavaa käyttäytymistä ja viestintämieltymyksiä, ei kykyjä tai älykkyyttä.",
+  "guide": {
+    "title": "Näin luet DISC-profiilisi",
+    "paragraphs": [
+      "Testissä arvioit 100 lyhyttä väittämää siitä, miten toimit töissä ja muiden ihmisten kanssa. Vastaustesi perusteella testi antaa jokaiselle neljälle tyylille pisteet nollasta sataan prosenttiin: dominanssi, vaikuttavuus, vakaus ja tunnollisuus. Mikään tyyli ei ole toista parempi. Jos värit punainen, keltainen, vihreä ja sininen ovat tuttuja Thomas Eriksonin kirjoista tai työpaikan koulutuksesta, punainen vastaa D:tä, keltainen I:tä, vihreä S:ää ja sininen C:tä. Tuloksessasi näkyvät kirjaimet, mutta kyse on samoista neljästä toimintatavasta.",
+      "Katso profiilisi muotoa äläkä pelkkää korkeinta pylvästä. Kaksi vahvinta tyyliäsi kertovat yleensä yhdessä enemmän kuin kumpikaan yksin. Korkea D ja korkea C näkyvät usein ihmisessä, joka tekee nopeasti, vaatii paljon ja voi kuulostaa tylyltä, kun muut lipsuvat. Korkean I:n ja S:n yhdistelmä on usein lämmin ja pitää ryhmän hyvin koossa, mutta lykkää mielellään ikäviä uutisia. D ja I yhdessä vievät asioita eteenpäin ja suostuttelevat samalla, kun taas S ja C ovat rauhallinen, huolellinen ja hyvin luotettava pari, kun suunnitelma on selvä. Jos pisteesi ovat lähellä keskikohtaa, vaihdat tyyliä tilanteen mukaan.",
+      "Matalat pisteet eivät ole heikkous. Ne kertovat lähinnä, mikä tapa toimia vie sinulta energiaa. Jos vaikuttavuutesi on matala, pystyt kyllä pitämään hyvän esityksen, mutta valmistaudut siihen yleensä huolella ja kaipaat sen jälkeen hetken rauhaa. Jos vakautesi on matala, jaksat rutiinitöitä jonkin aikaa, mutta alat etsiä jotain uutta aiemmin kuin useimmat työkaverit. Matala dominanssi taas tarkoittaa usein, että annat mielelläsi muiden päättää pienistä asioista ja säästät voimasi niihin, joilla on sinulle oikeasti merkitystä.",
+      "Tuloksesta on eniten hyötyä, kun vertaat sitä todelliseen tilanteeseen. Ajattele palaveria, jossa pitää tehdä päätös. Työkaveri, jolla on paljon dominanssia, haluaa kuulla johtopäätöksen heti ensimmäisellä minuutilla. Työkaveri, jolla on paljon tunnollisuutta, saisi luvut mieluummin sähköpostilla edellisenä päivänä eikä pidä siitä, että päätös pitää tehdä saman tien. Kumpikaan ei ole hankala, he vain tarvitsevat eri asioita ennen kuin voivat sanoa kyllä. Hyvä harjoitus tälle viikolle: kirjoita ylös yksi hetki, jolloin et löytänyt yhteistä säveltä jonkun kanssa, arvaa hänen tyylinsä ja mieti, mitä hän olisi tarvinnut sinulta.",
+      "Tiedä, mitä testi kertoo ja mitä ei. DISC-malli juontaa juurensa William Moulton Marstonin kirjaan Emotions of Normal People vuodelta 1928, ja sitä käytetään lähinnä koulutuksissa ja tiimien kehittämisessä. Se kuvaa käyttäytymistä tietyssä ympäristössä eikä koko persoonallisuuttasi, ja sen tieteellinen tuki on heikompi kuin Big Five -mallilla. Vastaa sen mukaan, miten oikeasti toimit, äläkä sen mukaan, miten mielestäsi pitäisi toimia töissä. Profiilisi voi muuttua uuden työn tai tiimin uuden roolin myötä. DISC-tulos ei saa koskaan yksin ratkaista, palkataanko joku. Jos haluat laajemman kuvan persoonallisuudestasi, Big Five -testi on hyvä seuraava askel."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Mikä väri kuuluu millekin DISC-tyylille?",
+      "a": "DISCin värimallissa punainen tarkoittaa dominanssia, keltainen vaikuttavuutta, vihreä vakautta ja sininen tunnollisuutta. Niin sanottu sininen ihminen saa siis korkeat pisteet C:ssä. Värit ovat vain helppo nimilappu, ja useimmat ihmiset ovat kahden tai useamman värin yhdistelmiä."
+    },
+    {
+      "q": "Mitä tarkoittaa, jos kaksi DISC-tyyliä saa lähes yhtä paljon pisteitä?",
+      "a": "Silloin profiilisi on sekoitus, mikä on hyvin tavallista. Lue molempien tyylien kuvaukset ja huomaa, missä tilanteissa kumpikin tulee esiin. Moni nojaa töissä toiseen tyyliin ja kotona tai ystävien kanssa toiseen."
+    },
+    {
+      "q": "Voiko DISC-profiilini muuttua?",
+      "a": "Kyllä, jossain määrin. DISC mittaa käyttäytymistä, ja käyttäytyminen mukautuu työhösi, rooliisi ja ympärilläsi oleviin ihmisiin. Perusmieltymykset pysyvät melko vakaina, mutta uusi työ tai suurempi vastuu voi siirtää pisteitäsi selvästi. Testin tekeminen uudelleen vuoden päästä voi olla kiinnostavaa."
+    },
+    {
+      "q": "Sopiiko DISC-testi työnhakijoiden valintaan?",
+      "a": "Ei ainoaksi välineeksi. DISC on tehty ymmärtämään viestintää ja yhteistyötä, ei ennustamaan, miten hyvin joku hoitaa työnsä. Tiimissä se voi avata hyödyllisen keskustelun, mutta rekrytointipäätös tarvitsee työhön liittyvää näyttöä, kuten työnäytteen ja jäsennellyn haastattelun."
+    },
+    {
+      "q": "Mikä ero on DISCillä ja Big Fivella?",
+      "a": "DISC jakaa työkäyttäytymisen neljään tyyliin, ja sitä on helppo käyttää tiimissä. Big Five mittaa viittä laajaa persoonallisuuden piirrettä, ja sen taustalla on paljon enemmän tutkimusta. Ne vastaavat eri kysymyksiin: DISC siihen, miten teet yhteistyötä muiden kanssa, Big Five siihen, millainen olet koko elämässäsi."
+    }
+  ]
 }
