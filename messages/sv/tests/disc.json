@@ -136,5 +136,37 @@
       "high": "Noggrannhet är en stark del av din stil. Du är omsorgsfull, analytisk och engagerad i kvalitet. Du värdesätter precision, tydliga rutiner och välgrundade beslut, och du kommunicerar på ett exakt, sakligt sätt. Människor litar på din expertis och grundlighet. Fallgropen är perfektionism eller att fastna i analys, och andra kan uppfatta dig som kritisk eller distanserad. Tips: kom överens om vad som är tillräckligt bra innan du börjar. När du ger återkoppling, börja med det som fungerar och dela sedan dina detaljerade iakttagelser."
     }
   },
-  "summary": "Du får ett resultat från 0 till 100 % för var och en av de fyra DISC-stilarna; ditt högsta resultat visas som din huvudstil. De flesta använder en blandning av stilar och anpassar sig efter situationen. DISC beskriver observerbart beteende och kommunikationspreferenser, inte förmåga eller intelligens."
+  "summary": "Du får ett resultat från 0 till 100 % för var och en av de fyra DISC-stilarna; ditt högsta resultat visas som din huvudstil. De flesta använder en blandning av stilar och anpassar sig efter situationen. DISC beskriver observerbart beteende och kommunikationspreferenser, inte förmåga eller intelligens.",
+  "guide": {
+    "title": "Så läser du din DISC-profil",
+    "paragraphs": [
+      "Du tar ställning till 100 korta påståenden om hur du beter dig på jobbet och tillsammans med andra. Utifrån dina svar räknar testet fram ett resultat från 0 till 100 procent för var och en av de fyra stilarna: dominans, inflytande, stabilitet och noggrannhet. Ingen stil är bättre än någon annan. Känner du igen färgerna röd, gul, grön och blå från Thomas Eriksons Omgiven av idioter eller från en utbildning på jobbet, så motsvarar röd D, gul I, grön S och blå C. Din DISC-analys visar bokstäverna, men det handlar om samma fyra mönster.",
+      "Titta på formen på din profil och inte bara på den högsta stapeln. Dina två högsta stilar säger oftast mer tillsammans än var för sig. Hög D och hög C ser man ofta hos någon som jobbar snabbt, har höga krav och kan låta kort i tonen när andra slarvar. Hög I och hög S är ofta varm och bra på att hålla ihop en grupp, men skjuter gärna obekväma besked framför sig. D med I driver på och övertygar på samma gång, medan S med C är lugn, noggrann och mycket pålitlig när planen väl är klar. Ligger dina resultat nära mitten byter du stil beroende på situationen.",
+      "Ett lågt resultat är ingen svaghet. Det säger mest vilket arbetssätt som tar energi från dig. Har du lågt på inflytande kan du mycket väl hålla en bra presentation, men du förbereder den oftast noga och vill gärna ha lite lugn efteråt. Har du lågt på stabilitet klarar du rutinuppgifter ett tag, men du börjar leta efter något nytt tidigare än de flesta kollegor.",
+      "Du har mest nytta av resultatet när du jämför det med en verklig situation. Ta ett möte där ett beslut ska fattas. En kollega med mycket dominans vill höra slutsatsen redan första minuten. En kollega med mycket noggrannhet vill hellre få siffrorna på mejl dagen innan och tycker illa om att behöva bestämma sig på stående fot. Ingen av dem är besvärlig, de behöver bara olika saker innan de kan säga ja. En bra övning den här veckan: skriv ner ett tillfälle då du krockade med någon, gissa personens stil och fundera på vad hen behövde från dig.",
+      "Var medveten om vad testet kan och inte kan säga. DISC går tillbaka till William Moulton Marstons bok Emotions of Normal People från 1928 och används mest i utbildningar och teamutveckling. Det beskriver beteende i ett visst sammanhang, inte hela din personlighet, och det vetenskapliga stödet är svagare än för femfaktormodellen Big Five. Svara utifrån hur du faktiskt beter dig, inte hur du tycker att du borde vara på jobbet. Din profil kan förskjutas efter ett nytt jobb eller en ny roll i gruppen. Ett DISC-resultat ska aldrig ensamt avgöra om någon blir anställd. Vill du ha en bredare bild av din personlighet är Big Five-testet ett bra nästa steg."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Vilken färg hör till vilken DISC-stil?",
+      "a": "I färgversionen av DISC står röd för dominans, gul för inflytande, grön för stabilitet och blå för noggrannhet. En 'blå' person har alltså högt på C. Färgerna är bara en enkel etikett, och de flesta är en blandning av två eller fler färger."
+    },
+    {
+      "q": "Vad betyder det om två DISC-stilar har nästan samma resultat?",
+      "a": "Då har du en blandad profil, och det är väldigt vanligt. Läs beskrivningen av båda stilarna och lägg märke till i vilka situationer var och en tar över. Många lutar sig mot den ena stilen på jobbet och mot den andra hemma eller med vänner."
+    },
+    {
+      "q": "Kan min DISC-profil förändras?",
+      "a": "Ja, till viss del. DISC mäter beteende, och beteende anpassar sig efter ditt jobb, din roll och människorna runt dig. Dina grundläggande preferenser är ganska stabila, men ett nytt jobb eller mer ansvar kan tydligt flytta dina resultat. Det kan vara intressant att göra testet igen efter ett år."
+    },
+    {
+      "q": "Passar en DISC-analys för att välja bland jobbsökande?",
+      "a": "Inte som enda verktyg. DISC är gjort för att förstå kommunikation och samarbete, inte för att förutsäga hur bra någon kommer att sköta ett jobb. I en grupp kan det starta ett bra samtal, men en anställning kräver underlag som hör ihop med jobbet, till exempel arbetsprov och strukturerade intervjuer."
+    },
+    {
+      "q": "Vad är skillnaden mellan DISC och Big Five?",
+      "a": "DISC delar in beteende på jobbet i fyra stilar och är lätt att använda i en grupp. Big Five mäter fem breda personlighetsdrag och har betydligt mer forskning bakom sig. De svarar på olika frågor: DISC handlar om hur du samarbetar, Big Five om vem du är i hela ditt liv."
+    }
+  ]
 }

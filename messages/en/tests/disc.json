@@ -136,5 +136,37 @@
       "high": "Conscientiousness is a strong part of your style. You are careful, analytical and committed to quality. You value accuracy, clear procedures and well-founded decisions, and you communicate in a precise, factual way. People trust your expertise and thoroughness. The pitfall is perfectionism or getting stuck in analysis, and others may see you as critical or distant. Tip: agree on what is good enough before you start. When giving feedback, start with what works, then share your detailed observations."
     }
   },
-  "summary": "You receive a score from 0 to 100 % for each of the four DISC styles; your highest score is shown as your main style. Most people use a blend of styles and adapt to the situation. DISC describes observable behaviour and communication preferences, not ability or intelligence."
+  "summary": "You receive a score from 0 to 100 % for each of the four DISC styles; your highest score is shown as your main style. Most people use a blend of styles and adapt to the situation. DISC describes observable behaviour and communication preferences, not ability or intelligence.",
+  "guide": {
+    "title": "How to read your DISC profile",
+    "paragraphs": [
+      "The test asks you to rate 100 short statements about how you act at work and around other people. From your answers it calculates a score from 0 to 100 percent for each of the four styles: Dominance, Influence, Steadiness and Conscientiousness. No style is better than another. If you know the four colours from books and workshops, red stands for D, yellow for I, green for S and blue for C. Your result uses the letters, but it describes the same four patterns.",
+      "Look at the shape of your profile rather than only the highest bar. Your two highest styles usually say more together than either one alone. High D with high C often shows up as someone who moves fast, holds a high standard and can sound harsh when others cut corners. High I with high S tends to be warm and good at keeping a group together, but slow to deliver bad news. D with I pushes and persuades at the same time, while S with C is calm, careful and very reliable once the plan is clear. Scores close to the middle mean you switch between styles depending on the situation.",
+      "A low score is not a weakness. It mainly tells you which way of working costs you energy. Someone with a low Influence score can give a good presentation, but will usually prepare it carefully and enjoy a quiet hour afterwards. Someone with low Steadiness can stick with routine work for a while, but starts looking for something new sooner than most colleagues.",
+      "The result is most useful when you hold it up against a real situation. Take a meeting where a decision has to be made. A colleague with high Dominance wants the conclusion in the first minute. A colleague with high Conscientiousness would rather get the figures by email the day before and dislikes having to decide on the spot. Neither of them is being difficult; they simply need different things before they can say yes. A good exercise for this week: write down one moment when you clashed with someone, guess their style, and think about what they needed from you that you did not give.",
+      "Know what the test can and cannot tell you. DISC goes back to William Moulton Marston's 1928 book Emotions of Normal People and is mostly used in training and team development. It describes behaviour in a certain setting, not your whole personality, and its scientific support is thinner than that of the Big Five. Answer the statements based on how you actually behave, not on how you think you should behave at work. Your profile can shift after a new job or a different role in the team. A DISC result alone should never decide whether someone gets hired. If you want a broader picture of your personality, the Big Five test is the better next step."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Which colour goes with which DISC style?",
+      "a": "In colour versions of DISC, red stands for Dominance, yellow for Influence, green for Steadiness and blue for Conscientiousness. So a 'blue' person scores high on C. The colours are just an easy label, and most people are a mix of two or more of them."
+    },
+    {
+      "q": "What does it mean if two DISC styles score almost the same?",
+      "a": "Then you have a blended profile, which is very common. Read the descriptions of both styles and notice in which situations each one comes out. Many people lean on one style with colleagues and on the other with friends or family."
+    },
+    {
+      "q": "Can my DISC profile change over time?",
+      "a": "Yes, to some degree. DISC measures behaviour, and behaviour adapts to your work, your role and the people around you. Your core preferences tend to stay fairly stable, but a new job or more responsibility can clearly shift your scores. Taking the test again after a year can be interesting."
+    },
+    {
+      "q": "Should employers use DISC to choose candidates?",
+      "a": "Not on its own. DISC was designed to understand communication and cooperation, not to predict how well someone will do a job. It can start a useful conversation in a team, but a hiring decision needs evidence that fits the role, such as a work sample and a structured interview."
+    },
+    {
+      "q": "What is the difference between DISC and the Big Five?",
+      "a": "DISC sorts behaviour at work into four styles and is easy to use in a team. The Big Five measures five broad personality traits and has much more research behind it. They answer different questions: DISC is about how you work with others, the Big Five about who you are across your whole life."
+    }
+  ]
 }

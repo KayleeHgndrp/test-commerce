@@ -2,8 +2,8 @@
   "name": "DISC-personlighedstest",
   "tagline": "Forstå din arbejdsstil, og hvordan du kommunikerer.",
   "intro": "DISC-modellen beskriver fire adfærdsstile: Dominans, Indflydelse, Stabilitet og Samvittighedsfuldhed (Conscientiousness). Denne test viser, hvor meget du bruger hver stil på arbejdet og i hverdagen, og hvilken der falder dig mest naturligt. Tag stilling til 100 korte udsagn; det tager omkring fem minutter og giver praktiske tips til samarbejdet med andre.",
-  "seoTitle": "DISC-test: Gratis profil af din arbejdsstil",
-  "seoDescription": "Find din DISC-stil på 5 minutter. Se dine scorer for Dominans, Indflydelse, Stabilitet og Samvittighedsfuldhed samt tips til kommunikation og teamwork.",
+  "seoTitle": "DISC-test gratis: din profil i rød, gul, grøn og blå",
+  "seoDescription": "Tag en gratis DISC-test på 5 minutter. Se om du er rød, gul, grøn eller blå, få din score for hver stil og tips til samarbejde.",
   "items": [
     "Jeg kan lide at tage styringen på et projekt.",
     "Jeg nyder at motivere andre.",
@@ -136,5 +136,37 @@
       "high": "Samvittighedsfuldhed er en stærk del af din stil. Du er omhyggelig, analytisk og engageret i kvalitet. Du værdsætter nøjagtighed, klare procedurer og velbegrundede beslutninger, og du kommunikerer præcist og sagligt. Folk stoler på din ekspertise og grundighed. Faldgruben er perfektionisme eller at sidde fast i analyse, og andre kan opfatte dig som kritisk eller fjern. Tip: Aftal, hvad der er godt nok, før du går i gang. Når du giver feedback, så start med det, der virker, og del derefter dine detaljerede iagttagelser."
     }
   },
-  "summary": "Du får en score fra 0 til 100 % for hver af de fire DISC-stile; din højeste score vises som din primære stil. De fleste bruger en blanding af stile og tilpasser sig situationen. DISC beskriver iagttagelig adfærd og kommunikationspræferencer, ikke evner eller intelligens."
+  "summary": "Du får en score fra 0 til 100 % for hver af de fire DISC-stile; din højeste score vises som din primære stil. De fleste bruger en blanding af stile og tilpasser sig situationen. DISC beskriver iagttagelig adfærd og kommunikationspræferencer, ikke evner eller intelligens.",
+  "guide": {
+    "title": "Sådan læser du din DISC-profil",
+    "paragraphs": [
+      "Du tager stilling til 100 korte udsagn om, hvordan du opfører dig på arbejdet og sammen med andre. Ud fra dine svar beregner testen en score fra 0 til 100 procent for hver af de fire stile: Dominans, Indflydelse, Stabilitet og Samvittighedsfuldhed. Ingen stil er bedre end en anden. Kender du farverne rød, gul, grøn og blå fra Thomas Eriksons bøger eller fra et kursus på jobbet, så svarer rød til D, gul til I, grøn til S og blå til C. Din DISC-analyse viser bogstaverne, men det er de samme fire mønstre.",
+      "Se på formen af din profil og ikke kun på den højeste søjle. Dine to højeste stile siger som regel mere sammen end hver for sig. Høj D og høj C ser man ofte hos en, der arbejder hurtigt, sætter barren højt og kan lyde kort for hovedet, når andre sjusker. Høj I og høj S er tit varm og god til at holde sammen på en gruppe, men skubber gerne ubehagelige beskeder foran sig. D med I presser på og overtaler på samme tid, mens S med C er rolig, grundig og meget pålidelig, når planen først ligger fast. Ligger dine scorer tæt på midten, skifter du stil alt efter situationen.",
+      "En lav score er ikke en svaghed. Den fortæller mest, hvilken måde at arbejde på der koster dig energi. Har du en lav score i Indflydelse, kan du sagtens holde et godt oplæg, men du forbereder det som regel grundigt og trænger til lidt ro bagefter. Har du en lav score i Stabilitet, kan du godt klare rutineopgaver en periode, men du begynder at kigge efter noget nyt før de fleste kolleger.",
+      "Du får mest ud af resultatet, når du holder det op mod en konkret situation. Tag et møde, hvor der skal træffes en beslutning. En kollega med meget Dominans vil høre konklusionen i første minut. En kollega med meget Samvittighedsfuldhed vil hellere have tallene på mail dagen før og bryder sig ikke om at skulle beslutte noget på stedet. Ingen af dem er besværlige; de har bare brug for forskellige ting, før de kan sige ja. En god øvelse i denne uge: skriv et øjeblik ned, hvor du stødte sammen med en anden, gæt personens stil, og tænk over, hvad vedkommende havde brug for fra dig.",
+      "Vær klar over, hvad testen kan og ikke kan. DISC går tilbage til William Moulton Marstons bog Emotions of Normal People fra 1928 og bruges mest til kurser og teamudvikling. Den beskriver adfærd i en bestemt sammenhæng, ikke hele din personlighed, og det videnskabelige grundlag er tyndere end for Big Five. Svar ud fra, hvordan du faktisk handler, ikke hvordan du synes, du burde handle på arbejdet. Din profil kan flytte sig efter et nyt job eller en ny rolle i teamet. En DISC-profil bør aldrig alene afgøre, om nogen bliver ansat. Vil du have et bredere billede af din personlighed, er Big Five-testen et godt næste skridt."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Hvilken farve hører til hvilken DISC-type?",
+      "a": "I farveudgaven af DISC står rød for Dominans, gul for Indflydelse, grøn for Stabilitet og blå for Samvittighedsfuldhed. En 'blå' person scorer altså højt på C. Farverne er bare en nem etiket, og de fleste mennesker er en blanding af to eller flere farver."
+    },
+    {
+      "q": "Hvad betyder det, hvis to DISC-stile scorer næsten lige højt?",
+      "a": "Så har du en blandet profil, og det er helt almindeligt. Læs beskrivelsen af begge stile, og læg mærke til, i hvilke situationer hver af dem kommer frem. Mange læner sig op ad den ene stil på arbejdet og den anden derhjemme eller med venner."
+    },
+    {
+      "q": "Kan min DISC-profil ændre sig?",
+      "a": "Ja, til en vis grad. DISC måler adfærd, og adfærd tilpasser sig dit arbejde, din rolle og menneskene omkring dig. Dine grundlæggende præferencer er ret stabile, men et nyt job eller mere ansvar kan tydeligt flytte dine scorer. Det kan være interessant at tage testen igen efter et år."
+    },
+    {
+      "q": "Egner en DISC-test sig til at vælge mellem ansøgere?",
+      "a": "Ikke som det eneste redskab. DISC er lavet til at forstå kommunikation og samarbejde, ikke til at forudsige, hvor godt nogen klarer et job. I et team kan den sætte en god snak i gang, men en ansættelse kræver dokumentation, der passer til jobbet, som en arbejdsprøve og en struktureret samtale."
+    },
+    {
+      "q": "Hvad er forskellen på DISC og Big Five?",
+      "a": "DISC deler adfærd på arbejdet op i fire stile og er let at bruge i et team. Big Five måler fem brede personlighedstræk og har langt mere forskning bag sig. De svarer på forskellige spørgsmål: DISC handler om, hvordan du arbejder sammen med andre, Big Five om, hvem du er i hele dit liv."
+    }
+  ]
 }
