@@ -8,6 +8,7 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 | Datum | translationKey | Onderwerp | Test |
 |---|---|---|---|
+| 2026-11-20 | adhd-signs-adults (en: adhd-in-adults-signs) | ADHD bij volwassenen: kenmerken, waarom vrouwen vaak gemist worden en wat een zelftest zegt (gekozen op Search Console 28 dagen: "adhd testi" FI pos 17, "adhd testi aikuiselle" FI pos 22, plus veel zoekvragen naar ADHD bij vrouwen en meisjes in SV/DA: "adhd kvinnor test", "adhd tjejer test", "adhd kvinder test"). Alleen in de 7 focustalen. | adhd |
 | 2026-11-16 | bpd-signs-adults (en: signs-of-bpd-in-adults) | Borderline (BPD) bij volwassenen: signalen, en wat een zelftest wel en niet zegt (gekozen op Search Console: bpd testi FI pos 7.6, granični poremećaj ličnosti test HR pos 5, hraničná porucha SK pos 8, borderline test RO pos 32) | bpd |
 | 2026-11-13 | bipolar-or-mood-swings (en: bipolar-or-mood-swings) | Bipolaire stoornis of gewoon stemmingswisselingen? De verschillen (gekozen op Search Console: "bipolární porucha test", "bipolarni poremećaj test", positie rond 9 in CS en HR) | bipolar |
 | 2026-11-11 | disc-profile-colors (en: disc-personality-types-colors) | DISC-profiel: de vier kleuren rood, geel, groen en blauw uitgelegd (gekozen op Search Console: grootste cluster zoekvragen, vooral Deens "disc profil", "rød gul grøn blå", positie 20 tot 30) | disc |
@@ -27,7 +28,6 @@ Taalvoorrang (9 nov 2026): de meeste vertoningen komen uit DA, SV, CS, DE en FI,
 
 | translationKey | Onderwerp | Test | Zoekvraag (en) |
 |---|---|---|---|
-| adhd-signs-adults | ADHD bij volwassenen: signalen, en wat een zelftest wel en niet zegt (Search Console 16 nov: "adhd testi aikuiselle" FI pos 22, "adhd testi" FI pos 17, "adhd test adulti" RO pos 23, "adhd" ET pos 13) | adhd | adhd in adults signs |
 | autism-signs-adults | Autisme bij volwassenen: signalen die vaak gemist worden (Search Console 16 nov: "autismus test dospělých online zdarma" CS pos 10, "online test za autizam kod odraslih" HR pos 8, "ilmainen autismi testi aikuiselle" FI pos 11) | autism | autism in adults signs |
 | big-five-vs-mbti | Big Five of MBTI: welke test is betrouwbaarder | big-five | big five vs mbti |
 | trauma-signs-ptsd | Signalen van onverwerkt trauma, en wanneer het PTSS kan zijn | trauma | trauma test |
