@@ -124,6 +124,8 @@
     "questions": "{count} domande",
     "minutes": "{count} min",
     "aboutTitle": "Informazioni su questo test",
+    "quickTitle": "In breve",
+    "quickAnswer": "Questo test è gratuito e ha {count} affermazioni brevi. Esamina queste aree: {dimensions}. Dura circa {minutes} minuti e non ti serve un account. Il tuo report personale completo costa {price}, pagato una volta sola, senza abbonamento.",
     "measuresTitle": "Cosa misura questo test",
     "whatYouGet": "Cosa include il tuo report",
     "whatYouGet1": "Il tuo punteggio in ogni dimensione: {dimensions}",

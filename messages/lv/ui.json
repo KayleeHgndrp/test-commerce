@@ -124,6 +124,8 @@
     "questions": "Jautājumi: {count}",
     "minutes": "{count} min",
     "aboutTitle": "Par šo testu",
+    "quickTitle": "Īsumā",
+    "quickAnswer": "Šis tests ir bez maksas, un tajā ir {count} īsu apgalvojumu. Tas aplūko šīs jomas: {dimensions}. Tas aizņem apmēram {minutes} minūtes, un konts nav vajadzīgs. Tavs pilnais personīgais pārskats maksā {price}, vienreizējs maksājums bez abonementa.",
     "measuresTitle": "Ko šis tests mēra",
     "whatYouGet": "Ko ietver tavs pārskats",
     "whatYouGet1": "Tavs rezultāts katrā dimensijā: {dimensions}",

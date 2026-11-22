@@ -34,6 +34,9 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
     price: formatPrice(locale),
   };
   const url = `${site.url}/${locale}/${def.slug}`;
+  // One self-contained paragraph with the key facts, so search engines and AI assistants
+  // can quote the page without piecing the answer together from several sections.
+  const quickAnswer = fmt(ui.test.quickAnswer, vars);
   const faq = [...(text.faq ?? []), ...ui.test.faq].map(({ q, a }) => ({ q: fmt(q, vars), a: fmt(a, vars) }));
 
   return (
@@ -53,7 +56,14 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
         {def.category === "screeners" && <p className="mt-4 text-xs text-muted">{ui.test.screenerNote}</p>}
       </div>
 
-      <div className="mt-10 grid gap-6 sm:grid-cols-2">
+      <section id="in-short" className="mt-10 rounded-2xl border border-accent/20 bg-accent/5 p-6">
+        <h2 className="font-semibold">{ui.test.quickTitle}</h2>
+        <p className="mt-2 leading-relaxed text-muted">
+          <strong className="font-semibold text-foreground">{text.name}.</strong> {quickAnswer}
+        </p>
+      </section>
+
+      <div className="mt-6 grid gap-6 sm:grid-cols-2">
         <section className="rounded-2xl border border-border bg-surface p-6">
           <h2 className="font-semibold">{ui.test.aboutTitle}</h2>
           <p className="mt-3 text-sm leading-relaxed text-muted">{text.intro}</p>
@@ -107,6 +117,7 @@ export default async function TestLanding({ params }: PageProps<"/[locale]/[test
               url,
               name: text.seoTitle,
               description: text.seoDescription,
+              abstract: `${text.name}. ${quickAnswer}`,
               inLanguage: toLangTag(locale),
               isPartOf: { "@id": `${site.url}/${locale}#website` },
               publisher: { "@id": `${site.url}/#org` },

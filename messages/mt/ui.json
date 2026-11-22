@@ -124,6 +124,8 @@
     "questions": "{count} mistoqsija",
     "minutes": "{count} min",
     "aboutTitle": "Dwar dan it-test",
+    "quickTitle": "Fil-qosor",
+    "quickAnswer": "Dan it-test huwa b'xejn u għandu {count} stqarrija qasira. Iħares lejn dawn l-oqsma: {dimensions}. Jieħu madwar {minutes} minuti u m'għandekx bżonn kont. Ir-rapport personali sħiħ tiegħek jiswa {price}, imħallas darba waħda, mingħajr abbonament.",
     "measuresTitle": "X'ikejjel dan it-test",
     "whatYouGet": "X'jinkludi r-rapport tiegħek",
     "whatYouGet1": "Il-punteġġ tiegħek f'kull dimensjoni: {dimensions}",

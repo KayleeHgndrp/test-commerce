@@ -18,6 +18,11 @@ const aiCrawlers = [
   "meta-externalagent",
   "MistralAI-User",
   "DuckAssistBot",
+  "Applebot",
+  "Amazonbot",
+  "anthropic-ai",
+  "cohere-ai",
+  "YouBot",
 ];
 
 export default function robots(): MetadataRoute.Robots {

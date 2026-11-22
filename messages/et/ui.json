@@ -124,6 +124,8 @@
     "questions": "{count} küsimust",
     "minutes": "{count} min",
     "aboutTitle": "Testist",
+    "quickTitle": "Lühidalt",
+    "quickAnswer": "See test on tasuta ja sisaldab {count} lühikest väidet. Test vaatleb neid valdkondi: {dimensions}. Selleks kulub umbes {minutes} minutit ja kontot pole vaja. Sinu täielik isiklik raport maksab {price}, makstakse üks kord ja ilma tellimuseta.",
     "measuresTitle": "Mida see test mõõdab",
     "whatYouGet": "Mida sinu raport sisaldab",
     "whatYouGet1": "Sinu tulemus igas dimensioonis: {dimensions}",

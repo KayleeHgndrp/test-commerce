@@ -124,6 +124,8 @@
     "questions": "{count} kérdés",
     "minutes": "{count} perc",
     "aboutTitle": "A tesztről",
+    "quickTitle": "Röviden",
+    "quickAnswer": "Ez a teszt ingyenes, és {count} rövid állításból áll. Ezeket a területeket vizsgálja: {dimensions}. Körülbelül {minutes} percet vesz igénybe, és nincs szükséged fiókra. A teljes személyes értékelés ára {price}, egyszeri díj, előfizetés nélkül.",
     "measuresTitle": "Mit mér ez a teszt",
     "whatYouGet": "Mit tartalmaz az értékelésed?",
     "whatYouGet1": "Pontszámod minden dimenzióban: {dimensions}",

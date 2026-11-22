@@ -124,6 +124,8 @@
     "questions": "{count} soru",
     "minutes": "{count} dk",
     "aboutTitle": "Bu test hakkında",
+    "quickTitle": "Kısaca",
+    "quickAnswer": "Bu test ücretsizdir ve {count} kısa ifadeden oluşur. Şu alanları inceler: {dimensions}. Yaklaşık {minutes} dakika sürer ve hesap açmanız gerekmez. Tam kişisel raporunuz {price}, tek seferlik ödeme, abonelik yok.",
     "measuresTitle": "Bu test neyi ölçer",
     "whatYouGet": "Raporunuzda neler var?",
     "whatYouGet1": "Her boyuttaki puanınız: {dimensions}",

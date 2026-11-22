@@ -124,6 +124,8 @@
     "questions": "Vprašanja: {count}",
     "minutes": "{count} min",
     "aboutTitle": "O tem testu",
+    "quickTitle": "Na kratko",
+    "quickAnswer": "Ta test je brezplačen in ima {count} kratkih trditev. Zajema naslednja področja: {dimensions}. Traja približno {minutes} minut in ne potrebujete računa. Celotno osebno poročilo stane {price}, plača se enkrat in brez naročnine.",
     "measuresTitle": "Kaj meri ta test",
     "whatYouGet": "Kaj vključuje vaše poročilo",
     "whatYouGet1": "Vaš rezultat na vsaki dimenziji: {dimensions}",

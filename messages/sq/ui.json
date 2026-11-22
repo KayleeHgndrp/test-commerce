@@ -124,6 +124,8 @@
     "questions": "{count} pyetje",
     "minutes": "{count} min",
     "aboutTitle": "Rreth këtij testi",
+    "quickTitle": "Shkurt",
+    "quickAnswer": "Ky test është falas dhe ka {count} pohime të shkurtra. Shqyrton këto fusha: {dimensions}. Zgjat rreth {minutes} minuta dhe nuk të duhet llogari. Raporti yt i plotë personal kushton {price}, paguhet një herë dhe pa abonim.",
     "measuresTitle": "Çfarë mat ky test",
     "whatYouGet": "Çfarë përfshin raporti yt",
     "whatYouGet1": "Rezultati yt në çdo dimension: {dimensions}",

@@ -1,5 +1,5 @@
-import crypto from "node:crypto";
 import { brevoEnabled, listContacts } from "@/lib/brevo";
+import { cronAuthorized } from "@/lib/cronAuth";
 import { advance } from "@/lib/emailFlow";
 
 // Daily job (vercel.json) that sends every follow-up email that is due. Vercel
@@ -8,19 +8,10 @@ import { advance } from "@/lib/emailFlow";
 // count too, so the cron stays below that and picks up the rest tomorrow.
 const DAILY_LIMIT = Number(process.env.EMAIL_FLOW_DAILY_LIMIT || 250);
 
-function authorized(request: Request) {
-  const token = process.env.CRON_SECRET;
-  const given = request.headers.get("authorization")?.replace(/^Bearer /, "") ?? "";
-  if (!token || token.length < 16) return false;
-  const a = Buffer.from(token);
-  const b = Buffer.from(given);
-  return a.length === b.length && crypto.timingSafeEqual(a, b);
-}
-
 export const maxDuration = 300;
 
 export async function GET(request: Request) {
-  if (!authorized(request)) return Response.json({ error: "unauthorized" }, { status: 401 });
+  if (!cronAuthorized(request)) return Response.json({ error: "unauthorized" }, { status: 401 });
   if (!brevoEnabled()) return Response.json({ error: "BREVO_API_KEY not set" }, { status: 500 });
 
   let sent = 0;

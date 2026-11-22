@@ -124,6 +124,8 @@
     "questions": "{count} de întrebări",
     "minutes": "{count} min",
     "aboutTitle": "Despre acest test",
+    "quickTitle": "Pe scurt",
+    "quickAnswer": "Acest test este gratuit și are {count} afirmații scurte. Analizează aceste domenii: {dimensions}. Durează aproximativ {minutes} minute și nu ai nevoie de cont. Raportul tău personal complet costă {price}, plătit o singură dată, fără abonament.",
     "measuresTitle": "Ce măsoară acest test",
     "whatYouGet": "Ce conține raportul tău",
     "whatYouGet1": "Scorul tău la fiecare dimensiune: {dimensions}",
