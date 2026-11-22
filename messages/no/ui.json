@@ -124,6 +124,8 @@
     "questions": "{count} spørsmål",
     "minutes": "{count} min",
     "aboutTitle": "Om denne testen",
+    "quickTitle": "Kort fortalt",
+    "quickAnswer": "Testen er gratis og består av {count} korte påstander. Den ser på disse områdene: {dimensions}. Den tar omtrent {minutes} minutter, og du trenger ingen konto. Den fullstendige personlige rapporten din koster {price}, betalt én gang og uten abonnement.",
     "measuresTitle": "Hva testen måler",
     "whatYouGet": "Dette inneholder rapporten din",
     "whatYouGet1": "Poengsummen din på hver dimensjon: {dimensions}",

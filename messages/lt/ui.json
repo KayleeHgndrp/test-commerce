@@ -124,6 +124,8 @@
     "questions": "Klausimų: {count}",
     "minutes": "{count} min.",
     "aboutTitle": "Apie šį testą",
+    "quickTitle": "Trumpai",
+    "quickAnswer": "Šis testas yra nemokamas, jame yra {count} trumpų teiginių. Jis apima šias sritis: {dimensions}. Jis trunka apie {minutes} min., o paskyros nereikia. Išsami asmeninė ataskaita kainuoja {price}, mokama vieną kartą, be prenumeratos.",
     "measuresTitle": "Ką matuoja šis testas",
     "whatYouGet": "Ką apima jūsų ataskaita",
     "whatYouGet1": "Jūsų balas kiekvienoje dimensijoje: {dimensions}",

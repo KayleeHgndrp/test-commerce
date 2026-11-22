@@ -124,6 +124,8 @@
     "questions": "Počet otázok: {count}",
     "minutes": "{count} min",
     "aboutTitle": "O tomto teste",
+    "quickTitle": "V skratke",
+    "quickAnswer": "Tento test je zadarmo a má {count} krátkych tvrdení. Zameriava sa na tieto oblasti: {dimensions}. Trvá asi {minutes} minút a nepotrebujete účet. Úplná osobná správa stojí {price}, platí sa raz a bez predplatného.",
     "measuresTitle": "Čo tento test meria",
     "whatYouGet": "Čo obsahuje vaša správa",
     "whatYouGet1": "Vaše skóre v každej dimenzii: {dimensions}",

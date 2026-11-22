@@ -124,6 +124,8 @@
     "questions": "{count} kysymystä",
     "minutes": "{count} min",
     "aboutTitle": "Tietoa testistä",
+    "quickTitle": "Lyhyesti",
+    "quickAnswer": "Testi on ilmainen, ja siinä on {count} lyhyttä väittämää. Se tarkastelee näitä alueita: {dimensions}. Testin tekeminen vie noin {minutes} minuuttia, eikä tiliä tarvita. Koko henkilökohtainen raporttisi maksaa {price}, kertamaksu ilman tilausta.",
     "measuresTitle": "Mitä testi mittaa",
     "whatYouGet": "Raporttisi sisältää",
     "whatYouGet1": "Pisteesi jokaisella ulottuvuudella: {dimensions}",

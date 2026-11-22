@@ -124,6 +124,8 @@
     "questions": "Ceisteanna: {count}",
     "minutes": "{count} nóim.",
     "aboutTitle": "Faoin tástáil seo",
+    "quickTitle": "Go hachomair",
+    "quickAnswer": "Tá an tástáil seo saor in aisce agus tá {count} ráiteas gearr inti. Féachann sí ar na réimsí seo: {dimensions}. Tógann sí thart ar {minutes} nóiméad agus níl cuntas ag teastáil uait. Cosnaíonn do thuarascáil phearsanta iomlán {price}, íoctha uair amháin, gan síntiús.",
     "measuresTitle": "Cad a thomhaiseann an tástáil seo",
     "whatYouGet": "Cad atá i do thuarascáil",
     "whatYouGet1": "Do scór ar gach toise: {dimensions}",

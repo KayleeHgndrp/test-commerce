@@ -124,6 +124,8 @@
     "questions": "{count} vragen",
     "minutes": "{count} min",
     "aboutTitle": "Over deze test",
+    "quickTitle": "In het kort",
+    "quickAnswer": "Deze test is gratis en bestaat uit {count} korte stellingen. Hij kijkt naar deze gebieden: {dimensions}. Je bent ongeveer {minutes} minuten bezig en je hebt geen account nodig. Je volledige persoonlijke rapport kost {price}, eenmalig en zonder abonnement.",
     "measuresTitle": "Wat deze test meet",
     "whatYouGet": "Wat je rapport bevat",
     "whatYouGet1": "Je score op elke dimensie: {dimensions}",
