@@ -306,7 +306,7 @@
       "Vi säljer inte dina uppgifter och använder dem inte för reklam. Du kan när som helst be oss radera dina uppgifter genom att kontakta {email}.",
       "Om du godkänner analyscookies använder vi Google Analytics för att samla in användningsstatistik, till exempel vilka sidor som besöks. Google kan behandla dessa uppgifter utanför EU enligt EU-US Data Privacy Framework.",
       "Betalningar hanteras av Stripe. Vi ser eller lagrar aldrig dina kortuppgifter.",
-      "Om du ber oss mejla ditt resultat sparar vi din e-postadress, ditt språk, dina testsvar och tidpunkten för ditt samtycke hos vår e-postleverantör Brevo (servrar i EU). Vi använder det bara för att skicka ditt resultat, tre korta uppföljande mejl den första veckan och därefter högst ett mejl i veckan. Varje mejl har en avregistreringslänk, och efter att du avregistrerat dig får du inga fler mejl från oss."
+      "Om du ber oss mejla ditt resultat skickar vi det en gång och lägger inte till din adress på vår mejllista. Bara om du också kryssar i rutan för uppföljande mejl (på resultatsidan eller vid betalningen) sparar vi din e-postadress, ditt språk, dina testsvar och tidpunkten för ditt samtycke hos vår e-postleverantör Brevo (servrar i EU). Vi använder det bara för några korta uppföljande mejl de första dagarna, med en insikt från din rapport, ett test som passar dig och ett engångserbjudande på din rapport. Varje mejl har en avregistreringslänk, och efter avregistreringen får du inga fler mejl från oss."
     ],
     "termsTitle": "Användarvillkor",
     "termsBody": [

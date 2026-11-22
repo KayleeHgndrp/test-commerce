@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Vrei să primești rezultatul pe e-mail?",
-    "text": "Îți trimitem imediat un scurt rezumat al rezultatului. Săptămâna aceasta mai primești trei e-mailuri scurte, cu o idee din raportul tău și un test care ți se potrivește. După aceea, cel mult un e-mail pe săptămână.",
-    "consent": "Da, trimiteți-mi rezultatul și aceste e-mailuri. Mă pot dezabona oricând cu un singur clic.",
+    "title": "Nu ești încă hotărât? Primește rezultatul gratuit pe e-mail",
+    "text": "Îți trimitem imediat un scurt rezumat al rezultatului, ca să îl ai salvat.",
+    "consent": "Trimite-mi și câteva e-mailuri scurte în zilele următoare, cu idei din raportul meu și o ofertă personală. Mă pot dezabona oricând cu un clic.",
     "privacy": "Politica de confidențialitate",
     "button": "Trimite-mi rezultatul",
-    "done": "Trimis! Verifică-ți inboxul peste un minut și, pentru orice eventualitate, și folderul de spam.",
-    "consentRequired": "Bifează căsuța ca să avem voie să-ți scriem."
+    "done": "Trimis! Verifică-ți inboxul peste un minut și, pentru orice eventualitate, și folderul de spam."
   },
   "checkoutOptin": "Trimiteți-mi și sfaturi și teste potrivite pentru mine. Opțional, te poți dezabona oricând.",
   "greeting": "Salut,",
@@ -41,16 +40,23 @@
     "outro": "Durează cam {minutes} minute și este gratuit.",
     "cta": "Fă testul"
   },
-  "lastChance": {
-    "subject": "Raportul tău pentru „{test}” încă te așteaptă",
-    "intro": "Acum o săptămână ai făcut testul „{test}”. Răspunsurile tale sunt salvate, așa că raportul complet e gata oricând vrei.",
-    "outro": "O singură plată de {price}. Fără cont și fără abonament.",
-    "cta": "Obține raportul complet"
+  "offer": {
+    "subject": "Doar pentru tine: raportul tău pentru „{test}” la {price}",
+    "intro": "Ai făcut de curând testul „{test}”, dar încă nu ți-ai deschis raportul complet. Așa că îți facem o mică ofertă: până pe {date} inclusiv îl primești la {price} în loc de {full}.",
+    "outro": "Răspunsurile tale sunt salvate. Un clic și raportul e gata, fără cont și fără abonament.",
+    "cta": "Obține raportul la {price}"
+  },
+  "offerEnds": {
+    "subject": "Ultima zi: raportul tău pentru „{test}” la {price}",
+    "intro": "O scurtă amintire: raportul tău complet pentru „{test}” la {price} este disponibil până pe {date} inclusiv. După aceea se aplică din nou prețul normal de {full}.",
+    "outro": "Acesta este ultimul nostru e-mail despre raportul tău.",
+    "cta": "Vezi raportul la {price}"
   },
   "pass": {
     "subject": "Toate cele {count} rapoarte pentru {price}",
     "intro": "Mulțumim pentru raportul tău la {test}. Ești curios ce spun despre tine celelalte teste? Cu accesul complet deblochezi dintr-odată toate rapoartele de pe site.",
     "outro": "O singură plată de {price}, fără abonament. La următorul test, alege {allLabel}.",
     "cta": "Alege următorul test"
-  }
+  },
+  "offerBanner": "Oferta ta din e-mailul nostru: raportul la {price} în loc de {full}, până pe {date} inclusiv."
 }

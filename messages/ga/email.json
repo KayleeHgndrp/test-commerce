@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Ar mhaith leat do thoradh a fháil trí ríomhphost?",
-    "text": "Seolfaimid achoimre ghearr ar do thoradh chugat láithreach. An tseachtain seo gheobhaidh tú trí ríomhphost gearr eile le léargas ó do thuairisc agus tástáil a oireann duit. Ina dhiaidh sin, ríomhphost amháin sa tseachtain ar a mhéad.",
-    "consent": "Is ea, seol mo thoradh agus na ríomhphoist leantacha seo chugam. Is féidir liom díliostáil am ar bith le cliceáil amháin.",
+    "title": "Gan a bheith réidh fós? Faigh do thoradh saor in aisce trí ríomhphost",
+    "text": "Seolfaimid achoimre ghearr ar do thoradh chugat láithreach, ionas go mbeidh sé sábháilte agat.",
+    "consent": "Seol cúpla ríomhphost gearr chugam freisin sna laethanta beaga amach romhainn, le léargais ó mo thuairisc agus tairiscint phearsanta. Is féidir liom díliostáil am ar bith le cliceáil amháin.",
     "privacy": "Polasaí príobháideachais",
     "button": "Seol mo thoradh",
-    "done": "Seolta! Féach ar do bhosca isteach i gceann nóiméid, agus ar an bhfillteán turscair ar eagla na heagla.",
-    "consentRequired": "Cuir tic sa bhosca le go mbeidh cead againn ríomhphost a sheoladh chugat."
+    "done": "Seolta! Féach ar do bhosca isteach i gceann nóiméid, agus ar an bhfillteán turscair ar eagla na heagla."
   },
   "checkoutOptin": "Seol leideanna agus tástálacha a oireann dom chugam freisin. Roghnach, is féidir díliostáil am ar bith.",
   "greeting": "Dia duit,",
@@ -41,16 +40,23 @@
     "outro": "Tógann sé thart ar {minutes} nóiméad agus tá sé saor in aisce.",
     "cta": "Déan an tástáil"
   },
-  "lastChance": {
-    "subject": "Tá do thuairisc \"{test}\" fós ag fanacht ort",
-    "intro": "Seachtain ó shin rinne tú an tástáil \"{test}\". Tá do fhreagraí sábháilte, mar sin tá do thuairisc iomlán réidh nuair is mian leat.",
-    "outro": "Íocaíocht amháin de {price}. Gan cuntas agus gan síntiús.",
-    "cta": "Faigh mo thuairisc iomlán"
+  "offer": {
+    "subject": "Duitse amháin: do thuairisc \"{test}\" ar {price}",
+    "intro": "Rinne tú an tástáil \"{test}\" le déanaí, ach níor oscail tú do thuairisc iomlán fós. Mar sin, tairiscint bheag: go dtí {date} san áireamh, gheobhaidh tú í ar {price} in ionad {full}.",
+    "outro": "Tá do fhreagraí sábháilte. Cliceáil amháin agus beidh do thuairisc réidh, gan cuntas agus gan síntiús.",
+    "cta": "Faigh mo thuairisc ar {price}"
+  },
+  "offerEnds": {
+    "subject": "An lá deireanach: do thuairisc \"{test}\" ar {price}",
+    "intro": "Meabhrúchán gearr: tá do thuairisc iomlán \"{test}\" ar fáil ar {price} go dtí {date} san áireamh. Ina dhiaidh sin beidh an gnáthphraghas {full} i bhfeidhm arís.",
+    "outro": "Seo é ár ríomhphost deireanach faoi do thuairisc.",
+    "cta": "Féach ar mo thuairisc ar {price}"
   },
   "pass": {
     "subject": "Na {count} tuairisc ar fad ar {price}",
     "intro": "Go raibh maith agat as do thuairisc ón {test}. An bhfuil fonn ort a fháil amach cad a deir na tástálacha eile fút? Leis an bpas iomlán díghlasálann tú gach tuairisc ar an suíomh in éineacht.",
     "outro": "Íocaíocht amháin de {price}, gan síntiús. Ag do chéad tástáil eile, roghnaigh {allLabel}.",
     "cta": "Roghnaigh mo chéad tástáil eile"
-  }
+  },
+  "offerBanner": "Do thairiscint ónár ríomhphost: do thuairisc ar {price} in ionad {full}, go dtí {date} san áireamh."
 }

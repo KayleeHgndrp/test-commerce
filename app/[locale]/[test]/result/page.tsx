@@ -58,6 +58,7 @@ export default async function ResultPage({ params }: PageProps<"/[locale]/[test]
       plansUi={ui.plans}
       optin={email?.optin ?? null}
       checkoutOptin={email?.checkoutOptin ?? null}
+      offer={email ? { price: formatPrice(locale, site.offerPriceCents), banner: email.offerBanner } : null}
     >
       {site.coupleTests.includes(def.slug) && <CoupleInvite locale={locale} slug={def.slug} testName={text.name} ui={ui.couple} />}
     </ResultPreview>

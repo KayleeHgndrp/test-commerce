@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Želite svoj rezultat po e-pošti?",
-    "text": "Takoj vam pošljemo kratek povzetek vašega rezultata. Ta teden dobite še tri kratka sporočila z vpogledom iz vašega poročila in testom, ki vam ustreza. Potem največ eno sporočilo na teden.",
-    "consent": "Da, pošljite mi moj rezultat in ta nadaljnja sporočila. Odjavim se lahko kadar koli z enim klikom.",
+    "title": "Še niste pripravljeni? Prejmite rezultat brezplačno po e-pošti",
+    "text": "Takoj vam pošljemo kratek povzetek rezultata, da ga imate shranjenega.",
+    "consent": "Pošljite mi v naslednjih dneh tudi nekaj kratkih e-sporočil z vpogledi iz mojega poročila in osebno ponudbo. Odjavim se lahko kadar koli z enim klikom.",
     "privacy": "Pravilnik o zasebnosti",
     "button": "Pošljite mi rezultat",
-    "done": "Poslano! Čez minuto poglejte v nabiralnik, za vsak primer pa tudi v mapo z neželeno pošto.",
-    "consentRequired": "Označite polje, da vam smemo pisati."
+    "done": "Poslano! Čez minuto poglejte v nabiralnik, za vsak primer pa tudi v mapo z neželeno pošto."
   },
   "checkoutOptin": "Pošiljajte mi tudi nasvete in teste, ki mi ustrezajo. Neobvezno, odjavite se lahko kadar koli.",
   "greeting": "Pozdravljeni,",
@@ -41,16 +40,23 @@
     "outro": "Traja približno {minutes} minut in je brezplačen.",
     "cta": "Rešite test"
   },
-  "lastChance": {
-    "subject": "Vaše poročilo za »{test}« vas še čaka",
-    "intro": "Pred tednom dni ste rešili test »{test}«. Vaši odgovori so shranjeni, zato je celotno poročilo pripravljeno, kadar koli želite.",
-    "outro": "Enkratno plačilo {price}. Brez računa in brez naročnine.",
-    "cta": "Pridobite celotno poročilo"
+  "offer": {
+    "subject": "Samo za vas: vaše poročilo za »{test}« za {price}",
+    "intro": "Nedavno ste opravili test »{test}«, vendar celotnega poročila še niste odprli. Zato majhna ponudba: do vključno {date} ga dobite za {price} namesto {full}.",
+    "outro": "Vaši odgovori so shranjeni. En klik in poročilo je pripravljeno, brez računa in brez naročnine.",
+    "cta": "Pridobite poročilo za {price}"
+  },
+  "offerEnds": {
+    "subject": "Zadnji dan: vaše poročilo za »{test}« za {price}",
+    "intro": "Kratek opomnik: celotno poročilo za »{test}« za {price} velja do vključno {date}. Potem spet velja redna cena {full}.",
+    "outro": "To je naše zadnje sporočilo o vašem poročilu.",
+    "cta": "Oglejte si poročilo za {price}"
   },
   "pass": {
     "subject": "Vseh {count} poročil za {price}",
     "intro": "Hvala za vaše poročilo testa {test}. Vas zanima, kaj o vas pravijo drugi testi? S polnim dostopom naenkrat odklenete vsa poročila na strani.",
     "outro": "Enkratno plačilo {price}, brez naročnine. Pri naslednjem testu izberite {allLabel}.",
     "cta": "Izberite naslednji test"
-  }
+  },
+  "offerBanner": "Vaša ponudba iz našega e-sporočila: poročilo za {price} namesto {full}, do vključno {date}."
 }

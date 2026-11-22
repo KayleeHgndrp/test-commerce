@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Sonucunuzu e-postayla almak ister misiniz?",
-    "text": "Size hemen sonucunuzun kısa bir özetini gönderiyoruz. Bu hafta raporunuzdan bir içgörü ve size uygun bir test içeren üç kısa e-posta daha gelecek. Sonrasında haftada en fazla bir e-posta.",
-    "consent": "Evet, sonucumu ve bu takip e-postalarını bana gönderin. İstediğim zaman tek tıkla abonelikten çıkabilirim.",
+    "title": "Henüz hazır değil misiniz? Sonucunuzu ücretsiz e-postayla alın",
+    "text": "Sonucunuzun kısa bir özetini hemen gönderiyoruz, böylece kayıtlı kalır.",
+    "consent": "Önümüzdeki günlerde bana raporumdan içgörüler ve kişisel bir teklif içeren birkaç kısa e-posta da gönderin. Tek tıkla istediğim zaman abonelikten çıkabilirim.",
     "privacy": "Gizlilik politikası",
     "button": "Sonucumu gönder",
-    "done": "Gönderildi! Bir dakika içinde gelen kutunuza, emin olmak için de spam klasörüne bakın.",
-    "consentRequired": "Size e-posta gönderebilmemiz için kutuyu işaretleyin."
+    "done": "Gönderildi! Bir dakika içinde gelen kutunuza, emin olmak için de spam klasörüne bakın."
   },
   "checkoutOptin": "Bana ipuçları ve bana uygun testler de gönderin. İsteğe bağlı, istediğiniz zaman çıkabilirsiniz.",
   "greeting": "Merhaba,",
@@ -41,16 +40,23 @@
     "outro": "Yaklaşık {minutes} dakika sürüyor ve ücretsiz.",
     "cta": "Teste başla"
   },
-  "lastChance": {
-    "subject": "\"{test}\" raporunuz hâlâ sizi bekliyor",
-    "intro": "Bir hafta önce \"{test}\" testini yaptınız. Cevaplarınız kayıtlı, yani tam raporunuz ne zaman isterseniz hazır.",
-    "outro": "Tek seferlik {price}. Hesap yok, abonelik yok.",
-    "cta": "Tam raporumu al"
+  "offer": {
+    "subject": "Yalnızca size özel: \"{test}\" raporunuz {price}",
+    "intro": "Kısa süre önce \"{test}\" testini yaptınız, ancak tam raporunuzu henüz açmadınız. Bu yüzden küçük bir teklif: {date} gününün sonuna kadar raporunuz {full} yerine {price}.",
+    "outro": "Yanıtlarınız kayıtlı. Tek tıkla raporunuz hazır, hesap ve abonelik olmadan.",
+    "cta": "Raporumu {price} karşılığında al"
+  },
+  "offerEnds": {
+    "subject": "Son gün: \"{test}\" raporunuz {price}",
+    "intro": "Kısa bir hatırlatma: \"{test}\" tam raporunuz {date} gününün sonuna kadar {price}. Sonrasında yeniden normal fiyat olan {full} geçerli olur.",
+    "outro": "Bu, raporunuzla ilgili son e-postamız.",
+    "cta": "Raporumu {price} karşılığında gör"
   },
   "pass": {
     "subject": "{count} raporun tamamı {price}",
     "intro": "{test} raporunuz için teşekkürler. Diğer testlerin sizin hakkınızda ne söylediğini merak ediyor musunuz? Tam erişim ile sitedeki tüm raporların kilidini tek seferde açarsınız.",
     "outro": "Tek seferlik {price}, abonelik yok. Bir sonraki testinizde {allLabel} seçeneğini seçin.",
     "cta": "Sonraki testimi seç"
-  }
+  },
+  "offerBanner": "E-postamızdaki teklifiniz: raporunuz {full} yerine {price}, {date} gününün sonuna kadar."
 }

@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Vous voulez recevoir votre résultat par e-mail ?",
-    "text": "Nous vous envoyons tout de suite un court résumé de votre résultat. Cette semaine, vous recevrez encore trois e-mails courts avec un éclairage tiré de votre rapport et un test qui vous correspond. Ensuite, un e-mail par semaine au maximum.",
-    "consent": "Oui, envoyez-moi mon résultat et ces e-mails de suivi. Je peux me désinscrire à tout moment en un clic.",
+    "title": "Pas encore prêt ? Recevez votre résultat gratuitement par e-mail",
+    "text": "Nous vous envoyons tout de suite un court résumé de votre résultat, pour que vous le gardiez.",
+    "consent": "Envoyez-moi aussi quelques courts e-mails dans les prochains jours, avec des éclairages tirés de mon rapport et une offre personnelle. Désinscription en un clic à tout moment.",
     "privacy": "Politique de confidentialité",
     "button": "Recevoir mon résultat",
-    "done": "C'est envoyé ! Regardez votre boîte de réception d'ici une minute, et votre dossier spam au cas où.",
-    "consentRequired": "Cochez la case pour que nous puissions vous écrire."
+    "done": "C'est envoyé ! Regardez votre boîte de réception d'ici une minute, et votre dossier spam au cas où."
   },
   "checkoutOptin": "Envoyez-moi aussi des conseils et des tests qui me correspondent. Facultatif, désinscription possible à tout moment.",
   "greeting": "Bonjour,",
@@ -41,16 +40,23 @@
     "outro": "Il prend environ {minutes} minutes et il est gratuit.",
     "cta": "Faire le test"
   },
-  "lastChance": {
-    "subject": "Votre rapport « {test} » vous attend toujours",
-    "intro": "Il y a une semaine, vous avez fait le test « {test} ». Vos réponses sont enregistrées, votre rapport complet est donc prêt quand vous voulez.",
-    "outro": "Un paiement unique de {price}. Pas de compte, pas d'abonnement.",
-    "cta": "Obtenir mon rapport complet"
+  "offer": {
+    "subject": "Rien que pour vous : votre rapport « {test} » à {price}",
+    "intro": "Vous avez récemment fait le test « {test} », mais vous n'avez pas encore ouvert votre rapport complet. Voici donc une petite offre : jusqu'au {date} inclus, il est à {price} au lieu de {full}.",
+    "outro": "Vos réponses sont enregistrées. Un clic et votre rapport est prêt, sans compte et sans abonnement.",
+    "cta": "Obtenir mon rapport à {price}"
+  },
+  "offerEnds": {
+    "subject": "Dernier jour : votre rapport « {test} » à {price}",
+    "intro": "Petit rappel : votre rapport complet « {test} » à {price} est disponible jusqu'au {date} inclus. Ensuite, le prix normal de {full} s'applique à nouveau.",
+    "outro": "C'est notre dernier e-mail au sujet de votre rapport.",
+    "cta": "Voir mon rapport à {price}"
   },
   "pass": {
     "subject": "Les {count} rapports pour {price}",
     "intro": "Merci pour votre rapport du {test}. Curieux de savoir ce que les autres tests disent de vous ? Avec le pass complet, vous débloquez d’un coup tous les rapports du site.",
     "outro": "Un seul paiement de {price}, sans abonnement. Lors de votre prochain test, choisissez {allLabel}.",
     "cta": "Choisir mon prochain test"
-  }
+  },
+  "offerBanner": "Votre offre reçue par e-mail : votre rapport à {price} au lieu de {full}, jusqu'au {date} inclus."
 }

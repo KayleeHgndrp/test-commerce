@@ -306,7 +306,7 @@
       "Me ei müü sinu andmeid ega kasuta neid reklaamiks. Võid igal ajal paluda oma andmed kustutada, kirjutades aadressil {email}.",
       "Kui nõustud analüütikaküpsistega, kogume Google Analyticsi abil kasutusstatistikat, näiteks milliseid lehti külastatakse. Google võib neid andmeid töödelda väljaspool ELi EU-US Data Privacy Frameworki alusel.",
       "Makseid töötleb Stripe. Me ei näe ega salvesta kunagi sinu kaardiandmeid.",
-      "Kui palud meil saata oma tulemuse e-postiga, salvestame sinu e-posti aadressi, keele, testivastused ja nõusoleku andmise aja meie e-posti teenusepakkuja Brevo juures (serverid ELis). Kasutame neid ainult selleks, et saata sulle tulemus, esimesel nädalal kolm lühikest järgkirja ja seejärel kõige rohkem üks kiri nädalas. Igas kirjas on loobumislink ja pärast loobumist sa meilt enam kirju ei saa."
+      "Kui palud meil oma tulemuse e-postiga saata, saadame selle ühe korra ega lisa sinu aadressi meie postitusloendisse. Ainult siis, kui märgid ka järgmiste e-kirjade kasti (tulemuse lehel või maksmisel), salvestame sinu e-posti aadressi, keele, testivastused ja nõusoleku andmise aja meie e-posti teenusepakkuja Brevo juures (serverid ELis). Kasutame neid ainult paari lühikese järgkirja jaoks esimestel päevadel: tähelepanek sinu raportist, sulle sobiv test ja ühekordne pakkumine sinu raportile. Igas kirjas on loobumislink ja pärast loobumist ei saa sa meilt enam kirju."
     ],
     "termsTitle": "Kasutustingimused",
     "termsBody": [

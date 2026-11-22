@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Želite li svoj rezultat mejlom?",
-    "text": "Odmah vam šaljemo kratak rezime vašeg rezultata. Ove nedelje stižu još tri kratka mejla sa uvidom iz vašeg izveštaja i testom koji vam odgovara. Posle toga najviše jedan mejl nedeljno.",
-    "consent": "Da, pošaljite mi moj rezultat i ove naredne mejlove. Mogu da se odjavim bilo kada jednim klikom.",
+    "title": "Još niste spremni? Dobijte rezultat besplatno mejlom",
+    "text": "Odmah vam šaljemo kratak rezime rezultata, da ga imate sačuvanog.",
+    "consent": "Pošaljite mi i nekoliko kratkih mejlova narednih dana, sa uvidima iz mog izveštaja i ličnom ponudom. Mogu da se odjavim bilo kada jednim klikom.",
     "privacy": "Politika privatnosti",
     "button": "Pošaljite mi rezultat",
-    "done": "Poslato! Za minut pogledajte prijemno sanduče, a za svaki slučaj i folder za neželjenu poštu.",
-    "consentRequired": "Označite polje kako bismo smeli da vam pišemo."
+    "done": "Poslato! Za minut pogledajte prijemno sanduče, a za svaki slučaj i folder za neželjenu poštu."
   },
   "checkoutOptin": "Šaljite mi i savete i testove koji mi odgovaraju. Neobavezno, možete da se odjavite bilo kada.",
   "greeting": "Pozdrav,",
@@ -41,16 +40,23 @@
     "outro": "Traje oko {minutes} minuta i besplatan je.",
     "cta": "Uradite test"
   },
-  "lastChance": {
-    "subject": "Vaš izveštaj za „{test}” vas još čeka",
-    "intro": "Pre nedelju dana uradili ste test „{test}”. Vaši odgovori su sačuvani, pa je kompletan izveštaj spreman kad god želite.",
-    "outro": "Jednokratno {price}. Bez naloga i bez pretplate.",
-    "cta": "Preuzmite kompletan izveštaj"
+  "offer": {
+    "subject": "Samo za vas: vaš izveštaj za „{test}” za {price}",
+    "intro": "Nedavno ste uradili test „{test}”, ali još niste otvorili kompletan izveštaj. Zato mala ponuda: do {date} zaključno dobijate ga za {price} umesto {full}.",
+    "outro": "Vaši odgovori su sačuvani. Jedan klik i izveštaj je spreman, bez naloga i bez pretplate.",
+    "cta": "Preuzmite izveštaj za {price}"
+  },
+  "offerEnds": {
+    "subject": "Poslednji dan: vaš izveštaj za „{test}” za {price}",
+    "intro": "Kratak podsetnik: kompletan izveštaj za „{test}” za {price} važi do {date} zaključno. Posle toga ponovo važi redovna cena od {full}.",
+    "outro": "Ovo je naš poslednji mejl o vašem izveštaju.",
+    "cta": "Pogledajte izveštaj za {price}"
   },
   "pass": {
     "subject": "Svih {count} izveštaja za {price}",
     "intro": "Hvala na izveštaju za {test}. Zanima vas šta drugi testovi govore o vama? Sa punim pristupom odjednom otključavate sve izveštaje na sajtu.",
     "outro": "Jednokratno {price}, bez pretplate. Na sledećem testu izaberite {allLabel}.",
     "cta": "Izaberite sledeći test"
-  }
+  },
+  "offerBanner": "Vaša ponuda iz našeg mejla: izveštaj za {price} umesto {full}, do {date} zaključno."
 }

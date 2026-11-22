@@ -306,7 +306,7 @@
       "Vaše podatke ne prodajemo i ne koristimo ih za oglašavanje. U bilo kom trenutku možete zatražiti brisanje svojih podataka slanjem poruke na {email}.",
       "Ako prihvatite analitičke kolačiće, koristimo Google Analytics za prikupljanje statistike korišćenja, na primer koje stranice se posećuju. Google ove podatke može obrađivati van EU na osnovu okvira EU-US Data Privacy Framework.",
       "Plaćanja obrađuje Stripe. Podatke vaše kartice nikada ne vidimo niti ih čuvamo.",
-      "Ako nas zamolite da vam rezultat pošaljemo mejlom, vašu imejl adresu, jezik, odgovore na testu i trenutak vašeg pristanka čuvamo kod našeg pružaoca imejl usluga Brevo (serveri u EU). Koristimo ih samo da vam pošaljemo rezultat, tri kratka naredna mejla u prvoj nedelji i posle toga najviše jedan mejl nedeljno. Svaki mejl ima link za odjavu, a posle odjave od nas više nećete dobijati mejlove."
+      "Ako nas zamolite da vam rezultat pošaljemo mejlom, pošaljemo ga jednom i ne dodajemo vašu adresu na našu mejling listu. Samo ako označite i polje za naredne mejlove (na stranici sa rezultatom ili pri plaćanju), čuvamo vašu imejl adresu, jezik, odgovore na test i trenutak vaše saglasnosti kod našeg dobavljača imejl usluga Brevo (serveri u EU). Koristimo ih samo za nekoliko kratkih mejlova prvih dana: uvid iz vašeg izveštaja, test koji vam odgovara i jednokratnu ponudu za vaš izveštaj. Svaki mejl ima link za odjavu, a posle odjave više ne dobijate mejlove od nas."
     ],
     "termsTitle": "Uslovi korišćenja",
     "termsBody": [

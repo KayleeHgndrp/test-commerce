@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Norite gauti savo rezultatą el. paštu?",
-    "text": "Iš karto atsiųsime trumpą jūsų rezultato santrauką. Šią savaitę gausite dar tris trumpus laiškus su įžvalga iš jūsų ataskaitos ir jums tinkančiu testu. Po to ne daugiau kaip vieną laišką per savaitę.",
-    "consent": "Taip, atsiųskite man rezultatą ir šiuos tolesnius laiškus. Galiu bet kada atsisakyti vienu paspaudimu.",
+    "title": "Dar nepasiruošę? Gaukite rezultatą nemokamai el. paštu",
+    "text": "Iš karto atsiųsime trumpą jūsų rezultato santrauką, kad ją turėtumėte išsaugotą.",
+    "consent": "Artimiausiomis dienomis atsiųskite man ir kelis trumpus laiškus su įžvalgomis iš mano ataskaitos bei asmeniniu pasiūlymu. Galiu bet kada atsisakyti vienu paspaudimu.",
     "privacy": "Privatumo politika",
     "button": "Siųsti mano rezultatą",
-    "done": "Išsiųsta! Po minutės pažiūrėkite į pašto dėžutę ir dėl visa ko į šlamšto aplanką.",
-    "consentRequired": "Pažymėkite langelį, kad galėtume jums rašyti."
+    "done": "Išsiųsta! Po minutės pažiūrėkite į pašto dėžutę ir dėl visa ko į šlamšto aplanką."
   },
   "checkoutOptin": "Siųskite man ir patarimų bei man tinkančių testų. Neprivaloma, atsisakyti galite bet kada.",
   "greeting": "Sveiki,",
@@ -41,16 +40,23 @@
     "outro": "Jis trunka apie {minutes} min. ir yra nemokamas.",
     "cta": "Atlikti testą"
   },
-  "lastChance": {
-    "subject": "Jūsų „{test}“ ataskaita vis dar laukia",
-    "intro": "Prieš savaitę atlikote testą „{test}“. Jūsų atsakymai išsaugoti, todėl pilna ataskaita paruošta, kai tik panorėsite.",
-    "outro": "Vienkartinis mokėjimas {price}. Jokios paskyros ir jokios prenumeratos.",
-    "cta": "Gauti visą ataskaitą"
+  "offer": {
+    "subject": "Tik jums: jūsų „{test}“ ataskaita už {price}",
+    "intro": "Neseniai atlikote testą „{test}“, bet dar neatidarėte visos ataskaitos. Todėl nedidelis pasiūlymas: iki {date} imtinai ją gausite už {price} vietoj {full}.",
+    "outro": "Jūsų atsakymai išsaugoti. Vienas paspaudimas ir ataskaita paruošta, be paskyros ir be prenumeratos.",
+    "cta": "Gauti ataskaitą už {price}"
+  },
+  "offerEnds": {
+    "subject": "Paskutinė diena: jūsų „{test}“ ataskaita už {price}",
+    "intro": "Trumpas priminimas: visa „{test}“ ataskaita už {price} galioja iki {date} imtinai. Po to vėl galios įprasta {full} kaina.",
+    "outro": "Tai paskutinis mūsų laiškas apie jūsų ataskaitą.",
+    "cta": "Peržiūrėti ataskaitą už {price}"
   },
   "pass": {
     "subject": "Visos {count} ataskaitos už {price}",
     "intro": "Ačiū už jūsų {test} ataskaitą. Įdomu, ką apie jus sako kiti testai? Su pilnu leidimu iš karto atrakinsite visas svetainės ataskaitas.",
     "outro": "Vienkartinis mokėjimas {price}, be prenumeratos. Kito testo metu pasirinkite {allLabel}.",
     "cta": "Pasirinkti kitą testą"
-  }
+  },
+  "offerBanner": "Jūsų pasiūlymas iš mūsų laiško: ataskaita už {price} vietoj {full}, iki {date} imtinai."
 }

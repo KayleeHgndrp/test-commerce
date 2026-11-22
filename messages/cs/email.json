@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Chcete svůj výsledek e-mailem?",
-    "text": "Hned vám pošleme krátké shrnutí vašeho výsledku. Tento týden přijdou ještě tři krátké e-maily s postřehem z vaší zprávy a testem, který se k vám hodí. Potom nejvýš jeden e-mail týdně.",
-    "consent": "Ano, pošlete mi můj výsledek a tyto navazující e-maily. Odhlásit se můžu kdykoli jedním kliknutím.",
+    "title": "Ještě nejste rozhodnutí? Získejte výsledek zdarma e-mailem",
+    "text": "Hned vám pošleme krátké shrnutí výsledku, abyste ho měli uložené.",
+    "consent": "Pošlete mi v příštích dnech i několik krátkých e-mailů s postřehy z mé zprávy a osobní nabídkou. Odhlásit se mohu kdykoli jedním kliknutím.",
     "privacy": "Zásady ochrany soukromí",
     "button": "Poslat výsledek e-mailem",
-    "done": "Odesláno! Za minutu se podívejte do schránky a pro jistotu i do spamu.",
-    "consentRequired": "Zaškrtněte políčko, abychom vám mohli psát."
+    "done": "Odesláno! Za minutu se podívejte do schránky a pro jistotu i do spamu."
   },
   "checkoutOptin": "Posílejte mi také tipy a testy, které se ke mně hodí. Nepovinné, odhlásit se můžete kdykoli.",
   "greeting": "Dobrý den,",
@@ -41,16 +40,23 @@
     "outro": "Trvá asi {minutes} minut a je zdarma.",
     "cta": "Udělat test"
   },
-  "lastChance": {
-    "subject": "Vaše zpráva k „{test}“ na vás stále čeká",
-    "intro": "Před týdnem jste vyplnili test „{test}“. Vaše odpovědi jsou uložené, takže celá zpráva je připravená, kdykoli budete chtít.",
-    "outro": "Jednorázově {price}. Bez účtu a bez předplatného.",
-    "cta": "Získat celou zprávu"
+  "offer": {
+    "subject": "Jen pro vás: vaše zpráva k „{test}“ za {price}",
+    "intro": "Nedávno jste vyplnili test „{test}“, ale celou zprávu jste si zatím neotevřeli. Proto malá nabídka: do {date} včetně ji máte za {price} místo {full}.",
+    "outro": "Vaše odpovědi jsou uložené. Jedno kliknutí a zpráva je připravená, bez účtu a bez předplatného.",
+    "cta": "Získat zprávu za {price}"
+  },
+  "offerEnds": {
+    "subject": "Poslední den: vaše zpráva k „{test}“ za {price}",
+    "intro": "Krátká připomínka: celá zpráva k „{test}“ za {price} platí do {date} včetně. Poté opět platí běžná cena {full}.",
+    "outro": "Toto je náš poslední e-mail o vaší zprávě.",
+    "cta": "Zobrazit zprávu za {price}"
   },
   "pass": {
     "subject": "Všech {count} zpráv za {price}",
     "intro": "Děkujeme za vaši zprávu z testu {test}. Zajímá vás, co o vás říkají ostatní testy? S plným přístupem odemknete všechny zprávy na webu najednou.",
     "outro": "Jednorázově {price}, bez předplatného. U dalšího testu zvolte {allLabel}.",
     "cta": "Vybrat další test"
-  }
+  },
+  "offerBanner": "Vaše nabídka z našeho e-mailu: zpráva za {price} místo {full}, do {date} včetně."
 }

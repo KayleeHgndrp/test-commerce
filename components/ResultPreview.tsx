@@ -40,6 +40,9 @@ type Props = {
   // Null for tests whose answers must not be used for email (see emailFlowAllowed).
   optin: EmailMessages["optin"] | null;
   checkoutOptin: string | null;
+  // Lower report price from the follow-up emails (?offer=...), with its banner text.
+  // Null when email is off; checkout checks the link before applying the price.
+  offer: { price: string; banner: string } | null;
 };
 
 type Stored = { answers: string; gender: string };
@@ -47,8 +50,18 @@ type PassStatus = { session: string; plan: "pack" | "all"; remaining: number; co
 type Plan = "single" | "pack" | "all";
 
 export const passKey = "report-pass";
+const offerKey = (slug: string) => `report-offer-${slug}`;
+// The email shows the offer's last day; the link stays valid 12 hours longer (lib/offer.ts).
+const OFFER_GRACE_MS = 12 * 3600000;
 
-export function ResultPreview({ locale, def, name, dimensionNames, teasers, price, listPrice, packPrice, packSave, allPrice, allCount, packPer, allPer, shareUi, shareType, showShare, includes, ui, plansUi, optin, checkoutOptin, children }: Props) {
+// Expiry in ms of an offer link from the follow-up emails, or null when it is malformed or over.
+function offerExpiry(token: string | null | undefined) {
+  const match = token ? /^(\d{9,11})\.[\w-]{16}$/.exec(token) : null;
+  const expires = match ? Number(match[1]) * 1000 : 0;
+  return expires > Date.now() ? expires : null;
+}
+
+export function ResultPreview({ locale, def, name, dimensionNames, teasers, price, listPrice, packPrice, packSave, allPrice, allCount, packPer, allPer, shareUi, shareType, showShare, includes, ui, plansUi, optin, checkoutOptin, offer: offerUi, children }: Props) {
   const [stored, setStored] = useState<Stored | null | undefined>(undefined);
   const [pass, setPass] = useState<PassStatus | null>(null);
   const [plan, setPlan] = useState<Plan>("single");
@@ -56,8 +69,22 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
   const [newsletter, setNewsletter] = useState(false);
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
+  const [offer, setOffer] = useState<{ token: string; until: number } | null>(null);
 
   useEffect(() => {
+    // The offer link from the email is kept on this device until it expires, so the
+    // lower price is still there when the visitor comes back later.
+    if (offerUi) {
+      let token = new URLSearchParams(window.location.search).get("offer");
+      try {
+        if (offerExpiry(token)) localStorage.setItem(offerKey(def.slug), token!);
+        else token = localStorage.getItem(offerKey(def.slug));
+      } catch {}
+      const expires = offerExpiry(token);
+      // eslint-disable-next-line react-hooks/set-state-in-effect
+      if (expires) setOffer({ token: token!, until: expires - OFFER_GRACE_MS });
+    }
+
     let value: Stored | null = null;
     // Links in the follow-up emails carry the answers (?r=answers-gender), so the
     // result also opens on another device.
@@ -73,7 +100,6 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
       const parsed = JSON.parse(localStorage.getItem(resultKey(def.slug)) ?? "null") as Stored | null;
       if (!value && parsed && decodeAnswers(def, parsed.answers)) value = parsed;
     } catch {}
-    // eslint-disable-next-line react-hooks/set-state-in-effect
     setStored(value);
 
     // A pack bought earlier on this device unlocks this report without paying again.
@@ -88,7 +114,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
         if (status && (status.remaining > 0 || status.covered.includes(def.slug))) setPass({ ...status, session });
       })
       .catch(() => {});
-  }, [def]);
+  }, [def, offerUi]);
 
   if (stored === undefined) return <div className="min-h-[60vh]" />;
 
@@ -127,7 +153,9 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
   }
 
   const planOptions: { id: Plan; title: string; note?: string; price: string; was?: string; badge?: string; per?: string }[] = [
-    { id: "single", title: plansUi.single, price, was: listPrice },
+    offer && offerUi
+      ? { id: "single", title: plansUi.single, price: offerUi.price, was: price }
+      : { id: "single", title: plansUi.single, price, was: listPrice },
     { id: "pack", title: plansUi.pack, note: plansUi.packNote, price: packPrice, per: fmt(plansUi.perReport, { price: packPer }), badge: packSave ? fmt(plansUi.save, { amount: packSave }) : undefined },
     { id: "all", title: fmt(plansUi.all, { count: allCount }), note: plansUi.allNote, price: allPrice, per: fmt(plansUi.perReport, { price: allPer }) },
   ];
@@ -143,7 +171,7 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
       const res = await fetch("/api/checkout", {
         method: "POST",
         headers: { "content-type": "application/json" },
-        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan, ref: getReferral(), newsletter }),
+        body: JSON.stringify({ slug: def.slug, locale, answers: stored!.answers, gender: stored!.gender, plan, ref: getReferral(), newsletter, offer: plan === "single" ? offer?.token : undefined }),
       });
       const data = (await res.json()) as { url?: string };
       if (!res.ok || !data.url) throw new Error();
@@ -218,6 +246,11 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
           </div>
         ) : (
         <form onSubmit={buy} className="rounded-2xl border-2 border-accent bg-surface p-6 md:col-span-2">
+          {offer && offerUi && (
+            <p className="mb-4 rounded-xl bg-accent/10 px-3 py-2.5 text-sm font-semibold text-accent">
+              🎁 {fmt(offerUi.banner, { price: offerUi.price, full: price, date: new Intl.DateTimeFormat(locale === "no" ? "nb" : locale, { weekday: "long", day: "numeric", month: "long", timeZone: "UTC" }).format(offer.until) })}
+            </p>
+          )}
           <h2 className="text-lg font-bold">{ui.unlockTitle}</h2>
           <p className="mt-2 text-sm leading-relaxed text-muted">{ui.unlockText}</p>
           <ul className="mt-4 space-y-2 text-sm leading-relaxed">
@@ -276,14 +309,15 @@ export function ResultPreview({ locale, def, name, dimensionNames, teasers, pric
         )}
       </div>
 
+      {optin && !pass && <EmailOptIn locale={locale} slug={def.slug} stored={stored} ui={optin} result={ui} />}
       {showShare && <ShareTest locale={locale} slug={def.slug} testName={name} typeName={shareType ? teaser?.name : undefined} ui={shareUi} />}
-      {optin && <EmailOptIn locale={locale} slug={def.slug} stored={stored} ui={optin} result={ui} />}
       {children}
     </div>
   );
 }
 
 // "Email me my result": the free alternative for visitors who are not ready to buy.
+// The result email needs no box ticked; the box only adds the follow-up emails.
 function EmailOptIn({ locale, slug, stored, ui, result }: { locale: string; slug: string; stored: Stored; ui: EmailMessages["optin"]; result: UiMessages["result"] }) {
   const [email, setEmail] = useState("");
   const [consent, setConsent] = useState(false);
@@ -295,7 +329,6 @@ function EmailOptIn({ locale, slug, stored, ui, result }: { locale: string; slug
     e.preventDefault();
     setError("");
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return setError(result.invalidEmail);
-    if (!consent) return setError(ui.consentRequired);
     setState("busy");
     try {
       const res = await fetch("/api/subscribe", {
@@ -304,7 +337,7 @@ function EmailOptIn({ locale, slug, stored, ui, result }: { locale: string; slug
         body: JSON.stringify({ slug, locale, email, answers: stored.answers, gender: stored.gender, consent, website }),
       });
       if (!res.ok) throw new Error();
-      track("Email Signup", { test: slug });
+      track("Email Signup", { test: slug, follow_up: consent ? "yes" : "no" });
       setState("done");
     } catch {
       setError(result.error);

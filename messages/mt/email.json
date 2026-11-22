@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Trid ir-riżultat tiegħek bl-email?",
-    "text": "Nibagħtulek minnufih sommarju qasir tar-riżultat tiegħek. Din il-ġimgħa jaslulek tliet emails qosra oħra b'ħarsa minn ġor-rapport tiegħek u test li jaqbel miegħek. Wara, l-aktar email waħda fil-ġimgħa.",
-    "consent": "Iva, ibagħtuli r-riżultat tiegħi u dawn l-emails ta' wara. Nista' nneħħi l-abbonament meta rrid bi klikk waħda.",
+    "title": "Għadek mhux lest? Irċievi r-riżultat tiegħek b'xejn bl-email",
+    "text": "Nibagħtulek minnufih sommarju qasir tar-riżultat tiegħek, biex ikollok miżmum.",
+    "consent": "Ibgħatli wkoll ftit emails qosra fil-jiem li ġejjin, b'għarfien mir-rapport tiegħi u offerta personali. Nista' nirtira meta rrid bi klikk waħda.",
     "privacy": "Politika tal-privatezza",
     "button": "Ibgħatli r-riżultat",
-    "done": "Intbagħat! Ara l-inbox tiegħek fi ftit minuti, u biex tkun ċert anke l-folder tal-ispam.",
-    "consentRequired": "Immarka l-kaxxa biex inkunu nistgħu niktbulek."
+    "done": "Intbagħat! Ara l-inbox tiegħek fi ftit minuti, u biex tkun ċert anke l-folder tal-ispam."
   },
   "checkoutOptin": "Ibagħtuli wkoll pariri u testijiet li jaqblu miegħi. Mhux obbligatorju, tista' tneħħi l-abbonament meta trid.",
   "greeting": "Bonġu,",
@@ -41,16 +40,23 @@
     "outro": "Jieħu madwar {minutes} minuti u huwa b'xejn.",
     "cta": "Agħmel it-test"
   },
-  "lastChance": {
-    "subject": "Ir-rapport tiegħek ta' \"{test}\" għadu qed jistennik",
-    "intro": "Ġimgħa ilu għamilt it-test \"{test}\". It-tweġibiet tiegħek huma salvati, allura r-rapport sħiħ tiegħek lest meta trid int.",
-    "outro": "Ħlas wieħed ta' {price}. Ebda kont u ebda abbonament.",
-    "cta": "Ikseb ir-rapport sħiħ tiegħi"
+  "offer": {
+    "subject": "Għalik biss: ir-rapport tiegħek ta' \"{test}\" għal {price}",
+    "intro": "Dan l-aħħar għamilt it-test \"{test}\", iżda għadek ma ftaħtx ir-rapport sħiħ tiegħek. Għalhekk offerta żgħira: sa {date} inkluż tikseb għal {price} minflok {full}.",
+    "outro": "It-tweġibiet tiegħek huma salvati. Klikk waħda u r-rapport ikun lest, mingħajr kont u mingħajr abbonament.",
+    "cta": "Ikseb ir-rapport tiegħi għal {price}"
+  },
+  "offerEnds": {
+    "subject": "L-aħħar jum: ir-rapport tiegħek ta' \"{test}\" għal {price}",
+    "intro": "Tfakkira qasira: ir-rapport sħiħ tiegħek ta' \"{test}\" għal {price} jiswa sa {date} inkluż. Wara dan jerġa' japplika l-prezz normali ta' {full}.",
+    "outro": "Din hija l-aħħar email tagħna dwar ir-rapport tiegħek.",
+    "cta": "Ara r-rapport tiegħi għal {price}"
   },
   "pass": {
     "subject": "Il-{count} rapport kollha għal {price}",
     "intro": "Grazzi tar-rapport tiegħek tat-{test}. Kurjuż x'jgħidu dwarek it-testijiet l-oħra? Bil-pass sħiħ tiftaħ ir-rapporti kollha tas-sit f'daqqa.",
     "outro": "Ħlas wieħed ta' {price}, bla abbonament. Fit-test li jmiss, agħżel {allLabel}.",
     "cta": "Agħżel it-test li jmiss"
-  }
+  },
+  "offerBanner": "L-offerta tiegħek mill-email tagħna: ir-rapport għal {price} minflok {full}, sa {date} inkluż."
 }

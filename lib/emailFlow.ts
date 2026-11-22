@@ -4,21 +4,28 @@ import type { PaidOrder } from "@/lib/delivery";
 import { fromAddress } from "@/lib/email";
 import { hasLocale, toLangTag, type Locale } from "@/lib/i18n/locales";
 import { allDefinitions, fmt, getDefinition, getEmailMessages, getTestText, getUi } from "@/lib/i18n/messages";
+import { formatOfferDate, offerToken, offerUntil } from "@/lib/offer";
 import { formatPrice, site } from "@/lib/site";
 import { decodeAnswers, encodeAnswers, scoreTest } from "@/lib/tests/scoring";
 import type { TestDefinition, TestResult, TestText } from "@/lib/tests/types";
 
 // The welcome flow after a test, in the visitor's language:
-//   lead:  result (day 0), insight (day 2), next test (day 5), last chance (day 7)
+//   lead:  result (day 0), insight (day 2), next test (day 4), offer (day 6),
+//          offer ends today (day 8)
 //   buyer: next test (day 2), all-access pass (day 5, skipped for buyers who already have it)
 // A purchase moves a contact onto the buyer track. FLOW_STEP is the next step to
 // send; a daily cron (app/api/cron/email-flow) sends whatever is due.
-type Step = "result" | "insight" | "nextTest" | "lastChance" | "pass";
-const LEAD: Step[] = ["result", "insight", "nextTest", "lastChance"];
-const BUYER: Step[] = ["result", "insight", "nextTest", "pass"];
-const DUE_DAY = { lead: [0, 2, 5, 7], buyer: [0, 0, 2, 5] };
+// Only contacts who ticked the follow-up box are stored; without it the visitor
+// just gets the result email they asked for.
+type Step = "result" | "insight" | "nextTest" | "offer" | "offerEnds" | "pass";
+const TRACKS = {
+  lead: { steps: ["result", "insight", "nextTest", "offer", "offerEnds"] as Step[], due: [0, 2, 4, 6, 8] },
+  buyer: { steps: ["result", "insight", "nextTest", "pass"] as Step[], due: [0, 0, 2, 5] },
+};
 const BUYER_START = 2;
-export const FLOW_DONE = 4;
+export const FLOW_DONE = 5;
+// The offer runs until the end of the day the "offer ends" email goes out.
+const OFFER_DAYS = TRACKS.lead.due[4] - TRACKS.lead.due[3];
 
 // Screener results are health data and political views are a special category
 // too (GDPR art. 9), so those answers never leave the site for marketing.
@@ -65,7 +72,7 @@ function relatedTest(def: TestDefinition) {
   return allowed.find((d) => d.category === def.category) ?? allowed[0];
 }
 
-type FlowContact = { email: string; locale: Locale; def: TestDefinition; answers: number[]; gender: string; purchasedAt?: number; plan?: string };
+type FlowContact = { email: string; locale: Locale; def: TestDefinition; answers: number[]; gender: string; purchasedAt?: number; plan?: string; offerUntil?: number };
 
 function fromAttributes(contact: Contact): FlowContact | null {
   const a = contact.attributes;
@@ -74,12 +81,13 @@ function fromAttributes(contact: Contact): FlowContact | null {
   const answers = def ? decodeAnswers(def, String(a.ANSWERS ?? "")) : null;
   if (!def || !answers || !hasLocale(locale)) return null;
   const purchasedAt = a.PURCHASED_AT ? Date.parse(String(a.PURCHASED_AT)) : undefined;
-  return { email: contact.email, locale, def, answers, gender: String(a.GENDER ?? "other"), purchasedAt, plan: a.PLAN ? String(a.PLAN) : undefined };
+  const offerUntil = a.OFFER_UNTIL ? Date.parse(String(a.OFFER_UNTIL)) : undefined;
+  return { email: contact.email, locale, def, answers, gender: String(a.GENDER ?? "other"), purchasedAt, plan: a.PLAN ? String(a.PLAN) : undefined, offerUntil };
 }
 
 // Builds one email of the flow. Returns null when the step does not apply (for
 // example the pass offer to someone who already owns the pass), so the flow moves on.
-async function buildEmail(step: Step, c: FlowContact) {
+async function buildEmail(step: Step, c: FlowContact, now = Date.now()) {
   const [m, ui, text] = await Promise.all([getEmailMessages(c.locale), getUi(c.locale), getTestText(c.locale, c.def.slug)]);
   const result = scoreTest(c.def, c.answers);
   const price = formatPrice(c.locale);
@@ -103,6 +111,12 @@ async function buildEmail(step: Step, c: FlowContact) {
     vars.minutes = next.minutes;
     highlight = { label: "", name: nextText.name, text: nextText.tagline };
     cta = { label: "", url: `${site.url}/${c.locale}/${next.slug}?${utm(step)}` };
+  } else if (step === "offer" || step === "offerEnds") {
+    // A late "offer ends" email (cron skipped a day) would promise a price that is gone.
+    if (!c.offerUntil || c.offerUntil < now) return null;
+    vars.price = formatPrice(c.locale, site.offerPriceCents);
+    vars.date = formatOfferDate(c.locale, c.offerUntil);
+    cta = { label: "", url: `${resultUrl}&offer=${offerToken(c.def.slug, c.offerUntil)}` };
   } else if (step === "pass") {
     if (!c.purchasedAt || c.plan === "all") return null;
     vars.price = formatPrice(c.locale, site.allPriceCents);
@@ -141,8 +155,8 @@ ${highlight ? `<div style="background:#efecfd;border-radius:12px;padding:18px 20
   return { subject: fmt(copy.subject, vars), html, text: plain, unsubscribeUrl: unsubscribe, tag: `flow-${step}` };
 }
 
-async function send(step: Step, c: FlowContact) {
-  const email = await buildEmail(step, c);
+async function send(step: Step, c: FlowContact, now = Date.now()) {
+  const email = await buildEmail(step, c, now);
   if (!email) return false;
   if (!brevoEnabled()) {
     console.log(`[email-flow] BREVO_API_KEY not set, would send "${email.subject}" to ${c.email}`);
@@ -152,11 +166,12 @@ async function send(step: Step, c: FlowContact) {
   return true;
 }
 
-// Opt-in from the result page: store the contact and send the result right away.
-export async function subscribe(input: { email: string; locale: Locale; def: TestDefinition; answers: number[]; gender: string }) {
+// "Email me my result" on the result page: send the result right away. Only with
+// the follow-up box ticked is the contact stored and the flow started.
+export async function subscribe(input: { email: string; locale: Locale; def: TestDefinition; answers: number[]; gender: string; followUp: boolean }) {
   const now = new Date().toISOString();
-  const contact: FlowContact = { ...input };
-  if (brevoEnabled()) {
+  const { followUp, ...contact } = input;
+  if (followUp && brevoEnabled()) {
     await upsertContact(input.email, {
       LOCALE: input.locale,
       TEST: input.def.slug,
@@ -167,10 +182,11 @@ export async function subscribe(input: { email: string; locale: Locale; def: Tes
       FLOW_STEP: 0,
       PURCHASED_AT: "",
       PLAN: "",
+      OFFER_UNTIL: "",
     }, true);
   }
   await send("result", contact);
-  if (brevoEnabled()) await updateContact(input.email, { attributes: { FLOW_STEP: 1 } });
+  if (followUp && brevoEnabled()) await updateContact(input.email, { attributes: { FLOW_STEP: 1 } });
 }
 
 // After a paid order: buyers who opted in at checkout join the flow, and existing
@@ -196,13 +212,17 @@ export async function onPurchase(order: PaidOrder) {
 // failure can skip an email but never send it twice.
 export async function advance(contact: Contact, now = Date.now()) {
   const step = Number(contact.attributes.FLOW_STEP ?? FLOW_DONE);
-  if (contact.emailBlacklisted || !(step >= 0 && step < FLOW_DONE)) return false;
   const c = fromAttributes(contact);
   if (!c) return false;
-  const track = c.purchasedAt ? "buyer" : "lead";
+  const track = TRACKS[c.purchasedAt ? "buyer" : "lead"];
+  if (contact.emailBlacklisted || !(step >= 0 && step < track.steps.length)) return false;
   const start = Date.parse(String(contact.attributes.FLOW_START ?? ""));
   // The cron runs once a day, so allow half a day of slack to land on the right day.
-  if (!(now - start >= DUE_DAY[track][step] * day - day / 2)) return false;
-  await updateContact(c.email, { attributes: { FLOW_STEP: step + 1 } });
-  return send((track === "buyer" ? BUYER : LEAD)[step], c);
+  if (!(now - start >= track.due[step] * day - day / 2)) return false;
+  const name = track.steps[step];
+  // The offer's last day is fixed when the first offer email goes out, so both
+  // emails and the checkout agree on it.
+  if (name === "offer") c.offerUntil = offerUntil(now, OFFER_DAYS);
+  await updateContact(c.email, { attributes: { FLOW_STEP: step + 1, ...(name === "offer" ? { OFFER_UNTIL: new Date(c.offerUntil!).toISOString() } : {}) } });
+  return send(name, c, now);
 }

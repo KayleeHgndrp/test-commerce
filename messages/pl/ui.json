@@ -306,7 +306,7 @@
       "Nie sprzedajemy Twoich danych i nie wykorzystujemy ich do celów reklamowych. W każdej chwili możesz poprosić o usunięcie swoich danych, pisząc na {email}.",
       "Jeśli zaakceptujesz analityczne pliki cookie, używamy Google Analytics do zbierania statystyk korzystania, na przykład które strony są odwiedzane. Google może przetwarzać te dane poza UE na podstawie EU-US Data Privacy Framework.",
       "Płatności obsługuje Stripe. Nigdy nie widzimy ani nie przechowujemy danych Twojej karty.",
-      "Jeśli poprosisz nas o przesłanie wyniku mailem, przechowujemy Twój adres e-mail, język, odpowiedzi z testu i moment udzielenia zgody u naszego dostawcy poczty Brevo (serwery w UE). Używamy ich wyłącznie do wysłania Ci wyniku, trzech krótkich maili w pierwszym tygodniu, a potem najwyżej jednego maila tygodniowo. Każdy mail zawiera link do wypisania się, a po wypisaniu nie dostaniesz od nas więcej maili."
+      "Jeśli poprosisz nas o przesłanie wyniku e-mailem, wyślemy go raz i nie dodamy Twojego adresu do naszej listy mailingowej. Tylko jeśli zaznaczysz też pole dotyczące kolejnych e-maili (na stronie wyniku lub przy płatności), przechowujemy Twój adres e-mail, język, odpowiedzi z testu i moment wyrażenia zgody u naszego dostawcy e-maili Brevo (serwery w UE). Używamy ich tylko do kilku krótkich e-maili w pierwszych dniach: spostrzeżenia z Twojego raportu, testu, który do Ciebie pasuje, i jednorazowej oferty na Twój raport. Każdy e-mail zawiera link do wypisania się, a po wypisaniu nie dostaniesz od nas więcej e-maili."
     ],
     "termsTitle": "Warunki korzystania z usługi",
     "termsBody": [

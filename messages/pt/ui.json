@@ -306,7 +306,7 @@
       "Não vendemos os teus dados nem os usamos para publicidade. Podes pedir-nos a qualquer momento que eliminemos os teus dados, contactando {email}.",
       "Se aceitar cookies analíticos, usamos o Google Analytics para recolher estatísticas de utilização, como as páginas visitadas. A Google pode tratar estes dados fora da UE ao abrigo do Data Privacy Framework UE-EUA.",
       "Os pagamentos são processados pela Stripe. Nunca vemos nem guardamos os dados do teu cartão.",
-      "Se nos pedires para te enviarmos o resultado por email, guardamos o teu endereço de email, idioma, respostas ao teste e o momento do teu consentimento no nosso fornecedor de email Brevo (servidores na UE). Usamos estes dados apenas para te enviar o resultado, três emails curtos de seguimento na primeira semana e depois no máximo um email por semana. Cada email tem um link para cancelar a subscrição e, depois de cancelares, não recebes mais emails nossos."
+      "Se nos pedires para te enviar o resultado por e-mail, enviamo-lo uma vez e não adicionamos o teu endereço à nossa lista de e-mails. Só se também marcares a caixa de e-mails de seguimento (na página de resultados ou no pagamento) guardamos o teu e-mail, idioma, respostas ao teste e o momento do teu consentimento no nosso fornecedor de e-mail Brevo (servidores na UE). Usamos isto apenas para alguns e-mails curtos nos primeiros dias, com uma ideia do teu relatório, um teste que combina contigo e uma oferta única para o teu relatório. Cada e-mail tem um link para cancelar a subscrição e, depois de cancelares, não recebes mais e-mails nossos."
     ],
     "termsTitle": "Termos de serviço",
     "termsBody": [

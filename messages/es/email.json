@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "¿Quieres recibir tu resultado por correo?",
-    "text": "Te enviamos ahora mismo un breve resumen de tu resultado. Esta semana recibirás tres correos cortos más con una idea de tu informe y un test que encaja contigo. Después, como mucho un correo a la semana.",
-    "consent": "Sí, enviadme mi resultado y estos correos de seguimiento. Puedo darme de baja en cualquier momento con un clic.",
+    "title": "¿Aún no lo tienes claro? Recibe tu resultado gratis por correo",
+    "text": "Te enviamos ahora mismo un breve resumen de tu resultado, para que lo tengas guardado.",
+    "consent": "Envíame también algunos correos breves en los próximos días, con ideas de mi informe y una oferta personal. Puedo darme de baja con un clic cuando quiera.",
     "privacy": "Política de privacidad",
     "button": "Enviar mi resultado",
-    "done": "¡Enviado! Mira tu bandeja de entrada en un minuto, y por si acaso también la carpeta de spam.",
-    "consentRequired": "Marca la casilla para que podamos escribirte."
+    "done": "¡Enviado! Mira tu bandeja de entrada en un minuto, y por si acaso también la carpeta de spam."
   },
   "checkoutOptin": "Enviadme también consejos y tests que encajen conmigo. Opcional, puedes darte de baja cuando quieras.",
   "greeting": "Hola:",
@@ -41,16 +40,23 @@
     "outro": "Dura unos {minutes} minutos y es gratis.",
     "cta": "Hacer el test"
   },
-  "lastChance": {
-    "subject": "Tu informe de «{test}» sigue esperándote",
-    "intro": "Hace una semana hiciste el test «{test}». Tus respuestas están guardadas, así que tu informe completo está listo cuando quieras.",
-    "outro": "Un solo pago de {price}. Sin cuenta y sin suscripción.",
-    "cta": "Obtener mi informe completo"
+  "offer": {
+    "subject": "Solo para ti: tu informe de «{test}» por {price}",
+    "intro": "Hace poco hiciste el test «{test}», pero aún no has abierto tu informe completo. Así que te hacemos una pequeña oferta: hasta el {date} inclusive lo tienes por {price} en lugar de {full}.",
+    "outro": "Tus respuestas están guardadas. Un clic y tu informe está listo, sin cuenta y sin suscripción.",
+    "cta": "Obtener mi informe por {price}"
+  },
+  "offerEnds": {
+    "subject": "Último día: tu informe de «{test}» por {price}",
+    "intro": "Un breve recordatorio: tu informe completo de «{test}» por {price} sigue disponible hasta el {date} inclusive. Después vuelve el precio normal de {full}.",
+    "outro": "Este es nuestro último correo sobre tu informe.",
+    "cta": "Ver mi informe por {price}"
   },
   "pass": {
     "subject": "Los {count} informes por {price}",
     "intro": "Gracias por tu informe del {test}. ¿Te pica la curiosidad por saber qué dicen de ti los demás tests? Con el pase completo desbloqueas todos los informes de la web de una vez.",
     "outro": "Un solo pago de {price}, sin suscripción. En tu próximo test, elige {allLabel}.",
     "cta": "Elegir mi próximo test"
-  }
+  },
+  "offerBanner": "Tu oferta de nuestro correo: tu informe por {price} en lugar de {full}, hasta el {date} inclusive."
 }

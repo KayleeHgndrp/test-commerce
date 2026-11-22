@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Wil je je resultaat per mail?",
-    "text": "We sturen je meteen een korte samenvatting van je resultaat. Deze week volgen nog drie korte mails met een inzicht uit je rapport en een test die bij je past. Daarna hooguit één mail per week.",
-    "consent": "Ja, mail mij mijn resultaat en deze vervolgmails. Ik kan me altijd met één klik afmelden.",
+    "title": "Nog niet klaar? Krijg je resultaat gratis per mail",
+    "text": "We sturen je meteen een korte samenvatting van je resultaat, zodat je hem bewaard hebt.",
+    "consent": "Stuur me de komende dagen ook een paar korte mails met inzichten uit mijn rapport en een persoonlijk aanbod. Altijd met één klik af te melden.",
     "privacy": "Privacyverklaring",
     "button": "Mail mijn resultaat",
-    "done": "Verstuurd! Kijk over een minuutje in je inbox, en voor de zekerheid ook in je spammap.",
-    "consentRequired": "Vink het vakje aan, dan mogen we je mailen."
+    "done": "Verstuurd! Kijk over een minuutje in je inbox, en voor de zekerheid ook in je spammap."
   },
   "checkoutOptin": "Mail mij ook tips en tests die bij mij passen. Niet verplicht, altijd af te melden.",
   "greeting": "Hoi,",
@@ -41,16 +40,23 @@
     "outro": "Het duurt ongeveer {minutes} minuten en is gratis.",
     "cta": "Doe de test"
   },
-  "lastChance": {
-    "subject": "Je rapport van de {test} ligt nog klaar",
-    "intro": "Een week geleden deed je de {test}. Je antwoorden zijn bewaard, dus je volledige rapport staat klaar wanneer jij wilt.",
-    "outro": "Eenmalig {price}. Geen account en geen abonnement.",
-    "cta": "Haal mijn volledige rapport"
+  "offer": {
+    "subject": "Alleen voor jou: je rapport van de {test} voor {price}",
+    "intro": "Je deed onlangs de {test}, maar je volledige rapport heb je nog niet bekeken. Daarom een klein aanbod: tot en met {date} krijg je het voor {price} in plaats van {full}.",
+    "outro": "Je antwoorden zijn bewaard. Eén klik en je rapport staat klaar, zonder account en zonder abonnement.",
+    "cta": "Haal mijn rapport voor {price}"
+  },
+  "offerEnds": {
+    "subject": "Laatste dag: je rapport van de {test} voor {price}",
+    "intro": "Een korte herinnering: je volledige rapport van de {test} voor {price} kan nog tot en met {date}. Daarna geldt weer de normale prijs van {full}.",
+    "outro": "Dit is onze laatste mail over je rapport.",
+    "cta": "Bekijk mijn rapport voor {price}"
   },
   "pass": {
     "subject": "Alle {count} rapporten voor {price}",
     "intro": "Bedankt voor je rapport van de {test}. Benieuwd wat de andere tests over jou zeggen? Met de alles-pas ontgrendel je in één keer elk rapport op de site.",
     "outro": "Eenmalig {price}, geen abonnement. Kies bij je volgende test voor {allLabel}.",
     "cta": "Kies mijn volgende test"
-  }
+  },
+  "offerBanner": "Je aanbod uit onze mail: je rapport voor {price} in plaats van {full}, nog tot en met {date}."
 }
