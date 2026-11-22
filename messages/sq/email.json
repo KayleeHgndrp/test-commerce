@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Dëshiron ta marrësh rezultatin me email?",
-    "text": "Të dërgojmë menjëherë një përmbledhje të shkurtër të rezultatit tënd. Këtë javë do të marrësh edhe tre email të shkurtër me një vështrim nga raporti yt dhe një test që të përshtatet. Pas kësaj, më së shumti një email në javë.",
-    "consent": "Po, më dërgoni rezultatin tim dhe këto email vijuese. Mund të çregjistrohem në çdo kohë me një klik.",
+    "title": "Ende jo gati? Merr rezultatin falas me email",
+    "text": "Të dërgojmë menjëherë një përmbledhje të shkurtër të rezultatit, që ta kesh të ruajtur.",
+    "consent": "Më dërgo gjithashtu disa email të shkurtër në ditët në vijim, me njohuri nga raporti im dhe një ofertë personale. Mund të çregjistrohem në çdo kohë me një klik.",
     "privacy": "Politika e privatësisë",
     "button": "Më dërgo rezultatin",
-    "done": "U dërgua! Shiko kutinë postare pas një minute, dhe për siguri edhe dosjen e spamit.",
-    "consentRequired": "Shëno kutinë që të kemi leje të të shkruajmë."
+    "done": "U dërgua! Shiko kutinë postare pas një minute, dhe për siguri edhe dosjen e spamit."
   },
   "checkoutOptin": "Më dërgoni edhe këshilla dhe teste që më përshtaten. Jo e detyrueshme, mund të çregjistrohesh në çdo kohë.",
   "greeting": "Përshëndetje,",
@@ -41,16 +40,23 @@
     "outro": "Zgjat rreth {minutes} minuta dhe është falas.",
     "cta": "Bëj testin"
   },
-  "lastChance": {
-    "subject": "Raporti yt për \"{test}\" ende të pret",
-    "intro": "Një javë më parë bëre testin \"{test}\". Përgjigjet e tua janë ruajtur, ndaj raporti i plotë është gati kur të duash.",
-    "outro": "Një pagesë e vetme prej {price}. Pa llogari dhe pa abonim.",
-    "cta": "Merr raportin tim të plotë"
+  "offer": {
+    "subject": "Vetëm për ty: raporti yt për \"{test}\" për {price}",
+    "intro": "Kohët e fundit bëre testin \"{test}\", por ende nuk e ke hapur raportin e plotë. Prandaj një ofertë e vogël: deri më {date} përfshirë e merr për {price} në vend të {full}.",
+    "outro": "Përgjigjet e tua janë ruajtur. Një klik dhe raporti është gati, pa llogari dhe pa abonim.",
+    "cta": "Merr raportin tim për {price}"
+  },
+  "offerEnds": {
+    "subject": "Dita e fundit: raporti yt për \"{test}\" për {price}",
+    "intro": "Një kujtesë e shkurtër: raporti yt i plotë për \"{test}\" për {price} vlen deri më {date} përfshirë. Pas kësaj vlen sërish çmimi normal prej {full}.",
+    "outro": "Ky është emaili ynë i fundit për raportin tënd.",
+    "cta": "Shiko raportin tim për {price}"
   },
   "pass": {
     "subject": "Të gjitha {count} raportet për {price}",
     "intro": "Faleminderit për raportin tënd të {test}. Je kurioz se çfarë thonë për ty testet e tjera? Me kalimin e plotë i zhbllokon njëherësh të gjitha raportet e faqes.",
     "outro": "Një pagesë e vetme {price}, pa abonim. Në testin e radhës zgjidh {allLabel}.",
     "cta": "Zgjidh testin tim të radhës"
-  }
+  },
+  "offerBanner": "Oferta jote nga emaili ynë: raporti për {price} në vend të {full}, deri më {date} përfshirë."
 }

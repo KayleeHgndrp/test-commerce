@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Vill du få ditt resultat via mejl?",
-    "text": "Vi skickar direkt en kort sammanfattning av ditt resultat. Den här veckan får du tre korta mejl till med en insikt från din rapport och ett test som passar dig. Efter det högst ett mejl i veckan.",
-    "consent": "Ja, mejla mig mitt resultat och de här uppföljande mejlen. Jag kan avregistrera mig när som helst med ett klick.",
+    "title": "Inte redo än? Få ditt resultat gratis via mejl",
+    "text": "Vi skickar direkt en kort sammanfattning av ditt resultat, så att du har det sparat.",
+    "consent": "Skicka mig också några korta mejl de närmaste dagarna, med insikter från min rapport och ett personligt erbjudande. Avregistrera dig när som helst med ett klick.",
     "privacy": "Integritetspolicy",
     "button": "Mejla mitt resultat",
-    "done": "Skickat! Titta i inkorgen om en minut, och för säkerhets skull även i skräpposten.",
-    "consentRequired": "Kryssa i rutan så att vi får mejla dig."
+    "done": "Skickat! Titta i inkorgen om en minut, och för säkerhets skull även i skräpposten."
   },
   "checkoutOptin": "Mejla mig också tips och test som passar mig. Frivilligt, du kan avregistrera dig när som helst.",
   "greeting": "Hej!",
@@ -41,16 +40,23 @@
     "outro": "Det tar ungefär {minutes} minuter och är gratis.",
     "cta": "Gör testet"
   },
-  "lastChance": {
-    "subject": "Din rapport för ”{test}” väntar fortfarande",
-    "intro": "För en vecka sedan gjorde du testet ”{test}”. Dina svar är sparade, så din fullständiga rapport är redo när du vill.",
-    "outro": "En betalning på {price}. Inget konto och ingen prenumeration.",
-    "cta": "Hämta min fullständiga rapport"
+  "offer": {
+    "subject": "Bara för dig: din rapport för ”{test}” för {price}",
+    "intro": "Du gjorde nyligen ”{test}”, men du har inte öppnat din fullständiga rapport än. Därför ett litet erbjudande: till och med {date} får du den för {price} i stället för {full}.",
+    "outro": "Dina svar är sparade. Ett klick så är rapporten klar, utan konto och utan prenumeration.",
+    "cta": "Hämta min rapport för {price}"
+  },
+  "offerEnds": {
+    "subject": "Sista dagen: din rapport för ”{test}” för {price}",
+    "intro": "En kort påminnelse: din fullständiga rapport för ”{test}” för {price} gäller till och med {date}. Sedan gäller det vanliga priset på {full} igen.",
+    "outro": "Det här är vårt sista mejl om din rapport.",
+    "cta": "Se min rapport för {price}"
   },
   "pass": {
     "subject": "Alla {count} rapporter för {price}",
     "intro": "Tack för din rapport från {test}. Nyfiken på vad de andra testerna säger om dig? Med helhetspasset låser du upp alla rapporter på sajten på en gång.",
     "outro": "En betalning på {price}, ingen prenumeration. Välj {allLabel} vid ditt nästa test.",
     "cta": "Välj mitt nästa test"
-  }
+  },
+  "offerBanner": "Ditt erbjudande från vårt mejl: din rapport för {price} i stället för {full}, till och med {date}."
 }

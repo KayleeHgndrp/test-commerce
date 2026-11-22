@@ -15,6 +15,9 @@ export const site = {
   priceCents: 199,
   // Anchor price shown struck through next to the report price on the result page.
   listPriceCents: 325,
+  // One-off offer price for the report in the follow-up emails to people who took a
+  // test, asked for their result by email and did not buy (lib/offer.ts).
+  offerPriceCents: 149,
   // Pack of packSize reports: the one bought now plus credits for other tests.
   packPriceCents: 495,
   packSize: 3,

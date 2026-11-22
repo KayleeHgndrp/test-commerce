@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Möchtest du dein Ergebnis per E-Mail?",
-    "text": "Wir schicken dir sofort eine kurze Zusammenfassung deines Ergebnisses. Diese Woche folgen drei weitere kurze E-Mails mit einer Erkenntnis aus deinem Bericht und einem Test, der zu dir passt. Danach höchstens eine E-Mail pro Woche.",
-    "consent": "Ja, schickt mir mein Ergebnis und diese Folge-E-Mails. Ich kann mich jederzeit mit einem Klick abmelden.",
+    "title": "Noch nicht so weit? Hol dir dein Ergebnis kostenlos per E-Mail",
+    "text": "Wir schicken dir sofort eine kurze Zusammenfassung deines Ergebnisses, damit du sie gespeichert hast.",
+    "consent": "Schick mir in den nächsten Tagen auch ein paar kurze E-Mails mit Einblicken aus meinem Bericht und einem persönlichen Angebot. Jederzeit mit einem Klick abbestellbar.",
     "privacy": "Datenschutzerklärung",
     "button": "Ergebnis per E-Mail senden",
-    "done": "Gesendet! Schau in einer Minute in dein Postfach und sicherheitshalber auch in den Spam-Ordner.",
-    "consentRequired": "Bitte setze das Häkchen, damit wir dir schreiben dürfen."
+    "done": "Gesendet! Schau in einer Minute in dein Postfach und sicherheitshalber auch in den Spam-Ordner."
   },
   "checkoutOptin": "Schickt mir auch Tipps und Tests, die zu mir passen. Freiwillig, jederzeit abbestellbar.",
   "greeting": "Hallo,",
@@ -41,16 +40,23 @@
     "outro": "Er dauert etwa {minutes} Minuten und ist kostenlos.",
     "cta": "Zum Test"
   },
-  "lastChance": {
-    "subject": "Dein Bericht zu „{test}“ wartet noch auf dich",
-    "intro": "Vor einer Woche hast du den Test „{test}“ gemacht. Deine Antworten sind gespeichert, dein vollständiger Bericht ist also bereit, wann immer du willst.",
-    "outro": "Einmalig {price}. Kein Konto und kein Abo.",
-    "cta": "Meinen vollständigen Bericht holen"
+  "offer": {
+    "subject": "Nur für dich: dein Bericht zu „{test}“ für {price}",
+    "intro": "Du hast vor Kurzem den Test „{test}“ gemacht, deinen vollständigen Bericht aber noch nicht geöffnet. Deshalb ein kleines Angebot: bis einschließlich {date} bekommst du ihn für {price} statt {full}.",
+    "outro": "Deine Antworten sind gespeichert. Ein Klick und dein Bericht ist bereit, ohne Konto und ohne Abo.",
+    "cta": "Meinen Bericht für {price} holen"
+  },
+  "offerEnds": {
+    "subject": "Letzter Tag: dein Bericht zu „{test}“ für {price}",
+    "intro": "Eine kurze Erinnerung: dein vollständiger Bericht zu „{test}“ für {price} gilt noch bis einschließlich {date}. Danach gilt wieder der normale Preis von {full}.",
+    "outro": "Das ist unsere letzte E-Mail zu deinem Bericht.",
+    "cta": "Meinen Bericht für {price} ansehen"
   },
   "pass": {
     "subject": "Alle {count} Berichte für {price}",
     "intro": "Danke für deinen Bericht zum {test}. Neugierig, was die anderen Tests über dich sagen? Mit dem Komplettpass schaltest du alle Berichte der Seite auf einmal frei.",
     "outro": "Einmalig {price}, kein Abo. Wähle bei deinem nächsten Test {allLabel}.",
     "cta": "Meinen nächsten Test wählen"
-  }
+  },
+  "offerBanner": "Dein Angebot aus unserer E-Mail: dein Bericht für {price} statt {full}, noch bis einschließlich {date}."
 }

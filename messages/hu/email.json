@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Szeretnéd e-mailben megkapni az eredményed?",
-    "text": "Azonnal küldünk egy rövid összefoglalót az eredményedről. Ezen a héten még három rövid e-mail érkezik egy érdekességgel a jelentésedből és egy hozzád illő teszttel. Utána legfeljebb heti egy e-mail.",
-    "consent": "Igen, küldjétek el az eredményemet és ezeket a további e-maileket. Bármikor leiratkozhatok egy kattintással.",
+    "title": "Még nem döntöttél? Kérd az eredményed ingyen e-mailben",
+    "text": "Azonnal elküldjük az eredményed rövid összefoglalóját, hogy meglegyen.",
+    "consent": "A következő napokban küldjetek nekem néhány rövid e-mailt is a jelentésem tanulságaival és egy személyes ajánlattal. Egy kattintással bármikor leiratkozhatok.",
     "privacy": "Adatvédelmi tájékoztató",
     "button": "Eredményem elküldése",
-    "done": "Elküldtük! Egy perc múlva nézd meg a postafiókod, és biztos, ami biztos, a spam mappát is.",
-    "consentRequired": "Pipáld ki a négyzetet, hogy írhassunk neked."
+    "done": "Elküldtük! Egy perc múlva nézd meg a postafiókod, és biztos, ami biztos, a spam mappát is."
   },
   "checkoutOptin": "Küldjetek nekem tippeket és hozzám illő teszteket is. Nem kötelező, bármikor leiratkozhatsz.",
   "greeting": "Szia!",
@@ -41,16 +40,23 @@
     "outro": "Körülbelül {minutes} perc, és ingyenes.",
     "cta": "Kitöltöm a tesztet"
   },
-  "lastChance": {
-    "subject": "A(z) „{test}” jelentésed még mindig vár rád",
-    "intro": "Egy hete kitöltötted ezt a tesztet: „{test}”. A válaszaidat elmentettük, így a teljes jelentésed bármikor elkészülhet.",
-    "outro": "Egyszeri {price}. Nincs fiók, nincs előfizetés.",
-    "cta": "Kérem a teljes jelentést"
+  "offer": {
+    "subject": "Csak neked: a(z) „{test}” jelentésed {price} áron",
+    "intro": "Nemrég kitöltötted a(z) „{test}” tesztet, de a teljes jelentésedet még nem nyitottad meg. Ezért egy kis ajánlat: {date} végéig {full} helyett {price} áron kapod meg.",
+    "outro": "A válaszaid el vannak mentve. Egy kattintás, és kész a jelentésed, fiók és előfizetés nélkül.",
+    "cta": "Kérem a jelentést {price} áron"
+  },
+  "offerEnds": {
+    "subject": "Utolsó nap: a(z) „{test}” jelentésed {price} áron",
+    "intro": "Rövid emlékeztető: a(z) „{test}” teljes jelentése {price} áron {date} végéig érhető el. Utána ismét a szokásos {full} ár érvényes.",
+    "outro": "Ez az utolsó e-mailünk a jelentésedről.",
+    "cta": "Megnézem a jelentést {price} áron"
   },
   "pass": {
     "subject": "Mind a {count} jelentés {price} áron",
     "intro": "Köszönjük, hogy megrendelted a(z) {test} jelentését. Kíváncsi vagy, mit mondanak rólad a többi tesztek? A teljes bérlettel egyszerre feloldod az oldal összes jelentését.",
     "outro": "Egyszeri {price}, előfizetés nélkül. A következő tesztnél válaszd ezt: {allLabel}.",
     "cta": "Kiválasztom a következő tesztet"
-  }
+  },
+  "offerBanner": "Az e-mailben kapott ajánlatod: a jelentésed {full} helyett {price}, {date} végéig."
 }

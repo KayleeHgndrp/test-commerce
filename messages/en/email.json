@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Want your result by email?",
-    "text": "We send you a short summary of your result right away. This week you get three more short emails with an insight from your report and a test that suits you. After that, at most one email a week.",
-    "consent": "Yes, email me my result and these follow-up emails. I can unsubscribe at any time with one click.",
+    "title": "Not ready yet? Get your result by email for free",
+    "text": "We send you a short summary of your result right away, so you have it saved.",
+    "consent": "Also send me a few short emails in the coming days, with insights from my report and a personal offer. Unsubscribe any time with one click.",
     "privacy": "Privacy policy",
     "button": "Email my result",
-    "done": "Sent! Check your inbox in a minute, and your spam folder just in case.",
-    "consentRequired": "Please tick the box so we are allowed to email you."
+    "done": "Sent! Check your inbox in a minute, and your spam folder just in case."
   },
   "checkoutOptin": "Also email me tips and tests that suit me. Optional, unsubscribe at any time.",
   "greeting": "Hi,",
@@ -41,16 +40,23 @@
     "outro": "It takes about {minutes} minutes and it is free.",
     "cta": "Take the test"
   },
-  "lastChance": {
-    "subject": "Your {test} report is still waiting",
-    "intro": "A week ago you took the {test}. Your answers are saved, so your full report is ready whenever you are.",
-    "outro": "One payment of {price}. No account and no subscription.",
-    "cta": "Get my full report"
+  "offer": {
+    "subject": "Just for you: your {test} report for {price}",
+    "intro": "You recently took the {test}, but you have not opened your full report yet. So here is a small offer: until {date} you get it for {price} instead of {full}.",
+    "outro": "Your answers are saved. One click and your report is ready, with no account and no subscription.",
+    "cta": "Get my report for {price}"
+  },
+  "offerEnds": {
+    "subject": "Last day: your {test} report for {price}",
+    "intro": "A quick reminder: your full {test} report for {price} is available until {date}. After that the normal price of {full} applies again.",
+    "outro": "This is our last email about your report.",
+    "cta": "See my report for {price}"
   },
   "pass": {
     "subject": "All {count} reports for {price}",
     "intro": "Thanks for getting your {test} report. Curious what the other tests say about you? With the all-access pass you unlock every report on the site at once.",
     "outro": "One payment of {price}, no subscription. At your next test, choose {allLabel}.",
     "cta": "Choose my next test"
-  }
+  },
+  "offerBanner": "Your offer from our email: your report for {price} instead of {full}, until {date}."
 }

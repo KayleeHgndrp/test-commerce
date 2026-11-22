@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Vols rebre el teu resultat per correu?",
-    "text": "T'enviem ara mateix un breu resum del teu resultat. Aquesta setmana rebràs tres correus curts més amb una idea del teu informe i un test que t'encaixa. Després, com a molt un correu a la setmana.",
-    "consent": "Sí, envieu-me el meu resultat i aquests correus de seguiment. Em puc donar de baixa en qualsevol moment amb un clic.",
+    "title": "Encara no ho tens clar? Rep el teu resultat gratis per correu",
+    "text": "T'enviem ara mateix un breu resum del teu resultat, perquè el tinguis desat.",
+    "consent": "Envia'm també uns quants correus breus els propers dies, amb idees del meu informe i una oferta personal. Em puc donar de baixa amb un clic quan vulgui.",
     "privacy": "Política de privadesa",
     "button": "Envia'm el resultat",
-    "done": "Enviat! Mira la safata d'entrada d'aquí a un minut, i per si de cas també la carpeta de correu brossa.",
-    "consentRequired": "Marca la casella perquè et puguem escriure."
+    "done": "Enviat! Mira la safata d'entrada d'aquí a un minut, i per si de cas també la carpeta de correu brossa."
   },
   "checkoutOptin": "Envieu-me també consells i tests que encaixin amb mi. Opcional, et pots donar de baixa quan vulguis.",
   "greeting": "Hola,",
@@ -41,16 +40,23 @@
     "outro": "Dura uns {minutes} minuts i és gratuït.",
     "cta": "Fer el test"
   },
-  "lastChance": {
-    "subject": "El teu informe de «{test}» encara t'espera",
-    "intro": "Fa una setmana vas fer el test «{test}». Les teves respostes estan desades, així que el teu informe complet està llest quan vulguis.",
-    "outro": "Un sol pagament de {price}. Sense compte i sense subscripció.",
-    "cta": "Obtenir el meu informe complet"
+  "offer": {
+    "subject": "Només per a tu: el teu informe de «{test}» per {price}",
+    "intro": "Fa poc vas fer el test «{test}», però encara no has obert el teu informe complet. Per això et fem una petita oferta: fins al {date} inclòs el tens per {price} en lloc de {full}.",
+    "outro": "Les teves respostes estan desades. Un clic i el teu informe està llest, sense compte i sense subscripció.",
+    "cta": "Obtenir el meu informe per {price}"
+  },
+  "offerEnds": {
+    "subject": "Últim dia: el teu informe de «{test}» per {price}",
+    "intro": "Un breu recordatori: el teu informe complet de «{test}» per {price} està disponible fins al {date} inclòs. Després torna el preu normal de {full}.",
+    "outro": "Aquest és el nostre últim correu sobre el teu informe.",
+    "cta": "Veure el meu informe per {price}"
   },
   "pass": {
     "subject": "Tots els {count} informes per {price}",
     "intro": "Gràcies pel teu informe del {test}. Tens curiositat per saber què diuen de tu els altres tests? Amb el passi complet desbloqueges tots els informes del web de cop.",
     "outro": "Un sol pagament de {price}, sense subscripció. Al teu proper test, tria {allLabel}.",
     "cta": "Triar el meu proper test"
-  }
+  },
+  "offerBanner": "La teva oferta del nostre correu: el teu informe per {price} en lloc de {full}, fins al {date} inclòs."
 }

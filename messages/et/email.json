@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Kas soovid oma tulemust e-postiga?",
-    "text": "Saadame sulle kohe lühikese kokkuvõtte sinu tulemusest. Sel nädalal tuleb veel kolm lühikest kirja, milles on üks tähelepanek sinu raportist ja sulle sobiv test. Pärast seda kõige rohkem üks kiri nädalas.",
-    "consent": "Jah, saatke mulle minu tulemus ja need järgkirjad. Saan igal ajal ühe klõpsuga loobuda.",
+    "title": "Pole veel valmis? Saa oma tulemus tasuta e-postiga",
+    "text": "Saadame sulle kohe lühikese kokkuvõtte sinu tulemusest, et see oleks sul alles.",
+    "consent": "Saada mulle lähipäevil ka paar lühikest e-kirja minu raporti tähelepanekute ja isikliku pakkumisega. Saan igal ajal ühe klõpsuga loobuda.",
     "privacy": "Privaatsuspoliitika",
     "button": "Saada mu tulemus",
-    "done": "Saadetud! Vaata minuti pärast oma postkasti ja igaks juhuks ka rämpsposti kausta.",
-    "consentRequired": "Märgi kast, et võiksime sulle kirjutada."
+    "done": "Saadetud! Vaata minuti pärast oma postkasti ja igaks juhuks ka rämpsposti kausta."
   },
   "checkoutOptin": "Saatke mulle ka nõuandeid ja teste, mis mulle sobivad. Vabatahtlik, saad igal ajal loobuda.",
   "greeting": "Tere!",
@@ -41,16 +40,23 @@
     "outro": "See võtab umbes {minutes} minutit ja on tasuta.",
     "cta": "Tee test"
   },
-  "lastChance": {
-    "subject": "Sinu raport testist „{test}“ ootab endiselt",
-    "intro": "Nädal tagasi tegid testi „{test}“. Sinu vastused on salvestatud, nii et täielik raport on valmis siis, kui sulle sobib.",
-    "outro": "Ühekordne makse {price}. Ei kontot ega tellimust.",
-    "cta": "Hangi täielik raport"
+  "offer": {
+    "subject": "Ainult sulle: sinu raport testist „{test}“ hinnaga {price}",
+    "intro": "Tegid hiljuti testi „{test}“, kuid pole veel oma täielikku raportit avanud. Seepärast väike pakkumine: kuni {date} (kaasa arvatud) saad selle hinnaga {price}, mitte {full}.",
+    "outro": "Sinu vastused on salvestatud. Üks klõps ja raport on valmis, ilma kontota ja ilma tellimuseta.",
+    "cta": "Hangi raport hinnaga {price}"
+  },
+  "offerEnds": {
+    "subject": "Viimane päev: sinu raport testist „{test}“ hinnaga {price}",
+    "intro": "Lühike meeldetuletus: sinu täielik raport testist „{test}“ hinnaga {price} kehtib kuni {date} (kaasa arvatud). Pärast seda kehtib jälle tavahind {full}.",
+    "outro": "See on meie viimane kiri sinu raporti kohta.",
+    "cta": "Vaata raportit hinnaga {price}"
   },
   "pass": {
     "subject": "Kõik {count} raportit hinnaga {price}",
     "intro": "Aitäh, et tellisid raporti testist {test}. Huvitab, mida teised testid sinu kohta ütlevad? Täispääsuga avad korraga kõik saidi raportid.",
     "outro": "Ühekordne makse {price}, ilma tellimuseta. Vali järgmise testi juures {allLabel}.",
     "cta": "Vali järgmine test"
-  }
+  },
+  "offerBanner": "Sinu pakkumine meie e-kirjast: raport hinnaga {price}, mitte {full}, kuni {date} (kaasa arvatud)."
 }

@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Haluatko tuloksesi sähköpostiin?",
-    "text": "Lähetämme heti lyhyen yhteenvedon tuloksestasi. Tällä viikolla tulee vielä kolme lyhyttä viestiä, joissa on havainto raportistasi ja sinulle sopiva testi. Sen jälkeen korkeintaan yksi viesti viikossa.",
-    "consent": "Kyllä, lähettäkää minulle tulokseni ja nämä jatkoviestit. Voin perua tilauksen milloin tahansa yhdellä klikkauksella.",
+    "title": "Etkö ole vielä valmis? Saat tuloksesi ilmaiseksi sähköpostiin",
+    "text": "Lähetämme heti lyhyen yhteenvedon tuloksestasi, niin se on tallessa.",
+    "consent": "Lähetä minulle myös muutama lyhyt sähköposti lähipäivinä, joissa on oivalluksia raportistani ja henkilökohtainen tarjous. Voin perua tilauksen milloin tahansa yhdellä klikkauksella.",
     "privacy": "Tietosuojaseloste",
     "button": "Lähetä tulokseni",
-    "done": "Lähetetty! Katso postilaatikkoasi minuutin päästä ja varmuuden vuoksi myös roskapostikansiota.",
-    "consentRequired": "Rastita ruutu, jotta saamme lähettää sinulle sähköpostia."
+    "done": "Lähetetty! Katso postilaatikkoasi minuutin päästä ja varmuuden vuoksi myös roskapostikansiota."
   },
   "checkoutOptin": "Lähettäkää minulle myös vinkkejä ja minulle sopivia testejä. Vapaaehtoinen, voit perua milloin tahansa.",
   "greeting": "Hei,",
@@ -41,16 +40,23 @@
     "outro": "Se kestää noin {minutes} minuuttia ja on ilmainen.",
     "cta": "Tee testi"
   },
-  "lastChance": {
-    "subject": "Raporttisi testistä ”{test}” odottaa yhä",
-    "intro": "Viikko sitten teit testin ”{test}”. Vastauksesi on tallennettu, joten koko raporttisi on valmis silloin, kun sinulle sopii.",
-    "outro": "Kertamaksu {price}. Ei tiliä eikä tilausta.",
-    "cta": "Hae koko raporttini"
+  "offer": {
+    "subject": "Vain sinulle: raporttisi testistä ”{test}” hintaan {price}",
+    "intro": "Teit hiljattain testin ”{test}”, mutta et ole vielä avannut koko raporttiasi. Siksi pieni tarjous: {date} asti saat sen hintaan {price} hinnan {full} sijaan.",
+    "outro": "Vastauksesi on tallennettu. Yksi klikkaus, ja raporttisi on valmis, ilman tiliä ja ilman tilausta.",
+    "cta": "Hae raporttini hintaan {price}"
+  },
+  "offerEnds": {
+    "subject": "Viimeinen päivä: raporttisi testistä ”{test}” hintaan {price}",
+    "intro": "Lyhyt muistutus: koko raporttisi testistä ”{test}” hintaan {price} on saatavilla {date} asti. Sen jälkeen voimassa on taas normaali hinta {full}.",
+    "outro": "Tämä on viimeinen viestimme raportistasi.",
+    "cta": "Katso raporttini hintaan {price}"
   },
   "pass": {
     "subject": "Kaikki {count} raporttia hintaan {price}",
     "intro": "Kiitos raportistasi testistä {test}. Kiinnostaako, mitä muut testit sinusta kertovat? Kokonaispassilla avaat kerralla kaikki sivuston raportit.",
     "outro": "Kertamaksu {price}, ei tilausta. Valitse seuraavan testin kohdalla {allLabel}.",
     "cta": "Valitse seuraava testini"
-  }
+  },
+  "offerBanner": "Tarjouksesi sähköpostistamme: raporttisi hintaan {price} hinnan {full} sijaan, {date} asti."
 }

@@ -67,8 +67,10 @@ See `docs/CONTENT_SPEC.md` for the content format.
 - Set up SPF, DKIM and DMARC for the sender domain at your mail provider, otherwise reports land in spam.
 
 **4b. Email flow (Brevo)**
-- After a test, visitors can ask for their result by email (explicit opt-in). They then get: result (day 0), one insight
-  from the report (day 2), a related test (day 5) and a reminder (day 7). Buyers who opt in at checkout get a related
+- After a test, visitors can ask for their result by email. Without ticking the follow-up box they only get that one
+  email and their address is not stored. With the box ticked (explicit opt-in) they also get: one insight from the
+  report (day 2), a related test (day 4), a lower price for their report (day 6, `site.offerPriceCents`, signed link
+  in `lib/offer.ts`, valid until the end of day 8) and a last-day reminder (day 8). Buyers who opt in at checkout get a related
   test (day 2) and the all-access pass offer (day 5, skipped for pass owners). Code: `lib/emailFlow.ts`, `lib/brevo.ts`, texts in `messages/<locale>/email.json`.
 - Screeners and the political test are excluded: their answers are special-category data under GDPR art. 9.
 - Set `BREVO_API_KEY` and `CRON_SECRET` in Vercel. In Brevo, turn off Security → Authorised IPs (Vercel has no fixed IP)

@@ -3,6 +3,7 @@ import { fmt, getDefinition, getTestText, getUi } from "@/lib/i18n/messages";
 import { plans, retrievePaidOrder, upgradeAllowed, type Plan } from "@/lib/delivery";
 import { emailFlowAllowed } from "@/lib/emailFlow";
 import { sendEmail } from "@/lib/email";
+import { validOffer } from "@/lib/offer";
 import { refPattern } from "@/lib/partners";
 import { renderReport } from "@/lib/report/render";
 import { site, upgradePriceCents } from "@/lib/site";
@@ -53,8 +54,12 @@ export async function POST(request: Request) {
   }
 
   const [ui, text] = await Promise.all([getUi(locale), getTestText(locale, slug)]);
+  // The lower price from the follow-up emails, for this test's single report only.
+  const offer = !upgrade && plan === "single" && validOffer(slug, body?.offer);
   const price = upgrade
     ? upgradePriceCents(upgrade.session.amount_total ?? site.priceCents)
+    : offer
+    ? site.offerPriceCents
     : { single: site.priceCents, pack: site.packPriceCents, all: site.allPriceCents, couple: site.couplePriceCents }[plan];
   const product = {
     single: text.name,
@@ -73,7 +78,7 @@ export async function POST(request: Request) {
     "line_items[0][price_data][unit_amount]": String(price),
     "line_items[0][price_data][product_data][name]": `${product} | ${site.name}`,
     success_url: `${thanksUrl}?session_id={CHECKOUT_SESSION_ID}`,
-    cancel_url: `${origin}/${locale}/${slug}/result`,
+    cancel_url: `${origin}/${locale}/${slug}/result${offer ? `?offer=${body!.offer}` : ""}`,
     // The advertised price includes VAT. With Stripe Tax enabled, Stripe works out
     // the VAT rate of the customer's EU country (OSS) from the billing details.
     "line_items[0][price_data][tax_behavior]": "inclusive",
@@ -86,6 +91,7 @@ export async function POST(request: Request) {
     ...(partner ? { "metadata[partner_answers]": partnerAnswers, "metadata[partner_name]": cleanName(partnerName) } : {}),
     ...(referral ? { "metadata[ref]": referral } : {}),
     ...(upgrade ? { "metadata[upgrade_from]": upgrade.session.id } : {}),
+    ...(offer ? { "metadata[offer]": "email" } : {}),
     ...(newsletter && emailFlowAllowed(def) ? { "metadata[newsletter]": "1" } : {}),
   });
 

@@ -16,6 +16,7 @@ const ATTRIBUTES = {
   FLOW_STEP: "float",
   PURCHASED_AT: "text",
   PLAN: "text",
+  OFFER_UNTIL: "text",
 } as const;
 
 export type ContactAttributes = Partial<Record<keyof typeof ATTRIBUTES, string | number>>;

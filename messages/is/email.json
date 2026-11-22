@@ -1,12 +1,11 @@
 {
   "optin": {
-    "title": "Viltu fá niðurstöðuna þína í tölvupósti?",
-    "text": "Við sendum þér strax stutta samantekt á niðurstöðunni þinni. Í þessari viku færðu þrjá stutta pósta til viðbótar með innsýn úr skýrslunni þinni og prófi sem hentar þér. Eftir það í mesta lagi einn póst á viku.",
-    "consent": "Já, sendið mér niðurstöðuna mína og þessa framhaldspósta. Ég get afskráð mig hvenær sem er með einum smelli.",
+    "title": "Ekki tilbúin(n) enn? Fáðu niðurstöðuna ókeypis í tölvupósti",
+    "text": "Við sendum þér strax stutta samantekt á niðurstöðunni svo þú eigir hana.",
+    "consent": "Sendu mér líka nokkra stutta tölvupósta næstu daga með innsýn úr skýrslunni minni og persónulegu tilboði. Ég get afskráð mig hvenær sem er með einum smelli.",
     "privacy": "Persónuverndarstefna",
     "button": "Senda mér niðurstöðuna",
-    "done": "Sent! Kíktu í pósthólfið eftir mínútu og til öryggis líka í ruslpóstinn.",
-    "consentRequired": "Hakaðu í reitinn svo við megum senda þér póst."
+    "done": "Sent! Kíktu í pósthólfið eftir mínútu og til öryggis líka í ruslpóstinn."
   },
   "checkoutOptin": "Sendið mér líka ráð og próf sem henta mér. Valfrjálst, þú getur afskráð þig hvenær sem er.",
   "greeting": "Hæ,",
@@ -41,16 +40,23 @@
     "outro": "Það tekur um {minutes} mínútur og er ókeypis.",
     "cta": "Taka prófið"
   },
-  "lastChance": {
-    "subject": "Skýrslan þín fyrir „{test}“ bíður enn",
-    "intro": "Fyrir viku tókstu prófið „{test}“. Svörin þín eru vistuð, svo heildarskýrslan er tilbúin þegar þér hentar.",
-    "outro": "Ein greiðsla upp á {price}. Enginn aðgangur og engin áskrift.",
-    "cta": "Fá heildarskýrsluna mína"
+  "offer": {
+    "subject": "Bara fyrir þig: skýrslan þín fyrir „{test}“ á {price}",
+    "intro": "Þú tókst nýlega „{test}“ en hefur ekki opnað heildarskýrsluna þína enn. Þess vegna lítið tilboð: til og með {date} færðu hana á {price} í stað {full}.",
+    "outro": "Svörin þín eru vistuð. Einn smellur og skýrslan er tilbúin, án aðgangs og án áskriftar.",
+    "cta": "Fá skýrsluna mína á {price}"
+  },
+  "offerEnds": {
+    "subject": "Síðasti dagurinn: skýrslan þín fyrir „{test}“ á {price}",
+    "intro": "Stutt áminning: heildarskýrslan þín fyrir „{test}“ á {price} gildir til og með {date}. Eftir það gildir venjulegt verð, {full}, aftur.",
+    "outro": "Þetta er síðasti tölvupósturinn okkar um skýrsluna þína.",
+    "cta": "Skoða skýrsluna mína á {price}"
   },
   "pass": {
     "subject": "Allar {count} skýrslurnar fyrir {price}",
     "intro": "Takk fyrir skýrsluna úr {test}. Forvitin um hvað hin prófin segja um þig? Með heildarpassanum opnar þú allar skýrslur síðunnar í einu.",
     "outro": "Ein greiðsla upp á {price}, engin áskrift. Veldu {allLabel} í næsta prófi.",
     "cta": "Velja næsta próf"
-  }
+  },
+  "offerBanner": "Tilboðið þitt úr tölvupóstinum okkar: skýrslan á {price} í stað {full}, til og með {date}."
 }
