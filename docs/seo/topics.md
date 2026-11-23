@@ -8,6 +8,7 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 | Datum | translationKey | Onderwerp | Test |
 |---|---|---|---|
+| 2026-11-23 | autism-signs-adults (en: autism-in-adults-signs) | Autisme bij volwassenen: kenmerken die vaak gemist worden, camoufleren (masking) en wat een zelftest zegt (bovenaan de wachtrij; Search Console 28 dagen: "autismus test zdarma" CS pos 12, eerder "autismus test dospělých online zdarma" CS pos 10 en "ilmainen autismi testi aikuiselle" FI pos 11). Alleen in de 7 focustalen. | autism |
 | 2026-11-20 | adhd-signs-adults (en: adhd-in-adults-signs) | ADHD bij volwassenen: kenmerken, waarom vrouwen vaak gemist worden en wat een zelftest zegt (gekozen op Search Console 28 dagen: "adhd testi" FI pos 17, "adhd testi aikuiselle" FI pos 22, plus veel zoekvragen naar ADHD bij vrouwen en meisjes in SV/DA: "adhd kvinnor test", "adhd tjejer test", "adhd kvinder test"). Alleen in de 7 focustalen. | adhd |
 | 2026-11-16 | bpd-signs-adults (en: signs-of-bpd-in-adults) | Borderline (BPD) bij volwassenen: signalen, en wat een zelftest wel en niet zegt (gekozen op Search Console: bpd testi FI pos 7.6, granični poremećaj ličnosti test HR pos 5, hraničná porucha SK pos 8, borderline test RO pos 32) | bpd |
 | 2026-11-13 | bipolar-or-mood-swings (en: bipolar-or-mood-swings) | Bipolaire stoornis of gewoon stemmingswisselingen? De verschillen (gekozen op Search Console: "bipolární porucha test", "bipolarni poremećaj test", positie rond 9 in CS en HR) | bipolar |
@@ -28,7 +29,6 @@ Taalvoorrang (9 nov 2026): de meeste vertoningen komen uit DA, SV, CS, DE en FI,
 
 | translationKey | Onderwerp | Test | Zoekvraag (en) |
 |---|---|---|---|
-| autism-signs-adults | Autisme bij volwassenen: signalen die vaak gemist worden (Search Console 16 nov: "autismus test dospělých online zdarma" CS pos 10, "online test za autizam kod odraslih" HR pos 8, "ilmainen autismi testi aikuiselle" FI pos 11) | autism | autism in adults signs |
 | big-five-vs-mbti | Big Five of MBTI: welke test is betrouwbaarder | big-five | big five vs mbti |
 | trauma-signs-ptsd | Signalen van onverwerkt trauma, en wanneer het PTSS kan zijn | trauma | trauma test |
 | strengths-talent-test | Wat zijn je talenten? Zo ontdek je je sterkste kanten | strengths | talent test |
