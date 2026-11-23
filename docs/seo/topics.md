@@ -21,6 +21,8 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 ## Wachtrij
 
+Maandagcheck 23 nov 2026: chronotype en imposter direct onder big-five-vs-mbti gezet. Search Console 28 dagen: "døgnrytme test" DA pos 9 en "a eller b menneske test" DA pos 8 (chronotype), "bluffsyndromet test" SV pos 10 (imposter), nog zonder eigen artikel. big-five-vs-mbti blijft bovenaan vanwege "personlighedstest" DA (pos 24 tot 30, ruim 70 vertoningen).
+
 Bovenste twee toegevoegd op 16 nov 2026 (maandagcheck): ADHD en autisme bij volwassenen hebben zoekvragen op positie 8 tot 30 in FI, CS, HR, RO en ET en nog geen eigen artikel.
 
 Bovenste vijf toegevoegd op 9 nov 2026 op basis van Search Console: de BPD-, bipolar-, trauma- en talenttests halen al vertoningen in veel talen (positie 4 tot 15), en Big Five/personlighedstest-zoekvragen in DA, SV en NL. Elk artikel linkt prominent naar de bijbehorende test. Gevoelige onderwerpen: geen diagnose, wel een zin over professionele hulp.
@@ -30,12 +32,12 @@ Taalvoorrang (9 nov 2026): de meeste vertoningen komen uit DA, SV, CS, DE en FI,
 | translationKey | Onderwerp | Test | Zoekvraag (en) |
 |---|---|---|---|
 | big-five-vs-mbti | Big Five of MBTI: welke test is betrouwbaarder | big-five | big five vs mbti |
+| chronotype-morning-evening | Ochtendmens of avondmens: wat je chronotype zegt | chronotype | am I a night owl or early bird (DA: døgnrytme test, a eller b menneske test) |
+| imposter-syndrome-new-job | Imposter syndroom in een nieuwe baan | imposter | imposter syndrome new job (SV: bluffsyndromet test) |
 | trauma-signs-ptsd | Signalen van onverwerkt trauma, en wanneer het PTSS kan zijn | trauma | trauma test |
 | strengths-talent-test | Wat zijn je talenten? Zo ontdek je je sterkste kanten | strengths | talent test |
 | procrastination-types | De vier soorten uitstellers, en welke jij bent | procrastination | types of procrastinators |
-| chronotype-morning-evening | Ochtendmens of avondmens: wat je chronotype zegt | chronotype | am I a night owl or early bird |
 | career-test-what-job-suits-me | Welk beroep past bij mijn persoonlijkheid | career | what job suits my personality |
-| imposter-syndrome-new-job | Imposter syndroom in een nieuwe baan | imposter | imposter syndrome new job |
 | attachment-styles-after-fight | Wat elke hechtingsstijl doet na een ruzie | attachment | attachment styles after an argument |
 | hsp-vs-introvert | Hoogsensitief of introvert: het verschil | hsp | highly sensitive person vs introvert |
 | burnout-or-tired | Burn-out of gewoon moe? Tien signalen | burnout | burnout or just tired |
