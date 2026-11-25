@@ -128,7 +128,7 @@ DISC er et praktisk sprog til at tale om forskelle. Det giver teams ord for ting
 
 **Den bygger på selvrapportering.** Du svarer på spørgsmål om dig selv, så resultatet viser, hvordan du ser dig selv den dag og i den situation. Spørger du en kollega, hvordan de ser dig, kan billedet se anderledes ud.
 
-**Den har mindre videnskabelig opbakning end Big Five.** Det meste personlighedsforskning bruger Big Five, en model med fem brede træk. DISC er først og fremmest et praktisk værktøj fra kursus- og coachingverdenen, og mange kommercielle udgaver er aldrig testet uafhængigt. Vil du have et bredere og bedre underbygget billede af din personlighed, er vores [Big Five-test](/da/big-five) det stærkere valg.
+**Den har mindre videnskabelig opbakning end Big Five.** Det meste personlighedsforskning bruger Big Five, en model med fem brede træk. DISC er først og fremmest et praktisk værktøj fra kursus- og coachingverdenen, og mange kommercielle udgaver er aldrig testet uafhængigt. Vil du have et bredere og bedre underbygget billede af din personlighed, er vores [Big Five-test](/da/big-five) det stærkere valg. Vil du hellere starte med noget enklere, giver vores gratis [personlighedstest](/da/personality) dig en Big Five-profil på de fem hovedtræk på omkring fem minutter.
 
 **Den er ikke en kasse.** "Jeg er bare rød" er ingen undskyldning for at køre hen over folk, og "hun er blå, hun er altid besværlig" er ikke en fair beskrivelse af en kollega. Farverne beskriver en præference, ikke en fast identitet.
 

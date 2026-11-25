@@ -1,9 +1,9 @@
 {
   "name": "Personality Test",
   "tagline": "Discover the five core traits that shape who you are.",
-  "intro": "This test maps your personality on the five broad traits psychologists use most: openness, conscientiousness, extraversion, agreeableness and emotional sensitivity. Rate 100 short statements by how well they describe you. It takes about five minutes and shows how you naturally think, feel and relate to others.",
-  "seoTitle": "Personality Test: Free Big Five trait profile",
-  "seoDescription": "Take this free 5-minute personality test based on the Big Five traits and get a clear profile of your openness, drive, sociability, warmth and sensitivity.",
+  "intro": "This free personality test maps you on the Big Five, the five traits psychologists rely on most: openness, conscientiousness, extraversion, agreeableness and emotional sensitivity. Rate 100 short statements by how well they describe you. It takes about five minutes, you do not need an account, and you see your strongest trait as soon as you finish.",
+  "seoTitle": "Free Personality Test: Big Five Traits in 5 Minutes",
+  "seoDescription": "Take a free Big Five personality test in about 5 minutes, no account needed. See your strongest trait right away and learn what your profile means.",
   "items": [
     "I love exploring new ideas, even unusual ones.",
     "I keep my belongings neat and in order.",
@@ -143,5 +143,33 @@
       "high": "You feel emotions intensely and are sensitive to stress. You may worry a lot, take criticism to heart or find that your mood shifts quickly. This sensitivity often goes with empathy and a sharp eye for risks. The downside is that tension can build up and drain you. Tip: practise calming routines such as slow breathing, journaling or a daily walk. If worry or low mood starts to dominate your days, consider talking to a qualified professional."
     }
   },
-  "summary": "Your personality is described on five broad traits, each scored from 0 to 100 %. There are no good or bad scores: every position has its own strengths and pitfalls. Your results reflect how you see yourself today and are meant for self-reflection, not as a diagnosis."
+  "summary": "Your personality is described on five broad traits, each scored from 0 to 100 %. There are no good or bad scores: every position has its own strengths and pitfalls. Your results reflect how you see yourself today and are meant for self-reflection, not as a diagnosis.",
+  "guide": {
+    "title": "How to read your personality test result",
+    "paragraphs": [
+      "The test scores you on five broad traits that come back in almost every serious model of personality: openness, conscientiousness, extraversion, agreeableness and emotional sensitivity (in research this last one is called neuroticism). Each trait gets a score from 0 to 100 percent. Below 35 counts as low, 35 to 65 as middle and above 65 as high. Unlike tests that put you in one of sixteen boxes, the Big Five describes you on a sliding scale, which is closer to how people actually differ. Most people land somewhere in the middle on at least two traits.",
+      "The real information is in how your traits combine. Take two people who both score high on extraversion. One also scores high on agreeableness: the friend who organises the birthday dinner and makes sure the quietest guest gets a word in. The other scores low on agreeableness: just as talkative, but more likely to push an idea through in a meeting and enjoy a proper argument. Or take high conscientiousness. With low emotional sensitivity it looks like calm planning. With high emotional sensitivity it can mean sending an email at four, checking it three times for mistakes and still thinking about it in bed.",
+      "No score is good or bad on its own. Low openness often means practical and steady, the person you want around when a plan actually has to happen. Low extraversion is not the same as shy. It means social time costs energy and a quiet evening fills the tank again. High emotional sensitivity is the score people worry about most. It means you notice pressure and setbacks sooner and feel them more strongly. That can be tiring, but it often comes with a good sense for when something is off in a group.",
+      "Use your result on one concrete situation rather than as a label. If you score low on conscientiousness, stop blaming your willpower and build structure from the outside: one calendar, reminders on your phone and a first step of five minutes. If you score high on agreeableness and keep saying yes to things you do not want, practise one small no this week. Then ask someone who knows you well how they would rate you on the five traits. The places where your two pictures differ are usually the most interesting part.",
+      "Know what this test can and cannot tell you. The Big Five is the most researched model in personality psychology, and the five traits show up across many languages and cultures. This version is a short self report: it shows how you see yourself today, and your scores come from your own answers, not from a comparison with a large norm group. A rough week can push up your emotional sensitivity score, so answer for how you usually are. It is not a diagnosis and it is not meant for selecting job candidates. Right after the test you see your strongest trait for free; the full report gives all five scores with an explanation. If you want more detail, the Big Five (OCEAN) test splits each trait into two aspects."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Is this personality test free?",
+      "a": "Yes. Taking the test is free and you do not need an account. When you finish you see your strongest trait with a short description straight away. The full report with all five scores, what they mean together and practical tips is a paid extra, and you only decide on that after you have seen your first result."
+    },
+    {
+      "q": "Is this a scientifically valid personality test?",
+      "a": "The Big Five model itself has more research behind it than any other model of personality. This short online version is built on that model, but it is not an officially validated psychological instrument like the questionnaires psychologists use in an assessment. Treat it as a solid starting point for self reflection, not as a professional evaluation."
+    },
+    {
+      "q": "How is this different from a 16 personality types test?",
+      "a": "Type tests, such as those based on MBTI, sort you into one of sixteen categories. The Big Five gives you a score on five scales, so two people with the same type can still differ a lot. If you enjoy types, our 16 types test is a fun comparison, but the Big Five describes you more precisely."
+    },
+    {
+      "q": "Can my personality test result change?",
+      "a": "A little. In adults personality traits are fairly stable, but they shift slowly over the years. Many people become somewhat more conscientious and agreeable and somewhat less emotionally sensitive as they get older. Your mood on the day plays a part too. Take the test again after six months or a year for a fair comparison."
+    }
+  ]
 }

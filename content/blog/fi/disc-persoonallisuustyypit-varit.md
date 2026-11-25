@@ -128,7 +128,7 @@ DISC on kätevä kieli erojen puhumiseen. Se antaa tiimeille sanat asioille, jot
 
 **Se perustuu itsearviointiin.** Vastaat kysymyksiin itsestäsi, joten tulos näyttää, miten näet itsesi sinä päivänä ja siinä tilanteessa. Jos kysyt kollegalta, miten hän näkee sinut, kuva voi olla toinen.
 
-**Sillä on vähemmän tieteellistä tukea kuin Big Fivella.** Suurin osa persoonallisuustutkimuksesta käyttää Big Five -mallia, jossa on viisi laajaa piirrettä. DISC on lähinnä koulutus- ja valmennusmaailman käytännön työkalu, eikä monia kaupallisia versioita ole koskaan testattu riippumattomasti. Jos haluat laajemman ja paremmin perustellun kuvan persoonallisuudestasi, [Big Five -testimme](/fi/big-five) on vahvempi valinta.
+**Sillä on vähemmän tieteellistä tukea kuin Big Fivella.** Suurin osa persoonallisuustutkimuksesta käyttää Big Five -mallia, jossa on viisi laajaa piirrettä. DISC on lähinnä koulutus- ja valmennusmaailman käytännön työkalu, eikä monia kaupallisia versioita ole koskaan testattu riippumattomasti. Jos haluat laajemman ja paremmin perustellun kuvan persoonallisuudestasi, [Big Five -testimme](/fi/big-five) on vahvempi valinta. Jos haluat aloittaa kevyemmin, ilmainen [persoonallisuustestimme](/fi/personality) antaa sinulle noin viidessä minuutissa Big Five -profiilin viidestä pääpiirteestä.
 
 **Se ei ole lokero.** "Olen vain punainen" ei ole syy jyrätä muita, eikä "hän on sininen, hän on aina hankala" ole reilu kuvaus kollegasta. Värit kuvaavat mieltymystä, eivät pysyvää identiteettiä.
 

@@ -1,9 +1,9 @@
 {
   "name": "Test osobnosti",
   "tagline": "Objavte päť základných čŕt, ktoré formujú to, kým ste.",
-  "intro": "Tento test mapuje vašu osobnosť v piatich širokých črtách, ktoré psychológovia používajú najčastejšie: otvorenosť, svedomitosť, extraverzia, prívetivosť a citová citlivosť. Ohodnoťte 100 krátkych tvrdení podľa toho, nakoľko vás vystihujú. Zaberie vám to asi päť minút a ukáže, ako prirodzene myslíte, cítite a vychádzate s ostatnými.",
-  "seoTitle": "Test osobnosti: bezplatný profil čŕt Big Five",
-  "seoDescription": "Bezplatný 5-minútový test osobnosti podľa Big Five: získajte jasný profil svojej otvorenosti, svedomitosti, spoločenskosti, prívetivosti a citlivosti.",
+  "intro": "Tento test osobnosti zadarmo vás opíše v piatich črtách Veľkej päťky (Big Five), s ktorými psychológovia pracujú najčastejšie: otvorenosť, svedomitosť, extraverzia, prívetivosť a citová citlivosť. Ohodnoťte 100 krátkych tvrdení podľa toho, nakoľko vás vystihujú. Zaberie to asi päť minút, nepotrebujete registráciu a svoju najsilnejšiu črtu uvidíte hneď po dokončení.",
+  "seoTitle": "Test osobnosti zadarmo: Veľká päťka (Big Five)",
+  "seoDescription": "Test osobnosti zadarmo a bez registrácie: 100 krátkych tvrdení, asi 5 minút. Profil Veľkej päťky, najsilnejšia črta hneď po teste a jasné vysvetlenie.",
   "items": [
     "Milujem objavovať nové myšlienky, aj tie nezvyčajné.",
     "Svoje veci udržiavam úhľadné a v poriadku.",
@@ -143,5 +143,33 @@
       "high": "Emócie prežívate intenzívne a ste citliví na stres. Možno sa veľa trápite, beriete si kritiku k srdcu alebo zisťujete, že sa vaša nálada rýchlo mení. Táto citlivosť často ide ruka v ruke s empatiou a bystrým zrakom pre riziká. Nevýhodou je, že napätie sa môže hromadiť a vyčerpávať vás. Tip: precvičujte si upokojujúce rutiny, ako pomalé dýchanie, písanie denníka alebo každodennú prechádzku. Ak obavy alebo skleslá nálada začnú ovládať vaše dni, zvážte rozhovor s kvalifikovaným odborníkom."
     }
   },
-  "summary": "Vaša osobnosť je opísaná piatimi širokými črtami, z ktorých každá má skóre od 0 do 100 %. Neexistujú dobré ani zlé skóre: každá pozícia má svoje silné stránky aj úskalia. Vaše výsledky odrážajú, ako sa dnes vnímate, a slúžia na sebareflexiu, nie ako diagnóza."
+  "summary": "Vaša osobnosť je opísaná piatimi širokými črtami, z ktorých každá má skóre od 0 do 100 %. Neexistujú dobré ani zlé skóre: každá pozícia má svoje silné stránky aj úskalia. Vaše výsledky odrážajú, ako sa dnes vnímate, a slúžia na sebareflexiu, nie ako diagnóza.",
+  "guide": {
+    "title": "Ako čítať výsledok testu osobnosti",
+    "paragraphs": [
+      "Test vám dá skóre v piatich širokých črtách, ktoré sa objavujú takmer vo všetkých seriózných modeloch osobnosti. Psychológovia im hovoria Veľká päťka (Big Five): otvorenosť, svedomitosť, extraverzia, prívetivosť a citová citlivosť, ktorú výskum nazýva neuroticizmus. Každá črta dostane skóre od 0 do 100 percent. Pod 35 sa počíta ako nízke, medzi 35 a 65 ako stredné a nad 65 ako vysoké. Na rozdiel od testov, ktoré vás zaradia do jednej zo šestnástich škatuliek, vás Veľká päťka opisuje na plynulej škále. To lepšie zodpovedá tomu, ako sa ľudia naozaj líšia. Väčšina ľudí má aspoň v dvoch črtách stredné skóre.",
+      "Najviac vám povie kombinácia čŕt. Zoberte si dvoch ľudí, ktorí majú obaja vysokú extraverziu. Jeden má zároveň vysokú prívetivosť: je to kamarátka, ktorá zorganizuje oslavu narodenín a postará sa, aby sa k slovu dostal aj ten najtichší hosť. Druhý má prívetivosť nízku: rozpráva rovnako rád, ale skôr na porade presadí svoj nápad a užije si poriadnu debatu. Alebo vysoká svedomitosť. S nízkou citovou citlivosťou vyzerá ako pokojné plánovanie. S vysokou citlivosťou to môže znamenať, že o štvrtej popoludní odošlete e-mail, trikrát ho po sebe kontrolujete a večer v posteli naň stále myslíte.",
+      "Žiadne skóre nie je samo osebe dobré ani zlé. Nízka otvorenosť často znamená praktickosť a stálosť: človeka, ktorého chcete mať pri sebe, keď sa plán musí naozaj dotiahnuť. Nízka extraverzia neznamená hanblivosť. Znamená, že vás spoločnosť stojí energiu a pokojný večer vás zase nabije. Najčastejšie si ľudia robia starosti pre vysokú citovú citlivosť. Znamená, že stres a neúspechy zachytíte skôr a cítite ich silnejšie. Môže to byť vyčerpávajúce, ale často to ide ruka v ruke s dobrým citom pre to, keď v skupine niečo nesedí.",
+      "Použite výsledok na jednu konkrétnu situáciu, nie ako nálepku. Ak máte nízku svedomitosť, prestaňte to zvaľovať na slabú vôľu a pomôžte si štruktúrou zvonku: jeden kalendár, pripomienky v telefóne a prvý krok na päť minút. Ak máte vysokú prívetivosť a stále prikývnete na veci, ktoré vlastne nechcete, skúste tento týždeň raz povedať malé nie. A opýtajte sa niekoho, kto vás dobre pozná, ako by vás v piatich črtách ohodnotil on. Tam, kde sa vaše pohľady líšia, to začína byť naozaj zaujímavé.",
+      "Je dobré vedieť, čo test hovorí a čo nie. Veľká päťka je najlepšie preskúmaný model v psychológii osobnosti a jej päť čŕt sa objavuje v mnohých jazykoch a kultúrach. Táto verzia je krátky sebaposudzovací dotazník: ukazuje, ako sa vidíte teraz, a vaše skóre vychádza z vašich vlastných odpovedí, nie z porovnania s veľkou normatívnou skupinou. Náročný týždeň môže zvýšiť skóre citovej citlivosti, preto odpovedajte podľa toho, akí ste zvyčajne. Nejde o diagnózu a test nie je určený na výber uchádzačov o prácu. Hneď po teste zadarmo uvidíte svoju najsilnejšiu črtu; úplný report obsahuje všetkých päť skóre s vysvetlením. Ak chcete viac podrobností, test Big Five (OCEAN) rozdeľuje každú črtu na dva aspekty."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Je test osobnosti naozaj zadarmo?",
+      "a": "Áno. Vyplniť test je zadarmo a nepotrebujete účet. Po dokončení hneď uvidíte svoju najsilnejšiu črtu s krátkym popisom. Úplný report so všetkými piatimi skóre, s tým, čo znamenajú spolu, a s praktickými tipmi je platený doplnok. O ňom sa rozhodnete až potom, ako uvidíte prvý výsledok."
+    },
+    {
+      "q": "Čo je Veľká päťka?",
+      "a": "Veľká päťka alebo Big Five je model, ktorý opisuje osobnosť piatimi širokými črtami: otvorenosťou, svedomitosťou, extraverziou, prívetivosťou a citovou citlivosťou. Vznikol z výskumu slov, ktorými ľudia v bežnej reči opisujú druhých, a dnes s ním pracuje väčšina výskumu osobnosti. Tento test na ňom stojí, ale nie je to oficiálny psychologický nástroj na odborné vyšetrenie."
+    },
+    {
+      "q": "Aký je rozdiel oproti testu 16 typov osobnosti?",
+      "a": "Typové testy, napríklad tie založené na MBTI, vás zaradia do jednej zo šestnástich kategórií. Veľká päťka vám dá skóre na piatich škálach, takže dvaja ľudia s rovnakým typom sa môžu aj tak dosť líšiť. Ak vás typy bavia, náš test 16 typov je zaujímavé porovnanie, ale Veľká päťka vás opíše presnejšie."
+    },
+    {
+      "q": "Môže sa môj výsledok zmeniť?",
+      "a": "Trochu. U dospelých sú osobnostné črty pomerne stále, ale s rokmi sa pomaly posúvajú. Veľa ľudí s vekom trochu pridá na svedomitosti a prívetivosti a trochu uberie na citovej citlivosti. Úlohu hrá aj nálada v deň testu. Pre férové porovnanie si test zopakujte po pol roku alebo po roku."
+    }
+  ]
 }

@@ -157,6 +157,8 @@ That is useful because "I'm a people pleaser" is quite vague. Someone who mainly
 
 What the test does not do: it does not give a diagnosis, and it does not know the context of your life. If you care for a sick parent or are afraid of losing your job, saying yes more often can be a reasonable choice rather than a pattern. Your score is also a snapshot. In a stressful period it can be higher than usual.
 
+Many people pleasers also score high on agreeableness, one of the Big Five traits. If you are curious where you stand on that and the other four, the free [personality test](/en/personality) shows your profile.
+
 People pleasing is not a disorder. But if the constant giving leaves you exhausted, or if fear of other people's reactions keeps you from living the way you want, it can help to talk to your doctor or a psychologist. Assertiveness can be learned, and you do not have to learn it alone.
 
 You do not need to become someone who says no to everything. The goal is that your yes and your no are both real. Start this week with one small no, and see what actually happens.

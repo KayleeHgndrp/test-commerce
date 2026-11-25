@@ -128,7 +128,7 @@ DISC je praktický jazyk na rozhovor o rozdieloch. Dáva tímom slová pre veci,
 
 **Stojí na sebahodnotení.** Odpovedáš na otázky o sebe, takže výsledok ukazuje, ako vidíš sám seba v ten deň a v tej situácii. Keď sa opýtaš kolegu, ako ťa vníma on, obraz môže vyzerať inak.
 
-**Má slabšiu vedeckú oporu ako Big Five.** Väčšina výskumu osobnosti pracuje s modelom Big Five, ktorý má päť širokých čŕt. DISC je hlavne praktický nástroj zo sveta školení a koučingu a mnohé komerčné verzie nikdy neboli nezávisle overené. Ak chceš širší a lepšie podložený obraz svojej osobnosti, náš [test Big Five](/sk/big-five) je silnejšia voľba.
+**Má slabšiu vedeckú oporu ako Big Five.** Väčšina výskumu osobnosti pracuje s modelom Big Five, ktorý má päť širokých čŕt. DISC je hlavne praktický nástroj zo sveta školení a koučingu a mnohé komerčné verzie nikdy neboli nezávisle overené. Ak chceš širší a lepšie podložený obraz svojej osobnosti, náš [test Big Five](/sk/big-five) je silnejšia voľba. Chceš začať jednoduchšie? Náš bezplatný [test osobnosti](/sk/personality) ti zhruba za päť minút ukáže profil v piatich hlavných črtách Veľkej päťky.
 
 **Nie je to škatuľka.** „Ja som proste červený“ nie je ospravedlnenie na to, aby si prevalcoval ostatných, a „ona je modrá, s ňou sú vždy problémy“ nie je férový opis kolegyne. Farby opisujú preferenciu, nie pevnú identitu.
 

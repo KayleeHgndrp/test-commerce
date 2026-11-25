@@ -128,7 +128,7 @@ DISC is een handige taal om over verschillen te praten. Het geeft teams woorden 
 
 **Je vult het zelf in.** Je beantwoordt vragen over jezelf, dus de uitslag laat zien hoe jij jezelf ziet op die dag en in die situatie. Vraag een collega hoe die jou ziet en het beeld kan anders uitvallen.
 
-**Er is minder wetenschappelijk bewijs voor dan voor de Big Five.** Het meeste persoonlijkheidsonderzoek gebruikt de Big Five, een model met vijf brede trekken. DISC is vooral een praktisch hulpmiddel uit de wereld van trainingen en coaching. Veel commerciële versies zijn nooit onafhankelijk getoetst. Wil je een breder en beter onderbouwd beeld van je persoonlijkheid, dan is de [Big Five](/nl/blog/big-five-uitgelegd) de sterkere keuze. Je kunt ook onze [Big Five-test](/nl/big-five) doen.
+**Er is minder wetenschappelijk bewijs voor dan voor de Big Five.** Het meeste persoonlijkheidsonderzoek gebruikt de Big Five, een model met vijf brede trekken. DISC is vooral een praktisch hulpmiddel uit de wereld van trainingen en coaching. Veel commerciële versies zijn nooit onafhankelijk getoetst. Wil je een breder en beter onderbouwd beeld van je persoonlijkheid, dan is de [Big Five](/nl/blog/big-five-uitgelegd) de sterkere keuze. Je kunt ook onze [Big Five-test](/nl/big-five) doen. Wil je liever eerst een kortere versie? Onze gratis [persoonlijkheidstest](/nl/personality) geeft je in ongeveer vijf minuten een Big Five-profiel op de vijf hoofdkenmerken.
 
 **Het is geen hokje.** "Ik ben nu eenmaal rood" is geen excuus om over mensen heen te walsen, en "zij is blauw, zij doet altijd moeilijk" is geen eerlijke beschrijving van een collega. De kleuren beschrijven een voorkeur, geen vaste identiteit.
 
