@@ -1,9 +1,9 @@
 {
   "name": "Persoonlijkheidstest",
   "tagline": "Ontdek de vijf kerneigenschappen die bepalen wie je bent.",
-  "intro": "Deze test brengt je persoonlijkheid in kaart op de vijf brede eigenschappen die psychologen het meest gebruiken: openheid, consciëntieusheid, extraversie, vriendelijkheid en emotionele gevoeligheid. Geef bij 100 korte uitspraken aan hoe goed ze bij je passen. Het kost ongeveer vijf minuten en laat zien hoe je van nature denkt, voelt en met anderen omgaat.",
-  "seoTitle": "Persoonlijkheidstest: Gratis Big Five-profiel",
-  "seoDescription": "Gratis persoonlijkheidstest van 5 minuten op basis van de Big Five: een helder profiel van je openheid, gedrevenheid, sociabiliteit, warmte en gevoeligheid.",
+  "intro": "Deze gratis persoonlijkheidstest brengt je in kaart op de Big Five, de vijf eigenschappen die psychologen het meest gebruiken: openheid, consciëntieusheid, extraversie, vriendelijkheid en emotionele gevoeligheid. Geef bij 100 korte uitspraken aan hoe goed ze bij je passen. Het kost ongeveer vijf minuten, je hebt geen account nodig en je ziet meteen na afloop je sterkste eigenschap.",
+  "seoTitle": "Persoonlijkheidstest gratis: korte Big Five-test",
+  "seoDescription": "Gratis Big Five persoonlijkheidstest: 100 korte uitspraken, ongeveer 5 minuten, zonder account. Zie direct je sterkste eigenschap en wat je profiel zegt.",
   "items": [
     "Ik verken graag nieuwe ideeën, ook ongewone.",
     "Ik houd mijn spullen netjes en op orde.",
@@ -143,5 +143,33 @@
       "high": "Je voelt emoties intens en bent gevoelig voor stress. Misschien pieker je veel, trek je je kritiek erg aan of merk je dat je stemming snel wisselt. Die gevoeligheid gaat vaak samen met empathie en een scherp oog voor risico's. De keerzijde is dat spanning zich kan opstapelen en je uitput. Tip: oefen met kalmerende routines zoals rustig ademhalen, een dagboek bijhouden of een dagelijkse wandeling. Gaan zorgen of somberheid je dagen beheersen, overweeg dan om met een gekwalificeerde professional te praten."
     }
   },
-  "summary": "Je persoonlijkheid wordt beschreven aan de hand van vijf brede eigenschappen, elk gescoord van 0 tot 100 %. Er zijn geen goede of slechte scores: elke positie heeft haar eigen sterke kanten en valkuilen. Je uitkomsten weerspiegelen hoe je jezelf vandaag ziet en zijn bedoeld voor zelfreflectie, niet als diagnose."
+  "summary": "Je persoonlijkheid wordt beschreven aan de hand van vijf brede eigenschappen, elk gescoord van 0 tot 100 %. Er zijn geen goede of slechte scores: elke positie heeft haar eigen sterke kanten en valkuilen. Je uitkomsten weerspiegelen hoe je jezelf vandaag ziet en zijn bedoeld voor zelfreflectie, niet als diagnose.",
+  "guide": {
+    "title": "Zo lees je de uitslag van je persoonlijkheidstest",
+    "paragraphs": [
+      "De test geeft je een score op vijf brede eigenschappen die in bijna elk serieus persoonlijkheidsmodel terugkomen: openheid, consciëntieusheid, extraversie, vriendelijkheid en emotionele gevoeligheid (in onderzoek heet die laatste neuroticisme). Elke eigenschap krijgt een score van 0 tot 100 procent. Onder de 35 telt als laag, tussen 35 en 65 als gemiddeld en boven de 65 als hoog. Anders dan tests die je in een van zestien hokjes stoppen, beschrijft de Big Five je op een glijdende schaal. Dat past beter bij hoe mensen echt van elkaar verschillen. De meeste mensen zitten op minstens twee eigenschappen ergens in het midden.",
+      "De echte informatie zit in de combinatie. Neem twee mensen die allebei hoog scoren op extraversie. De een scoort ook hoog op vriendelijkheid: dat is de vriendin die het verjaardagsetentje regelt en zorgt dat de stilste gast ook aan het woord komt. De ander scoort laag op vriendelijkheid: net zo spraakzaam, maar eerder degene die in een vergadering een idee doordrukt en van een stevige discussie geniet. Of neem een hoge consciëntieusheid. Met een lage emotionele gevoeligheid ziet dat eruit als rustig plannen. Met een hoge emotionele gevoeligheid kan het betekenen dat je om vier uur een mail verstuurt, hem drie keer nakijkt op fouten en er 's avonds in bed nog over ligt te malen.",
+      "Geen enkele score is op zichzelf goed of slecht. Lage openheid betekent vaak praktisch en standvastig: de persoon die je erbij wilt hebben als een plan ook echt uitgevoerd moet worden. Lage extraversie is niet hetzelfde als verlegen. Het betekent dat sociaal contact je energie kost en dat een rustige avond je weer oplaadt. Over een hoge emotionele gevoeligheid maken mensen zich het vaakst zorgen. Het betekent dat je spanning en tegenslag eerder opmerkt en sterker voelt. Dat kan vermoeiend zijn, maar het gaat vaak samen met een goed gevoel voor wanneer er in een groep iets niet klopt.",
+      "Gebruik je uitslag bij één concrete situatie in plaats van als label. Scoor je laag op consciëntieusheid, verwijt jezelf dan geen gebrek aan wilskracht maar zorg voor structuur van buitenaf: één agenda, herinneringen op je telefoon en een eerste stap van vijf minuten. Scoor je hoog op vriendelijkheid en zeg je steeds ja tegen dingen die je eigenlijk niet wilt, oefen dan deze week één keer met een kleine nee. En vraag iemand die je goed kent hoe die jou op de vijf eigenschappen zou inschatten. Waar jullie beelden verschillen, wordt het meestal pas echt interessant.",
+      "Weet wat de test wel en niet zegt. De Big Five is het best onderzochte model in de persoonlijkheidspsychologie, en de vijf eigenschappen komen terug in veel talen en culturen. Deze versie is een korte zelfrapportage: hij laat zien hoe je jezelf nu ziet, en je scores komen uit je eigen antwoorden, niet uit een vergelijking met een grote normgroep. Een zware week kan je score op emotionele gevoeligheid omhoog duwen, dus antwoord vanuit hoe je meestal bent. Het is geen diagnose en niet bedoeld om sollicitanten te selecteren. Direct na de test zie je gratis je sterkste eigenschap; het volledige rapport geeft alle vijf scores met uitleg. Wil je meer detail, dan verdeelt de Big Five (OCEAN) test elke eigenschap in twee aspecten."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Is deze persoonlijkheidstest gratis?",
+      "a": "Ja. De test doen is gratis en je hebt geen account nodig. Na afloop zie je meteen je sterkste eigenschap met een korte uitleg. Het volledige rapport met alle vijf scores, wat ze samen betekenen en praktische tips is een betaalde aanvulling. Die keuze maak je pas als je je eerste uitslag hebt gezien."
+    },
+    {
+      "q": "Is dit een wetenschappelijk gevalideerde persoonlijkheidstest?",
+      "a": "Het Big Five-model zelf is het best onderbouwde model van persoonlijkheid. Deze korte online versie is op dat model gebaseerd, maar is geen officieel gevalideerd psychologisch instrument zoals de vragenlijsten die psychologen bij een onderzoek gebruiken. Zie hem als een goed startpunt voor zelfreflectie, niet als professionele beoordeling."
+    },
+    {
+      "q": "Wat is het verschil met een test van 16 persoonlijkheidstypes?",
+      "a": "Typetests, zoals die op basis van MBTI, delen je in bij een van zestien categorieën. De Big Five geeft je een score op vijf schalen, waardoor twee mensen met hetzelfde type toch flink kunnen verschillen. Vind je typen leuk, dan is onze 16 types-test een aardige vergelijking, maar de Big Five beschrijft je preciezer."
+    },
+    {
+      "q": "Kan de uitslag van mijn persoonlijkheidstest veranderen?",
+      "a": "Een beetje. Bij volwassenen zijn persoonlijkheidstrekken vrij stabiel, maar ze verschuiven langzaam over de jaren. Veel mensen worden met de leeftijd wat consciëntieuzer en vriendelijker en wat minder emotioneel gevoelig. Ook je stemming op de dag zelf speelt mee. Doe de test na een half jaar of een jaar opnieuw voor een eerlijke vergelijking."
+    }
+  ]
 }

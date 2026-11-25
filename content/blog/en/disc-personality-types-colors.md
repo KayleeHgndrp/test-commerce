@@ -128,7 +128,7 @@ DISC is a handy language for talking about differences. It gives teams words for
 
 **It is based on self-report.** You answer questions about yourself, so the result shows how you see yourself on that day and in that setting. Ask a colleague how they see you and the picture may differ.
 
-**It has less scientific support than the Big Five.** Most personality research uses the Big Five model, which measures five broad traits. DISC is mainly a practical tool from the world of training and coaching. Many commercial versions have not been independently tested. If you want a broader and better researched picture of your personality, the [Big Five](/en/blog/big-five-explained) is the stronger choice. You can also take our [Big Five test](/en/big-five).
+**It has less scientific support than the Big Five.** Most personality research uses the Big Five model, which measures five broad traits. DISC is mainly a practical tool from the world of training and coaching. Many commercial versions have not been independently tested. If you want a broader and better researched picture of your personality, the [Big Five](/en/blog/big-five-explained) is the stronger choice. You can also take our [Big Five test](/en/big-five). Prefer a shorter start? Our free [personality test](/en/personality) gives you a Big Five profile on the five main traits in about five minutes.
 
 **It is not a box.** "I am just red" is not an excuse to steamroll people, and "she is blue, she is always difficult" is not a fair description of a colleague. The colours describe a preference, not a fixed identity.
 

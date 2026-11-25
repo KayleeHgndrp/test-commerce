@@ -157,6 +157,8 @@ Det er nyttigt, fordi "jeg er en pleaser" er ret vagt. Den, der mest undgår kon
 
 Hvad testen ikke gør: den stiller ingen diagnose og kender ikke sammenhængen i dit liv. Passer du en syg forælder eller er bange for at miste dit job, kan det være et fornuftigt valg at sige ja oftere i stedet for et mønster. Din score er også et øjebliksbillede. I en stresset periode kan den være højere end normalt.
 
+Mange pleasere scorer også højt på venlighed, et af de fem Big Five-træk. Er du nysgerrig efter, hvor du ligger på det og de fire andre, viser den gratis [personlighedstest](/da/personality) din profil.
+
 At være pleaser er ikke en lidelse. Men hvis al den given gør dig udmattet, eller hvis frygten for andres reaktioner holder dig fra at leve, som du gerne vil, kan det hjælpe at tale med din læge eller en psykolog. Man kan lære at stå ved sig selv, og du behøver ikke gøre det alene.
 
 Du behøver ikke blive en, der siger nej til alt. Målet er, at både dit ja og dit nej er ægte. Start denne uge med et lille nej, og se, hvad der faktisk sker.

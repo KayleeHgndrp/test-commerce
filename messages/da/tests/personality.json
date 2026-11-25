@@ -1,9 +1,9 @@
 {
   "name": "Personlighedstest",
   "tagline": "Find de fem grundtræk, der former den, du er.",
-  "intro": "Denne test kortlægger din personlighed ud fra de fem brede træk, som psykologer bruger mest: åbenhed, samvittighedsfuldhed, ekstroversion, venlighed og følelsesmæssig sensitivitet. Vurder 100 korte udsagn ud fra, hvor godt de beskriver dig. Det tager omkring fem minutter og viser, hvordan du naturligt tænker, føler og forholder dig til andre.",
-  "seoTitle": "Personlighedstest: Gratis Big Five-profil",
-  "seoDescription": "Tag den gratis personlighedstest på 5 minutter baseret på Big Five, og få en klar profil af din åbenhed, drivkraft, selskabelighed, varme og sensitivitet.",
+  "intro": "Denne gratis personlighedstest kortlægger dig ud fra Big Five, de fem træk psykologer bruger mest: åbenhed, samvittighedsfuldhed, ekstroversion, venlighed og følelsesmæssig sensitivitet. Vurder 100 korte udsagn ud fra, hvor godt de passer på dig. Det tager omkring fem minutter, du skal ikke oprette en konto, og du ser dit stærkeste træk, så snart du er færdig.",
+  "seoTitle": "Gratis personlighedstest: Big Five på 5 minutter",
+  "seoDescription": "Tag en gratis personlighedstest på 5 minutter uden login. Få en Big Five-profil på fem træk, se dit stærkeste træk med det samme og forstå dit resultat.",
   "items": [
     "Jeg elsker at udforske nye idéer, også usædvanlige.",
     "Jeg holder mine ting pæne og ordentlige.",
@@ -143,5 +143,33 @@
       "high": "Du føler intenst og er følsom over for stress. Du bekymrer dig måske meget, tager kritik nær dig eller oplever, at dit humør skifter hurtigt. Den sensitivitet går ofte hånd i hånd med empati og et skarpt blik for risici. Bagsiden er, at spændinger kan hobe sig op og dræne dig. Tip: Øv dig i beroligende rutiner som langsom vejrtrækning, dagbogsskrivning eller en daglig gåtur. Hvis bekymringer eller nedtrykthed begynder at dominere dine dage, så overvej at tale med en kvalificeret fagperson."
     }
   },
-  "summary": "Din personlighed beskrives ud fra fem brede træk, der hver får en score fra 0 til 100 %. Der findes ingen gode eller dårlige scorer: Hver placering har sine egne styrker og faldgruber. Dine resultater afspejler, hvordan du ser dig selv i dag, og er beregnet til selvrefleksion, ikke som en diagnose."
+  "summary": "Din personlighed beskrives ud fra fem brede træk, der hver får en score fra 0 til 100 %. Der findes ingen gode eller dårlige scorer: Hver placering har sine egne styrker og faldgruber. Dine resultater afspejler, hvordan du ser dig selv i dag, og er beregnet til selvrefleksion, ikke som en diagnose.",
+  "guide": {
+    "title": "Sådan læser du resultatet af din personlighedstest",
+    "paragraphs": [
+      "Testen giver dig en score på fem brede træk, som går igen i næsten alle seriøse modeller af personlighed: åbenhed, samvittighedsfuldhed, ekstroversion, venlighed og følelsesmæssig sensitivitet (i forskningen kaldes det sidste neuroticisme). Hvert træk får en score fra 0 til 100 procent. Under 35 regnes som lavt, mellem 35 og 65 som middel og over 65 som højt. I modsætning til test, der sætter dig i én af seksten kasser, beskriver Big Five dig på en glidende skala. Det passer bedre til, hvordan mennesker faktisk er forskellige. De fleste ligger et sted i midten på mindst to af trækkene.",
+      "Den egentlige information ligger i kombinationen. Tag to personer, der begge scorer højt på ekstroversion. Den ene scorer også højt på venlighed: det er veninden, der arrangerer fødselsdagsmiddagen og sørger for, at den stilleste gæst også kommer til orde. Den anden scorer lavt på venlighed: lige så snakkesalig, men mere tilbøjelig til at presse en idé igennem på et møde og nyde en ordentlig diskussion. Eller tag høj samvittighedsfuldhed. Sammen med lav følelsesmæssig sensitivitet ligner det rolig planlægning. Sammen med høj sensitivitet kan det betyde, at du sender en mail klokken fire, tjekker den for fejl tre gange og stadig tænker på den, når du ligger i sengen.",
+      "Ingen score er god eller dårlig i sig selv. Lav åbenhed betyder ofte praktisk og stabil: den person, du gerne vil have med, når en plan rent faktisk skal gennemføres. Lav ekstroversion er ikke det samme som at være genert. Det betyder, at socialt samvær koster energi, og at en stille aften lader dig op igen. Høj følelsesmæssig sensitivitet er den score, folk oftest bekymrer sig om. Den betyder, at du opdager pres og modgang tidligere og mærker det stærkere. Det kan være drænende, men det følger ofte med en god fornemmelse for, hvornår noget er galt i en gruppe.",
+      "Brug dit resultat på én konkret situation i stedet for som en etiket. Scorer du lavt på samvittighedsfuldhed, så hold op med at give din viljestyrke skylden, og skab struktur udefra: én kalender, påmindelser på telefonen og et første skridt på fem minutter. Scorer du højt på venlighed og siger ja til ting, du egentlig ikke har lyst til, så øv dig i et lille nej én gang i denne uge. Spørg også en, der kender dig godt, hvordan vedkommende ville vurdere dig på de fem træk. Der, hvor jeres billeder er forskellige, bliver det for alvor interessant.",
+      "Vid, hvad testen kan og ikke kan. Big Five er den mest udforskede model i personlighedspsykologien, og de fem træk går igen på tværs af mange sprog og kulturer. Denne udgave er en kort selvrapportering: den viser, hvordan du ser dig selv lige nu, og dine scorer bygger på dine egne svar, ikke på en sammenligning med en stor normgruppe. En hård uge kan trække din score på følelsesmæssig sensitivitet op, så svar ud fra, hvordan du plejer at være. Testen er ikke en diagnose og egner sig ikke til at udvælge jobansøgere. Lige efter testen ser du gratis dit stærkeste træk; den fulde rapport giver alle fem scorer med forklaring. Vil du have flere detaljer, deler Big Five-testen (OCEAN) hvert træk op i to aspekter."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Er personlighedstesten gratis?",
+      "a": "Ja. Det er gratis at tage testen, og du behøver ikke at oprette en konto. Når du er færdig, ser du med det samme dit stærkeste træk med en kort forklaring. Den fulde rapport med alle fem scorer, hvad de betyder sammen, og praktiske råd koster ekstra, og det beslutter du først, når du har set dit første resultat."
+    },
+    {
+      "q": "Hvad er forskellen på denne test og farvetest med rød, gul, grøn og blå?",
+      "a": "Farvetest bygger typisk på DISC eller lignende modeller og beskriver mest, hvordan du opfører dig på arbejdet og i samarbejde. Big Five måler fem brede træk i hele dit liv og har langt mere forskning bag sig. Vil du gerne kende din farve, kan du tage vores DISC-test bagefter og sammenligne de to resultater."
+    },
+    {
+      "q": "Er det en videnskabeligt valideret personlighedstest?",
+      "a": "Selve Big Five-modellen er den bedst underbyggede model af personlighed. Denne korte onlineudgave bygger på modellen, men den er ikke et officielt valideret psykologisk instrument som dem, psykologer bruger i en udredning. Brug den som et solidt udgangspunkt for selvindsigt, ikke som en professionel vurdering."
+    },
+    {
+      "q": "Kan mit resultat ændre sig?",
+      "a": "Lidt. Hos voksne er personlighedstræk ret stabile, men de flytter sig langsomt med årene. Mange bliver med alderen en smule mere samvittighedsfulde og venlige og lidt mindre følelsesmæssigt sensitive. Dit humør på dagen spiller også ind. Tag testen igen efter et halvt eller et helt år, hvis du vil have en fair sammenligning."
+    }
+  ]
 }

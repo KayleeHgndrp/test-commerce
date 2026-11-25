@@ -157,6 +157,8 @@ Dat is handig, omdat "ik ben een pleaser" nogal vaag is. Iemand die vooral confl
 
 Wat de test niet doet: hij stelt geen diagnose en kent de context van je leven niet. Zorg je voor een zieke ouder of ben je bang je baan te verliezen, dan kan vaker ja zeggen een redelijke keuze zijn in plaats van een patroon. Je score is ook een momentopname. In een stressvolle periode kan hij hoger zijn dan normaal.
 
+Wie veel pleaset, scoort vaak ook hoog op vriendelijkheid, een van de vijf Big Five-kenmerken. Ben je benieuwd waar jij staat op die en de andere vier, dan laat de gratis [persoonlijkheidstest](/nl/personality) je profiel zien.
+
 Pleasen is geen stoornis. Maar maakt het eindeloze geven je uitgeput, of houdt angst voor de reactie van anderen je tegen om te leven zoals je wilt, dan kan het helpen om met je huisarts of een psycholoog te praten. Assertiviteit is te leren, en je hoeft het niet alleen te doen.
 
 Je hoeft niet iemand te worden die overal nee tegen zegt. Het doel is dat je ja en je nee allebei echt zijn. Begin deze week met één klein nee, en kijk wat er werkelijk gebeurt.

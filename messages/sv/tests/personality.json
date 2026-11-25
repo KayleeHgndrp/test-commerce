@@ -1,9 +1,9 @@
 {
   "name": "Personlighetstest",
   "tagline": "Upptäck de fem grunddrag som formar den du är.",
-  "intro": "Det här testet kartlägger din personlighet utifrån de fem breda drag som psykologer använder mest: öppenhet, samvetsgrannhet, extraversion, vänlighet och känslomässig känslighet. Ange hur väl 100 korta påståenden beskriver dig. Det tar ungefär fem minuter och visar hur du naturligt tänker, känner och förhåller dig till andra.",
-  "seoTitle": "Personlighetstest: Gratis Big Five-profil",
-  "seoDescription": "Gör det gratis 5-minuterstestet baserat på Big Five och få en tydlig profil av din öppenhet, drivkraft, sociala sida, värme och känslighet.",
+  "intro": "Det här gratis personlighetstestet kartlägger dig utifrån Big Five, de fem drag som psykologer använder mest: öppenhet, samvetsgrannhet, extraversion, vänlighet och känslomässig känslighet. Ange hur väl 100 korta påståenden stämmer in på dig. Det tar ungefär fem minuter, du behöver inget konto och du ser ditt starkaste drag så fort du är klar.",
+  "seoTitle": "Personlighetstest gratis: Big Five på 5 minuter",
+  "seoDescription": "Gör ett gratis personlighetstest på 5 minuter utan konto. Få en Big Five-profil på fem drag, se ditt starkaste drag direkt och förstå ditt resultat.",
   "items": [
     "Jag älskar att utforska nya idéer, även ovanliga.",
     "Jag håller mina saker prydliga och i ordning.",
@@ -143,5 +143,33 @@
       "high": "Du känner känslor intensivt och är känslig för stress. Du kanske oroar dig mycket, tar kritik personligt eller märker att ditt humör skiftar snabbt. Den känsligheten går ofta hand i hand med empati och ett skarpt öga för risker. Nackdelen är att spänningar kan byggas upp och dränera dig. Tips: öva på lugnande rutiner som långsam andning, att skriva dagbok eller en daglig promenad. Om oro eller nedstämdhet börjar dominera dina dagar, överväg att prata med en kvalificerad yrkesperson."
     }
   },
-  "summary": "Din personlighet beskrivs utifrån fem breda drag, vart och ett med ett resultat från 0 till 100 %. Det finns inga bra eller dåliga resultat: varje position har sina egna styrkor och fallgropar. Dina resultat speglar hur du ser på dig själv i dag och är avsedda för självreflektion, inte som en diagnos."
+  "summary": "Din personlighet beskrivs utifrån fem breda drag, vart och ett med ett resultat från 0 till 100 %. Det finns inga bra eller dåliga resultat: varje position har sina egna styrkor och fallgropar. Dina resultat speglar hur du ser på dig själv i dag och är avsedda för självreflektion, inte som en diagnos.",
+  "guide": {
+    "title": "Så läser du resultatet av ditt personlighetstest",
+    "paragraphs": [
+      "Testet ger dig ett värde på fem breda drag som återkommer i nästan alla seriösa modeller av personlighet: öppenhet, samvetsgrannhet, extraversion, vänlighet och känslomässig känslighet (i forskningen kallas det sista neuroticism). Varje drag får ett värde från 0 till 100 procent. Under 35 räknas som lågt, mellan 35 och 65 som medel och över 65 som högt. Till skillnad från test som placerar dig i en av sexton lådor beskriver Big Five dig på en glidande skala. Det stämmer bättre med hur människor faktiskt skiljer sig åt. De flesta hamnar någonstans i mitten på minst två av dragen.",
+      "Den verkliga informationen finns i kombinationen. Ta två personer som båda har högt på extraversion. Den ena har också högt på vänlighet: kompisen som ordnar födelsedagsmiddagen och ser till att den tystaste gästen också får komma till tals. Den andra har lågt på vänlighet: lika pratglad, men mer benägen att driva igenom en idé på ett möte och njuta av en ordentlig diskussion. Eller ta hög samvetsgrannhet. Tillsammans med låg känslomässig känslighet ser det ut som lugn planering. Tillsammans med hög känslighet kan det betyda att du skickar ett mejl klockan fyra, läser igenom det tre gånger efteråt och fortfarande tänker på det när du ligger i sängen.",
+      "Inget värde är bra eller dåligt i sig. Låg öppenhet betyder ofta praktisk och stabil: den person du vill ha med när en plan faktiskt ska genomföras. Låg extraversion är inte samma sak som blyg. Det betyder att socialt umgänge kostar energi och att en lugn kväll laddar dig igen. Hög känslomässig känslighet är det värde som folk oftast oroar sig för. Det betyder att du märker press och motgångar tidigare och känner dem starkare. Det kan vara tröttsamt, men det går ofta ihop med en god känsla för när något inte stämmer i en grupp.",
+      "Använd resultatet på en konkret situation i stället för som en etikett. Har du lågt på samvetsgrannhet, sluta skylla på viljestyrkan och skapa struktur utifrån: en kalender, påminnelser i mobilen och ett första steg på fem minuter. Har du högt på vänlighet och säger ja till saker du egentligen inte vill, öva på ett litet nej en gång den här veckan. Fråga också någon som känner dig väl hur hen skulle bedöma dig på de fem dragen. Där era bilder skiljer sig åt blir det riktigt intressant.",
+      "Vet vad testet kan och inte kan säga. Big Five är den mest utforskade modellen inom personlighetspsykologin, och de fem dragen återkommer i många språk och kulturer. Den här versionen är en kort självskattning: den visar hur du ser på dig själv just nu, och dina värden bygger på dina egna svar, inte på en jämförelse med en stor normgrupp. En tung vecka kan dra upp ditt värde på känslomässig känslighet, så svara utifrån hur du brukar vara. Det är ingen diagnos och passar inte för att välja ut jobbsökande. Direkt efter testet ser du gratis ditt starkaste drag; den fullständiga rapporten ger alla fem värden med förklaring. Vill du ha mer detaljer delar Big Five-testet (OCEAN) upp varje drag i två aspekter."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Är personlighetstestet gratis?",
+      "a": "Ja. Det är gratis att göra testet och du behöver inget konto. När du är klar ser du direkt ditt starkaste drag med en kort förklaring. Den fullständiga rapporten med alla fem värden, vad de betyder tillsammans och praktiska tips kostar extra, och det bestämmer du först när du har sett ditt första resultat."
+    },
+    {
+      "q": "Är det ett vetenskapligt personlighetstest?",
+      "a": "Femfaktormodellen, Big Five, är den bäst underbyggda modellen av personlighet. Den här korta onlineversionen bygger på modellen, men den är inte ett officiellt validerat psykologiskt instrument av det slag som psykologer använder i en utredning. Se den som en bra utgångspunkt för självinsikt, inte som en professionell bedömning."
+    },
+    {
+      "q": "Vad är skillnaden mot ett test med 16 personlighetstyper?",
+      "a": "Typtest, till exempel sådana som bygger på MBTI, delar in dig i en av sexton kategorier. Big Five ger dig ett värde på fem skalor, så två personer med samma typ kan ändå skilja sig mycket åt. Tycker du om typer är vårt test med 16 typer en kul jämförelse, men Big Five beskriver dig mer exakt."
+    },
+    {
+      "q": "Kan mitt resultat ändras?",
+      "a": "Lite. Hos vuxna är personlighetsdrag ganska stabila, men de förskjuts långsamt med åren. Många blir med åldern något mer samvetsgranna och vänliga och något mindre känslomässigt känsliga. Ditt humör just den dagen spelar också in. Gör om testet efter ett halvår eller ett år om du vill ha en rättvis jämförelse."
+    }
+  ]
 }

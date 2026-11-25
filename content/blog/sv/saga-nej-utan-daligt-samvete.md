@@ -157,6 +157,8 @@ Det är användbart eftersom "jag är en people pleaser" är ganska vagt. Den so
 
 Det testet inte gör: det ställer ingen diagnos och känner inte till sammanhanget i ditt liv. Tar du hand om en sjuk förälder eller är rädd att förlora jobbet kan det vara ett rimligt val att säga ja oftare, snarare än ett mönster. Ditt resultat är också en ögonblicksbild. Under en stressig period kan det bli högre än vanligt.
 
+Många som vill vara alla till lags har också ett högt värde på vänlighet, ett av de fem Big Five-dragen. Är du nyfiken på var du ligger där och på de fyra andra visar det gratis [personlighetstestet](/sv/personality) din profil.
+
 Att vilja vara alla till lags är ingen störning. Men om allt givande gör dig utmattad, eller om rädslan för andras reaktioner hindrar dig från att leva som du vill, kan det hjälpa att prata med vårdcentralen eller en psykolog. Självhävdelse går att lära sig, och du behöver inte göra det ensam.
 
 Du behöver inte bli någon som säger nej till allt. Målet är att både ditt ja och ditt nej är äkta. Börja den här veckan med ett litet nej, och se vad som faktiskt händer.

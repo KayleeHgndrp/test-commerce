@@ -1,9 +1,9 @@
 {
   "name": "Osobnostní test",
   "tagline": "Objevte pět základních rysů, které utvářejí to, kým jste.",
-  "intro": "Tento test mapuje vaši osobnost v pěti širokých rysech, které psychologové používají nejčastěji: otevřenosti, svědomitosti, extraverzi, přívětivosti a emoční citlivosti. Ohodnoťte 100 krátkých tvrzení podle toho, jak dobře vás vystihují. Zabere vám to asi pět minut a ukáže, jak přirozeně myslíte, cítíte a vztahujete se k druhým.",
-  "seoTitle": "Osobnostní test: profil rysů Big Five zdarma",
-  "seoDescription": "Pětiminutový osobnostní test Big Five zdarma: získejte jasný profil své otevřenosti, cílevědomosti, společenskosti, vřelosti a citlivosti.",
+  "intro": "Tento osobnostní test zdarma vás popíše v pěti rysech Velké pětky (Big Five), se kterými psychologové pracují nejčastěji: otevřenost, svědomitost, extraverze, přívětivost a emoční citlivost. Ohodnoťte 100 krátkých tvrzení podle toho, jak dobře vás vystihují. Zabere to asi pět minut, nepotřebujete registraci a svůj nejsilnější rys uvidíte hned po dokončení.",
+  "seoTitle": "Osobnostní test zdarma: Velká pětka (Big Five)",
+  "seoDescription": "Osobnostní test zdarma a bez registrace: 100 krátkých tvrzení, asi 5 minut. Profil Velké pětky, nejsilnější rys hned po testu a srozumitelné vysvětlení.",
   "items": [
     "Miluji objevování nových myšlenek, i neobvyklých.",
     "Své věci udržuji uklizené a v pořádku.",
@@ -143,5 +143,33 @@
       "high": "Emoce prožíváte intenzivně a jste citliví na stres. Možná si děláte hodně starostí, berete si kritiku k srdci nebo zjišťujete, že se vaše nálada rychle mění. Tato citlivost často jde ruku v ruce s empatií a bystrým okem pro rizika. Nevýhodou je, že se ve vás může hromadit napětí a vyčerpávat vás. Tip: zkoušejte uklidňující rituály, jako je pomalé dýchání, psaní deníku nebo každodenní procházka. Pokud obavy nebo skleslá nálada začnou ovládat vaše dny, zvažte rozhovor s kvalifikovaným odborníkem."
     }
   },
-  "summary": "Vaše osobnost je popsána v pěti širokých rysech, z nichž každý je hodnocen od 0 do 100 %. Neexistují dobrá ani špatná skóre: každá pozice má své silné stránky i úskalí. Vaše výsledky odrážejí, jak se vidíte dnes, a slouží k sebereflexi, ne jako diagnóza."
+  "summary": "Vaše osobnost je popsána v pěti širokých rysech, z nichž každý je hodnocen od 0 do 100 %. Neexistují dobrá ani špatná skóre: každá pozice má své silné stránky i úskalí. Vaše výsledky odrážejí, jak se vidíte dnes, a slouží k sebereflexi, ne jako diagnóza.",
+  "guide": {
+    "title": "Jak číst výsledek osobnostního testu",
+    "paragraphs": [
+      "Test vám dá skóre v pěti širokých rysech, které se objevují téměř ve všech seriózních modelech osobnosti. Psychologové jim říkají Velká pětka (Big Five): otevřenost, svědomitost, extraverze, přívětivost a emoční citlivost, kterou výzkum nazývá neuroticismus. Každý rys dostane skóre od 0 do 100 procent. Pod 35 se počítá jako nízké, mezi 35 a 65 jako střední a nad 65 jako vysoké. Na rozdíl od testů, které vás zařadí do jedné ze šestnácti škatulek, vás Velká pětka popisuje na plynulé škále. To lépe odpovídá tomu, jak se lidé skutečně liší. Většina lidí má aspoň ve dvou rysech střední skóre.",
+      "Nejvíc vám řekne kombinace rysů. Vezměte si dva lidi, kteří mají oba vysokou extraverzi. Jeden má zároveň vysokou přívětivost: je to kamarádka, která zorganizuje oslavu narozenin a postará se, aby se ke slovu dostal i ten nejtišší host. Druhý má přívětivost nízkou: mluví stejně rád, ale spíš na poradě prosadí svůj nápad a užije si pořádnou debatu. Nebo vysoká svědomitost. S nízkou emoční citlivostí vypadá jako klidné plánování. S vysokou citlivostí to může znamenat, že ve čtyři odpoledne odešlete e-mail, třikrát ho po sobě kontrolujete a večer v posteli na něj pořád myslíte.",
+      "Žádné skóre není samo o sobě dobré ani špatné. Nízká otevřenost často znamená praktičnost a stálost: člověka, kterého chcete mít u sebe, když se plán musí opravdu dotáhnout. Nízká extraverze neznamená stydlivost. Znamená, že vás společnost stojí energii a klidný večer vás zase nabije. Nejčastěji si lidé dělají starosti kvůli vysoké emoční citlivosti. Znamená, že stres a nezdary zaznamenáte dřív a cítíte je silněji. Může to být vyčerpávající, ale často to jde ruku v ruce s dobrým citem pro to, kdy ve skupině něco nehraje.",
+      "Použijte výsledek na jednu konkrétní situaci, ne jako nálepku. Pokud máte nízkou svědomitost, přestaňte to svádět na slabou vůli a pomozte si strukturou zvenčí: jeden kalendář, připomínky v telefonu a první krok na pět minut. Pokud máte vysokou přívětivost a pořád kývnete na věci, které vlastně nechcete, zkuste tento týden jednou říct malé ne. A zeptejte se někoho, kdo vás dobře zná, jak by vás v pěti rysech ohodnotil on. Tam, kde se vaše pohledy liší, to začíná být opravdu zajímavé.",
+      "Je dobré vědět, co test říká a co ne. Velká pětka je nejlépe prozkoumaný model v psychologii osobnosti a jejích pět rysů se objevuje v mnoha jazycích a kulturách. Tato verze je krátký sebeposuzovací dotazník: ukazuje, jak se vidíte teď, a vaše skóre vychází z vašich vlastních odpovědí, ne ze srovnání s velkou normativní skupinou. Náročný týden může zvednout skóre emoční citlivosti, proto odpovídejte podle toho, jací obvykle jste. Nejde o diagnózu a test není určený k výběru uchazečů o práci. Hned po testu zdarma uvidíte svůj nejsilnější rys; úplný report obsahuje všech pět skóre s vysvětlením. Pokud chcete víc podrobností, test Big Five (OCEAN) rozděluje každý rys na dva aspekty."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Je osobnostní test opravdu zdarma?",
+      "a": "Ano. Vyplnit test je zdarma a nepotřebujete účet. Po dokončení hned uvidíte svůj nejsilnější rys s krátkým popisem. Úplný report se všemi pěti skóre, s tím, co znamenají dohromady, a s praktickými tipy je placený doplněk. O něm se rozhodnete až poté, co uvidíte první výsledek."
+    },
+    {
+      "q": "Co je Velká pětka?",
+      "a": "Velká pětka neboli Big Five je model, který popisuje osobnost pěti širokými rysy: otevřeností, svědomitostí, extraverzí, přívětivostí a emoční citlivostí. Vznikl z výzkumu slov, kterými lidé v běžné řeči popisují druhé, a dnes s ním pracuje většina výzkumu osobnosti. Tento test na něm stojí, ale není to oficiální psychologický nástroj pro odborné vyšetření."
+    },
+    {
+      "q": "Jaký je rozdíl oproti testu 16 typů osobnosti?",
+      "a": "Typové testy, například ty založené na MBTI, vás zařadí do jedné ze šestnácti kategorií. Velká pětka vám dá skóre na pěti škálách, takže dva lidé se stejným typem se mohou i tak hodně lišit. Pokud vás typy baví, náš test 16 typů je zajímavé srovnání, ale Velká pětka vás popíše přesněji."
+    },
+    {
+      "q": "Může se můj výsledek změnit?",
+      "a": "Trochu. U dospělých jsou osobnostní rysy poměrně stálé, ale s léty se pomalu posouvají. Mnoho lidí s věkem trochu přidá na svědomitosti a přívětivosti a trochu ubere na emoční citlivosti. Roli hraje i nálada v den testu. Pro férové srovnání test zopakujte po půl roce nebo po roce."
+    }
+  ]
 }

@@ -159,6 +159,8 @@ Siitä on hyötyä, koska "olen miellyttäjä" on aika epämääräinen toteamus
 
 Mitä testi ei tee: se ei tee diagnoosia eikä tunne elämäsi taustaa. Jos hoidat sairasta vanhempaa tai pelkäät työpaikkasi puolesta, useampi myöntävä vastaus voi olla järkevä valinta eikä kaava. Tuloksesi on myös tilannekuva. Stressaavana aikana se voi olla tavallista korkeampi.
 
+Miellyttäjillä on usein myös korkea sovinnollisuus, joka on yksi Big Five -piirteistä. Jos haluat tietää, missä kohtaa olet siinä ja neljässä muussa piirteessä, ilmainen [persoonallisuustesti](/fi/personality) näyttää profiilisi.
+
 Miellyttäminen ei ole häiriö. Jos jatkuva antaminen kuitenkin uuvuttaa sinut tai muiden reaktioiden pelko estää sinua elämästä niin kuin haluaisit, voi auttaa, että puhut asiasta lääkärin tai psykologin kanssa. Jämäkkyyttä voi oppia, eikä sinun tarvitse opetella sitä yksin.
 
 Sinun ei tarvitse muuttua ihmiseksi, joka sanoo kaikkeen ei. Tavoite on, että sekä kyllä että ei ovat sinulta aitoja. Aloita tällä viikolla yhdellä pienellä kieltäytymisellä ja katso, mitä oikeasti tapahtuu.

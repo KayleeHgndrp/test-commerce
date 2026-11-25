@@ -157,6 +157,8 @@ To se hodí, protože „jsem people pleaser“ je dost obecné. Kdo se hlavně 
 
 Co test nedělá: nestanoví diagnózu a nezná souvislosti tvého života. Pokud se staráš o nemocného rodiče nebo se bojíš o práci, může být častější ano rozumná volba, a ne vzorec. Tvoje skóre je navíc snímek jedné chvíle. Ve stresovém období může vyjít vyšší než obvykle.
 
+Lidé, kteří se snaží vyhovět všem, mají často i vysoké skóre v přívětivosti, jednom z rysů Velké pětky. Jestli tě zajímá, kde jsi v ní a ve zbylých čtyřech rysech, ukáže ti to bezplatný [osobnostní test](/cs/personality).
+
 Vyhovování druhým není porucha. Pokud tě ale neustálé dávání vyčerpává nebo ti strach z reakcí druhých brání žít tak, jak chceš, může pomoct promluvit si s praktickým lékařem nebo psychologem. Asertivitě se dá naučit a nemusíš na to být sám.
 
 Nemusíš se stát někým, kdo na všechno říká ne. Cílem je, aby tvoje ano i tvoje ne byly skutečné. Začni tento týden jedním malým ne a podívej se, co se doopravdy stane.

@@ -1,9 +1,9 @@
 {
   "name": "Persoonallisuustesti",
   "tagline": "Löydä viisi keskeistä piirrettä, jotka tekevät sinusta sinut.",
-  "intro": "Tämä testi kartoittaa persoonallisuuttasi viiden laajan piirteen avulla, joita psykologit käyttävät eniten: avoimuus, tunnollisuus, ekstroversio, sovinnollisuus ja tunneherkkyys. Arvioi 100 lyhyttä väittämää sen mukaan, kuinka hyvin ne kuvaavat sinua. Testi vie noin viisi minuuttia ja näyttää, miten luontaisesti ajattelet, tunnet ja suhtaudut muihin.",
-  "seoTitle": "Persoonallisuustesti: ilmainen Big Five -profiili",
-  "seoDescription": "Tee ilmainen 5 minuutin Big Five -testi ja saat selkeän profiilin avoimuudestasi, tarmostasi, seurallisuudestasi, lämmöstäsi ja herkkyydestäsi.",
+  "intro": "Tämä ilmainen persoonallisuustesti kuvaa sinua Big Five -mallin viidellä piirteellä, joita psykologit käyttävät eniten: avoimuus, tunnollisuus, ekstroversio, sovinnollisuus ja tunneherkkyys. Arvioi 100 lyhyttä väittämää sen mukaan, kuinka hyvin ne kuvaavat sinua. Testi vie noin viisi minuuttia, et tarvitse tiliä ja näet vahvimman piirteesi heti, kun olet valmis.",
+  "seoTitle": "Ilmainen persoonallisuustesti: Big Five 5 minuutissa",
+  "seoDescription": "Tee ilmainen persoonallisuustesti 5 minuutissa ilman tiliä. Saat Big Five -profiilin viidestä piirteestä ja näet vahvimman piirteesi heti testin jälkeen.",
   "items": [
     "Rakastan uusien ideoiden tutkimista, epätavallistenkin.",
     "Pidän tavarani siisteinä ja järjestyksessä.",
@@ -143,5 +143,33 @@
       "high": "Tunnet tunteet voimakkaasti ja olet herkkä stressille. Saatat murehtia paljon, ottaa kritiikin raskaasti tai huomata mielialasi vaihtelevan nopeasti. Tähän herkkyyteen liittyy usein empatiaa ja tarkka silmä riskeille. Kääntöpuolena jännitys voi kasautua ja uuvuttaa sinut. Vinkki: harjoittele rauhoittavia rutiineja, kuten hidasta hengitystä, päiväkirjan kirjoittamista tai päivittäistä kävelyä. Jos huolet tai alakulo alkavat hallita päiviäsi, harkitse keskustelua pätevän ammattilaisen kanssa."
     }
   },
-  "summary": "Persoonallisuuttasi kuvataan viidellä laajalla piirteellä, joista kukin pisteytetään 0–100 %. Hyviä tai huonoja pistemääriä ei ole: jokaisella sijainnilla on omat vahvuutensa ja sudenkuoppansa. Tuloksesi kuvastavat sitä, miten näet itsesi tänään, ja ne on tarkoitettu itsetutkiskeluun, ei diagnoosiksi."
+  "summary": "Persoonallisuuttasi kuvataan viidellä laajalla piirteellä, joista kukin pisteytetään 0–100 %. Hyviä tai huonoja pistemääriä ei ole: jokaisella sijainnilla on omat vahvuutensa ja sudenkuoppansa. Tuloksesi kuvastavat sitä, miten näet itsesi tänään, ja ne on tarkoitettu itsetutkiskeluun, ei diagnoosiksi.",
+  "guide": {
+    "title": "Näin luet persoonallisuustestin tuloksen",
+    "paragraphs": [
+      "Testi antaa sinulle pisteet viidestä laajasta piirteestä, jotka toistuvat lähes kaikissa vakavasti otettavissa persoonallisuuden malleissa: avoimuus, tunnollisuus, ekstroversio, sovinnollisuus ja tunneherkkyys, jota tutkimuksessa kutsutaan neuroottisuudeksi. Kokonaisuutta kutsutaan Big Five -malliksi eli viiden suuren piirteen malliksi. Jokainen piirre saa pisteet asteikolla 0 ja 100 prosentin välillä. Alle 35 on matala, 35 ja 65 välillä keskitasoa ja yli 65 korkea. Toisin kuin testit, jotka sijoittavat sinut yhteen kuudestatoista lokerosta, Big Five kuvaa sinua liukuvalla asteikolla. Se vastaa paremmin sitä, miten ihmiset oikeasti eroavat toisistaan. Useimmilla ainakin kaksi piirrettä asettuu jonnekin keskivaiheille.",
+      "Kiinnostavin tieto löytyy piirteiden yhdistelmästä. Ajattele kahta ihmistä, joilla molemmilla on korkea ekstroversio. Toisella on myös korkea sovinnollisuus: hän on se ystävä, joka järjestää syntymäpäiväillallisen ja huolehtii, että hiljaisinkin vieras pääsee ääneen. Toisella sovinnollisuus on matala: hän puhuu yhtä mielellään, mutta ajaa palaverissa todennäköisemmin oman ideansa läpi ja nauttii kunnon väittelystä. Tai ajattele korkeaa tunnollisuutta. Matalan tunneherkkyyden kanssa se näyttää rauhalliselta suunnittelulta. Korkean tunneherkkyyden kanssa se voi tarkoittaa, että lähetät sähköpostin kello neljä, tarkistat sen kolmesti virheiden varalta ja mietit sitä vielä illalla sängyssä.",
+      "Mikään pistemäärä ei ole itsessään hyvä tai huono. Matala avoimuus tarkoittaa usein käytännöllisyyttä ja vakautta: juuri sitä ihmistä, jonka haluat mukaan, kun suunnitelma pitää oikeasti viedä loppuun. Matala ekstroversio ei ole sama asia kuin ujous. Se tarkoittaa, että seura vie energiaa ja rauhallinen ilta lataa akkuja. Korkeasta tunneherkkyydestä ihmiset ovat useimmiten huolissaan. Se tarkoittaa, että huomaat paineen ja vastoinkäymiset aiemmin ja tunnet ne voimakkaammin. Se voi olla raskasta, mutta siihen liittyy usein hyvä vaisto sille, milloin ryhmässä on jotain vialla.",
+      "Käytä tulostasi yhteen konkreettiseen tilanteeseen äläkä leimana. Jos tunnollisuutesi on matala, lakkaa syyttämästä tahdonvoimaasi ja tue itseäsi ulkoisella järjestyksellä: yksi kalenteri, muistutukset puhelimessa ja viiden minuutin ensimmäinen askel. Jos sovinnollisuutesi on korkea ja suostut jatkuvasti asioihin, joita et oikeasti halua, harjoittele tällä viikolla yhden pienen kieltävän vastauksen antamista. Kysy myös joltakulta, joka tuntee sinut hyvin, miten hän arvioisi sinut näillä viidellä piirteellä. Kohdat, joissa käsityksenne eroavat, ovat yleensä kaikkein kiinnostavimpia.",
+      "Hyvä tietää, mitä testi kertoo ja mitä ei. Big Five on persoonallisuuspsykologian tutkituin malli, ja sen viisi piirrettä toistuvat monissa kielissä ja kulttuureissa. Tämä versio on lyhyt itsearviointi: se näyttää, miten näet itsesi juuri nyt, ja pisteesi perustuvat omiin vastauksiisi eivätkä vertailuun suuren normiryhmän kanssa. Raskas viikko voi nostaa tunneherkkyyden pisteitä, joten vastaa sen mukaan, millainen yleensä olet. Testi ei ole diagnoosi eikä sitä ole tarkoitettu työnhakijoiden valintaan. Heti testin jälkeen näet ilmaiseksi vahvimman piirteesi; koko raportti antaa kaikki viisi pistemäärää selityksineen. Jos haluat tarkemman kuvan, Big Five (OCEAN) -testi jakaa jokaisen piirteen kahteen osa-alueeseen."
+    ]
+  },
+  "faq": [
+    {
+      "q": "Onko persoonallisuustesti ilmainen?",
+      "a": "Kyllä. Testin tekeminen on ilmaista, eikä sinun tarvitse luoda tiliä. Kun olet valmis, näet heti vahvimman piirteesi ja lyhyen kuvauksen. Koko raportti, jossa on kaikki viisi pistemäärää, niiden yhteinen merkitys ja käytännön vinkit, on maksullinen lisä. Siitä päätät vasta, kun olet nähnyt ensimmäisen tuloksesi."
+    },
+    {
+      "q": "Onko tämä tieteellinen persoonallisuustesti?",
+      "a": "Big Five -malli on persoonallisuuden malleista parhaiten tutkittu. Tämä lyhyt verkkoversio perustuu malliin, mutta se ei ole virallisesti validoitu psykologinen mittari, jollaisia psykologit käyttävät arvioinneissa. Pidä sitä hyvänä lähtökohtana itsetuntemukselle, älä ammattilaisen arviona."
+    },
+    {
+      "q": "Mitä eroa on tällä testillä ja 16 persoonallisuustyypin testillä?",
+      "a": "Tyyppitestit, kuten MBTI:hin perustuvat, sijoittavat sinut yhteen kuudestatoista luokasta. Big Five antaa pisteet viidellä asteikolla, joten kaksi samaa tyyppiä olevaa ihmistä voi silti erota paljon. Jos tyypit kiinnostavat, 16 tyypin testimme on hauska vertailukohta, mutta Big Five kuvaa sinua tarkemmin."
+    },
+    {
+      "q": "Voiko tulokseni muuttua?",
+      "a": "Hieman. Aikuisilla persoonallisuuden piirteet ovat melko pysyviä, mutta ne muuttuvat hitaasti vuosien mittaan. Moni muuttuu iän myötä hieman tunnollisemmaksi ja sovinnollisemmaksi ja vähemmän tunneherkäksi. Myös päivän mieliala vaikuttaa. Tee testi uudelleen puolen vuoden tai vuoden päästä, niin saat reilun vertailun."
+    }
+  ]
 }
