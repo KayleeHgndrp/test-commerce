@@ -1,0 +1,341 @@
+{
+  "slug": "ocd",
+  "kind": "likert",
+  "scale": "frequency",
+  "category": "screeners",
+  "minutes": 5,
+  "icon": "🔁",
+  "outcome": "dimensions",
+  "dimensions": [
+    "contamination",
+    "checking",
+    "intrusive_thoughts",
+    "order",
+    "rituals"
+  ],
+  "items": [
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "contamination",
+      "rev": true
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "order",
+      "rev": true
+    },
+    {
+      "dim": "contamination",
+      "rev": true
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "rituals",
+      "rev": true
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "contamination",
+      "rev": true
+    },
+    {
+      "dim": "checking",
+      "rev": true
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "order",
+      "rev": true
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "order",
+      "rev": true
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "contamination",
+      "rev": true
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "order",
+      "rev": true
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "checking",
+      "rev": true
+    },
+    {
+      "dim": "intrusive_thoughts",
+      "rev": true
+    },
+    {
+      "dim": "order",
+      "rev": true
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "intrusive_thoughts",
+      "rev": true
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "rituals",
+      "rev": true
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "rituals",
+      "rev": true
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "intrusive_thoughts",
+      "rev": true
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "checking",
+      "rev": true
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "contamination",
+      "rev": true
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "checking",
+      "rev": true
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "checking",
+      "rev": true
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "contamination"
+    },
+    {
+      "dim": "checking"
+    },
+    {
+      "dim": "intrusive_thoughts"
+    },
+    {
+      "dim": "rituals"
+    },
+    {
+      "dim": "order"
+    },
+    {
+      "dim": "rituals",
+      "rev": true
+    },
+    {
+      "dim": "intrusive_thoughts",
+      "rev": true
+    },
+    {
+      "dim": "order"
+    }
+  ]
+}
