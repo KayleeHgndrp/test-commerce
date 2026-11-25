@@ -7,13 +7,12 @@ elke woensdag en bouwt alleen een test als "Volgende test" vandaag of eerder is.
 Toestemming 13 nov 2026: Studio heeft staande toestemming gegeven om nieuwe tests (en blogs)
 zelf te mergen. Een nieuwe test wordt dus direct gemerged zodra alle controles groen zijn.
 
-Volgende test: 2026-11-25
+Volgende test: 2026-12-09
 
 ## Wachtrij (bovenste eerst; mag bijgestuurd worden op Search Console-data)
 
 | # | slug (voorstel) | test | categorie | opmerking |
 | - | --------------- | ---- | --------- | --------- |
-| 2 | ocd | OCD-test (dwang) | screeners | eigen items over controleren, smetvrees, ongewenste gedachten, ordenen; geen gelicentieerde lijst kopiëren (Y-BOCS/OCI-R niet letterlijk) |
 | 3 | self-esteem | Eigenwaarde-test | wellbeing | Rosenberg (RSES) is vrij te gebruiken; 10 items embedden als instrument met eigen banden is mogelijk |
 | 4 | codependency | Codependency-test / ongezonde relatie | relationships | eigen items |
 | 5 | dark-triad | Dark triad-test | personality | dimensies narcisme, machiavellisme, psychopathie; eigen items, niet-veroordelend |
@@ -26,6 +25,7 @@ Volgende test: 2026-11-25
 | datum | slug | PR |
 | ----- | ---- | -- |
 | 2026-11-11 | anxiety (GAD-7) | #22 (gemerged 13 nov) |
+| 2026-11-25 | ocd | #40 |
 
 ## Werkwijze per test
 
