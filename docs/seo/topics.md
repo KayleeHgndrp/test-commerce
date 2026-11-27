@@ -8,6 +8,7 @@ Zet na publicatie de datum en de Engelse slug erbij. Voeg nieuwe onderwerpen toe
 
 | Datum | translationKey | Onderwerp | Test |
 |---|---|---|---|
+| 2026-11-27 | big-five-vs-mbti (en: big-five-vs-mbti) | Big Five of MBTI: welke persoonlijkheidstest is betrouwbaarder, hokjes tegenover schalen en waarom je 16 persoonlijkheden-type kan wisselen (bovenaan de wachtrij; Search Console 28 dagen: "16 persoonlijkheden" NL pos 10, "16 persoonallisuustyyppiä" FI pos 9, "16 personlighedstyper test" DA pos 12,5, "big five" pos 39). Alleen in de 7 focustalen. | big-five, 16-types |
 | 2026-11-23 | autism-signs-adults (en: autism-in-adults-signs) | Autisme bij volwassenen: kenmerken die vaak gemist worden, camoufleren (masking) en wat een zelftest zegt (bovenaan de wachtrij; Search Console 28 dagen: "autismus test zdarma" CS pos 12, eerder "autismus test dospělých online zdarma" CS pos 10 en "ilmainen autismi testi aikuiselle" FI pos 11). Alleen in de 7 focustalen. | autism |
 | 2026-11-20 | adhd-signs-adults (en: adhd-in-adults-signs) | ADHD bij volwassenen: kenmerken, waarom vrouwen vaak gemist worden en wat een zelftest zegt (gekozen op Search Console 28 dagen: "adhd testi" FI pos 17, "adhd testi aikuiselle" FI pos 22, plus veel zoekvragen naar ADHD bij vrouwen en meisjes in SV/DA: "adhd kvinnor test", "adhd tjejer test", "adhd kvinder test"). Alleen in de 7 focustalen. | adhd |
 | 2026-11-16 | bpd-signs-adults (en: signs-of-bpd-in-adults) | Borderline (BPD) bij volwassenen: signalen, en wat een zelftest wel en niet zegt (gekozen op Search Console: bpd testi FI pos 7.6, granični poremećaj ličnosti test HR pos 5, hraničná porucha SK pos 8, borderline test RO pos 32) | bpd |
@@ -31,7 +32,6 @@ Taalvoorrang (9 nov 2026): de meeste vertoningen komen uit DA, SV, CS, DE en FI,
 
 | translationKey | Onderwerp | Test | Zoekvraag (en) |
 |---|---|---|---|
-| big-five-vs-mbti | Big Five of MBTI: welke test is betrouwbaarder | big-five | big five vs mbti |
 | chronotype-morning-evening | Ochtendmens of avondmens: wat je chronotype zegt | chronotype | am I a night owl or early bird (DA: døgnrytme test, a eller b menneske test) |
 | imposter-syndrome-new-job | Imposter syndroom in een nieuwe baan | imposter | imposter syndrome new job (SV: bluffsyndromet test) |
 | trauma-signs-ptsd | Signalen van onverwerkt trauma, en wanneer het PTSS kan zijn | trauma | trauma test |
