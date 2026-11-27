@@ -14,7 +14,7 @@ Search Console (30 okt t/m 12 nov): de testpagina's leveren bijna alle klikken e
 de blogs samen nog geen 10%. Drie volledige artikelen per week in 32 talen is ook veel tekst in korte
 tijd, en Google kan dat als massacontent zien. Daarom vanaf nu:
 
-- **Maandag en vrijdag:** een nieuw artikel zoals hieronder beschreven.
+- **Maandag en vrijdag:** een nieuw artikel zoals hieronder beschreven. (Vervangen op 27 nov: zie hieronder.)
 - **Woensdag: GEEN nieuw artikel.** In plaats daarvan één testpagina verbeteren (zie "Testpagina verbeteren").
 - Een artikel gaat alleen live in een taal als het daar echt goed leest. Twijfel je over een taal,
   schrijf die dan opnieuw in plaats van een matige versie te publiceren.
@@ -35,6 +35,33 @@ over ~1.600 vergelijkbare pagina's in 32 talen. Daarom (akkoord Studio 17 nov):
 - Elke maandag in `gsc-log.md` noteren hoeveel vertoningen er per dag zijn. Zit dat 2 weken boven 100 per dag,
   stel Studio dan voor één taal terug te zetten (eerst de, dan fr).
 
+## Bijsturing 27 nov 2026: Google herstellen gaat voor nieuwe inhoud
+
+Sinds 12 nov krijgt de site bijna geen vertoningen meer (eind nov 0 tot 1 per dag, was ~900). Meer pagina's
+publiceren helpt dan niet; sterkere bestaande pagina's wel. Akkoord Studio 27 nov. Vanaf nu:
+
+- **Maandag 6:40: geen nieuw artikel.** Eén bestaand artikel sterker maken (zie "Bestaand artikel sterker maken").
+- **Woensdag 6:40:** testpagina verbeteren (blijft zoals hieronder).
+- **Vrijdag 6:40:** het enige nieuwe artikel van de week. Alleen als het aansluit op een van de top 10 tests
+  of op een zoekvraag uit Search Console. Twijfel je over kwaliteit of past niets: sla de week over en maak
+  in plaats daarvan nog een bestaand artikel sterker.
+- **Maandag 10:17 (weekcheck):** meten, titels/meta's en audit. De artikelupdate is verhuisd naar maandag 6:40.
+- Meetpunt en normen staan in de scorecard (`/mnt/project-files/business/scorecard.md`, kanaal Google).
+  Hoofdcijfer: gemiddelde vertoningen per dag over 7 dagen. Herstelt dat tot boven 100 per dag, dan mag de
+  bedrijfsupdate voorstellen het tempo weer te verhogen (eerst 2 artikelen per week).
+
+## Bestaand artikel sterker maken (maandag om 6:40)
+
+1. Kies het artikel: eerst artikelen die in Search Console vertoningen hadden (ook de periode 4 t/m 11 nov,
+   voor de val), anders het artikel dat het dunst is of het langst niet is bijgewerkt. Niet hetzelfde artikel
+   als in de afgelopen 4 weken (zie `gsc-log.md`).
+2. Controleer in de focustalen: beantwoordt het de zoekvraag in de eerste alinea, zijn de voorbeelden echt en
+   specifiek, is er herhaling of opvulling (schrappen), overlapt het met een ander artikel (samenvoegen en
+   naar het sterkste artikel linken), kloppen titel en meta, zijn er interne links naar de test en 2 artikelen.
+3. Zet `updated` op vandaag. `npm run check:blog` en `npm run build` moeten slagen.
+4. Noteer in `gsc-log.md` onder "Artikelupdates" welk artikel en wat er is veranderd.
+5. Branch `seo/update-JJJJ-MM-DD`, commit, pull request naar main. Automatisch publiceren = ja: mergen.
+
 ## Testpagina verbeteren (woensdag om 6:40)
 
 1. `npm run gsc -- 28 query,page 1000`. Kies de testpagina (`/{taal}/{test}`) met de meeste vertoningen
@@ -48,7 +75,7 @@ over ~1.600 vergelijkbare pagina's in 32 talen. Daarom (akkoord Studio 17 nov):
 5. Noteer in `gsc-log.md` welke test is verbeterd, met datum.
 6. Branch `seo/testpagina-JJJJ-MM-DD`, commit, pull request naar main. Automatisch publiceren = ja: mergen.
 
-## Nieuw artikel (maandag en vrijdag om 6:40)
+## Nieuw artikel (alleen vrijdag om 6:40, zie bijsturing 27 nov)
 
 1. Pak het bovenste onderwerp uit de wachtrij in `topics.md`. Zijn er Search Console-gegevens
    (`npm run gsc -- 28 query 200`), kies dan liever een zoekvraag met vertoningen op positie 8 tot 30.
@@ -65,7 +92,10 @@ over ~1.600 vergelijkbare pagina's in 32 talen. Daarom (akkoord Studio 17 nov):
 2. Pagina's met veel vertoningen en een CTR onder 2%: `seoTitle` en `metaDescription` herschrijven.
 3. Zoekvragen op positie 8 tot 30 zonder eigen artikel: bovenaan de wachtrij in `topics.md`.
 4. Korte samenvatting in `gsc-log.md` (datum, vertoningen, klikken, opvallende zoekvragen, wat er is aangepast).
-5. Werk één bestaand artikel bij (in de focustalen): kies het artikel met de meeste vertoningen op positie 5 tot 20, of zonder data het oudste. Vul aan met wat zoekers missen (nieuwe tussenkop, voorbeelden, FAQ), verbeter titel en meta, voeg interne links toe en zet `updated` op vandaag.
+5. Herstelcheck: URL-inspectie van de 10 belangrijkste pagina's (top 10 tests in en/nl plus de 3 sterkste artikelen).
+   Noteer per pagina de status (geindexeerd of "Crawled, currently not indexed") en de laatste crawldatum in `gsc-log.md`.
+   Zet het 7-daags gemiddelde van vertoningen per dag in de scorecard (kanaal Google). De artikelupdate gebeurt sinds
+   27 nov op maandag 6:40.
 6. Is de datum van "Volgende audit" in `audit-log.md` bereikt: volledige on-page audit (zie hieronder).
 
 ## On-page audit (elke 6 weken)
